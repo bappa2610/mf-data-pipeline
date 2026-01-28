@@ -2,8 +2,12 @@ name: Update Mutual Fund Data
 
 on:
   schedule:
-    # Daily at 4:00 AM IST (22:30 UTC)
+    # DAILY – 4:00 AM IST → 22:30 UTC previous day
     - cron: '30 22 * * *'
+
+    # WEEKLY – Saturday 4:00 AM IST → Friday 22:30 UTC
+    - cron: '30 22 * * 5'
+
   workflow_dispatch:
 
 jobs:
@@ -20,33 +24,41 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests
-
-      - name: Ensure data folders exist
         run: |
-          mkdir -p data
-          mkdir -p data/nav_history
+          pip install requests pandas sqlite3
 
-      # ---------------- DAILY ---------------- #
+      - name: Create data directory
+        run: mkdir -p data
 
-      - name: Update Scheme Codes (Daily)
+      # ---------------- DAILY SCRIPTS ----------------
+      - name: Fetch Scheme Codes (Daily)
         run: python scripts/fetch_scheme_codes.py
 
-      - name: Update NAV History (Daily)
+      - name: Fetch NAV History (Daily – Incremental)
         run: python scripts/fetch_nav_history.py
 
-      # ---------------- WEEKLY ---------------- #
-      # Runs only on Monday
-      - name: Update Scheme Categories (Weekly)
-        if: github.event.schedule == '30 22 * * 1'
+      - name: Build NAV SQLite Database (Daily)
+        run: python scripts/build_nav_sqlite.py
+
+      - name: Export NAV Wide Table from SQLite (Daily)
+        run: python scripts/export_nav_wide_sqlite.py
+
+      - name: Export Master NAV History CSV (Daily)
+        run: python scripts/export_nav_master_csv.py
+
+      - name: Build Master File (Daily)
+        run: python scripts/build_master_file.py
+
+      # ---------------- WEEKLY SCRIPT ----------------
+      - name: Fetch Scheme Categories (Weekly – Saturday)
+        if: github.event.schedule == '30 22 * * 5'
         run: python scripts/fetch_scheme_categories.py
 
-      # ---------------- COMMIT ---------------- #
-
-      - name: Commit and Push Changes
+      # ---------------- COMMIT & PUSH ----------------
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add .
-          git commit -m "Auto update mutual fund data" || echo "No changes to commit"
+          git commit -m "Auto update MF data" || echo "No changes"
           git push
