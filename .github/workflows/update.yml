@@ -26,8 +26,6 @@ jobs:
         run: |
           pip install requests pandas
 
-      - name: Create data directory
-        run: mkdir -p data
 
       # -------- DAILY SCRIPTS (4 AM IST) --------
       - name: Fetch Scheme Codes
