@@ -34,14 +34,15 @@ jobs:
       - name: Fetch Scheme Codes (Daily)
         run: python scripts/fetch_scheme_codes.py
 
+      - name: Build Master File (Daily)
+        run: python scripts/build_master_file.py
+        
       - name: Fetch NAV History (Daily)
         run: python scripts/fetch_nav_history.py
 
       - name: Export NAV Wide CSV (Daily)
         run: python scripts/export_nav_wide.py
 
-      - name: Build Master File (Daily)
-        run: python scripts/build_master_file.py
 
       # -------- WEEKLY SCRIPT (Saturday 4 AM IST) --------
       - name: Fetch Scheme Categories (Weekly)
