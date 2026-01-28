@@ -1,20 +1,27 @@
 import csv
+import os
 
 codes = {}
 categories = {}
 
-# Load scheme_codes.csv
-with open("data/scheme_codes.csv", newline="", encoding="utf-8") as f:
+DATA_DIR = "data"
+MASTER_FILE = os.path.join(DATA_DIR, "mf_master.csv")
+
+# ---------------- ENSURE DATA FOLDER EXISTS ----------------
+os.makedirs(DATA_DIR, exist_ok=True)
+
+# ---------------- LOAD scheme_codes.csv ----------------
+with open(os.path.join(DATA_DIR, "scheme_codes.csv"), newline="", encoding="utf-8") as f:
     for r in csv.DictReader(f):
         codes[r["SchemeCode"]] = r
 
-# Load scheme_categories.csv
-with open("data/scheme_categories.csv", newline="", encoding="utf-8") as f:
+# ---------------- LOAD scheme_categories.csv ----------------
+with open(os.path.join(DATA_DIR, "scheme_categories.csv"), newline="", encoding="utf-8") as f:
     for r in csv.DictReader(f):
         categories[r["SchemeCode"]] = r
 
-# Write final master file
-with open("mf_master.csv", "w", newline="", encoding="utf-8") as f:
+# ---------------- WRITE MASTER FILE ----------------
+with open(MASTER_FILE, "w", newline="", encoding="utf-8") as f:
     writer = csv.writer(f)
 
     writer.writerow([
@@ -46,4 +53,4 @@ with open("mf_master.csv", "w", newline="", encoding="utf-8") as f:
             c.get("SubCategory", "")
         ])
 
-print(f"MF master file created with {len(codes)} records")
+print(f"MF master file created at {MASTER_FILE} with {len(codes)} records ✅")
