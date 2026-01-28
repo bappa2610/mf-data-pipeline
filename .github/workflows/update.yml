@@ -1,16 +1,17 @@
 name: Update Mutual Fund Data
 
 on:
-  # DAILY – 4:00 AM IST → 22:30 UTC (previous day)
   schedule:
+    # DAILY – 4:00 AM IST (22:30 UTC previous day)
     - cron: '30 22 * * *'
 
-  # Manual trigger
+    # WEEKLY – Saturday 4:00 AM IST (Friday 22:30 UTC)
+    - cron: '30 22 * * 5'
+
   workflow_dispatch:
 
 jobs:
-  daily-update:
-    name: Daily MF Update
+  update:
     runs-on: ubuntu-latest
 
     steps:
@@ -26,51 +27,25 @@ jobs:
         run: |
           pip install requests pandas
 
+      - name: Create data directory
+        run: mkdir -p data
 
       # -------- DAILY SCRIPTS (4 AM IST) --------
-      - name: Fetch Scheme Codes
+      - name: Fetch Scheme Codes (Daily)
         run: python scripts/fetch_scheme_codes.py
 
-      - name: Fetch NAV History
+      - name: Fetch NAV History (Daily)
         run: python scripts/fetch_nav_history.py
 
-      - name: Export NAV Wide CSV
+      - name: Export NAV Wide CSV (Daily)
         run: python scripts/export_nav_wide.py
 
-      - name: Build Master File
+      - name: Build Master File (Daily)
         run: python scripts/build_master_file.py
 
-      # -------- COMMIT & PUSH --------
-      - name: Commit and push changes
-        run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          git add .
-          git commit -m "Daily MF data update" || echo "No changes"
-          git push
-
-  weekly-update:
-    name: Weekly MF Categories Update
-    runs-on: ubuntu-latest
-
-    # SATURDAY – 4:00 AM IST → Friday 22:30 UTC
-    if: github.event_name == 'schedule'
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-
-      - name: Install dependencies
-        run: |
-          pip install requests pandas
-
-      # -------- WEEKLY SCRIPT --------
+      # -------- WEEKLY SCRIPT (Saturday 4 AM IST) --------
       - name: Fetch Scheme Categories (Weekly)
+        if: github.event.schedule == '30 22 * * 5'
         run: python scripts/fetch_scheme_categories.py
 
       # -------- COMMIT & PUSH --------
@@ -79,5 +54,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add .
-          git commit -m "Weekly MF scheme categories update" || echo "No changes"
+          git commit -m "Auto update MF data" || echo "No changes"
           git push
