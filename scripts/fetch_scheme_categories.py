@@ -1,95 +1,132 @@
 import csv
 import requests
-import os
 import time
-from datetime import datetime
+import os
+import sys
 
-CODES_FILE = "data/scheme_codes.csv"
-NAV_DIR = "data/nav_history"
+CATEGORY_FILE = "data/scheme_categories.csv"
+CODE_FILE = "data/scheme_codes.csv"
 
-REQUEST_DELAY = 0.12
+# ---------- ADAPTIVE SETTINGS ---------- #
+BASE_REQUEST_DELAY = 0.12
+BASE_CHUNK_DELAY = 6
 
-os.makedirs(NAV_DIR, exist_ok=True)
+FIELDNAMES = [
+    "SchemeCode",
+    "AMC",
+    "SchemeType",
+    "CategoryRaw",
+    "Category",
+    "SubCategory"
+]
+
+existing = {}
+
+# ---------- LOAD EXISTING DATA ---------- #
+if os.path.exists(CATEGORY_FILE):
+    with open(CATEGORY_FILE, newline="", encoding="utf-8") as f:
+        for row in csv.DictReader(f):
+            existing[row["SchemeCode"]] = row
+
+# ---------- LOAD SCHEME CODES ---------- #
+with open(CODE_FILE, newline="", encoding="utf-8") as f:
+    codes = list(csv.DictReader(f))
+
+pending_codes = [r for r in codes if r["SchemeCode"] not in existing]
+
+total_pending = len(pending_codes)
+print(f"Pending schemes: {total_pending}")
+
+if total_pending == 0:
+    print("Nothing to process. Exiting ✅")
+    sys.exit(0)
+
+# ---------- ADAPTIVE CHUNK SIZE ---------- #
+if total_pending > 8000:
+    CHUNK_SIZE = 100
+    REQUEST_DELAY = 0.10
+elif total_pending > 2000:
+    CHUNK_SIZE = 75
+    REQUEST_DELAY = 0.12
+else:
+    CHUNK_SIZE = 50
+    REQUEST_DELAY = 0.15
+
+print(
+    f"Using CHUNK_SIZE={CHUNK_SIZE}, "
+    f"REQUEST_DELAY={REQUEST_DELAY}s"
+)
 
 session = requests.Session()
 session.headers.update({"User-Agent": "Mozilla/5.0"})
 
-def get_last_saved_date(filepath):
-    """Return last saved NAV date (YYYY-MM-DD) or None"""
-    if not os.path.exists(filepath):
-        return None
-
-    with open(filepath, newline="", encoding="utf-8") as f:
-        rows = list(csv.DictReader(f))
-        if not rows:
-            return None
-        return rows[-1]["Date"]
-
-with open(CODES_FILE, newline="", encoding="utf-8") as f:
-    schemes = list(csv.DictReader(f))
-
-total = len(schemes)
-print(f"Total schemes in master: {total}")
-
-for idx, scheme in enumerate(schemes, start=1):
-    scheme_code = scheme["SchemeCode"]
-    filepath = f"{NAV_DIR}/{scheme_code}.csv"
-
-    last_date = get_last_saved_date(filepath)
-    is_new_scheme = last_date is None
+# ---------- PROCESS IN CHUNKS ---------- #
+for i in range(0, total_pending, CHUNK_SIZE):
+    chunk = pending_codes[i:i + CHUNK_SIZE]
 
     print(
-        f"[{idx}/{total}] "
-        f"{scheme_code} | "
-        f"{'NEW' if is_new_scheme else 'UPDATE'}"
+        f"\nProcessing chunk {i // CHUNK_SIZE + 1} "
+        f"({i + 1}-{i + len(chunk)})"
     )
 
-    try:
-        r = session.get(
-            f"https://api.mfapi.in/mf/{scheme_code}",
-            timeout=(5, 15)
-        )
+    for row in chunk:
+        scheme_code = row["SchemeCode"]
 
-        if r.status_code != 200:
-            continue
+        try:
+            r = session.get(
+                f"https://api.mfapi.in/mf/{scheme_code}",
+                timeout=(5, 10)
+            )
 
-        api_data = r.json().get("data", [])
-        if not api_data:
-            continue
-
-        new_rows = []
-
-        # API gives latest first → reverse for chronological append
-        for row in reversed(api_data):
-            nav_date = datetime.strptime(
-                row["date"], "%d-%m-%Y"
-            ).date().isoformat()
-
-            if last_date and nav_date <= last_date:
+            if r.status_code != 200:
                 continue
 
-            new_rows.append({
-                "Date": nav_date,
-                "NAV": row["nav"]
-            })
+            meta = r.json().get("meta", {})
+            if not meta:
+                continue
 
-        if not new_rows:
-            print("   ↳ No new NAV")
-            continue
+            amc = meta.get("fund_house", "").strip()
+            scheme_type = meta.get("scheme_type", "").strip()
+            category_raw = meta.get("scheme_category", "").strip()
 
-        file_exists = os.path.exists(filepath)
+            if not category_raw:
+                continue
 
-        with open(filepath, "a", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=["Date", "NAV"])
-            if not file_exists:
-                writer.writeheader()
-            writer.writerows(new_rows)
+            # ---------- CATEGORY SPLIT ---------- #
+            cleaned_category = category_raw.replace(" Scheme", "").strip()
 
-        print(f"   ↳ Added {len(new_rows)} rows")
+            if " - " in category_raw:
+                category, sub_category = cleaned_category.split(" - ", 1)
+                category = category.strip()
+                sub_category = sub_category.strip()
+            else:
+                category = cleaned_category
+                sub_category = ""
 
-        time.sleep(REQUEST_DELAY)
+            existing[scheme_code] = {
+                "SchemeCode": scheme_code,
+                "AMC": amc,
+                "SchemeType": scheme_type,
+                "CategoryRaw": category_raw,
+                "Category": category,
+                "SubCategory": sub_category
+            }
 
-    except Exception as e:
-        print("   ERROR:", e)
+            time.sleep(REQUEST_DELAY)
 
-print("\nNAV history update completed ✅")
+        except Exception as e:
+            print("Error:", scheme_code, e)
+
+    # ---------- SAVE AFTER EACH CHUNK ---------- #
+    os.makedirs("data", exist_ok=True)
+
+    with open(CATEGORY_FILE, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=FIELDNAMES)
+        writer.writeheader()
+        for v in existing.values():
+            writer.writerow(v)
+
+    print("Chunk saved ✅")
+    time.sleep(BASE_CHUNK_DELAY)
+
+print("\nAll chunks processed successfully 🎉")
