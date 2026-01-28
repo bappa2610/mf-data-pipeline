@@ -2,7 +2,8 @@ name: Update Mutual Fund Data
 
 on:
   schedule:
-    - cron: '0 3 * * 1'
+    # Daily at 4:00 AM IST (22:30 UTC)
+    - cron: '30 22 * * *'
   workflow_dispatch:
 
 jobs:
@@ -10,23 +11,42 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - run: pip install requests
+      - name: Install dependencies
+        run: pip install requests
 
-      - run: mkdir -p data
+      - name: Ensure data folders exist
+        run: |
+          mkdir -p data
+          mkdir -p data/nav_history
 
-      - run: python scripts/fetch_scheme_codes.py
-      - run: python scripts/fetch_scheme_categories.py
-      - run: python scripts/build_master_file.py
+      # ---------------- DAILY ---------------- #
 
-      - run: |
+      - name: Update Scheme Codes (Daily)
+        run: python scripts/fetch_scheme_codes.py
+
+      - name: Update NAV History (Daily)
+        run: python scripts/fetch_nav_history.py
+
+      # ---------------- WEEKLY ---------------- #
+      # Runs only on Monday
+      - name: Update Scheme Categories (Weekly)
+        if: github.event.schedule == '30 22 * * 1'
+        run: python scripts/fetch_scheme_categories.py
+
+      # ---------------- COMMIT ---------------- #
+
+      - name: Commit and Push Changes
+        run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add .
-          git commit -m "Auto update MF data" || echo "No changes"
+          git commit -m "Auto update mutual fund data" || echo "No changes to commit"
           git push

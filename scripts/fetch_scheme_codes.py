@@ -1,54 +1,95 @@
-import requests
 import csv
+import requests
+import os
+import time
+from datetime import datetime
 
-url = "https://www.amfiindia.com/spages/NAVAll.txt"
-text = requests.get(url, timeout=20).text
+CODES_FILE = "data/scheme_codes.csv"
+NAV_DIR = "data/nav_history"
 
-rows = {}
+REQUEST_DELAY = 0.12
 
-current_amc = ""
+os.makedirs(NAV_DIR, exist_ok=True)
 
-for line in text.splitlines():
-    line = line.strip()
-    if not line:
-        continue
+session = requests.Session()
+session.headers.update({"User-Agent": "Mozilla/5.0"})
 
-    # AMC name line
-    if ";" not in line:
-        current_amc = line
-        continue
+def get_last_saved_date(filepath):
+    """Return last saved NAV date (YYYY-MM-DD) or None"""
+    if not os.path.exists(filepath):
+        return None
 
-    parts = line.split(";")
+    with open(filepath, newline="", encoding="utf-8") as f:
+        rows = list(csv.DictReader(f))
+        if not rows:
+            return None
+        return rows[-1]["Date"]
 
-    if not parts[0].isdigit():
-        continue
+with open(CODES_FILE, newline="", encoding="utf-8") as f:
+    schemes = list(csv.DictReader(f))
 
-    scheme_code = parts[0]
-    isin_growth = parts[2] or parts[1]
-    scheme_name = parts[3]
-    nav = parts[4]
-    nav_date = parts[5]
+total = len(schemes)
+print(f"Total schemes in master: {total}")
 
-    rows[scheme_code] = [
-        scheme_code,
-        current_amc,
-        scheme_name,
-        isin_growth,
-        nav,
-        nav_date
-    ]
+for idx, scheme in enumerate(schemes, start=1):
+    scheme_code = scheme["SchemeCode"]
+    filepath = f"{NAV_DIR}/{scheme_code}.csv"
 
-with open("data/scheme_codes.csv", "w", newline="", encoding="utf-8") as f:
-    writer = csv.writer(f)
-    writer.writerow([
-        "SchemeCode",
-        "AMC",
-        "SchemeName",
-        "ISIN",
-        "NAV",
-        "NAVDate"
-    ])
-    for r in rows.values():
-        writer.writerow(r)
+    last_date = get_last_saved_date(filepath)
+    is_new_scheme = last_date is None
 
-print(f"Saved {len(rows)} schemes with NAV data")
+    print(
+        f"[{idx}/{total}] "
+        f"{scheme_code} | "
+        f"{'NEW' if is_new_scheme else 'UPDATE'}"
+    )
+
+    try:
+        r = session.get(
+            f"https://api.mfapi.in/mf/{scheme_code}",
+            timeout=(5, 15)
+        )
+
+        if r.status_code != 200:
+            continue
+
+        api_data = r.json().get("data", [])
+        if not api_data:
+            continue
+
+        new_rows = []
+
+        # API gives latest first → reverse for chronological append
+        for row in reversed(api_data):
+            nav_date = datetime.strptime(
+                row["date"], "%d-%m-%Y"
+            ).date().isoformat()
+
+            if last_date and nav_date <= last_date:
+                continue
+
+            new_rows.append({
+                "Date": nav_date,
+                "NAV": row["nav"]
+            })
+
+        if not new_rows:
+            print("   ↳ No new NAV")
+            continue
+
+        file_exists = os.path.exists(filepath)
+
+        with open(filepath, "a", newline="", encoding="utf-8") as f:
+            writer = csv.DictWriter(f, fieldnames=["Date", "NAV"])
+            if not file_exists:
+                writer.writeheader()
+            writer.writerows(new_rows)
+
+        print(f"   ↳ Added {len(new_rows)} rows")
+
+        time.sleep(REQUEST_DELAY)
+
+    except Exception as e:
+        print("   ERROR:", e)
+
+print("\nNAV history update completed ✅")
