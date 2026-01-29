@@ -1,21 +1,20 @@
 import csv
 import os
 
-codes = {}
-categories = {}
-
 DATA_DIR = "data"
 MASTER_FILE = os.path.join(DATA_DIR, "mf_master.csv")
 
-# ---------------- ENSURE DATA FOLDER EXISTS ----------------
 os.makedirs(DATA_DIR, exist_ok=True)
 
-# ---------------- LOAD scheme_codes.csv ----------------
+# ---------------- LOAD scheme_codes.csv (ORDER PRESERVED) ----------------
+codes = []
 with open(os.path.join(DATA_DIR, "scheme_codes.csv"), newline="", encoding="utf-8") as f:
-    for r in csv.DictReader(f):
-        codes[r["SchemeCode"]] = r
+    reader = csv.DictReader(f)
+    for r in reader:
+        codes.append(r)
 
-# ---------------- LOAD scheme_categories.csv ----------------
+# ---------------- LOAD scheme_categories.csv (LOOKUP MAP) ----------------
+categories = {}
 with open(os.path.join(DATA_DIR, "scheme_categories.csv"), newline="", encoding="utf-8") as f:
     for r in csv.DictReader(f):
         categories[r["SchemeCode"]] = r
@@ -30,14 +29,15 @@ with open(MASTER_FILE, "w", newline="", encoding="utf-8") as f:
         "SchemeName",
         "ISIN",
         "NAV",
-        "NAVDate",
+        "Date",
         "SchemeType",
         "CategoryRaw",
         "Category",
         "SubCategory"
     ])
 
-    for code, s in codes.items():
+    for s in codes:
+        code = s["SchemeCode"]
         c = categories.get(code, {})
 
         writer.writerow([
@@ -46,7 +46,7 @@ with open(MASTER_FILE, "w", newline="", encoding="utf-8") as f:
             s.get("SchemeName", ""),
             s.get("ISIN", ""),
             s.get("NAV", ""),
-            s.get("NAVDate", ""),
+            s.get("Date", ""),
             c.get("SchemeType", ""),
             c.get("CategoryRaw", ""),
             c.get("Category", ""),
