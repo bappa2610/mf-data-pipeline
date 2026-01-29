@@ -5,9 +5,6 @@ on:
     # DAILY – 4:00 AM IST (22:30 UTC previous day)
     - cron: '30 22 * * *'
 
-    # WEEKLY – Saturday 4:00 AM IST (Friday 22:30 UTC)
-    - cron: '30 22 * * 5'
-
   workflow_dispatch:
 
 jobs:
@@ -30,31 +27,25 @@ jobs:
       - name: Create data directory
         run: mkdir -p data
 
-      # -------- DAILY SCRIPTS (4 AM IST) --------
-      - name: Fetch Scheme Codes (Daily)
+      # -------- DAILY TASKS (4 AM IST) --------
+
+      - name: Fetch Scheme Codes
         run: python scripts/fetch_scheme_codes.py
 
-      # -------- WEEKLY SCRIPT (Saturday 4 AM IST) --------
-      - name: Fetch Scheme Categories (Weekly)
-        if: github.event.schedule == '30 22 * * 5'
-        run: python scripts/fetch_scheme_categories.py        
+      - name: Fetch Scheme Categories
+        run: python scripts/fetch_scheme_categories.py
 
-      # -------- DAILY SCRIPTS (4 AM IST) --------        
-      - name: Build Master File (Daily)
+      - name: Build Master File
         run: python scripts/build_master_file.py
 
-      # -------- DAILY SCRIPTS (4 AM IST) --------        
-      - name: Fetch NAV History (Daily)
+      - name: Fetch NAV History (Incremental)
         run: python scripts/fetch_nav_history.py
 
-      # -------- DAILY SCRIPTS (4 AM IST) --------        
-      - name: Export NAV Wide CSV (Daily)
+      - name: Export NAV Wide CSV
         run: python scripts/export_nav_wide.py
 
-
-
-
       # -------- COMMIT & PUSH --------
+
       - name: Commit and push changes
         run: |
           git config user.name "github-actions"
