@@ -19,24 +19,6 @@ This project fetches NAV data using public APIs, stores **scheme-wise NAV histor
 
 ---
 
-## 📁 Project Structure
-
-mf-nav-data-pipeline/
-├── data/
-│ ├── scheme_codes.csv # List of SchemeCode & metadata
-│ ├── nav_history/ # Scheme-wise NAV CSVs
-│ ├── nav_year/ # Year-wise consolidated NAV files
-│
-├── scripts/
-│ ├── fetch_nav_history.py # Download & update NAV history
-│ ├── build_nav_year.py # Build year-wise NAV files
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
-
----
-
 ## 📊 Data Formats
 
 ### 1️⃣ Scheme-wise NAV History  
