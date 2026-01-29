@@ -43,7 +43,7 @@ def process_scheme(args):
 
     last_date = read_last_date(filepath)
 
-    # ✅ Skip API call entirely
+    # ✅ Skip API call entirely if already up to date
     if last_date == TODAY:
         return f"[{i}/{total}] {code} → up to date"
 
@@ -84,17 +84,28 @@ def process_scheme(args):
         if not new_rows:
             return f"[{i}/{total}] {code} → no new NAV"
 
-        write_header = not os.path.exists(filepath)
+        # ---------- DUPLICATE PREVENTION ----------
+        existing_dates = set()
+        if os.path.exists(filepath):
+            with open(filepath, newline="", encoding="utf-8") as f:
+                reader = csv.DictReader(f)
+                for row in reader:
+                    existing_dates.add(row["Date"])
 
-        with open(filepath, "a", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=["Date", "NAV"])
-            if write_header:
-                writer.writeheader()
-            writer.writerows(new_rows)
+        # Filter out rows that already exist
+        new_rows_filtered = [row for row in new_rows if row["Date"] not in existing_dates]
+
+        if new_rows_filtered:
+            write_header = not os.path.exists(filepath)
+            with open(filepath, "a", newline="", encoding="utf-8") as f:
+                writer = csv.DictWriter(f, fieldnames=["Date", "NAV"])
+                if write_header:
+                    writer.writeheader()
+                writer.writerows(new_rows_filtered)
 
         time.sleep(REQUEST_DELAY)  # ✅ sleep only after write
 
-        return f"[{i}/{total}] {code} → +{len(new_rows)} rows"
+        return f"[{i}/{total}] {code} → +{len(new_rows_filtered)} rows"
 
     except requests.exceptions.RequestException:
         return f"[{i}/{total}] {code} → network error"
