@@ -44,8 +44,8 @@ jobs:
       - name: Fetch NAV History (Incremental)
         run: python scripts/fetch_nav_history.py
 
-      - name: Export NAV Wide CSV
-        run: python scripts/export_nav_wide.py
+      - name: Export NAV Year CSV
+        run: python scripts/export_nav_year.py
 
       # -------- COMMIT & PUSH --------
 
