@@ -3,106 +3,119 @@ import requests
 import os
 import time
 from datetime import datetime, date
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
+# ================= CONFIG =================
 CODES_FILE = "data/scheme_codes.csv"
 NAV_DIR = "data/nav_history"
 
-REQUEST_DELAY = 0.12   # sleep only when data is written
+MAX_WORKERS = 8          # 🔧 change workers here
+REQUEST_DELAY = 0.12     # 🔧 API-friendly delay
+CONNECT_TIMEOUT = 2
+READ_TIMEOUT = 5
+
 TODAY = date.today().isoformat()
+# ==========================================
 
 os.makedirs(NAV_DIR, exist_ok=True)
 
-session = requests.Session()
-session.headers.update({
-    "User-Agent": "Mozilla/5.0 (NAV-Updater)"
-})
 
-# ---------- FAST LAST DATE READER ----------
+# ---------- ULTRA FAST LAST DATE ----------
 def read_last_date(filepath):
     if not os.path.exists(filepath):
         return None
-
     try:
         with open(filepath, "rb") as f:
-            f.seek(-1024, os.SEEK_END)
-            lines = f.read().decode().splitlines()
-            if len(lines) > 1:
-                return lines[-1].split(",")[0]
+            f.seek(-256, os.SEEK_END)
+            last_line = f.readlines()[-1].decode().strip()
+            if last_line and not last_line.startswith("Date"):
+                return last_line.split(",")[0]
     except Exception:
         pass
-
     return None
 
 
-# ---------- LOAD SCHEME CODES ----------
-with open(CODES_FILE, newline="", encoding="utf-8") as f:
-    schemes = list(csv.DictReader(f))
-
-print(f"Total schemes: {len(schemes)}\n")
-
-# ---------- PROCESS EACH SCHEME ----------
-for i, scheme in enumerate(schemes, start=1):
+# ---------- WORKER FUNCTION ----------
+def process_scheme(args):
+    i, total, scheme = args
     code = scheme["SchemeCode"]
-    filepath = f"{NAV_DIR}/{code}.csv"
-
-    print(f"[{i}/{len(schemes)}] Scheme {code}")
+    filepath = os.path.join(NAV_DIR, f"{code}.csv")
 
     last_date = read_last_date(filepath)
 
-    # ✅ Skip if already updated today
+    # ✅ Skip API call entirely
     if last_date == TODAY:
-        print("  ↳ Already up to date")
-        continue
+        return f"[{i}/{total}] {code} → up to date"
+
+    session = requests.Session()
+    session.headers.update({
+        "User-Agent": "Mozilla/5.0 (NAV-Updater)"
+    })
 
     try:
         r = session.get(
             f"https://api.mfapi.in/mf/{code}",
-            timeout=(3, 8)
+            timeout=(CONNECT_TIMEOUT, READ_TIMEOUT)
         )
 
         if r.status_code != 200:
-            print("  ↳ API error")
-            continue
+            return f"[{i}/{total}] {code} → API error"
 
-        data = r.json().get("data", [])
+        data = r.json().get("data")
         if not data:
-            print("  ↳ No NAV data")
-            continue
+            return f"[{i}/{total}] {code} → no data"
+
+        last_date_obj = (
+            datetime.fromisoformat(last_date).date()
+            if last_date else None
+        )
 
         new_rows = []
-
-        # API returns latest → oldest, reverse it
-        for row in reversed(data):
-            nav_date = datetime.strptime(row["date"], "%d-%m-%Y").date().isoformat()
-
-            if last_date and nav_date <= last_date:
+        for row in reversed(data):  # oldest → newest
+            nav_date = datetime.strptime(row["date"], "%d-%m-%Y").date()
+            if last_date_obj and nav_date <= last_date_obj:
                 continue
 
             new_rows.append({
-                "Date": nav_date,
+                "Date": nav_date.isoformat(),
                 "NAV": row["nav"]
             })
 
         if not new_rows:
-            print("  ↳ No new NAV")
-            continue
+            return f"[{i}/{total}] {code} → no new NAV"
 
-        file_exists = os.path.exists(filepath)
+        write_header = not os.path.exists(filepath)
 
         with open(filepath, "a", newline="", encoding="utf-8") as f:
             writer = csv.DictWriter(f, fieldnames=["Date", "NAV"])
-            if not file_exists:
+            if write_header:
                 writer.writeheader()
             writer.writerows(new_rows)
 
-        print(f"  ↳ Added {len(new_rows)} rows")
+        time.sleep(REQUEST_DELAY)  # ✅ sleep only after write
 
-        # ✅ Sleep ONLY when data is written
-        time.sleep(REQUEST_DELAY)
+        return f"[{i}/{total}] {code} → +{len(new_rows)} rows"
 
-    except requests.exceptions.RequestException as e:
-        print("  ↳ Network error:", e)
+    except requests.exceptions.RequestException:
+        return f"[{i}/{total}] {code} → network error"
     except Exception as e:
-        print("  ↳ Error:", e)
+        return f"[{i}/{total}] {code} → error: {e}"
+
+
+# ---------- LOAD SCHEME CODES (ORDER PRESERVED) ----------
+with open(CODES_FILE, newline="", encoding="utf-8") as f:
+    schemes = list(csv.DictReader(f))
+
+total = len(schemes)
+print(f"Total schemes: {total}")
+print(f"Workers: {MAX_WORKERS}\n")
+
+tasks = [(i, total, scheme) for i, scheme in enumerate(schemes, start=1)]
+
+# ---------- PARALLEL EXECUTION ----------
+with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+    futures = [executor.submit(process_scheme, t) for t in tasks]
+    for future in as_completed(futures):
+        print(future.result())
 
 print("\nNAV history update completed ✅")
