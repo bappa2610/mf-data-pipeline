@@ -1,4 +1,4 @@
-# Mutual Fund NAV Data Pipeline
+# AMFI Mutual Fund NAV Data
 
 A fast, reliable, and API-friendly Python pipeline to **collect, update, and organize Indian Mutual Fund NAV data**.
 
