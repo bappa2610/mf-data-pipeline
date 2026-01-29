@@ -2,8 +2,8 @@ name: Update Mutual Fund Data
 
 on:
   schedule:
-    # DAILY – 4:00 AM IST (22:30 UTC previous day)
-    - cron: '30 22 * * *'
+    # EVERY 2 HOURS (UTC)
+    - cron: '0 */2 * * *'
 
   workflow_dispatch:
 
@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write  # allows committing & pushing
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -30,7 +30,7 @@ jobs:
       - name: Create data directory
         run: mkdir -p data
 
-      # -------- DAILY TASKS (4 AM IST) --------
+      # -------- TASKS (EVERY 2 HOURS) --------
 
       - name: Fetch Scheme Codes
         run: python scripts/fetch_scheme_codes.py
