@@ -26,6 +26,7 @@ Stored in `data/nav_history/<SchemeCode>.csv`
 
 Date,NAV
 2014-06-12,10.8737
+
 2014-06-13,10.8921
 
 
@@ -36,6 +37,7 @@ Stored in `data/nav_year/nav_year_YYYY.csv`
 
 SchemeCode,Date,NAV
 123184,2017-10-17,14.2022
+
 123186,2017-10-17,14.1577
 
 
