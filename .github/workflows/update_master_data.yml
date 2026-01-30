@@ -37,8 +37,8 @@ jobs:
       - name: Fetch Scheme Categories
         run: python scripts/fetch_scheme_categories.py
 
-      - name: Build Master File
-        run: python scripts/build_master_file.py
+      - name: Merge Scheme Metadata
+        run: python scripts/merge_scheme_metadata.py
 
       # -------- COMMIT & PUSH --------
 
