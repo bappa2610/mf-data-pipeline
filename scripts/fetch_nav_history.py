@@ -17,25 +17,23 @@ READ_TIMEOUT = 5
 TODAY = date.today().isoformat()
 # ==========================================
 
-print("📁 Ensuring NAV history directory exists...")
+print("📁 Checking NAV history directory...")
 os.makedirs(NAV_DIR, exist_ok=True)
+print("✅ NAV history directory ready\n")
 
 
 # ---------- ULTRA FAST LAST DATE ----------
 def read_last_date(filepath):
     if not os.path.exists(filepath):
-        print("   ↳ No existing NAV file found")
         return None
     try:
         with open(filepath, "rb") as f:
             f.seek(-256, os.SEEK_END)
             last_line = f.readlines()[-1].decode().strip()
             if last_line and not last_line.startswith("Date"):
-                last_date = last_line.split(",")[0]
-                print(f"   ↳ Last stored NAV date: {last_date}")
-                return last_date
+                return last_line.split(",")[0]
     except Exception:
-        print("   ↳ Could not read last date safely")
+        pass
     return None
 
 
@@ -45,21 +43,17 @@ def process_scheme(args):
     code = scheme["SchemeCode"]
     filepath = os.path.join(NAV_DIR, f"{code}.csv")
 
-    print(f"\n🔄 [{i}/{total}] Processing scheme {code}")
+    status_line = f"[{i}/{total}] 📌 Scheme {code}"
+    result_line = ""
 
     last_date = read_last_date(filepath)
 
-    # ✅ Skip API call entirely if already up to date
     if last_date == TODAY:
-        print("   ⏭ Already up to date — skipping API call")
-        return f"[{i}/{total}] {code} → up to date"
-
-    print("   🌐 Fetching NAV data from API...")
+        result_line = "🟢 Up to date (API skipped)"
+        return status_line, result_line
 
     session = requests.Session()
-    session.headers.update({
-        "User-Agent": "Mozilla/5.0 (NAV-Updater)"
-    })
+    session.headers.update({"User-Agent": "Mozilla/5.0 (NAV-Updater)"})
 
     try:
         r = session.get(
@@ -68,15 +62,11 @@ def process_scheme(args):
         )
 
         if r.status_code != 200:
-            print("   ❌ API returned non-200 status")
-            return f"[{i}/{total}] {code} → API error"
+            return status_line, "🔴 API error"
 
         data = r.json().get("data")
         if not data:
-            print("   ⚠ API returned empty data")
-            return f"[{i}/{total}] {code} → no data"
-
-        print(f"   📦 Total NAV records received: {len(data)}")
+            return status_line, "⚠️ No NAV data"
 
         last_date_obj = (
             datetime.fromisoformat(last_date).date()
@@ -88,72 +78,81 @@ def process_scheme(args):
             nav_date = datetime.strptime(row["date"], "%d-%m-%Y").date()
             if last_date_obj and nav_date <= last_date_obj:
                 continue
-
             new_rows.append({
                 "Date": nav_date.isoformat(),
                 "NAV": row["nav"]
             })
 
-        print(f"   ➕ New NAV rows after date filter: {len(new_rows)}")
-
         if not new_rows:
-            return f"[{i}/{total}] {code} → no new NAV"
+            return status_line, "🟡 No new NAVs"
 
-        # ---------- DUPLICATE PREVENTION ----------
         existing_dates = set()
         if os.path.exists(filepath):
-            print("   🔍 Checking for duplicate dates...")
             with open(filepath, newline="", encoding="utf-8") as f:
-                reader = csv.DictReader(f)
-                for row in reader:
-                    existing_dates.add(row["Date"])
+                for r in csv.DictReader(f):
+                    existing_dates.add(r["Date"])
 
         new_rows_filtered = [
-            row for row in new_rows
-            if row["Date"] not in existing_dates
+            r for r in new_rows if r["Date"] not in existing_dates
         ]
-
-        print(f"   🧹 Rows after duplicate removal: {len(new_rows_filtered)}")
 
         if new_rows_filtered:
             write_header = not os.path.exists(filepath)
-            print("   💾 Writing NAV rows to CSV...")
             with open(filepath, "a", newline="", encoding="utf-8") as f:
                 writer = csv.DictWriter(f, fieldnames=["Date", "NAV"])
                 if write_header:
                     writer.writeheader()
                 writer.writerows(new_rows_filtered)
 
-        print("   ⏱ Sleeping briefly to respect API limits...")
         time.sleep(REQUEST_DELAY)
 
-        return f"[{i}/{total}] {code} → +{len(new_rows_filtered)} rows"
+        result_line = f"✅ Updated | +{len(new_rows_filtered)} NAV rows"
+        return status_line, result_line
 
     except requests.exceptions.RequestException:
-        print("   🚫 Network error occurred")
-        return f"[{i}/{total}] {code} → network error"
+        return status_line, "🌐 Network error"
     except Exception as e:
-        print(f"   ❌ Unexpected error: {e}")
-        return f"[{i}/{total}] {code} → error: {e}"
+        return status_line, f"❌ Error ({e})"
 
 
 # ---------- LOAD SCHEME CODES ----------
-print("\n📄 Loading scheme codes...")
+print("📄 Loading scheme codes...")
 with open(CODES_FILE, newline="", encoding="utf-8") as f:
     schemes = list(csv.DictReader(f))
 
 total = len(schemes)
-print(f"📊 Total schemes loaded: {total}")
+print(f"📊 Total schemes found: {total}")
 print(f"⚙️ Parallel workers: {MAX_WORKERS}\n")
 
 tasks = [(i, total, scheme) for i, scheme in enumerate(schemes, start=1)]
 
+
 # ---------- PARALLEL EXECUTION ----------
-print("🚀 Starting NAV update process...\n")
+print("🚀 Starting NAV history update...\n")
 
 with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
     futures = [executor.submit(process_scheme, t) for t in tasks]
     for future in as_completed(futures):
-        print("✅", future.result())
+        line1, line2 = future.result()
 
-print("\n🎉 NAV history update completed successfully")
+        scheme_code = line1.split()[-1]
+        index_part = line1.split("]")[0] + "]"
+
+        if "Updated" in line2:
+            icon = "✅"
+        elif "Up to date" in line2:
+            icon = "🟢"
+        elif "No new NAVs" in line2:
+            icon = "🟡"
+        elif "API error" in line2:
+            icon = "🔴"
+        elif "Network error" in line2:
+            icon = "🌐"
+        else:
+            icon = "⚠️"
+
+        print(f"{index_part} {scheme_code} {icon} {line2}")
+
+
+print("\n🎉 NAV history update completed successfully ✅")
+print("📦 All available NAV data is now up to date\n")

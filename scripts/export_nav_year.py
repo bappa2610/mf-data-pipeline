@@ -6,65 +6,60 @@ from collections import defaultdict
 NAV_DIR = "data/nav_history"
 OUT_DIR = "data/nav_year"
 
-print("📁 Ensuring yearly NAV output directory exists...")
+print("📁 Preparing yearly NAV output directory...")
 os.makedirs(OUT_DIR, exist_ok=True)
 
 # ---------------- LOAD SCHEME FILES ----------------
-print("\n📄 Scanning NAV history directory...")
 scheme_files = sorted(
     f for f in os.listdir(NAV_DIR)
     if f.endswith(".csv")
 )
 
-print(f"📊 Total scheme NAV files found: {len(scheme_files)}")
+print(f"📊 Schemes detected: {len(scheme_files)}")
 
-# ---------------- LOAD EXISTING DATA (ONCE) ----------------
-print("\n🗂 Caching existing yearly NAV data...")
-# existing[year] = set((SchemeCode, Date))
+# ---------------- LOAD EXISTING DATA ----------------
+print("🗂 Loading existing yearly NAV indexes...")
 existing = defaultdict(set)
 
-for fname in os.listdir(OUT_DIR):
-    if fname.startswith("nav_year_") and fname.endswith(".csv"):
-        year = fname.replace("nav_year_", "").replace(".csv", "")
+year_files = sorted(
+    f for f in os.listdir(OUT_DIR)
+    if f.startswith("nav_year_") and f.endswith(".csv")
+)
 
-        # 🚫 skip invalid year files
-        if not year.isdigit() or len(year) != 4:
-            print(f"   ⏭ Skipping invalid file: {fname}")
-            continue
+if not year_files:
+    print("ℹ️ No existing yearly NAV files found")
 
-        path = os.path.join(OUT_DIR, fname)
-        print(f"   📂 Loading existing data for year {year}")
+for fname in year_files:
+    year = fname.replace("nav_year_", "").replace(".csv", "")
+    if not year.isdigit() or len(year) != 4:
+        continue
 
-        with open(path, newline="", encoding="utf-8") as f:
-            reader = csv.DictReader(f)
-            count = 0
-            for r in reader:
-                if r.get("SchemeCode") and r.get("Date"):
-                    existing[year].add((r["SchemeCode"], r["Date"]))
-                    count += 1
+    path = os.path.join(OUT_DIR, fname)
+    count = 0
 
-        print(f"      ↳ Cached {count} rows")
+    with open(path, newline="", encoding="utf-8") as f:
+        for r in csv.DictReader(f):
+            if r.get("SchemeCode") and r.get("Date"):
+                existing[year].add((r["SchemeCode"], r["Date"]))
+                count += 1
 
-print("✅ Existing year files cached\n")
+    print(f"📅 {year} → 📦 {count:,} rows cached")
+
+print("✅ Existing yearly NAV index ready\n")
 
 # ---------------- COLLECT NEW DATA ----------------
-print("🔍 Collecting new NAV rows from scheme files...")
-# to_write[year] = list of (SchemeCode, Date, NAV)
 to_write = defaultdict(list)
 
-for idx, file in enumerate(scheme_files, start=1):
+print("\n🔍 Processing schemes...")
+
+for i, file in enumerate(scheme_files, start=1):
     scheme_code = os.path.splitext(file)[0]
     file_path = os.path.join(NAV_DIR, file)
 
-    print(f"\n🔄 [{idx}/{len(scheme_files)}] Processing scheme {scheme_code}")
+    scanned = added = 0
 
     with open(file_path, newline="", encoding="utf-8") as f:
-        reader = csv.DictReader(f)
-
-        scanned = 0
-        added = 0
-
-        for row in reader:
+        for row in csv.DictReader(f):
             scanned += 1
             raw_date = row.get("Date")
             nav = row.get("NAV")
@@ -72,7 +67,6 @@ for idx, file in enumerate(scheme_files, start=1):
             if not raw_date or not nav:
                 continue
 
-            # ✅ Parse ISO date ONLY (YYYY-MM-DD)
             try:
                 d = datetime.strptime(raw_date, "%Y-%m-%d").date()
             except ValueError:
@@ -89,26 +83,23 @@ for idx, file in enumerate(scheme_files, start=1):
             to_write[year].append((scheme_code, date_str, nav))
             added += 1
 
-        print(f"   📖 Rows scanned: {scanned}")
-        print(f"   ➕ New rows queued: {added}")
+    print(f"📄 [{i}/{len(scheme_files)}] {scheme_code} → ➕ {added}")
 
-# ---------------- WRITE SORTED OUTPUT ----------------
+# ---------------- WRITE OUTPUT ----------------
 print("\n💾 Writing yearly NAV files...")
 
 for year, rows in to_write.items():
     out_file = os.path.join(OUT_DIR, f"nav_year_{year}.csv")
     write_header = not os.path.exists(out_file)
 
-    # ✅ sort by SchemeCode → Date
     rows.sort(key=lambda x: (x[0], x[1]))
 
     with open(out_file, "a", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
         if write_header:
-            print(f"   🆕 Creating nav_year_{year}.csv with header")
             writer.writerow(["SchemeCode", "Date", "NAV"])
         writer.writerows(rows)
 
-    print(f"   📅 {year}: +{len(rows)} rows written")
+    print(f"📅 {year} → ✍️ {len(rows)} rows")
 
-print("\n🎉 NAV year files cleaned & updated correctly")
+print("\n🎉 Year-wise NAV files updated successfully ✅")
