@@ -21,12 +21,19 @@ FIELDNAMES = [
 ]
 
 existing = {}
+printed_schemes = set()   # 🔹 track printed scheme names
+
+print("📂 Loading existing category data...")
 
 # ---------- LOAD EXISTING DATA ---------- #
 if os.path.exists(CATEGORY_FILE):
     with open(CATEGORY_FILE, newline="", encoding="utf-8") as f:
         for row in csv.DictReader(f):
             existing[row["SchemeCode"]] = row
+
+print(f"✅ Existing schemes loaded: {len(existing)}")
+
+print("📂 Loading scheme codes...")
 
 # ---------- LOAD SCHEME CODES ---------- #
 with open(CODE_FILE, newline="", encoding="utf-8") as f:
@@ -35,7 +42,7 @@ with open(CODE_FILE, newline="", encoding="utf-8") as f:
 pending_codes = [r for r in codes if r["SchemeCode"] not in existing]
 
 total_pending = len(pending_codes)
-print(f"Pending schemes: {total_pending}")
+print(f"⏳ Pending schemes to process: {total_pending}")
 
 if total_pending == 0:
     print("Nothing to process. Exiting ✅")
@@ -53,7 +60,7 @@ else:
     REQUEST_DELAY = 0.15
 
 print(
-    f"Using CHUNK_SIZE={CHUNK_SIZE}, "
+    f"⚙️ Using CHUNK_SIZE={CHUNK_SIZE}, "
     f"REQUEST_DELAY={REQUEST_DELAY}s"
 )
 
@@ -65,12 +72,18 @@ for i in range(0, total_pending, CHUNK_SIZE):
     chunk = pending_codes[i:i + CHUNK_SIZE]
 
     print(
-        f"\nProcessing chunk {i // CHUNK_SIZE + 1} "
+        f"\n📦 Processing chunk {i // CHUNK_SIZE + 1} "
         f"({i + 1}-{i + len(chunk)})"
     )
 
     for row in chunk:
         scheme_code = row["SchemeCode"]
+        scheme_name = row.get("SchemeName", "").strip()
+
+        # ✅ print scheme name only once
+        if scheme_name and scheme_name not in printed_schemes:
+            print(f"📄 Scheme detected: {scheme_name}")
+            printed_schemes.add(scheme_name)
 
         try:
             r = session.get(
@@ -115,7 +128,7 @@ for i in range(0, total_pending, CHUNK_SIZE):
             time.sleep(REQUEST_DELAY)
 
         except Exception as e:
-            print("Error:", scheme_code, e)
+            print("❌ Error:", scheme_code, e)
 
     # ---------- SAVE AFTER EACH CHUNK ---------- #
     os.makedirs("data", exist_ok=True)
@@ -126,7 +139,8 @@ for i in range(0, total_pending, CHUNK_SIZE):
         for v in existing.values():
             writer.writerow(v)
 
-    print("Chunk saved ✅")
+    print("💾 Chunk saved successfully ✅")
     time.sleep(BASE_CHUNK_DELAY)
 
-print("\nAll chunks processed successfully 🎉")
+print("\n🎉 All chunks processed successfully")
+print(f"📄 Total unique schemes displayed: {len(printed_schemes)}")

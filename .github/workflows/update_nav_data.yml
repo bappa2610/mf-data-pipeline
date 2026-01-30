@@ -1,0 +1,50 @@
+name: Update Mutual Fund NAV Data
+
+on:
+  schedule:
+    # EVERY 2 HOURS (UTC)
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-nav:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests pandas
+
+      - name: Create data directory
+        run: mkdir -p data
+
+      # -------- NAV TASKS --------
+
+      - name: Fetch NAV History (Incremental)
+        run: python scripts/fetch_nav_history.py
+
+      - name: Export NAV Year CSV
+        run: python scripts/export_nav_year.py
+
+      # -------- COMMIT & PUSH --------
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data/
+          git commit -m "Auto update MF NAV data" || echo "No changes"
+          git push https://$PAT_TOKEN@github.com/${{ github.repository }} HEAD:${{ github.ref }}
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}

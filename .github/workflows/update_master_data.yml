@@ -1,0 +1,53 @@
+name: Update Mutual Fund Master Data
+
+on:
+  schedule:
+    # EVERY 30 MINUTES (UTC)
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-master:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests pandas
+
+      - name: Create data directory
+        run: mkdir -p data
+
+      # -------- MASTER DATA TASKS --------
+
+      - name: Fetch Scheme Codes
+        run: python scripts/fetch_scheme_codes.py
+
+      - name: Fetch Scheme Categories
+        run: python scripts/fetch_scheme_categories.py
+
+      - name: Build Master File
+        run: python scripts/build_master_file.py
+
+      # -------- COMMIT & PUSH --------
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data/
+          git commit -m "Auto update MF master data" || echo "No changes"
+          git push https://$PAT_TOKEN@github.com/${{ github.repository }} HEAD:${{ github.ref }}
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
