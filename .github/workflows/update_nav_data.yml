@@ -16,6 +16,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -45,6 +47,8 @@ jobs:
           git config user.email "actions@github.com"
           git add data/
           git commit -m "Auto update MF NAV data" || echo "No changes"
-          git push https://$PAT_TOKEN@github.com/${{ github.repository }} HEAD:${{ github.ref }}
+          BRANCH=${GITHUB_REF#refs/heads/}
+          git pull --rebase origin "$BRANCH" || true
+          git push "https://$PAT_TOKEN@github.com/${{ github.repository }}" "HEAD:$BRANCH"
         env:
           PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
