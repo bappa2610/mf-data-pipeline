@@ -142,6 +142,10 @@ try:
             # Remove "Scheme" from Category
             category = category.replace(" Scheme", "")
 
+            # Normalize ETF subcategories
+            if "Gold ETF" in sub_category or "Other ETFs" in sub_category or "ETF" in sub_category:
+                sub_category = "ETF"
+
             # Analyze scheme name
             plan, option, idcw_frequency = parse_scheme_name(scheme_name)
 
