@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-nav:
+  update-amfi_mf_data:
     runs-on: ubuntu-latest
 
     permissions:
@@ -33,11 +33,8 @@ jobs:
 
       # -------- NAV TASKS --------
 
-      - name: Fetch NAV History (Incremental)
-        run: python scripts/fetch_nav_history.py
-
-      - name: Export NAV Year CSV
-        run: python scripts/export_nav_year.py
+      - name: Fetch 
+        run: python scripts\Export_scheme_data\v2\fetch_amfi_mf_data.py
 
       # -------- COMMIT & PUSH --------
 
