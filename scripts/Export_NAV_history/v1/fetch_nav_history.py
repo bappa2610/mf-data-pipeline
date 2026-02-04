@@ -6,7 +6,7 @@ from datetime import datetime, date
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # ================= CONFIG =================
-CODES_FILE = "data/scheme_codes.csv"
+CODES_FILE = "data/scheme_data/v2/amfi_mf_analyzed_schemes.csv"
 NAV_DIR = "data/nav_history"
 
 MAX_WORKERS = 8
