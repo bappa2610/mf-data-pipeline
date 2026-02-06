@@ -34,10 +34,10 @@ jobs:
       # -------- NAV TASKS --------
 
       - name: Fetch NAV History CSV
-        run: python scripts/Export_NAV_history/v1/fetch_nav_history.py
+        run: python scripts/Export_NAV_history/fetch_nav_history.py
 
       - name: Export NAV Year CSV
-        run: python scripts/Export_NAV_history/v1/export_nav_year.py
+        run: python scripts/Export_NAV_history/export_nav_year.py
 
       # -------- COMMIT & PUSH --------
 

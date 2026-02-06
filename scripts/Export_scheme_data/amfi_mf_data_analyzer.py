@@ -5,7 +5,7 @@ import os
 
 # Configuration Constants
 URL = "https://www.amfiindia.com/spages/NAVAll.txt"
-OUT_FILE = r"data\scheme_data\v2\amfi_mf_analyzed_schemes.csv"
+OUT_FILE = r"data\scheme_data\amfi_mf_analyzed_schemes.csv"
 CSV_FIELDNAMES = ["SchemeCode", "AMC", "SchemeName", "ISIN", "NAV", "Date", "SchemeType", "Category", "SubCategory", "PlanType", "PlanOption", "IDCW_Frequency"]
 
 # Plan Types
@@ -93,7 +93,7 @@ def parse_scheme_name(scheme_name):
 
 print("📁 Preparing directories...")
 os.makedirs("Test", exist_ok=True)
-os.makedirs(r"data\scheme_data\v2", exist_ok=True)
+os.makedirs(r"data\scheme_data", exist_ok=True)
 print("✅ Directories ready\n")
 
 print("🌐 Fetching NAVAll.txt from AMFI...")
