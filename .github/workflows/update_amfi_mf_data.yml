@@ -34,7 +34,7 @@ jobs:
       # -------- MASTER DATA TASKS --------
 
       - name: Fetch Scheme Codes
-        run: python scripts/Export_scheme_data/amfi_mf_data_analyzer.py
+        run: python scripts/Export_scheme_data/generate_master_scheme_data.py
 
       # -------- COMMIT & PUSH --------
 
