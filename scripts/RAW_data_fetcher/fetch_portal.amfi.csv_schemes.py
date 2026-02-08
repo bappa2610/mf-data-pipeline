@@ -14,14 +14,22 @@ def fetch_and_save_csv():
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
         }
-        response = requests.get(URL, headers=headers, timeout=30)
+        response = requests.get(URL, headers=headers, timeout=30, stream=True)
         response.raise_for_status()
-        print("✅ Step 2: Data fetched successfully.")
-        print(f"Response content preview: {response.text[:1000]}...")
 
-        print("🔄 Step 3: Parsing CSV data...")
+        # Get total size for progress bar
+        total_size = int(response.headers.get('content-length', 0))
+        content = b''
+        with tqdm(total=total_size, unit='B', unit_scale=True, desc="Downloading") as pbar:
+            for chunk in response.iter_content(chunk_size=8192):
+                if chunk:
+                    content += chunk
+                    pbar.update(len(chunk))
+
+        response_text = content.decode('utf-8')
+
         # Parse CSV and remove empty rows
-        csv_reader = csv.reader(io.StringIO(response.text))
+        csv_reader = csv.reader(io.StringIO(response_text))
         cleaned_rows = []
         row_count = 0
         for row in tqdm(csv_reader, desc="Processing rows"):
@@ -30,14 +38,11 @@ def fetch_and_save_csv():
             if any(field.strip() for field in row):
                 cleaned_rows.append(row)
 
-        print(f"🧮 Step 5: Total rows processed: {row_count}. Cleaned rows: {len(cleaned_rows)}")
-
-        print("💾 Step 6: Writing cleaned data to CSV file...")
         # Write cleaned data to CSV file
         with open(OUTPUT_FILE, "w", newline="", encoding="utf-8") as f:
             csv_writer = csv.writer(f)
             csv_writer.writerows(cleaned_rows)
-        print(f"🎉 Step 7: Cleaned CSV data saved to {OUTPUT_FILE}.")
+        print(f"Data fetched and saved successfully. Total rows: {len(cleaned_rows)}")
 
     except requests.RequestException as e:
         print(f"❌ Error fetching data: {e}")

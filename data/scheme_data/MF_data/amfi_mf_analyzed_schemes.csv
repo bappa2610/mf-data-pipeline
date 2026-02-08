@@ -8,7 +8,6 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 100033,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Large & Mid Cap Fund - Regular Growth,INF209K01165,Open Ended,Equity,Large & Mid Cap Fund,Regular,Growth,
 100034,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Large & Mid Cap Fund -Regular - IDCW,INF209K01157,Open Ended,Equity,Large & Mid Cap Fund,Regular,IDCW,
 100035,Aditya Birla Sun Life Mutual Fund,Birla Sun Life Freedom Fund-Plan A (Dividend),,Open Ended,Income,Income,Other,IDCW,
-100036,Aditya Birla Sun Life Mutual Fund,Birla Sun Life Freedom Fund-Plan B (Growth),,Open Ended,Income,Income,Other,Growth,
 100037,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Income Fund - Regular - Quarterly IDCW,INF209K01587,Open Ended,Debt,Medium to Long Duration Fund,Regular,IDCW,Quarterly
 100038,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Income Fund - Growth - Regular Plan,INF209K01579,Open Ended,Debt,Medium to Long Duration Fund,Regular,Growth,
 100039,Aditya Birla Sun Life AMC Limited,Birla Income Plus-Institutional (Growth),,Open Ended,Debt,Medium to Long Duration Fund,Institutional,Growth,
@@ -66,7 +65,6 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 100128,HDFC Asset Management Company Limited,HDFC Income Fund-Premium Plan Growth,,Open Ended,Debt,Medium to Long Duration Fund,Premium,Growth,
 100129,HDFC Asset Management Company Limited,HDFC Income Fund-Premium Plus Growth,,Open Ended,Debt,Medium to Long Duration Fund,Premium,Growth,
 100130,HDFC Asset Management Company Limited,HDFC Income Fund-Premium Plus Dividend,,Open Ended,Debt,Medium to Long Duration Fund,Premium,IDCW,
-100136,PRINCIPAL Mutual Fund,Principal Deposit Fund-Plan 54EA/EB-Plan 54EA /EB,,Open Ended,Income,Income,Other,Other,
 100150,PRINCIPAL Mutual Fund,Principal Child Benefit Fund-Super Saver-Future Guard Plan,,Open Ended,Income,Income,Other,Other,
 100151,PRINCIPAL Mutual Fund,Principal Retail Equity Savings Fund - Growth Option,,Open Ended,Income,Income,Retail,Growth,
 100152,Principal Mutual Fund,Principal Nifty 100 Equal Weight Fund-Income Distribution CUM Capital Withdrawal,,Open Ended,Other,Index Funds,Other,IDCW,
@@ -81,7 +79,6 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 100175,quant Mutual Fund,quant ELSS Tax Saver Fund - Growth Option - Regular Plan,INF966L01135,Open Ended,Equity,ELSS,Regular,Growth,
 100176,quant Mutual Fund,quant Small Cap Fund - IDCW Option - Regular Plan,INF206A01022,Open Ended,Equity,Small Cap Fund,Regular,IDCW,
 100177,quant Mutual Fund,quant Small Cap Fund - Growth - Regular Plan,INF966L01AA0,Open Ended,Equity,Small Cap Fund,Regular,Growth,
-100178,ING Mutual Fund,ING Income Fund-Regular Plan -Dividend Option (Quarterly),,Open Ended,Income,Income,Regular,IDCW,Quarterly
 100179,ING Mutual Fund,ING Income Fund-Regular Plan -Dividend Option (Half Yearly),,Open Ended,Income,Income,Regular,IDCW,Annual
 100180,ING Mutual Fund,ING Income Fund- Regular Plan - Dividend Option (Annual),,Open Ended,Income,Income,Regular,IDCW,Annual
 100181,ING Mutual Fund,ING Income Fund-Regular Plan -Growth Option,,Open Ended,Income,Income,Regular,Growth,
@@ -94,7 +91,6 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 100188,ING Mutual Fund,ING Core Equity Fund-Dividend Option,,Open Ended,Income,Income,Other,IDCW,
 100189,ING Mutual Fund,ING Core Equity Fund-Growth Option,,Open Ended,Income,Income,Other,Growth,
 100190,ING Mutual Fund,ING Liquid Fund-Regular Growth Option,,Open Ended,Income,Income,Regular,Growth,
-100191,ING Mutual Fund,ING Liquid Fund-Regular Weekly Dividend Option,,Open Ended,Income,Income,Regular,IDCW,Weekly
 100192,ING Mutual Fund,ING Liquid Fund-Regular Daily Dividend Option,,Open Ended,Income,Income,Regular,IDCW,Daily
 100194,ING Mutual Fund,ING Liquid Fund-Auto Sweep Growth Option,,Open Ended,Income,Income,Other,Growth,
 100195,ING Mutual Fund,ING Liquid Fund-Auto Sweep Weekly Dividend Option,,Open Ended,Income,Income,Other,IDCW,Weekly
@@ -151,7 +147,6 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 100282,HDFC Mutual Fund,HDFC FMP 3M MAY 2006(1)-INSTITUTIONAL PLAN-Growth,,Close Ended,Income,Income,Institutional,Growth,
 100283,HDFC Mutual Fund,HDFC FMP 3M MAY 2006(1)-INSTITUTIONAL PLAN-Dividend,,Close Ended,Income,Income,Institutional,IDCW,
 100284,HDFC Mutual Fund,HDFC FMP 3M MAY 2006(1)-RETAIL-Growth,,Close Ended,Income,Income,Retail,Growth,
-100285,HDFC Mutual Fund,HDFC FMP 3M MAY 2006(1)-RETAIL-Dividend,,Close Ended,Income,Income,Retail,IDCW,
 100286,Kotak Mahindra Mutual Fund,Kotak Aggressive Hybrid Fund - Regular Plan - IDCW - Payout & Reinvestment of Income Distribution cum capital withdrawal option,INF174K01450,Open Ended,Hybrid,Aggressive Hybrid Fund,Regular,IDCW,Reinvestment
 100289,Kotak Mahindra Mutual Fund,Kotak Tech,,Open Ended,Income,Income,Other,Other,
 100290,Kotak Mahindra Mutual Fund,Kotak MNC,,Open Ended,Income,Income,Other,Other,
@@ -200,7 +195,6 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 100355,ICICI Prudential Mutual Fund,ICICI Prudential Equity & Debt Fund - Monthly IDCW,INF109K01DX5,Open Ended,Hybrid,Aggressive Hybrid Fund,Other,IDCW,Monthly
 100356,ICICI Prudential Mutual Fund,ICICI Prudential Equity & Debt Fund - Growth,INF109K01480,Open Ended,Hybrid,Aggressive Hybrid Fund,Other,Growth,
 100357,ICICI Prudential Mutual Fund,ICICI Prudential Liquid Fund -Quarterly IDCW,INF109K01UU5,Open Ended,Debt,Liquid Fund,Other,IDCW,Quarterly
-100358,ICICI Prudential Mutual Fund,ICICI Prudential Liquid Fund-Dividend-Institutional Quarterly,,Open Ended,Income,Income,Institutional,IDCW,Quarterly
 100359,ICICI Prudential Mutual Fund,ICICI Prudential Liquid Institutional Plus Fund - Div - Daily,INF109K01VJ6,Open Ended,Debt,Liquid Fund,Institutional,Other,
 100360,ICICI Prudential Mutual Fund,ICICI Prudential Liquid Institutional Plus Fund - Div - Weekly,,Open Ended,Income,Income,Institutional,Other,
 100361,ICICI Prudential Mutual Fund,ICICI Prudential Liquid Fund-Dividend-Institutional Plus - Monthly,,Open Ended,Income,Income,Institutional,IDCW,Monthly
@@ -233,7 +227,6 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 100395,Nippon Life India Asset Management Limited,Reliance Income Fund-Institutional Quarterly Dividend,,Open Ended,Debt,Medium to Long Duration Fund,Institutional,IDCW,Quarterly
 100414,Tata Mutual Fund,Tata Aggressive Hybrid Fund- Regular Plan - Growth Option,INF277K01303,Open Ended,Hybrid,Aggressive Hybrid Fund,Regular,Growth,
 100415,Tata Mutual Fund,Tata Ethical Fund-Regular Plan - Growth Option,INF277K01956,Open Ended,Equity,Sectoral/ Thematic,Regular,Growth,
-100416,Tata Mutual Fund,Tata Long Term Debt Fund - Regular Plan - Quarterly Dividend,,Open Ended,Income,Income,Regular,IDCW,Quarterly
 100417,Tata Mutual Fund,Tata Income Fund-Regular Plan - Half Yearly Payout of IDCW Option,INF277K01DU6,Open Ended,Debt,Medium to Long Duration Fund,Regular,IDCW,Annual
 100418,Tata Mutual Fund,Tata Income Fund -Regular Plan - Growth Option,INF277K01659,Open Ended,Debt,Medium to Long Duration Fund,Regular,Growth,
 100470,Franklin Templeton Mutual Fund,Franklin India Large Cap Fund - IDCW,INF090I01155,Open Ended,Equity,Large Cap Fund,Other,IDCW,
