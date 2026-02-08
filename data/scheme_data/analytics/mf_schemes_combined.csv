@@ -14257,7 +14257,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 100029,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Growth,,,Open Ended Schemes,Income
 100030,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Annual Dividend,,,Open Ended Schemes,Income
 100031,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF - ST-Dividend,,,Open Ended Schemes,Income
-100032,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF - ST-Growth,,,Open Ended Schemes,Income
 100035,Aditya Birla Sun Life Mutual Fund,Birla Sun Life Freedom Fund-Plan A (Dividend),,,Open Ended Schemes,Income
 100036,Aditya Birla Sun Life Mutual Fund,Birla Sun Life Freedom Fund-Plan B (Growth),,,Open Ended Schemes,Income
 100049,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Cash Plus-Institutional - Fortnightly Dividend,,,Open Ended Schemes,Income
@@ -14314,7 +14313,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 100201,ING Mutual Fund,ING Liquid Fund-Super Institutional Weekly Dividend Option,,,Open Ended Schemes,Income
 100202,ING Mutual Fund,ING Balanced Fund-Dividend Option,,,Open Ended Schemes,Income
 100203,ING Mutual Fund,ING Balanced Fund-Growth Option,,,Open Ended Schemes,Income
-100243,JM Financial Mutual Fund,JM High Liquidity Fund-- Premium Plan - Daily Dividend Option,,,Open Ended Schemes,Income
 100249,JM Financial Mutual Fund,JM G-Sec Fund - Quarterly Dividend Option,,,Open Ended Schemes,Debt Scheme - Gilt Fund
 100250,JM Financial Mutual Fund,JM G-Sec Fund - Growth Option,,,Open Ended Schemes,Debt Scheme - Gilt Fund
 100251,JM Financial Mutual Fund,JM G-Sec Fund-PF Plan - Growth Plan,,,Open Ended Schemes,Income
@@ -14716,16 +14714,12 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 102030,SBI Mutual Fund,SBI MAGNUM DEBT FUND SERIES - 13 MONTHS - 2-GROWTH,,,Close Ended Schemes,Income
 102031,Tata Mutual Fund,Tata Dynamic Bond Fund B - Dividend,,,Open Ended Schemes,Income
 102045,Tata Mutual Fund,Tata Gilt Retirement Plan (28-2-10) Growth,,,Open Ended Schemes,Income
-102047,Tata Mutual Fund,Tata Gilt Retirement Plan 28/2/11 Dividend Option,,,Open Ended Schemes,Income
 102055,SBI Mutual Fund,SBI Magnum Income Plus Fund - Savings Plan (G),,,Open Ended Schemes,Income
 102056,SBI Mutual Fund,SBI Magnum Income Plus Fund - Savings Plan (D),,,Open Ended Schemes,Income
 102058,SBI Mutual Fund,SBI Magnum Institutional Income Fund - Savings - Dividend(Upto 22/03/07) Renamed as SBI Premier Liquid Fund,,,Open Ended Schemes,Income
 102061,SBI Mutual Fund,SBI MAGNUM GILT FUND -  GROWTH - PF (Fixed Period - 1 Yr) Option,,,Open Ended Schemes,Income
-102062,Tata Mutual Fund,Tata Gilt Retirement Plan (28-2-09) Growth,,,Open Ended Schemes,Income
 102065,HSBC Mutual Fund,HSBC Gilt Fund  - Dividend,,,Open Ended Schemes,Income
 102066,HSBC Mutual Fund,HSBC Gilt Fund  - Growth,,,Open Ended Schemes,Income
-102067,Tata Mutual Fund,Tata Gilt Retirement Plan (28-2-11) Growth,,,Open Ended Schemes,Income
-102069,Tata Mutual Fund,Tata Gilt Retirement Plan (28-2--06) Growth,,,Open Ended Schemes,Income
 102070,Tata Mutual Fund,Tata Gilt Retirement Plan (28-2-07) Growth,,,Open Ended Schemes,Income
 102071,ICICI Prudential Mutual Fund,ICICI Prudential FMP Series 5-FMP Yearly Series 5-Retail Growth,,,Open Ended Schemes,Income
 102072,ICICI Prudential Mutual Fund,ICICI Prudential FMP Series 5-FMP Yearly Series 5-Retail Dividend,,,Open Ended Schemes,Income
@@ -15995,45 +15989,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 104525,Kotak Mahindra Mutual Fund,Kotak Dynamic Asset Allocation Scheme - Growth,,,Close Ended Schemes,Income
 104526,Reliance Mutual Fund,Reliance Fixed Horizon Fund-II-Annual Plan-Series-I-Retail Plan Growth Option,,,Close Ended Schemes,Income
 104527,Reliance Mutual Fund,Reliance Fixed Horizon Fund-II-Annual Plan-Series-I-Retail Plan-Dividend Option,,,Close Ended Schemes,Income
-104528,Reliance Mutual Fund,Reliance Fixed Horizon Fund-II-Annual Plan-Series-I-Institutional Plan Growth Option,,,Close Ended Schemes,Income
-104529,Reliance Mutual Fund,Reliance Fixed Horizon Fund-II-Annual Plan-Series-I-Institutional Plan-Dividend Option,,,Close Ended Schemes,Income
-104530,Reliance Mutual Fund,Reliance Fixed Horizon Fund-II-Annual Plan-Series-II-Retail Plan Growth Option,,,Close Ended Schemes,Income
-104531,Reliance Mutual Fund,Reliance Fixed Horizon Fund-II-Annual Plan-Series-II-Retail Plan-Dividend Option,,,Close Ended Schemes,Income
-104532,Reliance Mutual Fund,Reliance Fixed Horizon Fund-II-Annual Plan-Series-II-Institutional Plan-Growth Option,,,Close Ended Schemes,Income
-104533,Reliance Mutual Fund,Reliance Fixed Horizon Fund-II-Annual Plan-Series-II-Institutional Plan-Dividend Option,,,Close Ended Schemes,Income
-104534,Reliance Mutual Fund,Reliance Fixed Horizon Fund-I Quarterly Plan Series-III-Growth Option,,,Close Ended Schemes,Income
-104535,Reliance Mutual Fund,Reliance Fixed Horizon Fund-I Quarterly Plan Series-III-Dividend Option,,,Close Ended Schemes,Income
-104536,Tata Mutual Fund,Tata Fixed Horizon Fund Series 6 Scheme H - Dividend,,,Close Ended Schemes,Income
-104537,Tata Mutual Fund,Tata Fixed Horizon Fund Series 6 Scheme H - Growth,,,Close Ended Schemes,Income
-104538,SBI Mutual Fund,SBI DEBT FUND SERIES 90 DAYS-6 GROWTH,,,Close Ended Schemes,Income
-104539,SBI Mutual Fund,SBI DEBT FUND SERIES 90 DAYS-6 DIVIDEND,,,Close Ended Schemes,Income
-104540,SBI Mutual Fund,SBI DEBT FUND SERIES -60 DAYS -5-GROWTH,,,Close Ended Schemes,Income
-104541,SBI Mutual Fund,SBI DEBT FUND SERIES -60 DAYS -5-DIVIDEND,,,Close Ended Schemes,Income
-104542,Aditya Birla Sun Life Mutual Fund,BIRLA FTP-HALF YEARLY SERIES 1-DIVIDEND,,,Close Ended Schemes,Income
-104543,Aditya Birla Sun Life Mutual Fund,BIRLA FTP-HALF YEARLY SERIES 1-GROWTH,,,Close Ended Schemes,Income
-104544,DSP Mutual Fund,DSP BlackRock Fixed Term Plan - Series 1 E - Growth,,,Close Ended Schemes,Income
-104545,DSP Mutual Fund,DSP BlackRock Fixed Term Plan - Series 1 E - Dividend,,,Close Ended Schemes,Income
-104546,Fidelity Mutual Fund,Fidelity Cash Fund - Institutional Plan - Weekly Dividend Option,,,Open Ended Schemes,Income
-104547,Fidelity Mutual Fund,Fidelity Cash Fund - Retail Plan - Monthly Dividend Option,,,Open Ended Schemes,Income
-104548,Fidelity Mutual Fund,Fidelity Cash Fund - Institutional Plan - Monthly Dividend Option,,,Open Ended Schemes,Income
-104549,Fidelity Mutual Fund,Fidelity Cash Fund - Retail Plan - Weekly Dividend Option,,,Open Ended Schemes,Income
-104550,Fidelity Mutual Fund,Fidelity Cash Fund - Super Institutional Plan - Weekly Dividend Option,,,Open Ended Schemes,Income
-104551,Fidelity Mutual Fund,Fidelity Cash Fund - Super Institutional Plan - Monthly Dividend Option,,,Open Ended Schemes,Income
-104552,UTI Mutual Fund,UTI FIXED MATURITY PLAN QUARTERLY NOV2006 SERIES -II - Dividend Option,,,Close Ended Schemes,Income
-104553,UTI Mutual Fund,UTI FIXED MATURITY PLAN QUARTERLY NOV2006 SERIES -II - GROWTH OPTION,,,Close Ended Schemes,Income
-104554,Franklin Templeton Mutual Fund,Templeton India Money Market Account - Dividend Plan,,,Open Ended Schemes,Income
-104555,LIC Mutual Fund,LICMF FIXED MATURITY PLAN SERIES 12 - DIVIDEND OPTION,,,Close Ended Schemes,Income
-104556,LIC Mutual Fund,LICMF FIXED MATURITY PLAN SERIES 12 - GROWTH OPTION,,,Close Ended Schemes,Income
-104557,DBS Chola Mutual Fund,DBS Chola Fixed Maturity Plan - Series 5 (Quarterly Plan - III) - Cumulative,,,Close Ended Schemes,Income
-104558,DBS Chola Mutual Fund,DBS Chola Fixed Maturity Plan - Series 5 (Quarterly Plan - III) - Dividend,,,Close Ended Schemes,Income
-104560,ING Mutual Fund,ING Income Growth Multi-Manager FoF Scheme-30% Equity Plan Option B -Growth,,,Open Ended Schemes,Income
-104561,ING Mutual Fund,ING Income Growth Multi-Manager FoF Scheme -15% Equity Plan Option B -Growth,,,Open Ended Schemes,Income
-104562,ING Mutual Fund,ING Income Growth Multi-Manager FoF Scheme-30% Equity Plan Option B -Dividend,,,Open Ended Schemes,Income
-104563,ING Mutual Fund,ING Income Growth Multi-Manager FoF Scheme-15% Equity Plan Option B-Dividend,,,Open Ended Schemes,Income
-104564,HDFC Mutual Fund,HDFC FMP 90D December 2006 - RP - Dividend,,,Close Ended Schemes,Income
-104565,HDFC Mutual Fund,HDFC FMP 90D December 2006 - RP - Growth,,,Close Ended Schemes,Income
 104566,HDFC Mutual Fund,HDFC FMP 90D December 2006 - WP - Dividend,,,Close Ended Schemes,Income
-104567,HDFC Mutual Fund,HDFC FMP 90D December 2006 - WP - Growth,,,Close Ended Schemes,Income
 104572,ABN  AMRO Mutual Fund,ABN AMRO Fixed Term Plan - Series 4: Seventeen Months Plan - Regular Plan - Monthly Dividend Option,,,Close Ended Schemes,Income
 104573,ABN  AMRO Mutual Fund,ABN AMRO Fixed Term Plan - Series 4: Seventeen Months Plan - Institutional Plan - Growth Option,,,Close Ended Schemes,Income
 104574,ABN  AMRO Mutual Fund,ABN AMRO Fixed Term Plan - Series 4: Seventeen Months Plan - Institutional Plan - Monthly Dividend Option,,,Close Ended Schemes,Income
@@ -16043,11 +15999,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 104578,ICICI Prudential Mutual Fund,ICICI Prudential FMP series 32 - 1 Mth Plan D - Retail Dividend Option,,,Close Ended Schemes,Income
 104579,ICICI Prudential Mutual Fund,ICICI Prudential FMP series 32 - 1 Mth Plan D - Retail Cumulative Option,,,Close Ended Schemes,Income
 104580,Reliance Mutual Fund,Reliance Fixed Horizon Fund-I-Monthly Plan Series-III-Growth Option,,,Close Ended Schemes,Income
-104581,Reliance Mutual Fund,Reliance Fixed Horizon Fund-I-Monthly Plan Series-III-Dividend Option,,,Close Ended Schemes,Income
-104582,ICICI Prudential Mutual Fund,ICICI Prudential FMP series 34 - 17 Mths Plan - Retail Dividend Option,,,Close Ended Schemes,Income
-104583,ICICI Prudential Mutual Fund,ICICI Prudential FMP series 34 - 17 Mths Plan - Institutional Growth Option,,,Close Ended Schemes,Income
-104584,ICICI Prudential Mutual Fund,ICICI Prudential FMP series 34 - 17 Mths Plan - Institutional Dividend Option,,,Close Ended Schemes,Income
-104585,ICICI Prudential Mutual Fund,ICICI Prudential FMP series 34 - 17 Mths Plan - Retail Growth Option,,,Close Ended Schemes,Income
 104588,UTI Mutual Fund,UTI - CRTS 81 - Growth Option,,,Open Ended Schemes,Income
 104601,Standard Chartered Mutual Fund,Standard Chartered Arbitrage Fund-Plan A - Growth,,,Open Ended Schemes,Income
 104602,Standard Chartered Mutual Fund,Standard Chartered Arbitrage Fund-Plan A - Dividend,,,Open Ended Schemes,Income
@@ -16082,11 +16033,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 104646,UTI Mutual Fund,UTI FMP Quarterly Dec 2006 Series II - Income Option,,,Close Ended Schemes,Income
 104647,Standard Chartered Mutual Fund,Standard Chartered Fixed Maturity Plan - Quarterly Series 2-Dividend,,,Close Ended Schemes,Income
 104648,Standard Chartered Mutual Fund,Standard Chartered Fixed Maturity Plan - Quarterly Series 2-Growth,,,Close Ended Schemes,Income
-104649,ING Mutual Fund,ING Active Debt Multi-Manager FoF Scheme- Dividend,,,Open Ended Schemes,Income
-104650,ING Mutual Fund,ING Active Debt Multi-Manager FoF Scheme- Growth,,,Open Ended Schemes,Income
-104651,PRINCIPAL Mutual Fund,Principal Pnb Fixed Maturity Plan -91 days- Series VI - div plan,,,Close Ended Schemes,Income
-104652,PRINCIPAL Mutual Fund,Principal Pnb Fixed Maturity Plan - 91 days - Series VI- growth plan,,,Close Ended Schemes,Income
-104653,HSBC Mutual Fund,HSBC Fixed Term Series 21 - Regular - Dividend,,,Close Ended Schemes,Income
 104654,HSBC Mutual Fund,HSBC Fixed Term Series 21 - Regular - Growth,,,Close Ended Schemes,Income
 104655,HSBC Mutual Fund,HSBC Fixed Term Series 21 - Inst. - Dividend,,,Close Ended Schemes,Income
 104656,HSBC Mutual Fund,HSBC Fixed Term Series 21 - Inst. - Growth,,,Close Ended Schemes,Income
@@ -16133,11 +16079,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 104712,Tata Mutual Fund,Tata Fixed Horizon Fund Series 8 Scheme D - Regular Plan - Periodic Dividend,,,Close Ended Schemes,Income
 104713,Tata Mutual Fund,Tata Fixed Horizon Fund Series 8 Scheme D - Institutional Plan - Periodic Dividend,,,Close Ended Schemes,Income
 104714,Reliance Mutual Fund,Reliance Fixed Horizon Fund Plan 'C' Series -II Retail Plan-Growth Option,,,Close Ended Schemes,Income
-104715,Reliance Mutual Fund,Reliance Fixed Horizon Fund Plan 'C' Series -II Retail Plan-Dividend Option,,,Close Ended Schemes,Income
 104716,Reliance Mutual Fund,Reliance Fixed Horizon Fund Plan 'C' Series -II-Institutional Plan -Growth Option,,,Close Ended Schemes,Income
-104717,Reliance Mutual Fund,Reliance Fixed Horizon Fund Plan 'C' Series -II-Institutional Plan -Dividend Option,,,Close Ended Schemes,Income
-104718,Reliance Mutual Fund,Reliance Fixed Horizon Fund-I-Monthly Plan Series-IV-Growth Option,,,Close Ended Schemes,Income
-104719,Reliance Mutual Fund,Reliance Fixed Horizon Fund-I-Monthly Plan Series-IV-Divdiend Option,,,Close Ended Schemes,Income
 104720,DBS Chola Mutual Fund,DBS Chola Fixed Maturity Plan - 6 (Quarterly Plan - II) - Dividend payout,,,Close Ended Schemes,Income
 104721,DBS Chola Mutual Fund,DBS Chola Fixed Maturity Plan - 6 (Quarterly Plan - II) - Cumulative,,,Close Ended Schemes,Income
 104724,Invesco Mutual Fund,Invesco India Ultra Short Term Fund - Regular - Bonus,,,Open Ended Schemes,Income
@@ -18124,7 +18066,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 107174,Deutsche Mutual Fund,DWS FIXED TERM FUND SERIES 42- REGULAR DIVIDEND,,,Close Ended Schemes,Income
 107175,Aditya Birla Sun Life Mutual Fund,Birla Sun Life Quarterly Interval Fund - Series 1 DIVIDEND,,,Close Ended Schemes,Income
 107176,Aditya Birla Sun Life Mutual Fund,Birla Sun Life Quarterly Interval Fund - Series 1 GROWTH,,,Close Ended Schemes,Income
-107181,ICICI Prudential Mutual Fund,ICICI Prudential FMP series 42 - 18 Mths Plan - Retail Dividend Option,,,Close Ended Schemes,Income
 107182,ICICI Prudential Mutual Fund,ICICI Prudential FMP series 42 - 18 Mths Plan - Retail Growth Option,,,Close Ended Schemes,Income
 107184,ICICI Prudential Mutual Fund,ICICI Prudential FMP series 42 - 13 Mths Plan A - Retail Dividend Option,,,Close Ended Schemes,Income
 107185,ICICI Prudential Mutual Fund,ICICI Prudential FMP series 42 - 13 Mths Plan A - Institutional Growth Option,,,Close Ended Schemes,Income
@@ -18137,7 +18078,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 107192,Sahara Mutual Fund,Sahara FMP 3 Months Series - 2 - Growth Option,,,Close Ended Schemes,Income
 107194,UTI Mutual Fund,UTI Fixed Income Interval Fund - Monthly Interval Plan II-Instn. Dividend Option,,,Close Ended Schemes,Income
 107196,UTI Mutual Fund,UTI Fixed Income Interval Fund - Monthly Interval Plan II-Instn Growth Option,,,Close Ended Schemes,Income
-107197,Invesco Mutual Fund,Religare Quarterly Interval Fund - Plan C -Dividend,,,Open Ended Schemes,Income
 107198,Invesco Mutual Fund,Religare Quarterly Interval Fund - Plan C -Growth,,,Open Ended Schemes,Income
 107199,Invesco Mutual Fund,Religare Quarterly Interval Fund - Plan D -Growth,,,Open Ended Schemes,Income
 107200,Invesco Mutual Fund,Religare Quarterly Interval Fund - Plan D -Dividend,,,Open Ended Schemes,Income
@@ -21477,11 +21417,14 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 111774,HDFC Mutual Fund,HDFC FMP 13M March 2009 (1) - RETAIL PLAN - QUARTERLY DIVIDEND OPTION,,,Close Ended Schemes,Income
 111775,UTI Mutual Fund,UTI-Fixed Term Income Fund Sr.V  Plan X  (12 Mts) - Dividend Option,,,Close Ended Schemes,Income
 111776,UTI Mutual Fund,UTI-Fixed Term Income Fund Sr.V  Plan X  (12 Mts)- Growth Option,,,Close Ended Schemes,Income
+111778,Tata Mutual Fund,Tata Infrastructure Tax Saving Fund - Growth,,,Close Ended Schemes,ELSS
 111779,Tata Mutual Fund,Tata Infrastructure Tax Saving Fund - Dividend,,,Close Ended Schemes,ELSS
 111780,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Corporate Bond Fund - Discipline Advantage Plan,,,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
 111781,Sahara Mutual Fund,SAHARA SHORT TERM BOND FUND- DIVIDEND REINVESTMENT,,,Open Ended Schemes,Income
 111782,Sahara Mutual Fund,SAHARA SHORT TERM BOND FUND-GROWTH,,,Open Ended Schemes,Income
 111783,Kotak Mahindra Mutual Fund,Kotak FMP 18M Series 1 - Growth,,,Close Ended Schemes,Income
+111785,DSP Mutual Fund,DSP BlackRock Strategic Bond Fund - Regular Plan - Daily Dividend,,,Open Ended Schemes,Income
+111789,Taurus Mutual Fund,Taurus  FMP 370 Days Sr 2 Retail Growth Plan,,,Close Ended Schemes,Income
 111790,Taurus Mutual Fund,Taurus FMP 370 Days Sr 2 Retail Dividend Plan,,,Close Ended Schemes,Income
 111791,Taurus Mutual Fund,Taurus FMP 370 Days Inst Grwoth Plan,,,Close Ended Schemes,Income
 111792,Taurus Mutual Fund,Taurus FMP 370 Days Sr 2 Insti Dividend Plan,,,Close Ended Schemes,Income
@@ -26248,6 +26191,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 119802,L&T Mutual Fund,L&T Equity Savings Fund - Direct Plan-Growth,,,Open Ended Schemes,Hybrid Scheme - Equity Savings
 119803,L&T Mutual Fund,L&T Equity Savings Fund - Direct Plan-Monthly IDCW,,,Open Ended Schemes,Hybrid Scheme - Equity Savings
 119806,L&T Mutual Fund,L&T Mid Cap Fund-Direct Plan -IDCW,,,Open Ended Schemes,Equity Scheme - Mid Cap Fund
+119807,L&T Mutual Fund,L&T Mid Cap Fund-Direct Plan-Growth,,,Open Ended Schemes,Equity Scheme - Mid Cap Fund
+119808,L&T Mutual Fund,L&T Low Duration Fund-Direct Plan-IDCW,,,Open Ended Schemes,Debt Scheme - Low Duration Fund
+119809,L&T Mutual Fund,L&T Low Duration Fund-Direct Plan-Growth,,,Open Ended Schemes,Debt Scheme - Low Duration Fund
 119844,L&T Mutual Fund,L&T Triple Ace Bond Fund - Direct Plan -Growth,,,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
 119846,L&T Mutual Fund,L&T Triple Ace Bond Fund - Direct Plan -Semi Annual IDCW,,,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
 119847,L&T Mutual Fund,L&T Triple Ace Bond Fund -Direct Plan- Quarterly IDCW,,,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
@@ -32873,7 +32819,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 141123,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series OL (1148 days) - Direct Plan-Growth,,,Close Ended Schemes,Income
 141127,HDFC Mutual Fund,HDFC FMP 1188D March 2017 (1) - Direct Option -  Dividend Option,,,Close Ended Schemes,Income
 141128,HDFC Mutual Fund,HDFC FMP 1188D March 2017 (1) - Direct Option -  Quarterly Dividend Option,,,Close Ended Schemes,Income
-141129,HDFC Mutual Fund,HDFC FMP 1188D March 2017 (1) - Regular Option -  Dividend Option,,,Close Ended Schemes,Income
 141130,HDFC Mutual Fund,HDFC FMP 1188D March 2017 (1) - Regular Option -  Growth Option,,,Close Ended Schemes,Income
 141131,HDFC Mutual Fund,HDFC FMP 1188D March 2017 (1) - Regular Option -  Quarterly Dividend Option,,,Close Ended Schemes,Income
 141132,HDFC Mutual Fund,HDFC FMP 1188D March 2017 (1) - Direct Option -  Growth Option,,,Close Ended Schemes,Income
