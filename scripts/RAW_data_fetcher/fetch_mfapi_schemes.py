@@ -1,7 +1,6 @@
 import requests
 import csv
 import concurrent.futures
-import os
 import time
 from tqdm import tqdm
 
