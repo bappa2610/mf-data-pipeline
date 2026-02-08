@@ -2,9 +2,10 @@ import csv
 import os
 from datetime import datetime
 from collections import defaultdict
+from tqdm import tqdm
 
-NAV_DIR = "data/nav_history"
-OUT_DIR = "data/nav_year"
+NAV_DIR = "data/NAV/nav_history"
+OUT_DIR = "data/NAV/nav_year"
 
 print("📁 Preparing yearly NAV output directory...")
 os.makedirs(OUT_DIR, exist_ok=True)
@@ -29,7 +30,7 @@ year_files = sorted(
 if not year_files:
     print("ℹ️ No existing yearly NAV files found")
 
-for fname in year_files:
+for fname in tqdm(year_files, desc="Loading existing yearly NAV indexes"):
     year = fname.replace("nav_year_", "").replace(".csv", "")
     if not year.isdigit() or len(year) != 4:
         continue
@@ -43,8 +44,6 @@ for fname in year_files:
                 existing[year].add((r["SchemeCode"], r["Date"]))
                 count += 1
 
-    print(f"📅 {year} → 📦 {count:,} rows cached")
-
 print("✅ Existing yearly NAV index ready\n")
 
 # ---------------- COLLECT NEW DATA ----------------
@@ -52,7 +51,7 @@ to_write = defaultdict(list)
 
 print("\n🔍 Processing schemes...")
 
-for i, file in enumerate(scheme_files, start=1):
+for file in tqdm(scheme_files, desc="Processing schemes"):
     scheme_code = os.path.splitext(file)[0]
     file_path = os.path.join(NAV_DIR, file)
 
@@ -82,8 +81,6 @@ for i, file in enumerate(scheme_files, start=1):
             existing[year].add(key)
             to_write[year].append((scheme_code, date_str, nav))
             added += 1
-
-    print(f"📄 [{i}/{len(scheme_files)}] {scheme_code} → ➕ {added}")
 
 # ---------------- WRITE OUTPUT ----------------
 print("\n💾 Writing yearly NAV files...")

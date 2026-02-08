@@ -1,6 +1,7 @@
 import csv
 import re
 import os
+from tqdm import tqdm
 
 # Configuration Constants
 INPUT_FILE = "data/scheme_data/analytics/mf_schemes_combined.csv"
@@ -114,7 +115,8 @@ def main():
     try:
         with open(INPUT_FILE, "r", encoding="utf-8") as f:
             reader = csv.DictReader(f)
-            for row in reader:
+            rows_list = list(reader)
+            for row in tqdm(rows_list, desc="Analyzing schemes"):
                 scheme_code = re.sub(r'\s+', ' ', row["SchemeCode"].strip())
                 amc = re.sub(r'\s+', ' ', row["AMC"].strip())
                 scheme_name = re.sub(r'\s+', ' ', row["SchemeName"].strip())
@@ -163,8 +165,6 @@ def main():
                 }
 
                 rows.append(analyzed_row)
-
-                print(f"📄 Analyzed: {scheme_name}")
 
     except FileNotFoundError:
         print(f"❌ Error: {INPUT_FILE} not found.")

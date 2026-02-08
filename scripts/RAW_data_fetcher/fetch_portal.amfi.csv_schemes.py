@@ -1,6 +1,7 @@
 import requests
 import csv
 import io
+from tqdm import tqdm
 
 # URL to fetch the CSV data
 URL = "https://portal.amfiindia.com/DownloadSchemeData_Po.aspx?mf=0"
@@ -23,13 +24,11 @@ def fetch_and_save_csv():
         csv_reader = csv.reader(io.StringIO(response.text))
         cleaned_rows = []
         row_count = 0
-        for row in csv_reader:
+        for row in tqdm(csv_reader, desc="Processing rows"):
             row_count += 1
             # Check if row is not empty (all fields are not empty after stripping)
             if any(field.strip() for field in row):
                 cleaned_rows.append(row)
-            if row_count % 1000 == 0:  # Print every 1000 rows to avoid spam
-                print(f"📄 Step 4: Processed {row_count} rows so far...")
 
         print(f"🧮 Step 5: Total rows processed: {row_count}. Cleaned rows: {len(cleaned_rows)}")
 

@@ -4,12 +4,14 @@ import os
 import time
 from datetime import datetime, date
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from tqdm import tqdm
 
 # ================= CONFIG =================
 CODES_FILE = "data/scheme_data/MF_data/amfi_mf_analyzed_schemes.csv"
-NAV_DIR = "data/nav_history"
+NAV_DIR = "data/NAV/nav_history"
 
 MAX_WORKERS = 8
+MAX_RETRIES = 5
 REQUEST_DELAY = 0.12
 CONNECT_TIMEOUT = 2
 READ_TIMEOUT = 5
@@ -55,15 +57,28 @@ def process_scheme(args):
     session = requests.Session()
     session.headers.update({"User-Agent": "Mozilla/5.0 (NAV-Updater)"})
 
+    max_retries = MAX_RETRIES
+    for attempt in range(max_retries):
+        try:
+            r = session.get(
+                f"https://api.mfapi.in/mf/{code}",
+                timeout=(CONNECT_TIMEOUT, READ_TIMEOUT)
+            )
+
+            if r.status_code == 200:
+                break  # Success, exit retry loop
+            else:
+                if attempt == max_retries - 1:
+                    return status_line, "🔴 API error (max retries)"
+                time.sleep(REQUEST_DELAY)  # Wait before retry
+        except requests.exceptions.RequestException:
+            if attempt == max_retries - 1:
+                return status_line, "🌐 Network error (max retries)"
+            time.sleep(REQUEST_DELAY)  # Wait before retry
+    else:
+        return status_line, "❌ Max retries exceeded"
+
     try:
-        r = session.get(
-            f"https://api.mfapi.in/mf/{code}",
-            timeout=(CONNECT_TIMEOUT, READ_TIMEOUT)
-        )
-
-        if r.status_code != 200:
-            return status_line, "🔴 API error"
-
         data = r.json().get("data")
         if not data:
             return status_line, "⚠️ No NAV data"
@@ -109,8 +124,6 @@ def process_scheme(args):
         result_line = f"✅ Updated | +{len(new_rows_filtered)} NAV rows"
         return status_line, result_line
 
-    except requests.exceptions.RequestException:
-        return status_line, "🌐 Network error"
     except Exception as e:
         return status_line, f"❌ Error ({e})"
 
@@ -132,26 +145,10 @@ print("🚀 Starting NAV history update...\n")
 
 with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
     futures = [executor.submit(process_scheme, t) for t in tasks]
-    for future in as_completed(futures):
-        line1, line2 = future.result()
-
-        scheme_code = line1.split()[-1]
-        index_part = line1.split("]")[0] + "]"
-
-        if "Updated" in line2:
-            icon = "✅"
-        elif "Up to date" in line2:
-            icon = "🟢"
-        elif "No new NAVs" in line2:
-            icon = "🟡"
-        elif "API error" in line2:
-            icon = "🔴"
-        elif "Network error" in line2:
-            icon = "🌐"
-        else:
-            icon = "⚠️"
-
-        print(f"{index_part} {scheme_code} {icon} {line2}")
+    with tqdm(total=total, desc="Processing schemes") as pbar:
+        for future in as_completed(futures):
+            line1, line2 = future.result()
+            pbar.update(1)
 
 
 print("\n🎉 NAV history update completed successfully ✅")

@@ -3,6 +3,7 @@ import csv
 import concurrent.futures
 import os
 import time
+from tqdm import tqdm
 
 # API URLs
 BASE_URL = "https://api.mfapi.in/mf"
@@ -31,14 +32,12 @@ def fetch_scheme_details(scheme):
         return None
 
     url = f"{BASE_URL}/{scheme_code}"
-    print(f"🔄 Step 3: Fetching details for scheme {scheme_code} - {scheme_name}...")
     for attempt in range(MAX_RETRIES):
         try:
             response = requests.get(url, timeout=5)
             response.raise_for_status()
             details = response.json()
             meta = details.get("meta", {})
-            print(f"✅ Step 4: Successfully fetched details for scheme {scheme_code}.")
             return {
                 "SchemeCode": scheme_code,
                 "AMC": meta.get("fund_house", ""),
@@ -50,10 +49,9 @@ def fetch_scheme_details(scheme):
             }
         except requests.RequestException as e:
             if attempt < MAX_RETRIES - 1:
-                print(f"⚠️ Step 5: Attempt {attempt + 1} failed for scheme {scheme_code}, retrying...")
                 time.sleep(1)  # Wait before retry
             else:
-                print(f"❌ Step 6: All attempts failed for scheme {scheme_code}.")
+                print(f"❌ Failed to fetch scheme {scheme_code} after {MAX_RETRIES} attempts.")
                 return {"SchemeCode": scheme_code, "error": True}
 
     return None
@@ -69,21 +67,19 @@ def main():
 
     data = []
     failed_schemes = []
-    processed = 0
     print("Step 2.1: Creating ThreadPoolExecutor and submitting tasks...")
     with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
         futures = [executor.submit(fetch_scheme_details, scheme) for scheme in schemes]
         print("Step 2.2: All tasks submitted. Waiting for completion...")
-        for future in concurrent.futures.as_completed(futures):
-            result = future.result()
-            if result:
-                if result.get("error"):
-                    failed_schemes.append(result["SchemeCode"])
-                else:
-                    data.append(result)
-            processed += 1
-            if processed % 100 == 0:
-                print(f"📊 Step 2.3: Processed {processed}/{len(schemes)} schemes...")
+        with tqdm(total=len(schemes), desc="Processing schemes") as pbar:
+            for future in concurrent.futures.as_completed(futures):
+                result = future.result()
+                if result:
+                    if result.get("error"):
+                        failed_schemes.append(result["SchemeCode"])
+                    else:
+                        data.append(result)
+                pbar.update(1)
 
     print(f"✅ Step 2.4: All schemes processed. Total successful: {len(data)}, Failed: {len(failed_schemes)}")
 

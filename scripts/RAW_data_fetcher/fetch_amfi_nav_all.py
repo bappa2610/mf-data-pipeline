@@ -1,6 +1,7 @@
 import requests
 import csv
 import io
+from tqdm import tqdm
 
 # URL to fetch the NAV data
 URL = "https://www.amfiindia.com/spages/NAVAll.txt"
@@ -26,59 +27,59 @@ def fetch_and_save_nav_csv():
         current_category = ""
         current_amc = ""
         row_count = 0
-        for row in csv_reader:
-            row_count += 1
-            if not header:
-                header = row
-                print(f"📋 Step 4: Processed header row. Columns: {header}")
-                # Map to available columns
-                col_indices = {
-                    'SchemeCode': header.index('Scheme Code'),
-                    'SchemeName': header.index('Scheme Name'),
-                    'ISIN': header.index('ISIN Div Payout/ ISIN Growth'),
-                    'ISINdivReinvestment': header.index('ISIN Div Reinvestment'),
-                    'NAV': header.index('Net Asset Value'),
-                    'NAV date': header.index('Date')
-                }
-                # Write new header
-                cleaned_rows.append(['SchemeCode', 'AMC', 'SchemeName', 'ISIN', 'ISINdivReinvestment', 'SchemeType', 'Category', 'NAV', 'NAV date'])
-                print("📝 Step 5: New header added to cleaned rows.")
-            else:
-                # Check if it's a category line (single field, contains "Schemes")
-                if len(row) == 1 and row[0].strip() and "Schemes" in row[0].strip():
-                    current_category = row[0].strip()
-                    print(f"🏷️ Step 6: Detected category - {current_category}")
-                # Check if it's an AMC line (single field, not digit, and does not contain "Schemes")
-                elif len(row) == 1 and row[0].strip() and not row[0].strip().isdigit() and "Schemes" not in row[0].strip():
-                    current_amc = row[0].strip()
-                    print(f"🏢 Step 7: Detected AMC - {current_amc}")
-                # Check if row is data row: starts with digit, has enough columns
-                elif len(row) >= len(col_indices) and row[0].strip().isdigit():
-                    # Split current_category into SchemeType and Category
-                    if '(' in current_category and ')' in current_category:
-                        scheme_type = current_category.split('(')[0].strip()
-                        category = current_category.split('(')[1].split(')')[0].strip()
-                    else:
-                        scheme_type = current_category
-                        category = ""
-                    # Clean ISIN and ISINdivReinvestment
-                    isin = row[col_indices['ISIN']].replace('-', '') if row[col_indices['ISIN']] != '-' else ''
-                    isin_div_reinvestment = row[col_indices['ISINdivReinvestment']].replace('-', '') if row[col_indices['ISINdivReinvestment']] != '-' else ''
-                    # Select columns
-                    selected_row = [
-                        row[col_indices['SchemeCode']].strip(),
-                        current_amc.strip(),
-                        row[col_indices['SchemeName']].strip(),
-                        isin.strip(),
-                        isin_div_reinvestment.strip(),
-                        scheme_type.strip(),
-                        category.strip(),
-                        row[col_indices['NAV']].strip(),
-                        row[col_indices['NAV date']].strip()
-                    ]
-                    cleaned_rows.append(selected_row)
-                    if len(cleaned_rows) % 1000 == 0:  # Print every 1000 rows to avoid spam
-                        print(f"📄 Step 8: Processed {len(cleaned_rows)} data rows so far...")
+        with tqdm(desc="Processing schemes", unit="schemes") as pbar:
+            for row in csv_reader:
+                row_count += 1
+                if not header:
+                    header = row
+                    pbar.write(f"📋 Step 4: Processed header row. Columns: {header}")
+                    # Map to available columns
+                    col_indices = {
+                        'SchemeCode': header.index('Scheme Code'),
+                        'SchemeName': header.index('Scheme Name'),
+                        'ISIN': header.index('ISIN Div Payout/ ISIN Growth'),
+                        'ISINdivReinvestment': header.index('ISIN Div Reinvestment'),
+                        'NAV': header.index('Net Asset Value'),
+                        'NAV date': header.index('Date')
+                    }
+                    # Write new header
+                    cleaned_rows.append(['SchemeCode', 'AMC', 'SchemeName', 'ISIN', 'ISINdivReinvestment', 'SchemeType', 'Category', 'NAV', 'NAV date'])
+                    pbar.write("📝 Step 5: New header added to cleaned rows.")
+                else:
+                    # Check if it's a category line (single field, contains "Schemes")
+                    if len(row) == 1 and row[0].strip() and "Schemes" in row[0].strip():
+                        current_category = row[0].strip()
+                        pbar.write(f"🏷️ Step 6: Detected category - {current_category}")
+                    # Check if it's an AMC line (single field, not digit, and does not contain "Schemes")
+                    elif len(row) == 1 and row[0].strip() and not row[0].strip().isdigit() and "Schemes" not in row[0].strip():
+                        current_amc = row[0].strip()
+                        pbar.write(f"🏢 Step 7: Detected AMC - {current_amc}")
+                    # Check if row is data row: starts with digit, has enough columns
+                    elif len(row) >= len(col_indices) and row[0].strip().isdigit():
+                        # Split current_category into SchemeType and Category
+                        if '(' in current_category and ')' in current_category:
+                            scheme_type = current_category.split('(')[0].strip()
+                            category = current_category.split('(')[1].split(')')[0].strip()
+                        else:
+                            scheme_type = current_category
+                            category = ""
+                        # Clean ISIN and ISINdivReinvestment
+                        isin = row[col_indices['ISIN']].replace('-', '') if row[col_indices['ISIN']] != '-' else ''
+                        isin_div_reinvestment = row[col_indices['ISINdivReinvestment']].replace('-', '') if row[col_indices['ISINdivReinvestment']] != '-' else ''
+                        # Select columns
+                        selected_row = [
+                            row[col_indices['SchemeCode']].strip(),
+                            current_amc.strip(),
+                            row[col_indices['SchemeName']].strip(),
+                            isin.strip(),
+                            isin_div_reinvestment.strip(),
+                            scheme_type.strip(),
+                            category.strip(),
+                            row[col_indices['NAV']].strip(),
+                            row[col_indices['NAV date']].strip()
+                        ]
+                        cleaned_rows.append(selected_row)
+                        pbar.update(1)
 
         print(f"🧮 Step 9: Total rows processed: {row_count}. Cleaned rows: {len(cleaned_rows)}")
 

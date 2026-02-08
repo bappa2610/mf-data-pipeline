@@ -1,6 +1,7 @@
 import pandas as pd
 import os
 import shutil
+from tqdm import tqdm
 
 # File paths
 source_file = 'data/scheme_data/RAW_data/amfi_nav_all.csv'

@@ -1,4 +1,5 @@
 import csv
+from tqdm import tqdm
 
 # Specified scheme types to match
 specified_types = {"Open Ended Schemes", "Close Ended Schemes", "Interval Fund Schemes"}
@@ -9,7 +10,8 @@ unmatched_rows = []
 
 with open('data/scheme_data/RAW_data/mfapi_schemes.csv', 'r') as f:
     reader = csv.DictReader(f)
-    for row in reader:
+    rows = list(reader)
+    for row in tqdm(rows, desc="Filtering schemes"):
         if row['SchemeType'] in specified_types:
             matched_rows.append(row)
         else:
