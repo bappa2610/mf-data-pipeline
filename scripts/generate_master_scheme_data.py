@@ -9,7 +9,6 @@ scripts = [
     'scripts/MF_data_analysis/filter_mfapi_schemes.py',
     'scripts/MF_data_analysis/modify_portal.amfi.csv_schemes.py',
     'scripts/MF_data_analysis/mf_schemes_combiner.py',
-    'scripts/Export_scheme_data/amfi_mf_data_analyzer.py',
     'scripts/Master_data/amfi_MF_data_parser.py'
 ]
 
