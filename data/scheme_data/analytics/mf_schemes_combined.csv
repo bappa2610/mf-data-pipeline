@@ -11470,10 +11470,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 150745,Bandhan Mutual Fund,BANDHAN CRISIL IBX GILT APRIL 2026 INDEX FUND - REGULAR PLAN - IDCW,INF194KB1EL6,INF194KB1EM4,Open Ended Schemes,Other Scheme - Index Funds
 150746,Bandhan Mutual Fund,BANDHAN CRISIL IBX GILT APRIL 2026 INDEX FUND - DIRECT PLAN - GROWTH,INF194KB1EH4,,Open Ended Schemes,Other Scheme - Index Funds
 150747,Bandhan Mutual Fund,BANDHAN CRISIL IBX GILT APRIL 2026 INDEX FUND - DIRECT PLAN - IDCW,INF194KB1EI2,INF194KB1EJ0,Open Ended Schemes,Other Scheme - Index Funds
-150748,Axis Mutual Fund,Axis US Specific Equity Passive FOF - Regular Plan - IDCW,INF846K016K0,INF846K017K8,Open Ended Schemes,Other Scheme - FoF Overseas
-150749,Axis Mutual Fund,Axis US Specific Equity Passive FOF - Direct Plan - IDCW,INF846K013K7,INF846K014K5,Open Ended Schemes,Other Scheme - FoF Overseas
-150750,Axis Mutual Fund,Axis US Specific Equity Passive FOF - Regular Plan - Growth,INF846K015K2,,Open Ended Schemes,Other Scheme - FoF Overseas
-150751,Axis Mutual Fund,Axis US Specific Equity Passive FOF - Direct Plan - Growth,INF846K012K9,,Open Ended Schemes,Other Scheme - FoF Overseas
+150748,Axis Mutual Fund,Axis NASDAQ 100 US Specific Equity Passive FOF - Regular Plan - IDCW,INF846K016K0,INF846K017K8,Open Ended Schemes,Other Scheme - FoF Overseas
+150749,Axis Mutual Fund,Axis NASDAQ 100 US Specific Equity Passive FOF - Direct Plan - IDCW,INF846K013K7,INF846K014K5,Open Ended Schemes,Other Scheme - FoF Overseas
+150750,Axis Mutual Fund,Axis NASDAQ 100 US Specific Equity Passive FOF - Regular Plan - Growth,INF846K015K2,,Open Ended Schemes,Other Scheme - FoF Overseas
+150751,Axis Mutual Fund,Axis NASDAQ 100 US Specific Equity Passive FOF - Direct Plan - Growth,INF846K012K9,,Open Ended Schemes,Other Scheme - FoF Overseas
 150752,Nippon India Mutual Fund,Nippon India Nifty AAA PSU Bond Plus SDL - Sep 2026 Maturity 50:50 Index Fund-Regular Plan-Growth Option,INF204KC1659,,Open Ended Schemes,Other Scheme - Index Funds
 150753,Nippon India Mutual Fund,Nippon India Nifty AAA PSU Bond Plus SDL - Sep 2026 Maturity 50:50 Index Fund-Direct Plan-IDCW Option,INF204KC1691,,Open Ended Schemes,Other Scheme - Index Funds
 150754,Nippon India Mutual Fund,Nippon India Nifty AAA PSU Bond Plus SDL - Sep 2026 Maturity 50:50 Index Fund-Direct Plan-Growth Option,INF204KC1683,,Open Ended Schemes,Other Scheme - Index Funds
@@ -36186,7 +36186,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154197,UTI Asset Mgmt. Co. Ltd.,UTI Nifty500 Shariah Index Fund - Direct Plan Growth Option,,,Open Ended,Other Scheme - Index Funds
 154198,UTI Asset Mgmt. Co. Ltd.,UTI Nifty500 Shariah Index Fund - Regular Plan Growth Option,,,Open Ended,Other Scheme - Index Funds
 154199,Groww Asset Management Limited,Groww BSE Hospitals ETF,INF666M01OD9,,Open Ended,Other Scheme - Other  ETFs
-154200,Groww Asset Management Limited,Groww BSE Hospitals ETF FOF,,,Open Ended,Other Scheme - FoF Domestic
+154200,Groww Asset Management Limited,Groww BSE Hospitals ETF FOF Direct Growth,INF666M01NX9,,Open Ended,Other Scheme - FoF Domestic
+154221,Groww Asset Management Limited,Groww BSE Hospitals ETF FOF Direct IDCW,INF666M01NY7,INF666M01NZ4,Open Ended,Other Scheme - FoF Domestic
+154222,Groww Asset Management Limited,Groww BSE Hospitals ETF FOF Regular IDCW,INF666M01OB3,INF666M01OC1,Open Ended,Other Scheme - FoF Domestic
+154223,Groww Asset Management Limited,Groww BSE Hospitals ETF FOF Regular Growth,INF666M01OA5,,Open Ended,Other Scheme - FoF Domestic
 154201,Bajaj Finserv Asset Management Limited,Bajaj Finserv Low Duration Fund - Regular - IDCW,INF0QA701CD1,INF0QA701CE9,Open Ended,Debt Scheme - Low Duration Fund
 154202,Bajaj Finserv Asset Management Limited,Bajaj Finserv Low Duration Fund - Direct - IDCW,INF0QA701CG4,INF0QA701CH2,Open Ended,Debt Scheme - Low Duration Fund
 154203,Bajaj Finserv Asset Management Limited,Bajaj Finserv Low Duration Fund - Regular - Growth,INF0QA701CC3,,Open Ended,Debt Scheme - Low Duration Fund
@@ -36206,3 +36209,4 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154219,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset Nifty Metal ETF FOF - Regular Plan - IDCW,INF769K01QL3,INF769K01QK5,Open Ended,Other Scheme - FoF Domestic
 154216,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset Nifty Metal ETF FOF - Direct Plan - Growth,INF769K01QM1,,Open Ended,Other Scheme - FoF Domestic
 154217,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset Nifty Metal ETF FOF - Direct Plan - IDCW,INF769K01QO7,INF769K01QN9,Open Ended,Other Scheme - FoF Domestic
+154220,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life MSCI India ETF,,,Open Ended,Other Scheme - Other  ETFs
