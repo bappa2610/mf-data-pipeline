@@ -31107,6 +31107,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 129844,Tata Mutual Fund,Tata FMP Series 47 Scheme N-Direct Plan-Dividend Option,,,Close Ended Schemes,Income
 129849,L&T Mutual Fund,L&T FMP - Series XI - Plan B (90 days) - Direct Plan - Dividend (Payout) Option,,,Close Ended Schemes,Income
 129850,L&T Mutual Fund,L&T FMP - Series XI - Plan B (90 days) - Regular Plan - Growth Option,,,Close Ended Schemes,Income
+129851,L&T Mutual Fund,L&T FMP - Series XI - Plan B (90 days) - Direct Plan - Growth Option,,,Close Ended Schemes,Income
+129852,L&T Mutual Fund,L&T FMP - Series XI - Plan B (90 days) - Regular Plan - Dividend (Payout) Option,,,Close Ended Schemes,Income
 129873,LIC Mutual Fund,LIC MF FIXED MATURITY PLAN SERIES 82(764 DAYS)-REGULAR PLAN-DIVIDEND PAYOUT,,,Close Ended Schemes,Income
 129874,LIC Mutual Fund,LIC MF FIXED MATURITY PLAN SERIES 82(764 DAYS)-DIRECT PLAN-GROWTH,,,Close Ended Schemes,Income
 129875,LIC Mutual Fund,LIC MF FIXED MATURITY PLAN SERIES 82(764 DAYS)-REGULAR PLAN-GROWTH,,,Close Ended Schemes,Income
@@ -36209,3 +36211,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154217,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset Nifty Metal ETF FOF - Direct Plan - IDCW,INF769K01QO7,INF769K01QN9,Open Ended,Other Scheme - FoF Domestic
 154220,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life MSCI India ETF,INF209KC1662,,Open Ended,Other Scheme - Other  ETFs
 154224,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life BSE Top 10 Banks ETF,,,Open Ended,Other Scheme - Other  ETFs
+154227,Old Bridge Asset Management Private Limited,Old Bridge Flexi Cap Fund Regular IDCW,INF0S5R01174,,Open Ended,Equity Scheme - Flexi Cap Fund
+154228,Old Bridge Asset Management Private Limited,Old Bridge Flexi Cap Fund Direct IDCW,INF0S5R01141,,Open Ended,Equity Scheme - Flexi Cap Fund
+154229,Old Bridge Asset Management Private Limited,Old Bridge Flexi Cap Fund Direct IDCW Reinvestment,INF0S5R01158,,Open Ended,Equity Scheme - Flexi Cap Fund
+154230,Old Bridge Asset Management Private Limited,Old Bridge Flexi Cap Fund Regular IDCW Reinvestment,INF0S5R01182,,Open Ended,Equity Scheme - Flexi Cap Fund
+154225,Old Bridge Asset Management Private Limited,Old Bridge Flexi Cap Fund Direct Growth,INF0S5R01133,,Open Ended,Equity Scheme - Flexi Cap Fund
+154226,Old Bridge Asset Management Private Limited,Old Bridge Flexi Cap Fund Regular Growth,INF0S5R01166,,Open Ended,Equity Scheme - Flexi Cap Fund
