@@ -23151,6 +23151,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 134133,Deutsche Mutual Fund,DWS Large Cap Fund - Series 2 - Regular Plan - Growth,,Close Ended,Income,Income,Regular,Growth,
 134134,Deutsche Mutual Fund,DWS Large Cap Fund - Series 2 - Direct Plan - Growth,,Close Ended,Income,Income,Direct,Growth,
 134135,Deutsche Mutual Fund,DWS Large Cap Fund - Series 2 - Direct Plan - Dividend (Payout),,Close Ended,Income,Income,Direct,IDCW,
+134142,Deutsche Mutual Fund,DWS Hybrid Fixed Term Fund - Series 37 - Regular Plan - Growth,,Close Ended,Income,Income,Regular,Growth,
 134143,Deutsche Mutual Fund,DWS Hybrid Fixed Term Fund - Series 37 - Regular Plan - Quarterly Dividend,,Close Ended,Income,Income,Regular,IDCW,Quarterly
 134144,Deutsche Mutual Fund,DWS Hybrid Fixed Term Fund - Series 37 - Regular Plan - Regular Dividend,,Close Ended,Income,Income,Regular,IDCW,
 134145,Deutsche Mutual Fund,DWS hybrid Fixed Term Fund - Series 37 - Regular Plan - Annual Dividend,,Close Ended,Income,Income,Regular,IDCW,Annual
@@ -36210,3 +36211,9 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 154222,Groww Asset Management Limited,Groww BSE Hospitals ETF FOF Regular IDCW,INF666M01OB3,Open Ended,Other,FoF Domestic,Regular,IDCW,
 154223,Groww Asset Management Limited,Groww BSE Hospitals ETF FOF Regular Growth,INF666M01OA5,Open Ended,Other,FoF Domestic,Regular,Growth,
 154224,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life BSE Top 10 Banks ETF,,Open Ended,Other,ETF,Other,Other,
+154225,Old Bridge Asset Management Private Limited,Old Bridge Flexi Cap Fund Direct Growth,INF0S5R01133,Open Ended,Equity,Flexi Cap Fund,Direct,Growth,
+154226,Old Bridge Asset Management Private Limited,Old Bridge Flexi Cap Fund Regular Growth,INF0S5R01166,Open Ended,Equity,Flexi Cap Fund,Regular,Growth,
+154227,Old Bridge Asset Management Private Limited,Old Bridge Flexi Cap Fund Regular IDCW,INF0S5R01174,Open Ended,Equity,Flexi Cap Fund,Regular,IDCW,
+154228,Old Bridge Asset Management Private Limited,Old Bridge Flexi Cap Fund Direct IDCW,INF0S5R01141,Open Ended,Equity,Flexi Cap Fund,Direct,IDCW,
+154229,Old Bridge Asset Management Private Limited,Old Bridge Flexi Cap Fund Direct IDCW Reinvestment,INF0S5R01158,Open Ended,Equity,Flexi Cap Fund,Direct,IDCW,Reinvestment
+154230,Old Bridge Asset Management Private Limited,Old Bridge Flexi Cap Fund Regular IDCW Reinvestment,INF0S5R01182,Open Ended,Equity,Flexi Cap Fund,Regular,IDCW,Reinvestment
