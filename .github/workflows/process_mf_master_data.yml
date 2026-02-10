@@ -1,4 +1,4 @@
-name: Update Mutual Fund Historical NAV Data
+name: Process Mutual Fund Master Data
 
 on:
   schedule:
@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-nav-history:
+  update-amfi-mf-data:
     runs-on: ubuntu-latest
 
     permissions:
@@ -32,13 +32,10 @@ jobs:
       - name: Create data directory
         run: mkdir -p data
 
-      # -------- NAV TASKS --------
+      # -------- MASTER DATA TASKS --------
 
-      - name: Fetch NAV History CSV
-        run: python scripts/Export_NAV_history/fetch_nav_history.py
-
-      - name: Export NAV Year CSV
-        run: python scripts/Export_NAV_history/export_nav_year.py
+      - name: Fetch Scheme Codes
+        run: python scripts/generate_master_scheme_data.py
 
       # -------- COMMIT & PUSH --------
 
@@ -47,7 +44,7 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add data/
-          git commit -m "Auto update MF NAV data" || echo "No changes"
+          git commit -m "Auto update MF master data" || echo "No changes"
           BRANCH=${GITHUB_REF#refs/heads/}
           git pull --rebase origin "$BRANCH" || true
           git push "https://$PAT_TOKEN@github.com/${{ github.repository }}" "HEAD:$BRANCH"

@@ -3,9 +3,12 @@ import os
 from datetime import datetime
 from collections import defaultdict
 from tqdm import tqdm
+import concurrent.futures
 
 NAV_DIR = "data/NAV/nav_history"
 OUT_DIR = "data/NAV/nav_year"
+# Change this value to adjust the number of workers for concurrent processing
+MAX_WORKERS = 8
 
 print("📁 Preparing yearly NAV output directory...")
 os.makedirs(OUT_DIR, exist_ok=True)
@@ -49,17 +52,13 @@ print("✅ Existing yearly NAV index ready\n")
 # ---------------- COLLECT NEW DATA ----------------
 to_write = defaultdict(list)
 
-print("\n🔍 Processing schemes...")
-
-for file in tqdm(scheme_files, desc="Processing schemes"):
+def process_scheme(file):
     scheme_code = os.path.splitext(file)[0]
     file_path = os.path.join(NAV_DIR, file)
-
-    scanned = added = 0
+    local_to_write = defaultdict(list)
 
     with open(file_path, newline="", encoding="utf-8") as f:
         for row in csv.DictReader(f):
-            scanned += 1
             raw_date = row.get("Date")
             nav = row.get("NAV")
 
@@ -79,8 +78,18 @@ for file in tqdm(scheme_files, desc="Processing schemes"):
                 continue
 
             existing[year].add(key)
-            to_write[year].append((scheme_code, date_str, nav))
-            added += 1
+            local_to_write[year].append((scheme_code, date_str, nav))
+
+    return local_to_write
+
+print("\n🔍 Processing schemes...")
+
+with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+    futures = [executor.submit(process_scheme, file) for file in scheme_files]
+    for future in tqdm(concurrent.futures.as_completed(futures), total=len(scheme_files), desc="Processing schemes"):
+        result = future.result()
+        for year, rows in result.items():
+            to_write[year].extend(rows)
 
 # ---------------- WRITE OUTPUT ----------------
 print("\n💾 Writing yearly NAV files...")

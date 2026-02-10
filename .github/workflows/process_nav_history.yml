@@ -1,14 +1,13 @@
-name: Update Mutual Fund Data
+name: Update Mutual Fund Historical NAV Data
 
 on:
   schedule:
     # EVERY 2 HOURS (UTC)
     - cron: '0 */2 * * *'
-
   workflow_dispatch:
 
 jobs:
-  update:
+  update-nav-history:
     runs-on: ubuntu-latest
 
     permissions:
@@ -17,6 +16,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -25,27 +26,16 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests pandas
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
       - name: Create data directory
         run: mkdir -p data
 
-      # -------- TASKS (EVERY 2 HOURS) --------
+      # -------- NAV TASKS --------
 
-      - name: Fetch Scheme Codes
-        run: python scripts/fetch_scheme_codes.py
-
-      - name: Fetch Scheme Categories
-        run: python scripts/fetch_scheme_categories.py
-
-      - name: Merge Scheme Metadata
-        run: python scripts/merge_scheme_metadata.py
-
-      - name: Fetch NAV History (Incremental)
-        run: python scripts/fetch_nav_history.py
-
-      - name: Export NAV Year CSV
-        run: python scripts/export_nav_year.py
+      - name: Fetch NAV History CSV
+        run: python scripts/run_nav_history_update.py
 
       # -------- COMMIT & PUSH --------
 
@@ -54,7 +44,9 @@ jobs:
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add data/
-          git commit -m "Auto update MF data" || echo "No changes"
-          git push https://$PAT_TOKEN@github.com/${{ github.repository }} HEAD:${{ github.ref }}
+          git commit -m "Auto update MF NAV data" || echo "No changes"
+          BRANCH=${GITHUB_REF#refs/heads/}
+          git pull --rebase origin "$BRANCH" || true
+          git push "https://$PAT_TOKEN@github.com/${{ github.repository }}" "HEAD:$BRANCH"
         env:
           PAT_TOKEN: ${{ secrets.PAT_TOKEN }}

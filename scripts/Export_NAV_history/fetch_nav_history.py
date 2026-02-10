@@ -1,7 +1,6 @@
 import csv
-import requests
+import json
 import os
-import time
 from datetime import datetime, date
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
@@ -9,12 +8,9 @@ from tqdm import tqdm
 # ================= CONFIG =================
 CODES_FILE = "data/scheme_data/MF_data/amfi_mf_analyzed_schemes.csv"
 NAV_DIR = "data/NAV/nav_history"
+LOCAL_DATA_DIR = "data/scheme_data/RAW_data/all_funds"
 
-MAX_WORKERS = 8
-MAX_RETRIES = 5
-REQUEST_DELAY = 0.12
-CONNECT_TIMEOUT = 2
-READ_TIMEOUT = 5
+MAX_WORKERS = 10
 
 TODAY = date.today().isoformat()
 # ==========================================
@@ -44,6 +40,7 @@ def process_scheme(args):
     i, total, scheme = args
     code = scheme["SchemeCode"]
     filepath = os.path.join(NAV_DIR, f"{code}.csv")
+    json_filepath = os.path.join(LOCAL_DATA_DIR, f"{code}.json")
 
     status_line = f"[{i}/{total}] 📌 Scheme {code}"
     result_line = ""
@@ -51,35 +48,12 @@ def process_scheme(args):
     last_date = read_last_date(filepath)
 
     if last_date == TODAY:
-        result_line = "🟢 Up to date (API skipped)"
+        result_line = "🟢 Up to date (local data skipped)"
         return status_line, result_line
 
-    session = requests.Session()
-    session.headers.update({"User-Agent": "Mozilla/5.0 (NAV-Updater)"})
-
-    max_retries = MAX_RETRIES
-    for attempt in range(max_retries):
-        try:
-            r = session.get(
-                f"https://api.mfapi.in/mf/{code}",
-                timeout=(CONNECT_TIMEOUT, READ_TIMEOUT)
-            )
-
-            if r.status_code == 200:
-                break  # Success, exit retry loop
-            else:
-                if attempt == max_retries - 1:
-                    return status_line, "🔴 API error (max retries)"
-                time.sleep(REQUEST_DELAY)  # Wait before retry
-        except requests.exceptions.RequestException:
-            if attempt == max_retries - 1:
-                return status_line, "🌐 Network error (max retries)"
-            time.sleep(REQUEST_DELAY)  # Wait before retry
-    else:
-        return status_line, "❌ Max retries exceeded"
-
     try:
-        data = r.json().get("data")
+        with open(json_filepath, 'r', encoding='utf-8') as f:
+            data = json.load(f).get("data")
         if not data:
             return status_line, "⚠️ No NAV data"
 
@@ -119,8 +93,6 @@ def process_scheme(args):
                     writer.writeheader()
                 writer.writerows(new_rows_filtered)
 
-        time.sleep(REQUEST_DELAY)
-
         result_line = f"✅ Updated | +{len(new_rows_filtered)} NAV rows"
         return status_line, result_line
 
@@ -129,9 +101,14 @@ def process_scheme(args):
 
 
 # ---------- LOAD SCHEME CODES ----------
-print("📄 Loading scheme codes...")
-with open(CODES_FILE, newline="", encoding="utf-8") as f:
-    schemes = list(csv.DictReader(f))
+print("📄 Loading scheme codes from local data...")
+scheme_codes = []
+for filename in os.listdir(LOCAL_DATA_DIR):
+    if filename.endswith('.json'):
+        scheme_code = filename[:-5]  # Remove .json
+        scheme_codes.append(scheme_code)
+
+schemes = [{"SchemeCode": code} for code in scheme_codes]
 
 total = len(schemes)
 print(f"📊 Total schemes found: {total}")
