@@ -72,6 +72,7 @@ def process_scheme(scheme_code):
         return {'status': 'new', 'scheme_code': scheme_code}
 
 def main():
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
     schemes = fetch_all_schemes()
     if not schemes:
         print("No schemes to process.")
