@@ -5,7 +5,6 @@ import os
 # List of scripts to run in sequence. Add, remove, or reorder as needed.
 SCRIPTS_TO_RUN = [
     "scripts/RAW_data_fetcher/fetch_mfapi_all_funds.py",
-    "scripts/RAW_data_fetcher/create_mfapi_master_data.py"
 ]
 
 def run_script(script_path):
