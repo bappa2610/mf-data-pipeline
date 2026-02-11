@@ -1,0 +1,42 @@
+{
+    "meta": {
+        "fund_house": "Bank of India Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_code": 154096,
+        "scheme_name": "Bank of India Banking & Financial Services Fund - Regular Plan - IDCW",
+        "isin_growth": "INF761K01HI5",
+        "isin_div_reinvestment": "INF761K01HJ3"
+    },
+    "data": [
+        {
+            "date": "10-02-2026",
+            "nav": "10.15000"
+        },
+        {
+            "date": "09-02-2026",
+            "nav": "10.15000"
+        },
+        {
+            "date": "06-02-2026",
+            "nav": "10.05000"
+        },
+        {
+            "date": "05-02-2026",
+            "nav": "10.06000"
+        },
+        {
+            "date": "04-02-2026",
+            "nav": "10.07000"
+        },
+        {
+            "date": "03-02-2026",
+            "nav": "10.05000"
+        },
+        {
+            "date": "02-02-2026",
+            "nav": "10.01000"
+        }
+    ],
+    "status": "SUCCESS"
+}

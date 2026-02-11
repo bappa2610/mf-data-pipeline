@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "fund_house": "DBS Chola Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 103430,
+        "scheme_name": "DBS Chola Fixed Maturity Plan - Series 2(Quarterly Plan - I)-Dividend Payout Option",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "05-04-2006",
+            "nav": "10.00930"
+        },
+        {
+            "date": "04-04-2006",
+            "nav": "10.16260"
+        },
+        {
+            "date": "03-04-2006",
+            "nav": "10.16090"
+        }
+    ],
+    "status": "SUCCESS"
+}

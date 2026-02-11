@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "fund_house": "SBI Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 111388,
+        "scheme_name": "Z-REDEEMED-SBI DEBT FUND SERIES - 30 DAYS - 4 (11/11/08) - GROWTH",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "10-12-2008",
+            "nav": "10.07400"
+        },
+        {
+            "date": "03-12-2008",
+            "nav": "10.05530"
+        },
+        {
+            "date": "26-11-2008",
+            "nav": "10.03900"
+        },
+        {
+            "date": "19-11-2008",
+            "nav": "10.02160"
+        }
+    ],
+    "status": "SUCCESS"
+}

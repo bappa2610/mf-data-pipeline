@@ -1,0 +1,70 @@
+{
+    "meta": {
+        "fund_house": "Standard Chartered Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 103765,
+        "scheme_name": "Standard Chartered Fixed Maturity 5th Plan-A-Growth",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "06-09-2006",
+            "nav": "10.16520"
+        },
+        {
+            "date": "30-08-2006",
+            "nav": "10.15230"
+        },
+        {
+            "date": "23-08-2006",
+            "nav": "10.13950"
+        },
+        {
+            "date": "16-08-2006",
+            "nav": "10.12660"
+        },
+        {
+            "date": "09-08-2006",
+            "nav": "10.11380"
+        },
+        {
+            "date": "02-08-2006",
+            "nav": "10.10090"
+        },
+        {
+            "date": "26-07-2006",
+            "nav": "10.08810"
+        },
+        {
+            "date": "19-07-2006",
+            "nav": "10.07520"
+        },
+        {
+            "date": "12-07-2006",
+            "nav": "10.06240"
+        },
+        {
+            "date": "05-07-2006",
+            "nav": "10.04950"
+        },
+        {
+            "date": "30-06-2006",
+            "nav": "10.03670"
+        },
+        {
+            "date": "28-06-2006",
+            "nav": "10.03670"
+        },
+        {
+            "date": "21-06-2006",
+            "nav": "10.02380"
+        },
+        {
+            "date": "14-06-2006",
+            "nav": "10.01090"
+        }
+    ],
+    "status": "SUCCESS"
+}

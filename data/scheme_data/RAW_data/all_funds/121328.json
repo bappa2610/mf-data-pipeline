@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "fund_house": "Aditya Birla Sun Life Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 121328,
+        "scheme_name": "Birla Sun Life Interval Income Fund - Annual Plan III-Regular Plan-Normal Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "07-03-2013",
+            "nav": "10.01930"
+        },
+        {
+            "date": "06-03-2013",
+            "nav": "10.01640"
+        },
+        {
+            "date": "05-03-2013",
+            "nav": "10.01040"
+        },
+        {
+            "date": "04-03-2013",
+            "nav": "10.00830"
+        }
+    ],
+    "status": "SUCCESS"
+}

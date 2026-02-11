@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "fund_house": "Motilal Oswal Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_code": 154113,
+        "scheme_name": "Motilal Oswal Diversified Equity Flexicap Passive Fund of funds- Regular Growth",
+        "isin_growth": "INF247L01GM7",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "10-02-2026",
+            "nav": "10.39580"
+        },
+        {
+            "date": "09-02-2026",
+            "nav": "10.34200"
+        },
+        {
+            "date": "06-02-2026",
+            "nav": "10.18590"
+        },
+        {
+            "date": "05-02-2026",
+            "nav": "10.19510"
+        },
+        {
+            "date": "04-02-2026",
+            "nav": "10.26940"
+        },
+        {
+            "date": "03-02-2026",
+            "nav": "10.19660"
+        },
+        {
+            "date": "02-02-2026",
+            "nav": "9.92550"
+        },
+        {
+            "date": "30-01-2026",
+            "nav": "10.06400"
+        },
+        {
+            "date": "29-01-2026",
+            "nav": "10.04680"
+        }
+    ],
+    "status": "SUCCESS"
+}

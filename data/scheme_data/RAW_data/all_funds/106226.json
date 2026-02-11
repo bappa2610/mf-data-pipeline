@@ -1,0 +1,54 @@
+{
+    "meta": {
+        "fund_house": "SBI Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 106226,
+        "scheme_name": "SBI DEBT FUND SERIES - 60 DAYS - 12 - (24/07/07) Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "21-09-2007",
+            "nav": "10.00000"
+        },
+        {
+            "date": "19-09-2007",
+            "nav": "10.10660"
+        },
+        {
+            "date": "12-09-2007",
+            "nav": "10.09270"
+        },
+        {
+            "date": "05-09-2007",
+            "nav": "10.07940"
+        },
+        {
+            "date": "29-08-2007",
+            "nav": "10.06610"
+        },
+        {
+            "date": "22-08-2007",
+            "nav": "10.05290"
+        },
+        {
+            "date": "15-08-2007",
+            "nav": "10.03950"
+        },
+        {
+            "date": "08-08-2007",
+            "nav": "10.02630"
+        },
+        {
+            "date": "02-08-2007",
+            "nav": "10.01320"
+        },
+        {
+            "date": "01-08-2007",
+            "nav": "10.01320"
+        }
+    ],
+    "status": "SUCCESS"
+}

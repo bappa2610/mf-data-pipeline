@@ -1,0 +1,62 @@
+{
+    "meta": {
+        "fund_house": "SBI Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 103800,
+        "scheme_name": "SBI Debt Fund Series-90 Days-1-Growth",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "28-08-2006",
+            "nav": "10.16410"
+        },
+        {
+            "date": "23-08-2006",
+            "nav": "10.15630"
+        },
+        {
+            "date": "16-08-2006",
+            "nav": "10.14290"
+        },
+        {
+            "date": "09-08-2006",
+            "nav": "10.13010"
+        },
+        {
+            "date": "02-08-2006",
+            "nav": "10.11720"
+        },
+        {
+            "date": "26-07-2006",
+            "nav": "10.10430"
+        },
+        {
+            "date": "19-07-2006",
+            "nav": "10.09150"
+        },
+        {
+            "date": "12-07-2006",
+            "nav": "10.07860"
+        },
+        {
+            "date": "05-07-2006",
+            "nav": "10.06570"
+        },
+        {
+            "date": "28-06-2006",
+            "nav": "10.05290"
+        },
+        {
+            "date": "21-06-2006",
+            "nav": "10.03980"
+        },
+        {
+            "date": "14-06-2006",
+            "nav": "10.02690"
+        }
+    ],
+    "status": "SUCCESS"
+}

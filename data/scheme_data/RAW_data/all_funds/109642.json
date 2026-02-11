@@ -1,0 +1,70 @@
+{
+    "meta": {
+        "fund_house": "IDFC Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 109642,
+        "scheme_name": "IDFC-FMP-QS37-A-DIVIDEND",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "05-11-2008",
+            "nav": "10.00000"
+        },
+        {
+            "date": "29-10-2008",
+            "nav": "10.08170"
+        },
+        {
+            "date": "22-10-2008",
+            "nav": "10.06110"
+        },
+        {
+            "date": "15-10-2008",
+            "nav": "10.04080"
+        },
+        {
+            "date": "08-10-2008",
+            "nav": "10.02050"
+        },
+        {
+            "date": "01-10-2008",
+            "nav": "10.00280"
+        },
+        {
+            "date": "30-09-2008",
+            "nav": "10.00000"
+        },
+        {
+            "date": "24-09-2008",
+            "nav": "10.14060"
+        },
+        {
+            "date": "17-09-2008",
+            "nav": "10.12050"
+        },
+        {
+            "date": "10-09-2008",
+            "nav": "10.10040"
+        },
+        {
+            "date": "04-09-2008",
+            "nav": "10.08320"
+        },
+        {
+            "date": "27-08-2008",
+            "nav": "10.06020"
+        },
+        {
+            "date": "20-08-2008",
+            "nav": "10.04000"
+        },
+        {
+            "date": "13-08-2008",
+            "nav": "10.01990"
+        }
+    ],
+    "status": "SUCCESS"
+}

@@ -1,0 +1,70 @@
+{
+    "meta": {
+        "fund_house": "Standard Chartered Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 106357,
+        "scheme_name": "Standard Chartered Fixed Maturity Plan - QS 15-Plan A- Growth",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "26-11-2007",
+            "nav": "10.20320"
+        },
+        {
+            "date": "21-11-2007",
+            "nav": "10.19110"
+        },
+        {
+            "date": "14-11-2007",
+            "nav": "10.17390"
+        },
+        {
+            "date": "07-11-2007",
+            "nav": "10.15810"
+        },
+        {
+            "date": "31-10-2007",
+            "nav": "10.14230"
+        },
+        {
+            "date": "24-10-2007",
+            "nav": "10.12650"
+        },
+        {
+            "date": "17-10-2007",
+            "nav": "10.11070"
+        },
+        {
+            "date": "15-10-2007",
+            "nav": "10.10580"
+        },
+        {
+            "date": "10-10-2007",
+            "nav": "10.09490"
+        },
+        {
+            "date": "03-10-2007",
+            "nav": "10.07910"
+        },
+        {
+            "date": "26-09-2007",
+            "nav": "10.06330"
+        },
+        {
+            "date": "19-09-2007",
+            "nav": "10.04750"
+        },
+        {
+            "date": "12-09-2007",
+            "nav": "10.03170"
+        },
+        {
+            "date": "05-09-2007",
+            "nav": "10.01590"
+        }
+    ],
+    "status": "SUCCESS"
+}

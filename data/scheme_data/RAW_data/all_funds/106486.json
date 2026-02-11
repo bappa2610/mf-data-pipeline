@@ -1,0 +1,66 @@
+{
+    "meta": {
+        "fund_house": "DSP Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 106486,
+        "scheme_name": "DSP BlackRock Fixed Term Plan Series 1O - Institutional Plan - Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "27-11-2007",
+            "nav": "1000.24580"
+        },
+        {
+            "date": "21-11-2007",
+            "nav": "1014.18410"
+        },
+        {
+            "date": "14-11-2007",
+            "nav": "1012.66060"
+        },
+        {
+            "date": "07-11-2007",
+            "nav": "1011.07800"
+        },
+        {
+            "date": "31-10-2007",
+            "nav": "1009.49180"
+        },
+        {
+            "date": "24-10-2007",
+            "nav": "1007.87710"
+        },
+        {
+            "date": "17-10-2007",
+            "nav": "1006.26170"
+        },
+        {
+            "date": "10-10-2007",
+            "nav": "1004.64740"
+        },
+        {
+            "date": "03-10-2007",
+            "nav": "1003.03320"
+        },
+        {
+            "date": "26-09-2007",
+            "nav": "1006.48500"
+        },
+        {
+            "date": "19-09-2007",
+            "nav": "1004.84520"
+        },
+        {
+            "date": "12-09-2007",
+            "nav": "1003.20540"
+        },
+        {
+            "date": "05-09-2007",
+            "nav": "1001.56570"
+        }
+    ],
+    "status": "SUCCESS"
+}

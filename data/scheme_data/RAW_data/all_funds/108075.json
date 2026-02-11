@@ -1,0 +1,62 @@
+{
+    "meta": {
+        "fund_house": "DSP Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 108075,
+        "scheme_name": "DSP BlackRock FMP - 3M - Series 6 - Regular Plan - Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "10-06-2008",
+            "nav": "10.00280"
+        },
+        {
+            "date": "04-06-2008",
+            "nav": "10.24790"
+        },
+        {
+            "date": "28-05-2008",
+            "nav": "10.23050"
+        },
+        {
+            "date": "21-05-2008",
+            "nav": "10.21300"
+        },
+        {
+            "date": "14-05-2008",
+            "nav": "10.19550"
+        },
+        {
+            "date": "07-05-2008",
+            "nav": "10.17810"
+        },
+        {
+            "date": "30-04-2008",
+            "nav": "10.16060"
+        },
+        {
+            "date": "23-04-2008",
+            "nav": "10.14310"
+        },
+        {
+            "date": "16-04-2008",
+            "nav": "10.12570"
+        },
+        {
+            "date": "09-04-2008",
+            "nav": "10.10790"
+        },
+        {
+            "date": "02-04-2008",
+            "nav": "10.05730"
+        },
+        {
+            "date": "26-03-2008",
+            "nav": "10.03790"
+        }
+    ],
+    "status": "SUCCESS"
+}

@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "fund_house": "PPFAS Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Equity Scheme - Large Cap Fund",
+        "scheme_code": 154155,
+        "scheme_name": "Parag Parikh Large Cap Fund - Direct Plan - Growth",
+        "isin_growth": "INF879O01332",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "10-02-2026",
+            "nav": "10.09720"
+        },
+        {
+            "date": "09-02-2026",
+            "nav": "10.07330"
+        },
+        {
+            "date": "06-02-2026",
+            "nav": "9.99910"
+        }
+    ],
+    "status": "SUCCESS"
+}

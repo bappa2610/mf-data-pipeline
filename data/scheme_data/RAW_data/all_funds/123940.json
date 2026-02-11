@@ -1,0 +1,90 @@
+{
+    "meta": {
+        "fund_house": "JPMorgan Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 123940,
+        "scheme_name": "JPMorgan India Fixed Maturity Plan - Series 26 - Regular Plan - Growth Option",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "03-10-2013",
+            "nav": "10.09440"
+        },
+        {
+            "date": "01-10-2013",
+            "nav": "10.08890"
+        },
+        {
+            "date": "30-09-2013",
+            "nav": "10.08590"
+        },
+        {
+            "date": "27-09-2013",
+            "nav": "10.07690"
+        },
+        {
+            "date": "26-09-2013",
+            "nav": "10.07390"
+        },
+        {
+            "date": "25-09-2013",
+            "nav": "10.07090"
+        },
+        {
+            "date": "24-09-2013",
+            "nav": "10.06800"
+        },
+        {
+            "date": "23-09-2013",
+            "nav": "10.06490"
+        },
+        {
+            "date": "20-09-2013",
+            "nav": "10.05580"
+        },
+        {
+            "date": "19-09-2013",
+            "nav": "10.05270"
+        },
+        {
+            "date": "18-09-2013",
+            "nav": "10.04970"
+        },
+        {
+            "date": "17-09-2013",
+            "nav": "10.04660"
+        },
+        {
+            "date": "16-09-2013",
+            "nav": "10.04350"
+        },
+        {
+            "date": "13-09-2013",
+            "nav": "10.03360"
+        },
+        {
+            "date": "12-09-2013",
+            "nav": "10.03050"
+        },
+        {
+            "date": "11-09-2013",
+            "nav": "10.02740"
+        },
+        {
+            "date": "10-09-2013",
+            "nav": "10.02430"
+        },
+        {
+            "date": "06-09-2013",
+            "nav": "10.01190"
+        },
+        {
+            "date": "05-09-2013",
+            "nav": "10.00880"
+        }
+    ],
+    "status": "SUCCESS"
+}

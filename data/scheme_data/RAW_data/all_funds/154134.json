@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "fund_house": "The Wealth Company Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_code": 154134,
+        "scheme_name": "THE WEALTH COMPANY GOLD ETF FOF REGULAR IDCW",
+        "isin_growth": "INF2F0001396",
+        "isin_div_reinvestment": "INF2F0001404"
+    },
+    "data": [
+        {
+            "date": "10-02-2026",
+            "nav": "9.79230"
+        },
+        {
+            "date": "09-02-2026",
+            "nav": "9.79320"
+        },
+        {
+            "date": "06-02-2026",
+            "nav": "9.76920"
+        },
+        {
+            "date": "05-02-2026",
+            "nav": "9.59680"
+        },
+        {
+            "date": "04-02-2026",
+            "nav": "9.77780"
+        }
+    ],
+    "status": "SUCCESS"
+}

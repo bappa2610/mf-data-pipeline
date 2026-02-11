@@ -1,0 +1,70 @@
+{
+    "meta": {
+        "fund_house": "Standard Chartered Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 106049,
+        "scheme_name": "Standard Chartered Fixed Maturity Plan - Quarterly Series 14-Plan A -Growth",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "25-09-2007",
+            "nav": "10.20450"
+        },
+        {
+            "date": "19-09-2007",
+            "nav": "10.19080"
+        },
+        {
+            "date": "12-09-2007",
+            "nav": "10.17340"
+        },
+        {
+            "date": "05-09-2007",
+            "nav": "10.15740"
+        },
+        {
+            "date": "29-08-2007",
+            "nav": "10.14140"
+        },
+        {
+            "date": "22-08-2007",
+            "nav": "10.12550"
+        },
+        {
+            "date": "16-08-2007",
+            "nav": "10.11180"
+        },
+        {
+            "date": "14-08-2007",
+            "nav": "10.10700"
+        },
+        {
+            "date": "08-08-2007",
+            "nav": "10.09350"
+        },
+        {
+            "date": "01-08-2007",
+            "nav": "10.07750"
+        },
+        {
+            "date": "25-07-2007",
+            "nav": "10.06160"
+        },
+        {
+            "date": "18-07-2007",
+            "nav": "10.04570"
+        },
+        {
+            "date": "11-07-2007",
+            "nav": "10.02980"
+        },
+        {
+            "date": "04-07-2007",
+            "nav": "10.01390"
+        }
+    ],
+    "status": "SUCCESS"
+}

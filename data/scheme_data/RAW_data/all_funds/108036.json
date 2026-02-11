@@ -1,0 +1,66 @@
+{
+    "meta": {
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 108036,
+        "scheme_name": "ICICI Prudential FMP series 42 - 3 Mths Plan C - Retail Dividend Option",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "24-06-2008",
+            "nav": "10.26950"
+        },
+        {
+            "date": "18-06-2008",
+            "nav": "10.23580"
+        },
+        {
+            "date": "11-06-2008",
+            "nav": "10.21450"
+        },
+        {
+            "date": "04-06-2008",
+            "nav": "10.19510"
+        },
+        {
+            "date": "28-05-2008",
+            "nav": "10.17580"
+        },
+        {
+            "date": "21-05-2008",
+            "nav": "10.15640"
+        },
+        {
+            "date": "14-05-2008",
+            "nav": "10.13700"
+        },
+        {
+            "date": "07-05-2008",
+            "nav": "10.11770"
+        },
+        {
+            "date": "30-04-2008",
+            "nav": "10.09830"
+        },
+        {
+            "date": "23-04-2008",
+            "nav": "10.07890"
+        },
+        {
+            "date": "16-04-2008",
+            "nav": "10.05950"
+        },
+        {
+            "date": "09-04-2008",
+            "nav": "10.04010"
+        },
+        {
+            "date": "02-04-2008",
+            "nav": "10.02040"
+        }
+    ],
+    "status": "SUCCESS"
+}

@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "fund_house": "BOI AXA Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Equity Scheme - Large & Mid Cap Fund",
+        "scheme_code": 109260,
+        "scheme_name": "BOI AXA Liquid Fund-Institutional Plan-Monthly Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "22-09-2008",
+            "nav": "1001.91020"
+        },
+        {
+            "date": "21-09-2008",
+            "nav": "1001.57200"
+        },
+        {
+            "date": "19-09-2008",
+            "nav": "1000.93520"
+        }
+    ],
+    "status": "SUCCESS"
+}

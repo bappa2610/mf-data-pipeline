@@ -1,0 +1,38 @@
+{
+    "meta": {
+        "fund_house": "IDFC Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 110284,
+        "scheme_name": "IDFC Fixed Maturity Plan - MS 5  GROWTH",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "23-10-2008",
+            "nav": "10.09340"
+        },
+        {
+            "date": "22-10-2008",
+            "nav": "10.09040"
+        },
+        {
+            "date": "15-10-2008",
+            "nav": "10.05640"
+        },
+        {
+            "date": "08-10-2008",
+            "nav": "10.03840"
+        },
+        {
+            "date": "01-10-2008",
+            "nav": "10.02160"
+        },
+        {
+            "date": "30-09-2008",
+            "nav": "10.01750"
+        }
+    ],
+    "status": "SUCCESS"
+}

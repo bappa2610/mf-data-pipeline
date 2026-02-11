@@ -1,0 +1,70 @@
+{
+    "meta": {
+        "fund_house": "SBI Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 104089,
+        "scheme_name": "SBI Debt Fund Series - 90 Days-2-Gr.",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "09-10-2006",
+            "nav": "10.17100"
+        },
+        {
+            "date": "04-10-2006",
+            "nav": "10.16120"
+        },
+        {
+            "date": "27-09-2006",
+            "nav": "10.14780"
+        },
+        {
+            "date": "20-09-2006",
+            "nav": "10.13450"
+        },
+        {
+            "date": "13-09-2006",
+            "nav": "10.12120"
+        },
+        {
+            "date": "06-09-2006",
+            "nav": "10.10790"
+        },
+        {
+            "date": "30-08-2006",
+            "nav": "10.09460"
+        },
+        {
+            "date": "23-08-2006",
+            "nav": "10.08130"
+        },
+        {
+            "date": "16-08-2006",
+            "nav": "10.06800"
+        },
+        {
+            "date": "09-08-2006",
+            "nav": "10.05500"
+        },
+        {
+            "date": "02-08-2006",
+            "nav": "10.04170"
+        },
+        {
+            "date": "26-07-2006",
+            "nav": "10.02840"
+        },
+        {
+            "date": "19-07-2006",
+            "nav": "10.01510"
+        },
+        {
+            "date": "12-07-2006",
+            "nav": "0.00000"
+        }
+    ],
+    "status": "SUCCESS"
+}

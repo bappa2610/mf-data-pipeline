@@ -1,0 +1,70 @@
+{
+    "meta": {
+        "fund_house": "IDFC Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 109664,
+        "scheme_name": "IDFC Fixed Maturity Plan - QS 38 A DIVIDEND",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "12-11-2008",
+            "nav": "10.26580"
+        },
+        {
+            "date": "05-11-2008",
+            "nav": "10.24990"
+        },
+        {
+            "date": "29-10-2008",
+            "nav": "10.22400"
+        },
+        {
+            "date": "22-10-2008",
+            "nav": "10.20330"
+        },
+        {
+            "date": "15-10-2008",
+            "nav": "10.18250"
+        },
+        {
+            "date": "08-10-2008",
+            "nav": "10.16180"
+        },
+        {
+            "date": "01-10-2008",
+            "nav": "10.14100"
+        },
+        {
+            "date": "30-09-2008",
+            "nav": "10.13810"
+        },
+        {
+            "date": "29-09-2008",
+            "nav": "10.13510"
+        },
+        {
+            "date": "24-09-2008",
+            "nav": "10.12030"
+        },
+        {
+            "date": "17-09-2008",
+            "nav": "10.09960"
+        },
+        {
+            "date": "10-09-2008",
+            "nav": "10.07890"
+        },
+        {
+            "date": "04-09-2008",
+            "nav": "10.06120"
+        },
+        {
+            "date": "27-08-2008",
+            "nav": "10.03750"
+        }
+    ],
+    "status": "SUCCESS"
+}

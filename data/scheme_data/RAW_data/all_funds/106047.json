@@ -1,0 +1,70 @@
+{
+    "meta": {
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 106047,
+        "scheme_name": "ICICI Prudential FMP series 38 - 3 Mths Plan D - Retail Growth Option",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "27-09-2007",
+            "nav": "10.22630"
+        },
+        {
+            "date": "26-09-2007",
+            "nav": "10.22420"
+        },
+        {
+            "date": "19-09-2007",
+            "nav": "10.20930"
+        },
+        {
+            "date": "12-09-2007",
+            "nav": "10.19430"
+        },
+        {
+            "date": "05-09-2007",
+            "nav": "10.17940"
+        },
+        {
+            "date": "29-08-2007",
+            "nav": "10.16440"
+        },
+        {
+            "date": "22-08-2007",
+            "nav": "10.12420"
+        },
+        {
+            "date": "16-08-2007",
+            "nav": "10.10990"
+        },
+        {
+            "date": "08-08-2007",
+            "nav": "10.09090"
+        },
+        {
+            "date": "01-08-2007",
+            "nav": "10.07430"
+        },
+        {
+            "date": "25-07-2007",
+            "nav": "10.05780"
+        },
+        {
+            "date": "18-07-2007",
+            "nav": "10.04120"
+        },
+        {
+            "date": "11-07-2007",
+            "nav": "10.02500"
+        },
+        {
+            "date": "04-07-2007",
+            "nav": "10.01160"
+        }
+    ],
+    "status": "SUCCESS"
+}

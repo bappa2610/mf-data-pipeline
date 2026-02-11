@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "fund_house": "IDFC Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 108911,
+        "scheme_name": "IDFC Fixed Maturity Plan - Quarterly Series 27 - Growth",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "09-06-2008",
+            "nav": "10.25740"
+        },
+        {
+            "date": "04-06-2008",
+            "nav": "10.24530"
+        }
+    ],
+    "status": "SUCCESS"
+}

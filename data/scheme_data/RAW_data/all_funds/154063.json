@@ -1,0 +1,42 @@
+{
+    "meta": {
+        "fund_house": "Groww Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Equity Scheme - Small Cap Fund",
+        "scheme_code": 154063,
+        "scheme_name": "Groww Small Cap Fund-Direct-Growth",
+        "isin_growth": "INF666M01NJ8",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "10-02-2026",
+            "nav": "10.18540"
+        },
+        {
+            "date": "09-02-2026",
+            "nav": "10.12140"
+        },
+        {
+            "date": "06-02-2026",
+            "nav": "9.97600"
+        },
+        {
+            "date": "05-02-2026",
+            "nav": "9.98150"
+        },
+        {
+            "date": "04-02-2026",
+            "nav": "10.03070"
+        },
+        {
+            "date": "03-02-2026",
+            "nav": "9.93570"
+        },
+        {
+            "date": "02-02-2026",
+            "nav": "10.02500"
+        }
+    ],
+    "status": "SUCCESS"
+}

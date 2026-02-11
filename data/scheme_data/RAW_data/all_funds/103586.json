@@ -1,0 +1,58 @@
+{
+    "meta": {
+        "fund_house": "Standard Chartered Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 103586,
+        "scheme_name": "Standard Chartered Fixed Maturity 4th Plan-A-Growth",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "07-06-2006",
+            "nav": "10.20070"
+        },
+        {
+            "date": "31-05-2006",
+            "nav": "10.24180"
+        },
+        {
+            "date": "24-05-2006",
+            "nav": "10.16880"
+        },
+        {
+            "date": "17-05-2006",
+            "nav": "10.15130"
+        },
+        {
+            "date": "10-05-2006",
+            "nav": "10.13370"
+        },
+        {
+            "date": "03-05-2006",
+            "nav": "10.11650"
+        },
+        {
+            "date": "26-04-2006",
+            "nav": "10.10170"
+        },
+        {
+            "date": "24-04-2006",
+            "nav": "10.09770"
+        },
+        {
+            "date": "19-04-2006",
+            "nav": "10.08780"
+        },
+        {
+            "date": "12-04-2006",
+            "nav": "10.07380"
+        },
+        {
+            "date": "05-04-2006",
+            "nav": "10.05830"
+        }
+    ],
+    "status": "SUCCESS"
+}

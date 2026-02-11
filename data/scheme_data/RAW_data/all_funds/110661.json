@@ -1,0 +1,66 @@
+{
+    "meta": {
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 110661,
+        "scheme_name": "ICICI Prudential Fixed Maturity Plan - Series 47 - Three Months Plan D - Institutional Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "21-01-2009",
+            "nav": "10.27420"
+        },
+        {
+            "date": "14-01-2009",
+            "nav": "10.25060"
+        },
+        {
+            "date": "07-01-2009",
+            "nav": "10.22970"
+        },
+        {
+            "date": "31-12-2008",
+            "nav": "10.20880"
+        },
+        {
+            "date": "24-12-2008",
+            "nav": "10.18790"
+        },
+        {
+            "date": "17-12-2008",
+            "nav": "10.16700"
+        },
+        {
+            "date": "10-12-2008",
+            "nav": "10.14610"
+        },
+        {
+            "date": "03-12-2008",
+            "nav": "10.12520"
+        },
+        {
+            "date": "26-11-2008",
+            "nav": "10.10430"
+        },
+        {
+            "date": "19-11-2008",
+            "nav": "10.08340"
+        },
+        {
+            "date": "12-11-2008",
+            "nav": "10.06250"
+        },
+        {
+            "date": "05-11-2008",
+            "nav": "10.04170"
+        },
+        {
+            "date": "29-10-2008",
+            "nav": "10.02080"
+        }
+    ],
+    "status": "SUCCESS"
+}

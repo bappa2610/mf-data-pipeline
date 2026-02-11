@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "fund_house": "Invesco Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 104831,
+        "scheme_name": "Religare FMP-15M-Sr-I-Institutional-Dividend Reinvestment",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "02-03-2007",
+            "nav": "0.00000"
+        },
+        {
+            "date": "01-03-2007",
+            "nav": "0.00000"
+        }
+    ],
+    "status": "SUCCESS"
+}

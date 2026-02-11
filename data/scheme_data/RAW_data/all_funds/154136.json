@@ -1,0 +1,58 @@
+{
+    "meta": {
+        "fund_house": "Bandhan Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_code": 154136,
+        "scheme_name": "Bandhan Silver ETF FOF-Direct-Growth",
+        "isin_growth": "INF194KB1KN9",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "10-02-2026",
+            "nav": "8.33570"
+        },
+        {
+            "date": "09-02-2026",
+            "nav": "8.33120"
+        },
+        {
+            "date": "06-02-2026",
+            "nav": "7.86000"
+        },
+        {
+            "date": "05-02-2026",
+            "nav": "8.08110"
+        },
+        {
+            "date": "04-02-2026",
+            "nav": "9.03020"
+        },
+        {
+            "date": "03-02-2026",
+            "nav": "8.49810"
+        },
+        {
+            "date": "02-02-2026",
+            "nav": "7.71050"
+        },
+        {
+            "date": "31-01-2026",
+            "nav": "10.50310"
+        },
+        {
+            "date": "30-01-2026",
+            "nav": "10.50210"
+        },
+        {
+            "date": "29-01-2026",
+            "nav": "12.14450"
+        },
+        {
+            "date": "28-01-2026",
+            "nav": "11.17170"
+        }
+    ],
+    "status": "SUCCESS"
+}

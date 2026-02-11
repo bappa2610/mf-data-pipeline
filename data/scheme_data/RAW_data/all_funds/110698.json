@@ -1,0 +1,66 @@
+{
+    "meta": {
+        "fund_house": "SBI Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 110698,
+        "scheme_name": "SBI DEBT FUND SERIES-90D-30 (29/10/2008) DIVIDEND",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "28-01-2009",
+            "nav": "10.00000"
+        },
+        {
+            "date": "21-01-2009",
+            "nav": "10.24330"
+        },
+        {
+            "date": "14-01-2009",
+            "nav": "10.22330"
+        },
+        {
+            "date": "07-01-2009",
+            "nav": "10.20300"
+        },
+        {
+            "date": "31-12-2008",
+            "nav": "10.18290"
+        },
+        {
+            "date": "24-12-2008",
+            "nav": "10.16270"
+        },
+        {
+            "date": "17-12-2008",
+            "nav": "10.14240"
+        },
+        {
+            "date": "10-12-2008",
+            "nav": "10.12200"
+        },
+        {
+            "date": "03-12-2008",
+            "nav": "10.10200"
+        },
+        {
+            "date": "26-11-2008",
+            "nav": "10.08200"
+        },
+        {
+            "date": "19-11-2008",
+            "nav": "10.06200"
+        },
+        {
+            "date": "12-11-2008",
+            "nav": "10.04200"
+        },
+        {
+            "date": "05-11-2008",
+            "nav": "10.02200"
+        }
+    ],
+    "status": "SUCCESS"
+}

@@ -1,0 +1,70 @@
+{
+    "meta": {
+        "fund_house": "Standard Chartered Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 104316,
+        "scheme_name": "Standard Chartered Fixed Maturity 9th Plan-Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "27-12-2006",
+            "nav": "10.18560"
+        },
+        {
+            "date": "20-12-2006",
+            "nav": "10.17110"
+        },
+        {
+            "date": "13-12-2006",
+            "nav": "10.15700"
+        },
+        {
+            "date": "06-12-2006",
+            "nav": "10.14290"
+        },
+        {
+            "date": "29-11-2006",
+            "nav": "10.12880"
+        },
+        {
+            "date": "22-11-2006",
+            "nav": "10.11470"
+        },
+        {
+            "date": "15-11-2006",
+            "nav": "10.10060"
+        },
+        {
+            "date": "13-11-2006",
+            "nav": "10.09660"
+        },
+        {
+            "date": "08-11-2006",
+            "nav": "10.08650"
+        },
+        {
+            "date": "01-11-2006",
+            "nav": "10.07240"
+        },
+        {
+            "date": "26-10-2006",
+            "nav": "10.06030"
+        },
+        {
+            "date": "18-10-2006",
+            "nav": "10.04420"
+        },
+        {
+            "date": "11-10-2006",
+            "nav": "10.03010"
+        },
+        {
+            "date": "05-10-2006",
+            "nav": "10.01600"
+        }
+    ],
+    "status": "SUCCESS"
+}

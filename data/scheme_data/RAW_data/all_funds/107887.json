@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "fund_house": "SBI Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 107887,
+        "scheme_name": "SBI DEBT FUND SERIES-30D-1-(11/3/08)-GROWTH",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "09-04-2008",
+            "nav": "10.10140"
+        },
+        {
+            "date": "02-04-2008",
+            "nav": "10.05990"
+        },
+        {
+            "date": "31-03-2008",
+            "nav": "10.05390"
+        },
+        {
+            "date": "26-03-2008",
+            "nav": "10.03910"
+        },
+        {
+            "date": "19-03-2008",
+            "nav": "10.01840"
+        }
+    ],
+    "status": "SUCCESS"
+}

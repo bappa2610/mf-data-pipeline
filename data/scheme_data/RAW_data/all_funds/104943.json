@@ -1,0 +1,66 @@
+{
+    "meta": {
+        "fund_house": "DSP Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 104943,
+        "scheme_name": "DSP BlackRock Fixed Term Plan Series 1H - Institutional Plan - Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "15-05-2007",
+            "nav": "1000.13890"
+        },
+        {
+            "date": "09-05-2007",
+            "nav": "1012.18860"
+        },
+        {
+            "date": "03-05-2007",
+            "nav": "1010.06860"
+        },
+        {
+            "date": "25-04-2007",
+            "nav": "1007.85600"
+        },
+        {
+            "date": "18-04-2007",
+            "nav": "1005.92290"
+        },
+        {
+            "date": "11-04-2007",
+            "nav": "1003.95990"
+        },
+        {
+            "date": "04-04-2007",
+            "nav": "1002.07650"
+        },
+        {
+            "date": "28-03-2007",
+            "nav": "1009.93380"
+        },
+        {
+            "date": "21-03-2007",
+            "nav": "1008.06480"
+        },
+        {
+            "date": "14-03-2007",
+            "nav": "1006.14150"
+        },
+        {
+            "date": "07-03-2007",
+            "nav": "1004.28590"
+        },
+        {
+            "date": "28-02-2007",
+            "nav": "1003.68690"
+        },
+        {
+            "date": "21-02-2007",
+            "nav": "1001.96960"
+        }
+    ],
+    "status": "SUCCESS"
+}

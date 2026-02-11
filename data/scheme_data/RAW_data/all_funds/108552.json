@@ -1,0 +1,62 @@
+{
+    "meta": {
+        "fund_house": "IDFC Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 108552,
+        "scheme_name": "IDFC Fixed Maturity - 6th Plan - Growth",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "11-08-2008",
+            "nav": "11.63390"
+        },
+        {
+            "date": "06-08-2008",
+            "nav": "11.61600"
+        },
+        {
+            "date": "30-07-2008",
+            "nav": "11.59890"
+        },
+        {
+            "date": "23-07-2008",
+            "nav": "11.58150"
+        },
+        {
+            "date": "16-07-2008",
+            "nav": "11.56480"
+        },
+        {
+            "date": "09-07-2008",
+            "nav": "11.54710"
+        },
+        {
+            "date": "02-07-2008",
+            "nav": "11.52950"
+        },
+        {
+            "date": "30-06-2008",
+            "nav": "11.52450"
+        },
+        {
+            "date": "25-06-2008",
+            "nav": "11.51510"
+        },
+        {
+            "date": "18-06-2008",
+            "nav": "11.49780"
+        },
+        {
+            "date": "11-06-2008",
+            "nav": "11.48070"
+        },
+        {
+            "date": "04-06-2008",
+            "nav": "11.46350"
+        }
+    ],
+    "status": "SUCCESS"
+}

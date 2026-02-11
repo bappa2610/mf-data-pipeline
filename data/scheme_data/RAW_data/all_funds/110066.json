@@ -1,0 +1,38 @@
+{
+    "meta": {
+        "fund_house": "DSP Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 110066,
+        "scheme_name": "DSP BlackRock FMP - 1M - Series 1 - Institutional Plan - Growth",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "06-10-2008",
+            "nav": "10.08850"
+        },
+        {
+            "date": "03-10-2008",
+            "nav": "10.07280"
+        },
+        {
+            "date": "01-10-2008",
+            "nav": "10.06720"
+        },
+        {
+            "date": "24-09-2008",
+            "nav": "10.05460"
+        },
+        {
+            "date": "17-09-2008",
+            "nav": "10.03610"
+        },
+        {
+            "date": "10-09-2008",
+            "nav": "10.01650"
+        }
+    ],
+    "status": "SUCCESS"
+}

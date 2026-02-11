@@ -1,0 +1,58 @@
+{
+    "meta": {
+        "fund_house": "SBI Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 111828,
+        "scheme_name": "SBI Debt Fund Series-13 Months-9(13/03/2009)-Institutional Growth",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "05-04-2009",
+            "nav": "10.04670"
+        },
+        {
+            "date": "04-04-2009",
+            "nav": "10.04480"
+        },
+        {
+            "date": "03-04-2009",
+            "nav": "10.04290"
+        },
+        {
+            "date": "02-04-2009",
+            "nav": "10.04090"
+        },
+        {
+            "date": "01-04-2009",
+            "nav": "10.03900"
+        },
+        {
+            "date": "31-03-2009",
+            "nav": "10.03710"
+        },
+        {
+            "date": "30-03-2009",
+            "nav": "10.03520"
+        },
+        {
+            "date": "29-03-2009",
+            "nav": "10.03320"
+        },
+        {
+            "date": "27-03-2009",
+            "nav": "10.02940"
+        },
+        {
+            "date": "26-03-2009",
+            "nav": "10.02750"
+        },
+        {
+            "date": "25-03-2009",
+            "nav": "10.02560"
+        }
+    ],
+    "status": "SUCCESS"
+}

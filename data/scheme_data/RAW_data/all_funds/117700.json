@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "scheme_type": "141923;INF179KB1W87;-;HDFC HOF - I - 1140D November 2017",
+        "scheme_category": "1",
+        "scheme_code": 117700,
+        "scheme_name": "ICICI Prudential Fixed Maturity Plan-Series 63-3 Year Plan M Cumulative",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "03-08-2015",
+            "nav": "12.86340"
+        },
+        {
+            "date": "12-06-2014",
+            "nav": "11.74880"
+        },
+        {
+            "date": "10-08-2012",
+            "nav": "10.04570"
+        }
+    ],
+    "status": "SUCCESS"
+}

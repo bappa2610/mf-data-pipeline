@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 116027,
+        "scheme_name": "ICICI Prudential Multiple Yield Fund-Plan E Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "12-06-2014",
+            "nav": "12.28030"
+        },
+        {
+            "date": "10-08-2012",
+            "nav": "10.76900"
+        }
+    ],
+    "status": "SUCCESS"
+}

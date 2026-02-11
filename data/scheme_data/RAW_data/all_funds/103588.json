@@ -1,0 +1,54 @@
+{
+    "meta": {
+        "fund_house": "Deutsche Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 103588,
+        "scheme_name": "DWS FIXED TERM FUND SERIES 8-DIVIDEND",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "06-06-2006",
+            "nav": "10.00000"
+        },
+        {
+            "date": "31-05-2006",
+            "nav": "10.14610"
+        },
+        {
+            "date": "24-05-2006",
+            "nav": "10.12880"
+        },
+        {
+            "date": "17-05-2006",
+            "nav": "10.11410"
+        },
+        {
+            "date": "10-05-2006",
+            "nav": "10.09930"
+        },
+        {
+            "date": "03-05-2006",
+            "nav": "10.08450"
+        },
+        {
+            "date": "26-04-2006",
+            "nav": "10.06960"
+        },
+        {
+            "date": "19-04-2006",
+            "nav": "10.05460"
+        },
+        {
+            "date": "12-04-2006",
+            "nav": "10.03930"
+        },
+        {
+            "date": "05-04-2006",
+            "nav": "10.02370"
+        }
+    ],
+    "status": "SUCCESS"
+}

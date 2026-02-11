@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "fund_house": "Aditya Birla Sun Life Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 103690,
+        "scheme_name": "Aditya Birla Fixed Term Plan - Series G-DIVIDEND",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "24-01-2007",
+            "nav": "0.00000"
+        },
+        {
+            "date": "20-12-2006",
+            "nav": "0.00000"
+        },
+        {
+            "date": "21-06-2006",
+            "nav": "0.00000"
+        }
+    ],
+    "status": "SUCCESS"
+}

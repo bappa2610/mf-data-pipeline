@@ -1,0 +1,66 @@
+{
+    "meta": {
+        "fund_house": "Jio BlackRock Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Debt Scheme - Short Duration Fund",
+        "scheme_code": 154079,
+        "scheme_name": "JioBlackRock Short Duration Fund - Direct Plan - Growth Option",
+        "isin_growth": "INF22M001143",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "10-02-2026",
+            "nav": "1004.42370"
+        },
+        {
+            "date": "09-02-2026",
+            "nav": "1004.22870"
+        },
+        {
+            "date": "06-02-2026",
+            "nav": "1003.83850"
+        },
+        {
+            "date": "05-02-2026",
+            "nav": "1004.51280"
+        },
+        {
+            "date": "04-02-2026",
+            "nav": "1004.16190"
+        },
+        {
+            "date": "03-02-2026",
+            "nav": "1003.77820"
+        },
+        {
+            "date": "02-02-2026",
+            "nav": "1003.28680"
+        },
+        {
+            "date": "30-01-2026",
+            "nav": "1002.66960"
+        },
+        {
+            "date": "29-01-2026",
+            "nav": "1002.37210"
+        },
+        {
+            "date": "28-01-2026",
+            "nav": "1002.25360"
+        },
+        {
+            "date": "27-01-2026",
+            "nav": "1002.12970"
+        },
+        {
+            "date": "23-01-2026",
+            "nav": "1001.44920"
+        },
+        {
+            "date": "22-01-2026",
+            "nav": "1001.34190"
+        }
+    ],
+    "status": "SUCCESS"
+}

@@ -1,0 +1,58 @@
+{
+    "meta": {
+        "fund_house": "Standard Chartered Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 108073,
+        "scheme_name": "Standard Chartered FMP - QS28 Plan-A-Growth",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "29-05-2008",
+            "nav": "10.19290"
+        },
+        {
+            "date": "28-05-2008",
+            "nav": "10.19020"
+        },
+        {
+            "date": "21-05-2008",
+            "nav": "10.17160"
+        },
+        {
+            "date": "14-05-2008",
+            "nav": "10.15290"
+        },
+        {
+            "date": "07-05-2008",
+            "nav": "10.13430"
+        },
+        {
+            "date": "30-04-2008",
+            "nav": "10.11570"
+        },
+        {
+            "date": "23-04-2008",
+            "nav": "10.09230"
+        },
+        {
+            "date": "16-04-2008",
+            "nav": "10.07490"
+        },
+        {
+            "date": "09-04-2008",
+            "nav": "10.05690"
+        },
+        {
+            "date": "02-04-2008",
+            "nav": "10.03830"
+        },
+        {
+            "date": "31-03-2008",
+            "nav": "10.03100"
+        }
+    ],
+    "status": "SUCCESS"
+}

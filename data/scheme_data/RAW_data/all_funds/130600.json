@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "fund_house": "SBI Mutual Fund",
+        "scheme_type": "IL&FS Mutual Fund",
+        "scheme_category": "IDF",
+        "scheme_code": 130600,
+        "scheme_name": "SBI DEBT FUND SERIES A - 36 (36 Months) REGULAR PLAN - DIVIDEND",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "11-07-2018",
+            "nav": "13.54210"
+        },
+        {
+            "date": "10-07-2018",
+            "nav": "13.54000"
+        },
+        {
+            "date": "09-07-2018",
+            "nav": "13.53780"
+        },
+        {
+            "date": "08-07-2018",
+            "nav": "13.53520"
+        },
+        {
+            "date": "07-07-2018",
+            "nav": "13.53260"
+        },
+        {
+            "date": "06-07-2018",
+            "nav": "13.52990"
+        },
+        {
+            "date": "05-07-2018",
+            "nav": "13.52740"
+        },
+        {
+            "date": "04-07-2018",
+            "nav": "13.52450"
+        },
+        {
+            "date": "03-07-2018",
+            "nav": "13.52160"
+        }
+    ],
+    "status": "SUCCESS"
+}

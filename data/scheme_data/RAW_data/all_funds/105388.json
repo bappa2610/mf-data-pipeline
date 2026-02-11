@@ -1,0 +1,82 @@
+{
+    "meta": {
+        "fund_house": "Reliance Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 105388,
+        "scheme_name": "Reliance Fixed Horizon Fund-III- Annual Plan Series-II-Retail Plan-Dividend Option",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "26-04-2007",
+            "nav": "10.09370"
+        },
+        {
+            "date": "25-04-2007",
+            "nav": "10.09090"
+        },
+        {
+            "date": "24-04-2007",
+            "nav": "10.08810"
+        },
+        {
+            "date": "23-04-2007",
+            "nav": "10.08530"
+        },
+        {
+            "date": "20-04-2007",
+            "nav": "10.06650"
+        },
+        {
+            "date": "19-04-2007",
+            "nav": "10.06130"
+        },
+        {
+            "date": "18-04-2007",
+            "nav": "10.05850"
+        },
+        {
+            "date": "17-04-2007",
+            "nav": "10.05570"
+        },
+        {
+            "date": "16-04-2007",
+            "nav": "10.05290"
+        },
+        {
+            "date": "13-04-2007",
+            "nav": "10.04510"
+        },
+        {
+            "date": "12-04-2007",
+            "nav": "10.04280"
+        },
+        {
+            "date": "11-04-2007",
+            "nav": "10.04020"
+        },
+        {
+            "date": "10-04-2007",
+            "nav": "10.03740"
+        },
+        {
+            "date": "09-04-2007",
+            "nav": "10.03480"
+        },
+        {
+            "date": "05-04-2007",
+            "nav": "10.02460"
+        },
+        {
+            "date": "04-04-2007",
+            "nav": "10.02150"
+        },
+        {
+            "date": "03-04-2007",
+            "nav": "10.01890"
+        }
+    ],
+    "status": "SUCCESS"
+}

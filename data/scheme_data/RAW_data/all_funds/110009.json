@@ -1,0 +1,70 @@
+{
+    "meta": {
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 110009,
+        "scheme_name": "ICICI Prudential Fixed Maturity Plan - Series 47 - Three Months Plan B - Institutional Growth",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "01-12-2008",
+            "nav": "10.27670"
+        },
+        {
+            "date": "26-11-2008",
+            "nav": "10.26150"
+        },
+        {
+            "date": "19-11-2008",
+            "nav": "10.24130"
+        },
+        {
+            "date": "12-11-2008",
+            "nav": "10.21990"
+        },
+        {
+            "date": "05-11-2008",
+            "nav": "10.19850"
+        },
+        {
+            "date": "29-10-2008",
+            "nav": "10.17710"
+        },
+        {
+            "date": "22-10-2008",
+            "nav": "10.15530"
+        },
+        {
+            "date": "15-10-2008",
+            "nav": "10.13350"
+        },
+        {
+            "date": "08-10-2008",
+            "nav": "10.11120"
+        },
+        {
+            "date": "01-10-2008",
+            "nav": "10.08980"
+        },
+        {
+            "date": "24-09-2008",
+            "nav": "10.06840"
+        },
+        {
+            "date": "17-09-2008",
+            "nav": "10.04710"
+        },
+        {
+            "date": "10-09-2008",
+            "nav": "10.02560"
+        },
+        {
+            "date": "04-09-2008",
+            "nav": "10.00780"
+        }
+    ],
+    "status": "SUCCESS"
+}

@@ -1,0 +1,90 @@
+{
+    "meta": {
+        "fund_house": "Sundaram Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_code": 154124,
+        "scheme_name": "Sundaram Income Plus Arbitrage Active FoF Fund-Direct-IDCW Payout",
+        "isin_growth": "INF903JA1MA8",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "10-02-2026",
+            "nav": "10.05090"
+        },
+        {
+            "date": "09-02-2026",
+            "nav": "10.04840"
+        },
+        {
+            "date": "06-02-2026",
+            "nav": "10.04650"
+        },
+        {
+            "date": "05-02-2026",
+            "nav": "10.04800"
+        },
+        {
+            "date": "04-02-2026",
+            "nav": "10.04340"
+        },
+        {
+            "date": "03-02-2026",
+            "nav": "10.04080"
+        },
+        {
+            "date": "02-02-2026",
+            "nav": "10.03400"
+        },
+        {
+            "date": "30-01-2026",
+            "nav": "10.03340"
+        },
+        {
+            "date": "29-01-2026",
+            "nav": "10.02540"
+        },
+        {
+            "date": "28-01-2026",
+            "nav": "10.02450"
+        },
+        {
+            "date": "27-01-2026",
+            "nav": "10.01970"
+        },
+        {
+            "date": "23-01-2026",
+            "nav": "10.02080"
+        },
+        {
+            "date": "22-01-2026",
+            "nav": "10.01600"
+        },
+        {
+            "date": "21-01-2026",
+            "nav": "10.01570"
+        },
+        {
+            "date": "20-01-2026",
+            "nav": "10.01490"
+        },
+        {
+            "date": "19-01-2026",
+            "nav": "10.01370"
+        },
+        {
+            "date": "16-01-2026",
+            "nav": "10.00870"
+        },
+        {
+            "date": "14-01-2026",
+            "nav": "10.00650"
+        },
+        {
+            "date": "13-01-2026",
+            "nav": "10.00690"
+        }
+    ],
+    "status": "SUCCESS"
+}

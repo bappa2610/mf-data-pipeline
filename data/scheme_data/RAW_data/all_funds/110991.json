@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "fund_house": "Fortis Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 110991,
+        "scheme_name": "Fortis FLEXIBLE SHORT TERM PLAN - SERIES B - Regular Plan - Calendar Quarterly Dividend Option - Compulsory Renewal",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "31-08-2009",
+            "nav": "0.00000"
+        },
+        {
+            "date": "24-02-2009",
+            "nav": "0.00000"
+        },
+        {
+            "date": "19-02-2009",
+            "nav": "0.00000"
+        },
+        {
+            "date": "18-02-2009",
+            "nav": "0.00000"
+        }
+    ],
+    "status": "SUCCESS"
+}

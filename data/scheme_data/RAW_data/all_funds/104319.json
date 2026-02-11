@@ -1,0 +1,46 @@
+{
+    "meta": {
+        "fund_house": "SBI Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 104319,
+        "scheme_name": "SBI DEBT FUND SERIES -60 DAYS -3-DIVIDEND",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "27-11-2006",
+            "nav": "10.00000"
+        },
+        {
+            "date": "22-11-2006",
+            "nav": "10.11320"
+        },
+        {
+            "date": "15-11-2006",
+            "nav": "10.09960"
+        },
+        {
+            "date": "01-11-2006",
+            "nav": "10.07170"
+        },
+        {
+            "date": "25-10-2006",
+            "nav": "10.05770"
+        },
+        {
+            "date": "18-10-2006",
+            "nav": "10.04370"
+        },
+        {
+            "date": "11-10-2006",
+            "nav": "10.02980"
+        },
+        {
+            "date": "04-10-2006",
+            "nav": "10.01580"
+        }
+    ],
+    "status": "SUCCESS"
+}

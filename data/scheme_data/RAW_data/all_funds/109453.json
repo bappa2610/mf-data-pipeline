@@ -1,0 +1,66 @@
+{
+    "meta": {
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 109453,
+        "scheme_name": "ICICI Prudential Fixed Maturity Plan - Series 44 - Three Month Plan E - Retail Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "22-10-2008",
+            "nav": "10.25840"
+        },
+        {
+            "date": "15-10-2008",
+            "nav": "10.23400"
+        },
+        {
+            "date": "08-10-2008",
+            "nav": "10.21450"
+        },
+        {
+            "date": "01-10-2008",
+            "nav": "10.19540"
+        },
+        {
+            "date": "24-09-2008",
+            "nav": "10.17630"
+        },
+        {
+            "date": "17-09-2008",
+            "nav": "10.15710"
+        },
+        {
+            "date": "10-09-2008",
+            "nav": "10.13790"
+        },
+        {
+            "date": "04-09-2008",
+            "nav": "10.12150"
+        },
+        {
+            "date": "27-08-2008",
+            "nav": "10.09790"
+        },
+        {
+            "date": "20-08-2008",
+            "nav": "10.07880"
+        },
+        {
+            "date": "13-08-2008",
+            "nav": "10.05970"
+        },
+        {
+            "date": "06-08-2008",
+            "nav": "10.04060"
+        },
+        {
+            "date": "30-07-2008",
+            "nav": "10.02150"
+        }
+    ],
+    "status": "SUCCESS"
+}

@@ -1,0 +1,62 @@
+{
+    "meta": {
+        "fund_house": "SBI Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 107201,
+        "scheme_name": "SBI DEBT FUND SERIES 90D-19 (4/12/07) - GROWTH",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "27-02-2008",
+            "nav": "10.22980"
+        },
+        {
+            "date": "20-02-2008",
+            "nav": "10.18870"
+        },
+        {
+            "date": "13-02-2008",
+            "nav": "10.17830"
+        },
+        {
+            "date": "06-02-2008",
+            "nav": "10.16250"
+        },
+        {
+            "date": "30-01-2008",
+            "nav": "10.14700"
+        },
+        {
+            "date": "23-01-2008",
+            "nav": "10.12910"
+        },
+        {
+            "date": "16-01-2008",
+            "nav": "10.11420"
+        },
+        {
+            "date": "09-01-2008",
+            "nav": "10.09790"
+        },
+        {
+            "date": "02-01-2008",
+            "nav": "10.08120"
+        },
+        {
+            "date": "26-12-2007",
+            "nav": "10.05750"
+        },
+        {
+            "date": "19-12-2007",
+            "nav": "10.03760"
+        },
+        {
+            "date": "12-12-2007",
+            "nav": "10.02200"
+        }
+    ],
+    "status": "SUCCESS"
+}

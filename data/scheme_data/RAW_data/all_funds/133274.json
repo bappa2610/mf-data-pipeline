@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "scheme_type": "141581;INF179KB1V39;-;HDFC EOF - II - 1100D June 2017",
+        "scheme_category": "1",
+        "scheme_code": 133274,
+        "scheme_name": "ICICI Prudential Growth Fund - Series 6  Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "09-07-2018",
+            "nav": "10.29000"
+        },
+        {
+            "date": "06-07-2018",
+            "nav": "10.28000"
+        },
+        {
+            "date": "05-07-2018",
+            "nav": "10.31000"
+        },
+        {
+            "date": "04-07-2018",
+            "nav": "10.32000"
+        },
+        {
+            "date": "03-07-2018",
+            "nav": "10.28000"
+        }
+    ],
+    "status": "SUCCESS"
+}

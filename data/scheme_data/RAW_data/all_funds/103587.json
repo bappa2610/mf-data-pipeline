@@ -1,0 +1,58 @@
+{
+    "meta": {
+        "fund_house": "Standard Chartered Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 103587,
+        "scheme_name": "Standard Chartered Fixed Maturity 4th Plan-A-Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "07-06-2006",
+            "nav": "10.15290"
+        },
+        {
+            "date": "31-05-2006",
+            "nav": "10.12800"
+        },
+        {
+            "date": "24-05-2006",
+            "nav": "10.12110"
+        },
+        {
+            "date": "17-05-2006",
+            "nav": "10.10370"
+        },
+        {
+            "date": "10-05-2006",
+            "nav": "10.08620"
+        },
+        {
+            "date": "03-05-2006",
+            "nav": "10.06910"
+        },
+        {
+            "date": "26-04-2006",
+            "nav": "10.05430"
+        },
+        {
+            "date": "24-04-2006",
+            "nav": "10.05030"
+        },
+        {
+            "date": "19-04-2006",
+            "nav": "10.04040"
+        },
+        {
+            "date": "12-04-2006",
+            "nav": "10.02660"
+        },
+        {
+            "date": "05-04-2006",
+            "nav": "10.01110"
+        }
+    ],
+    "status": "SUCCESS"
+}

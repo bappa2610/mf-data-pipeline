@@ -1,0 +1,66 @@
+{
+    "meta": {
+        "fund_house": "DSP Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 110389,
+        "scheme_name": "DSP BlackRock FMP - 1M - Series 2 - Regular Plan - Growth",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "22-10-2008",
+            "nav": "10.08750"
+        },
+        {
+            "date": "20-10-2008",
+            "nav": "10.09230"
+        },
+        {
+            "date": "17-10-2008",
+            "nav": "10.08000"
+        },
+        {
+            "date": "16-10-2008",
+            "nav": "10.07680"
+        },
+        {
+            "date": "15-10-2008",
+            "nav": "10.07360"
+        },
+        {
+            "date": "14-10-2008",
+            "nav": "10.07030"
+        },
+        {
+            "date": "13-10-2008",
+            "nav": "10.06710"
+        },
+        {
+            "date": "10-10-2008",
+            "nav": "10.05720"
+        },
+        {
+            "date": "08-10-2008",
+            "nav": "10.05070"
+        },
+        {
+            "date": "07-10-2008",
+            "nav": "10.04750"
+        },
+        {
+            "date": "06-10-2008",
+            "nav": "10.04420"
+        },
+        {
+            "date": "03-10-2008",
+            "nav": "10.03440"
+        },
+        {
+            "date": "01-10-2008",
+            "nav": "10.02780"
+        }
+    ],
+    "status": "SUCCESS"
+}

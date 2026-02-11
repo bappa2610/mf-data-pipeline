@@ -1,0 +1,82 @@
+{
+    "meta": {
+        "fund_house": "ING Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 102899,
+        "scheme_name": "ING Vysya Fixed Maturity Fund - Series II-Dividend Option",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "28-04-2006",
+            "nav": "10.75270"
+        },
+        {
+            "date": "27-04-2006",
+            "nav": "10.75120"
+        },
+        {
+            "date": "26-04-2006",
+            "nav": "10.74980"
+        },
+        {
+            "date": "25-04-2006",
+            "nav": "10.74830"
+        },
+        {
+            "date": "24-04-2006",
+            "nav": "10.74680"
+        },
+        {
+            "date": "21-04-2006",
+            "nav": "10.74250"
+        },
+        {
+            "date": "20-04-2006",
+            "nav": "10.74110"
+        },
+        {
+            "date": "19-04-2006",
+            "nav": "10.73970"
+        },
+        {
+            "date": "18-04-2006",
+            "nav": "10.73840"
+        },
+        {
+            "date": "17-04-2006",
+            "nav": "10.73710"
+        },
+        {
+            "date": "13-04-2006",
+            "nav": "10.73170"
+        },
+        {
+            "date": "12-04-2006",
+            "nav": "10.73030"
+        },
+        {
+            "date": "10-04-2006",
+            "nav": "10.72760"
+        },
+        {
+            "date": "07-04-2006",
+            "nav": "10.72300"
+        },
+        {
+            "date": "05-04-2006",
+            "nav": "10.72120"
+        },
+        {
+            "date": "04-04-2006",
+            "nav": "10.71990"
+        },
+        {
+            "date": "03-04-2006",
+            "nav": "10.71820"
+        }
+    ],
+    "status": "SUCCESS"
+}

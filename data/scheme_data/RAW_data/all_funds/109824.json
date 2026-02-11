@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "fund_house": "IDFC Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 109824,
+        "scheme_name": "IDFC Fixed Maturity Plan - MS 3 A GROWTH",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "22-09-2008",
+            "nav": "10.08880"
+        },
+        {
+            "date": "17-09-2008",
+            "nav": "10.07420"
+        },
+        {
+            "date": "10-09-2008",
+            "nav": "10.05260"
+        },
+        {
+            "date": "04-09-2008",
+            "nav": "10.03600"
+        },
+        {
+            "date": "27-08-2008",
+            "nav": "10.01470"
+        }
+    ],
+    "status": "SUCCESS"
+}

@@ -1,0 +1,62 @@
+{
+    "meta": {
+        "fund_house": "SBI Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 103764,
+        "scheme_name": "SBI Debt Fund Series-90 Days-1-Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "28-08-2006",
+            "nav": "10.00000"
+        },
+        {
+            "date": "23-08-2006",
+            "nav": "10.15640"
+        },
+        {
+            "date": "16-08-2006",
+            "nav": "10.14300"
+        },
+        {
+            "date": "09-08-2006",
+            "nav": "10.13020"
+        },
+        {
+            "date": "02-08-2006",
+            "nav": "10.11730"
+        },
+        {
+            "date": "26-07-2006",
+            "nav": "10.10440"
+        },
+        {
+            "date": "19-07-2006",
+            "nav": "10.09160"
+        },
+        {
+            "date": "12-07-2006",
+            "nav": "10.07870"
+        },
+        {
+            "date": "05-07-2006",
+            "nav": "10.06590"
+        },
+        {
+            "date": "28-06-2006",
+            "nav": "10.05300"
+        },
+        {
+            "date": "21-06-2006",
+            "nav": "10.03990"
+        },
+        {
+            "date": "14-06-2006",
+            "nav": "10.02700"
+        }
+    ],
+    "status": "SUCCESS"
+}

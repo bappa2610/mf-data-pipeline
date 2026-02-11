@@ -1,0 +1,46 @@
+{
+    "meta": {
+        "fund_house": "Standard Chartered Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 108216,
+        "scheme_name": "Standard Chartered Fixed Maturity Plan - YS21-Plan A - Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "29-05-2008",
+            "nav": "10.10870"
+        },
+        {
+            "date": "28-05-2008",
+            "nav": "10.10670"
+        },
+        {
+            "date": "21-05-2008",
+            "nav": "10.09230"
+        },
+        {
+            "date": "14-05-2008",
+            "nav": "10.07790"
+        },
+        {
+            "date": "07-05-2008",
+            "nav": "10.06350"
+        },
+        {
+            "date": "30-04-2008",
+            "nav": "10.04980"
+        },
+        {
+            "date": "23-04-2008",
+            "nav": "10.03640"
+        },
+        {
+            "date": "16-04-2008",
+            "nav": "10.02320"
+        }
+    ],
+    "status": "SUCCESS"
+}

@@ -1,0 +1,42 @@
+{
+    "meta": {
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "scheme_type": "141923;INF179KB1W87;-;HDFC HOF - I - 1140D November 2017",
+        "scheme_category": "1",
+        "scheme_code": 129243,
+        "scheme_name": "ICICI Prudential Fixed Maturity Plan-Series 74-367 Days Plan C - Cumulative",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "10-07-2018",
+            "nav": "13.79830"
+        },
+        {
+            "date": "09-07-2018",
+            "nav": "13.79600"
+        },
+        {
+            "date": "06-07-2018",
+            "nav": "13.78990"
+        },
+        {
+            "date": "05-07-2018",
+            "nav": "13.78810"
+        },
+        {
+            "date": "04-07-2018",
+            "nav": "13.78580"
+        },
+        {
+            "date": "03-07-2018",
+            "nav": "13.78360"
+        },
+        {
+            "date": "12-06-2014",
+            "nav": "10.15200"
+        }
+    ],
+    "status": "SUCCESS"
+}

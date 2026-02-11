@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "fund_house": "UTI Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 111876,
+        "scheme_name": "UTI-Fixed Maturity Plan Yearly Series March 2009 - Instn. Dividend Option",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "31-03-2009",
+            "nav": "10.01450"
+        },
+        {
+            "date": "30-03-2009",
+            "nav": "10.01200"
+        }
+    ],
+    "status": "SUCCESS"
+}

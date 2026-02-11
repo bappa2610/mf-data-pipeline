@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "fund_house": "UTI Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 113374,
+        "scheme_name": "UTI-FMP-Yearly Series Sep 10 - Institutional Dividend Option",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "29-09-2010",
+            "nav": "10.00820"
+        },
+        {
+            "date": "28-09-2010",
+            "nav": "10.00820"
+        },
+        {
+            "date": "27-09-2010",
+            "nav": "10.00690"
+        },
+        {
+            "date": "24-09-2010",
+            "nav": "10.00300"
+        }
+    ],
+    "status": "SUCCESS"
+}

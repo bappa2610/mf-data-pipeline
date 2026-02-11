@@ -1,0 +1,98 @@
+{
+    "meta": {
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 111605,
+        "scheme_name": "ICICI Prudential Interval Fund V - Monthly Interval Plan C- Retail Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "19-01-2009",
+            "nav": "10.07450"
+        },
+        {
+            "date": "16-01-2009",
+            "nav": "10.06640"
+        },
+        {
+            "date": "15-01-2009",
+            "nav": "10.06370"
+        },
+        {
+            "date": "14-01-2009",
+            "nav": "10.06090"
+        },
+        {
+            "date": "13-01-2009",
+            "nav": "10.05810"
+        },
+        {
+            "date": "12-01-2009",
+            "nav": "10.05530"
+        },
+        {
+            "date": "09-01-2009",
+            "nav": "10.04680"
+        },
+        {
+            "date": "07-01-2009",
+            "nav": "10.04110"
+        },
+        {
+            "date": "06-01-2009",
+            "nav": "10.03830"
+        },
+        {
+            "date": "05-01-2009",
+            "nav": "10.03550"
+        },
+        {
+            "date": "02-01-2009",
+            "nav": "10.02700"
+        },
+        {
+            "date": "01-01-2009",
+            "nav": "10.02420"
+        },
+        {
+            "date": "31-12-2008",
+            "nav": "10.02140"
+        },
+        {
+            "date": "30-12-2008",
+            "nav": "10.01850"
+        },
+        {
+            "date": "29-12-2008",
+            "nav": "10.01570"
+        },
+        {
+            "date": "26-12-2008",
+            "nav": "10.01190"
+        },
+        {
+            "date": "24-12-2008",
+            "nav": "10.00940"
+        },
+        {
+            "date": "23-12-2008",
+            "nav": "10.00800"
+        },
+        {
+            "date": "22-12-2008",
+            "nav": "10.00660"
+        },
+        {
+            "date": "19-12-2008",
+            "nav": "10.00260"
+        },
+        {
+            "date": "18-12-2008",
+            "nav": "10.00130"
+        }
+    ],
+    "status": "SUCCESS"
+}

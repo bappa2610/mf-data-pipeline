@@ -1,0 +1,86 @@
+{
+    "meta": {
+        "fund_house": "PRINCIPAL Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 110233,
+        "scheme_name": "Principal Pnb Fixed Maturity Plan 30 Days - Series II - Institutional Plan - Growth",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "16-10-2008",
+            "nav": "10.08630"
+        },
+        {
+            "date": "15-10-2008",
+            "nav": "10.08430"
+        },
+        {
+            "date": "14-10-2008",
+            "nav": "10.08160"
+        },
+        {
+            "date": "13-10-2008",
+            "nav": "10.07880"
+        },
+        {
+            "date": "10-10-2008",
+            "nav": "10.07060"
+        },
+        {
+            "date": "08-10-2008",
+            "nav": "10.06510"
+        },
+        {
+            "date": "07-10-2008",
+            "nav": "10.06210"
+        },
+        {
+            "date": "06-10-2008",
+            "nav": "10.05940"
+        },
+        {
+            "date": "03-10-2008",
+            "nav": "10.04550"
+        },
+        {
+            "date": "01-10-2008",
+            "nav": "10.04000"
+        },
+        {
+            "date": "29-09-2008",
+            "nav": "10.03550"
+        },
+        {
+            "date": "26-09-2008",
+            "nav": "10.02750"
+        },
+        {
+            "date": "25-09-2008",
+            "nav": "10.02480"
+        },
+        {
+            "date": "24-09-2008",
+            "nav": "10.02280"
+        },
+        {
+            "date": "23-09-2008",
+            "nav": "10.02020"
+        },
+        {
+            "date": "22-09-2008",
+            "nav": "10.01760"
+        },
+        {
+            "date": "19-09-2008",
+            "nav": "10.00930"
+        },
+        {
+            "date": "18-09-2008",
+            "nav": "10.00620"
+        }
+    ],
+    "status": "SUCCESS"
+}

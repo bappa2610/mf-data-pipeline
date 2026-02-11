@@ -1,0 +1,66 @@
+{
+    "meta": {
+        "fund_house": "Standard Chartered Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 105776,
+        "scheme_name": "Standard Chartered Fixed Maturity Plan - QS 13-Plan A-Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "21-08-2007",
+            "nav": "10.00080"
+        },
+        {
+            "date": "16-08-2007",
+            "nav": "10.22100"
+        },
+        {
+            "date": "08-08-2007",
+            "nav": "10.20040"
+        },
+        {
+            "date": "01-08-2007",
+            "nav": "10.18240"
+        },
+        {
+            "date": "25-07-2007",
+            "nav": "10.16440"
+        },
+        {
+            "date": "18-07-2007",
+            "nav": "10.14630"
+        },
+        {
+            "date": "11-07-2007",
+            "nav": "10.12830"
+        },
+        {
+            "date": "04-07-2007",
+            "nav": "10.11030"
+        },
+        {
+            "date": "27-06-2007",
+            "nav": "10.09230"
+        },
+        {
+            "date": "20-06-2007",
+            "nav": "10.07430"
+        },
+        {
+            "date": "13-06-2007",
+            "nav": "10.05630"
+        },
+        {
+            "date": "06-06-2007",
+            "nav": "10.03820"
+        },
+        {
+            "date": "30-05-2007",
+            "nav": "10.02020"
+        }
+    ],
+    "status": "SUCCESS"
+}

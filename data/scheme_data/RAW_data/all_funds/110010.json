@@ -1,0 +1,70 @@
+{
+    "meta": {
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 110010,
+        "scheme_name": "ICICI Prudential Fixed Maturity Plan - Series 47 - Three Months Plan B - Retail Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "01-12-2008",
+            "nav": "10.26930"
+        },
+        {
+            "date": "26-11-2008",
+            "nav": "10.25420"
+        },
+        {
+            "date": "19-11-2008",
+            "nav": "10.23480"
+        },
+        {
+            "date": "12-11-2008",
+            "nav": "10.21400"
+        },
+        {
+            "date": "05-11-2008",
+            "nav": "10.19320"
+        },
+        {
+            "date": "29-10-2008",
+            "nav": "10.17240"
+        },
+        {
+            "date": "22-10-2008",
+            "nav": "10.15120"
+        },
+        {
+            "date": "15-10-2008",
+            "nav": "10.13000"
+        },
+        {
+            "date": "08-10-2008",
+            "nav": "10.10830"
+        },
+        {
+            "date": "01-10-2008",
+            "nav": "10.08750"
+        },
+        {
+            "date": "24-09-2008",
+            "nav": "10.06670"
+        },
+        {
+            "date": "17-09-2008",
+            "nav": "10.04590"
+        },
+        {
+            "date": "10-09-2008",
+            "nav": "10.02500"
+        },
+        {
+            "date": "04-09-2008",
+            "nav": "10.00770"
+        }
+    ],
+    "status": "SUCCESS"
+}

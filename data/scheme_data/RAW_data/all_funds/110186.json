@@ -1,0 +1,86 @@
+{
+    "meta": {
+        "fund_house": "JM Financial Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 110186,
+        "scheme_name": "JM Fixed Maturity Fund - Series XIII - Monthly plan 1 (JM FMF - XIII - M1) - Regular plan - Dividend option",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "23-10-2008",
+            "nav": "10.00000"
+        },
+        {
+            "date": "22-10-2008",
+            "nav": "10.08750"
+        },
+        {
+            "date": "20-10-2008",
+            "nav": "10.08160"
+        },
+        {
+            "date": "17-10-2008",
+            "nav": "10.07260"
+        },
+        {
+            "date": "16-10-2008",
+            "nav": "10.06960"
+        },
+        {
+            "date": "15-10-2008",
+            "nav": "10.06670"
+        },
+        {
+            "date": "14-10-2008",
+            "nav": "10.06370"
+        },
+        {
+            "date": "13-10-2008",
+            "nav": "10.06070"
+        },
+        {
+            "date": "10-10-2008",
+            "nav": "10.05170"
+        },
+        {
+            "date": "08-10-2008",
+            "nav": "10.04570"
+        },
+        {
+            "date": "07-10-2008",
+            "nav": "10.04270"
+        },
+        {
+            "date": "06-10-2008",
+            "nav": "10.03970"
+        },
+        {
+            "date": "03-10-2008",
+            "nav": "10.03080"
+        },
+        {
+            "date": "01-10-2008",
+            "nav": "10.02480"
+        },
+        {
+            "date": "29-09-2008",
+            "nav": "10.01890"
+        },
+        {
+            "date": "26-09-2008",
+            "nav": "10.00980"
+        },
+        {
+            "date": "25-09-2008",
+            "nav": "10.00680"
+        },
+        {
+            "date": "24-09-2008",
+            "nav": "10.00460"
+        }
+    ],
+    "status": "SUCCESS"
+}

@@ -1,0 +1,66 @@
+{
+    "meta": {
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 105340,
+        "scheme_name": "ICICI Prudential FMP series 37 - 3 Mths Plan B - Retail Dividend Option",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "27-06-2007",
+            "nav": "10.00000"
+        },
+        {
+            "date": "20-06-2007",
+            "nav": "10.26250"
+        },
+        {
+            "date": "13-06-2007",
+            "nav": "10.24060"
+        },
+        {
+            "date": "06-06-2007",
+            "nav": "10.21870"
+        },
+        {
+            "date": "30-05-2007",
+            "nav": "10.19680"
+        },
+        {
+            "date": "23-05-2007",
+            "nav": "10.17490"
+        },
+        {
+            "date": "16-05-2007",
+            "nav": "10.15310"
+        },
+        {
+            "date": "09-05-2007",
+            "nav": "10.13120"
+        },
+        {
+            "date": "03-05-2007",
+            "nav": "10.11240"
+        },
+        {
+            "date": "25-04-2007",
+            "nav": "10.08740"
+        },
+        {
+            "date": "18-04-2007",
+            "nav": "10.06550"
+        },
+        {
+            "date": "11-04-2007",
+            "nav": "10.04370"
+        },
+        {
+            "date": "04-04-2007",
+            "nav": "10.02180"
+        }
+    ],
+    "status": "SUCCESS"
+}

@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 112197,
+        "scheme_name": "ICICI Prudential Fixed Maturity Plan Series 49 - 1 Year Plan B Institutional Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "05-10-2009",
+            "nav": "10.01580"
+        },
+        {
+            "date": "01-10-2009",
+            "nav": "10.00940"
+        }
+    ],
+    "status": "SUCCESS"
+}

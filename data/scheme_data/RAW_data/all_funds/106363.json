@@ -1,0 +1,66 @@
+{
+    "meta": {
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 106363,
+        "scheme_name": "ICICI Prudential FMP series 39 - 3 Mths Plan A - Retail Growth Option",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "20-12-2007",
+            "nav": "10.18980"
+        },
+        {
+            "date": "19-12-2007",
+            "nav": "10.18760"
+        },
+        {
+            "date": "12-12-2007",
+            "nav": "10.17210"
+        },
+        {
+            "date": "05-12-2007",
+            "nav": "10.15650"
+        },
+        {
+            "date": "28-11-2007",
+            "nav": "10.14100"
+        },
+        {
+            "date": "21-11-2007",
+            "nav": "10.12540"
+        },
+        {
+            "date": "14-11-2007",
+            "nav": "10.10990"
+        },
+        {
+            "date": "07-11-2007",
+            "nav": "10.09430"
+        },
+        {
+            "date": "31-10-2007",
+            "nav": "10.07880"
+        },
+        {
+            "date": "24-10-2007",
+            "nav": "10.06330"
+        },
+        {
+            "date": "17-10-2007",
+            "nav": "10.04780"
+        },
+        {
+            "date": "10-10-2007",
+            "nav": "10.03230"
+        },
+        {
+            "date": "03-10-2007",
+            "nav": "10.01980"
+        }
+    ],
+    "status": "SUCCESS"
+}

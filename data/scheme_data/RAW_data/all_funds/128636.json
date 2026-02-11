@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "fund_house": "Reliance Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 128636,
+        "scheme_name": "Reliance Fixed Horizon Fund- XXVI- Series 6- Dividend payout Option",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "09-04-2014",
+            "nav": "10.02110"
+        },
+        {
+            "date": "07-04-2014",
+            "nav": "10.02020"
+        },
+        {
+            "date": "04-04-2014",
+            "nav": "10.01490"
+        },
+        {
+            "date": "03-04-2014",
+            "nav": "10.01460"
+        }
+    ],
+    "status": "SUCCESS"
+}

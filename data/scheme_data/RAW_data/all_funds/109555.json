@@ -1,0 +1,66 @@
+{
+    "meta": {
+        "fund_house": "SBI Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 109555,
+        "scheme_name": "SBI DEBT FUND SERIES - 90 DAYS - 26 (29/07/08) - GROWTH",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "27-10-2008",
+            "nav": "10.25640"
+        },
+        {
+            "date": "22-10-2008",
+            "nav": "10.24400"
+        },
+        {
+            "date": "15-10-2008",
+            "nav": "10.22350"
+        },
+        {
+            "date": "08-10-2008",
+            "nav": "10.20350"
+        },
+        {
+            "date": "01-10-2008",
+            "nav": "10.18410"
+        },
+        {
+            "date": "24-09-2008",
+            "nav": "10.16240"
+        },
+        {
+            "date": "17-09-2008",
+            "nav": "10.14250"
+        },
+        {
+            "date": "10-09-2008",
+            "nav": "10.12270"
+        },
+        {
+            "date": "03-09-2008",
+            "nav": "10.10290"
+        },
+        {
+            "date": "27-08-2008",
+            "nav": "10.08300"
+        },
+        {
+            "date": "20-08-2008",
+            "nav": "10.06320"
+        },
+        {
+            "date": "13-08-2008",
+            "nav": "10.04340"
+        },
+        {
+            "date": "06-08-2008",
+            "nav": "10.02350"
+        }
+    ],
+    "status": "SUCCESS"
+}

@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "fund_house": "DSP Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 110506,
+        "scheme_name": "DSP BlackRock FMP - 1M - Series 3 - Institutional Plan - Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "05-11-2008",
+            "nav": "10.00330"
+        },
+        {
+            "date": "29-10-2008",
+            "nav": "10.07530"
+        },
+        {
+            "date": "22-10-2008",
+            "nav": "10.05200"
+        },
+        {
+            "date": "15-10-2008",
+            "nav": "10.02850"
+        }
+    ],
+    "status": "SUCCESS"
+}

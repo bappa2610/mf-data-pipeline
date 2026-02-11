@@ -1,0 +1,70 @@
+{
+    "meta": {
+        "fund_house": "Sahara Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 107610,
+        "scheme_name": "Sahara FMP 3 Months Series 4 Growth",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "29-01-2010",
+            "nav": "0.00000"
+        },
+        {
+            "date": "07-10-2008",
+            "nav": "0.00000"
+        },
+        {
+            "date": "10-06-2008",
+            "nav": "10.21920"
+        },
+        {
+            "date": "03-06-2008",
+            "nav": "10.20460"
+        },
+        {
+            "date": "27-05-2008",
+            "nav": "10.18850"
+        },
+        {
+            "date": "20-05-2008",
+            "nav": "10.17440"
+        },
+        {
+            "date": "13-05-2008",
+            "nav": "10.15510"
+        },
+        {
+            "date": "06-05-2008",
+            "nav": "10.13660"
+        },
+        {
+            "date": "29-04-2008",
+            "nav": "10.11820"
+        },
+        {
+            "date": "22-04-2008",
+            "nav": "10.09990"
+        },
+        {
+            "date": "15-04-2008",
+            "nav": "10.08150"
+        },
+        {
+            "date": "08-04-2008",
+            "nav": "10.06310"
+        },
+        {
+            "date": "25-03-2008",
+            "nav": "10.02630"
+        },
+        {
+            "date": "18-03-2008",
+            "nav": "10.00790"
+        }
+    ],
+    "status": "SUCCESS"
+}

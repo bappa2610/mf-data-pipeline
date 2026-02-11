@@ -1,0 +1,70 @@
+{
+    "meta": {
+        "fund_house": "Standard Chartered Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 104917,
+        "scheme_name": "Standard Chartered Fixed Maturity Plan - Quarterly Series 5-Plan A-Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "22-05-2007",
+            "nav": "10.00000"
+        },
+        {
+            "date": "16-05-2007",
+            "nav": "10.13090"
+        },
+        {
+            "date": "09-05-2007",
+            "nav": "10.11150"
+        },
+        {
+            "date": "03-05-2007",
+            "nav": "10.09480"
+        },
+        {
+            "date": "25-04-2007",
+            "nav": "10.07250"
+        },
+        {
+            "date": "18-04-2007",
+            "nav": "10.05300"
+        },
+        {
+            "date": "11-04-2007",
+            "nav": "10.03350"
+        },
+        {
+            "date": "04-04-2007",
+            "nav": "10.01400"
+        },
+        {
+            "date": "30-03-2007",
+            "nav": "10.00000"
+        },
+        {
+            "date": "28-03-2007",
+            "nav": "10.09810"
+        },
+        {
+            "date": "21-03-2007",
+            "nav": "10.07840"
+        },
+        {
+            "date": "14-03-2007",
+            "nav": "10.05870"
+        },
+        {
+            "date": "07-03-2007",
+            "nav": "10.03900"
+        },
+        {
+            "date": "28-02-2007",
+            "nav": "10.01930"
+        }
+    ],
+    "status": "SUCCESS"
+}

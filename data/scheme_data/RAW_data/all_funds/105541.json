@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "fund_house": "SBI Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 105541,
+        "scheme_name": "SBI DEBT FUND SERIES - 60 DAYS - 11 (17/04/07) - DIVIDEND",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "15-06-2007",
+            "nav": "10.00000"
+        },
+        {
+            "date": "13-06-2007",
+            "nav": "10.14800"
+        },
+        {
+            "date": "06-06-2007",
+            "nav": "10.13310"
+        },
+        {
+            "date": "30-05-2007",
+            "nav": "10.11520"
+        },
+        {
+            "date": "23-05-2007",
+            "nav": "10.09700"
+        },
+        {
+            "date": "16-05-2007",
+            "nav": "10.07890"
+        },
+        {
+            "date": "09-05-2007",
+            "nav": "10.06070"
+        },
+        {
+            "date": "02-05-2007",
+            "nav": "10.04250"
+        },
+        {
+            "date": "25-04-2007",
+            "nav": "10.02430"
+        }
+    ],
+    "status": "SUCCESS"
+}

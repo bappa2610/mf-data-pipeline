@@ -1,0 +1,94 @@
+{
+    "meta": {
+        "fund_house": "JM Financial Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 109399,
+        "scheme_name": "JM Fixed Maturity Fund - Series XII - Monthly plan 1 (JM FMF - XII - M1) - Regular plan - Dividend option",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "18-08-2008",
+            "nav": "10.00000"
+        },
+        {
+            "date": "14-08-2008",
+            "nav": "10.07670"
+        },
+        {
+            "date": "13-08-2008",
+            "nav": "10.07390"
+        },
+        {
+            "date": "12-08-2008",
+            "nav": "10.07120"
+        },
+        {
+            "date": "11-08-2008",
+            "nav": "10.06840"
+        },
+        {
+            "date": "08-08-2008",
+            "nav": "10.06020"
+        },
+        {
+            "date": "07-08-2008",
+            "nav": "10.05740"
+        },
+        {
+            "date": "06-08-2008",
+            "nav": "10.05470"
+        },
+        {
+            "date": "05-08-2008",
+            "nav": "10.05190"
+        },
+        {
+            "date": "04-08-2008",
+            "nav": "10.04920"
+        },
+        {
+            "date": "01-08-2008",
+            "nav": "10.04100"
+        },
+        {
+            "date": "31-07-2008",
+            "nav": "10.03820"
+        },
+        {
+            "date": "30-07-2008",
+            "nav": "10.03550"
+        },
+        {
+            "date": "29-07-2008",
+            "nav": "10.03270"
+        },
+        {
+            "date": "28-07-2008",
+            "nav": "10.03000"
+        },
+        {
+            "date": "25-07-2008",
+            "nav": "10.02170"
+        },
+        {
+            "date": "24-07-2008",
+            "nav": "10.01900"
+        },
+        {
+            "date": "23-07-2008",
+            "nav": "10.01620"
+        },
+        {
+            "date": "22-07-2008",
+            "nav": "10.01340"
+        },
+        {
+            "date": "21-07-2008",
+            "nav": "10.01060"
+        }
+    ],
+    "status": "SUCCESS"
+}

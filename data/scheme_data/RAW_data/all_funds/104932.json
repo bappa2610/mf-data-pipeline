@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "fund_house": "SBI Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 104932,
+        "scheme_name": "SBI DEBT FUND SERIES 60 DAYS - 8 - DIVIDEND",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "16-04-2007",
+            "nav": "10.00000"
+        },
+        {
+            "date": "11-04-2007",
+            "nav": "10.05760"
+        },
+        {
+            "date": "04-04-2007",
+            "nav": "10.04010"
+        },
+        {
+            "date": "28-03-2007",
+            "nav": "10.02240"
+        },
+        {
+            "date": "21-03-2007",
+            "nav": "10.09000"
+        },
+        {
+            "date": "14-03-2007",
+            "nav": "10.07210"
+        },
+        {
+            "date": "07-03-2007",
+            "nav": "10.05430"
+        },
+        {
+            "date": "28-02-2007",
+            "nav": "10.03660"
+        },
+        {
+            "date": "21-02-2007",
+            "nav": "10.01920"
+        }
+    ],
+    "status": "SUCCESS"
+}

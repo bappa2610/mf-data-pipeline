@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "fund_house": "SBI Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 108139,
+        "scheme_name": "Z-REDEEMED-SBI DEBT FUND SERIES - 30 DAYS-2-DIVIDEND",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "16-04-2008",
+            "nav": "10.07660"
+        },
+        {
+            "date": "09-04-2008",
+            "nav": "10.05390"
+        },
+        {
+            "date": "02-04-2008",
+            "nav": "10.03080"
+        }
+    ],
+    "status": "SUCCESS"
+}

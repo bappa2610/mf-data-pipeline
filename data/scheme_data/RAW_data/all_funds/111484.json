@@ -1,0 +1,66 @@
+{
+    "meta": {
+        "fund_house": "SBI Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 111484,
+        "scheme_name": "SBI DEBT FUND SERIES-90D-32(26/11/08) GROWTH",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "24-02-2009",
+            "nav": "10.23190"
+        },
+        {
+            "date": "18-02-2009",
+            "nav": "10.21230"
+        },
+        {
+            "date": "11-02-2009",
+            "nav": "10.19520"
+        },
+        {
+            "date": "04-02-2009",
+            "nav": "10.17750"
+        },
+        {
+            "date": "28-01-2009",
+            "nav": "10.15970"
+        },
+        {
+            "date": "21-01-2009",
+            "nav": "10.14190"
+        },
+        {
+            "date": "14-01-2009",
+            "nav": "10.12410"
+        },
+        {
+            "date": "07-01-2009",
+            "nav": "10.10640"
+        },
+        {
+            "date": "31-12-2008",
+            "nav": "10.08860"
+        },
+        {
+            "date": "24-12-2008",
+            "nav": "10.07080"
+        },
+        {
+            "date": "17-12-2008",
+            "nav": "10.05300"
+        },
+        {
+            "date": "10-12-2008",
+            "nav": "10.03530"
+        },
+        {
+            "date": "03-12-2008",
+            "nav": "10.01750"
+        }
+    ],
+    "status": "SUCCESS"
+}

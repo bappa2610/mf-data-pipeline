@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 116128,
+        "scheme_name": "ICICI Prudential Fixed Maturity Plan - Series 60 - 3 Year Plan E Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "12-06-2014",
+            "nav": "10.81940"
+        },
+        {
+            "date": "10-08-2012",
+            "nav": "10.18080"
+        }
+    ],
+    "status": "SUCCESS"
+}

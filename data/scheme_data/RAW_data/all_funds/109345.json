@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 109345,
+        "scheme_name": "ICICI Prudential FMP series 44 - 1 Mths Plan D - Retail Dividend Option",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "11-08-2008",
+            "nav": "10.08600"
+        },
+        {
+            "date": "06-08-2008",
+            "nav": "10.06750"
+        },
+        {
+            "date": "30-07-2008",
+            "nav": "10.05020"
+        },
+        {
+            "date": "23-07-2008",
+            "nav": "10.03280"
+        },
+        {
+            "date": "16-07-2008",
+            "nav": "10.01530"
+        }
+    ],
+    "status": "SUCCESS"
+}

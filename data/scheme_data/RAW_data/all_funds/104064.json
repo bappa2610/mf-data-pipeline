@@ -1,0 +1,62 @@
+{
+    "meta": {
+        "fund_house": "Standard Chartered Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 104064,
+        "scheme_name": "Standard Chartered Fixed Maturity 8th Plan- Growth",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "20-09-2006",
+            "nav": "10.15630"
+        },
+        {
+            "date": "13-09-2006",
+            "nav": "10.14310"
+        },
+        {
+            "date": "06-09-2006",
+            "nav": "10.13010"
+        },
+        {
+            "date": "30-08-2006",
+            "nav": "10.11700"
+        },
+        {
+            "date": "23-08-2006",
+            "nav": "10.10400"
+        },
+        {
+            "date": "16-08-2006",
+            "nav": "10.09100"
+        },
+        {
+            "date": "09-08-2006",
+            "nav": "10.07790"
+        },
+        {
+            "date": "02-08-2006",
+            "nav": "10.06490"
+        },
+        {
+            "date": "26-07-2006",
+            "nav": "10.05180"
+        },
+        {
+            "date": "19-07-2006",
+            "nav": "10.03880"
+        },
+        {
+            "date": "12-07-2006",
+            "nav": "10.02580"
+        },
+        {
+            "date": "05-07-2006",
+            "nav": "10.01270"
+        }
+    ],
+    "status": "SUCCESS"
+}

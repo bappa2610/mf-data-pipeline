@@ -1,0 +1,90 @@
+{
+    "meta": {
+        "fund_house": "PRINCIPAL Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 110517,
+        "scheme_name": "Principal Pnb Fixed Maturity Plan 30 Days - Series III Regular Plan - Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "12-11-2008",
+            "nav": "10.00180"
+        },
+        {
+            "date": "11-11-2008",
+            "nav": "10.00000"
+        },
+        {
+            "date": "10-11-2008",
+            "nav": "10.08700"
+        },
+        {
+            "date": "07-11-2008",
+            "nav": "10.06800"
+        },
+        {
+            "date": "06-11-2008",
+            "nav": "10.06520"
+        },
+        {
+            "date": "05-11-2008",
+            "nav": "10.06210"
+        },
+        {
+            "date": "04-11-2008",
+            "nav": "10.05660"
+        },
+        {
+            "date": "03-11-2008",
+            "nav": "10.05400"
+        },
+        {
+            "date": "31-10-2008",
+            "nav": "10.04630"
+        },
+        {
+            "date": "29-10-2008",
+            "nav": "10.04110"
+        },
+        {
+            "date": "27-10-2008",
+            "nav": "10.03600"
+        },
+        {
+            "date": "24-10-2008",
+            "nav": "10.02850"
+        },
+        {
+            "date": "23-10-2008",
+            "nav": "10.02600"
+        },
+        {
+            "date": "22-10-2008",
+            "nav": "10.02340"
+        },
+        {
+            "date": "21-10-2008",
+            "nav": "10.02090"
+        },
+        {
+            "date": "20-10-2008",
+            "nav": "10.01840"
+        },
+        {
+            "date": "17-10-2008",
+            "nav": "10.01090"
+        },
+        {
+            "date": "16-10-2008",
+            "nav": "10.00830"
+        },
+        {
+            "date": "15-10-2008",
+            "nav": "10.00550"
+        }
+    ],
+    "status": "SUCCESS"
+}

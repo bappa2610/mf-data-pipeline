@@ -1,0 +1,38 @@
+{
+    "meta": {
+        "fund_house": "Kotak Mahindra Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Equity Scheme - Dividend Yield Fund",
+        "scheme_code": 154100,
+        "scheme_name": "Kotak Dividend Yield Fund - Direct - IDCW",
+        "isin_growth": "INF174KA1YJ3",
+        "isin_div_reinvestment": "INF174KA1YK1"
+    },
+    "data": [
+        {
+            "date": "10-02-2026",
+            "nav": "10.04300"
+        },
+        {
+            "date": "09-02-2026",
+            "nav": "10.04000"
+        },
+        {
+            "date": "06-02-2026",
+            "nav": "10.02700"
+        },
+        {
+            "date": "05-02-2026",
+            "nav": "10.02300"
+        },
+        {
+            "date": "04-02-2026",
+            "nav": "10.02300"
+        },
+        {
+            "date": "03-02-2026",
+            "nav": "10.02200"
+        }
+    ],
+    "status": "SUCCESS"
+}

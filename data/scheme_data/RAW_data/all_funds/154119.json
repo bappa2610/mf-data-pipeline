@@ -1,0 +1,42 @@
+{
+    "meta": {
+        "fund_house": "Mahindra Manulife Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_code": 154119,
+        "scheme_name": "Mahindra Manulife Innovation Opportunities Fund - Regular - IDCW",
+        "isin_growth": "INF174V01CZ3",
+        "isin_div_reinvestment": "INF174V01CY6"
+    },
+    "data": [
+        {
+            "date": "10-02-2026",
+            "nav": "10.26090"
+        },
+        {
+            "date": "09-02-2026",
+            "nav": "10.25210"
+        },
+        {
+            "date": "06-02-2026",
+            "nav": "10.11480"
+        },
+        {
+            "date": "05-02-2026",
+            "nav": "10.12030"
+        },
+        {
+            "date": "04-02-2026",
+            "nav": "10.13960"
+        },
+        {
+            "date": "03-02-2026",
+            "nav": "10.16650"
+        },
+        {
+            "date": "02-02-2026",
+            "nav": "10.01860"
+        }
+    ],
+    "status": "SUCCESS"
+}

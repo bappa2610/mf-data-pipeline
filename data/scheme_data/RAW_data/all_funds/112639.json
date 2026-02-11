@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "fund_house": "Essel Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Equity Scheme - Multi Cap Fund",
+        "scheme_code": 112639,
+        "scheme_name": "Essel Liquid Fund-Institutional Plan-Dividend Option-Monthly",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "31-03-2010",
+            "nav": "10.00000"
+        },
+        {
+            "date": "18-03-2010",
+            "nav": "10.00000"
+        }
+    ],
+    "status": "SUCCESS"
+}

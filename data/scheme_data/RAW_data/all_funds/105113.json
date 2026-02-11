@@ -1,0 +1,70 @@
+{
+    "meta": {
+        "fund_house": "Standard Chartered Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 105113,
+        "scheme_name": "Standard Chartered Fixed Maturity Plan - Quarterly Series 7-Plan A Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "04-06-2007",
+            "nav": "10.00000"
+        },
+        {
+            "date": "30-05-2007",
+            "nav": "10.17860"
+        },
+        {
+            "date": "23-05-2007",
+            "nav": "10.15810"
+        },
+        {
+            "date": "16-05-2007",
+            "nav": "10.13770"
+        },
+        {
+            "date": "09-05-2007",
+            "nav": "10.11720"
+        },
+        {
+            "date": "03-05-2007",
+            "nav": "10.09960"
+        },
+        {
+            "date": "25-04-2007",
+            "nav": "10.07620"
+        },
+        {
+            "date": "18-04-2007",
+            "nav": "10.05570"
+        },
+        {
+            "date": "11-04-2007",
+            "nav": "10.03520"
+        },
+        {
+            "date": "04-04-2007",
+            "nav": "10.01470"
+        },
+        {
+            "date": "30-03-2007",
+            "nav": "10.00000"
+        },
+        {
+            "date": "28-03-2007",
+            "nav": "10.06490"
+        },
+        {
+            "date": "21-03-2007",
+            "nav": "10.04430"
+        },
+        {
+            "date": "14-03-2007",
+            "nav": "10.02360"
+        }
+    ],
+    "status": "SUCCESS"
+}

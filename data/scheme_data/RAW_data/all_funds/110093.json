@@ -1,0 +1,94 @@
+{
+    "meta": {
+        "fund_house": "Fidelity Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 110093,
+        "scheme_name": "Fidelity Fixed Maturity Plan - Series 1 - Plan B - Institutional Plan Dividend Option",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "27-10-2008",
+            "nav": "10.00000"
+        },
+        {
+            "date": "16-10-2008",
+            "nav": "10.03980"
+        },
+        {
+            "date": "15-10-2008",
+            "nav": "10.08910"
+        },
+        {
+            "date": "14-10-2008",
+            "nav": "10.08530"
+        },
+        {
+            "date": "13-10-2008",
+            "nav": "10.08380"
+        },
+        {
+            "date": "10-10-2008",
+            "nav": "10.07250"
+        },
+        {
+            "date": "08-10-2008",
+            "nav": "10.06610"
+        },
+        {
+            "date": "07-10-2008",
+            "nav": "10.06920"
+        },
+        {
+            "date": "06-10-2008",
+            "nav": "10.06920"
+        },
+        {
+            "date": "03-10-2008",
+            "nav": "10.06110"
+        },
+        {
+            "date": "01-10-2008",
+            "nav": "10.05490"
+        },
+        {
+            "date": "29-09-2008",
+            "nav": "10.04990"
+        },
+        {
+            "date": "26-09-2008",
+            "nav": "10.04240"
+        },
+        {
+            "date": "25-09-2008",
+            "nav": "10.03930"
+        },
+        {
+            "date": "24-09-2008",
+            "nav": "10.03620"
+        },
+        {
+            "date": "23-09-2008",
+            "nav": "10.03310"
+        },
+        {
+            "date": "22-09-2008",
+            "nav": "10.03000"
+        },
+        {
+            "date": "19-09-2008",
+            "nav": "10.02070"
+        },
+        {
+            "date": "18-09-2008",
+            "nav": "10.02360"
+        },
+        {
+            "date": "17-09-2008",
+            "nav": "10.02280"
+        }
+    ],
+    "status": "SUCCESS"
+}

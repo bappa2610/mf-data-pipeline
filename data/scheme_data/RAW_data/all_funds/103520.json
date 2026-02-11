@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "fund_house": "Reliance Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 103520,
+        "scheme_name": "Reliance Fixed Maturity Fund -Monthly Plan-11-Series-2-Monthly Plan-11-Growth Option",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "05-04-2006",
+            "nav": "10.06430"
+        },
+        {
+            "date": "04-04-2006",
+            "nav": "10.05960"
+        },
+        {
+            "date": "03-04-2006",
+            "nav": "10.05390"
+        }
+    ],
+    "status": "SUCCESS"
+}

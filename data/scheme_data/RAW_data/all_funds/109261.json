@@ -1,0 +1,42 @@
+{
+    "meta": {
+        "fund_house": "BOI AXA Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Equity Scheme - Large & Mid Cap Fund",
+        "scheme_code": 109261,
+        "scheme_name": "BOI AXA Liquid Fund- Super Institutional Plan-Weekly Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "31-08-2010",
+            "nav": "1000.13710"
+        },
+        {
+            "date": "30-08-2010",
+            "nav": "1000.00000"
+        },
+        {
+            "date": "29-08-2010",
+            "nav": "1000.76950"
+        },
+        {
+            "date": "27-08-2010",
+            "nav": "1000.51730"
+        },
+        {
+            "date": "26-08-2010",
+            "nav": "1000.39220"
+        },
+        {
+            "date": "25-08-2010",
+            "nav": "1000.25930"
+        },
+        {
+            "date": "24-08-2010",
+            "nav": "1000.12470"
+        }
+    ],
+    "status": "SUCCESS"
+}

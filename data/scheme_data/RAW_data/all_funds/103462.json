@@ -1,0 +1,66 @@
+{
+    "meta": {
+        "fund_house": "Reliance Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 103462,
+        "scheme_name": "Reliance Fixed Maturity Fuind Series-2 Quarterly Plan-3-Quarterly Plan-III-Growth Option",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "24-04-2006",
+            "nav": "10.16830"
+        },
+        {
+            "date": "21-04-2006",
+            "nav": "10.16010"
+        },
+        {
+            "date": "20-04-2006",
+            "nav": "10.15820"
+        },
+        {
+            "date": "19-04-2006",
+            "nav": "10.15620"
+        },
+        {
+            "date": "18-04-2006",
+            "nav": "10.15400"
+        },
+        {
+            "date": "17-04-2006",
+            "nav": "10.15210"
+        },
+        {
+            "date": "13-04-2006",
+            "nav": "10.14430"
+        },
+        {
+            "date": "12-04-2006",
+            "nav": "10.14230"
+        },
+        {
+            "date": "10-04-2006",
+            "nav": "10.13840"
+        },
+        {
+            "date": "07-04-2006",
+            "nav": "10.13260"
+        },
+        {
+            "date": "05-04-2006",
+            "nav": "10.12870"
+        },
+        {
+            "date": "04-04-2006",
+            "nav": "10.12660"
+        },
+        {
+            "date": "03-04-2006",
+            "nav": "10.12460"
+        }
+    ],
+    "status": "SUCCESS"
+}

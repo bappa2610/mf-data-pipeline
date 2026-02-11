@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "fund_house": "SBI Mutual Fund",
+        "scheme_type": "IL&FS Mutual Fund",
+        "scheme_category": "IDF",
+        "scheme_code": 130442,
+        "scheme_name": "SBI DEBT FUND SERIES A - 35 (369 DAYS) REGULAR PLAN - GROWTH",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "11-07-2018",
+            "nav": "13.48050"
+        },
+        {
+            "date": "10-07-2018",
+            "nav": "13.47830"
+        },
+        {
+            "date": "09-07-2018",
+            "nav": "13.47610"
+        },
+        {
+            "date": "08-07-2018",
+            "nav": "13.47360"
+        },
+        {
+            "date": "07-07-2018",
+            "nav": "13.47110"
+        },
+        {
+            "date": "06-07-2018",
+            "nav": "13.46860"
+        },
+        {
+            "date": "05-07-2018",
+            "nav": "13.46610"
+        },
+        {
+            "date": "04-07-2018",
+            "nav": "13.46330"
+        },
+        {
+            "date": "03-07-2018",
+            "nav": "13.46050"
+        }
+    ],
+    "status": "SUCCESS"
+}

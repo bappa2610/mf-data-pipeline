@@ -1,0 +1,46 @@
+{
+    "meta": {
+        "fund_house": "Standard Chartered Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 108215,
+        "scheme_name": "Standard Chartered Fixed Maturity Plan - YS21-Plan B - Growth",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "29-05-2008",
+            "nav": "10.12150"
+        },
+        {
+            "date": "28-05-2008",
+            "nav": "10.11910"
+        },
+        {
+            "date": "21-05-2008",
+            "nav": "10.10280"
+        },
+        {
+            "date": "14-05-2008",
+            "nav": "10.08650"
+        },
+        {
+            "date": "07-05-2008",
+            "nav": "10.07020"
+        },
+        {
+            "date": "30-04-2008",
+            "nav": "10.05450"
+        },
+        {
+            "date": "23-04-2008",
+            "nav": "10.03920"
+        },
+        {
+            "date": "16-04-2008",
+            "nav": "10.02410"
+        }
+    ],
+    "status": "SUCCESS"
+}

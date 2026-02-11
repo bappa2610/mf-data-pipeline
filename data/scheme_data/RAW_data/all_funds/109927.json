@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "fund_house": "PineBridge Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 109927,
+        "scheme_name": "AIG Fixed Maturity Plan-I-Series I Institutional Plan Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "17-09-2008",
+            "nav": "1001.85170"
+        },
+        {
+            "date": "16-09-2008",
+            "nav": "1001.54600"
+        }
+    ],
+    "status": "SUCCESS"
+}

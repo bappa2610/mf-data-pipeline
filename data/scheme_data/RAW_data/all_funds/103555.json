@@ -1,0 +1,54 @@
+{
+    "meta": {
+        "fund_house": "DSP Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 103555,
+        "scheme_name": "DSP BlackRock Fixed Term Plan - Series 1B-Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "01-06-2006",
+            "nav": "1000.11510"
+        },
+        {
+            "date": "31-05-2006",
+            "nav": "1014.24050"
+        },
+        {
+            "date": "24-05-2006",
+            "nav": "1012.92140"
+        },
+        {
+            "date": "17-05-2006",
+            "nav": "1011.53350"
+        },
+        {
+            "date": "10-05-2006",
+            "nav": "1010.14490"
+        },
+        {
+            "date": "03-05-2006",
+            "nav": "1008.74380"
+        },
+        {
+            "date": "26-04-2006",
+            "nav": "1007.26770"
+        },
+        {
+            "date": "19-04-2006",
+            "nav": "1005.79130"
+        },
+        {
+            "date": "12-04-2006",
+            "nav": "1004.31360"
+        },
+        {
+            "date": "05-04-2006",
+            "nav": "1002.44450"
+        }
+    ],
+    "status": "SUCCESS"
+}

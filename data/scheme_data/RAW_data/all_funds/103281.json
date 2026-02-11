@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "fund_house": "Standard Chartered Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 103281,
+        "scheme_name": "Grindlays Fixed Maturity 15th Plan (GFMP-15)-B-Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "26-04-2006",
+            "nav": "10.31910"
+        },
+        {
+            "date": "19-04-2006",
+            "nav": "10.30750"
+        }
+    ],
+    "status": "SUCCESS"
+}

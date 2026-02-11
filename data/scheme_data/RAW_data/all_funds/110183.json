@@ -1,0 +1,86 @@
+{
+    "meta": {
+        "fund_house": "JM Financial Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 110183,
+        "scheme_name": "JM Fixed Maturity Fund - Series XIII - Monthly plan 1 (JM FMF - XIII - M1) - Institutional plan - Growth option",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "23-10-2008",
+            "nav": "10.09370"
+        },
+        {
+            "date": "22-10-2008",
+            "nav": "10.09080"
+        },
+        {
+            "date": "20-10-2008",
+            "nav": "10.08460"
+        },
+        {
+            "date": "17-10-2008",
+            "nav": "10.07530"
+        },
+        {
+            "date": "16-10-2008",
+            "nav": "10.07220"
+        },
+        {
+            "date": "15-10-2008",
+            "nav": "10.06910"
+        },
+        {
+            "date": "14-10-2008",
+            "nav": "10.06600"
+        },
+        {
+            "date": "13-10-2008",
+            "nav": "10.06290"
+        },
+        {
+            "date": "10-10-2008",
+            "nav": "10.05360"
+        },
+        {
+            "date": "08-10-2008",
+            "nav": "10.04730"
+        },
+        {
+            "date": "07-10-2008",
+            "nav": "10.04420"
+        },
+        {
+            "date": "06-10-2008",
+            "nav": "10.04110"
+        },
+        {
+            "date": "03-10-2008",
+            "nav": "10.03180"
+        },
+        {
+            "date": "01-10-2008",
+            "nav": "10.02560"
+        },
+        {
+            "date": "29-09-2008",
+            "nav": "10.01940"
+        },
+        {
+            "date": "26-09-2008",
+            "nav": "10.01010"
+        },
+        {
+            "date": "25-09-2008",
+            "nav": "10.00700"
+        },
+        {
+            "date": "24-09-2008",
+            "nav": "10.00470"
+        }
+    ],
+    "status": "SUCCESS"
+}

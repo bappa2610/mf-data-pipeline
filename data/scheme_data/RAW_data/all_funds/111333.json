@@ -1,0 +1,66 @@
+{
+    "meta": {
+        "fund_house": "SBI Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 111333,
+        "scheme_name": "SBI Debt Fund Series-90-Days-31-(04/11/2008) Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "02-02-2009",
+            "nav": "10.00000"
+        },
+        {
+            "date": "28-01-2009",
+            "nav": "10.24620"
+        },
+        {
+            "date": "21-01-2009",
+            "nav": "10.22600"
+        },
+        {
+            "date": "14-01-2009",
+            "nav": "10.20590"
+        },
+        {
+            "date": "07-01-2009",
+            "nav": "10.18580"
+        },
+        {
+            "date": "31-12-2008",
+            "nav": "10.16570"
+        },
+        {
+            "date": "24-12-2008",
+            "nav": "10.14560"
+        },
+        {
+            "date": "17-12-2008",
+            "nav": "10.12540"
+        },
+        {
+            "date": "10-12-2008",
+            "nav": "10.10530"
+        },
+        {
+            "date": "03-12-2008",
+            "nav": "10.08520"
+        },
+        {
+            "date": "26-11-2008",
+            "nav": "10.06510"
+        },
+        {
+            "date": "19-11-2008",
+            "nav": "10.04500"
+        },
+        {
+            "date": "12-11-2008",
+            "nav": "10.02490"
+        }
+    ],
+    "status": "SUCCESS"
+}

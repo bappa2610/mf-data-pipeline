@@ -1,0 +1,86 @@
+{
+    "meta": {
+        "fund_house": "Aditya Birla Sun Life Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 124062,
+        "scheme_name": "Birla Sun Life Fixed Term Plan - Series HU (30 days) - Regular Plan-Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "03-10-2013",
+            "nav": "10.00000"
+        },
+        {
+            "date": "01-10-2013",
+            "nav": "10.08330"
+        },
+        {
+            "date": "30-09-2013",
+            "nav": "10.08040"
+        },
+        {
+            "date": "27-09-2013",
+            "nav": "10.07180"
+        },
+        {
+            "date": "26-09-2013",
+            "nav": "10.06900"
+        },
+        {
+            "date": "25-09-2013",
+            "nav": "10.06610"
+        },
+        {
+            "date": "24-09-2013",
+            "nav": "10.06330"
+        },
+        {
+            "date": "23-09-2013",
+            "nav": "10.06040"
+        },
+        {
+            "date": "20-09-2013",
+            "nav": "10.05180"
+        },
+        {
+            "date": "19-09-2013",
+            "nav": "10.04890"
+        },
+        {
+            "date": "18-09-2013",
+            "nav": "10.04610"
+        },
+        {
+            "date": "17-09-2013",
+            "nav": "10.04310"
+        },
+        {
+            "date": "16-09-2013",
+            "nav": "10.04020"
+        },
+        {
+            "date": "13-09-2013",
+            "nav": "10.03140"
+        },
+        {
+            "date": "12-09-2013",
+            "nav": "10.02800"
+        },
+        {
+            "date": "11-09-2013",
+            "nav": "10.02560"
+        },
+        {
+            "date": "10-09-2013",
+            "nav": "10.02230"
+        },
+        {
+            "date": "06-09-2013",
+            "nav": "10.01020"
+        }
+    ],
+    "status": "SUCCESS"
+}

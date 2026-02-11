@@ -1,0 +1,62 @@
+{
+    "meta": {
+        "fund_house": "DSP Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 108076,
+        "scheme_name": "DSP BlackRock FMP - 3M - Series 6 - Institutional Plan - Growth",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "10-06-2008",
+            "nav": "10.25140"
+        },
+        {
+            "date": "04-06-2008",
+            "nav": "10.25010"
+        },
+        {
+            "date": "28-05-2008",
+            "nav": "10.23240"
+        },
+        {
+            "date": "21-05-2008",
+            "nav": "10.21480"
+        },
+        {
+            "date": "14-05-2008",
+            "nav": "10.19710"
+        },
+        {
+            "date": "07-05-2008",
+            "nav": "10.17940"
+        },
+        {
+            "date": "30-04-2008",
+            "nav": "10.16180"
+        },
+        {
+            "date": "23-04-2008",
+            "nav": "10.14410"
+        },
+        {
+            "date": "16-04-2008",
+            "nav": "10.12650"
+        },
+        {
+            "date": "09-04-2008",
+            "nav": "10.10850"
+        },
+        {
+            "date": "02-04-2008",
+            "nav": "10.05770"
+        },
+        {
+            "date": "26-03-2008",
+            "nav": "10.03810"
+        }
+    ],
+    "status": "SUCCESS"
+}

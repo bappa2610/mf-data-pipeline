@@ -1,0 +1,70 @@
+{
+    "meta": {
+        "fund_house": "Standard Chartered Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 104755,
+        "scheme_name": "Standard Chartered Fixed Maturity Plan - Quarterly Series 3- Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "18-04-2007",
+            "nav": "10.00000"
+        },
+        {
+            "date": "11-04-2007",
+            "nav": "10.02970"
+        },
+        {
+            "date": "04-04-2007",
+            "nav": "10.01240"
+        },
+        {
+            "date": "30-03-2007",
+            "nav": "10.00000"
+        },
+        {
+            "date": "28-03-2007",
+            "nav": "10.17560"
+        },
+        {
+            "date": "21-03-2007",
+            "nav": "10.15800"
+        },
+        {
+            "date": "14-03-2007",
+            "nav": "10.14030"
+        },
+        {
+            "date": "07-03-2007",
+            "nav": "10.12270"
+        },
+        {
+            "date": "28-02-2007",
+            "nav": "10.10510"
+        },
+        {
+            "date": "21-02-2007",
+            "nav": "10.08750"
+        },
+        {
+            "date": "14-02-2007",
+            "nav": "10.06990"
+        },
+        {
+            "date": "07-02-2007",
+            "nav": "10.05230"
+        },
+        {
+            "date": "31-01-2007",
+            "nav": "10.03470"
+        },
+        {
+            "date": "24-01-2007",
+            "nav": "10.01710"
+        }
+    ],
+    "status": "SUCCESS"
+}

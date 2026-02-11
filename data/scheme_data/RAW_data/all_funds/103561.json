@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "fund_house": "Standard Chartered Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 103561,
+        "scheme_name": "Grindlays Fixed Maturity 21St Plan-A-Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "26-04-2006",
+            "nav": "10.04980"
+        },
+        {
+            "date": "19-04-2006",
+            "nav": "10.03640"
+        },
+        {
+            "date": "12-04-2006",
+            "nav": "10.02300"
+        },
+        {
+            "date": "05-04-2006",
+            "nav": "10.00960"
+        }
+    ],
+    "status": "SUCCESS"
+}

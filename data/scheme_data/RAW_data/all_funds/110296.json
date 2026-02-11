@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "fund_house": "IDFC Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 110296,
+        "scheme_name": "DFC Fixed Maturity Plan - YS 26 B DIVIDEND",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "19-11-2008",
+            "nav": "0.00000"
+        },
+        {
+            "date": "18-11-2008",
+            "nav": "0.00000"
+        },
+        {
+            "date": "05-11-2008",
+            "nav": "0.00000"
+        },
+        {
+            "date": "29-10-2008",
+            "nav": "0.00000"
+        },
+        {
+            "date": "22-10-2008",
+            "nav": "0.00000"
+        },
+        {
+            "date": "15-10-2008",
+            "nav": "0.00000"
+        },
+        {
+            "date": "08-10-2008",
+            "nav": "0.00000"
+        },
+        {
+            "date": "01-10-2008",
+            "nav": "0.00000"
+        },
+        {
+            "date": "30-09-2008",
+            "nav": "0.00000"
+        }
+    ],
+    "status": "SUCCESS"
+}

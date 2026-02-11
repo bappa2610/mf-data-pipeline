@@ -1,0 +1,58 @@
+{
+    "meta": {
+        "fund_house": "Bandhan Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_code": 154130,
+        "scheme_name": "Bandhan Gold ETF FOF-Regular-Growth",
+        "isin_growth": "INF194KB1KK5",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "10-02-2026",
+            "nav": "10.18480"
+        },
+        {
+            "date": "09-02-2026",
+            "nav": "10.13660"
+        },
+        {
+            "date": "06-02-2026",
+            "nav": "9.96860"
+        },
+        {
+            "date": "05-02-2026",
+            "nav": "9.85850"
+        },
+        {
+            "date": "04-02-2026",
+            "nav": "10.26440"
+        },
+        {
+            "date": "03-02-2026",
+            "nav": "9.94360"
+        },
+        {
+            "date": "02-02-2026",
+            "nav": "9.67090"
+        },
+        {
+            "date": "31-01-2026",
+            "nav": "10.75110"
+        },
+        {
+            "date": "30-01-2026",
+            "nav": "10.75070"
+        },
+        {
+            "date": "29-01-2026",
+            "nav": "11.56440"
+        },
+        {
+            "date": "28-01-2026",
+            "nav": "10.70420"
+        }
+    ],
+    "status": "SUCCESS"
+}

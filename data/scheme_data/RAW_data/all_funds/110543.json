@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "fund_house": "IDFC Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 110543,
+        "scheme_name": "IDFC Fixed Maturity Plan - Nineteen Months Series 1 - Plan B- Growth",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "19-11-2008",
+            "nav": "0.00000"
+        },
+        {
+            "date": "18-11-2008",
+            "nav": "0.00000"
+        },
+        {
+            "date": "05-11-2008",
+            "nav": "0.00000"
+        },
+        {
+            "date": "29-10-2008",
+            "nav": "0.00000"
+        },
+        {
+            "date": "22-10-2008",
+            "nav": "0.00000"
+        }
+    ],
+    "status": "SUCCESS"
+}

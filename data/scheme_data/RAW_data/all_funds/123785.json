@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "fund_house": "IDFC Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 123785,
+        "scheme_name": "IDFC FTP - Series 31 (729 days)_Regular Plan_Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "02-09-2013",
+            "nav": "0.00000"
+        },
+        {
+            "date": "30-08-2013",
+            "nav": "0.00000"
+        }
+    ],
+    "status": "SUCCESS"
+}

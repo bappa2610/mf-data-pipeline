@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "fund_house": "Deutsche Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 116364,
+        "scheme_name": "DWS Treasury Fund - Cash Plan - Quarterly & Dividend Option",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "18-12-2011",
+            "nav": "10.00600"
+        },
+        {
+            "date": "16-12-2011",
+            "nav": "10.00200"
+        }
+    ],
+    "status": "SUCCESS"
+}

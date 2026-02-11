@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 109223,
+        "scheme_name": "ICICI Prudential Fixed Maturity Plan - Series 44 - One Month Plan C - Retail Growth Option",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "28-07-2008",
+            "nav": "10.08680"
+        },
+        {
+            "date": "23-07-2008",
+            "nav": "10.06600"
+        },
+        {
+            "date": "16-07-2008",
+            "nav": "10.04850"
+        },
+        {
+            "date": "09-07-2008",
+            "nav": "10.03150"
+        },
+        {
+            "date": "02-07-2008",
+            "nav": "10.01450"
+        }
+    ],
+    "status": "SUCCESS"
+}

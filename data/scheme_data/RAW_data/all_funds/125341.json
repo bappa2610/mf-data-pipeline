@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "fund_house": "IIFL Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 125341,
+        "scheme_name": "IIFL LIQUID FUND REGULAR PLAN  HALF YEARLY DIVIDEND",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "08-12-2013",
+            "nav": "0.00000"
+        },
+        {
+            "date": "14-11-2013",
+            "nav": "1000.43960"
+        },
+        {
+            "date": "13-11-2013",
+            "nav": "1000.23100"
+        }
+    ],
+    "status": "SUCCESS"
+}

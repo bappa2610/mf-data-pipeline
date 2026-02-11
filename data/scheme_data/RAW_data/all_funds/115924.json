@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 115924,
+        "scheme_name": "ICICI Prudential Fixed Maturity Plan - Series 57 - 3 Year Plan B Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "12-06-2014",
+            "nav": "11.26030"
+        },
+        {
+            "date": "10-08-2012",
+            "nav": "10.73530"
+        }
+    ],
+    "status": "SUCCESS"
+}

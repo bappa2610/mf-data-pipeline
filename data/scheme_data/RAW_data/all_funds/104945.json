@@ -1,0 +1,94 @@
+{
+    "meta": {
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 104945,
+        "scheme_name": "ICICI Prudential FMP series 35 - 1 Mth Plan - Retail Cumulative Option",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "28-03-2007",
+            "nav": "10.07820"
+        },
+        {
+            "date": "26-03-2007",
+            "nav": "10.07360"
+        },
+        {
+            "date": "23-03-2007",
+            "nav": "10.06670"
+        },
+        {
+            "date": "22-03-2007",
+            "nav": "10.06430"
+        },
+        {
+            "date": "21-03-2007",
+            "nav": "10.06200"
+        },
+        {
+            "date": "20-03-2007",
+            "nav": "10.05970"
+        },
+        {
+            "date": "16-03-2007",
+            "nav": "10.05040"
+        },
+        {
+            "date": "15-03-2007",
+            "nav": "10.04810"
+        },
+        {
+            "date": "14-03-2007",
+            "nav": "10.04580"
+        },
+        {
+            "date": "13-03-2007",
+            "nav": "10.04350"
+        },
+        {
+            "date": "12-03-2007",
+            "nav": "10.04120"
+        },
+        {
+            "date": "09-03-2007",
+            "nav": "10.03430"
+        },
+        {
+            "date": "08-03-2007",
+            "nav": "10.03200"
+        },
+        {
+            "date": "07-03-2007",
+            "nav": "10.02970"
+        },
+        {
+            "date": "06-03-2007",
+            "nav": "10.02740"
+        },
+        {
+            "date": "05-03-2007",
+            "nav": "10.02510"
+        },
+        {
+            "date": "02-03-2007",
+            "nav": "10.01820"
+        },
+        {
+            "date": "01-03-2007",
+            "nav": "10.01590"
+        },
+        {
+            "date": "28-02-2007",
+            "nav": "10.01350"
+        },
+        {
+            "date": "27-02-2007",
+            "nav": "10.01120"
+        }
+    ],
+    "status": "SUCCESS"
+}

@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "fund_house": "Standard Chartered Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 103511,
+        "scheme_name": "Standard Chartered Fixed Maturity 3rd Plan-A-Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "24-05-2006",
+            "nav": "10.11330"
+        },
+        {
+            "date": "17-05-2006",
+            "nav": "10.09880"
+        },
+        {
+            "date": "10-05-2006",
+            "nav": "10.08410"
+        },
+        {
+            "date": "03-05-2006",
+            "nav": "10.06940"
+        },
+        {
+            "date": "26-04-2006",
+            "nav": "10.05470"
+        }
+    ],
+    "status": "SUCCESS"
+}

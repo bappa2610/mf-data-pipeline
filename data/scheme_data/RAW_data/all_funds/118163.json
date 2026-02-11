@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "fund_house": "L&T Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 118163,
+        "scheme_name": "L&T Fixed Maturity Plan Series VI- Plan A - Dividend Option",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "03-12-2012",
+            "nav": "10.19770"
+        },
+        {
+            "date": "30-11-2012",
+            "nav": "10.96620"
+        },
+        {
+            "date": "29-11-2012",
+            "nav": "10.96400"
+        }
+    ],
+    "status": "SUCCESS"
+}

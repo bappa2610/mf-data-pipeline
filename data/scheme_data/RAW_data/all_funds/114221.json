@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 114221,
+        "scheme_name": "ICICI Prudential Fixed Maturity Plan-Series 53-1 Year Plan B Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "19-11-2010",
+            "nav": "10.00880"
+        },
+        {
+            "date": "18-11-2010",
+            "nav": "10.00720"
+        },
+        {
+            "date": "16-11-2010",
+            "nav": "10.00370"
+        }
+    ],
+    "status": "SUCCESS"
+}

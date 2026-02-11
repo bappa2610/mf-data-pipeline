@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "fund_house": "UTI Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 102543,
+        "scheme_name": "UTI - BOND ADVANTAGE-INSTITUTIONAL-DIVIDEND",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "30-04-2007",
+            "nav": "1000.00000"
+        },
+        {
+            "date": "27-04-2007",
+            "nav": "1000.00000"
+        }
+    ],
+    "status": "SUCCESS"
+}

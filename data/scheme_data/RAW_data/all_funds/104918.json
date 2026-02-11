@@ -1,0 +1,70 @@
+{
+    "meta": {
+        "fund_house": "Standard Chartered Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 104918,
+        "scheme_name": "Standard Chartered Fixed Maturity Plan - Quarterly Series 5-Plan A-Growth",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "22-05-2007",
+            "nav": "10.25300"
+        },
+        {
+            "date": "16-05-2007",
+            "nav": "10.23610"
+        },
+        {
+            "date": "09-05-2007",
+            "nav": "10.21640"
+        },
+        {
+            "date": "03-05-2007",
+            "nav": "10.19950"
+        },
+        {
+            "date": "25-04-2007",
+            "nav": "10.17700"
+        },
+        {
+            "date": "18-04-2007",
+            "nav": "10.15730"
+        },
+        {
+            "date": "11-04-2007",
+            "nav": "10.13760"
+        },
+        {
+            "date": "04-04-2007",
+            "nav": "10.11790"
+        },
+        {
+            "date": "30-03-2007",
+            "nav": "10.10380"
+        },
+        {
+            "date": "28-03-2007",
+            "nav": "10.09820"
+        },
+        {
+            "date": "21-03-2007",
+            "nav": "10.07850"
+        },
+        {
+            "date": "14-03-2007",
+            "nav": "10.05880"
+        },
+        {
+            "date": "07-03-2007",
+            "nav": "10.03910"
+        },
+        {
+            "date": "28-02-2007",
+            "nav": "10.01930"
+        }
+    ],
+    "status": "SUCCESS"
+}

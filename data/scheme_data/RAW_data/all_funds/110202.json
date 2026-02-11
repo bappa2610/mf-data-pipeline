@@ -1,0 +1,42 @@
+{
+    "meta": {
+        "fund_house": "IDFC Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 110202,
+        "scheme_name": "IDFC Fixed Maturity Plan - MS 4  DIVIDEND",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "13-10-2008",
+            "nav": "10.00000"
+        },
+        {
+            "date": "08-10-2008",
+            "nav": "10.07640"
+        },
+        {
+            "date": "01-10-2008",
+            "nav": "10.05560"
+        },
+        {
+            "date": "30-09-2008",
+            "nav": "10.05260"
+        },
+        {
+            "date": "29-09-2008",
+            "nav": "10.04970"
+        },
+        {
+            "date": "24-09-2008",
+            "nav": "10.03480"
+        },
+        {
+            "date": "17-09-2008",
+            "nav": "10.01500"
+        }
+    ],
+    "status": "SUCCESS"
+}

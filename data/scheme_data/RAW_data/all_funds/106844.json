@@ -1,0 +1,66 @@
+{
+    "meta": {
+        "fund_house": "SBI Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 106844,
+        "scheme_name": "SBI DEBT FUND SERIES-90D-16(16/10/07)-DIVIDEND",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "14-01-2008",
+            "nav": "10.00000"
+        },
+        {
+            "date": "09-01-2008",
+            "nav": "10.18570"
+        },
+        {
+            "date": "02-01-2008",
+            "nav": "10.17030"
+        },
+        {
+            "date": "26-12-2007",
+            "nav": "10.14870"
+        },
+        {
+            "date": "19-12-2007",
+            "nav": "10.13310"
+        },
+        {
+            "date": "12-12-2007",
+            "nav": "10.12000"
+        },
+        {
+            "date": "05-12-2007",
+            "nav": "10.10480"
+        },
+        {
+            "date": "28-11-2007",
+            "nav": "10.09230"
+        },
+        {
+            "date": "21-11-2007",
+            "nav": "10.07690"
+        },
+        {
+            "date": "14-11-2007",
+            "nav": "10.06400"
+        },
+        {
+            "date": "07-11-2007",
+            "nav": "10.05030"
+        },
+        {
+            "date": "31-10-2007",
+            "nav": "10.03590"
+        },
+        {
+            "date": "24-10-2007",
+            "nav": "10.03410"
+        }
+    ],
+    "status": "SUCCESS"
+}

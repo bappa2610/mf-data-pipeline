@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "fund_house": "Tata Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 106242,
+        "scheme_name": "Tata Fixed Horizon Fund Series 13 Scheme B - Institutional Plan - Periodic Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "07-09-2007",
+            "nav": "0.00000"
+        },
+        {
+            "date": "21-08-2007",
+            "nav": "0.00000"
+        },
+        {
+            "date": "17-08-2007",
+            "nav": "0.00000"
+        },
+        {
+            "date": "16-08-2007",
+            "nav": "0.00000"
+        }
+    ],
+    "status": "SUCCESS"
+}

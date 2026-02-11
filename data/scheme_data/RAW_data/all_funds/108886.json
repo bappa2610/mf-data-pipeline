@@ -1,0 +1,78 @@
+{
+    "meta": {
+        "fund_house": "IDFC Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 108886,
+        "scheme_name": "IDFC Fixed Maturity Plan - Yearly Series 10 - Growth",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "05-09-2008",
+            "nav": "10.95590"
+        },
+        {
+            "date": "04-09-2008",
+            "nav": "10.95310"
+        },
+        {
+            "date": "27-08-2008",
+            "nav": "10.93060"
+        },
+        {
+            "date": "20-08-2008",
+            "nav": "10.91250"
+        },
+        {
+            "date": "13-08-2008",
+            "nav": "10.89440"
+        },
+        {
+            "date": "06-08-2008",
+            "nav": "10.87630"
+        },
+        {
+            "date": "30-07-2008",
+            "nav": "10.85840"
+        },
+        {
+            "date": "23-07-2008",
+            "nav": "10.84040"
+        },
+        {
+            "date": "16-07-2008",
+            "nav": "10.82250"
+        },
+        {
+            "date": "09-07-2008",
+            "nav": "10.80450"
+        },
+        {
+            "date": "02-07-2008",
+            "nav": "10.78660"
+        },
+        {
+            "date": "30-06-2008",
+            "nav": "10.78150"
+        },
+        {
+            "date": "25-06-2008",
+            "nav": "10.76870"
+        },
+        {
+            "date": "18-06-2008",
+            "nav": "10.75080"
+        },
+        {
+            "date": "11-06-2008",
+            "nav": "10.73280"
+        },
+        {
+            "date": "04-06-2008",
+            "nav": "10.71490"
+        }
+    ],
+    "status": "SUCCESS"
+}

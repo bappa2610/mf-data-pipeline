@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "fund_house": "SBI Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 105442,
+        "scheme_name": "SBI DEBT FUND SERIES - 60 DAYS -10- (04/04/2007) GROWTH",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "04-06-2007",
+            "nav": "10.17300"
+        },
+        {
+            "date": "30-05-2007",
+            "nav": "10.16270"
+        },
+        {
+            "date": "23-05-2007",
+            "nav": "10.14480"
+        },
+        {
+            "date": "16-05-2007",
+            "nav": "10.12500"
+        },
+        {
+            "date": "09-05-2007",
+            "nav": "10.10440"
+        },
+        {
+            "date": "02-05-2007",
+            "nav": "10.08380"
+        },
+        {
+            "date": "25-04-2007",
+            "nav": "10.06320"
+        },
+        {
+            "date": "18-04-2007",
+            "nav": "10.04260"
+        },
+        {
+            "date": "11-04-2007",
+            "nav": "10.02200"
+        }
+    ],
+    "status": "SUCCESS"
+}

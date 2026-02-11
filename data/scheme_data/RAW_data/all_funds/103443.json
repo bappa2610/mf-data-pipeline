@@ -1,0 +1,46 @@
+{
+    "meta": {
+        "fund_house": "Kotak Mahindra Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 103443,
+        "scheme_name": "Kotak FMP Series.-XV-Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "14-04-2006",
+            "nav": "10.00855"
+        },
+        {
+            "date": "13-04-2006",
+            "nav": "10.00680"
+        },
+        {
+            "date": "12-04-2006",
+            "nav": "10.00360"
+        },
+        {
+            "date": "10-04-2006",
+            "nav": "10.02550"
+        },
+        {
+            "date": "07-04-2006",
+            "nav": "10.01980"
+        },
+        {
+            "date": "05-04-2006",
+            "nav": "10.01610"
+        },
+        {
+            "date": "04-04-2006",
+            "nav": "10.01420"
+        },
+        {
+            "date": "03-04-2006",
+            "nav": "10.01240"
+        }
+    ],
+    "status": "SUCCESS"
+}

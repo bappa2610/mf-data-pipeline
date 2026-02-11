@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "fund_house": "Kotak Mahindra Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 103522,
+        "scheme_name": "Kotak FMP Series 20-.-Growth",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "09-04-2006",
+            "nav": "10.06661"
+        },
+        {
+            "date": "07-04-2006",
+            "nav": "10.06230"
+        },
+        {
+            "date": "05-04-2006",
+            "nav": "10.05810"
+        },
+        {
+            "date": "04-04-2006",
+            "nav": "10.05590"
+        },
+        {
+            "date": "03-04-2006",
+            "nav": "10.05380"
+        }
+    ],
+    "status": "SUCCESS"
+}

@@ -1,0 +1,58 @@
+{
+    "meta": {
+        "fund_house": "IDFC Mutual Fund",
+        "scheme_type": "IL&FS Mutual Fund",
+        "scheme_category": "IDF",
+        "scheme_code": 130566,
+        "scheme_name": "IL&FS Infrastructure Debt Fund Series 1B - Dividend Payout",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "31-03-2021",
+            "nav": "1456756.89660"
+        },
+        {
+            "date": "31-12-2020",
+            "nav": "1495052.54960"
+        },
+        {
+            "date": "30-09-2020",
+            "nav": "1594660.30980"
+        },
+        {
+            "date": "30-06-2020",
+            "nav": "1644272.75780"
+        },
+        {
+            "date": "31-03-2020",
+            "nav": "1708337.08940"
+        },
+        {
+            "date": "31-12-2019",
+            "nav": "1739059.14590"
+        },
+        {
+            "date": "30-09-2019",
+            "nav": "1777010.50880"
+        },
+        {
+            "date": "28-06-2019",
+            "nav": "1735394.04250"
+        },
+        {
+            "date": "31-12-2018",
+            "nav": "1677116.16860"
+        },
+        {
+            "date": "28-09-2018",
+            "nav": "1632083.14870"
+        },
+        {
+            "date": "29-06-2018",
+            "nav": "1591480.52890"
+        }
+    ],
+    "status": "SUCCESS"
+}

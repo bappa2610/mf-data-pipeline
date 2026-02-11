@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "fund_house": "IDFC Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 110522,
+        "scheme_name": "IDFC Fixed Maturity Plan - MS 7 DIVIDEND",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "11-11-2008",
+            "nav": "10.00000"
+        },
+        {
+            "date": "05-11-2008",
+            "nav": "10.07850"
+        },
+        {
+            "date": "29-10-2008",
+            "nav": "10.04090"
+        },
+        {
+            "date": "22-10-2008",
+            "nav": "10.02110"
+        }
+    ],
+    "status": "SUCCESS"
+}

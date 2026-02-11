@@ -1,0 +1,66 @@
+{
+    "meta": {
+        "fund_house": "Standard Chartered Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 105446,
+        "scheme_name": "Standard Chartered Fixed Maturity Plan - QS8 PLAN A DIVIDEND",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "09-07-2007",
+            "nav": "10.00000"
+        },
+        {
+            "date": "04-07-2007",
+            "nav": "10.22640"
+        },
+        {
+            "date": "27-06-2007",
+            "nav": "10.20750"
+        },
+        {
+            "date": "20-06-2007",
+            "nav": "10.18910"
+        },
+        {
+            "date": "13-06-2007",
+            "nav": "10.17060"
+        },
+        {
+            "date": "06-06-2007",
+            "nav": "10.15210"
+        },
+        {
+            "date": "30-05-2007",
+            "nav": "10.13360"
+        },
+        {
+            "date": "23-05-2007",
+            "nav": "10.11510"
+        },
+        {
+            "date": "16-05-2007",
+            "nav": "10.09660"
+        },
+        {
+            "date": "09-05-2007",
+            "nav": "10.07810"
+        },
+        {
+            "date": "03-05-2007",
+            "nav": "10.06220"
+        },
+        {
+            "date": "25-04-2007",
+            "nav": "10.04100"
+        },
+        {
+            "date": "18-04-2007",
+            "nav": "10.02250"
+        }
+    ],
+    "status": "SUCCESS"
+}

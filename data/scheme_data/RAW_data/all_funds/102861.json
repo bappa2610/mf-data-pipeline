@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "fund_house": "Standard Chartered Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 102861,
+        "scheme_name": "Grindlays Fixed Maturity -3rd Plan-A-Growth",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "26-04-2006",
+            "nav": "10.12240"
+        },
+        {
+            "date": "19-04-2006",
+            "nav": "10.10760"
+        },
+        {
+            "date": "12-04-2006",
+            "nav": "10.09280"
+        },
+        {
+            "date": "05-04-2006",
+            "nav": "10.07800"
+        }
+    ],
+    "status": "SUCCESS"
+}

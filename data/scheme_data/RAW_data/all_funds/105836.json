@@ -1,0 +1,66 @@
+{
+    "meta": {
+        "fund_house": "SBI Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 105836,
+        "scheme_name": "SBI DEBT FUND SERIES - 90 DAYS - 12 (29/05/2007) DIVIDEND",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "27-08-2007",
+            "nav": "10.00000"
+        },
+        {
+            "date": "22-08-2007",
+            "nav": "10.22140"
+        },
+        {
+            "date": "15-08-2007",
+            "nav": "10.20360"
+        },
+        {
+            "date": "08-08-2007",
+            "nav": "10.18560"
+        },
+        {
+            "date": "01-08-2007",
+            "nav": "10.16770"
+        },
+        {
+            "date": "25-07-2007",
+            "nav": "10.14990"
+        },
+        {
+            "date": "18-07-2007",
+            "nav": "10.13190"
+        },
+        {
+            "date": "11-07-2007",
+            "nav": "10.11080"
+        },
+        {
+            "date": "04-07-2007",
+            "nav": "10.09280"
+        },
+        {
+            "date": "27-06-2007",
+            "nav": "10.07460"
+        },
+        {
+            "date": "20-06-2007",
+            "nav": "10.05660"
+        },
+        {
+            "date": "13-06-2007",
+            "nav": "10.03850"
+        },
+        {
+            "date": "06-06-2007",
+            "nav": "10.02030"
+        }
+    ],
+    "status": "SUCCESS"
+}

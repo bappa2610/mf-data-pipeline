@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "fund_house": "Deutsche Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 122680,
+        "scheme_name": "WS Treasury Fund - Cash Plan - Annual Bonus",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "18-06-2014",
+            "nav": "140.48780"
+        },
+        {
+            "date": "17-06-2014",
+            "nav": "140.45530"
+        },
+        {
+            "date": "16-06-2014",
+            "nav": "140.42310"
+        },
+        {
+            "date": "15-06-2014",
+            "nav": "140.39010"
+        },
+        {
+            "date": "13-06-2014",
+            "nav": "140.32510"
+        },
+        {
+            "date": "12-06-2014",
+            "nav": "140.29260"
+        },
+        {
+            "date": "20-01-2014",
+            "nav": "135.47150"
+        },
+        {
+            "date": "19-01-2014",
+            "nav": "135.43870"
+        },
+        {
+            "date": "17-01-2014",
+            "nav": "135.37380"
+        }
+    ],
+    "status": "SUCCESS"
+}

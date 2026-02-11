@@ -1,0 +1,70 @@
+{
+    "meta": {
+        "fund_house": "Kotak Mahindra Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 109727,
+        "scheme_name": "Kotak FMP 1M Series 3 - Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "08-09-2008",
+            "nav": "10.00000"
+        },
+        {
+            "date": "05-09-2008",
+            "nav": "10.07610"
+        },
+        {
+            "date": "04-09-2008",
+            "nav": "10.07310"
+        },
+        {
+            "date": "02-09-2008",
+            "nav": "10.06710"
+        },
+        {
+            "date": "01-09-2008",
+            "nav": "10.06470"
+        },
+        {
+            "date": "29-08-2008",
+            "nav": "10.05600"
+        },
+        {
+            "date": "28-08-2008",
+            "nav": "10.05320"
+        },
+        {
+            "date": "27-08-2008",
+            "nav": "10.05040"
+        },
+        {
+            "date": "26-08-2008",
+            "nav": "10.04710"
+        },
+        {
+            "date": "25-08-2008",
+            "nav": "10.04450"
+        },
+        {
+            "date": "22-08-2008",
+            "nav": "10.03840"
+        },
+        {
+            "date": "21-08-2008",
+            "nav": "10.03580"
+        },
+        {
+            "date": "20-08-2008",
+            "nav": "10.03330"
+        },
+        {
+            "date": "18-08-2008",
+            "nav": "10.02810"
+        }
+    ],
+    "status": "SUCCESS"
+}

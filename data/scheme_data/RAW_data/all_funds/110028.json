@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "fund_house": "Aditya Birla Sun Life Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 110028,
+        "scheme_name": "Birla Sun Life Fixed Term Plan - Series BD INSTITUTIONAL DIVIDEND",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "22-09-2008",
+            "nav": "0.00000"
+        },
+        {
+            "date": "15-09-2008",
+            "nav": "0.00000"
+        }
+    ],
+    "status": "SUCCESS"
+}

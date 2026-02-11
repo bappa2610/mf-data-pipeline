@@ -1,0 +1,70 @@
+{
+    "meta": {
+        "fund_house": "Sahara Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 107191,
+        "scheme_name": "Sahara FMP 3 Months Series - 2 - Dividend Option",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "04-03-2008",
+            "nav": "10.21740"
+        },
+        {
+            "date": "26-02-2008",
+            "nav": "10.20170"
+        },
+        {
+            "date": "19-02-2008",
+            "nav": "10.18600"
+        },
+        {
+            "date": "12-02-2008",
+            "nav": "10.16920"
+        },
+        {
+            "date": "05-02-2008",
+            "nav": "10.15240"
+        },
+        {
+            "date": "29-01-2008",
+            "nav": "10.13560"
+        },
+        {
+            "date": "22-01-2008",
+            "nav": "10.11890"
+        },
+        {
+            "date": "15-01-2008",
+            "nav": "10.10210"
+        },
+        {
+            "date": "08-01-2008",
+            "nav": "10.08530"
+        },
+        {
+            "date": "01-01-2008",
+            "nav": "10.06850"
+        },
+        {
+            "date": "26-12-2007",
+            "nav": "10.05410"
+        },
+        {
+            "date": "18-12-2007",
+            "nav": "10.03500"
+        },
+        {
+            "date": "11-12-2007",
+            "nav": "10.01820"
+        },
+        {
+            "date": "06-12-2007",
+            "nav": "10.00620"
+        }
+    ],
+    "status": "SUCCESS"
+}

@@ -1,0 +1,66 @@
+{
+    "meta": {
+        "fund_house": "DSP Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 107096,
+        "scheme_name": "DSP BlackRock FMP - 3M - Series 1 - Regular Plan - Growth",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "26-02-2008",
+            "nav": "10.21970"
+        },
+        {
+            "date": "20-02-2008",
+            "nav": "10.20660"
+        },
+        {
+            "date": "13-02-2008",
+            "nav": "10.18970"
+        },
+        {
+            "date": "06-02-2008",
+            "nav": "10.17270"
+        },
+        {
+            "date": "30-01-2008",
+            "nav": "10.15570"
+        },
+        {
+            "date": "23-01-2008",
+            "nav": "10.13860"
+        },
+        {
+            "date": "16-01-2008",
+            "nav": "10.12170"
+        },
+        {
+            "date": "09-01-2008",
+            "nav": "10.10480"
+        },
+        {
+            "date": "02-01-2008",
+            "nav": "10.08790"
+        },
+        {
+            "date": "26-12-2007",
+            "nav": "10.07100"
+        },
+        {
+            "date": "19-12-2007",
+            "nav": "10.05400"
+        },
+        {
+            "date": "12-12-2007",
+            "nav": "10.03700"
+        },
+        {
+            "date": "05-12-2007",
+            "nav": "10.01980"
+        }
+    ],
+    "status": "SUCCESS"
+}

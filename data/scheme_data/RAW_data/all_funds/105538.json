@@ -1,0 +1,70 @@
+{
+    "meta": {
+        "fund_house": "Standard Chartered Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 105538,
+        "scheme_name": "Standard Chartered Fixed Maturity Plan - QS 9 PLAN A GROWTH",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "18-07-2007",
+            "nav": "10.25850"
+        },
+        {
+            "date": "11-07-2007",
+            "nav": "10.23300"
+        },
+        {
+            "date": "04-07-2007",
+            "nav": "10.21800"
+        },
+        {
+            "date": "27-06-2007",
+            "nav": "10.19780"
+        },
+        {
+            "date": "20-06-2007",
+            "nav": "10.17770"
+        },
+        {
+            "date": "13-06-2007",
+            "nav": "10.15760"
+        },
+        {
+            "date": "06-06-2007",
+            "nav": "10.13740"
+        },
+        {
+            "date": "04-06-2007",
+            "nav": "10.13170"
+        },
+        {
+            "date": "30-05-2007",
+            "nav": "10.11730"
+        },
+        {
+            "date": "23-05-2007",
+            "nav": "10.09720"
+        },
+        {
+            "date": "16-05-2007",
+            "nav": "10.08070"
+        },
+        {
+            "date": "09-05-2007",
+            "nav": "10.06050"
+        },
+        {
+            "date": "03-05-2007",
+            "nav": "10.04320"
+        },
+        {
+            "date": "25-04-2007",
+            "nav": "10.02010"
+        }
+    ],
+    "status": "SUCCESS"
+}

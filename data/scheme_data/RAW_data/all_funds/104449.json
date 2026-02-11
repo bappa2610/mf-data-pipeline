@@ -1,0 +1,46 @@
+{
+    "meta": {
+        "fund_house": "SBI Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 104449,
+        "scheme_name": "SBI Debt Fund Series - 60 Days-4-Gr",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "02-01-2007",
+            "nav": "10.12620"
+        },
+        {
+            "date": "27-12-2006",
+            "nav": "10.11380"
+        },
+        {
+            "date": "20-12-2006",
+            "nav": "10.09970"
+        },
+        {
+            "date": "13-12-2006",
+            "nav": "10.08550"
+        },
+        {
+            "date": "06-12-2006",
+            "nav": "10.07140"
+        },
+        {
+            "date": "29-11-2006",
+            "nav": "10.05730"
+        },
+        {
+            "date": "22-11-2006",
+            "nav": "10.04320"
+        },
+        {
+            "date": "15-11-2006",
+            "nav": "10.02920"
+        }
+    ],
+    "status": "SUCCESS"
+}

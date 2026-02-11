@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "fund_house": "Standard Chartered Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 103440,
+        "scheme_name": "Grindlays Fixed Maturity 19th Plan-A-Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "19-04-2006",
+            "nav": "10.03480"
+        },
+        {
+            "date": "12-04-2006",
+            "nav": "10.02200"
+        },
+        {
+            "date": "05-04-2006",
+            "nav": "10.00910"
+        }
+    ],
+    "status": "SUCCESS"
+}

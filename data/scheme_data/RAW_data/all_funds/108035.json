@@ -1,0 +1,82 @@
+{
+    "meta": {
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 108035,
+        "scheme_name": "ICICI Prudential FMP series 43 - 3 Mths Plus Plan - Retail Dividend Option",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "21-07-2008",
+            "nav": "10.29340"
+        },
+        {
+            "date": "16-07-2008",
+            "nav": "10.25180"
+        },
+        {
+            "date": "09-07-2008",
+            "nav": "10.23550"
+        },
+        {
+            "date": "02-07-2008",
+            "nav": "10.21850"
+        },
+        {
+            "date": "25-06-2008",
+            "nav": "10.20150"
+        },
+        {
+            "date": "18-06-2008",
+            "nav": "10.18440"
+        },
+        {
+            "date": "11-06-2008",
+            "nav": "10.16700"
+        },
+        {
+            "date": "04-06-2008",
+            "nav": "10.15010"
+        },
+        {
+            "date": "28-05-2008",
+            "nav": "10.13290"
+        },
+        {
+            "date": "21-05-2008",
+            "nav": "10.11610"
+        },
+        {
+            "date": "14-05-2008",
+            "nav": "10.09920"
+        },
+        {
+            "date": "07-05-2008",
+            "nav": "10.08250"
+        },
+        {
+            "date": "30-04-2008",
+            "nav": "10.06590"
+        },
+        {
+            "date": "23-04-2008",
+            "nav": "10.04920"
+        },
+        {
+            "date": "16-04-2008",
+            "nav": "10.03240"
+        },
+        {
+            "date": "09-04-2008",
+            "nav": "10.01580"
+        },
+        {
+            "date": "02-04-2008",
+            "nav": "10.00740"
+        }
+    ],
+    "status": "SUCCESS"
+}

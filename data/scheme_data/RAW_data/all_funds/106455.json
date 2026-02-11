@@ -1,0 +1,66 @@
+{
+    "meta": {
+        "fund_house": "SBI Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 106455,
+        "scheme_name": "SBI DEBT FUND SERS-90D-13-(28/8/07) GROWTH",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "26-11-2007",
+            "nav": "10.21110"
+        },
+        {
+            "date": "21-11-2007",
+            "nav": "10.19720"
+        },
+        {
+            "date": "14-11-2007",
+            "nav": "10.18110"
+        },
+        {
+            "date": "07-11-2007",
+            "nav": "10.16500"
+        },
+        {
+            "date": "31-10-2007",
+            "nav": "10.14890"
+        },
+        {
+            "date": "24-10-2007",
+            "nav": "10.13280"
+        },
+        {
+            "date": "17-10-2007",
+            "nav": "10.11670"
+        },
+        {
+            "date": "10-10-2007",
+            "nav": "10.10060"
+        },
+        {
+            "date": "03-10-2007",
+            "nav": "10.08440"
+        },
+        {
+            "date": "26-09-2007",
+            "nav": "10.06810"
+        },
+        {
+            "date": "19-09-2007",
+            "nav": "10.05200"
+        },
+        {
+            "date": "12-09-2007",
+            "nav": "10.03610"
+        },
+        {
+            "date": "05-09-2007",
+            "nav": "10.02010"
+        }
+    ],
+    "status": "SUCCESS"
+}

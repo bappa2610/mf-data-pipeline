@@ -1,0 +1,66 @@
+{
+    "meta": {
+        "fund_house": "Standard Chartered Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 104648,
+        "scheme_name": "Standard Chartered Fixed Maturity Plan - Quarterly Series 2-Growth",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "28-03-2007",
+            "nav": "10.21830"
+        },
+        {
+            "date": "21-03-2007",
+            "nav": "10.20120"
+        },
+        {
+            "date": "14-03-2007",
+            "nav": "10.18440"
+        },
+        {
+            "date": "07-03-2007",
+            "nav": "10.16760"
+        },
+        {
+            "date": "28-02-2007",
+            "nav": "10.15090"
+        },
+        {
+            "date": "21-02-2007",
+            "nav": "10.13410"
+        },
+        {
+            "date": "14-02-2007",
+            "nav": "10.11730"
+        },
+        {
+            "date": "07-02-2007",
+            "nav": "10.10060"
+        },
+        {
+            "date": "31-01-2007",
+            "nav": "10.08380"
+        },
+        {
+            "date": "24-01-2007",
+            "nav": "10.06700"
+        },
+        {
+            "date": "17-01-2007",
+            "nav": "10.05030"
+        },
+        {
+            "date": "10-01-2007",
+            "nav": "10.03350"
+        },
+        {
+            "date": "03-01-2007",
+            "nav": "10.01680"
+        }
+    ],
+    "status": "SUCCESS"
+}

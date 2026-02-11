@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "fund_house": "UTI Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 102953,
+        "scheme_name": "UTI-FMP Yearly Series Feb05-Dividend Option",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "10-04-2006",
+            "nav": "10.00800"
+        },
+        {
+            "date": "07-04-2006",
+            "nav": "10.65580"
+        },
+        {
+            "date": "05-04-2006",
+            "nav": "10.65250"
+        },
+        {
+            "date": "04-04-2006",
+            "nav": "10.65090"
+        },
+        {
+            "date": "03-04-2006",
+            "nav": "10.64940"
+        }
+    ],
+    "status": "SUCCESS"
+}

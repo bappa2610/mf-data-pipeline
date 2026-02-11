@@ -1,0 +1,58 @@
+{
+    "meta": {
+        "fund_house": "Standard Chartered Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 107875,
+        "scheme_name": "Standard Chartered Fixed Maturity Plan - YS19-Plan B - Growth",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "29-05-2008",
+            "nav": "10.18640"
+        },
+        {
+            "date": "28-05-2008",
+            "nav": "10.18380"
+        },
+        {
+            "date": "21-05-2008",
+            "nav": "10.16620"
+        },
+        {
+            "date": "14-05-2008",
+            "nav": "10.14870"
+        },
+        {
+            "date": "07-05-2008",
+            "nav": "10.13100"
+        },
+        {
+            "date": "30-04-2008",
+            "nav": "10.11300"
+        },
+        {
+            "date": "23-04-2008",
+            "nav": "10.09470"
+        },
+        {
+            "date": "16-04-2008",
+            "nav": "10.07700"
+        },
+        {
+            "date": "09-04-2008",
+            "nav": "10.05940"
+        },
+        {
+            "date": "02-04-2008",
+            "nav": "10.04230"
+        },
+        {
+            "date": "31-03-2008",
+            "nav": "10.03680"
+        }
+    ],
+    "status": "SUCCESS"
+}

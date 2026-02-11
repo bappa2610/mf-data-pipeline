@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 105338,
+        "scheme_name": "ICICI Prudential FMP series 37 - 1 Mth Plan - Retail Dividend Option",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "29-04-2007",
+            "nav": "10.00000"
+        },
+        {
+            "date": "25-04-2007",
+            "nav": "10.08700"
+        },
+        {
+            "date": "18-04-2007",
+            "nav": "10.06530"
+        },
+        {
+            "date": "11-04-2007",
+            "nav": "10.04350"
+        },
+        {
+            "date": "04-04-2007",
+            "nav": "10.02180"
+        }
+    ],
+    "status": "SUCCESS"
+}

@@ -1,0 +1,94 @@
+{
+    "meta": {
+        "fund_house": "DHFL Pramerica Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 138543,
+        "scheme_name": "DHFL Pramerica Hybrid Fixed Term Fund - Series 8 - Annual Dividend (Payout)",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "07-04-2016",
+            "nav": "13.90050"
+        },
+        {
+            "date": "06-04-2016",
+            "nav": "13.91190"
+        },
+        {
+            "date": "05-04-2016",
+            "nav": "13.90750"
+        },
+        {
+            "date": "04-04-2016",
+            "nav": "13.91240"
+        },
+        {
+            "date": "31-03-2016",
+            "nav": "13.91140"
+        },
+        {
+            "date": "30-03-2016",
+            "nav": "13.90850"
+        },
+        {
+            "date": "29-03-2016",
+            "nav": "13.90460"
+        },
+        {
+            "date": "28-03-2016",
+            "nav": "13.90100"
+        },
+        {
+            "date": "23-03-2016",
+            "nav": "13.89950"
+        },
+        {
+            "date": "22-03-2016",
+            "nav": "13.89780"
+        },
+        {
+            "date": "21-03-2016",
+            "nav": "13.88950"
+        },
+        {
+            "date": "18-03-2016",
+            "nav": "13.87560"
+        },
+        {
+            "date": "17-03-2016",
+            "nav": "13.86510"
+        },
+        {
+            "date": "16-03-2016",
+            "nav": "13.86740"
+        },
+        {
+            "date": "15-03-2016",
+            "nav": "13.86290"
+        },
+        {
+            "date": "14-03-2016",
+            "nav": "13.86910"
+        },
+        {
+            "date": "11-03-2016",
+            "nav": "13.86500"
+        },
+        {
+            "date": "10-03-2016",
+            "nav": "13.85940"
+        },
+        {
+            "date": "09-03-2016",
+            "nav": "13.85360"
+        },
+        {
+            "date": "08-03-2016",
+            "nav": "13.84790"
+        }
+    ],
+    "status": "SUCCESS"
+}

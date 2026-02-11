@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 110363,
+        "scheme_name": "ICICI Prudential Fixed Maturity Plan - Series 48 - One Month Plan A - Retail Dividend Option",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "27-10-2008",
+            "nav": "10.09910"
+        },
+        {
+            "date": "22-10-2008",
+            "nav": "10.08300"
+        },
+        {
+            "date": "15-10-2008",
+            "nav": "10.06120"
+        },
+        {
+            "date": "08-10-2008",
+            "nav": "10.03930"
+        },
+        {
+            "date": "01-10-2008",
+            "nav": "10.01740"
+        }
+    ],
+    "status": "SUCCESS"
+}

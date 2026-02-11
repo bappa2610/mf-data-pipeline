@@ -1,0 +1,66 @@
+{
+    "meta": {
+        "fund_house": "SBI Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 110080,
+        "scheme_name": "SBI DEBT FUND SERIES - 90 DAYS - 29 - DIVIDEND (02/09/2008)",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "01-12-2008",
+            "nav": "10.00000"
+        },
+        {
+            "date": "26-11-2008",
+            "nav": "10.27910"
+        },
+        {
+            "date": "19-11-2008",
+            "nav": "10.25910"
+        },
+        {
+            "date": "12-11-2008",
+            "nav": "10.23700"
+        },
+        {
+            "date": "05-11-2008",
+            "nav": "10.21320"
+        },
+        {
+            "date": "29-10-2008",
+            "nav": "10.18950"
+        },
+        {
+            "date": "22-10-2008",
+            "nav": "10.16780"
+        },
+        {
+            "date": "15-10-2008",
+            "nav": "10.14210"
+        },
+        {
+            "date": "08-10-2008",
+            "nav": "10.11650"
+        },
+        {
+            "date": "01-10-2008",
+            "nav": "10.09280"
+        },
+        {
+            "date": "24-09-2008",
+            "nav": "10.06630"
+        },
+        {
+            "date": "17-09-2008",
+            "nav": "10.04470"
+        },
+        {
+            "date": "10-09-2008",
+            "nav": "10.02370"
+        }
+    ],
+    "status": "SUCCESS"
+}

@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "fund_house": "IDFC Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 108913,
+        "scheme_name": "IDFC Fixed Maturity Plan - Quarterly Series 28 - Growth",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "26-06-2008",
+            "nav": "10.26770"
+        },
+        {
+            "date": "25-06-2008",
+            "nav": "10.26160"
+        },
+        {
+            "date": "18-06-2008",
+            "nav": "10.24430"
+        },
+        {
+            "date": "11-06-2008",
+            "nav": "10.22690"
+        },
+        {
+            "date": "04-06-2008",
+            "nav": "10.20870"
+        }
+    ],
+    "status": "SUCCESS"
+}

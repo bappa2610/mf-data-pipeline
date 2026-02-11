@@ -1,0 +1,66 @@
+{
+    "meta": {
+        "fund_house": "SBI Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 105019,
+        "scheme_name": "SBI DEBT FUND SERIES-90 DAYS-10-DIV",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "28-05-2007",
+            "nav": "10.00000"
+        },
+        {
+            "date": "23-05-2007",
+            "nav": "10.18120"
+        },
+        {
+            "date": "16-05-2007",
+            "nav": "10.16160"
+        },
+        {
+            "date": "09-05-2007",
+            "nav": "10.14200"
+        },
+        {
+            "date": "02-05-2007",
+            "nav": "10.12210"
+        },
+        {
+            "date": "25-04-2007",
+            "nav": "10.10220"
+        },
+        {
+            "date": "18-04-2007",
+            "nav": "10.08240"
+        },
+        {
+            "date": "11-04-2007",
+            "nav": "10.06260"
+        },
+        {
+            "date": "04-04-2007",
+            "nav": "10.04290"
+        },
+        {
+            "date": "28-03-2007",
+            "nav": "10.02300"
+        },
+        {
+            "date": "21-03-2007",
+            "nav": "10.06350"
+        },
+        {
+            "date": "14-03-2007",
+            "nav": "10.04360"
+        },
+        {
+            "date": "07-03-2007",
+            "nav": "10.02370"
+        }
+    ],
+    "status": "SUCCESS"
+}

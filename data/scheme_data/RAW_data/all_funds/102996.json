@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "fund_house": "Standard Chartered Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 102996,
+        "scheme_name": "Grindlays Fixed Maturity 4th Plan-A-Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "12-04-2006",
+            "nav": "10.58760"
+        },
+        {
+            "date": "05-04-2006",
+            "nav": "10.57830"
+        }
+    ],
+    "status": "SUCCESS"
+}

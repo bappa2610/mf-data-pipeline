@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "fund_house": "IDFC Mutual Fund",
+        "scheme_type": "IL&FS Mutual Fund",
+        "scheme_category": "IDF",
+        "scheme_code": 129287,
+        "scheme_name": "IL&FS Infrastructure Debt Fund Series 1A - Growth",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "31-12-2018",
+            "nav": "1680494.04630"
+        },
+        {
+            "date": "28-09-2018",
+            "nav": "1635038.26280"
+        },
+        {
+            "date": "29-06-2018",
+            "nav": "1589480.90450"
+        }
+    ],
+    "status": "SUCCESS"
+}

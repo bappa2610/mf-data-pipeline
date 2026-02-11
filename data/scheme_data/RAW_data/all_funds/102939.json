@@ -1,0 +1,78 @@
+{
+    "meta": {
+        "fund_house": "Kotak Mahindra Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 102939,
+        "scheme_name": "Kotak FMP - Series-X VI-Growth",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "27-04-2006",
+            "nav": "10.17100"
+        },
+        {
+            "date": "26-04-2006",
+            "nav": "10.17050"
+        },
+        {
+            "date": "25-04-2006",
+            "nav": "10.16950"
+        },
+        {
+            "date": "24-04-2006",
+            "nav": "10.16790"
+        },
+        {
+            "date": "21-04-2006",
+            "nav": "10.16240"
+        },
+        {
+            "date": "20-04-2006",
+            "nav": "10.16050"
+        },
+        {
+            "date": "19-04-2006",
+            "nav": "10.15860"
+        },
+        {
+            "date": "18-04-2006",
+            "nav": "10.15670"
+        },
+        {
+            "date": "17-04-2006",
+            "nav": "10.15480"
+        },
+        {
+            "date": "13-04-2006",
+            "nav": "10.14690"
+        },
+        {
+            "date": "12-04-2006",
+            "nav": "10.14500"
+        },
+        {
+            "date": "10-04-2006",
+            "nav": "10.14100"
+        },
+        {
+            "date": "07-04-2006",
+            "nav": "10.13510"
+        },
+        {
+            "date": "05-04-2006",
+            "nav": "10.13120"
+        },
+        {
+            "date": "04-04-2006",
+            "nav": "10.12920"
+        },
+        {
+            "date": "03-04-2006",
+            "nav": "10.12720"
+        }
+    ],
+    "status": "SUCCESS"
+}

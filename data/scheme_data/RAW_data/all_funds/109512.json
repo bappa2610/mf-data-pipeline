@@ -1,0 +1,62 @@
+{
+    "meta": {
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 109512,
+        "scheme_name": "ICICI Prudential Fixed Maturity Plan - Series 46 - One Year Plan B - Institutional Growth Option",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "12-11-2008",
+            "nav": "10.15550"
+        },
+        {
+            "date": "05-11-2008",
+            "nav": "10.12580"
+        },
+        {
+            "date": "29-10-2008",
+            "nav": "10.08930"
+        },
+        {
+            "date": "22-10-2008",
+            "nav": "10.04480"
+        },
+        {
+            "date": "15-10-2008",
+            "nav": "10.18850"
+        },
+        {
+            "date": "08-10-2008",
+            "nav": "10.16700"
+        },
+        {
+            "date": "01-10-2008",
+            "nav": "10.15860"
+        },
+        {
+            "date": "17-09-2008",
+            "nav": "10.12370"
+        },
+        {
+            "date": "10-09-2008",
+            "nav": "10.10450"
+        },
+        {
+            "date": "04-09-2008",
+            "nav": "10.08410"
+        },
+        {
+            "date": "27-08-2008",
+            "nav": "10.05700"
+        },
+        {
+            "date": "20-08-2008",
+            "nav": "10.02830"
+        }
+    ],
+    "status": "SUCCESS"
+}

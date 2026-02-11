@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 121129,
+        "scheme_name": "ICICI Prudential Interval Fund - Series VI - Annual Interval Plan - A - Cumulative",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "15-03-2017",
+            "nav": "13.96190"
+        },
+        {
+            "date": "12-06-2014",
+            "nav": "11.28570"
+        }
+    ],
+    "status": "SUCCESS"
+}

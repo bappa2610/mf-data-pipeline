@@ -1,0 +1,70 @@
+{
+    "meta": {
+        "fund_house": "IDFC Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 108897,
+        "scheme_name": "IDFC Fixed Maturity Plan - Quarterly Series 29 - Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "21-08-2008",
+            "nav": "10.00000"
+        },
+        {
+            "date": "20-08-2008",
+            "nav": "10.21500"
+        },
+        {
+            "date": "13-08-2008",
+            "nav": "10.19840"
+        },
+        {
+            "date": "06-08-2008",
+            "nav": "10.18170"
+        },
+        {
+            "date": "30-07-2008",
+            "nav": "10.16510"
+        },
+        {
+            "date": "23-07-2008",
+            "nav": "10.14850"
+        },
+        {
+            "date": "16-07-2008",
+            "nav": "10.13180"
+        },
+        {
+            "date": "09-07-2008",
+            "nav": "10.11520"
+        },
+        {
+            "date": "07-07-2008",
+            "nav": "10.11040"
+        },
+        {
+            "date": "02-07-2008",
+            "nav": "10.09860"
+        },
+        {
+            "date": "25-06-2008",
+            "nav": "10.08210"
+        },
+        {
+            "date": "18-06-2008",
+            "nav": "10.06560"
+        },
+        {
+            "date": "11-06-2008",
+            "nav": "10.04910"
+        },
+        {
+            "date": "04-06-2008",
+            "nav": "10.03260"
+        }
+    ],
+    "status": "SUCCESS"
+}

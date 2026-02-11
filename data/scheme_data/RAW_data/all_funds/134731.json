@@ -1,0 +1,54 @@
+{
+    "meta": {
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "scheme_type": "141923;INF179KB1W87;-;HDFC HOF - I - 1140D November 2017",
+        "scheme_category": "1",
+        "scheme_code": 134731,
+        "scheme_name": "ICICI Prudential Fixed Maturity Plan - Series 77 - 1134 Plan H Cumulative Option",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "16-07-2018",
+            "nav": "12.66870"
+        },
+        {
+            "date": "13-07-2018",
+            "nav": "12.66090"
+        },
+        {
+            "date": "12-07-2018",
+            "nav": "12.65830"
+        },
+        {
+            "date": "11-07-2018",
+            "nav": "12.65600"
+        },
+        {
+            "date": "10-07-2018",
+            "nav": "12.65370"
+        },
+        {
+            "date": "09-07-2018",
+            "nav": "12.65130"
+        },
+        {
+            "date": "06-07-2018",
+            "nav": "12.64490"
+        },
+        {
+            "date": "05-07-2018",
+            "nav": "12.64260"
+        },
+        {
+            "date": "04-07-2018",
+            "nav": "12.64030"
+        },
+        {
+            "date": "03-07-2018",
+            "nav": "12.63800"
+        }
+    ],
+    "status": "SUCCESS"
+}

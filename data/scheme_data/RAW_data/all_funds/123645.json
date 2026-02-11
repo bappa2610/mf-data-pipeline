@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 123645,
+        "scheme_name": "ICICI Prudential Interval Fund II Quarterly Interval Plan A -  Quarterly Dividend Payout",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "05-09-2017",
+            "nav": "10.00150"
+        },
+        {
+            "date": "12-06-2014",
+            "nav": "10.06020"
+        }
+    ],
+    "status": "SUCCESS"
+}

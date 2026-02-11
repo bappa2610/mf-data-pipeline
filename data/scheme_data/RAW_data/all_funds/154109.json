@@ -1,0 +1,78 @@
+{
+    "meta": {
+        "fund_house": "Zerodha Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Other Scheme - Index Funds",
+        "scheme_code": 154109,
+        "scheme_name": "Zerodha Nifty Short Duration G-Sec Index Fund - Direct Plan - Growth Option",
+        "isin_growth": "INF0R8F01182",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "10-02-2026",
+            "nav": "1003.94040"
+        },
+        {
+            "date": "09-02-2026",
+            "nav": "1003.54740"
+        },
+        {
+            "date": "06-02-2026",
+            "nav": "1002.60620"
+        },
+        {
+            "date": "05-02-2026",
+            "nav": "1003.77600"
+        },
+        {
+            "date": "04-02-2026",
+            "nav": "1003.36920"
+        },
+        {
+            "date": "03-02-2026",
+            "nav": "1002.80930"
+        },
+        {
+            "date": "02-02-2026",
+            "nav": "1001.33260"
+        },
+        {
+            "date": "30-01-2026",
+            "nav": "1001.73830"
+        },
+        {
+            "date": "29-01-2026",
+            "nav": "1000.95340"
+        },
+        {
+            "date": "28-01-2026",
+            "nav": "1001.64920"
+        },
+        {
+            "date": "27-01-2026",
+            "nav": "1001.79040"
+        },
+        {
+            "date": "23-01-2026",
+            "nav": "1001.50900"
+        },
+        {
+            "date": "22-01-2026",
+            "nav": "1002.07520"
+        },
+        {
+            "date": "21-01-2026",
+            "nav": "1002.25020"
+        },
+        {
+            "date": "20-01-2026",
+            "nav": "1001.62970"
+        },
+        {
+            "date": "19-01-2026",
+            "nav": "1001.63110"
+        }
+    ],
+    "status": "SUCCESS"
+}

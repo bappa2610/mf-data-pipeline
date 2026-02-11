@@ -1,0 +1,78 @@
+{
+    "meta": {
+        "fund_house": "IDFC Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 110103,
+        "scheme_name": "IDFC Fixed Maturity Plan - QS 42 GROWTH",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "10-12-2008",
+            "nav": "10.28150"
+        },
+        {
+            "date": "03-12-2008",
+            "nav": "10.26170"
+        },
+        {
+            "date": "26-11-2008",
+            "nav": "10.24360"
+        },
+        {
+            "date": "19-11-2008",
+            "nav": "10.22550"
+        },
+        {
+            "date": "18-11-2008",
+            "nav": "10.22550"
+        },
+        {
+            "date": "12-11-2008",
+            "nav": "10.20670"
+        },
+        {
+            "date": "05-11-2008",
+            "nav": "10.17780"
+        },
+        {
+            "date": "29-10-2008",
+            "nav": "10.11990"
+        },
+        {
+            "date": "23-10-2008",
+            "nav": "10.10610"
+        },
+        {
+            "date": "22-10-2008",
+            "nav": "10.10360"
+        },
+        {
+            "date": "15-10-2008",
+            "nav": "10.08660"
+        },
+        {
+            "date": "08-10-2008",
+            "nav": "10.07200"
+        },
+        {
+            "date": "01-10-2008",
+            "nav": "10.05490"
+        },
+        {
+            "date": "30-09-2008",
+            "nav": "10.05200"
+        },
+        {
+            "date": "24-09-2008",
+            "nav": "10.03800"
+        },
+        {
+            "date": "17-09-2008",
+            "nav": "10.02130"
+        }
+    ],
+    "status": "SUCCESS"
+}

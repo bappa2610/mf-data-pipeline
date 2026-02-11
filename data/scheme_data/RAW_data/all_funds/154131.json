@@ -1,0 +1,34 @@
+{
+    "meta": {
+        "fund_house": "The Wealth Company Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_code": 154131,
+        "scheme_name": "THE WEALTH COMPANY GOLD ETF FOF DIRECT GROWTH",
+        "isin_growth": "INF2F0001412",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "10-02-2026",
+            "nav": "9.79380"
+        },
+        {
+            "date": "09-02-2026",
+            "nav": "9.79440"
+        },
+        {
+            "date": "06-02-2026",
+            "nav": "9.77020"
+        },
+        {
+            "date": "05-02-2026",
+            "nav": "9.59760"
+        },
+        {
+            "date": "04-02-2026",
+            "nav": "9.77850"
+        }
+    ],
+    "status": "SUCCESS"
+}

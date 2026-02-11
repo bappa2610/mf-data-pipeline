@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "fund_house": "SBI Mutual Fund",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
+        "scheme_code": 111889,
+        "scheme_name": "REDEEMED-SBI Debt Fund Series - 13 Months - 10 (24/03/09) - Institutional Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "05-04-2009",
+            "nav": "10.02340"
+        },
+        {
+            "date": "04-04-2009",
+            "nav": "10.02140"
+        },
+        {
+            "date": "03-04-2009",
+            "nav": "10.01940"
+        },
+        {
+            "date": "02-04-2009",
+            "nav": "10.01740"
+        }
+    ],
+    "status": "SUCCESS"
+}

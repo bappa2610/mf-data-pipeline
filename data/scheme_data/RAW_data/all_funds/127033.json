@@ -1,0 +1,42 @@
+{
+    "meta": {
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "scheme_type": "141923;INF179KB1W87;-;HDFC HOF - I - 1140D November 2017",
+        "scheme_category": "1",
+        "scheme_code": 127033,
+        "scheme_name": "ICICI Prudential Fixed Maturity Plan-Series 72-425 Days Plan N - Dividend",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "10-07-2018",
+            "nav": "13.21370"
+        },
+        {
+            "date": "09-07-2018",
+            "nav": "13.21150"
+        },
+        {
+            "date": "06-07-2018",
+            "nav": "13.20570"
+        },
+        {
+            "date": "05-07-2018",
+            "nav": "13.20400"
+        },
+        {
+            "date": "04-07-2018",
+            "nav": "13.20190"
+        },
+        {
+            "date": "03-07-2018",
+            "nav": "13.19980"
+        },
+        {
+            "date": "12-06-2014",
+            "nav": "10.36270"
+        }
+    ],
+    "status": "SUCCESS"
+}

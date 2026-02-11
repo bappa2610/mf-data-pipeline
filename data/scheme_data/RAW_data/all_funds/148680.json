@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "fund_house": "Trust Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Debt Scheme - Banking and PSU Fund",
+        "scheme_code": 148680,
+        "scheme_name": "TRUSTMF BANKING & PSU DEBT FUND REGULAR PLAN QUARTERLY DIVIDEND REINVESTMENT",
+        "isin_growth": null,
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "03-02-2021",
+            "nav": "996.15100"
+        },
+        {
+            "date": "02-02-2021",
+            "nav": "995.72600"
+        }
+    ],
+    "status": "SUCCESS"
+}
