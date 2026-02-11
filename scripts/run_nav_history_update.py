@@ -2,6 +2,12 @@ import subprocess
 import sys
 import os
 
+# List of scripts to run in sequence. Add, remove, or reorder as needed.
+SCRIPTS_TO_RUN = [
+    "scripts/Export_NAV_history/fetch_nav_history.py",
+    "scripts/Export_NAV_history/export_nav_year.py"
+]
+
 def run_script(script_path):
     """Run a Python script and check for errors."""
     try:
@@ -12,19 +18,13 @@ def run_script(script_path):
         sys.exit(1)
 
 def main():
-    print("🚀 Starting NAV pipeline...")
+    print("🚀 Starting NAV History Update...")
 
-    # Run fetch_nav_history.py
-    fetch_script = "scripts/Export_NAV_history/fetch_nav_history.py"
-    print(f"📥 Running {fetch_script}...")
-    run_script(fetch_script)
+    for script in SCRIPTS_TO_RUN:
+        print(f"📥 Running {script}...")
+        run_script(script)
 
-    # Run export_nav_year.py
-    export_script = "scripts/Export_NAV_history/export_nav_year.py"
-    print(f"📦 Running {export_script}...")
-    run_script(export_script)
-
-    print("🎉 NAV pipeline completed successfully!")
+    print("🎉 NAV History Update completed successfully!")
 
 if __name__ == "__main__":
     main()

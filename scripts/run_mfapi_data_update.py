@@ -2,6 +2,12 @@ import subprocess
 import sys
 import os
 
+# List of scripts to run in sequence. Add, remove, or reorder as needed.
+SCRIPTS_TO_RUN = [
+    "scripts/RAW_data_fetcher/fetch_mfapi_all_funds.py",
+    "scripts/RAW_data_fetcher/create_mfapi_master_data.py"
+]
+
 def run_script(script_path):
     """Run a Python script and check for errors."""
     try:
@@ -12,19 +18,13 @@ def run_script(script_path):
         sys.exit(1)
 
 def main():
-    print("🚀 Starting MFAPI data pipeline...")
+    print("🚀 Starting MFAPI data update...")
 
-    # Run fetch_mfapi_all_funds.py
-    fetch_script = "scripts/RAW_data_fetcher/fetch_mfapi_all_funds.py"
-    print(f"📥 Running {fetch_script}...")
-    run_script(fetch_script)
+    for script in SCRIPTS_TO_RUN:
+        print(f"📥 Running {script}...")
+        run_script(script)
 
-    # Run create_mfapi_master_data.py
-    master_script = "scripts/RAW_data_fetcher/create_mfapi_master_data.py"
-    print(f"📦 Running {master_script}...")
-    run_script(master_script)
-
-    print("🎉 MFAPI data pipeline completed successfully!")
+    print("🎉 MFAPI data update completed successfully!")
 
 if __name__ == "__main__":
     main()
