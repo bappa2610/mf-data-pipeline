@@ -8,31 +8,37 @@ on:
 jobs:
   update-data:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
       - name: Run MFAPI data pipeline
         run: python scripts/run_mfapi_data_update.py
 
       - name: Commit and push changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
           git add .
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Update MFAPI data"
-            git push
-          fi
+          git commit -m "Update MFAPI data" || echo "No changes"
+          BRANCH=${GITHUB_REF#refs/heads/}
+          git pull --rebase origin "$BRANCH" || true
+          git push "https://$PAT_TOKEN@github.com/${{ github.repository }}" "HEAD:$BRANCH"
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
