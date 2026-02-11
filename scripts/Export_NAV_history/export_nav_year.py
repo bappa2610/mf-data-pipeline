@@ -10,6 +10,13 @@ OUT_DIR = "data/NAV/nav_year"
 # Change this value to adjust the number of workers for concurrent processing
 MAX_WORKERS = 8
 
+# ---------- WORKER FUNCTION FOR NAV YEAR DIR ----------
+def read_nav_year_dir(out_dir):
+    with concurrent.futures.ThreadPoolExecutor(max_workers=1) as executor:
+        future = executor.submit(os.listdir, out_dir)
+        files = future.result()
+    return sorted(f for f in files if f.startswith("nav_year_") and f.endswith(".csv"))
+
 print("📁 Preparing yearly NAV output directory...")
 os.makedirs(OUT_DIR, exist_ok=True)
 
@@ -25,10 +32,7 @@ print(f"📊 Schemes detected: {len(scheme_files)}")
 print("🗂 Loading existing yearly NAV indexes...")
 existing = defaultdict(set)
 
-year_files = sorted(
-    f for f in os.listdir(OUT_DIR)
-    if f.startswith("nav_year_") and f.endswith(".csv")
-)
+year_files = read_nav_year_dir(OUT_DIR)
 
 if not year_files:
     print("ℹ️ No existing yearly NAV files found")

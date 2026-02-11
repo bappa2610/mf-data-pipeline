@@ -15,9 +15,19 @@ MAX_WORKERS = 10
 TODAY = date.today().isoformat()
 # ==========================================
 
+# ---------- WORKER FUNCTION FOR NAV DIR ----------
+def read_nav_dir(nav_dir):
+    with ThreadPoolExecutor(max_workers=1) as executor:
+        future = executor.submit(os.listdir, nav_dir)
+        files = future.result()
+    return [f for f in files if f.endswith('.csv')]
+
 print("📁 Checking NAV history directory...")
 os.makedirs(NAV_DIR, exist_ok=True)
 print("✅ NAV history directory ready\n")
+
+nav_files = read_nav_dir(NAV_DIR)
+print(f"📊 NAV history files found: {len(nav_files)}\n")
 
 
 # ---------- ULTRA FAST LAST DATE ----------
