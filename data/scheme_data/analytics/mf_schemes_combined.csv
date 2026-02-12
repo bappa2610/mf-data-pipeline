@@ -10156,8 +10156,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 148652,ICICI Prudential Mutual Fund,ICICI Prudential Business Cycle Fund Direct Plan IDCW,INF109KC1P40,INF109KC1P32,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 148653,ICICI Prudential Mutual Fund,ICICI Prudential Business Cycle Fund Growth,INF109KC1O90,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 148654,ICICI Prudential Mutual Fund,ICICI Prudential Business Cycle Fund IDCW,INF109KC1P16,INF109KC1P08,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-148655,Trust Mutual Fund,TRUSTMF BANKING & PSU FUND - REGULAR GROWTH,INF0GCD01016,,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-148656,Trust Mutual Fund,TRUSTMF BANKING & PSU FUND - DIRECT GROWTH,INF0GCD01107,,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
 148657,PGIM India Mutual Fund,PGIM India Balanced Advantage Fund - Regular Plan - Growth Option,INF663L01V72,,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
 148658,PGIM India Mutual Fund,PGIM India Balanced Advantage Fund -  Direct Plan - Growth Option,INF663L01V49,,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
 148659,PGIM India Mutual Fund,PGIM India Balanced Advantage Fund - Direct Plan - Dividend Option,INF663L01V56,INF663L01V64,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
@@ -10168,16 +10166,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 148664,Nippon India Mutual Fund,Nippon India Multi - Asset Omni FoF - DIRECT Plan - IDCW Option,INF204KB17Y2,INF204KB18Y0,Open Ended Schemes,Other Scheme - FoF Domestic
 148665,Nippon India Mutual Fund,Nippon India Multi - Asset Omni FoF - IDCW Option,INF204KB14Y9,INF204KB15Y6,Open Ended Schemes,Other Scheme - FoF Domestic
 148666,Nippon India Mutual Fund,Nippon India Multi - Asset Omni FoF - Direct Plan - Growth Option,INF204KB16Y4,,Open Ended Schemes,Other Scheme - FoF Domestic
-148667,Trust Mutual Fund,TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,,INF0GCD01024,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-148668,Trust Mutual Fund,TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,INF0GCD01073,INF0GCD01065,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-148669,Trust Mutual Fund,TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,INF0GCD01099,INF0GCD01081,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-148670,Trust Mutual Fund,TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,INF0GCD01164,INF0GCD01156,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-148672,Trust Mutual Fund,TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION,INF0GCD01180,INF0GCD01172,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-148674,Trust Mutual Fund,TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,INF0GCD01057,INF0GCD01040,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-148675,Trust Mutual Fund,TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,,INF0GCD01123,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-148678,Trust Mutual Fund,TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,,INF0GCD01115,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-148679,Trust Mutual Fund,TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,,INF0GCD01032,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-148681,Trust Mutual Fund,TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION,INF0GCD01149,INF0GCD01131,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
 148683,SBI Mutual Fund,SBI Retirement Benefit Fund - Aggressive Plan - Direct Plan - Growth,INF200KA1S55,,Open Ended Schemes,Solution Oriented Scheme - Retirement Fund
 148684,SBI Mutual Fund,SBI Retirement Benefit Fund - Aggressive Hybrid Plan - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1S89,,Open Ended Schemes,Solution Oriented Scheme - Retirement Fund
 148685,SBI Mutual Fund,SBI Retirement Benefit Fund - Aggressive Hybrid Plan - Direct Plan - Growth,INF200KA1S97,,Open Ended Schemes,Solution Oriented Scheme - Retirement Fund
@@ -34165,8 +34153,20 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 148628,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Banking and PSU Bond Fund- Direct Plan -Growth Option,INF955L01KC8,,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
 148629,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Banking and PSU Bond Fund -Direct Plan-Monthly IDCW Option,INF955L01KF1,INF955L01KG9,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
 148630,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Banking and PSU Bond Fund-Direct plan-Quarterly IDCW Option,INF955L01KD6,INF955L01KE4,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
+148655,Trust Mutual Fund,TRUSTMF BANKING & PSU FUND - REGULAR GROWTH,INF0GCD01016,,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
+148656,Trust Mutual Fund,TRUSTMF BANKING & PSU FUND - DIRECT GROWTH,INF0GCD01107,,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
+148667,Trust Mutual Fund,TRUSTMF BANKING & PSU FUND REGULAR PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,,INF0GCD01024,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
+148668,Trust Mutual Fund,TRUSTMF BANKING & PSU FUND REGULAR PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,INF0GCD01073,INF0GCD01065,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
+148669,Trust Mutual Fund,TRUSTMF BANKING & PSU FUND REGULAR PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,INF0GCD01099,INF0GCD01081,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
+148670,Trust Mutual Fund,TRUSTMF BANKING & PSU FUND DIRECT PLAN QUARTERLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,INF0GCD01164,INF0GCD01156,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
+148672,Trust Mutual Fund,TRUSTMF BANKING & PSU FUND DIRECT PLAN ANNUAL INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION,INF0GCD01180,INF0GCD01172,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
+148674,Trust Mutual Fund,TRUSTMF BANKING & PSU FUND REGULAR PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,INF0GCD01057,INF0GCD01040,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
+148675,Trust Mutual Fund,TRUSTMF BANKING & PSU FUND DIRECT PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,,INF0GCD01123,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
 148676,Trust Mutual Fund,TRUSTMF BANKING & PSU DEBT FUND REGULAR PLAN ANNUAL DIVIDEND REINVESTMENT,,,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
+148678,Trust Mutual Fund,TRUSTMF BANKING & PSU FUND DIRECT PLAN DAILY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,,INF0GCD01115,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
+148679,Trust Mutual Fund,TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,,INF0GCD01032,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
 148680,Trust Mutual Fund,TRUSTMF BANKING & PSU DEBT FUND REGULAR PLAN QUARTERLY DIVIDEND REINVESTMENT,,,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
+148681,Trust Mutual Fund,TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION,INF0GCD01149,INF0GCD01131,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
 148896,BNP Paribas Mutual Fund,BNP Paribas Funds Aqua Fund of Fund - Regular Plan Growth,,,Open Ended Schemes,Other Scheme - FoF Overseas
 148897,BNP Paribas Mutual Fund,BNP Paribas Funds Aqua Fund of Fund - Direct Plan - Growth Option,,,Open Ended Schemes,Other Scheme - FoF Overseas
 148898,BNP Paribas Mutual Fund,BNP Paribas Funds Aqua Fund of Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option,,,Open Ended Schemes,Other Scheme - FoF Overseas
@@ -36223,3 +36223,4 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154234,Capitalmind Asset Management Private Limited,Capitalmind Arbitrage Fund-Direct-IDCW,INF226401125,INF226401133,Open Ended,Hybrid Scheme - Arbitrage Fund
 154235,Capitalmind Asset Management Private Limited,Capitalmind Arbitrage Fund-Regular-IDCW,INF226401158,INF226401166,Open Ended,Hybrid Scheme - Arbitrage Fund
 154236,Capitalmind Asset Management Private Limited,Capitalmind Arbitrage Fund-Direct-Growth,INF226401117,,Open Ended,Hybrid Scheme - Arbitrage Fund
+154237,SBI Funds Management Limited,SBI Nifty Midcap 150 Momentum 50 ETF,,,Open Ended,Other Scheme - Other  ETFs
