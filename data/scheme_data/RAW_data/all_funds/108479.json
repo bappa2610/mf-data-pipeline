@@ -5,10 +5,14 @@
         "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 108479,
         "scheme_name": "Quantum Nifty 50 ETF",
-        "isin_growth": "INF082J01028",
+        "isin_growth": "INF082J01499",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "13-02-2026",
+            "nav": "2784.61350"
+        },
         {
             "date": "12-02-2026",
             "nav": "2821.33430"
