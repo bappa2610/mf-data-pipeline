@@ -6,9 +6,13 @@
         "scheme_code": 117692,
         "scheme_name": "DSP US Specific Equity Omni FoF - Regular Plan - IDCW",
         "isin_growth": "INF740K01LQ4",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": "INF740K01LR2"
     },
     "data": [
+        {
+            "date": "20-02-2026",
+            "nav": "37.27900"
+        },
         {
             "date": "18-02-2026",
             "nav": "37.00860"
