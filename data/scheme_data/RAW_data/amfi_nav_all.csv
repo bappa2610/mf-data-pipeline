@@ -367,7 +367,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 101703,Tata Mutual Fund,Tata Medium Term Fund -Regular Plan - Growth Option,INF277K01717,,Open Ended Schemes,Debt Scheme - Medium Duration Fund,29.7872,23-Sep-2022
 101705,ICICI Prudential Mutual Fund,ICICI Prudential BSE Sensex ETF,INF346A01034,,Open Ended Schemes,Other Scheme - Other  ETFs,945.6349,20-Feb-2026
 101706,ICICI Prudential Mutual Fund,ICICI Prudential Multicap Fund - IDCW,INF109K01FK7,INF109K01621,Open Ended Schemes,Equity Scheme - Multi Cap Fund,32.43,20-Feb-2026
-101714,Tata Mutual Fund,Tata Liquid Fund- Regular Plan - Daily Reinvestment of IDCW Option,,INF277K011D4,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.5157,20-Feb-2026
+101714,Tata Mutual Fund,Tata Liquid Fund- Regular Plan - Daily Reinvestment of IDCW Option,,INF277K011D4,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.5157,22-Feb-2026
 101737,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Dividend Yield Fund -REGULAR - IDCW,INF209K01397,INF209K01CP1,Open Ended Schemes,Equity Scheme - Dividend Yield Fund,26.59,20-Feb-2026
 101738,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Dividend Yield Fund - Growth - Regular Plan,INF209K01405,,Open Ended Schemes,Equity Scheme - Dividend Yield Fund,460.14,20-Feb-2026
 101746,Tata Mutual Fund,Tata S&P BSE Sensex Index Fund -Regular Plan,INF277K01758,,Open Ended Schemes,Other Scheme - Index Funds,208.0080,20-Feb-2026
@@ -569,7 +569,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 102592,Kotak Mahindra Mutual Fund,Kotak Savings Fund -Monthly Payout of Income Distribution cum capital withdrawal option,INF174K01FH7,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund,10.7261,20-Feb-2026
 102594,ICICI Prudential Mutual Fund,ICICI Prudential Value Fund (erstwhile Value Discovery Fund) - Growth,INF109K01AF8,,Open Ended Schemes,Equity Scheme - Value Fund,488.90,20-Feb-2026
 102595,ICICI Prudential Mutual Fund,ICICI Prudential Value Fund (erstwhile Value Discovery Fund) - IDCW,INF109K01EC7,INF109K01AD3,Open Ended Schemes,Equity Scheme - Value Fund,41.29,20-Feb-2026
-102672,Tata Mutual Fund,Tata Liquid Fund -Regular Plan - Growth Option,INF277K01YD8,,Open Ended Schemes,Debt Scheme - Liquid Fund,4267.0966,20-Feb-2026
+102672,Tata Mutual Fund,Tata Liquid Fund -Regular Plan - Growth Option,INF277K01YD8,,Open Ended Schemes,Debt Scheme - Liquid Fund,4268.4600,22-Feb-2026
 102673,Nippon India Mutual Fund,Nippon India Floater Fund - Growth Plan-Growth Option,INF204K01CG1,,Open Ended Schemes,Debt Scheme - Floater Fund,46.9291,20-Feb-2026
 102675,Nippon India Mutual Fund,NIPPON INDIA FLOATER FUND - MONTHLY IDCW Option,INF204K01CH9,INF204K01CK3,Open Ended Schemes,Debt Scheme - Floater Fund,11.2179,20-Feb-2026
 102676,Nippon India Mutual Fund,NIPPON INDIA FLOATER FUND - DAILY IDCW REINVESTMENT Option,,INF204K01CI7,Open Ended Schemes,Debt Scheme - Floater Fund,10.2978,20-Feb-2026
@@ -2461,8 +2461,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 119841,SBI Mutual Fund,SBI Multi Asset Allocation Fund - Direct Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW),INF200K01UA4,INF200K01UB2,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,33.5667,20-Feb-2026
 119842,SBI Mutual Fund,SBI Multi Asset Allocation Fund - Direct Plan - Quarterly Income Distribution cum Capital Withdrawal Option (IDCW),INF200K01UC0,INF200K01UD8,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,35.5071,20-Feb-2026
 119843,SBI Mutual Fund,SBI MULTI ASSET ALLOCATION FUND - DIRECT PLAN - GROWTH,INF200K01TZ3,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,74.7530,20-Feb-2026
-119861,Tata Mutual Fund,Tata Liquid Fund- Direct Plan-Growth Option,INF277K01YE6,,Open Ended Schemes,Debt Scheme - Liquid Fund,4321.7053,20-Feb-2026
-119862,Tata Mutual Fund,Tata Liquid Fund- Direct Plan - Daily Reinvestment of IDCW Option,,INF277K012D2,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.5187,20-Feb-2026
+119861,Tata Mutual Fund,Tata Liquid Fund- Direct Plan-Growth Option,INF277K01YE6,,Open Ended Schemes,Debt Scheme - Liquid Fund,4323.1137,22-Feb-2026
+119862,Tata Mutual Fund,Tata Liquid Fund- Direct Plan - Daily Reinvestment of IDCW Option,,INF277K012D2,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.5187,22-Feb-2026
 119863,Tata Mutual Fund,Tata Treasury Advantage Fund - Direct Plan - Growth Option,INF277K01OK4,,Open Ended Schemes,Debt Scheme - Low Duration Fund,4204.7257,20-Feb-2026
 119864,Tata Mutual Fund,Tata Treasury Advantage Fund Direct Plan - Daily Reinvestment of IDCW Option,,INF277K018B3,Open Ended Schemes,Debt Scheme - Low Duration Fund,1003.5316,20-Feb-2026
 119865,Tata Mutual Fund,Tata Treasury Advantage Fund Direct Plan - Weekly Payout of IDCW Option,INF277K019B1,INF277K010C8,Open Ended Schemes,Debt Scheme - Low Duration Fund,1008.4558,20-Feb-2026
@@ -9174,10 +9174,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 146974,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 1 (3668 Days) - Direct Plan - Growth,INF200KA1D03,,Close Ended Schemes,Income,17.2945,22-Feb-2026
 146975,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 1 (3668 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1D11,,Close Ended Schemes,Income,17.3099,22-Feb-2026
 146976,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 1 (3668 Days) - Regular Plan - Growth,INF200KA1C87,,Close Ended Schemes,Income,17.0786,22-Feb-2026
-146977,Tata Mutual Fund,Tata Overnight Fund-Regular Plan-Growth,INF277K016T9,,Open Ended Schemes,Debt Scheme - Overnight Fund,1403.0168,20-Feb-2026
-146978,Tata Mutual Fund,TATA Overnight Fund Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option,,INF277K019T3,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.0011,20-Feb-2026
-146979,Tata Mutual Fund,TATA Overnight Fund Regular Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option,,INF277K017T7,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.0010,20-Feb-2026
-146980,Tata Mutual Fund,Tata Overnight Fund-Direct Plan-Growth,INF277K018T5,,Open Ended Schemes,Debt Scheme - Overnight Fund,1413.9872,20-Feb-2026
+146977,Tata Mutual Fund,Tata Overnight Fund-Regular Plan-Growth,INF277K016T9,,Open Ended Schemes,Debt Scheme - Overnight Fund,1403.3875,22-Feb-2026
+146978,Tata Mutual Fund,TATA Overnight Fund Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option,,INF277K019T3,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.0006,22-Feb-2026
+146979,Tata Mutual Fund,TATA Overnight Fund Regular Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option,,INF277K017T7,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.0007,22-Feb-2026
+146980,Tata Mutual Fund,Tata Overnight Fund-Direct Plan-Growth,INF277K018T5,,Open Ended Schemes,Debt Scheme - Overnight Fund,1414.3702,22-Feb-2026
 146981,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 85 - 1140 Days Plan R - Cumulative Option,INF109KC1XU0,,Close Ended Schemes,Income,12.6078,10-May-2022
 146982,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 85 - 1140 Days Plan R - Direct Plan Cumulative Option,INF109KC1XX4,,Close Ended Schemes,Income,12.6843,10-May-2022
 146983,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 85 - 1140 Days Plan R - Quarterly IDCW Option,INF109KC1XV8,,Close Ended Schemes,Income,12.6078,10-May-2022
@@ -13838,8 +13838,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 153683,Kotak Mahindra Mutual Fund,Kotak Nifty AAA Bond Financial Services Mar 2028 Index Fund - Regular Plan - Growth,INF174KA1WV2,,Open Ended Schemes,Other Scheme - Index Funds,10.3373,20-Feb-2026
 153684,ICICI Prudential Mutual Fund,ICICI Prudential Active Momentum Fund - Direct Plan - Growth,INF109K1A385,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,10.77,20-Feb-2026
 153685,ICICI Prudential Mutual Fund,ICICI Prudential Active Momentum Fund - Growth,INF109K1A377,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,10.70,20-Feb-2026
-153688,Tata Mutual Fund,Tata Liquid Fund - Regular Plan - Weekly IDCW Reinvestment,,INF277KA1EF9,Open Ended Schemes,Debt Scheme - Liquid Fund,1034.5853,20-Feb-2026
-153689,Tata Mutual Fund,Tata Liquid Fund - Direct Plan - Weekly IDCW Reinvestment,,INF277KA1EE2,Open Ended Schemes,Debt Scheme - Liquid Fund,1039.0090,20-Feb-2026
+153688,Tata Mutual Fund,Tata Liquid Fund - Regular Plan - Weekly IDCW Reinvestment,,INF277KA1EF9,Open Ended Schemes,Debt Scheme - Liquid Fund,1034.9159,22-Feb-2026
+153689,Tata Mutual Fund,Tata Liquid Fund - Direct Plan - Weekly IDCW Reinvestment,,INF277KA1EE2,Open Ended Schemes,Debt Scheme - Liquid Fund,1039.3476,22-Feb-2026
 153690,Nippon India Mutual Fund,Nippon India MNC Fund- Direct Plan-IDCW Payout,INF204KC1FS5,INF204KC1FT3,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,10.6832,20-Feb-2026
 153691,Nippon India Mutual Fund,Nippon India MNC Fund- Regular Plan-Growth Option,INF204KC1FO4,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,10.6015,20-Feb-2026
 153692,Nippon India Mutual Fund,Nippon India MNC Fund- Regular Plan- IDCW Payout,INF204KC1FP1,INF204KC1FQ9,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,10.6015,20-Feb-2026
