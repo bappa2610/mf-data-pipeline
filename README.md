@@ -192,37 +192,6 @@ All workflows can also be triggered manually via GitHub UI.
 
 ---
 
-## 🧪 Testing
-
-Run tests with pytest:
-
-```
-bash
-pytest Test/ -v
-```
-
-Run with coverage:
-
-```
-bash
-pytest --cov=. Test/
-```
-
-Type checking:
-
-```
-bash
-mypy .
-```
-
-Code linting:
-
-```bash
-flake8 .
-```
-
----
-
 ## 🙏 Acknowledgments
 
 - [MFAPI](https://api.mfapi.in/) - Official AMFI API for Mutual Fund NAV data
