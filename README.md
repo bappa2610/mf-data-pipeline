@@ -223,12 +223,6 @@ flake8 .
 
 ---
 
-## 📝 License
-
-MIT License
-
----
-
 ## 🙏 Acknowledgments
 
 - [MFAPI](https://api.mfapi.in/) - Official AMFI API for Mutual Fund NAV data
