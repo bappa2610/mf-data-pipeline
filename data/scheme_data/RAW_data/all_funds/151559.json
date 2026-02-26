@@ -4,11 +4,15 @@
         "scheme_type": "IL&FS Mutual Fund",
         "scheme_category": "IDF",
         "scheme_code": 151559,
-        "scheme_name": "SBI Fixed Maturity Plan (FMP) - Series 79 (1170 Days) - Direct Plan - Growth",
+        "scheme_name": "SBI Fixed Maturity Plan (FMP) - Series 79 (1130 Days) - Direct Plan - Growth",
         "isin_growth": "INF200KA19W2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "26-02-2026",
+            "nav": "12.35020"
+        },
         {
             "date": "25-02-2026",
             "nav": "12.34820"

@@ -4,11 +4,15 @@
         "scheme_type": "IL&FS Mutual Fund",
         "scheme_category": "IDF",
         "scheme_code": 151557,
-        "scheme_name": "SBI Fixed Maturity Plan (FMP) - Series 79 (1170 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Payout",
+        "scheme_name": "SBI Fixed Maturity Plan (FMP) - Series 79 (1130 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Payout",
         "isin_growth": "INF200KA18W4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "26-02-2026",
+            "nav": "12.30660"
+        },
         {
             "date": "25-02-2026",
             "nav": "12.30470"
