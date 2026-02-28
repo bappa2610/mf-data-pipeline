@@ -283,7 +283,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 101199,LIC Mutual Fund,LIC MF BSE Sensex Index Fund-Regular Plan-Growth,INF767K01139,,Open Ended Schemes,Other Scheme - Index Funds,151.659,27-Feb-2026
 101200,LIC Mutual Fund,LIC MF Nifty 50 Index Fund-Regular Plan-IDCW,INF767K01154,INF767K01147,Open Ended Schemes,Other Scheme - Index Funds,51.2167,27-Feb-2026
 101201,LIC Mutual Fund,LIC MF Nifty 50 Index Fund-Regular Plan-Growth,INF767K01162,,Open Ended Schemes,Other Scheme - Index Funds,138.8373,27-Feb-2026
-101206,SBI Mutual Fund,SBI OVERNIGHT FUND - REGULAR PLAN - GROWTH,INF200K01LQ9,,Open Ended Schemes,Debt Scheme - Overnight Fund,4302.2887,28-Feb-2026
+101206,SBI Mutual Fund,SBI OVERNIGHT FUND - REGULAR PLAN - GROWTH,INF200K01LQ9,,Open Ended Schemes,Debt Scheme - Overnight Fund,4302.8573,01-Mar-2026
 101209,Taurus Mutual Fund,Taurus Large Cap Fund - Regular Plan - Growth,INF044D01773,,Open Ended Schemes,Equity Scheme - Large Cap Fund,158.16,27-Feb-2026
 101221,ICICI Prudential Mutual Fund,ICICI Prudential Money Market Fund Retail Growth (erstwhile Cash Option),INF109K01TW3,,Open Ended Schemes,Debt Scheme - Money Market Fund,306.6704,24-Apr-2020
 101222,Tata Mutual Fund,Tata Aggressive Hybrid Fund- Regular Plan - Periodic Payout of IDCW Option,INF277K01DB6,INF277K01295,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund,89.7471,27-Feb-2026
@@ -630,7 +630,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 103114,SBI Mutual Fund,SBI MNC Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200K01255,INF200K01263,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,109.6308,28-Feb-2026
 103130,HDFC Mutual Fund,HDFC Multi-Asset Fund - IDCW Option,INF179K01AN5,INF179K01AO3,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,17.436,27-Feb-2026
 103131,HDFC Mutual Fund,HDFC Multi-Asset Fund - Growth Option,INF179K01AP0,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,76.615,27-Feb-2026
-103140,SBI Mutual Fund,SBI Overnight Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW),INF200K01LO4,INF200K01LP1,Open Ended Schemes,Debt Scheme - Overnight Fund,1375.8564,28-Feb-2026
+103140,SBI Mutual Fund,SBI Overnight Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW),INF200K01LO4,INF200K01LP1,Open Ended Schemes,Debt Scheme - Overnight Fund,1376.0382,01-Mar-2026
 103145,SBI Mutual Fund,SBI COMMA Fund - REGULAR PLAN - Growth,INF200K01339,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,115.0367,28-Feb-2026
 103146,SBI Mutual Fund,SBI Comma Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200K01313,INF200K01321,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,65.2961,28-Feb-2026
 103149,ICICI Prudential Mutual Fund,ICICI Prudential Infrastructure Fund - Growth,INF109K01AV5,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,196.60,27-Feb-2026
@@ -677,9 +677,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 103342,ICICI Prudential Mutual Fund,ICICI Prudential Liquid Fund - Weekly IDCW,INF109K01VS7,,Open Ended Schemes,Debt Scheme - Liquid Fund,100.2503,01-Mar-2026
 103343,ICICI Prudential Mutual Fund,ICICI Prudential Liquid Fund - Daily IDCW,INF109K01VP3,,Open Ended Schemes,Debt Scheme - Liquid Fund,100.1482,01-Mar-2026
 103344,ICICI Prudential Mutual Fund,ICICI Prudential Liquid Fund - Institutional Option - I,INF109K01VH0,,Open Ended Schemes,Debt Scheme - Liquid Fund,275.6151,24-Apr-2020
-103347,DSP Mutual Fund,DSP Liquidity Fund - Regular Plan - Growth,INF740K01FK9,,Open Ended Schemes,Debt Scheme - Liquid Fund,3873.5286,28-Feb-2026
-103348,DSP Mutual Fund,DSP Liquidity Fund - Regular Plan - IDCW - Weekly,INF740K01FM5,INF740K01FL7,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.5071,28-Feb-2026
-103349,DSP Mutual Fund,DSP Liquidity Fund- Regular Plan - IDCW - Daily,,INF740KA1OE0,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.3237,28-Feb-2026
+103347,DSP Mutual Fund,DSP Liquidity Fund - Regular Plan - Growth,INF740K01FK9,,Open Ended Schemes,Debt Scheme - Liquid Fund,3874.1848,01-Mar-2026
+103348,DSP Mutual Fund,DSP Liquidity Fund - Regular Plan - IDCW - Weekly,INF740K01FM5,INF740K01FL7,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.6768,01-Mar-2026
+103349,DSP Mutual Fund,DSP Liquidity Fund- Regular Plan - IDCW - Daily,,INF740KA1OE0,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.1542,01-Mar-2026
 103360,Franklin Templeton Mutual Fund,Franklin India Small Cap Fund-Growth,INF090I01569,,Open Ended Schemes,Equity Scheme - Small Cap Fund,160.4360,27-Feb-2026
 103361,Franklin Templeton Mutual Fund,Franklin India Small Cap Fund - IDCW,INF090I01544,INF090I01551,Open Ended Schemes,Equity Scheme - Small Cap Fund,40.1051,27-Feb-2026
 103389,Canara Robeco Mutual Fund,CANARA ROBECO INFRASTRUCTURE FUND - REGULAR PLAN - IDCW (Payout/Reinvestment),INF760K01258,INF760K01266,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,63.3700,27-Feb-2026
@@ -774,12 +774,12 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 105229,Nippon India Mutual Fund,Nippon India Interval Fund-Monthly Interval Fund-Series-I- Growth Option,INF204K01CV0,,Interval Fund Schemes,Income,32.9600,22-Apr-2025
 105230,Nippon India Mutual Fund,NIPPON INDIA MONTHLY INTERVAL FUND - SERIES I - IDCW Option,INF204K01CW8,INF204K01CX6,Interval Fund Schemes,Income,10.0112,22-Apr-2025
 105232,Nippon India Mutual Fund,Nippon India Interval Fund-Monthly Interval Fund-Series-I-Institutional Plan-Dividend Option,INF204K01CZ1,INF204K01DA2,Interval Fund Schemes,Income,10.0033,17-Sep-2019
-105274,SBI Mutual Fund,SBI Liquid Fund - Institutional - Growth,INF200K01LU1,,Open Ended Schemes,Debt Scheme - Liquid Fund,4278.2610,28-Feb-2026
-105275,SBI Mutual Fund,SBI Liquid Fund - Institutional Daily Income Distribution cum Capital Withdrawal Option (IDCW),,INF200K01LR7,Open Ended Schemes,Debt Scheme - Liquid Fund,1374.4429,28-Feb-2026
-105280,SBI Mutual Fund,SBI Liquid Fund - REGULAR PLAN -Growth,INF200K01MA1,,Open Ended Schemes,Debt Scheme - Liquid Fund,4238.1628,28-Feb-2026
-105281,SBI Mutual Fund,SBI Liquid Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW),,INF200K01LX5,Open Ended Schemes,Debt Scheme - Liquid Fund,1140.9224,28-Feb-2026
-105282,SBI Mutual Fund,SBI Liquid Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW),INF200K01MB9,INF200K01MC7,Open Ended Schemes,Debt Scheme - Liquid Fund,1378.8275,28-Feb-2026
-105283,SBI Mutual Fund,SBI Liquid Fund - Regular Plan - Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW),INF200K01LY3,INF200K01LZ0,Open Ended Schemes,Debt Scheme - Liquid Fund,1390.8854,28-Feb-2026
+105274,SBI Mutual Fund,SBI Liquid Fund - Institutional - Growth,INF200K01LU1,,Open Ended Schemes,Debt Scheme - Liquid Fund,4278.9467,01-Mar-2026
+105275,SBI Mutual Fund,SBI Liquid Fund - Institutional Daily Income Distribution cum Capital Withdrawal Option (IDCW),,INF200K01LR7,Open Ended Schemes,Debt Scheme - Liquid Fund,1374.6633,01-Mar-2026
+105280,SBI Mutual Fund,SBI Liquid Fund - REGULAR PLAN -Growth,INF200K01MA1,,Open Ended Schemes,Debt Scheme - Liquid Fund,4238.8422,01-Mar-2026
+105281,SBI Mutual Fund,SBI Liquid Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW),,INF200K01LX5,Open Ended Schemes,Debt Scheme - Liquid Fund,1140.7391,01-Mar-2026
+105282,SBI Mutual Fund,SBI Liquid Fund - Regular Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW),INF200K01MB9,INF200K01MC7,Open Ended Schemes,Debt Scheme - Liquid Fund,1379.0485,01-Mar-2026
+105283,SBI Mutual Fund,SBI Liquid Fund - Regular Plan - Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW),INF200K01LY3,INF200K01LZ0,Open Ended Schemes,Debt Scheme - Liquid Fund,1391.1084,01-Mar-2026
 105400,Nippon India Mutual Fund,Nippon India Interval Fund-Monthly Interval Fund-Series-II -Growth Option,INF204K01DB0,,Interval Fund Schemes,Income,32.7484,22-Apr-2025
 105401,Nippon India Mutual Fund,NIPPON INDIA MONTHLY INTERVAL FUND - SERIES II - IDCW Option,INF204K01DC8,INF204K01DD6,Interval Fund Schemes,Income,10.0282,22-Apr-2025
 105402,Nippon India Mutual Fund,Nippon India Interval Fund-Monthly Interval Fund-Series-II-Institutional Plan-Dividend Option,INF204K01DF1,INF204K01DG9,Interval Fund Schemes,Income,10.0291,17-Sep-2019
@@ -1325,10 +1325,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 112153,Canara Robeco Mutual Fund,CANARA ROBECO CONSUMER TRENDS FUND - REGULAR PLAN - IDCW (Payout/Reinvestment),INF760K01225,INF760K01233,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,45.4800,27-Feb-2026
 112171,Invesco Mutual Fund,Invesco India PSU Equity Fund - Regular Plan - Growth,INF205K01338,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,68.32,27-Feb-2026
 112173,Invesco Mutual Fund,Invesco India PSU Equity Fund - Regular Plan - IDCW (Payout / Reinvestment),INF205K01353,INF205K01346,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,45.2,27-Feb-2026
-112210,Axis Mutual Fund,Axis Liquid Fund - Regular Plan - Growth Option,INF846K01412,,Open Ended Schemes,Debt Scheme - Liquid Fund,3021.1354,28-Feb-2026
-112211,Axis Mutual Fund,Axis Liquid Fund - Regular Plan - Daily IDCW,,INF846K01420,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.3998,28-Feb-2026
-112212,Axis Mutual Fund,Axis Liquid Fund - Regular Plan - Weekly IDCW,INF846K01438,INF846K01446,Open Ended Schemes,Debt Scheme - Liquid Fund,1002.8830,28-Feb-2026
-112213,Axis Mutual Fund,Axis Liquid Fund - Regular Plan - Monthly IDCW,INF846K01453,INF846K01461,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.7753,28-Feb-2026
+112210,Axis Mutual Fund,Axis Liquid Fund - Regular Plan - Growth Option,INF846K01412,,Open Ended Schemes,Debt Scheme - Liquid Fund,3021.6418,01-Mar-2026
+112211,Axis Mutual Fund,Axis Liquid Fund - Regular Plan - Daily IDCW,,INF846K01420,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.3998,01-Mar-2026
+112212,Axis Mutual Fund,Axis Liquid Fund - Regular Plan - Weekly IDCW,INF846K01438,INF846K01446,Open Ended Schemes,Debt Scheme - Liquid Fund,1003.0512,01-Mar-2026
+112213,Axis Mutual Fund,Axis Liquid Fund - Regular Plan - Monthly IDCW,INF846K01453,INF846K01461,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.9432,01-Mar-2026
 112214,Axis Mutual Fund,Axis Treasury Advantage Fund - Regular Plan - Growth Option,INF846K01537,,Open Ended Schemes,Debt Scheme - Low Duration Fund,3223.0622,28-Feb-2026
 112215,Axis Mutual Fund,Axis Treasury Advantage Fund - Regular Plan - Daily IDCW,,INF846K01545,Open Ended Schemes,Debt Scheme - Low Duration Fund,1013.4316,28-Feb-2026
 112216,Axis Mutual Fund,Axis Treasury Advantage Fund - Regular Plan - Weekly IDCW,INF846K01552,INF846K01560,Open Ended Schemes,Debt Scheme - Low Duration Fund,1012.6971,28-Feb-2026
@@ -1370,10 +1370,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 112645,Navi Mutual Fund,Navi Liquid Fund - Regular Plan Daily IDCW,,INF959L01GM7,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0129,01-Mar-2026
 112646,Navi Mutual Fund,Navi Liquid Fund - Regular Plan Weekly IDCW,INF959L01GP0,INF959L01GQ8,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0137,01-Mar-2026
 112647,Navi Mutual Fund,Navi Liquid Fund - Regular Plan Monthly IDCW,INF959L01GN5,INF959L01GO3,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0156,01-Mar-2026
-112712,Axis Mutual Fund,Axis Liquid Fund - Retail Plan - Daily IDCW,,INF846K01362,Open Ended Schemes,Debt Scheme - Liquid Fund,1000.9559,28-Feb-2026
-112713,Axis Mutual Fund,Axis Liquid Fund - Retail Plan - Growth Option,INF846K01354,,Open Ended Schemes,Debt Scheme - Liquid Fund,2757.4213,28-Feb-2026
-112714,Axis Mutual Fund,Axis Liquid Fund - Retail Plan - Monthly IDCW,INF846K01396,INF846K01404,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.1038,28-Feb-2026
-112715,Axis Mutual Fund,Axis Liquid Fund - Retail Plan - Weekly IDCW,INF846K01370,INF846K01388,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.5686,28-Feb-2026
+112712,Axis Mutual Fund,Axis Liquid Fund - Retail Plan - Daily IDCW,,INF846K01362,Open Ended Schemes,Debt Scheme - Liquid Fund,1000.9559,01-Mar-2026
+112713,Axis Mutual Fund,Axis Liquid Fund - Retail Plan - Growth Option,INF846K01354,,Open Ended Schemes,Debt Scheme - Liquid Fund,2757.8465,01-Mar-2026
+112714,Axis Mutual Fund,Axis Liquid Fund - Retail Plan - Monthly IDCW,INF846K01396,INF846K01404,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.2589,01-Mar-2026
+112715,Axis Mutual Fund,Axis Liquid Fund - Retail Plan - Weekly IDCW,INF846K01370,INF846K01388,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.7647,01-Mar-2026
 112717,Axis Mutual Fund,Axis Treasury Advantage Fund - Retail Plan - Growth Option,INF846K01479,,Open Ended Schemes,Debt Scheme - Low Duration Fund,3021.8005,28-Feb-2026
 112718,Axis Mutual Fund,Axis Treasury Advantage Fund - Retail Plan - Monthly IDCW,INF846K01511,INF846K01529,Open Ended Schemes,Debt Scheme - Low Duration Fund,1010.2723,28-Feb-2026
 112719,Axis Mutual Fund,Axis Treasury Advantage Fund - Retail Plan - Weekly IDCW,INF846K01495,INF846K01503,Open Ended Schemes,Debt Scheme - Low Duration Fund,1012.6967,28-Feb-2026
@@ -1466,7 +1466,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 114241,ICICI Prudential Mutual Fund,ICICI Prudential Credit Risk Fund - Half Yearly IDCW,INF109K01GX8,INF109K01GY6,Open Ended Schemes,Debt Scheme - Credit Risk Fund,10.5892,16-Sep-2022
 114251,Nippon India Mutual Fund,Reliance Liquid Fund-Cash Plan-Monthly Dividend Plan,,,Open Ended Schemes,Debt Scheme - Liquid Fund,1004.4865,20-May-2018
 114252,Nippon India Mutual Fund,Reliance Liquid Fund-Cash Plan-Quarterly Dividend Plan,,,Open Ended Schemes,Debt Scheme - Liquid Fund,1013.8310,20-May-2018
-114297,SBI Mutual Fund,SBI Overnight Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW),,INF200K01LN6,Open Ended Schemes,Debt Scheme - Overnight Fund,1347.4669,28-Feb-2026
+114297,SBI Mutual Fund,SBI Overnight Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW),,INF200K01LN6,Open Ended Schemes,Debt Scheme - Overnight Fund,1347.6450,01-Mar-2026
 114348,SBI Mutual Fund,SBI Savings Fund - Regular Plan Daily Income Distribution cum Capital Withdrawal Option (IDCW),,INF200KA1K20,Open Ended Schemes,Debt Scheme - Money Market Fund,14.0478,28-Feb-2026
 114359,Invesco Mutual Fund,Invesco India Ultra Short Duration Fund - Regular Plan - Growth,INF205K01TM0,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund,2799.1907,27-Feb-2026
 114360,Invesco Mutual Fund,Invesco India Ultra Short Duration Fund - Regular Plan - Quarterly IDCW (Payout / Reinvestment),INF205K01TP3,INF205K01TQ1,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund,1086.6038,27-Feb-2026
@@ -2133,9 +2133,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 119118,HDFC Mutual Fund,HDFC Hybrid Debt Fund - Growth Option - Direct Plan,INF179K01XE6,,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund,89.5294,27-Feb-2026
 119119,HDFC Mutual Fund,HDFC Hybrid Debt Fund - IDCW Monthly - Direct Plan,INF179K01XF3,INF179K01XG1,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund,15.5867,27-Feb-2026
 119120,HDFC Mutual Fund,HDFC Hybrid Debt Fund - IDCW Quarterly - Direct Plan,INF179K01XH9,INF179K01XI7,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund,16.5809,27-Feb-2026
-119123,DSP Mutual Fund,DSP Liquidity Fund - Direct Plan - IDCW - Weekly,INF740KA1OC4,INF740KA1OD2,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.5121,28-Feb-2026
-119124,DSP Mutual Fund,DSP Liquidity Fund - Direct Plan - IDCW - Daily,,INF740KA1OB6,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.3265,28-Feb-2026
-119125,DSP Mutual Fund,DSP Liquidity Fund - Direct Plan - Growth,INF740K01QL4,,Open Ended Schemes,Debt Scheme - Liquid Fund,3920.3944,28-Feb-2026
+119123,DSP Mutual Fund,DSP Liquidity Fund - Direct Plan - IDCW - Weekly,INF740KA1OC4,INF740KA1OD2,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.6842,01-Mar-2026
+119124,DSP Mutual Fund,DSP Liquidity Fund - Direct Plan - IDCW - Daily,,INF740KA1OB6,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.1542,01-Mar-2026
+119125,DSP Mutual Fund,DSP Liquidity Fund - Direct Plan - Growth,INF740K01QL4,,Open Ended Schemes,Debt Scheme - Liquid Fund,3921.0681,01-Mar-2026
 119126,Tata Mutual Fund,Tata Medium Term Fund- Direct Plan - Payout of IDCW Option,INF277K01PG9,INF277K01PH7,Open Ended Schemes,Debt Scheme - Medium Duration Fund,15.2302,23-Sep-2022
 119127,Tata Mutual Fund,Tata Medium Term Fund- Direct Plan- Growth Option,INF277K01PI5,,Open Ended Schemes,Debt Scheme - Medium Duration Fund,32.7645,23-Sep-2022
 119128,HDFC Mutual Fund,HDFC Equity Savings Fund - Growth Option - Direct Plan,INF179K01XT4,,Open Ended Schemes,Hybrid Scheme - Equity Savings,76.424,27-Feb-2026
@@ -2425,10 +2425,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 119792,SBI Mutual Fund,SBI Credit Risk Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW),,INF200K01SS0,Open Ended Schemes,Debt Scheme - Credit Risk Fund,16.3900,28-Feb-2026
 119793,SBI Mutual Fund,SBI Credit Risk Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200K01ST8,INF200K01SU6,Open Ended Schemes,Debt Scheme - Credit Risk Fund,24.0368,28-Feb-2026
 119798,SBI Mutual Fund,SBI CREDIT RISK FUND - DIRECT PLAN -GROWTH,INF200K01SV4,,Open Ended Schemes,Debt Scheme - Credit Risk Fund,51.6523,28-Feb-2026
-119799,SBI Mutual Fund,SBI Liquid Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW),INF200K01UU2,INF200K01UV0,Open Ended Schemes,Debt Scheme - Liquid Fund,1385.7232,28-Feb-2026
-119800,SBI Mutual Fund,SBI Liquid Fund - DIRECT PLAN -Growth,INF200K01UT4,,Open Ended Schemes,Debt Scheme - Liquid Fund,4284.4565,28-Feb-2026
-119804,SBI Mutual Fund,SBI Liquid Fund - Direct Paln - Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW),INF200K01UR8,INF200K01US6,Open Ended Schemes,Debt Scheme - Liquid Fund,1399.0901,28-Feb-2026
-119805,SBI Mutual Fund,SBI Liquid Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW),,INF200K01UQ0,Open Ended Schemes,Debt Scheme - Liquid Fund,1144.2350,28-Feb-2026
+119799,SBI Mutual Fund,SBI Liquid Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW),INF200K01UU2,INF200K01UV0,Open Ended Schemes,Debt Scheme - Liquid Fund,1385.9488,01-Mar-2026
+119800,SBI Mutual Fund,SBI Liquid Fund - DIRECT PLAN -Growth,INF200K01UT4,,Open Ended Schemes,Debt Scheme - Liquid Fund,4285.1540,01-Mar-2026
+119804,SBI Mutual Fund,SBI Liquid Fund - Direct Paln - Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW),INF200K01UR8,INF200K01US6,Open Ended Schemes,Debt Scheme - Liquid Fund,1399.3178,01-Mar-2026
+119805,SBI Mutual Fund,SBI Liquid Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW),,INF200K01UQ0,Open Ended Schemes,Debt Scheme - Liquid Fund,1144.0484,01-Mar-2026
 119810,SBI Mutual Fund,SBI Low Duration Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW),,INF200K01VJ3,Open Ended Schemes,Debt Scheme - Low Duration Fund,1458.9043,28-Feb-2026
 119811,SBI Mutual Fund,SBI Low Duration Fund - Direct Plan - Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW),INF200K01VK1,INF200K01VL9,Open Ended Schemes,Debt Scheme - Low Duration Fund,1484.4084,28-Feb-2026
 119812,SBI Mutual Fund,SBI LOW DURATION FUND - DIRECT PLAN - GROWTH,INF200K01VM7,,Open Ended Schemes,Debt Scheme - Low Duration Fund,3784.5603,28-Feb-2026
@@ -2448,9 +2448,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 119827,SBI Mutual Fund,SBI NIFTY INDEX FUND - DIRECT PLAN - GROWTH,INF200K01TE8,,Open Ended Schemes,Other Scheme - Index Funds,234.0098,28-Feb-2026
 119828,SBI Mutual Fund,SBI ULTRA SHORT DURATION FUND - DIRECT PLAN - GROWTH,INF200K01TF5,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund,6331.4747,28-Feb-2026
 119829,SBI Mutual Fund,SBI Ultra Short Duration Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW),INF200K01TH1,INF200K01TI9,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund,1272.8100,28-Feb-2026
-119831,SBI Mutual Fund,SBI Overnight Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW),,INF200K01TJ7,Open Ended Schemes,Debt Scheme - Overnight Fund,1353.4300,28-Feb-2026
-119832,SBI Mutual Fund,SBI Overnight Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW),INF200K01TL3,INF200K01TM1,Open Ended Schemes,Debt Scheme - Overnight Fund,1382.0443,28-Feb-2026
-119833,SBI Mutual Fund,SBI OVERNIGHT FUND - DIRECT PLAN - GROWTH,INF200K01TK5,,Open Ended Schemes,Debt Scheme - Overnight Fund,4360.4447,28-Feb-2026
+119831,SBI Mutual Fund,SBI Overnight Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW),,INF200K01TJ7,Open Ended Schemes,Debt Scheme - Overnight Fund,1353.6111,01-Mar-2026
+119832,SBI Mutual Fund,SBI Overnight Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW),INF200K01TL3,INF200K01TM1,Open Ended Schemes,Debt Scheme - Overnight Fund,1382.2292,01-Mar-2026
+119833,SBI Mutual Fund,SBI OVERNIGHT FUND - DIRECT PLAN - GROWTH,INF200K01TK5,,Open Ended Schemes,Debt Scheme - Overnight Fund,4361.0282,01-Mar-2026
 119834,SBI Mutual Fund,SBI Focused Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200K01RH5,INF200K01RI3,Open Ended Schemes,Equity Scheme - Focused Fund,102.4072,28-Feb-2026
 119835,SBI Mutual Fund,SBI CONTRA FUND - DIRECT PLAN - GROWTH,INF200K01RA0,,Open Ended Schemes,Equity Scheme - Contra Fund,428.9918,28-Feb-2026
 119836,SBI Mutual Fund,SBI Conservative Hybrid Fund  - Direct Plan - Quarterly Income Distribution cum Capital Withdrawal Option (IDCW),INF200K01TV2,INF200K01TW0,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund,25.0094,28-Feb-2026
@@ -2599,10 +2599,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 120381,ICICI Prudential Mutual Fund,ICICI Prudential MidCap Fund - Direct Plan -  Growth,INF109K011N7,,Open Ended Schemes,Equity Scheme - Mid Cap Fund,360.56,27-Feb-2026
 120384,Invesco Mutual Fund,Invesco India Financial Services Fund - Direct Plan - IDCW (Payout / Reinvestment),INF205K01KW8,INF205K01KX6,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,90.52,27-Feb-2026
 120385,Invesco Mutual Fund,Invesco India Financial Services Fund - Direct Plan - Growth,INF205K01KY4,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,175.88,27-Feb-2026
-120388,Axis Mutual Fund,Axis Liquid Fund - Direct Plan - Daily IDCW,,INF846K01DA0,Open Ended Schemes,Debt Scheme - Liquid Fund,1000.9560,28-Feb-2026
-120389,Axis Mutual Fund,Axis Liquid Fund - Direct Plan - Growth Option,INF846K01CX4,,Open Ended Schemes,Debt Scheme - Liquid Fund,3048.9552,28-Feb-2026
-120390,Axis Mutual Fund,Axis Liquid Fund - Direct Plan - Weekly IDCW,INF846K01DB8,INF846K01DC6,Open Ended Schemes,Debt Scheme - Liquid Fund,1002.8971,28-Feb-2026
-120391,Axis Mutual Fund,Axis Liquid Fund - Direct Plan - Monthly IDCW,INF846K01CY2,INF846K01CZ9,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.1929,28-Feb-2026
+120388,Axis Mutual Fund,Axis Liquid Fund - Direct Plan - Daily IDCW,,INF846K01DA0,Open Ended Schemes,Debt Scheme - Liquid Fund,1000.9560,01-Mar-2026
+120389,Axis Mutual Fund,Axis Liquid Fund - Direct Plan - Growth Option,INF846K01CX4,,Open Ended Schemes,Debt Scheme - Liquid Fund,3049.4747,01-Mar-2026
+120390,Axis Mutual Fund,Axis Liquid Fund - Direct Plan - Weekly IDCW,INF846K01DB8,INF846K01DC6,Open Ended Schemes,Debt Scheme - Liquid Fund,1003.0680,01-Mar-2026
+120391,Axis Mutual Fund,Axis Liquid Fund - Direct Plan - Monthly IDCW,INF846K01CY2,INF846K01CZ9,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.3635,01-Mar-2026
 120392,Invesco Mutual Fund,Invesco India Largecap Fund - Direct Plan - Growth,INF205K01LB0,,Open Ended Schemes,Equity Scheme - Large Cap Fund,83.28,27-Feb-2026
 120393,Invesco Mutual Fund,Invesco India Largecap Fund - Direct Plan - IDCW (Payout / Reinvestment),INF205K01KZ1,INF205K01LA2,Open Ended Schemes,Equity Scheme - Large Cap Fund,36.88,27-Feb-2026
 120394,Invesco Mutual Fund,Invesco India PSU Equity Fund - Direct Plan - IDCW (Payout / Reinvestment),INF205K01NE0,INF205K01NF7,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,55.09,27-Feb-2026
@@ -7341,7 +7341,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 142586,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 82 - 1185 Days Plan N - Direct Plan Quarterly IDCW Option,INF109KC1AE2,,Close Ended Schemes,Income,12.6638,04-Jun-2021
 142587,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 82 - 1185 Days Plan N - Half Yearly IDCW Option,INF109KC1AA0,,Close Ended Schemes,Income,12.5961,04-Jun-2021
 142588,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 82 - 1185 Days Plan N - Direct Plan Half Yearly IDCW Option,INF109KC1AD4,,Close Ended Schemes,Income,12.6671,04-Jun-2021
-142589,DSP Mutual Fund,DSP NIFTY 1D Rate Liquid ETF,,INF740KA1EU7,Open Ended Schemes,Other Scheme - Other  ETFs,1000,27-Feb-2026
+142589,DSP Mutual Fund,DSP NIFTY 1D Rate Liquid ETF,,INF740KA1EU7,Open Ended Schemes,Other Scheme - Other  ETFs,1000.0000,01-Mar-2026
 142634,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - series 82 - 103 Days Plan O - Direct Plan Dividend Option,INF109KC1AI3,,Close Ended Schemes,Income,10.2120,18-Jun-2018
 142635,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - series 82 - 103 Days Plan O - Dividend Option,INF109KC1AG7,,Close Ended Schemes,Income,10.2062,18-Jun-2018
 142637,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 82 - 103 Days Plan O - Cumulative Option,INF109KC1AF9,,Close Ended Schemes,Income,10.2062,18-Jun-2018
@@ -8763,12 +8763,12 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 146057,HDFC Mutual Fund,HDFC FMP 1190D January 2019 (1) - Quarterly IDCW Option - Direct Plan,INF179KC1080,,Close Ended Schemes,Income,10,12-Apr-2022
 146058,HDFC Mutual Fund,HDFC FMP 1190D January 2019 (1) - Growth Option,INF179KC1098,,Close Ended Schemes,Income,12.7474,12-Apr-2022
 146059,HDFC Mutual Fund,HDFC FMP 1190D January 2019 (1) - Quarterly IDCW Option,INF179KC1114,,Close Ended Schemes,Income,10,12-Apr-2022
-146061,DSP Mutual Fund,DSP Overnight Fund - Regular Plan - Growth,INF740KA1MB0,,Open Ended Schemes,Debt Scheme - Overnight Fund,1428.1966,28-Feb-2026
-146062,DSP Mutual Fund,DSP Overnight Fund - Direct Plan - Growth,INF740KA1MC8,,Open Ended Schemes,Debt Scheme - Overnight Fund,1436.4100,28-Feb-2026
-146063,DSP Mutual Fund,DSP Overnight Fund - Regular Plan - IDCW - Weekly,INF740KA1OV4,INF740KA1OW2,Open Ended Schemes,Debt Scheme - Overnight Fund,1001.1952,28-Feb-2026
+146061,DSP Mutual Fund,DSP Overnight Fund - Regular Plan - Growth,INF740KA1MB0,,Open Ended Schemes,Debt Scheme - Overnight Fund,1428.3896,01-Mar-2026
+146062,DSP Mutual Fund,DSP Overnight Fund - Direct Plan - Growth,INF740KA1MC8,,Open Ended Schemes,Debt Scheme - Overnight Fund,1436.6063,01-Mar-2026
+146063,DSP Mutual Fund,DSP Overnight Fund - Regular Plan - IDCW - Weekly,INF740KA1OV4,INF740KA1OW2,Open Ended Schemes,Debt Scheme - Overnight Fund,1001.3386,01-Mar-2026
 146064,DSP Mutual Fund,DSP Overnight Fund - Direct Plan - IDCW - Weekly,INF740KA1OS0,INF740KA1OT8,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.8946,22-May-2023
-146065,DSP Mutual Fund,DSP Overnight Fund - Direct Plan - IDCW - Daily,,INF740KA1OR2,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.1459,28-Feb-2026
-146066,DSP Mutual Fund,DSP Overnight Fund - Regular Plan - IDCW - Daily,,INF740KA1OU6,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.1114,28-Feb-2026
+146065,DSP Mutual Fund,DSP Overnight Fund - Direct Plan - IDCW - Daily,,INF740KA1OR2,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.0099,01-Mar-2026
+146066,DSP Mutual Fund,DSP Overnight Fund - Regular Plan - IDCW - Daily,,INF740KA1OU6,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.0099,01-Mar-2026
 146067,Tata Mutual Fund,TATA Ultra Short Term Fund-Direct Plan - Weekly Payout of Income Distribution cum capital withdrawal option,INF277K014T4,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund,10.4091,27-Feb-2026
 146068,Tata Mutual Fund,TATA Ultra Short Term Fund Direct Plan - Weekly Reinvestment of Income Distribution cum capital withdrawal option,,INF277K015T1,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund,10.4091,27-Feb-2026
 146069,Tata Mutual Fund,TATA Ultra Short Term Fund-Direct Plan - Monthly Payout of Income Distribution cum capital withdrawal option,INF277K012T8,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund,15.5489,27-Feb-2026
@@ -9043,14 +9043,14 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 146671,Nippon India Mutual Fund,NIPPON INDIA FIXED HORIZON FUND - XLI - SERIES 1 - DIRECT Plan - IDCW Option,INF204KB1Z07,,Close Ended Schemes,Income,12.5867,29-Apr-2022
 146672,Nippon India Mutual Fund,Nippon India Fixed Horizon Fund XLI - Series 1 - Direct Plan - Growth Option,INF204KB1Y99,,Close Ended Schemes,Income,12.5867,29-Apr-2022
 146673,Nippon India Mutual Fund,Nippon India Fixed Horizon Fund XLI - Series 1 - Growth Option,INF204KB1Y73,,Close Ended Schemes,Income,12.5474,29-Apr-2022
-146675,Axis Mutual Fund,Axis Overnight Fund - Direct Plan - Growth Option,INF846K01N65,,Open Ended Schemes,Debt Scheme - Overnight Fund,1419.3791,28-Feb-2026
-146676,Axis Mutual Fund,Axis Overnight Fund - Direct Plan - Weekly IDCW,INF846K01N40,INF846K01N57,Open Ended Schemes,Debt Scheme - Overnight Fund,1001.3748,28-Feb-2026
-146677,Axis Mutual Fund,Axis Overnight Fund - Direct Plan - Monthly IDCW,INF846K01N73,INF846K01N81,Open Ended Schemes,Debt Scheme - Overnight Fund,1001.2541,28-Feb-2026
-146678,Axis Mutual Fund,Axis Overnight Fund - Regular Plan - Growth Option,INF846K01O23,,Open Ended Schemes,Debt Scheme - Overnight Fund,1414.1748,28-Feb-2026
-146679,Axis Mutual Fund,Axis Overnight Fund - Direct Plan - Daily IDCW,,INF846K01N99,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.5073,28-Feb-2026
-146680,Axis Mutual Fund,Axis Overnight Fund - Regular Plan - Weekly IDCW,INF846K01O07,INF846K01O15,Open Ended Schemes,Debt Scheme - Overnight Fund,1001.3338,28-Feb-2026
-146681,Axis Mutual Fund,Axis Overnight Fund - Regular Plan - Monthly IDCW,INF846K01O31,INF846K01O49,Open Ended Schemes,Debt Scheme - Overnight Fund,1001.2425,28-Feb-2026
-146682,Axis Mutual Fund,Axis Overnight Fund - Regular Plan - Daily IDCW,,INF846K01O56,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.5032,28-Feb-2026
+146675,Axis Mutual Fund,Axis Overnight Fund - Direct Plan - Growth Option,INF846K01N65,,Open Ended Schemes,Debt Scheme - Overnight Fund,1419.5728,01-Mar-2026
+146676,Axis Mutual Fund,Axis Overnight Fund - Direct Plan - Weekly IDCW,INF846K01N40,INF846K01N57,Open Ended Schemes,Debt Scheme - Overnight Fund,1001.5114,01-Mar-2026
+146677,Axis Mutual Fund,Axis Overnight Fund - Direct Plan - Monthly IDCW,INF846K01N73,INF846K01N81,Open Ended Schemes,Debt Scheme - Overnight Fund,1001.3907,01-Mar-2026
+146678,Axis Mutual Fund,Axis Overnight Fund - Regular Plan - Growth Option,INF846K01O23,,Open Ended Schemes,Debt Scheme - Overnight Fund,1414.3661,01-Mar-2026
+146679,Axis Mutual Fund,Axis Overnight Fund - Direct Plan - Daily IDCW,,INF846K01N99,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.5073,01-Mar-2026
+146680,Axis Mutual Fund,Axis Overnight Fund - Regular Plan - Weekly IDCW,INF846K01O07,INF846K01O15,Open Ended Schemes,Debt Scheme - Overnight Fund,1001.4693,01-Mar-2026
+146681,Axis Mutual Fund,Axis Overnight Fund - Regular Plan - Monthly IDCW,INF846K01O31,INF846K01O49,Open Ended Schemes,Debt Scheme - Overnight Fund,1001.3780,01-Mar-2026
+146682,Axis Mutual Fund,Axis Overnight Fund - Regular Plan - Daily IDCW,,INF846K01O56,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.5032,01-Mar-2026
 146695,Bandhan Mutual Fund,BANDHAN Fixed Term Plan Series 179 REGULAR PLAN-GROWTH (3652 days),INF194KB1736,,Close Ended Schemes,Income,17.4288,28-Feb-2026
 146699,Bandhan Mutual Fund,BANDHAN Fixed Term Plan Series 179 DIRECT PLAN HALF YEARLY-IDCW (3652 days),INF194KB1793,,Close Ended Schemes,Income,11.6601,28-Feb-2026
 146701,Bandhan Mutual Fund,BANDHAN Fixed Term Plan Series 179 DIRECT PLAN-GROWTH (3652 days),INF194KB1777,,Close Ended Schemes,Income,17.7351,28-Feb-2026
@@ -9170,10 +9170,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 146962,Sundaram Mutual Fund,Sundaram Overnight Fund Direct Plan - Monthly Payout of Income Distribution cum Capital Withdrawal (IDCW),INF903JA1HH3,,Open Ended Schemes,Debt Scheme - Overnight Fund,1029.5982,01-Mar-2026
 146963,Sundaram Mutual Fund,Sundaram Overnight Fund Direct Plan - Growth,INF903JA1HG5,,Open Ended Schemes,Debt Scheme - Overnight Fund,1424.5683,01-Mar-2026
 146964,Sundaram Mutual Fund,Sundaram Overnight Fund Direct Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),INF903JA1HJ9,,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.0300,13-Sep-2024
-146973,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 1 (3668 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1C95,,Close Ended Schemes,Income,17.1355,28-Feb-2026
-146974,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 1 (3668 Days) - Direct Plan - Growth,INF200KA1D03,,Close Ended Schemes,Income,17.3523,28-Feb-2026
-146975,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 1 (3668 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1D11,,Close Ended Schemes,Income,17.3678,28-Feb-2026
-146976,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 1 (3668 Days) - Regular Plan - Growth,INF200KA1C87,,Close Ended Schemes,Income,17.1355,28-Feb-2026
+146973,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 1 (3668 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1C95,,Close Ended Schemes,Income,17.1384,01-Mar-2026
+146974,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 1 (3668 Days) - Direct Plan - Growth,INF200KA1D03,,Close Ended Schemes,Income,17.3553,01-Mar-2026
+146975,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 1 (3668 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1D11,,Close Ended Schemes,Income,17.3707,01-Mar-2026
+146976,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 1 (3668 Days) - Regular Plan - Growth,INF200KA1C87,,Close Ended Schemes,Income,17.1384,01-Mar-2026
 146977,Tata Mutual Fund,Tata Overnight Fund-Regular Plan-Growth,INF277K016T9,,Open Ended Schemes,Debt Scheme - Overnight Fund,1404.6775,01-Mar-2026
 146978,Tata Mutual Fund,TATA Overnight Fund Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option,,INF277K019T3,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.0000,01-Mar-2026
 146979,Tata Mutual Fund,TATA Overnight Fund Regular Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option,,INF277K017T7,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.0000,01-Mar-2026
@@ -9263,10 +9263,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 147236,HDFC Mutual Fund,HDFC FMP 1100D April 2019 (1) - Growth Option,INF179KC1932,,Close Ended Schemes,Income,12.3999,11-May-2022
 147237,HDFC Mutual Fund,HDFC FMP 1100D April 2019 (1) - Growth Option - Direct Plan,INF179KC1908,,Close Ended Schemes,Income,12.4731,11-May-2022
 147238,HDFC Mutual Fund,HDFC FMP 1100D April 2019 (1) - Quarterly IDCW Option - Direct Plan,INF179KC1924,,Close Ended Schemes,Income,10,11-May-2022
-147247,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 6 (3668 Days) - Regular Plan - Growth,INF200KA1F01,,Close Ended Schemes,Income,16.6099,28-Feb-2026
-147248,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 6 (3668 Days) - Direct Plan - Growth,INF200KA1F27,,Close Ended Schemes,Income,16.8822,28-Feb-2026
-147249,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 6 (3668 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1F35,,Close Ended Schemes,Income,16.8825,28-Feb-2026
-147250,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 6 (3668 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1F19,,Close Ended Schemes,Income,16.6126,28-Feb-2026
+147247,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 6 (3668 Days) - Regular Plan - Growth,INF200KA1F01,,Close Ended Schemes,Income,16.6127,01-Mar-2026
+147248,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 6 (3668 Days) - Direct Plan - Growth,INF200KA1F27,,Close Ended Schemes,Income,16.8851,01-Mar-2026
+147249,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 6 (3668 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1F35,,Close Ended Schemes,Income,16.8854,01-Mar-2026
+147250,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 6 (3668 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1F19,,Close Ended Schemes,Income,16.6153,01-Mar-2026
 147255,UTI Mutual Fund,UTI - Fixed Term Income Fund Series XXXI-XIV (1111 Days) - Direct Plan - Growth Option,INF789F1AKZ3,,Close Ended Schemes,Income,12.6339,07-Jun-2022
 147256,UTI Mutual Fund,UTI Fixed Term Income Fund Series XXXI-XIV (1111 Days) - Direct Plan - Quarterly IDCW,INF789F1ALA4,,Close Ended Schemes,Income,10,07-Jun-2022
 147257,UTI Mutual Fund,UTI - Fixed Term Income Fund Series XXXI-XIV (1111 Days) - Regular Plan - Growth Option,INF789F1AKU4,,Close Ended Schemes,Income,12.4998,07-Jun-2022
@@ -9956,10 +9956,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 148354,ITI Mutual Fund,ITI Large Cap Fund - Regular Plan - IDCW Option,INF00XX01788,INF00XX01796,Open Ended Schemes,Equity Scheme - Large Cap Fund,16.4007,27-Feb-2026
 148381,Motilal Oswal Mutual Fund,Motilal Oswal S&P 500 Index Fund - Direct Plan Growth,INF247L01AG2,,Open Ended Schemes,Other Scheme - Index Funds,28.8673,27-Feb-2026
 148382,Motilal Oswal Mutual Fund,Motilal Oswal S&P 500 Index Fund - Regular Plan Growth,INF247L01AH0,,Open Ended Schemes,Other Scheme - Index Funds,27.9082,27-Feb-2026
-148387,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Direct Plan - Growth,INF200KA1Q73,,Close Ended Schemes,Income,14.5816,28-Feb-2026
-148388,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1Q81,,Close Ended Schemes,Income,14.5816,28-Feb-2026
-148389,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Regular Plan - Growth,INF200KA1Q57,,Close Ended Schemes,Income,14.3899,28-Feb-2026
-148390,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1Q65,,Close Ended Schemes,Income,14.3900,28-Feb-2026
+148387,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Direct Plan - Growth,INF200KA1Q73,,Close Ended Schemes,Income,14.5842,01-Mar-2026
+148388,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1Q81,,Close Ended Schemes,Income,14.5842,01-Mar-2026
+148389,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Regular Plan - Growth,INF200KA1Q57,,Close Ended Schemes,Income,14.3924,01-Mar-2026
+148390,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1Q65,,Close Ended Schemes,Income,14.3925,01-Mar-2026
 148397,IL&FS Mutual Fund (IDF),IL&FS Infrastructure Debt Fund Series 2A - Growth - Direct,INF613Q01140,,Close Ended Schemes,Income,1871635.6665,31-Dec-2025
 148398,IL&FS Mutual Fund (IDF),IL&FS Infrastructure Debt Fund Series 2B - Growth - Direct,INF613Q01157,,Close Ended Schemes,Income,2413698.2741,31-Dec-2025
 148399,IL&FS Mutual Fund (IDF),IL&FS Infrastructure Debt Fund Series 2C - Growth - Direct,INF613Q01165,,Close Ended Schemes,Income,2381909.3197,31-Dec-2025
@@ -10274,18 +10274,18 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 148822,ICICI Prudential Mutual Fund,ICICI Prudential Nifty 100 Low Volatility 30 ETF FOF - Direct Plan - Growth,INF109KC1P81,,Open Ended Schemes,Other Scheme - FoF Domestic,18.7895,27-Feb-2026
 148823,ICICI Prudential Mutual Fund,ICICI Prudential Nifty 100 Low Volatility 30 ETF FOF - Direct Plan - IDCW,INF109KC1Q07,INF109KC1P99,Open Ended Schemes,Other Scheme - FoF Domestic,18.7896,27-Feb-2026
 148824,ICICI Prudential Mutual Fund,ICICI Prudential Nifty 100 Low Volatility 30 ETF FOF - IDCW,INF109KC1P73,INF109KC1P65,Open Ended Schemes,Other Scheme - FoF Domestic,18.3924,27-Feb-2026
-148833,Trust Mutual Fund,TRUSTMF Liquid Fund-Regular Plan-Growth,INF0GCD01198,,Open Ended Schemes,Debt Scheme - Liquid Fund,1317.5104,28-Feb-2026
-148834,Trust Mutual Fund,TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal,,INF0GCD01206,Open Ended Schemes,Debt Scheme - Liquid Fund,1195.7659,28-Feb-2026
-148836,Trust Mutual Fund,TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal,INF0GCD01214,INF0GCD01222,Open Ended Schemes,Debt Scheme - Liquid Fund,1171.3414,28-Feb-2026
-148837,Trust Mutual Fund,TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal,INF0GCD01271,INF0GCD01289,Open Ended Schemes,Debt Scheme - Liquid Fund,1222.012,28-Feb-2026
-148839,Trust Mutual Fund,TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal,INF0GCD01305,INF0GCD01297,Open Ended Schemes,Debt Scheme - Liquid Fund,1193.8047,28-Feb-2026
-148841,Trust Mutual Fund,TRUSTMF Liquid Fund-Direct Plan-Growth,INF0GCD01255,,Open Ended Schemes,Debt Scheme - Liquid Fund,1327.2193,28-Feb-2026
-148842,Trust Mutual Fund,TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal,,INF0GCD01263,Open Ended Schemes,Debt Scheme - Liquid Fund,1263.7357,28-Feb-2026
-148843,Trust Mutual Fund,TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal,INF0GCD01248,INF0GCD01230,Open Ended Schemes,Debt Scheme - Liquid Fund,1185.1542,28-Feb-2026
-148845,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 42 (1857 Days) Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1V01,,Close Ended Schemes,Income,13.3656,28-Feb-2026
-148846,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) Series 42 (1857 Days) - Direct Plan - Growth,INF200KA1V19,,Close Ended Schemes,Income,13.4705,28-Feb-2026
-148847,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) Series 42 (1857 Days) - Regular Plan - Growth,INF200KA1U93,,Close Ended Schemes,Income,13.3656,28-Feb-2026
-148848,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 42 (1857 Days) Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1V27,,Close Ended Schemes,Income,13.4707,28-Feb-2026
+148833,Trust Mutual Fund,TRUSTMF Liquid Fund-Regular Plan-Growth,INF0GCD01198,,Open Ended Schemes,Debt Scheme - Liquid Fund,1317.7106,01-Mar-2026
+148834,Trust Mutual Fund,TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal,,INF0GCD01206,Open Ended Schemes,Debt Scheme - Liquid Fund,1195.7977,01-Mar-2026
+148836,Trust Mutual Fund,TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal,INF0GCD01214,INF0GCD01222,Open Ended Schemes,Debt Scheme - Liquid Fund,1171.5193,01-Mar-2026
+148837,Trust Mutual Fund,TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal,INF0GCD01271,INF0GCD01289,Open Ended Schemes,Debt Scheme - Liquid Fund,1222.2026,01-Mar-2026
+148839,Trust Mutual Fund,TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal,INF0GCD01305,INF0GCD01297,Open Ended Schemes,Debt Scheme - Liquid Fund,1193.9912,01-Mar-2026
+148841,Trust Mutual Fund,TRUSTMF Liquid Fund-Direct Plan-Growth,INF0GCD01255,,Open Ended Schemes,Debt Scheme - Liquid Fund,1327.4265,01-Mar-2026
+148842,Trust Mutual Fund,TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal,,INF0GCD01263,Open Ended Schemes,Debt Scheme - Liquid Fund,1263.7829,01-Mar-2026
+148843,Trust Mutual Fund,TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal,INF0GCD01248,INF0GCD01230,Open Ended Schemes,Debt Scheme - Liquid Fund,1185.3343,01-Mar-2026
+148845,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 42 (1857 Days) Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1V01,,Close Ended Schemes,Income,13.3674,01-Mar-2026
+148846,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) Series 42 (1857 Days) - Direct Plan - Growth,INF200KA1V19,,Close Ended Schemes,Income,13.4723,01-Mar-2026
+148847,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) Series 42 (1857 Days) - Regular Plan - Growth,INF200KA1U93,,Close Ended Schemes,Income,13.3674,01-Mar-2026
+148848,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 42 (1857 Days) Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1V27,,Close Ended Schemes,Income,13.4726,01-Mar-2026
 148882,Canara Robeco Mutual Fund,Canara Robeco Focused Fund - Direct Plan - IDCW (Payout/Reinvestment),INF760K01JS2,INF760K01JR4,Open Ended Schemes,Equity Scheme - Focused Fund,19.1400,27-Feb-2026
 148883,Canara Robeco Mutual Fund,Canara Robeco Focused Fund - Direct Plan - Growth Option,INF760K01JQ6,,Open Ended Schemes,Equity Scheme - Focused Fund,21.4000,27-Feb-2026
 148884,Canara Robeco Mutual Fund,Canara Robeco Focused Fund - Regular Plan - Growth Option,INF760K01JT0,,Open Ended Schemes,Equity Scheme - Focused Fund,19.8700,27-Feb-2026
@@ -10342,10 +10342,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 148963,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty 50 Equal Weight Index Fund-Direct-IDCW,INF209KB1Z89,INF209KB1Z97,Open Ended Schemes,Other Scheme - Index Funds,19.1189,27-Feb-2026
 148964,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty 50 Equal Weight Index Fund-Regular IDCW,INF209KB1Z55,INF209KB1Z63,Open Ended Schemes,Other Scheme - Index Funds,18.5565,27-Feb-2026
 148965,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty 50 Equal Weight Index Fund-Regular Growth,INF209KB1Z48,,Open Ended Schemes,Other Scheme - Index Funds,18.5567,27-Feb-2026
-148966,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 44 (1855 Days) - Regular Plan - Growth,INF200KA1W34,,Close Ended Schemes,Income,13.2301,28-Feb-2026
-148967,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 44 (1855 Days) - Direct Plan - Growth,INF200KA1W59,,Close Ended Schemes,Income,13.3142,28-Feb-2026
-148968,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 44 (1855 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1W67,,Close Ended Schemes,Income,13.3142,28-Feb-2026
-148969,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) Series 44 (1855 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1W42,,Close Ended Schemes,Income,13.2301,28-Feb-2026
+148966,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 44 (1855 Days) - Regular Plan - Growth,INF200KA1W34,,Close Ended Schemes,Income,13.2319,01-Mar-2026
+148967,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 44 (1855 Days) - Direct Plan - Growth,INF200KA1W59,,Close Ended Schemes,Income,13.3161,01-Mar-2026
+148968,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 44 (1855 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1W67,,Close Ended Schemes,Income,13.3161,01-Mar-2026
+148969,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) Series 44 (1855 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1W42,,Close Ended Schemes,Income,13.2319,01-Mar-2026
 148970,ITI Mutual Fund,ITI Value Fund - Direct Plan - IDCW Option,INF00XX01AR4,INF00XX01AS2,Open Ended Schemes,Equity Scheme - Value Fund,17.5603,27-Feb-2026
 148971,ITI Mutual Fund,ITI Value Fund - Regular Plan - IDCW Option,INF00XX01AO1,INF00XX01AP8,Open Ended Schemes,Equity Scheme - Value Fund,15.8976,27-Feb-2026
 148972,ITI Mutual Fund,ITI Value Fund - Direct Plan - Growth Option,INF00XX01AQ6,,Open Ended Schemes,Equity Scheme - Value Fund,18.5490,27-Feb-2026
@@ -10370,10 +10370,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 148993,Axis Mutual Fund,Axis Quant Fund - Direct Plan - Growth,INF846K01Z87,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,17.33,28-Feb-2026
 148994,Axis Mutual Fund,Axis Quant Fund - Direct Plan - IDCW,INF846K01Z95,INF846K010A4,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,17.32,28-Feb-2026
 148995,Axis Mutual Fund,Axis Quant Fund - Regular Plan - IDCW,INF846K012A0,INF846K013A8,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,16.09,28-Feb-2026
-148996,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) Series 45 (1840 Days) - Regular Plan - Growth,INF200KA1W75,,Close Ended Schemes,Income,13.2205,28-Feb-2026
-148997,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) Series 45 (1840Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1W83,,Close Ended Schemes,Income,13.2205,28-Feb-2026
-148998,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) Series 45 (1840 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1X09,,Close Ended Schemes,Income,13.3009,28-Feb-2026
-148999,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) Series 45 (1840 Days) - Direct Plan - Growth,INF200KA1W91,,Close Ended Schemes,Income,13.3009,28-Feb-2026
+148996,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) Series 45 (1840 Days) - Regular Plan - Growth,INF200KA1W75,,Close Ended Schemes,Income,13.2223,01-Mar-2026
+148997,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) Series 45 (1840Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1W83,,Close Ended Schemes,Income,13.2223,01-Mar-2026
+148998,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) Series 45 (1840 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1X09,,Close Ended Schemes,Income,13.3028,01-Mar-2026
+148999,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) Series 45 (1840 Days) - Direct Plan - Growth,INF200KA1W91,,Close Ended Schemes,Income,13.3028,01-Mar-2026
 149000,Tata Mutual Fund,Tata Floating Rate Fund-Direct Plan-IDCW Monthly Payout,INF277KA1042,,Open Ended Schemes,Debt Scheme - Floater Fund,13.5358,27-Feb-2026
 149001,Tata Mutual Fund,Tata Floating Rate Fund-Direct Plan-IDCW Quarterly Payout,INF277KA1059,,Open Ended Schemes,Debt Scheme - Floater Fund,13.5358,27-Feb-2026
 149002,Tata Mutual Fund,Tata Floating Rate Fund-Direct Plan-IDCW Periodic Payout,INF277KA1034,,Open Ended Schemes,Debt Scheme - Floater Fund,13.5358,27-Feb-2026
@@ -10416,10 +10416,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 149039,Navi Mutual Fund,Navi Nifty 50 Index Fund-Direct Plan-Growth,INF959L01FP2,,Open Ended Schemes,Other Scheme - Index Funds,16.5101,27-Feb-2026
 149040,Navi Mutual Fund,Navi Nifty 50 Index Fund-Regular Plan-Growth,INF959L01FQ0,,Open Ended Schemes,Other Scheme - Index Funds,16.3555,27-Feb-2026
 149041,SBI Mutual Fund,SBI Nifty Consumption ETF,INF200KA1X17,,Open Ended Schemes,Other Scheme - Other  ETFs,118.6968,28-Feb-2026
-149042,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 46 (1850 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1X33,,Close Ended Schemes,Income,13.2018,28-Feb-2026
-149043,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 46 (1850 Days) - Direct Plan - Growth,INF200KA1X41,,Close Ended Schemes,Income,13.2890,28-Feb-2026
-149044,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 46 (1850 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1X58,,Close Ended Schemes,Income,13.2890,28-Feb-2026
-149045,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 46 (1850 Days) - Regular Plan - Growth,INF200KA1X25,,Close Ended Schemes,Income,13.2018,28-Feb-2026
+149042,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 46 (1850 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1X33,,Close Ended Schemes,Income,13.2036,01-Mar-2026
+149043,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 46 (1850 Days) - Direct Plan - Growth,INF200KA1X41,,Close Ended Schemes,Income,13.2909,01-Mar-2026
+149044,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 46 (1850 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1X58,,Close Ended Schemes,Income,13.2909,01-Mar-2026
+149045,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 46 (1850 Days) - Regular Plan - Growth,INF200KA1X25,,Close Ended Schemes,Income,13.2036,01-Mar-2026
 149046,Axis Mutual Fund,Axis Floater Fund - Regular Plan - Quarterly IDCW,INF846K018B5,INF846K017B7,Open Ended Schemes,Debt Scheme - Floater Fund,1278.9286,28-Feb-2026
 149047,Axis Mutual Fund,Axis Floater Fund - Regular Plan - Annual IDCW,INF846K014B4,INF846K013B6,Open Ended Schemes,Debt Scheme - Floater Fund,1319.5996,28-Feb-2026
 149048,Axis Mutual Fund,Axis Floater Fund - Regular Plan - Growth,INF846K012B8,,Open Ended Schemes,Debt Scheme - Floater Fund,1348.3672,28-Feb-2026
@@ -10504,10 +10504,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 149141,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Business Cycle Fund - Direct Plan - Growth,INF955L01KK1,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,16.7925,27-Feb-2026
 149142,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Business Cycle Fund - Regular Plan - IDCW Option,INF955L01KI5,INF955L01KJ3,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,14.3606,27-Feb-2026
 149143,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Business Cycle Fund - Direct Plan - IDCW Option,INF955L01KL9,INF955L01KM7,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,15.3213,27-Feb-2026
-149144,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 49 (1823 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1Z31,,Close Ended Schemes,Income,13.1722,28-Feb-2026
-149145,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 49 (1823 Days) - Regular Plan - Growth,INF200KA1Z07,,Close Ended Schemes,Income,13.0899,28-Feb-2026
-149146,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 49 (1823 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1Z15,,Close Ended Schemes,Income,13.0899,28-Feb-2026
-149147,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 49 (1823 Days) - Direct Plan - Growth,INF200KA1Z23,,Close Ended Schemes,Income,13.1722,28-Feb-2026
+149144,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 49 (1823 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1Z31,,Close Ended Schemes,Income,13.1741,01-Mar-2026
+149145,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 49 (1823 Days) - Regular Plan - Growth,INF200KA1Z07,,Close Ended Schemes,Income,13.0918,01-Mar-2026
+149146,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 49 (1823 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1Z15,,Close Ended Schemes,Income,13.0918,01-Mar-2026
+149147,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 49 (1823 Days) - Direct Plan - Growth,INF200KA1Z23,,Close Ended Schemes,Income,13.1741,01-Mar-2026
 149156,Axis Mutual Fund,Axis NIFTY India Consumption ETF,INF846K016C7,,Open Ended Schemes,Other Scheme - Other  ETFs,118.4390,28-Feb-2026
 149157,ICICI Prudential Mutual Fund,ICICI Prudential Nifty Alpha Low - Volatility 30 ETF FOF - Growth,INF109KC1R55,,Open Ended Schemes,Other Scheme - FoF Domestic,15.0497,27-Feb-2026
 149158,ICICI Prudential Mutual Fund,ICICI Prudential Nifty Alpha Low - Volatility 30 ETF FOF - Direct Plan - Growth,INF109KC1R89,,Open Ended Schemes,Other Scheme - FoF Domestic,15.3571,27-Feb-2026
@@ -10520,10 +10520,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 149169,Mirae Asset Mutual Fund,Mirae Asset S&P 500 Top 50 ETF,INF769K01HP3,,Open Ended Schemes,Other Scheme - Other  ETFs,58.1914,27-Feb-2026
 149170,Mirae Asset Mutual Fund,Mirae Asset S&P 500 Top 50 ETF Fund of Fund Direct Growth,INF769K01HR9,,Open Ended Schemes,Other Scheme - FoF Domestic,25.099,27-Feb-2026
 149171,Mirae Asset Mutual Fund,Mirae Asset S&P 500 Top 50 ETF Fund of Fund Regular Growth,INF769K01HQ1,,Open Ended Schemes,Other Scheme - FoF Domestic,24.649,27-Feb-2026
-149172,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Regular Plan - Growth,INF200KA1Z49,,Close Ended Schemes,Income,12.9458,28-Feb-2026
-149173,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Regular Plan -Income Distribution Capital Withdrawal Option (IDCW),INF200KA1Z56,,Close Ended Schemes,Income,12.9458,28-Feb-2026
-149174,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Direct Plan - Growth,INF200KA1Z64,,Close Ended Schemes,Income,13.0418,28-Feb-2026
-149175,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Direct Plan - Income Distribution Capital Withdrawal Option (IDCW),INF200KA1Z72,,Close Ended Schemes,Income,13.0418,28-Feb-2026
+149172,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Regular Plan - Growth,INF200KA1Z49,,Close Ended Schemes,Income,12.9477,01-Mar-2026
+149173,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Regular Plan -Income Distribution Capital Withdrawal Option (IDCW),INF200KA1Z56,,Close Ended Schemes,Income,12.9477,01-Mar-2026
+149174,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Direct Plan - Growth,INF200KA1Z64,,Close Ended Schemes,Income,13.0437,01-Mar-2026
+149175,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Direct Plan - Income Distribution Capital Withdrawal Option (IDCW),INF200KA1Z72,,Close Ended Schemes,Income,13.0437,01-Mar-2026
 149180,HDFC Mutual Fund,HDFC Developed World Overseas Equity Passive FOF - Direct Plan - Growth Option,INF179KC1BO4,,Open Ended Schemes,Other Scheme - FoF Overseas,19.247,26-Feb-2026
 149181,HDFC Mutual Fund,HDFC Developed World Overseas Equity Passive FOF - Growth Option,INF179KC1BP1,,Open Ended Schemes,Other Scheme - FoF Overseas,18.85,26-Feb-2026
 149182,Kotak Mahindra Mutual Fund,Kotak Multicap Fund-Regular Plan-Growth,INF174KA1HS9,,Open Ended Schemes,Equity Scheme - Multi Cap Fund,19.699,27-Feb-2026
@@ -10534,10 +10534,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 149189,DSP Mutual Fund,DSP FMP Series - 264 - 60M - 17D - Regular - IDCW,INF740KA1QF2,INF740KA1QG0,Close Ended Schemes,Income,12.9736,27-Feb-2026
 149190,DSP Mutual Fund,DSP FMP Series - 264 - 60M - 17D - Direct - Growth,INF740KA1QH8,,Close Ended Schemes,Income,13.0612,27-Feb-2026
 149191,DSP Mutual Fund,DSP FMP Series - 264 - 60M - 17D - Direct - IDCW,INF740KA1QI6,INF740KA1QJ4,Close Ended Schemes,Income,13.0612,27-Feb-2026
-149194,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 51 (1846 Days) - Direct Plan - Income Distribution Capital Withdrawal Option (IDCW),INF200KA11A5,,Close Ended Schemes,Income,13.0318,28-Feb-2026
-149195,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 51 (1846 Days) - Direct Plan - Growth,INF200KA10A7,,Close Ended Schemes,Income,13.0313,28-Feb-2026
-149196,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 51 (1846 Days) - Regular Plan - Income Distribution Capital Withdrawal Option (IDCW),INF200KA1Z98,,Close Ended Schemes,Income,12.9529,28-Feb-2026
-149197,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 51 (1846 Days) - Regular Plan - Growth,INF200KA1Z80,,Close Ended Schemes,Income,12.9528,28-Feb-2026
+149194,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 51 (1846 Days) - Direct Plan - Income Distribution Capital Withdrawal Option (IDCW),INF200KA11A5,,Close Ended Schemes,Income,13.0337,01-Mar-2026
+149195,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 51 (1846 Days) - Direct Plan - Growth,INF200KA10A7,,Close Ended Schemes,Income,13.0332,01-Mar-2026
+149196,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 51 (1846 Days) - Regular Plan - Income Distribution Capital Withdrawal Option (IDCW),INF200KA1Z98,,Close Ended Schemes,Income,12.9548,01-Mar-2026
+149197,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 51 (1846 Days) - Regular Plan - Growth,INF200KA1Z80,,Close Ended Schemes,Income,12.9547,01-Mar-2026
 149198,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty SDL Plus PSU Bond SEP 2026 60:40 Index Fund-Regular Growth,INF209KB16B1,,Open Ended Schemes,Other Scheme - Index Funds,12.8262,27-Feb-2026
 149199,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty SDL Plus PSU Bond SEP 2026 60:40 Index Fund-Direct Growth,INF209KB18B7,,Open Ended Schemes,Other Scheme - Index Funds,12.9147,27-Feb-2026
 149200,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty SDL Plus PSU Bond SEP 2026 60:40 Index Fund-Direct IDCW,INF209KB19B5,,Open Ended Schemes,Other Scheme - Index Funds,12.9149,27-Feb-2026
@@ -10558,10 +10558,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 149229,Mahindra Manulife Mutual Fund,Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - IDCW,INF174V01AX2,INF174V01AW4,Open Ended Schemes,Other Scheme - FoF Overseas,10.7934,27-Feb-2026
 149230,Mahindra Manulife Mutual Fund,Mahindra Manulife Asia Pacific REITs FOF - Direct Plan - Growth,INF174V01AY0,,Open Ended Schemes,Other Scheme - FoF Overseas,11.2544,27-Feb-2026
 149231,Mahindra Manulife Mutual Fund,Mahindra Manulife Asia Pacific REITs FOF - Direct Plan - IDCW,INF174V01BA8,INF174V01AZ7,Open Ended Schemes,Other Scheme - FoF Overseas,11.2544,27-Feb-2026
-149232,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 52 (1848 Days) - Direct Plan - Growth,INF200KA14A9,,Close Ended Schemes,Income,13.0120,28-Feb-2026
-149233,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 52 (1848 Days) - Regular Plan - Income Distribution Cum Withdrawal (IDCW),INF200KA13A1,,Close Ended Schemes,Income,12.9362,28-Feb-2026
-149234,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 52 (1848 Days) - Direct Plan - Income Distribution Cum Withdrawal (IDCW),INF200KA15A6,,Close Ended Schemes,Income,13.0120,28-Feb-2026
-149235,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 52 (1848 Days) - Regular Plan - Growth,INF200KA12A3,,Close Ended Schemes,Income,12.9363,28-Feb-2026
+149232,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 52 (1848 Days) - Direct Plan - Growth,INF200KA14A9,,Close Ended Schemes,Income,13.0139,01-Mar-2026
+149233,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 52 (1848 Days) - Regular Plan - Income Distribution Cum Withdrawal (IDCW),INF200KA13A1,,Close Ended Schemes,Income,12.9381,01-Mar-2026
+149234,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 52 (1848 Days) - Direct Plan - Income Distribution Cum Withdrawal (IDCW),INF200KA15A6,,Close Ended Schemes,Income,13.0139,01-Mar-2026
+149235,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 52 (1848 Days) - Regular Plan - Growth,INF200KA12A3,,Close Ended Schemes,Income,12.9381,01-Mar-2026
 149240,Motilal Oswal Mutual Fund,Motilal Oswal 5 Year G-Sec Fund Of Fund Direct -Growth,INF247L01AQ1,,Open Ended Schemes,Other Scheme - FoF Domestic,13.0267,27-Feb-2026
 149241,Motilal Oswal Mutual Fund,Motilal Oswal 5 Year G-Sec Fund Of Fund Regular -Growth,INF247L01AR9,,Open Ended Schemes,Other Scheme - FoF Domestic,12.9840,27-Feb-2026
 149242,Axis Mutual Fund,Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF FOF - Regular Plan - Growth Option,INF846K010D8,,Open Ended Schemes,Other Scheme - FoF Domestic,12.6451,28-Feb-2026
@@ -10593,10 +10593,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 149269,ITI Mutual Fund,ITI Pharma and Healthcare Fund - Regular Plan - IDCW Option,INF00XX01BM3,INF00XX01BN1,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,15.4636,27-Feb-2026
 149270,ITI Mutual Fund,ITI Pharma and Healthcare Fund - Regular Plan - Growth Option,INF00XX01BL5,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,15.4636,27-Feb-2026
 149271,ITI Mutual Fund,ITI Pharma and Healthcare Fund - Direct Plan - IDCW Option,INF00XX01BP6,INF00XX01BQ4,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,16.8649,27-Feb-2026
-149277,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 53 (1839 Days) - Direct Plan - Income Distribution Cum Withdrawal Option (IDCW),INF200KA19A8,,Close Ended Schemes,Income,13.0273,28-Feb-2026
-149278,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 53 (1839 Days) - Regular Plan - Growth,INF200KA16A4,,Close Ended Schemes,Income,12.9628,28-Feb-2026
-149279,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 53 (1839 Days) - Direct Plan - Growth,INF200KA18A0,,Close Ended Schemes,Income,13.0273,28-Feb-2026
-149280,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 53 (1839 Days) - Regular Plan - Income  Distribution Cum Withdrawal Option (IDCW),INF200KA17A2,,Close Ended Schemes,Income,12.9628,28-Feb-2026
+149277,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 53 (1839 Days) - Direct Plan - Income Distribution Cum Withdrawal Option (IDCW),INF200KA19A8,,Close Ended Schemes,Income,13.0293,01-Mar-2026
+149278,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 53 (1839 Days) - Regular Plan - Growth,INF200KA16A4,,Close Ended Schemes,Income,12.9647,01-Mar-2026
+149279,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 53 (1839 Days) - Direct Plan - Growth,INF200KA18A0,,Close Ended Schemes,Income,13.0293,01-Mar-2026
+149280,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 53 (1839 Days) - Regular Plan - Income  Distribution Cum Withdrawal Option (IDCW),INF200KA17A2,,Close Ended Schemes,Income,12.9647,01-Mar-2026
 149281,ICICI Prudential Mutual Fund,ICICI Prudential Nifty Smallcap 250 Index Fund - Growth,INF109KC1U84,,Open Ended Schemes,Other Scheme - Index Funds,15.8787,27-Feb-2026
 149282,ICICI Prudential Mutual Fund,ICICI Prudential Nifty Smallcap 250 Index Fund - IDCW,INF109KC1U92,INF109KC1V00,Open Ended Schemes,Other Scheme - Index Funds,15.8793,27-Feb-2026
 149283,ICICI Prudential Mutual Fund,ICICI Prudential Nifty Smallcap 250 Index Fund - Direct Plan - Growth,INF109KC1V18,,Open Ended Schemes,Other Scheme - Index Funds,16.2990,27-Feb-2026
@@ -10622,14 +10622,14 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 149303,Bandhan Mutual Fund,BANDHAN MULTI CAP FUND - GROWTH - DIRECT PLAN,INF194KB1CL0,,Open Ended Schemes,Equity Scheme - Multi Cap Fund,18.111,28-Feb-2026
 149304,Bandhan Mutual Fund,BANDHAN MULTI CAP FUND - IDCW - DIRECT PLAN,INF194KB1CM8,INF194KB1CN6,Open Ended Schemes,Equity Scheme - Multi Cap Fund,17.031,28-Feb-2026
 149305,Bandhan Mutual Fund,BANDHAN MULTI CAP FUND - GROWTH - REGULAR PLAN,INF194KB1CI6,,Open Ended Schemes,Equity Scheme - Multi Cap Fund,16.968,28-Feb-2026
-149306,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 54 (1842 Days) - Regular Plan - Income Distribution Cum Capital Withdrawal Option (IDCW),INF200KA11B3,,Close Ended Schemes,Income,12.9362,28-Feb-2026
-149307,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 54 (1842 Days) - Direct Plan - Growth,INF200KA12B1,,Close Ended Schemes,Income,13.0040,28-Feb-2026
-149308,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 54 (1842 Days) - Regular Plan - Growth,INF200KA10B5,,Close Ended Schemes,Income,12.9362,28-Feb-2026
-149309,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 54 (1842 Days) - Direct Plan - Income Distribution Cum Withdrawal Option (IDCW),INF200KA13B9,,Close Ended Schemes,Income,13.0044,28-Feb-2026
-149310,DSP Mutual Fund,Unclaimed Redemption - Upto 3 years (Invested in DSP Overnight Fund),,,Open Ended Schemes,Debt Scheme - Overnight Fund,12.7952,28-Feb-2026
-149311,DSP Mutual Fund,Unclaimed Redemption - Beyond 3 years (Invested in DSP Overnight Fund),,,Open Ended Schemes,Debt Scheme - Overnight Fund,10.0014,28-Feb-2026
-149312,DSP Mutual Fund,Unclaimed IDCW - Upto 3 years (Invested in DSP Overnight Fund),,,Open Ended Schemes,Debt Scheme - Overnight Fund,12.7952,28-Feb-2026
-149313,DSP Mutual Fund,Unclaimed IDCW - Beyond 3 years (Invested in DSP Overnight Fund),,,Open Ended Schemes,Debt Scheme - Overnight Fund,10.0014,28-Feb-2026
+149306,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 54 (1842 Days) - Regular Plan - Income Distribution Cum Capital Withdrawal Option (IDCW),INF200KA11B3,,Close Ended Schemes,Income,12.9381,01-Mar-2026
+149307,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 54 (1842 Days) - Direct Plan - Growth,INF200KA12B1,,Close Ended Schemes,Income,13.0060,01-Mar-2026
+149308,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 54 (1842 Days) - Regular Plan - Growth,INF200KA10B5,,Close Ended Schemes,Income,12.9381,01-Mar-2026
+149309,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 54 (1842 Days) - Direct Plan - Income Distribution Cum Withdrawal Option (IDCW),INF200KA13B9,,Close Ended Schemes,Income,13.0064,01-Mar-2026
+149310,DSP Mutual Fund,Unclaimed Redemption - Upto 3 years (Invested in DSP Overnight Fund),,,Open Ended Schemes,Debt Scheme - Overnight Fund,12.7969,01-Mar-2026
+149311,DSP Mutual Fund,Unclaimed Redemption - Beyond 3 years (Invested in DSP Overnight Fund),,,Open Ended Schemes,Debt Scheme - Overnight Fund,10.0000,01-Mar-2026
+149312,DSP Mutual Fund,Unclaimed IDCW - Upto 3 years (Invested in DSP Overnight Fund),,,Open Ended Schemes,Debt Scheme - Overnight Fund,12.7969,01-Mar-2026
+149313,DSP Mutual Fund,Unclaimed IDCW - Beyond 3 years (Invested in DSP Overnight Fund),,,Open Ended Schemes,Debt Scheme - Overnight Fund,10.0000,01-Mar-2026
 149316,360 ONE Mutual Fund,360 ONE QUANT FUND REGULAR INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,INF579M01AG6,INF579M01AH4,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,19.7393,27-Feb-2026
 149317,360 ONE Mutual Fund,360 ONE QUANT FUND REGULAR GROWTH,INF579M01AF8,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,19.7393,27-Feb-2026
 149318,360 ONE Mutual Fund,360 ONE QUANT FUND DIRECT GROWTH,INF579M01AI2,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,20.8289,27-Feb-2026
@@ -10654,10 +10654,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 149341,Edelweiss Mutual Fund,Edelweiss NIFTY Large Midcap 250 Index Fund - Regular Plan Growth,INF754K01NN8,,Open Ended Schemes,Other Scheme - Index Funds,16.6575,27-Feb-2026
 149342,Edelweiss Mutual Fund,Edelweiss NIFTY Large Midcap 250 Index Fund - Regular Plan Payout,INF754K01NO6,INF754K01NP3,Open Ended Schemes,Other Scheme - Index Funds,16.6568,27-Feb-2026
 149343,Edelweiss Mutual Fund,Edelweiss NIFTY Large Midcap 250 Index Fund - Direct Plan Growth,INF754K01NR9,,Open Ended Schemes,Other Scheme - Index Funds,17.1278,27-Feb-2026
-149345,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 55 (1849 Days) - Direct Plan - Growth,INF200KA16B2,,Close Ended Schemes,Income,12.9757,28-Feb-2026
-149346,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 55 (1849 Days) - Regular Plan - Income Distribution Cum Capital Withdrawal Option (IDCW),INF200KA15B4,,Close Ended Schemes,Income,12.9090,28-Feb-2026
-149347,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 55 (1849 Days) - Regular Plan - Growth,INF200KA14B7,,Close Ended Schemes,Income,12.9091,28-Feb-2026
-149348,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 55 (1849 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA17B0,,Close Ended Schemes,Income,12.9758,28-Feb-2026
+149345,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 55 (1849 Days) - Direct Plan - Growth,INF200KA16B2,,Close Ended Schemes,Income,12.9777,01-Mar-2026
+149346,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 55 (1849 Days) - Regular Plan - Income Distribution Cum Capital Withdrawal Option (IDCW),INF200KA15B4,,Close Ended Schemes,Income,12.9110,01-Mar-2026
+149347,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 55 (1849 Days) - Regular Plan - Growth,INF200KA14B7,,Close Ended Schemes,Income,12.9110,01-Mar-2026
+149348,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 55 (1849 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA17B0,,Close Ended Schemes,Income,12.9778,01-Mar-2026
 149351,Tata Mutual Fund,Tata Corporate Bond Fund-Regular Plan-Growth,INF277KA1299,,Open Ended Schemes,Debt Scheme - Corporate Bond Fund,12.7840,27-Feb-2026
 149352,Tata Mutual Fund,Tata Corporate Bond Fund-Regular Plan-IDCW Periodic Reinvestment,,INF277KA1331,Open Ended Schemes,Debt Scheme - Corporate Bond Fund,12.7840,27-Feb-2026
 149353,Tata Mutual Fund,Tata Corporate Bond Fund-Regular Plan-IDCW Monthly Payout,INF277KA1315,,Open Ended Schemes,Debt Scheme - Corporate Bond Fund,12.7840,27-Feb-2026
@@ -10715,10 +10715,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 149413,Bank of India Mutual Fund,BANK OF INDIA Overnight Fund Unclaimed Redemption Plan - Upto 3 Years,,,Open Ended Schemes,Debt Scheme - Overnight Fund,1280.7252,01-Mar-2026
 149414,Bank of India Mutual Fund,BANK OF INDIA Overnight Fund Unclaimed IDCW Plan - Up to 3 Years,,,Open Ended Schemes,Debt Scheme - Overnight Fund,1280.4408,01-Mar-2026
 149415,Bank of India Mutual Fund,BANK OF INDIA Overnight Fund Unclaimed Redemption Plan - Greater than 3 Years,,,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.0000,01-Mar-2026
-149430,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 57 (1835 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA15C2,,Close Ended Schemes,Income,12.8931,28-Feb-2026
-149431,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 57 (1835 Days) - Direct Plan - Growth,INF200KA14C5,,Close Ended Schemes,Income,12.8929,28-Feb-2026
-149432,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 57 (1835 Days) - Regular Plan - Growth,INF200KA12C9,,Close Ended Schemes,Income,12.8276,28-Feb-2026
-149433,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 57 (1835 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA13C7,,Close Ended Schemes,Income,12.8279,28-Feb-2026
+149430,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 57 (1835 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA15C2,,Close Ended Schemes,Income,12.8951,01-Mar-2026
+149431,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 57 (1835 Days) - Direct Plan - Growth,INF200KA14C5,,Close Ended Schemes,Income,12.8949,01-Mar-2026
+149432,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 57 (1835 Days) - Regular Plan - Growth,INF200KA12C9,,Close Ended Schemes,Income,12.8296,01-Mar-2026
+149433,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 57 (1835 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA13C7,,Close Ended Schemes,Income,12.8299,01-Mar-2026
 149438,Motilal Oswal Mutual Fund,Motilal Oswal Nasdaq Q50 ETF,INF247L01AU3,,Open Ended Schemes,Other Scheme - Other  ETFs,91.9071,27-Feb-2026
 149439,ICICI Prudential Mutual Fund,ICICI Prudential Passive Multi-Asset Fund of Funds - Growth,INF109KC1X81,,Open Ended Schemes,Other Scheme - FoF Domestic,16.5929,27-Feb-2026
 149440,ICICI Prudential Mutual Fund,ICICI Prudential Passive Multi-Asset Fund of Funds - IDCW,INF109KC1X99,INF109KC1Y07,Open Ended Schemes,Other Scheme - FoF Domestic,16.593,27-Feb-2026
@@ -10740,10 +10740,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 149456,ICICI Prudential Mutual Fund,ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Growth,INF109KC1Z22,,Open Ended Schemes,Other Scheme - FoF Overseas,29.9508,27-Feb-2026
 149457,ICICI Prudential Mutual Fund,ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - IDCW,INF109KC1Z30,INF109KC1Z48,Open Ended Schemes,Other Scheme - FoF Overseas,29.9455,27-Feb-2026
 149458,ICICI Prudential Mutual Fund,ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Direct Plan IDCW,INF109KC1Z63,INF109KC1Z71,Open Ended Schemes,Other Scheme - FoF Overseas,31.1341,27-Feb-2026
-149459,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 58 (1842 Days) - Regular Plan - Growth,INF200KA16C0,,Close Ended Schemes,Income,12.9490,28-Feb-2026
-149460,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 58 (1842 Days) - Direct Plan - Growth,INF200KA18C6,,Close Ended Schemes,Income,13.0129,28-Feb-2026
-149461,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 58 (1842 Days) - Direct Plan - Income Distribution cum Capital withdrawal option (IDCW),INF200KA19C4,,Close Ended Schemes,Income,13.0131,28-Feb-2026
-149462,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 58 (1842 Days) - Regular Plan - Income Distribution cum Capital withdrawal option (IDCW),INF200KA17C8,,Close Ended Schemes,Income,12.9490,28-Feb-2026
+149459,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 58 (1842 Days) - Regular Plan - Growth,INF200KA16C0,,Close Ended Schemes,Income,12.9509,01-Mar-2026
+149460,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 58 (1842 Days) - Direct Plan - Growth,INF200KA18C6,,Close Ended Schemes,Income,13.0149,01-Mar-2026
+149461,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 58 (1842 Days) - Direct Plan - Income Distribution cum Capital withdrawal option (IDCW),INF200KA19C4,,Close Ended Schemes,Income,13.0151,01-Mar-2026
+149462,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 58 (1842 Days) - Regular Plan - Income Distribution cum Capital withdrawal option (IDCW),INF200KA17C8,,Close Ended Schemes,Income,12.9509,01-Mar-2026
 149463,ICICI Prudential Mutual Fund,ICICI Prudential Nifty Auto ETF,INF109KC10V2,,Open Ended Schemes,Other Scheme - Other  ETFs,28.9690,27-Feb-2026
 149464,ICICI Prudential Mutual Fund,ICICI PRUDENTIAL SILVER ETF,INF109KC1Y56,,Open Ended Schemes,Other Scheme - Other  ETFs,263.5765,27-Feb-2026
 149465,Nippon India Mutual Fund,Nippon India Nifty Auto ETF,INF204KC1337,,Open Ended Schemes,Other Scheme - Other  ETFs,289.2582,27-Feb-2026
@@ -10882,10 +10882,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 149792,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty SDL Apr 2027 Index Fund-Regular Growth,INF209KB19E9,,Open Ended Schemes,Other Scheme - Index Funds,12.7883,27-Feb-2026
 149793,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty SDL Apr 2027 Index Fund-Direct IDCW Payout,INF209KB12F1,,Open Ended Schemes,Other Scheme - Index Funds,12.9482,27-Feb-2026
 149794,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty SDL Apr 2027 Index Fund-Direct Growth,INF209KB11F3,,Open Ended Schemes,Other Scheme - Index Funds,12.9484,27-Feb-2026
-149795,Trust Mutual Fund,TRUST MF OVERNIGHT FUND-REGULAR-GROWTH,INF0GCD01438,,Open Ended Schemes,Debt Scheme - Overnight Fund,1265.8227,28-Feb-2026
-149796,Trust Mutual Fund,TRUST MF OVERNIGHT FUND-DIRECT PLAN-DAILY IDCW REINVESTMENT,,INF0GCD01461,Open Ended Schemes,Debt Scheme - Overnight Fund,1241.4695,28-Feb-2026
-149797,Trust Mutual Fund,TRUST MF OVERNIGHT FUND-DIRECT PLAN-GROWTH,INF0GCD01453,,Open Ended Schemes,Debt Scheme - Overnight Fund,1268.4117,28-Feb-2026
-149798,Trust Mutual Fund,TRUST MF OVERNIGHT FUND-REGULAR PLAN-DAILY IDCW REINVESTMENT,,INF0GCD01446,Open Ended Schemes,Debt Scheme - Overnight Fund,1239.9995,28-Feb-2026
+149795,Trust Mutual Fund,TRUST MF OVERNIGHT FUND-REGULAR-GROWTH,INF0GCD01438,,Open Ended Schemes,Debt Scheme - Overnight Fund,1265.9863,01-Mar-2026
+149796,Trust Mutual Fund,TRUST MF OVERNIGHT FUND-DIRECT PLAN-DAILY IDCW REINVESTMENT,,INF0GCD01461,Open Ended Schemes,Debt Scheme - Overnight Fund,1241.4717,01-Mar-2026
+149797,Trust Mutual Fund,TRUST MF OVERNIGHT FUND-DIRECT PLAN-GROWTH,INF0GCD01453,,Open Ended Schemes,Debt Scheme - Overnight Fund,1268.5774,01-Mar-2026
+149798,Trust Mutual Fund,TRUST MF OVERNIGHT FUND-REGULAR PLAN-DAILY IDCW REINVESTMENT,,INF0GCD01446,Open Ended Schemes,Debt Scheme - Overnight Fund,1239.9998,01-Mar-2026
 149799,Motilal Oswal Mutual Fund,Motilal Oswal Nifty 200 Momentum 30 Index Fund-Regular Plan,INF247L01AW9,,Open Ended Schemes,Other Scheme - Index Funds,15.2153,27-Feb-2026
 149800,Motilal Oswal Mutual Fund,Motilal Oswal Nifty 200 Momentum 30 Index Fund-Direct Plan,INF247L01AV1,,Open Ended Schemes,Other Scheme - Index Funds,15.6363,27-Feb-2026
 149801,Motilal Oswal Mutual Fund,Motilal Oswal Nifty 200 Momentum 30 ETF,INF247L01BK2,,Open Ended Schemes,Other Scheme - Other  ETFs,63.3941,27-Feb-2026
@@ -10897,10 +10897,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 149815,DSP Mutual Fund,DSP Global Innovation Overseas Equity Omni FoF - Direct - IDCW,INF740KA1QQ9,INF740KA1QR7,Open Ended Schemes,Other Scheme - FoF Overseas,19.1924,26-Feb-2026
 149816,DSP Mutual Fund,DSP Global Innovation Overseas Equity Omni FoF - Direct - Growth,INF740KA1QP1,,Open Ended Schemes,Other Scheme - FoF Overseas,19.1924,26-Feb-2026
 149817,DSP Mutual Fund,DSP Global Innovation Overseas Equity Omni FoF - Regular - Growth,INF740KA1QM8,,Open Ended Schemes,Other Scheme - FoF Overseas,18.5013,26-Feb-2026
-149822,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 59 (1618 Days) - Direct Plan - Growth,INF200KA19D2,,Close Ended Schemes,Income,12.7855,28-Feb-2026
-149823,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 59 (1618 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA10E9,,Close Ended Schemes,Income,12.7852,28-Feb-2026
-149824,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 59 (1618 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA18D4,,Close Ended Schemes,Income,12.7259,28-Feb-2026
-149825,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 59 (1618 Days) - Regular Plan - Growth,INF200KA17D6,,Close Ended Schemes,Income,12.7259,28-Feb-2026
+149822,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 59 (1618 Days) - Direct Plan - Growth,INF200KA19D2,,Close Ended Schemes,Income,12.7873,01-Mar-2026
+149823,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 59 (1618 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA10E9,,Close Ended Schemes,Income,12.7869,01-Mar-2026
+149824,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 59 (1618 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA18D4,,Close Ended Schemes,Income,12.7277,01-Mar-2026
+149825,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 59 (1618 Days) - Regular Plan - Growth,INF200KA17D6,,Close Ended Schemes,Income,12.7276,01-Mar-2026
 149826,JM Financial Mutual Fund,JM Overnight Fund - (Direct) - Unclaimed Redemption I.E.F. - Growth Plan,,,Open Ended Schemes,Debt Scheme - Overnight Fund,1073.9936,01-Mar-2026
 149827,JM Financial Mutual Fund,JM Overnight Fund - (Direct) - Unclaimed IDCW I.E.F. - Growth Plan,,,Open Ended Schemes,Debt Scheme - Overnight Fund,1073.9936,01-Mar-2026
 149828,JM Financial Mutual Fund,JM Overnight Fund - (Direct) - Unclaimed IDCW - Growth Plan,,,Open Ended Schemes,Debt Scheme - Overnight Fund,1366.0147,01-Mar-2026
@@ -10943,10 +10943,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 149873,Axis Mutual Fund,Axis CRISIL IBX SDL May 2027 Index Fund - Direct Plan - Growth,INF846K017G6,,Open Ended Schemes,Other Scheme - Index Funds,12.8603,28-Feb-2026
 149874,Axis Mutual Fund,Axis CRISIL IBX SDL May 2027 Index Fund - Direct Plan - IDCW,INF846K018G4,INF846K019G2,Open Ended Schemes,Other Scheme - Index Funds,12.8599,28-Feb-2026
 149875,Axis Mutual Fund,Axis CRISIL IBX SDL May 2027 Index Fund - Regular Plan - IDCW,INF846K011H7,INF846K012H5,Open Ended Schemes,Other Scheme - Index Funds,12.7878,28-Feb-2026
-149876,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 60 (1878 Days) - Regular Plan - Growth,INF200KA11E7,,Close Ended Schemes,Income,12.8538,28-Feb-2026
-149877,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 60 (1878 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA12E5,,Close Ended Schemes,Income,12.8538,28-Feb-2026
-149878,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 60 (1878 Days) - Direct Plan - Growth,INF200KA13E3,,Close Ended Schemes,Income,12.9162,28-Feb-2026
-149879,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 60 (1878 Days) - Direct Plan - Income Distribution cum Capital Withdrwal Option (IDCW),INF200KA14E1,,Close Ended Schemes,Income,12.9164,28-Feb-2026
+149876,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 60 (1878 Days) - Regular Plan - Growth,INF200KA11E7,,Close Ended Schemes,Income,12.8558,01-Mar-2026
+149877,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 60 (1878 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA12E5,,Close Ended Schemes,Income,12.8558,01-Mar-2026
+149878,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 60 (1878 Days) - Direct Plan - Growth,INF200KA13E3,,Close Ended Schemes,Income,12.9182,01-Mar-2026
+149879,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 60 (1878 Days) - Direct Plan - Income Distribution cum Capital Withdrwal Option (IDCW),INF200KA14E1,,Close Ended Schemes,Income,12.9184,01-Mar-2026
 149880,UTI Mutual Fund,UTI BSE Low Volatility Index Fund - Regular Plan - Growth Option,INF789F1AVE5,,Open Ended Schemes,Other Scheme - Index Funds,16.7196,27-Feb-2026
 149881,UTI Mutual Fund,UTI BSE Low Volatility Index Fund - Direct Plan  - Growth Option,INF789F1AVF2,,Open Ended Schemes,Other Scheme - Index Funds,17.0342,27-Feb-2026
 149882,SBI Mutual Fund,SBI Multicap Fund- Direct Plan- Growth option,INF200KA18E2,,Open Ended Schemes,Equity Scheme - Multi Cap Fund,17.0375,28-Feb-2026
@@ -11005,10 +11005,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 149989,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund - Plan C - Unclaimed Redemption - Up to 3 years,,,Open Ended Schemes,Debt Scheme - Overnight Fund,1263.8696,01-Mar-2026
 149990,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund - Plan C - Unclaimed Redemption - Greater than 3 years,,,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.0000,01-Mar-2026
 149991,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Overnight Fund - Plan C - Unclaimed IDCW - Up to 3 years,,,Open Ended Schemes,Debt Scheme - Overnight Fund,1263.8991,01-Mar-2026
-149992,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)- Series 61 (1927 Days)- Regular Plan- Income Distribution Cum Capital withdrawal option,INF200KA12F2,,Close Ended Schemes,Income,12.9028,28-Feb-2026
-149993,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)- Series 61 (1927 Days)- Direct Plan- Growth option,INF200KA13F0,,Close Ended Schemes,Income,12.9636,28-Feb-2026
-149994,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)- Series 61 (1927 Days)- Regular Plan- Growth option,INF200KA11F4,,Close Ended Schemes,Income,12.9029,28-Feb-2026
-149995,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)- Series 61 (1927 Days)- Direct Plan- Income Distribution Cum Capital withdrawal option,INF200KA14F8,,Close Ended Schemes,Income,12.9638,28-Feb-2026
+149992,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)- Series 61 (1927 Days)- Regular Plan- Income Distribution Cum Capital withdrawal option,INF200KA12F2,,Close Ended Schemes,Income,12.9048,01-Mar-2026
+149993,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)- Series 61 (1927 Days)- Direct Plan- Growth option,INF200KA13F0,,Close Ended Schemes,Income,12.9656,01-Mar-2026
+149994,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)- Series 61 (1927 Days)- Regular Plan- Growth option,INF200KA11F4,,Close Ended Schemes,Income,12.9049,01-Mar-2026
+149995,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)- Series 61 (1927 Days)- Direct Plan- Income Distribution Cum Capital withdrawal option,INF200KA14F8,,Close Ended Schemes,Income,12.9658,01-Mar-2026
 149996,ICICI Prudential Mutual Fund,ICICI Prudential Nifty SDL Sep 2027 Index Fund - Annual IDCW,INF109KC12B0,INF109KC13B8,Open Ended Schemes,Other Scheme - Index Funds,12.8199,27-Feb-2026
 149997,ICICI Prudential Mutual Fund,ICICI Prudential Nifty SDL Sep 2027 Index Fund - Direct Plan - Annual IDCW,INF109KC15B3,INF109KC16B1,Open Ended Schemes,Other Scheme - Index Funds,12.8966,27-Feb-2026
 149998,ICICI Prudential Mutual Fund,ICICI Prudential Nifty SDL Sep 2027 Index Fund - Growth,INF109KC11B2,,Open Ended Schemes,Other Scheme - Index Funds,12.8199,27-Feb-2026
@@ -11145,10 +11145,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 150368,NJ Mutual Fund,NJ Overnight Fund - Regular Plan - Growth Option,INF0J8L01073,,Open Ended Schemes,Debt Scheme - Overnight Fund,1236.7688,01-Mar-2026
 150369,NJ Mutual Fund,NJ Overnight Fund - Direct Plan - Growth Option,INF0J8L01081,,Open Ended Schemes,Debt Scheme - Overnight Fund,1241.2379,01-Mar-2026
 150376,Edelweiss Mutual Fund,Edelweiss Focused Fund - Direct Plan - Growth,INF754K01OP1,,Open Ended Schemes,Equity Scheme - Focused Fund,17.954,27-Feb-2026
-150377,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 66 (1361 Days) - Regular Plan - Growth,INF200KA19L5,,Close Ended Schemes,Income,12.8046,28-Feb-2026
-150378,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 66 (1361 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA12M8,,Close Ended Schemes,Income,12.8575,28-Feb-2026
-150379,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 66 (1361 Days) - Direct Plan - Growth,INF200KA11M0,,Close Ended Schemes,Income,12.8575,28-Feb-2026
-150380,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 66 (1361 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA10M2,,Close Ended Schemes,Income,12.8047,28-Feb-2026
+150377,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 66 (1361 Days) - Regular Plan - Growth,INF200KA19L5,,Close Ended Schemes,Income,12.8063,01-Mar-2026
+150378,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 66 (1361 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA12M8,,Close Ended Schemes,Income,12.8592,01-Mar-2026
+150379,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 66 (1361 Days) - Direct Plan - Growth,INF200KA11M0,,Close Ended Schemes,Income,12.8592,01-Mar-2026
+150380,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 66 (1361 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA10M2,,Close Ended Schemes,Income,12.8063,01-Mar-2026
 150382,Edelweiss Mutual Fund,Edelweiss Focused Fund - Regular Plan - Growth,INF754K01OL0,,Open Ended Schemes,Equity Scheme - Focused Fund,16.937,27-Feb-2026
 150383,Edelweiss Mutual Fund,Edelweiss Focused Fund - Direct Plan - IDCW,INF754K01OQ9,INF754K01OR7,Open Ended Schemes,Equity Scheme - Focused Fund,17.954,27-Feb-2026
 150384,Edelweiss Mutual Fund,Edelweiss Focused Fund - Regular Plan - IDCW,INF754K01OM8,INF754K01ON6,Open Ended Schemes,Equity Scheme - Focused Fund,16.936,27-Feb-2026
@@ -11208,10 +11208,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 150455,ICICI Prudential Mutual Fund,ICICI Prudential Nifty 200 Momentum 30 ETF,INF109KC17C7,,Open Ended Schemes,Other Scheme - Other  ETFs,31.8817,27-Feb-2026
 150456,Union Mutual Fund,Union Gilt Fund - Direct Plan - Half-yearly IDCW Option,INF582M01HX0,INF582M01HY8,Open Ended Schemes,Debt Scheme - Gilt Fund,12.3672,27-Feb-2026
 150457,Union Mutual Fund,Union Gilt Fund - Regular Plan - Half-yearly IDCW Option,INF582M01IE8,INF582M01IF5,Open Ended Schemes,Debt Scheme - Gilt Fund,12.1520,27-Feb-2026
-150458,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 67 (1467 Days) - Direct Plan - IDCW Payout,INF200KA16M9,,Close Ended Schemes,Income,12.8660,28-Feb-2026
-150459,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 67 (1467 Days) - Regular Plan - IDCW Payout,INF200KA14M4,,Close Ended Schemes,Income,12.8146,28-Feb-2026
-150460,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 67 (1467 Days) - Direct Plan - Growth,INF200KA15M1,,Close Ended Schemes,Income,12.8660,28-Feb-2026
-150461,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 67 (1467 Days) - Regular Plan - Growth,INF200KA13M6,,Close Ended Schemes,Income,12.8142,28-Feb-2026
+150458,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 67 (1467 Days) - Direct Plan - IDCW Payout,INF200KA16M9,,Close Ended Schemes,Income,12.8678,01-Mar-2026
+150459,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 67 (1467 Days) - Regular Plan - IDCW Payout,INF200KA14M4,,Close Ended Schemes,Income,12.8164,01-Mar-2026
+150460,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 67 (1467 Days) - Direct Plan - Growth,INF200KA15M1,,Close Ended Schemes,Income,12.8678,01-Mar-2026
+150461,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 67 (1467 Days) - Regular Plan - Growth,INF200KA13M6,,Close Ended Schemes,Income,12.8160,01-Mar-2026
 150466,ICICI Prudential Mutual Fund,ICICI Prudential Nifty IT Index Fund - Growth,INF109KC10E8,,Open Ended Schemes,Other Scheme - Index Funds,10.6021,27-Feb-2026
 150467,ICICI Prudential Mutual Fund,ICICI Prudential Nifty IT Index Fund - IDCW,INF109KC11E6,INF109KC12E4,Open Ended Schemes,Other Scheme - Index Funds,10.6023,27-Feb-2026
 150468,ICICI Prudential Mutual Fund,ICICI Prudential Nifty IT Index Fund - Direct Plan - Growth,INF109KC13E2,,Open Ended Schemes,Other Scheme - Index Funds,10.8016,27-Feb-2026
@@ -11361,10 +11361,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 150644,ICICI Prudential Mutual Fund,ICICI Prudential Nifty Auto Index Fund - Direct Plan - IDCW,INF109KC17J2,INF109KC18J0,Open Ended Schemes,Other Scheme - Index Funds,22.6035,27-Feb-2026
 150645,ICICI Prudential Mutual Fund,ICICI Prudential Nifty Auto Index Fund - Growth,INF109KC13J1,,Open Ended Schemes,Other Scheme - Index Funds,22.1966,27-Feb-2026
 150646,ICICI Prudential Mutual Fund,ICICI Prudential Nifty Auto Index Fund - IDCW,INF109KC14J9,INF109KC15J6,Open Ended Schemes,Other Scheme - Index Funds,22.1971,27-Feb-2026
-150647,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 68 (1302 Days) - Regular Plan - Growth,INF200KA13O2,,Close Ended Schemes,Income,12.6346,28-Feb-2026
-150648,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 68 (1302 Days) - Regular Plan - IDCW Payout,INF200KA14O0,,Close Ended Schemes,Income,12.6345,28-Feb-2026
-150649,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 68 (1302 Days) - Direct Plan - Growth,INF200KA15O7,,Close Ended Schemes,Income,12.6847,28-Feb-2026
-150650,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 68 (1302 Days) - Direct Plan - IDCW Payout,INF200KA16O5,,Close Ended Schemes,Income,12.6872,28-Feb-2026
+150647,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 68 (1302 Days) - Regular Plan - Growth,INF200KA13O2,,Close Ended Schemes,Income,12.6363,01-Mar-2026
+150648,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 68 (1302 Days) - Regular Plan - IDCW Payout,INF200KA14O0,,Close Ended Schemes,Income,12.6363,01-Mar-2026
+150649,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 68 (1302 Days) - Direct Plan - Growth,INF200KA15O7,,Close Ended Schemes,Income,12.6865,01-Mar-2026
+150650,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 68 (1302 Days) - Direct Plan - IDCW Payout,INF200KA16O5,,Close Ended Schemes,Income,12.6889,01-Mar-2026
 150651,HDFC Mutual Fund,HDFC FMP 1359D September - Growth Option,,,Close Ended Schemes,Income,12.6623,27-Feb-2026
 150652,HDFC Mutual Fund,HDFC FMP 1359D September - IDCW Option,,,Close Ended Schemes,Income,12.6623,27-Feb-2026
 150653,HDFC Mutual Fund,HDFC FMP 1359D September - IDCW Option - Direct Plan,,,Close Ended Schemes,Income,12.7696,27-Feb-2026
@@ -11587,10 +11587,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 150913,Mahindra Manulife Mutual Fund,Mahindra Manulife Small Cap Fund - Direct Plan - IDCW,INF174V01BL5,INF174V01BM3,Open Ended Schemes,Equity Scheme - Small Cap Fund,19.4982,27-Feb-2026
 150914,Mahindra Manulife Mutual Fund,Mahindra Manulife Small Cap Fund - Regular Plan - IDCW,INF174V01BI1,INF174V01BJ9,Open Ended Schemes,Equity Scheme - Small Cap Fund,18.5276,27-Feb-2026
 150915,Mahindra Manulife Mutual Fund,Mahindra Manulife Small Cap Fund - Direct Plan - Growth,INF174V01BK7,,Open Ended Schemes,Equity Scheme - Small Cap Fund,19.4982,27-Feb-2026
-150916,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)-Series 72 (1239 Days) Direct Plan- Income Distribution Cum Capital Withdrawal Payout,INF200KA18S2,,Close Ended Schemes,Income,12.5513,28-Feb-2026
-150917,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)-Series 72 (1239 Days) Regular Plan- Growth,INF200KA15S8,,Close Ended Schemes,Income,12.5029,28-Feb-2026
-150918,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)-Series 72 (1239 Days) Regular Plan- Income Distribution Cum Capital Withdrawal Payout,INF200KA16S6,,Close Ended Schemes,Income,12.5028,28-Feb-2026
-150919,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)-Series 72 (1239 Days) Direct Plan- Growth,INF200KA17S4,,Close Ended Schemes,Income,12.5513,28-Feb-2026
+150916,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)-Series 72 (1239 Days) Direct Plan- Income Distribution Cum Capital Withdrawal Payout,INF200KA18S2,,Close Ended Schemes,Income,12.5531,01-Mar-2026
+150917,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)-Series 72 (1239 Days) Regular Plan- Growth,INF200KA15S8,,Close Ended Schemes,Income,12.5047,01-Mar-2026
+150918,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)-Series 72 (1239 Days) Regular Plan- Income Distribution Cum Capital Withdrawal Payout,INF200KA16S6,,Close Ended Schemes,Income,12.5046,01-Mar-2026
+150919,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)-Series 72 (1239 Days) Direct Plan- Growth,INF200KA17S4,,Close Ended Schemes,Income,12.5531,01-Mar-2026
 150920,Nippon India Mutual Fund,Nippon India Nifty G-Sec Jun 2036 Maturity Index Fund-Direct Plan-Growth Option,INF204KC1AC0,,Open Ended Schemes,Other Scheme - Index Funds,13.0133,27-Feb-2026
 150921,Nippon India Mutual Fund,Nippon India Nifty G-Sec Jun 2036 Maturity Index fund-Direct Plan-IDCW Option,INF204KC1AD8,INF204KC1AE6,Open Ended Schemes,Other Scheme - Index Funds,13.0133,27-Feb-2026
 150922,Nippon India Mutual Fund,Nippon India Nifty G-Sec Jun 2036 Maturity Index Fund-Regular Plan-IDCW Option,INF204KC1AA4,INF204KC1AB2,Open Ended Schemes,Other Scheme - Index Funds,12.9217,27-Feb-2026
@@ -11630,10 +11630,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 150970,UTI Mutual Fund,UTI Fixed Term Income Fund - Series XXXV-II (1223 Days) - Direct Plan - Flexi IDCW Option,INF789F1AWV7,,Close Ended Schemes,Income,12.5158,27-Feb-2026
 150971,UTI Mutual Fund,UTI Fixed Term Income Fund - Series XXXV-II (1223 Days) - Regular Plan - Growth Option,INF789F1AWP9,,Close Ended Schemes,Income,12.3507,27-Feb-2026
 150972,UTI Mutual Fund,UTI Fixed Term Income Fund - Series XXXV-II (1223 Days) - Regular Plan - Quarterly IDCW Option,INF789F1AWM6,,Close Ended Schemes,Income,12.3507,27-Feb-2026
-150983,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 73 (1226 Days) - Regular Plan - IDCW Payout,INF200KA10T7,,Close Ended Schemes,Income,12.4710,28-Feb-2026
-150984,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 73 (1226 Days) - Direct Plan - Growth,INF200KA11T5,,Close Ended Schemes,Income,12.5179,28-Feb-2026
-150985,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 73 (1226 Days) - Direct Plan - IDCW Payout,INF200KA12T3,,Close Ended Schemes,Income,12.5178,28-Feb-2026
-150986,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 73 (1226 Days) - Regular Plan - Growth,INF200KA19S0,,Close Ended Schemes,Income,12.4710,28-Feb-2026
+150983,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 73 (1226 Days) - Regular Plan - IDCW Payout,INF200KA10T7,,Close Ended Schemes,Income,12.4728,01-Mar-2026
+150984,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 73 (1226 Days) - Direct Plan - Growth,INF200KA11T5,,Close Ended Schemes,Income,12.5197,01-Mar-2026
+150985,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 73 (1226 Days) - Direct Plan - IDCW Payout,INF200KA12T3,,Close Ended Schemes,Income,12.5196,01-Mar-2026
+150986,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 73 (1226 Days) - Regular Plan - Growth,INF200KA19S0,,Close Ended Schemes,Income,12.4727,01-Mar-2026
 150987,Edelweiss Mutual Fund,BHARAT Bond ETF - April 2033,INF754K01QX0,,Open Ended Schemes,Other Scheme - Other  ETFs,1278.7748,27-Feb-2026
 150988,Edelweiss Mutual Fund,BHARAT Bond ETF FOF - April 2033 - Regular Plan - IDCW,INF754K01QZ5,INF754K01RA6,Open Ended Schemes,Other Scheme - FoF Domestic,12.798,27-Feb-2026
 150989,Edelweiss Mutual Fund,BHARAT Bond ETF FOF - April 2033 - Direct Plan - Growth,INF754K01RC2,,Open Ended Schemes,Other Scheme - FoF Domestic,12.798,27-Feb-2026
@@ -11823,10 +11823,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 151245,Kotak Mahindra Mutual Fund,Kotak FMP Series 302 - Direct Plan - IDCW,INF174KA1LI2,,Close Ended Schemes,Income,10.17720868,23-Mar-2023
 151246,Kotak Mahindra Mutual Fund,Kotak FMP Series 302 - Regular Plan - IDCW,INF174KA1LG6,,Close Ended Schemes,Income,10.17457703,23-Mar-2023
 151247,Kotak Mahindra Mutual Fund,Kotak FMP Series 302 - Direct Plan - Growth,INF174KA1LH4,,Close Ended Schemes,Income,10.17723913,23-Mar-2023
-151252,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)-Series 74 (1243 Days)- Direct Plan- Growth,INF200KA11U3,,Close Ended Schemes,Income,12.5062,28-Feb-2026
-151253,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)-Series 74 (1243 Days)- Direct Plan- Income Distribution Cum Capital Withdrawal Payout,INF200KA12U1,,Close Ended Schemes,Income,12.5061,28-Feb-2026
-151254,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)-Series 74 (1243 Days)- Regular Plan- Growth,INF200KA19T8,,Close Ended Schemes,Income,12.4600,28-Feb-2026
-151255,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)-Series 74 (1243 Days)- Regular Plan- Income Distribution Cum Capital Withdrawal Payout,INF200KA10U5,,Close Ended Schemes,Income,12.4600,28-Feb-2026
+151252,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)-Series 74 (1243 Days)- Direct Plan- Growth,INF200KA11U3,,Close Ended Schemes,Income,12.5079,01-Mar-2026
+151253,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)-Series 74 (1243 Days)- Direct Plan- Income Distribution Cum Capital Withdrawal Payout,INF200KA12U1,,Close Ended Schemes,Income,12.5078,01-Mar-2026
+151254,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)-Series 74 (1243 Days)- Regular Plan- Growth,INF200KA19T8,,Close Ended Schemes,Income,12.4617,01-Mar-2026
+151255,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)-Series 74 (1243 Days)- Regular Plan- Income Distribution Cum Capital Withdrawal Payout,INF200KA10U5,,Close Ended Schemes,Income,12.4617,01-Mar-2026
 151262,DSP Mutual Fund,DSP Nifty Bank ETF,INF740KA1RX3,,Open Ended Schemes,Other Scheme - Other  ETFs,61.7143,27-Feb-2026
 151263,Kotak Mahindra Mutual Fund,Kotak FMP Series 303 - Direct Plan - IDCW,INF174KA1LM4,,Close Ended Schemes,Income,10.38167708,03-Jul-2023
 151264,Kotak Mahindra Mutual Fund,Kotak FMP Series 303 - Regular Plan - Growth,INF174KA1LJ0,,Close Ended Schemes,Income,10.37238008,03-Jul-2023
@@ -11890,10 +11890,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 151338,UTI Mutual Fund,UTI Fixed Term Income Fund - Series XXXV-III (1176 Days) - Regular Plan - Growth Option,INF789F1AXC5,,Close Ended Schemes,Income,12.2577,27-Feb-2026
 151339,UTI Mutual Fund,UTI Fixed Term Income Fund - Series XXXV-III (1176 Days) - Regular Plan - Annual IDCW Option,INF789F1AXJ0,,Close Ended Schemes,Income,11.1905,27-Feb-2026
 151341,UTI Mutual Fund,UTI Fixed Term Income Fund - Series XXXV-III (1176 Days) - Direct Plan - Growth Option,INF789F1AXH4,,Close Ended Schemes,Income,12.3968,27-Feb-2026
-151348,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 76 (1221 Days) - Regular Plan - Income Distribution Cum Capital Withdrawal Payout,INF200KA18U8,,Close Ended Schemes,Income,12.3665,28-Feb-2026
-151349,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 76 (1221 Days) - Regular Plan - Growth,INF200KA17U0,,Close Ended Schemes,Income,12.3665,28-Feb-2026
-151350,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 76 (1221 Days) - Direct Plan - Income Distribution Cum Capital Withdrawal Payout,INF200KA10V3,,Close Ended Schemes,Income,12.4112,28-Feb-2026
-151351,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 76 (1221 Days) - Direct Plan - Growth,INF200KA19U6,,Close Ended Schemes,Income,12.4111,28-Feb-2026
+151348,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 76 (1221 Days) - Regular Plan - Income Distribution Cum Capital Withdrawal Payout,INF200KA18U8,,Close Ended Schemes,Income,12.3682,01-Mar-2026
+151349,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 76 (1221 Days) - Regular Plan - Growth,INF200KA17U0,,Close Ended Schemes,Income,12.3682,01-Mar-2026
+151350,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 76 (1221 Days) - Direct Plan - Income Distribution Cum Capital Withdrawal Payout,INF200KA10V3,,Close Ended Schemes,Income,12.4129,01-Mar-2026
+151351,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 76 (1221 Days) - Direct Plan - Growth,INF200KA19U6,,Close Ended Schemes,Income,12.4128,01-Mar-2026
 151358,Kotak Mahindra Mutual Fund,Kotak Nifty 1D Rate Liquid ETF,INF174KA1LV5,,Open Ended Schemes,Other Scheme - Other  ETFs,1093.3233,01-Mar-2026
 151359,Kotak Mahindra Mutual Fund,Kotak FMP Series 306 - Regular Plan - Growth,INF174KA1LW3,,Close Ended Schemes,Income,10.17967887,25-Apr-2023
 151360,Kotak Mahindra Mutual Fund,Kotak FMP Series 306 - Direct Plan - Growth,INF174KA1LY9,,Close Ended Schemes,Income,10.18230576,25-Apr-2023
@@ -11965,10 +11965,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 151448,DSP Mutual Fund,DSP FMP Series - 270 - 1144 Days - Regular - IDCW,INF740KA1SL6,INF740KA1SM4,Close Ended Schemes,Income,12.3546,27-Feb-2026
 151449,DSP Mutual Fund,DSP FMP Series - 270 - 1144 Days - Direct - Growth,INF740KA1SN2,,Close Ended Schemes,Income,12.3919,27-Feb-2026
 151450,DSP Mutual Fund,DSP FMP Series - 270 - 1144 Days - Direct - IDCW,INF740KA1SO0,INF740KA1SP7,Close Ended Schemes,Income,12.3926,27-Feb-2026
-151451,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)-Series 78 (1170 Days) Direct Plan- Growth,INF200KA19V4,,Close Ended Schemes,Income,12.4018,28-Feb-2026
-151452,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)-Series 78 (1170 Days) Direct Plan- Income Distribution Cum Capital Withdrawal Payout,INF200KA10W1,,Close Ended Schemes,Income,12.4019,28-Feb-2026
-151453,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)-Series 78 (1170 Days) Regular Plan- Income Distribution Cum Capital Withdrawal Payout,INF200KA18V6,,Close Ended Schemes,Income,12.3559,28-Feb-2026
-151454,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)-Series 78 (1170 Days) Regular Plan- Growth,INF200KA17V8,,Close Ended Schemes,Income,12.3567,28-Feb-2026
+151451,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)-Series 78 (1170 Days) Direct Plan- Growth,INF200KA19V4,,Close Ended Schemes,Income,12.4035,01-Mar-2026
+151452,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)-Series 78 (1170 Days) Direct Plan- Income Distribution Cum Capital Withdrawal Payout,INF200KA10W1,,Close Ended Schemes,Income,12.4036,01-Mar-2026
+151453,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)-Series 78 (1170 Days) Regular Plan- Income Distribution Cum Capital Withdrawal Payout,INF200KA18V6,,Close Ended Schemes,Income,12.3576,01-Mar-2026
+151454,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)-Series 78 (1170 Days) Regular Plan- Growth,INF200KA17V8,,Close Ended Schemes,Income,12.3583,01-Mar-2026
 151455,HDFC Mutual Fund,HDFC Nifty SDL Oct 2026 Index Fund - Growth Option,INF179KC1FJ5,,Open Ended Schemes,Other Scheme - Index Funds,12.4484,27-Feb-2026
 151456,HDFC Mutual Fund,HDFC Nifty SDL Oct 2026 Index Fund - Growth Option - Direct Plan,INF179KC1FI7,,Open Ended Schemes,Other Scheme - Index Funds,12.5071,27-Feb-2026
 151457,HDFC Mutual Fund,HDFC MNC Fund - Growth Option,INF179KC1FF3,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,13.527,27-Feb-2026
@@ -12033,10 +12033,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 151547,Bandhan Mutual Fund,Bandhan US Treasury Bond 0-1 year specific Debt Passive FOF- REGULAR PLAN- IDCW,INF194KB1FU4,INF194KB1FZ3,Open Ended Schemes,Other Scheme - FoF Overseas,12.5503,28-Feb-2026
 151548,Bandhan Mutual Fund,Bandhan US Treasury Bond 0-1 year specific Debt Passive FOF - DIRECT PLAN - GROWTH,INF194KB1FV2,,Open Ended Schemes,Other Scheme - FoF Overseas,12.5721,28-Feb-2026
 151549,Bandhan Mutual Fund,Bandhan US Treasury Bond 0-1 year specific Debt Passive FOF - DIRECT PLAN - IDCW,INF194KB1FW0,INF194KB1GA4,Open Ended Schemes,Other Scheme - FoF Overseas,12.5721,28-Feb-2026
-151556,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 79 (1130 Days) - Regular Plan - Growth,INF200KA17W6,,Close Ended Schemes,Income,12.3097,28-Feb-2026
-151557,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 79 (1130 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Payout,INF200KA18W4,,Close Ended Schemes,Income,12.3098,28-Feb-2026
-151558,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 79 (1130 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Payout,INF200KA10X9,,Close Ended Schemes,Income,12.3537,28-Feb-2026
-151559,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 79 (1130 Days) - Direct Plan - Growth,INF200KA19W2,,Close Ended Schemes,Income,12.3534,28-Feb-2026
+151556,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 79 (1130 Days) - Regular Plan - Growth,INF200KA17W6,,Close Ended Schemes,Income,12.3114,01-Mar-2026
+151557,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 79 (1130 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Payout,INF200KA18W4,,Close Ended Schemes,Income,12.3115,01-Mar-2026
+151558,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 79 (1130 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Payout,INF200KA10X9,,Close Ended Schemes,Income,12.3554,01-Mar-2026
+151559,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 79 (1130 Days) - Direct Plan - Growth,INF200KA19W2,,Close Ended Schemes,Income,12.3551,01-Mar-2026
 151560,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty SDL SEP 2027 Index Fund-Regular Growth,INF209KB14T8,,Open Ended Schemes,Other Scheme - Index Funds,12.519,27-Feb-2026
 151561,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty SDL SEP 2027 Index Fund-Regular IDCW,INF209KB15T5,,Open Ended Schemes,Other Scheme - Index Funds,12.5189,27-Feb-2026
 151562,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty SDL SEP 2027 Index Fund-Direct Growth,INF209KB16T3,,Open Ended Schemes,Other Scheme - Index Funds,12.6126,27-Feb-2026
@@ -12093,10 +12093,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 151636,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 88 - Plan U - IDCW,INF109KC12S4,,Close Ended Schemes,Income,10.1584,13-Jun-2023
 151637,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 88 - Plan U - Growth,INF109KC11S6,,Close Ended Schemes,Income,10.1584,13-Jun-2023
 151638,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 88 - Plan U - Direct Plan - Growth,INF109KC13S2,,Close Ended Schemes,Income,10.1607,13-Jun-2023
-151639,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)-Series 81 (1157 Days) Direct Plan- Growth,INF200KA17X4,,Close Ended Schemes,Income,12.3132,28-Feb-2026
-151640,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)-Series 81 (1157 Days) Direct Plan- Income Distribution Cum Capital Withdrawal Payout,INF200KA18X2,,Close Ended Schemes,Income,12.3133,28-Feb-2026
-151641,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)-Series 81 (1157 Days) Regular Plan- Growth,INF200KA15X8,,Close Ended Schemes,Income,12.2709,28-Feb-2026
-151642,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)-Series 81 (1157 Days) Regular Plan- Income Distribution Cum Capital Withdrawal Payout,INF200KA16X6,,Close Ended Schemes,Income,12.2710,28-Feb-2026
+151639,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)-Series 81 (1157 Days) Direct Plan- Growth,INF200KA17X4,,Close Ended Schemes,Income,12.3151,01-Mar-2026
+151640,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)-Series 81 (1157 Days) Direct Plan- Income Distribution Cum Capital Withdrawal Payout,INF200KA18X2,,Close Ended Schemes,Income,12.3151,01-Mar-2026
+151641,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)-Series 81 (1157 Days) Regular Plan- Growth,INF200KA15X8,,Close Ended Schemes,Income,12.2727,01-Mar-2026
+151642,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP)-Series 81 (1157 Days) Regular Plan- Income Distribution Cum Capital Withdrawal Payout,INF200KA16X6,,Close Ended Schemes,Income,12.2727,01-Mar-2026
 151647,Kotak Mahindra Mutual Fund,Kotak Nifty Smallcap 50 Index Fund - Regular Plan - Growth,INF174KA1MY7,,Open Ended Schemes,Other Scheme - Index Funds,19.078,27-Feb-2026
 151648,Kotak Mahindra Mutual Fund,Kotak Nifty Smallcap 50 Index Fund - Regular Plan - IDCW,INF174KA1MZ4,INF174KA1NA5,Open Ended Schemes,Other Scheme - Index Funds,19.078,27-Feb-2026
 151649,Kotak Mahindra Mutual Fund,Kotak Nifty Smallcap 50 Index Fund - Direct Plan - Growth,INF174KA1NB3,,Open Ended Schemes,Other Scheme - Index Funds,19.433,27-Feb-2026
@@ -12771,7 +12771,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 152544,Kotak Mahindra Mutual Fund,Kotak Fixed Maturity Plan Series 329 - 90 Days - Regular Plan - IDCW Option,INF174KA1RO7,,Close Ended Schemes,Income,10.18583696,19-Jun-2024
 152545,Kotak Mahindra Mutual Fund,Kotak Fixed Maturity Plan Series 329 - 90 Days - Direct Plan - Growth Option,INF174KA1RP4,,Close Ended Schemes,Income,10.18968203,19-Jun-2024
 152546,Motilal Oswal Mutual Fund,Motilal Oswal Nifty Smallcap 250 ETF,INF247L01CH6,,Open Ended Schemes,Other Scheme - Other  ETFs,15.9489,27-Feb-2026
-152555,DSP Mutual Fund,DSP BSE Liquid Rate ETF,INF740KA1UM0,,Open Ended Schemes,Other Scheme - Other  ETFs,1115.172,27-Feb-2026
+152555,DSP Mutual Fund,DSP BSE Liquid Rate ETF,INF740KA1UM0,,Open Ended Schemes,Other Scheme - Other  ETFs,1115.4544,01-Mar-2026
 152556,Tata Mutual Fund,Tata Nifty Auto Index Fund - Regular Plan - IDCW Reinvestment,,INF277KA1AT8,Open Ended Schemes,Other Scheme - Index Funds,12.6174,27-Feb-2026
 152557,Tata Mutual Fund,Tata Nifty Auto Index Fund - Direct Plan - Growth,INF277KA1AU6,,Open Ended Schemes,Other Scheme - Index Funds,12.7739,27-Feb-2026
 152558,Tata Mutual Fund,Tata Nifty Auto Index Fund - Direct Plan - IDCW Reinvestment,,INF277KA1AW2,Open Ended Schemes,Other Scheme - Index Funds,12.7739,27-Feb-2026
@@ -13930,7 +13930,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 153791,Jio BlackRock Mutual Fund,JioBlackRock Nifty 8-13 yr G-Sec Index Fund - Direct Plan - Growth Option,INF22M001069,,Open Ended Schemes,Other Scheme - Index Funds,10.2415,27-Feb-2026
 153794,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Gold ETF Fund of Funds Regular Growth,INF251K01VE7,,Open Ended Schemes,Other Scheme - FoF Domestic,15.7609,27-Feb-2026
 153795,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Gold ETF Fund of Funds Direct Growth,INF251K01VF4,,Open Ended Schemes,Other Scheme - FoF Domestic,15.7786,27-Feb-2026
-153796,SBI Mutual Fund,SBI Nifty 1D Rate Liquid ETF - Growth,INF200KB1969,,Open Ended Schemes,Other Scheme - Other  ETFs,1028.5404,28-Feb-2026
+153796,SBI Mutual Fund,SBI Nifty 1D Rate Liquid ETF - Growth,INF200KB1969,,Open Ended Schemes,Other Scheme - Other  ETFs,1028.6726,01-Mar-2026
 153797,Groww Mutual Fund,Groww Nifty Next 50 Index Fund Direct IDCW,INF666M01LU9,INF666M01LV7,Open Ended Schemes,Other Scheme - Index Funds,10.2922,27-Feb-2026
 153798,Groww Mutual Fund,Groww Nifty Next 50 Index Fund Regular Growth,INF666M01LW5,,Open Ended Schemes,Other Scheme - Index Funds,10.2554,27-Feb-2026
 153799,Groww Mutual Fund,Groww Nifty Next 50 Index Fund Regular IDCW,INF666M01LX3,INF666M01LY1,Open Ended Schemes,Other Scheme - Index Funds,10.2554,27-Feb-2026
