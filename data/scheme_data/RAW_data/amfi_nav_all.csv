@@ -274,8 +274,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 101165,ICICI Prudential Mutual Fund,ICICI Prudential Short Term Fund - Monthly IDCW,INF109K01WL0,INF109K01647,Open Ended Schemes,Debt Scheme - Short Duration Fund,12.0654,02-Mar-2026
 101169,SBI Mutual Fund,SBI Children's Fund - Savings Plan - REGULAR PLAN - GROWTH,INF200K01776,,Open Ended Schemes,Solution Oriented Scheme - Childrenâs Fund,110.9431,02-Mar-2026
 101181,JM Financial Mutual Fund,JM Medium to Long Duration Fund (Regular) - Bonus Option- Principal Units,INF192K01AC1,,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund,26.0318,02-Mar-2026
-101184,LIC Mutual Fund,LIC MF Liquid Fund-Regular Plan-Daily IDCW,INF767K01IQ3,INF767K01IR1,Open Ended Schemes,Debt Scheme - Liquid Fund,1000.1751,02-Mar-2026
-101185,LIC Mutual Fund,LIC MF Liquid Fund-Regular Plan-Growth,INF767K01IS9,,Open Ended Schemes,Debt Scheme - Liquid Fund,4903.7735,02-Mar-2026
+101184,LIC Mutual Fund,LIC MF Liquid Fund-Regular Plan-Daily IDCW,INF767K01IQ3,INF767K01IR1,Open Ended Schemes,Debt Scheme - Liquid Fund,1000.1751,03-Mar-2026
+101185,LIC Mutual Fund,LIC MF Liquid Fund-Regular Plan-Growth,INF767K01IS9,,Open Ended Schemes,Debt Scheme - Liquid Fund,4904.5814,03-Mar-2026
 101186,Tata Mutual Fund,Tata Income Fund- Regular Plan - Periodic Payout of IDCW Option,INF277K01DT8,INF277K01667,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund,38.6487,23-Sep-2022
 101187,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas GILT FUND - Regular Plan - Growth Option,INF955L01450,,Open Ended Schemes,Debt Scheme - Gilt Fund,43.2658,02-Mar-2026
 101188,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas GILT FUND - Regular Plan - IDCW Option,INF955L01435,INF955L01443,Open Ended Schemes,Debt Scheme - Gilt Fund,25.6804,02-Mar-2026
@@ -484,10 +484,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 102118,Tata Mutual Fund,Tata Equity Savings Fund- Regular Plan - Periodic Payout of IDCW Option,INF277K01EF5,INF277K01915,Open Ended Schemes,Hybrid Scheme - Equity Savings,26.9991,20-Feb-2026
 102133,ICICI Prudential Mutual Fund,ICICI Prudential Multi Sector Passive FOF - Growth,INF109K01795,,Open Ended Schemes,Other Scheme - FoF Domestic,167.2471,02-Mar-2026
 102134,ICICI Prudential Mutual Fund,ICICI Prudential Multi Sector Passive FOF - IDCW,INF109K01DW7,INF109K01803,Open Ended Schemes,Other Scheme - FoF Domestic,130.3066,02-Mar-2026
-102135,ICICI Prudential Mutual Fund,ICICI Prudential Thematic Advantage Fund (FOF) - Growth,INF109K01852,,Open Ended Schemes,Other Scheme - FoF Domestic,222.5806,27-Feb-2026
-102136,ICICI Prudential Mutual Fund,ICICI Prudential Thematic Advantage Fund (FOF) - IDCW,INF109K01FR2,INF109K01860,Open Ended Schemes,Other Scheme - FoF Domestic,172.5418,27-Feb-2026
-102137,ICICI Prudential Mutual Fund,ICICI Prudential Dynamic Asset Allocation Active FOF - Growth,INF109K01837,,Open Ended Schemes,Other Scheme - FoF Domestic,122.6909,27-Feb-2026
-102138,ICICI Prudential Mutual Fund,ICICI Prudential Dynamic Asset Allocation Active FOF - IDCW,INF109K01FJ9,INF109K01845,Open Ended Schemes,Other Scheme - FoF Domestic,94.2871,27-Feb-2026
+102135,ICICI Prudential Mutual Fund,ICICI Prudential Thematic Advantage Fund (FOF) - Growth,INF109K01852,,Open Ended Schemes,Other Scheme - FoF Domestic,219.7558,02-Mar-2026
+102136,ICICI Prudential Mutual Fund,ICICI Prudential Thematic Advantage Fund (FOF) - IDCW,INF109K01FR2,INF109K01860,Open Ended Schemes,Other Scheme - FoF Domestic,170.3520,02-Mar-2026
+102137,ICICI Prudential Mutual Fund,ICICI Prudential Dynamic Asset Allocation Active FOF - Growth,INF109K01837,,Open Ended Schemes,Other Scheme - FoF Domestic,121.7982,02-Mar-2026
+102138,ICICI Prudential Mutual Fund,ICICI Prudential Dynamic Asset Allocation Active FOF - IDCW,INF109K01FJ9,INF109K01845,Open Ended Schemes,Other Scheme - FoF Domestic,93.6011,02-Mar-2026
 102139,ICICI Prudential Mutual Fund,ICICI Prudential Income Plus Arbitrage Omni FOF - Growth,INF109K01811,,Open Ended Schemes,Other Scheme - FoF Domestic,64.8830,02-Mar-2026
 102140,ICICI Prudential Mutual Fund,ICICI Prudential Income plus Arbitrage Omni FOF - IDCW,INF109K01EB9,INF109K01829,Open Ended Schemes,Other Scheme - FoF Domestic,49.7873,02-Mar-2026
 102141,ICICI Prudential Mutual Fund,ICICI Prudential Diversified Debt Strategy Active FOF - Growth,INF109K01878,,Open Ended Schemes,Other Scheme - FoF Domestic,46.5799,02-Mar-2026
@@ -1009,8 +1009,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 107764,LIC Mutual Fund,LIC MF Infrastructure Fund-Regular Plan-IDCW,INF767K01485,INF767K01493,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,49.4821,02-Mar-2026
 107900,Nippon India Mutual Fund,Reliance Equity Linked Saving Fund - Series I - Dividend Plan,INF204K01ON2,,Close Ended Schemes,ELSS,32.0820,02-Apr-2018
 107901,Nippon India Mutual Fund,Reliance Equity Linked Saving Fund - Series I - Growth Plan,INF204K01OM4,,Close Ended Schemes,ELSS,32.0820,02-Apr-2018
-107988,HSBC Mutual Fund,HSBC Global Emerging Markets Fund - Growth,INF336L01446,,Open Ended Schemes,Other Scheme - FoF Overseas,31.1903,27-Feb-2026
-107989,HSBC Mutual Fund,HSBC Global Emerging Markets Fund - IDCW,INF336L01438,INF336L01420,Open Ended Schemes,Other Scheme - FoF Overseas,23.7302,27-Feb-2026
+107988,HSBC Mutual Fund,HSBC Global Emerging Markets Fund - Growth,INF336L01446,,Open Ended Schemes,Other Scheme - FoF Overseas,30.7333,02-Mar-2026
+107989,HSBC Mutual Fund,HSBC Global Emerging Markets Fund - IDCW,INF336L01438,INF336L01420,Open Ended Schemes,Other Scheme - FoF Overseas,23.3825,02-Mar-2026
 108166,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Value Fund - Regular - IDCW,INF209K01LE6,INF209K01LG1,Open Ended Schemes,Equity Scheme - Value Fund,41.1032,02-Mar-2026
 108167,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Value Fund - Growth Option,INF209K01LF3,,Open Ended Schemes,Equity Scheme - Value Fund,124.8556,02-Mar-2026
 108202,DSP Mutual Fund,DSP Natural Resources And New Energy Fund - Regular - Growth,INF740K01060,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,109.755,02-Mar-2026
@@ -1502,8 +1502,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 115093,ICICI Prudential Mutual Fund,ICICI Prudential Ultra Short Term Fund - Half Yearly IDCW,INF109K01TV5,INF109K01TU7,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund,10.6114,16-Sep-2022
 115094,ICICI Prudential Mutual Fund,ICICI Prudential Ultra Short Term Fund - Monthly IDCW,INF109K01TR3,INF109K01TQ5,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund,10.6530,02-Mar-2026
 115103,JM Financial Mutual Fund,JM Short Term Fund - Daily Dividend Option,,INF192K01BD7,Open Ended Schemes,Debt Scheme - Short Duration Fund,14.0738,25-Sep-2020
-115116,HSBC Mutual Fund,HSBC Brazil Fund-Growth,INF336L01164,,Open Ended Schemes,Other Scheme - FoF Overseas,10.8358,27-Feb-2026
-115117,HSBC Mutual Fund,HSBC Brazil Fund - IDCW,INF336L01172,INF336L01180,Open Ended Schemes,Other Scheme - FoF Overseas,10.8358,27-Feb-2026
+115116,HSBC Mutual Fund,HSBC Brazil Fund-Growth,INF336L01164,,Open Ended Schemes,Other Scheme - FoF Overseas,10.6687,02-Mar-2026
+115117,HSBC Mutual Fund,HSBC Brazil Fund - IDCW,INF336L01172,INF336L01180,Open Ended Schemes,Other Scheme - FoF Overseas,10.6687,02-Mar-2026
 115127,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Gold ETF,INF209KB18D3,,Open Ended Schemes,Other Scheme - Gold ETF,146.3239,02-Mar-2026
 115131,Axis Mutual Fund,Axis Dynamic Bond Fund - Regular Plan - Half Yearly IDCW,INF846K01941,INF846K01958,Open Ended Schemes,Debt Scheme - Dynamic Bond,11.8144,02-Mar-2026
 115132,Quantum Mutual Fund,Quantum Gold Savings Fund - Direct Plan Growth Option,INF082J01150,,Open Ended Schemes,Other Scheme - FoF Domestic,64.1648,02-Mar-2026
@@ -2479,14 +2479,14 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 119960,Tata Mutual Fund,Tata Equity Savings Fund- Direct Plan- Growth Option,INF277K01QH5,,Open Ended Schemes,Hybrid Scheme - Equity Savings,63.7493,20-Feb-2026
 120029,HSBC Mutual Fund,HSBC Large Cap Fund - Direct IDCW,INF336L01CK1,INF336L01CL9,Open Ended Schemes,Equity Scheme - Large Cap Fund,40.4239,02-Mar-2026
 120030,HSBC Mutual Fund,HSBC Large Cap Fund - Direct Growth,INF336L01CM7,,Open Ended Schemes,Equity Scheme - Large Cap Fund,540.2684,02-Mar-2026
-120035,HSBC Mutual Fund,HSBC Brazil Fund - Growth Direct,INF336L01BY4,,Open Ended Schemes,Other Scheme - FoF Overseas,11.8904,27-Feb-2026
-120036,HSBC Mutual Fund,HSBC Brazil Fund - IDCW Direct Plan,INF336L01BW8,INF336L01BX6,Open Ended Schemes,Other Scheme - FoF Overseas,11.8801,27-Feb-2026
+120035,HSBC Mutual Fund,HSBC Brazil Fund - Growth Direct,INF336L01BY4,,Open Ended Schemes,Other Scheme - FoF Overseas,11.7075,02-Mar-2026
+120036,HSBC Mutual Fund,HSBC Brazil Fund - IDCW Direct Plan,INF336L01BW8,INF336L01BX6,Open Ended Schemes,Other Scheme - FoF Overseas,11.6974,02-Mar-2026
 120037,HSBC Mutual Fund,HSBC Liquid Fund - Direct Daily IDCW,,INF336L01CB0,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.576,02-Mar-2026
 120038,HSBC Mutual Fund,HSBC Liquid Fund -  Growth Direct,INF336L01CC8,,Open Ended Schemes,Debt Scheme - Liquid Fund,2731.9044,02-Mar-2026
 120039,HSBC Mutual Fund,HSBC Liquid Fund - Direct Monthly IDCW,INF336L01BZ1,INF336L01CA2,Open Ended Schemes,Debt Scheme - Liquid Fund,1038.6856,02-Mar-2026
 120040,HSBC Mutual Fund,HSBC Liquid Fund - Direct Weekly IDCW,INF336L01LK2,INF336L01CD6,Open Ended Schemes,Debt Scheme - Liquid Fund,1196.217,02-Mar-2026
-120043,HSBC Mutual Fund,HSBC Global Emerging Market Fund - Growth Direct,INF336L01CJ3,,Open Ended Schemes,Other Scheme - FoF Overseas,34.1978,27-Feb-2026
-120044,HSBC Mutual Fund,HSBC Global Emerging Markets Fund - IDCW Direct Plan,INF336L01CH7,INF336L01CI5,Open Ended Schemes,Other Scheme - FoF Overseas,28.9562,27-Feb-2026
+120043,HSBC Mutual Fund,HSBC Global Emerging Market Fund - Growth Direct,INF336L01CJ3,,Open Ended Schemes,Other Scheme - FoF Overseas,33.6986,02-Mar-2026
+120044,HSBC Mutual Fund,HSBC Global Emerging Markets Fund - IDCW Direct Plan,INF336L01CH7,INF336L01CI5,Open Ended Schemes,Other Scheme - FoF Overseas,28.5334,02-Mar-2026
 120045,HSBC Mutual Fund,HSBC Flexi Cap Fund - Direct IDCW,INF336L01DF9,INF336L01DG7,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,43.522,02-Mar-2026
 120046,HSBC Mutual Fund,HSBC Flexi Cap Fund - Direct Growth,INF336L01DH5,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,238.9382,02-Mar-2026
 120059,HSBC Mutual Fund,HSBC Medium to Long Duration Fund - Direct Growth,INF336L01DE2,,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund,48.0001,02-Mar-2026
@@ -2531,8 +2531,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 120243,ICICI Prudential Mutual Fund,ICICI Prudential Multi Sector Passive FOF - Direct Plan -  IDCW,INF109K01W33,INF109K01W41,Open Ended Schemes,Other Scheme - FoF Domestic,137.9879,02-Mar-2026
 120244,ICICI Prudential Mutual Fund,ICICI Prudential Banking and Financial Services Fund - Direct Plan -  Growth,INF109K013J1,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,152.82,02-Mar-2026
 120245,ICICI Prudential Mutual Fund,ICICI Prudential Banking and Financial Services Fund - Direct Plan -  IDCW,INF109K011J5,INF109K012J3,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,70.22,02-Mar-2026
-120248,LIC Mutual Fund,LIC MF Liquid Fund-Direct Plan-Daily IDCW,INF767K01DL5,INF767K01DM3,Open Ended Schemes,Debt Scheme - Liquid Fund,1034.6038,02-Mar-2026
-120249,LIC Mutual Fund,LIC MF Liquid Fund-Direct Plan-Growth,INF767K01DN1,,Open Ended Schemes,Debt Scheme - Liquid Fund,4977.4789,02-Mar-2026
+120248,LIC Mutual Fund,LIC MF Liquid Fund-Direct Plan-Daily IDCW,INF767K01DL5,INF767K01DM3,Open Ended Schemes,Debt Scheme - Liquid Fund,1034.6038,03-Mar-2026
+120249,LIC Mutual Fund,LIC MF Liquid Fund-Direct Plan-Growth,INF767K01DN1,,Open Ended Schemes,Debt Scheme - Liquid Fund,4978.3099,03-Mar-2026
 120251,ICICI Prudential Mutual Fund,ICICI Prudential Equity & Debt Fund - Direct Plan - Growth,INF109K01Y07,,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund,448.13,02-Mar-2026
 120252,ICICI Prudential Mutual Fund,ICICI Prudential Equity & Debt Fund - Direct Plan - Monthly IDCW,INF109K01X81,INF109K01X99,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund,70.85,02-Mar-2026
 120255,ICICI Prudential Mutual Fund,ICICI Prudential Banking and PSU Debt Fund - Direct Plan -  Weekly IDCW,INF109K013A0,INF109K014A8,Open Ended Schemes,Debt Scheme - Banking and PSU Fund,10.3708,16-Sep-2022
@@ -2835,8 +2835,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 120676,ICICI Prudential Mutual Fund,ICICI Prudential Ultra Short Term Fund - Direct Plan -  Growth,INF109K01T04,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund,31.2565,02-Mar-2026
 120677,ICICI Prudential Mutual Fund,ICICI Prudential Ultra Short Term Fund - Direct Plan -  Monthly IDCW,INF109K01T38,INF109K01T46,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund,10.7825,02-Mar-2026
 120678,ICICI Prudential Mutual Fund,ICICI Prudential Ultra Short Term Fund - Direct Plan -  Half Yearly IDCW,INF109K01T12,INF109K01T20,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund,10.7542,16-Sep-2022
-120679,ICICI Prudential Mutual Fund,ICICI Prudential Dynamic Asset Allocation Active FOF - Direct Plan - Growth,INF109K01X16,,Open Ended Schemes,Other Scheme - FoF Domestic,136.4230,27-Feb-2026
-120680,ICICI Prudential Mutual Fund,ICICI Prudential Dynamic Asset Allocation Active FOF - Direct Plan - IDCW,INF109K01W90,INF109K01X08,Open Ended Schemes,Other Scheme - FoF Domestic,106.9825,27-Feb-2026
+120679,ICICI Prudential Mutual Fund,ICICI Prudential Dynamic Asset Allocation Active FOF - Direct Plan - Growth,INF109K01X16,,Open Ended Schemes,Other Scheme - FoF Domestic,135.4421,02-Mar-2026
+120680,ICICI Prudential Mutual Fund,ICICI Prudential Dynamic Asset Allocation Active FOF - Direct Plan - IDCW,INF109K01W90,INF109K01X08,Open Ended Schemes,Other Scheme - FoF Domestic,106.2132,02-Mar-2026
 120681,UTI Mutual Fund,UTI MNC Fund - Direct Plan - IDCW,INF789F01UB4,INF789F01UC2,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,222.4147,02-Mar-2026
 120682,UTI Mutual Fund,UTI - MNC Fund - Growth Option - Direct,INF789F01UD0,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,428.7655,02-Mar-2026
 120683,ICICI Prudential Mutual Fund,ICICI Prudential Nifty Next 50 Index Fund - Direct Plan -  IDCW,INF109K01Y64,INF109K01Y72,Open Ended Schemes,Other Scheme - Index Funds,63.6475,02-Mar-2026
@@ -2854,7 +2854,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 120695,ICICI Prudential Mutual Fund,ICICI Prudential Corporate Bond Fund - Direct Plan - Daily IDCW,INF109K013B8,,Open Ended Schemes,Debt Scheme - Corporate Bond Fund,10.1008,16-Sep-2022
 120696,ICICI Prudential Mutual Fund,ICICI Prudential Corporate Bond Fund - Direct Plan - Fortnightly IDCW,INF109K014B6,INF109K015B3,Open Ended Schemes,Debt Scheme - Corporate Bond Fund,12.1669,16-Sep-2022
 120697,ICICI Prudential Mutual Fund,ICICI Prudential Corporate Bond Fund - Direct Plan - Monthly IDCW,INF109K017B9,INF109K018B7,Open Ended Schemes,Debt Scheme - Corporate Bond Fund,10.2240,02-Mar-2026
-120700,ICICI Prudential Mutual Fund,ICICI Prudential Thematic Advantage Fund (FOF) - Direct Plan - Growth,INF109K01X40,,Open Ended Schemes,Other Scheme - FoF Domestic,239.3391,27-Feb-2026
+120700,ICICI Prudential Mutual Fund,ICICI Prudential Thematic Advantage Fund (FOF) - Direct Plan - Growth,INF109K01X40,,Open Ended Schemes,Other Scheme - FoF Domestic,236.3250,02-Mar-2026
 120702,ICICI Prudential Mutual Fund,ICICI Prudential Diversified Debt Strategy Active FOF  - Direct Plan - Growth,INF109K01X73,,Open Ended Schemes,Other Scheme - FoF Domestic,48.5305,02-Mar-2026
 120703,ICICI Prudential Mutual Fund,ICICI Prudential Diversified Debt Strategy Active FOF - Direct Plan -  IDCW,INF109K01X57,INF109K01X65,Open Ended Schemes,Other Scheme - FoF Domestic,42.7259,02-Mar-2026
 120705,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Regular Savings Fund - Growth / Payment - Direct Plan,INF209K01XH4,INF209K01XJ0,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund,77.4035,02-Mar-2026
@@ -3758,10 +3758,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 127067,Nippon India Mutual Fund,Reliance Fixed Horizon Fund - XXV - Series 21 - Direct Plan - Growth Option,INF204KA1HX3,,Close Ended Schemes,Income,13.0344,25-Apr-2017
 127068,Nippon India Mutual Fund,Reliance Fixed Horizon Fund - XXV - Series 21 - Dividend Payout Option,INF204KA1IA9,,Close Ended Schemes,Income,10.0000,20-Apr-2015
 127069,Nippon India Mutual Fund,Reliance Fixed Horizon Fund - XXV - Series 21 - Direct Plan - Dividend Payout Option,INF204KA1HY1,,Close Ended Schemes,Income,10.0000,25-Apr-2017
-127070,HSBC Mutual Fund,HSBC Asia Pacific IDCW Yield Fund IDCW,INF336L01HD5,INF336L01HE3,Open Ended Schemes,Other Scheme - FoF Overseas,23.3977,27-Feb-2026
-127071,HSBC Mutual Fund,HSBC Asia Pacific (Ex Japan) Dividend Yield Fund - Growth Direct,INF336L01HF0,,Open Ended Schemes,Other Scheme - FoF Overseas,35.9612,27-Feb-2026
-127072,HSBC Mutual Fund,HSBC Asia Pacific IDCW Yield Fund Direct Plan IDCW,INF336L01HG8,INF336L01HH6,Open Ended Schemes,Other Scheme - FoF Overseas,23.3215,27-Feb-2026
-127073,HSBC Mutual Fund,HSBC Asia Pacific (Ex Japan) Dividend Yield Fund - Growth,INF336L01HC7,,Open Ended Schemes,Other Scheme - FoF Overseas,33.2488,27-Feb-2026
+127070,HSBC Mutual Fund,HSBC Asia Pacific IDCW Yield Fund IDCW,INF336L01HD5,INF336L01HE3,Open Ended Schemes,Other Scheme - FoF Overseas,23.2143,02-Mar-2026
+127071,HSBC Mutual Fund,HSBC Asia Pacific (Ex Japan) Dividend Yield Fund - Growth Direct,INF336L01HF0,,Open Ended Schemes,Other Scheme - FoF Overseas,35.6807,02-Mar-2026
+127072,HSBC Mutual Fund,HSBC Asia Pacific IDCW Yield Fund Direct Plan IDCW,INF336L01HG8,INF336L01HH6,Open Ended Schemes,Other Scheme - FoF Overseas,23.1397,02-Mar-2026
+127073,HSBC Mutual Fund,HSBC Asia Pacific (Ex Japan) Dividend Yield Fund - Growth,INF336L01HC7,,Open Ended Schemes,Other Scheme - FoF Overseas,32.9881,02-Mar-2026
 127080,Nippon India Mutual Fund,Reliance Fixed Horizon Fund - XXV - Series 22 - Growth Option,INF204KA1ID3,,Close Ended Schemes,Income,12.9419,25-Apr-2017
 127081,Nippon India Mutual Fund,Reliance Fixed Horizon Fund - XXV - Series 22 - Direct Plan - Dividend Payout Option,INF204KA1IC5,,Close Ended Schemes,Income,10.0000,17-Apr-2015
 127082,Nippon India Mutual Fund,Reliance Fixed Horizon Fund - XXV - Series 22 - Dividend Payout Option,INF204KA1IE1,,Close Ended Schemes,Income,10.0000,25-Apr-2017
@@ -4067,7 +4067,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 129052,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Wholesale Growth Option - Direct Plan,INF179KA1KT6,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,21.044,02-Mar-2026
 129053,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Wholesale IDCW Option - Direct Plan,INF179KA1KQ2,INF179KA1KP4,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,11.67,02-Mar-2026
 129054,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Wholesale Monthly IDCW - Direct Plan,INF179KA1KS8,INF179KA1KR0,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,11.275,02-Mar-2026
-129065,HSBC Mutual Fund,HSBC Aggressive Hybrid Active FOF - Growth,INF336L01IA9,,Open Ended Schemes,Other Scheme - FoF Domestic,40.452,27-Feb-2026
+129065,HSBC Mutual Fund,HSBC Aggressive Hybrid Active FOF - Growth,INF336L01IA9,,Open Ended Schemes,Other Scheme - FoF Domestic,40.0631,02-Mar-2026
 129066,ICICI Prudential Mutual Fund,ICICI Prudential Multiple Yield Fund - Series 6 - 1100 Days - Plan E -Cumulative,INF109KA1SN7,,Close Ended Schemes,Income,12.9746,02-May-2017
 129067,ICICI Prudential Mutual Fund,ICICI Prudential Multiple Yield Fund - Series 6 - 1100 Days - Plan E - Direct Plan - Dividend,INF109KA1SQ0,,Close Ended Schemes,Income,12.6864,02-May-2017
 129068,ICICI Prudential Mutual Fund,ICICI Prudential Multiple Yield Fund - Series 6 - 1100 Days - Plan E - Direct Plan - Cumulative,INF109KA1SP2,,Close Ended Schemes,Income,13.5358,02-May-2017
@@ -4091,17 +4091,17 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 129188,Invesco Mutual Fund,Invesco India - Invesco Global Equity Income Fund of Fund - Direct Plan - Growth,INF205K01B49,,Open Ended Schemes,Other Scheme - FoF Overseas,37.8339,02-Mar-2026
 129189,Invesco Mutual Fund,Invesco India - Invesco Global Equity Income Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment),INF205K01B23,INF205K01B31,Open Ended Schemes,Other Scheme - FoF Overseas,34.0761,02-Mar-2026
 129190,Invesco Mutual Fund,Invesco India - Invesco Global Equity Income Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment),INF205K01B56,INF205K01B64,Open Ended Schemes,Other Scheme - FoF Overseas,37.3765,02-Mar-2026
-129191,HSBC Mutual Fund,HSBC Multi Asset Active FOF - Growth,INF336L01IG6,,Open Ended Schemes,Other Scheme - FoF Domestic,40.2638,27-Feb-2026
-129192,HSBC Mutual Fund,HSBC Multi Asset Active FOF IDCW,INF336L01IE1,INF336L01IF8,Open Ended Schemes,Other Scheme - FoF Domestic,31.9861,27-Feb-2026
-129193,HSBC Mutual Fund,HSBC Multi Asset Active FOF - Growth Direct,INF336L01IJ0,,Open Ended Schemes,Other Scheme - FoF Domestic,43.1231,27-Feb-2026
-129194,HSBC Mutual Fund,HSBC Multi Asset Active FOF Direct Plan IDCW,INF336L01IH4,INF336L01II2,Open Ended Schemes,Other Scheme - FoF Domestic,22.426,27-Feb-2026
-129195,HSBC Mutual Fund,HSBC Income Plus Arbitrage Active FOF - Growth,INF336L01IM4,,Open Ended Schemes,Other Scheme - FoF Domestic,22.1415,27-Feb-2026
-129196,HSBC Mutual Fund,HSBC Income Plus Arbitrage Active FOF IDCW,INF336L01IK8,INF336L01IL6,Open Ended Schemes,Other Scheme - FoF Domestic,17.3505,27-Feb-2026
-129197,HSBC Mutual Fund,HSBC Income Plus Arbitrage Active FOF - Growth Direct,INF336L01IP7,,Open Ended Schemes,Other Scheme - FoF Domestic,23.5238,27-Feb-2026
-129198,HSBC Mutual Fund,HSBC Income Plus Arbitrage Active FOF Direct Plan IDCW,INF336L01IN2,INF336L01IO0,Open Ended Schemes,Other Scheme - FoF Domestic,19.0538,27-Feb-2026
-129199,HSBC Mutual Fund,HSBC Aggressive Hybrid Active FOF - Dividend,INF336L01HY1,INF336L01HZ8,Open Ended Schemes,Other Scheme - FoF Domestic,31.0889,27-Feb-2026
-129200,HSBC Mutual Fund,HSBC Aggressive Hybrid Active FOF - Growth Direct,INF336L01ID3,,Open Ended Schemes,Other Scheme - FoF Domestic,42.8565,27-Feb-2026
-129201,HSBC Mutual Fund,HSBC Aggressive Hybrid Active FOF - Dividend Direct,INF336L01IB7,INF336L01IC5,Open Ended Schemes,Other Scheme - FoF Domestic,33.3,27-Feb-2026
+129191,HSBC Mutual Fund,HSBC Multi Asset Active FOF - Growth,INF336L01IG6,,Open Ended Schemes,Other Scheme - FoF Domestic,40.3339,02-Mar-2026
+129192,HSBC Mutual Fund,HSBC Multi Asset Active FOF IDCW,INF336L01IE1,INF336L01IF8,Open Ended Schemes,Other Scheme - FoF Domestic,32.0418,02-Mar-2026
+129193,HSBC Mutual Fund,HSBC Multi Asset Active FOF - Growth Direct,INF336L01IJ0,,Open Ended Schemes,Other Scheme - FoF Domestic,43.1913,02-Mar-2026
+129194,HSBC Mutual Fund,HSBC Multi Asset Active FOF Direct Plan IDCW,INF336L01IH4,INF336L01II2,Open Ended Schemes,Other Scheme - FoF Domestic,22.4614,02-Mar-2026
+129195,HSBC Mutual Fund,HSBC Income Plus Arbitrage Active FOF - Growth,INF336L01IM4,,Open Ended Schemes,Other Scheme - FoF Domestic,22.1523,02-Mar-2026
+129196,HSBC Mutual Fund,HSBC Income Plus Arbitrage Active FOF IDCW,INF336L01IK8,INF336L01IL6,Open Ended Schemes,Other Scheme - FoF Domestic,17.359,02-Mar-2026
+129197,HSBC Mutual Fund,HSBC Income Plus Arbitrage Active FOF - Growth Direct,INF336L01IP7,,Open Ended Schemes,Other Scheme - FoF Domestic,23.5359,02-Mar-2026
+129198,HSBC Mutual Fund,HSBC Income Plus Arbitrage Active FOF Direct Plan IDCW,INF336L01IN2,INF336L01IO0,Open Ended Schemes,Other Scheme - FoF Domestic,19.0636,02-Mar-2026
+129199,HSBC Mutual Fund,HSBC Aggressive Hybrid Active FOF - Dividend,INF336L01HY1,INF336L01HZ8,Open Ended Schemes,Other Scheme - FoF Domestic,30.7899,02-Mar-2026
+129200,HSBC Mutual Fund,HSBC Aggressive Hybrid Active FOF - Growth Direct,INF336L01ID3,,Open Ended Schemes,Other Scheme - FoF Domestic,42.4488,02-Mar-2026
+129201,HSBC Mutual Fund,HSBC Aggressive Hybrid Active FOF - Dividend Direct,INF336L01IB7,INF336L01IC5,Open Ended Schemes,Other Scheme - FoF Domestic,32.9832,02-Mar-2026
 129210,Sundaram Mutual Fund,Sundaram Infrastructure Advantage Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW),INF903J01F76,INF903J01F84,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,56.0355,02-Mar-2026
 129211,Sundaram Mutual Fund,Sundaram Infrastructure Advantage Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW),INF903J01G00,INF903J01G18,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,60.4224,02-Mar-2026
 129212,Sundaram Mutual Fund,Sundaram Infrastructure Advantage Fund Direct Plan - Growth,INF903J01F92,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,104.9416,02-Mar-2026
@@ -9399,14 +9399,14 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 147495,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Equity Savings Fund - Regular Plan - IDCW,,INF955L01IK5,Open Ended Schemes,Hybrid Scheme - Equity Savings,13.5644,02-Mar-2026
 147496,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Equity Savings Fund - Direct Plan - Growth,INF955L01IL3,,Open Ended Schemes,Hybrid Scheme - Equity Savings,18.1225,02-Mar-2026
 147498,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Equity Savings Fund - Direct Plan - IDCW,,INF955L01IN9,Open Ended Schemes,Hybrid Scheme - Equity Savings,14.5717,02-Mar-2026
-147512,LIC Mutual Fund,LIC MF Overnight Fund-Regular Plan-IDCW,INF767K01PZ9,INF767K01QA0,Open Ended Schemes,Debt Scheme - Overnight Fund,1219.8507,02-Mar-2026
-147513,LIC Mutual Fund,LIC MF Overnight Fund-Direct Plan-IDCW,INF767K01QE2,INF767K01QF9,Open Ended Schemes,Debt Scheme - Overnight Fund,1390.5771,02-Mar-2026
-147514,LIC Mutual Fund,LIC MF Overnight Fund-Direct Plan-Weekly IDCW,,INF767K01QH5,Open Ended Schemes,Debt Scheme - Overnight Fund,1084.3485,02-Mar-2026
-147515,LIC Mutual Fund,LIC MF Overnight Fund-Direct Plan-Growth,INF767K01QI3,,Open Ended Schemes,Debt Scheme - Overnight Fund,1390.4108,02-Mar-2026
-147516,LIC Mutual Fund,LIC MF Overnight Fund-Direct Plan-Daily IDCW,,INF767K01QG7,Open Ended Schemes,Debt Scheme - Overnight Fund,1100.9124,02-Mar-2026
-147517,LIC Mutual Fund,LIC MF Overnight Fund-Regular Plan-Daily IDCW,,INF767K01QB8,Open Ended Schemes,Debt Scheme - Overnight Fund,1098.9504,02-Mar-2026
-147518,LIC Mutual Fund,LIC MF Overnight Fund-Regular Plan-Weekly IDCW,,INF767K01QC6,Open Ended Schemes,Debt Scheme - Overnight Fund,1180.232,02-Mar-2026
-147519,LIC Mutual Fund,LIC MF Overnight Fund-Regular Plan-Growth,INF767K01QD4,,Open Ended Schemes,Debt Scheme - Overnight Fund,1379.0446,02-Mar-2026
+147512,LIC Mutual Fund,LIC MF Overnight Fund-Regular Plan-IDCW,INF767K01PZ9,INF767K01QA0,Open Ended Schemes,Debt Scheme - Overnight Fund,1220.0113,03-Mar-2026
+147513,LIC Mutual Fund,LIC MF Overnight Fund-Direct Plan-IDCW,INF767K01QE2,INF767K01QF9,Open Ended Schemes,Debt Scheme - Overnight Fund,1390.7634,03-Mar-2026
+147514,LIC Mutual Fund,LIC MF Overnight Fund-Direct Plan-Weekly IDCW,,INF767K01QH5,Open Ended Schemes,Debt Scheme - Overnight Fund,1084.4942,03-Mar-2026
+147515,LIC Mutual Fund,LIC MF Overnight Fund-Direct Plan-Growth,INF767K01QI3,,Open Ended Schemes,Debt Scheme - Overnight Fund,1390.597,03-Mar-2026
+147516,LIC Mutual Fund,LIC MF Overnight Fund-Direct Plan-Daily IDCW,,INF767K01QG7,Open Ended Schemes,Debt Scheme - Overnight Fund,1101.061,03-Mar-2026
+147517,LIC Mutual Fund,LIC MF Overnight Fund-Regular Plan-Daily IDCW,,INF767K01QB8,Open Ended Schemes,Debt Scheme - Overnight Fund,1099.0945,03-Mar-2026
+147518,LIC Mutual Fund,LIC MF Overnight Fund-Regular Plan-Weekly IDCW,,INF767K01QC6,Open Ended Schemes,Debt Scheme - Overnight Fund,1180.3876,03-Mar-2026
+147519,LIC Mutual Fund,LIC MF Overnight Fund-Regular Plan-Growth,INF767K01QD4,,Open Ended Schemes,Debt Scheme - Overnight Fund,1379.2263,03-Mar-2026
 147530,ICICI Prudential Mutual Fund,ICICI Prudential Nifty Private Bank ETF,INF109KC18U7,,Open Ended Schemes,Other Scheme - Other  ETFs,28.5474,02-Mar-2026
 147531,Canara Robeco Mutual Fund,CANARA ROBECO OVERNIGHT FUND - DIRECT PLAN - GROWTH OPTION,INF760K01JM5,,Open Ended Schemes,Debt Scheme - Overnight Fund,1384.9079,03-Mar-2026
 147532,Canara Robeco Mutual Fund,CANARA ROBECO OVERNIGHT FUND - DIRECT PLAN - DAILY IDCW (Reinvestment),,INF760K01JN3,Open Ended Schemes,Debt Scheme - Overnight Fund,1001.0012,03-Mar-2026
@@ -9462,10 +9462,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 147624,Motilal Oswal Mutual Fund,Motilal Oswal Nifty Smallcap 250 Index - Regular Plan,INF247L01924,,Open Ended Schemes,Other Scheme - Index Funds,33.3571,02-Mar-2026
 147625,Motilal Oswal Mutual Fund,Motilal Oswal Nifty 500 Index Fund - Direct Plan,INF247L01957,,Open Ended Schemes,Other Scheme - Index Funds,26.5457,02-Mar-2026
 147626,Motilal Oswal Mutual Fund,Motilal Oswal Nifty 500 Index Fund - Regular Plan,INF247L01940,,Open Ended Schemes,Other Scheme - Index Funds,25.4138,02-Mar-2026
-147645,ICICI Prudential Mutual Fund,ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - IDCW,INF109KC1F42,,Open Ended Schemes,Other Scheme - FoF Domestic,22.4194,27-Feb-2026
-147646,ICICI Prudential Mutual Fund,ICICI Prudential Global Advantage Fund (FOF) - IDCW,INF109KC1F18,,Open Ended Schemes,Other Scheme - FoF Domestic,21.4633,27-Feb-2026
-147647,ICICI Prudential Mutual Fund,ICICI Prudential Global Advantage Fund (FOF) - Growth Option,INF109KC1F00,,Open Ended Schemes,Other Scheme - FoF Domestic,21.4639,27-Feb-2026
-147648,ICICI Prudential Mutual Fund,ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - Growth Option,INF109KC1F34,,Open Ended Schemes,Other Scheme - FoF Domestic,22.4195,27-Feb-2026
+147645,ICICI Prudential Mutual Fund,ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - IDCW,INF109KC1F42,,Open Ended Schemes,Other Scheme - FoF Domestic,22.2263,02-Mar-2026
+147646,ICICI Prudential Mutual Fund,ICICI Prudential Global Advantage Fund (FOF) - IDCW,INF109KC1F18,,Open Ended Schemes,Other Scheme - FoF Domestic,21.2772,02-Mar-2026
+147647,ICICI Prudential Mutual Fund,ICICI Prudential Global Advantage Fund (FOF) - Growth Option,INF109KC1F00,,Open Ended Schemes,Other Scheme - FoF Domestic,21.2778,02-Mar-2026
+147648,ICICI Prudential Mutual Fund,ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - Growth Option,INF109KC1F34,,Open Ended Schemes,Other Scheme - FoF Domestic,22.2264,02-Mar-2026
 147649,UTI Mutual Fund,UTI - Credit Risk Fund (Segregated - 13092019) - Regular Plan - Quarterly Dividend Option,INF789F1AMT2,INF789F1AMU0,Open Ended Schemes,Debt Scheme - Credit Risk Fund,0,10-Mar-2022
 147650,UTI Mutual Fund,UTI - Credit Risk Fund (Segregated - 13092019) - Regular Plan - Growth Option,INF789F1AMV8,,Open Ended Schemes,Debt Scheme - Credit Risk Fund,0,10-Mar-2022
 147651,UTI Mutual Fund,UTI - Credit Risk Fund (Segregated - 13092019) - Direct Plan - Growth Option,INF789F1AMK1,,Open Ended Schemes,Debt Scheme - Credit Risk Fund,0,10-Mar-2022
@@ -9739,10 +9739,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 148016,Franklin Templeton Mutual Fund,Franklin India Short term Income Plan- Retail Plan-Segregated Portfolio 2 - 10.90% Vodafone Idea Ltd (02-Sep-2023) - Direct Weekly - IDCW,INF090I01VB9,,Open Ended Schemes,Debt Scheme - Short Duration Fund,0.0000,04-Sep-2023
 148017,Franklin Templeton Mutual Fund,Franklin India Short term Income Plan- Retail Plan-Segregated Portfolio 2 - 10.90% Vodafone Idea Ltd (02-Sep-2023) - Direct Monthly - IDCW,INF090I01VA1,,Open Ended Schemes,Debt Scheme - Short Duration Fund,0.0000,11-Sep-2023
 148018,Franklin Templeton Mutual Fund,Franklin India Short term Income Plan- Retail Plan-Segregated Portfolio 2 - 10.90% Vodafone Idea Ltd (02-Sep-2023) - Direct Quarterly - IDCW,INF090I01UZ0,,Open Ended Schemes,Debt Scheme - Short Duration Fund,0.0000,11-Sep-2023
-148033,ICICI Prudential Mutual Fund,ICICI Prudential Diversified Equity All Cap Omni FOF - Growth,INF109KC1I15,,Open Ended Schemes,Other Scheme - FoF Domestic,30.8480,27-Feb-2026
-148034,ICICI Prudential Mutual Fund,ICICI Prudential Diversified Equity All Cap Omni FOF - IDCW,INF109KC1I31,INF109KC1I23,Open Ended Schemes,Other Scheme - FoF Domestic,23.8509,27-Feb-2026
-148035,ICICI Prudential Mutual Fund,ICICI Prudential Diversified Equity All Cap Omni FOF - Direct Plan - Growth,INF109KC1I49,,Open Ended Schemes,Other Scheme - FoF Domestic,32.2065,27-Feb-2026
-148036,ICICI Prudential Mutual Fund,ICICI Prudential Diversified Equity All Cap Omni FOF - Direct Plan - IDCW,INF109KC1I64,INF109KC1I56,Open Ended Schemes,Other Scheme - FoF Domestic,25.0824,27-Feb-2026
+148033,ICICI Prudential Mutual Fund,ICICI Prudential Diversified Equity All Cap Omni FOF - Growth,INF109KC1I15,,Open Ended Schemes,Other Scheme - FoF Domestic,30.4033,02-Mar-2026
+148034,ICICI Prudential Mutual Fund,ICICI Prudential Diversified Equity All Cap Omni FOF - IDCW,INF109KC1I31,INF109KC1I23,Open Ended Schemes,Other Scheme - FoF Domestic,23.5070,02-Mar-2026
+148035,ICICI Prudential Mutual Fund,ICICI Prudential Diversified Equity All Cap Omni FOF - Direct Plan - Growth,INF109KC1I49,,Open Ended Schemes,Other Scheme - FoF Domestic,31.7440,02-Mar-2026
+148036,ICICI Prudential Mutual Fund,ICICI Prudential Diversified Equity All Cap Omni FOF - Direct Plan - IDCW,INF109KC1I64,INF109KC1I56,Open Ended Schemes,Other Scheme - FoF Domestic,24.7222,02-Mar-2026
 148049,Tata Mutual Fund,Tata Multi Asset Allocation Fund-Direct Plan-Dividend Payout,INF277K011Z7,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,27.7196,02-Mar-2026
 148050,Tata Mutual Fund,Tata Multi Asset Allocation Fund-Regular Plan-Growth,INF277K012Z5,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,25.0940,02-Mar-2026
 148051,Tata Mutual Fund,Tata Multi Asset Allocation Fund-Regular Plan-Dividend Reinvestment,,INF277K013Z3,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,25.0940,02-Mar-2026
@@ -10218,10 +10218,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 148732,ITI Mutual Fund,ITI Mid Cap Fund - Regular Plan - Growth Option,INF00XX01895,,Open Ended Schemes,Equity Scheme - Mid Cap Fund,21.4486,02-Mar-2026
 148733,ITI Mutual Fund,ITI Mid Cap Fund - Direct Plan - Growth Option,INF00XX01929,,Open Ended Schemes,Equity Scheme - Mid Cap Fund,23.6636,02-Mar-2026
 148734,ITI Mutual Fund,ITI Mid Cap Fund - Regular Plan - IDCW Option,INF00XX01903,INF00XX01911,Open Ended Schemes,Equity Scheme - Mid Cap Fund,19.5155,02-Mar-2026
-148735,HSBC Mutual Fund,HSBC Global Equity Climate Change Fund of Fund - Regular - Growth,INF336L01PY4,,Open Ended Schemes,Other Scheme - FoF Overseas,12.4533,27-Feb-2026
-148736,HSBC Mutual Fund,HSBC Global Equity Climate Change Fund of Fund IDCW,INF336L01PZ1,INF336L01QA2,Open Ended Schemes,Other Scheme - FoF Overseas,12.4533,27-Feb-2026
-148737,HSBC Mutual Fund,HSBC Global Equity Climate Change Fund of Fund - Direct - Growth,INF336L01PV0,,Open Ended Schemes,Other Scheme - FoF Overseas,12.8403,27-Feb-2026
-148738,HSBC Mutual Fund,HSBC Global Equity  Climate Change Fund of Fund Direct Plan IDCW,INF336L01PW8,INF336L01PX6,Open Ended Schemes,Other Scheme - FoF Overseas,12.8403,27-Feb-2026
+148735,HSBC Mutual Fund,HSBC Global Equity Climate Change Fund of Fund - Regular - Growth,INF336L01PY4,,Open Ended Schemes,Other Scheme - FoF Overseas,12.4214,02-Mar-2026
+148736,HSBC Mutual Fund,HSBC Global Equity Climate Change Fund of Fund IDCW,INF336L01PZ1,INF336L01QA2,Open Ended Schemes,Other Scheme - FoF Overseas,12.4214,02-Mar-2026
+148737,HSBC Mutual Fund,HSBC Global Equity Climate Change Fund of Fund - Direct - Growth,INF336L01PV0,,Open Ended Schemes,Other Scheme - FoF Overseas,12.808,02-Mar-2026
+148738,HSBC Mutual Fund,HSBC Global Equity  Climate Change Fund of Fund Direct Plan IDCW,INF336L01PW8,INF336L01PX6,Open Ended Schemes,Other Scheme - FoF Overseas,12.808,02-Mar-2026
 148743,Kotak Mahindra Mutual Fund,Kotak Nifty Next 50 Index Fund - Regular Plan - Growth Option,INF174KA1FX3,,Open Ended Schemes,Other Scheme - Index Funds,19.5447,02-Mar-2026
 148744,Kotak Mahindra Mutual Fund,Kotak Nifty Next 50 Index Fund - Regular Plan - Payout of Income Distribution cum capital withdrawal option,INF174KA1FW5,INF174KA1FY1,Open Ended Schemes,Other Scheme - Index Funds,19.5452,02-Mar-2026
 148745,Kotak Mahindra Mutual Fund,Kotak Nifty Next 50 Index Fund - Direct Plan - Growth Option,INF174KA1GA9,,Open Ended Schemes,Other Scheme - Index Funds,20.0409,02-Mar-2026
@@ -12287,10 +12287,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 151918,NJ Mutual Fund,NJ Flexi Cap Fund - Direct Plan - IDCW Option,INF0J8L01164,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,13.28,02-Mar-2026
 151919,NJ Mutual Fund,NJ Flexi Cap Fund - Regular Plan - IDCW Option,INF0J8L01149,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,12.77,02-Mar-2026
 151920,NJ Mutual Fund,NJ Flexi Cap Fund - Regular Plan - Growth Option,INF0J8L01131,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,12.77,02-Mar-2026
-151927,LIC Mutual Fund,LIC MF Liquid Fund-Regular Plan-Weekly IDCW,INF397L01950,INF397L01943,Open Ended Schemes,Debt Scheme - Liquid Fund,1002.422,02-Mar-2026
-151928,LIC Mutual Fund,LIC MF Liquid Fund-Regular Plan-Monthly IDCW,INF397L01976,INF397L01968,Open Ended Schemes,Debt Scheme - Liquid Fund,1187.9966,02-Mar-2026
-151930,LIC Mutual Fund,LIC MF Liquid Fund-Direct Plan-Monthly IDCW,INF397L01AK7,INF397L01AJ9,Open Ended Schemes,Debt Scheme - Liquid Fund,1208.2622,02-Mar-2026
-151932,LIC Mutual Fund,LIC MF Liquid Fund-Direct Plan-Weekly IDCW,INF397L01AM3,INF397L01AL5,Open Ended Schemes,Debt Scheme - Liquid Fund,1079.2434,02-Mar-2026
+151927,LIC Mutual Fund,LIC MF Liquid Fund-Regular Plan-Weekly IDCW,INF397L01950,INF397L01943,Open Ended Schemes,Debt Scheme - Liquid Fund,1002.5871,03-Mar-2026
+151928,LIC Mutual Fund,LIC MF Liquid Fund-Regular Plan-Monthly IDCW,INF397L01976,INF397L01968,Open Ended Schemes,Debt Scheme - Liquid Fund,1188.1923,03-Mar-2026
+151930,LIC Mutual Fund,LIC MF Liquid Fund-Direct Plan-Monthly IDCW,INF397L01AK7,INF397L01AJ9,Open Ended Schemes,Debt Scheme - Liquid Fund,1208.4638,03-Mar-2026
+151932,LIC Mutual Fund,LIC MF Liquid Fund-Direct Plan-Weekly IDCW,INF397L01AM3,INF397L01AL5,Open Ended Schemes,Debt Scheme - Liquid Fund,1079.4235,03-Mar-2026
 151935,LIC Mutual Fund,LIC MF Nifty Next 50 Index Fund-Regular Plan-Growth,INF397L01174,,Open Ended Schemes,Other Scheme - Index Funds,50.8476,02-Mar-2026
 151936,LIC Mutual Fund,LIC MF Nifty Next 50 Index Fund-Regular Plan-IDCW,INF397L01166,INF397L01182,Open Ended Schemes,Other Scheme - Index Funds,50.8476,02-Mar-2026
 151937,LIC Mutual Fund,LIC MF Nifty Next 50 Index Fund-Direct Plan-Growth,INF397L01AW2,,Open Ended Schemes,Other Scheme - Index Funds,55.9659,02-Mar-2026
