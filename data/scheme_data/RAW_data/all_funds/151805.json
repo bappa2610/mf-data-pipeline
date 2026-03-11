@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 151805,
-        "scheme_name": "HDFC Non-Cyclical Consumer Fund - IDCW Option - Direct Plan",
+        "scheme_name": "HDFC Consumption Fund - IDCW Option - Direct Plan",
         "isin_growth": "INF179KC1GP0",
         "isin_div_reinvestment": "INF179KC1GQ8"
     },
     "data": [
+        {
+            "date": "11-03-2026",
+            "nav": "13.08900"
+        },
         {
             "date": "10-03-2026",
             "nav": "13.26200"

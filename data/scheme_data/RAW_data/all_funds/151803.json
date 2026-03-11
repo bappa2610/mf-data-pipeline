@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 151803,
-        "scheme_name": "HDFC Non-Cyclical Consumer Fund - Growth Option",
+        "scheme_name": "HDFC Consumption Fund - Growth Option",
         "isin_growth": "INF179KC1GR6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "11-03-2026",
+            "nav": "12.67200"
+        },
         {
             "date": "10-03-2026",
             "nav": "12.84000"
