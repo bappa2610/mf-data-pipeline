@@ -5,10 +5,14 @@
         "scheme_category": "Other Scheme - Gold ETF",
         "scheme_code": 151961,
         "scheme_name": "LIC MF Gold Exchange Traded Fund",
-        "isin_growth": "INF397L01554",
+        "isin_growth": "INF767K01SM1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "12-03-2026",
+            "nav": "145.85540"
+        },
         {
             "date": "11-03-2026",
             "nav": "145.27860"
