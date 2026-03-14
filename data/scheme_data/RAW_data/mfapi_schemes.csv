@@ -37482,8 +37482,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154224,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life BSE Top 10 Banks ETF,INF209KC1670,,Open Ended Schemes,Other Scheme - Other  ETFs
 154225,Old Bridge Mutual Fund,Old Bridge Flexi Cap Fund Direct Growth,INF0S5R01133,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
 154226,Old Bridge Mutual Fund,Old Bridge Flexi Cap Fund Regular Growth,INF0S5R01166,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
-154227,Old Bridge Mutual Fund,Old Bridge Flexi Cap Fund Regular IDCW,INF0S5R01174,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
-154228,Old Bridge Mutual Fund,Old Bridge Flexi Cap Fund Direct IDCW,INF0S5R01141,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
+154227,Old Bridge Mutual Fund,Old Bridge Flexi Cap Fund Regular IDCW,INF0S5R01174,INF0S5R01182,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
+154228,Old Bridge Mutual Fund,Old Bridge Flexi Cap Fund Direct IDCW,INF0S5R01141,INF0S5R01158,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
 154237,SBI Mutual Fund,SBI Nifty Midcap 150 Momentum 50 ETF,INF200KB1AJ0,,Open Ended Schemes,Other Scheme - Other  ETFs
 154240,Axis Mutual Fund,Axis Fixed Maturity Plan - Series 129 (108 Days) - Direct Plan - Growth,INF846KA1440,,Close Ended Schemes,Income
 154241,Axis Mutual Fund,Axis Fixed Maturity Plan - Series 129 (108 Days) - Regular Plan - Growth,INF846KA1432,,Close Ended Schemes,Income
@@ -37498,3 +37498,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154262,HDFC Mutual Fund,HDFC INCOME PLUS ARBITRAGE OMNI FOF - GROWTH OPTION - DIRECT PLAN,INF179KC1KE6,,Open Ended Schemes,Other Scheme - FoF Domestic
 154263,HDFC Mutual Fund,HDFC INCOME PLUS ARBITRAGE OMNI FOF - IDCW OPTION - DIRECT PLAN,INF179KC1KF3,INF179KC1KG1,Open Ended Schemes,Other Scheme - FoF Domestic
 154264,HDFC Mutual Fund,HDFC INCOME PLUS ARBITRAGE OMNI FOF - IDCW OPTION - REGULAR PLAN,INF179KC1KC0,INF179KC1KD8,Open Ended Schemes,Other Scheme - FoF Domestic
+154271,Nippon India Mutual Fund,Nippon India CRISIL-IBX Financial Services 3-6 Months Debt Index Fund- Direct Plan- Growth Option,INF204KC1GX3,,Open Ended Schemes,Other Scheme - Index Funds
+154272,Nippon India Mutual Fund,Nippon India CRISIL-IBX Financial Services 3-6 Months Debt Index Fund- Direct Plan-IDCW Option,INF204KC1GY1,INF204KC1GZ8,Open Ended Schemes,Other Scheme - Index Funds
+154273,Nippon India Mutual Fund,Nippon India CRISIL-IBX Financial Services 3-6 Months Debt Index Fund- Regular Plan- IDCW Option,INF204KC1GV7,INF204KC1GW5,Open Ended Schemes,Other Scheme - Index Funds
+154274,Nippon India Mutual Fund,Nippon India CRISIL-IBX Financial Services 3-6 Months Debt Index Fund- Regular Plan- Growth Option,INF204KC1GU9,,Open Ended Schemes,Other Scheme - Index Funds
