@@ -5,10 +5,14 @@
         "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 149757,
         "scheme_name": "Kotak Nifty Midcap 50 ETF",
-        "isin_growth": "INF174KA1IB3",
+        "isin_growth": "INF174KA1ZC5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "16-03-2026",
+            "nav": "15.81250"
+        },
         {
             "date": "13-03-2026",
             "nav": "15.83980"

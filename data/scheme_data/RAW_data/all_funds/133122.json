@@ -5,10 +5,14 @@
         "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 133122,
         "scheme_name": "Kotak Nifty Bank ETF",
-        "isin_growth": "INF174K01F59",
+        "isin_growth": "INF174KA1ZB7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "16-03-2026",
+            "nav": "56.24300"
+        },
         {
             "date": "13-03-2026",
             "nav": "55.56620"

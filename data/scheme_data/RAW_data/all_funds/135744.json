@@ -5,10 +5,14 @@
         "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 135744,
         "scheme_name": "Kotak Nifty 50 Value 20 ETF - Payout of Income Distribution cum capital withdrawal option",
-        "isin_growth": "INF174K01Z71",
+        "isin_growth": "INF174KA1ZE1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "16-03-2026",
+            "nav": "14.06370"
+        },
         {
             "date": "13-03-2026",
             "nav": "13.95970"

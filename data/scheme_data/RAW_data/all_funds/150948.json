@@ -5,10 +5,14 @@
         "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 150948,
         "scheme_name": "Kotak Silver ETF",
-        "isin_growth": "INF174KA1KU9",
+        "isin_growth": "INF174KA1ZD3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "16-03-2026",
+            "nav": "23.56130"
+        },
         {
             "date": "13-03-2026",
             "nav": "25.04320"
