@@ -3346,7 +3346,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 105229,Nippon India Mutual Fund,Nippon India Interval Fund-Monthly Interval Fund-Series-I- Growth Option,INF204K01CV0,Interval Fund,Income,Income,Other,Growth,
 105230,Nippon India Mutual Fund,NIPPON INDIA MONTHLY INTERVAL FUND - SERIES I - IDCW Option,INF204K01CW8,Interval Fund,Income,Income,Other,IDCW,Monthly
 105231,Reliance Mutual Fund,Reliance Interval Fund-Monthly Interval Fund-Series-I-Institutional Plan-Growth Option,,Open Ended,Income,Income,Institutional,Growth,
-105232,Nippon India Mutual Fund,Nippon India Interval Fund-Monthly Interval Fund-Series-I-Institutional Plan-Dividend Option,INF204K01CZ1,Interval Fund,Income,Income,Institutional,IDCW,Monthly
+105232,Reliance Mutual Fund,Reliance Interval Fund-Monthly Interval Fund-Series-I-Institutional Plan-Dividend Option,,Interval Fund,Income,Income,Institutional,IDCW,Monthly
 105233,Reliance Mutual Fund,Reliance Liquid Plus Fund-Retail Plan Growth Option,,Open Ended,Income,Income,Retail,Growth,
 105234,Reliance Mutual Fund,Reliance Liquid Plus Fund-Retail Plan Bonus Option,,Open Ended,Income,Income,Retail,Bonus,
 105235,Reliance Mutual Fund,Reliance Liquid Plus Fund-Retail Plan-Daily Dividend Option,,Open Ended,Income,Income,Retail,IDCW,Daily
@@ -3504,7 +3504,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 105399,Reliance Mutual Fund,Reliance Interval Fund-Monthly Interval Fund-Series-II-Institutional Plan-Growth Option,,Open Ended,Income,Income,Institutional,Growth,
 105400,Nippon India Mutual Fund,Nippon India Interval Fund-Monthly Interval Fund-Series-II -Growth Option,INF204K01DB0,Interval Fund,Income,Income,Other,Growth,
 105401,Nippon India Mutual Fund,NIPPON INDIA MONTHLY INTERVAL FUND - SERIES II - IDCW Option,INF204K01DC8,Interval Fund,Income,Income,Other,IDCW,Monthly
-105402,Nippon India Mutual Fund,Nippon India Interval Fund-Monthly Interval Fund-Series-II-Institutional Plan-Dividend Option,INF204K01DF1,Interval Fund,Income,Income,Institutional,IDCW,Monthly
+105402,Reliance Mutual Fund,Reliance Interval Fund-Monthly Interval Fund-Series-II-Institutional Plan-Dividend Option,,Interval Fund,Income,Income,Institutional,IDCW,Monthly
 105403,ING Mutual Fund,ING Fixed Maturity Fund- Series XXIV - Dividend Option,,Close Ended,Income,Income,Other,IDCW,
 105404,ING Mutual Fund,ING Fixed Maturity Fund- Series XXIV - Growth Option,,Close Ended,Income,Income,Other,Growth,
 105405,Aditya Birla Sun Life Mutual Fund,Birla Fixed Term Plan - Series U Retail-GROWTH,,Close Ended,Income,Income,Retail,Growth,
@@ -3956,7 +3956,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 105880,DBS Chola Mutual Fund,DBS Chola Fixed Maturity Plan - Series 7 (Quarterly Plan - IV) - Dividend Payout,,Close Ended,Income,Income,Other,IDCW,Quarterly
 105881,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Savings Fund-Weekly - retail IDCW,INF209K01MD6,Open Ended,Debt,Ultra Short Duration Fund,Retail,IDCW,Weekly
 105882,Nippon India Mutual Fund,Nippon India Interval Fund-Quarterly Interval Fund-Series-III-Institutional Plan-Growth Option,INF204K01DW6,Interval Fund,Income,Income,Institutional,Growth,
-105883,Nippon India Mutual Fund,NIPPON INDIA QUARTERLY INTERVAL FUND - SERIES III - INSTITUTIONAL IDCW Option,INF204K01DX4,Interval Fund,Income,Income,Institutional,IDCW,Quarterly
+105883,Nippon India Mutual Fund,NIPPON INDIA QUARTERLY INTERVAL FUND - SERIES III - INSTITUTIONAL IDCW Option,,Interval Fund,Income,Income,Institutional,IDCW,Quarterly
 105884,Nippon India Mutual Fund,Nippon India Interval Fund-Quarterly Interval Fund-Series-III- Growth Option,INF204K01DT2,Interval Fund,Income,Income,Other,Growth,
 105885,Nippon India Mutual Fund,NIPPON INDIA QUARTERLY INTERVAL FUND - SERIES III - IDCW Option,INF204K01DU0,Interval Fund,Income,Income,Other,IDCW,Quarterly
 105886,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Savings Fund-Retail - Monthly Dividend,,Open Ended,Income,Income,Retail,IDCW,Monthly
@@ -13710,7 +13710,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 118591,Nippon India Mutual Fund,Nippon India Banking & Financial Services Fund- DIRECT Plan - IDCW Option,INF204K01XM5,Open Ended,Equity,Sectoral/ Thematic,Direct,IDCW,
 118594,Nippon India Mutual Fund,NIPPON INDIA MONTHLY INTERVAL FUND - SERIES II - Direct Plan - IDCW Option,INF204K01ZE7,Interval Fund,Income,Income,Direct,IDCW,Monthly
 118595,Nippon India Mutual Fund,Nippon India Monthly Interval Fund - Series II - Direct Plan Growth Plan - Growth,INF204K01ZD9,Interval Fund,Income,Income,Direct,Growth,
-118596,Nippon India Mutual Fund,NIPPON INDIA MONTHLY INTERVAL FUND - SERIES I - Direct Plan - IDCW Option,INF204K01ZB3,Interval Fund,Income,Income,Direct,IDCW,Monthly
+118596,Nippon India Mutual Fund,NIPPON INDIA MONTHLY INTERVAL FUND - SERIES I - Direct Plan - IDCW Option,,Interval Fund,Income,Income,Direct,IDCW,Monthly
 118598,Nippon India Mutual Fund,Nippon India Monthly Interval Fund - Series I - Direct Plan Growth Plan - Growth,INF204K01ZA5,Interval Fund,Income,Income,Direct,Growth,
 118600,Goldman Sachs Mutual Fund,Goldman Sachs India Equity Fund - Direct Plan -Dividend Option,,Open Ended,Income,Income,Direct,IDCW,
 118601,Goldman Sachs Mutual Fund,Goldman Sachs India Equity Fund - Direct Plan -Growth Option,,Open Ended,Income,Income,Direct,Growth,
@@ -13725,7 +13725,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 118617,Edelweiss Mutual Fund,Edelweiss Large Cap Fund - Direct Plan-Growth option,INF754K01BW4,Open Ended,Equity,Large Cap Fund,Direct,Growth,
 118619,Edelweiss Mutual Fund,Edelweiss ELSS Tax Saver Fund - Direct Plan - IDCW Option,INF754K01BX2,Open Ended,Equity,ELSS,Direct,IDCW,
 118620,Edelweiss Mutual Fund,Edelweiss ELSS Tax Saver Fund - Direct Plan-Growth Option,INF754K01CA8,Open Ended,Equity,ELSS,Direct,Growth,
-118621,Nippon India Mutual Fund,NIPPON INDIA INTERVAL FUND - QUARTERLY PLAN - SERIES I - Direct Plan - IDCW Option,INF204K01XU8,Interval Fund,Income,Income,Direct,IDCW,Quarterly
+118621,Nippon India Mutual Fund,Nippon India Interval Fund - Quarterly Plan - Series I - Direct Plan Dividend Plan - Dividend Payout Option,,Interval Fund,Income,Income,Direct,IDCW,Quarterly
 118623,Nippon India Mutual Fund,Nippon India Interval Fund - Quarterly Plan - Series I - Direct Plan Growth Plan - Growth,INF204K01XT0,Interval Fund,Income,Income,Direct,Growth,
 118624,Edelweiss Mutual Fund,Edelweiss Aggressive Hybrid Fund-Direct Plan-Growth Option,INF754K01CE0,Open Ended,Hybrid,Aggressive Hybrid Fund,Direct,Growth,
 118625,Edelweiss Mutual Fund,Edelweiss Aggressive Hybrid Fund - Direct Plan - IDCW Option,INF754K01CB6,Open Ended,Hybrid,Aggressive Hybrid Fund,Direct,IDCW,
@@ -34363,10 +34363,6 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 152276,Groww Mutual Fund,Groww Banking & Financial Services Fund - Regular Plan - IDCW,INF666M01HQ5,Open Ended,Equity,Sectoral/ Thematic,Regular,IDCW,
 152278,Kotak Mahindra Mutual Fund,Kotak FMP Series 326 - Direct Plan - IDCW Payout Option,INF174KA1QN1,Close Ended,Income,Income,Direct,IDCW,
 152279,Kotak Mahindra Mutual Fund,Kotak FMP Series 326 - Direct Plan - Growth Option,INF174KA1QM3,Close Ended,Income,Income,Direct,Growth,
-152280,Nippon India Mutual Fund,Nippon India Fixed Maturity Plan XLVI Series 1 - Regular Plan - Growth,INF204KC1BR6,Close Ended,Income,Income,Regular,Growth,
-152281,Nippon India Mutual Fund,Nippon India Fixed Maturity Plan XLVI Series 1 - Regular Plan - IDCW Payout,INF204KC1BS4,Close Ended,Income,Income,Regular,IDCW,
-152282,Nippon India Mutual Fund,Nippon India Fixed Maturity Plan XLVI Series 1 - Direct Plan - IDCW Payout,INF204KC1BU0,Close Ended,Income,Income,Direct,IDCW,
-152283,Nippon India Mutual Fund,Nippon India Fixed Maturity Plan XLVI Series 1 - Direct Plan - Growth,INF204KC1BT2,Close Ended,Income,Income,Direct,Growth,
 152284,Tata Mutual Fund,Tata Gold Exchange Traded Fund,INF277KA1976,Open Ended,Other,ETF,Other,Other,
 152285,Tata Mutual Fund,Tata Silver Exchange Traded Fund,INF277KA1984,Open Ended,Other,ETF,Other,Other,
 152286,Tata Mutual Fund,Tata Gold ETF Fund of Fund Regular Plan IDCW Payout Option,INF277KA1851,Open Ended,Other,FoF Domestic,Regular,IDCW,
