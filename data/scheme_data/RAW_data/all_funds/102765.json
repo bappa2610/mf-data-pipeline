@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "SBI Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Focused Fund",
+        "scheme_category": "Money Market",
         "scheme_code": 102765,
         "scheme_name": "SBI Focused Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW)",
         "isin_growth": "INF200K01388",
         "isin_div_reinvestment": "INF200K01396"
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "62.94240"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "62.20080"
+        },
         {
             "date": "20-03-2026",
             "nav": "63.95910"

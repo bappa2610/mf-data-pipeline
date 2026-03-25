@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "fund_house": "Mirae Asset Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Other Scheme - Other  ETFs",
+        "scheme_code": 154299,
+        "scheme_name": "Mirae Asset Nifty 500 Value 50 ETF",
+        "isin_growth": "INF769K01QV2",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "15.36120"
+        },
+        {
+            "date": "24-03-2026",
+            "nav": "15.08100"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "14.89400"
+        }
+    ],
+    "status": "SUCCESS"
+}

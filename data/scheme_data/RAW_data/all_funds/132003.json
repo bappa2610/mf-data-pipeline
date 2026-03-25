@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Aditya Birla Sun Life Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Overseas",
+        "scheme_category": "Money Market",
         "scheme_code": 132003,
         "scheme_name": "Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-REGULAR - RETAIL - IDCW",
         "isin_growth": "INF084M01BA8",
         "isin_div_reinvestment": "INF084M01BB6"
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "38.07030"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "38.04370"
+        },
         {
             "date": "19-03-2026",
             "nav": "37.93820"

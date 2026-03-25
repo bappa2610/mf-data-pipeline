@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Franklin Templeton Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Money Market",
         "scheme_code": 101657,
         "scheme_name": "Franklin India Dynamic Asset Allocation Active Fund of funds - IDCW",
         "isin_growth": "INF090I01247",
         "isin_div_reinvestment": "INF090I01254"
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "39.60090"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "39.16180"
+        },
         {
             "date": "20-03-2026",
             "nav": "39.80860"

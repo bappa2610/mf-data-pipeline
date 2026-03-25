@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Axis Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Overseas",
+        "scheme_category": "Money Market",
         "scheme_code": 148699,
         "scheme_name": "Axis Greater China Equity Fund of Fund - Direct Plan - Growth Option",
         "isin_growth": "INF846K01Y39",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "10.90000"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "11.02000"
+        },
         {
             "date": "20-03-2026",
             "nav": "10.88000"

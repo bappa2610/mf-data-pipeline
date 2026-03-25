@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "ICICI Prudential Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Index Funds",
+        "scheme_category": "Money Market",
         "scheme_code": 149218,
         "scheme_name": "ICICI Prudential NASDAQ 100 Index Fund - Growth",
         "isin_growth": "INF109KC1U27",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "19.21490"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "19.36820"
+        },
         {
             "date": "20-03-2026",
             "nav": "19.02440"

@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Edelweiss Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Money Market",
         "scheme_code": 154208,
         "scheme_name": "Edelweiss Gold ETF Fund of Fund Direct Plan Growth Option",
         "isin_growth": "INF754K01WP4",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "8.68290"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "8.33960"
+        },
         {
             "date": "20-03-2026",
             "nav": "9.08190"

@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Capitalmind Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
+        "scheme_category": "Money Market",
         "scheme_code": 154231,
         "scheme_name": "Capitalmind Multi Asset Allocation Fund-Regular-Growth",
         "isin_growth": "INF226401083",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "9.98050"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "9.94700"
+        },
         {
             "date": "20-03-2026",
             "nav": "10.00320"

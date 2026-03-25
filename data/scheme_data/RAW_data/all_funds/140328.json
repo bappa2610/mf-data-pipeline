@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Edelweiss Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Overseas",
+        "scheme_category": "Money Market",
         "scheme_code": 140328,
         "scheme_name": "Edelweiss Emerging Markets Opportunities Equity Offshore Fund - Regular Plan - Growth Option",
         "isin_growth": "INF843K01IY6",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "23.61350"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "23.96610"
+        },
         {
             "date": "20-03-2026",
             "nav": "23.61660"

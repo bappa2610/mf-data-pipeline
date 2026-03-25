@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "ICICI Prudential Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Money Market",
         "scheme_code": 120588,
         "scheme_name": "ICICI Prudential FMCG Fund - Direct Plan -  IDCW",
         "isin_growth": "INF109K01Y98",
         "isin_div_reinvestment": "INF109K01Z06"
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "144.45000"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "142.73000"
+        },
         {
             "date": "20-03-2026",
             "nav": "146.17000"

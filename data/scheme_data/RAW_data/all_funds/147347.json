@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "ICICI Prudential Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Money Market",
         "scheme_code": 147347,
         "scheme_name": "ICICI Prudential MNC Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF109KC1E01",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "17.34000"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "17.14000"
+        },
         {
             "date": "20-03-2026",
             "nav": "17.62000"

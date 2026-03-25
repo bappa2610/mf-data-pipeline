@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Aditya Birla Sun Life Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Overseas",
+        "scheme_category": "Money Market",
         "scheme_code": 132138,
         "scheme_name": "Aditya Birla SUn Life Global Emerging Opportunities Fund - Regular Plan - Growth Option",
         "isin_growth": "INF084M01AT0",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "28.53760"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "28.50710"
+        },
         {
             "date": "19-03-2026",
             "nav": "28.60950"

@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "SBI Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Solution Oriented Scheme - Children\u2019s Fund",
+        "scheme_category": "Money Market",
         "scheme_code": 148489,
         "scheme_name": "SBI Children's Fund - Investment Plan - Regular Plan - Growth",
         "isin_growth": "INF200KA1Q99",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "41.11550"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "40.49930"
+        },
         {
             "date": "20-03-2026",
             "nav": "41.62610"

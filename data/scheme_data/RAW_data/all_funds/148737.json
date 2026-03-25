@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "HSBC Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Overseas",
+        "scheme_category": "Money Market",
         "scheme_code": 148737,
         "scheme_name": "HSBC Global Equity Climate Change Fund of Fund - Direct - Growth",
         "isin_growth": "INF336L01PV0",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "12.33040"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "12.33990"
+        },
         {
             "date": "20-03-2026",
             "nav": "12.13790"

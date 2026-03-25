@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "fund_house": "ICICI Prudential Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_code": 154266,
+        "scheme_name": "ICICI Prudential Diversified Equity All Cap Active FOF - Direct Plan - Growth",
+        "isin_growth": "INF109K1A468",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "10.01400"
+        },
+        {
+            "date": "24-03-2026",
+            "nav": "9.98240"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "9.95320"
+        }
+    ],
+    "status": "SUCCESS"
+}

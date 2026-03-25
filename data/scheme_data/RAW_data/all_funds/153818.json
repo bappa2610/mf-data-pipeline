@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Mirae Asset Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Money Market",
         "scheme_code": 153818,
         "scheme_name": "Mirae Asset Multi Factor Passive FOF - Regular Plan - Growth",
         "isin_growth": "INF769K01PE0",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "9.63500"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "9.44300"
+        },
         {
             "date": "20-03-2026",
             "nav": "9.77300"

@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Aditya Birla Sun Life Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Money Market",
         "scheme_code": 132186,
         "scheme_name": "Aditya Birla Sun Life Dynamic Asset Allocation Omni FOF- Direct Plan - Growth Option",
         "isin_growth": "INF084M01EW6",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "56.80330"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "56.12670"
+        },
         {
             "date": "20-03-2026",
             "nav": "57.28390"

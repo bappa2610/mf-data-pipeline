@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Baroda BNP Paribas Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
+        "scheme_category": "Money Market",
         "scheme_code": 143509,
         "scheme_name": "Baroda BNP Paribas Ultra Short Duration Fund- Direct Plan- Weekly IDCW",
         "isin_growth": "INF251K01SM6",
         "isin_div_reinvestment": "INF955L01HB6"
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "1000.62740"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "1001.20750"
+        },
         {
             "date": "20-03-2026",
             "nav": "1001.23290"

@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "fund_house": "Trust Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Equity Scheme - Mid Cap Fund",
+        "scheme_code": 154211,
+        "scheme_name": "TRUSTMF MID CAP FUND -REGULAR-GROWTH",
+        "isin_growth": "INF0GCD01883",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "10.03000"
+        },
+        {
+            "date": "24-03-2026",
+            "nav": "10.00000"
+        }
+    ],
+    "status": "SUCCESS"
+}

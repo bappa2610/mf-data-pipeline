@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Aditya Birla Sun Life Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Dividend Yield Fund",
+        "scheme_category": "Money Market",
         "scheme_code": 101737,
         "scheme_name": "Aditya Birla Sun Life Dividend Yield Fund -REGULAR - IDCW",
         "isin_growth": "INF209K01397",
         "isin_div_reinvestment": "INF209K01CP1"
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "24.33000"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "23.99000"
+        },
         {
             "date": "20-03-2026",
             "nav": "24.65000"

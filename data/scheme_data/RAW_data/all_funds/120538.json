@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Aditya Birla Sun Life Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Money Market",
         "scheme_code": 120538,
         "scheme_name": "Aditya Birla Sun Life Digital India Fund -DIRECT - IDCW",
         "isin_growth": "INF209K01P49",
         "isin_div_reinvestment": "INF209K01VE5"
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "47.18000"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "46.31000"
+        },
         {
             "date": "20-03-2026",
             "nav": "47.07000"

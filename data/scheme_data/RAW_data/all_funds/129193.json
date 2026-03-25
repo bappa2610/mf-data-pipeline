@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "HSBC Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Money Market",
         "scheme_code": 129193,
         "scheme_name": "HSBC Multi Asset Active FOF - Growth Direct",
         "isin_growth": "INF336L01IJ0",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "39.62660"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "38.76530"
+        },
         {
             "date": "20-03-2026",
             "nav": "40.17260"

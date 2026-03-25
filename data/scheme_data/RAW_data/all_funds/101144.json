@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "ICICI Prudential Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
+        "scheme_category": "Money Market",
         "scheme_code": 101144,
         "scheme_name": "ICICI Prudential Multi-Asset Fund - Growth",
         "isin_growth": "INF109K01761",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "765.33060"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "752.41180"
+        },
         {
             "date": "20-03-2026",
             "nav": "773.50840"

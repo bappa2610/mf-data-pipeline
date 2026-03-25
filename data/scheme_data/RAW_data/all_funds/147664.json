@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "ICICI Prudential Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Money Market",
         "scheme_code": 147664,
         "scheme_name": "ICICI Prudential Commodities Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF109KC1G09",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "30.48000"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "29.81000"
+        },
         {
             "date": "20-03-2026",
             "nav": "31.01000"

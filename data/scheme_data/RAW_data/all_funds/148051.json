@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Tata Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
+        "scheme_category": "Money Market",
         "scheme_code": 148051,
         "scheme_name": "Tata Multi Asset Allocation Fund-Regular Plan-Dividend Reinvestment",
-        "isin_growth": null,
+        "isin_growth": "",
         "isin_div_reinvestment": "INF277K013Z3"
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "23.50450"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "23.10450"
+        },
         {
             "date": "20-03-2026",
             "nav": "23.75730"

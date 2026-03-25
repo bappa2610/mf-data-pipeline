@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Axis Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Money Market",
         "scheme_code": 153963,
         "scheme_name": "Axis Multi-Asset Active FoF - Regular Plan - Growth",
         "isin_growth": "INF846KA1333",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "9.70790"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "9.52720"
+        },
         {
             "date": "18-03-2026",
             "nav": "10.08410"

@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Navi Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Overseas",
+        "scheme_category": "Money Market",
         "scheme_code": 149830,
         "scheme_name": "Navi Total Stock Market US Specific Equity Passive FoF- Direct Plan- Growth",
         "isin_growth": "INF959L01FV0",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "19.25150"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "19.33160"
+        },
         {
             "date": "20-03-2026",
             "nav": "19.05090"

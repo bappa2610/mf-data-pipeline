@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Mirae Asset Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Other  ETFs",
+        "scheme_category": "Money Market",
         "scheme_code": 149169,
         "scheme_name": "Mirae Asset S&P 500 Top 50 ETF",
         "isin_growth": "INF769K01HP3",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "57.51750"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "58.01670"
+        },
         {
             "date": "20-03-2026",
             "nav": "56.95610"

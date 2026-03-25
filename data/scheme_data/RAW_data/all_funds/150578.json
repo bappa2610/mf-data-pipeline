@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Edelweiss Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Money Market",
         "scheme_code": 150578,
         "scheme_name": "Edelweiss Gold and Silver ETF FOF - Direct Plan - IDCW",
         "isin_growth": "INF754K01OY3",
         "isin_div_reinvestment": "INF754K01OZ0"
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "32.26400"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "30.38400"
+        },
         {
             "date": "20-03-2026",
             "nav": "33.72800"

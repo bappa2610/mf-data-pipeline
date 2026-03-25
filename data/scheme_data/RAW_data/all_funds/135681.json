@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Sundaram Mutual Fund",
-        "scheme_type": "Close Ended Schemes",
-        "scheme_category": "ELSS",
+        "fund_house": "Taurus Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Money Market",
         "scheme_code": 135681,
         "scheme_name": "Sundaram Long Term Tax Advantage Fund Series II Direct Plan - Payout of Income Distribution cum Capital Withdrawal (IDCW)",
         "isin_growth": "INF903J012W7",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "23-03-2026",
+            "nav": "28.06160"
+        },
         {
             "date": "20-03-2026",
             "nav": "28.05210"

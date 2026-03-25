@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Angel One Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Other  ETFs",
+        "scheme_category": "Money Market",
         "scheme_code": 154205,
         "scheme_name": "ANGEL ONE SILVER ETF",
         "isin_growth": "INF1J2R01171",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "8.53430"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "7.99460"
+        },
         {
             "date": "20-03-2026",
             "nav": "8.75630"

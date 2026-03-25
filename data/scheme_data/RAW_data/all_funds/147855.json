@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Edelweiss Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Money Market",
         "scheme_code": 147855,
         "scheme_name": "BHARAT Bond FOF - April 2030 - Direct Plan - IDCW Option",
         "isin_growth": "INF754K01KZ8",
         "isin_div_reinvestment": "INF754K01LA9"
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "15.49910"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "15.48190"
+        },
         {
             "date": "20-03-2026",
             "nav": "15.54680"

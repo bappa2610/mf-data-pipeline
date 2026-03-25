@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Kotak Mahindra Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Money Market",
         "scheme_code": 152463,
         "scheme_name": "Kotak Technology Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF174KA1RA6",
         "isin_div_reinvestment": "INF174KA1RB4"
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "9.91700"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "9.75700"
+        },
         {
             "date": "20-03-2026",
             "nav": "9.89800"

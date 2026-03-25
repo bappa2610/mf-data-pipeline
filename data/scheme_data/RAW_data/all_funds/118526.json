@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Franklin Templeton Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Dividend Yield Fund",
+        "scheme_category": "Money Market",
         "scheme_code": 118526,
         "scheme_name": "Franklin India Dividend Yield Fund - Direct - IDCW",
         "isin_growth": "INF090I01IR2",
         "isin_div_reinvestment": "INF090I01IS0"
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "25.42200"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "25.08280"
+        },
         {
             "date": "20-03-2026",
             "nav": "25.75960"

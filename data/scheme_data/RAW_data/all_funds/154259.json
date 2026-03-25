@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "fund_house": "Helios Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Hybrid Scheme - Arbitrage Fund",
+        "scheme_code": 154259,
+        "scheme_name": "Helios Arbitrage Fund - Direct IDCW",
+        "isin_growth": "INF0R8701459",
+        "isin_div_reinvestment": "INF0R8701467"
+    },
+    "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "10.02000"
+        },
+        {
+            "date": "24-03-2026",
+            "nav": "10.01000"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "10.01000"
+        }
+    ],
+    "status": "SUCCESS"
+}

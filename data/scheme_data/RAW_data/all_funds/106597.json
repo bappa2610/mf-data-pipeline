@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "DSP Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Overseas",
+        "scheme_category": "Money Market",
         "scheme_code": 106597,
         "scheme_name": "DSP World Gold Mining Overseas Equity Omni FoF - Regular Plan - Growth",
         "isin_growth": "INF740K01250",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "53.08760"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "53.33700"
+        },
         {
             "date": "20-03-2026",
             "nav": "51.56650"

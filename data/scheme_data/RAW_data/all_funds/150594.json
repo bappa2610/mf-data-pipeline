@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Mirae Asset Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Overseas",
+        "scheme_category": "Money Market",
         "scheme_code": 150594,
         "scheme_name": "Mirae Asset Global Electric & Autonomous Vehicles Equity Passive FOF - Regular Plan - Growth",
         "isin_growth": "INF769K01IP1",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "14.67700"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "14.48100"
+        },
         {
             "date": "20-03-2026",
             "nav": "14.24400"

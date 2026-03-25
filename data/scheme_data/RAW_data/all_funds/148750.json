@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Motilal Oswal Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Money Market",
         "scheme_code": 148750,
         "scheme_name": "Motilal Oswal Asset Allocation FOF- C- Direct Growth",
         "isin_growth": "INF247L01AN8",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "16.86570"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "16.69480"
+        },
         {
             "date": "20-03-2026",
             "nav": "17.07940"

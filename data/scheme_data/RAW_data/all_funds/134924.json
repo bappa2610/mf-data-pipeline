@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Nippon India Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Money Market",
         "scheme_code": 134924,
         "scheme_name": "NIPPON INDIA - US EQUITY OPPORTUNITIES FUND - IDCW Option",
         "isin_growth": "INF204KA13G0",
         "isin_div_reinvestment": "INF204KA14G8"
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "35.77640"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "36.13520"
+        },
         {
             "date": "20-03-2026",
             "nav": "35.69000"

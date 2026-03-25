@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Capitalmind Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
+        "scheme_category": "Money Market",
         "scheme_code": 154212,
         "scheme_name": "Capitalmind Multi Asset Allocation Fund-Direct-IDCW",
         "isin_growth": "INF226401067",
         "isin_div_reinvestment": "INF226401075"
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "9.98400"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "9.95010"
+        },
         {
             "date": "20-03-2026",
             "nav": "10.00320"

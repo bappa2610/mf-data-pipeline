@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "SBI Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Large & Mid Cap Fund",
+        "scheme_category": "Money Market",
         "scheme_code": 119721,
         "scheme_name": "SBI LARGE & MIDCAP FUND -DIRECT PLAN -Growth",
         "isin_growth": "INF200K01UJ5",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "645.26280"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "633.26390"
+        },
         {
             "date": "20-03-2026",
             "nav": "653.00460"

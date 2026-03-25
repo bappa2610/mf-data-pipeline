@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "DSP Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Money Market",
         "scheme_code": 119028,
         "scheme_name": "DSP Natural Resources and New Energy Fund - Direct Plan - Growth",
         "isin_growth": "INF740K01QA7",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "115.43300"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "114.13400"
+        },
         {
             "date": "20-03-2026",
             "nav": "117.46800"

@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "fund_house": "HDFC Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Other Scheme - Index Funds",
+        "scheme_code": 154309,
+        "scheme_name": "HDFC CRISIL-IBX Financial Services 9-12 Months Debt Index Fund - Regular Growth Plan",
+        "isin_growth": "INF179KC1KH9",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "10.00450"
+        },
+        {
+            "date": "24-03-2026",
+            "nav": "10.00170"
+        }
+    ],
+    "status": "SUCCESS"
+}

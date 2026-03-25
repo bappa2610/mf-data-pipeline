@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Edelweiss Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Overseas",
+        "scheme_category": "Money Market",
         "scheme_code": 140243,
         "scheme_name": "Edelweiss Greater China Equity Off-shore Fund - Direct Plan - Growth Option",
         "isin_growth": "INF843K01AU1",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "63.05100"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "64.22100"
+        },
         {
             "date": "20-03-2026",
             "nav": "63.75700"

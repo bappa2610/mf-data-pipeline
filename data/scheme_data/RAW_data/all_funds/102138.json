@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "ICICI Prudential Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Money Market",
         "scheme_code": 102138,
         "scheme_name": "ICICI Prudential Dynamic Asset Allocation Active FOF - IDCW",
         "isin_growth": "INF109K01FJ9",
         "isin_div_reinvestment": "INF109K01845"
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "89.58910"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "88.68230"
+        },
         {
             "date": "20-03-2026",
             "nav": "90.31160"

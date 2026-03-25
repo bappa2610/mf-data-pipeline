@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Quantum Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Money Market",
         "scheme_code": 150389,
         "scheme_name": "Quantum Nifty 50 ETF Fund of Fund - Regular Plan - Growth",
         "isin_growth": "INF082J01424",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "13.56020"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "13.30360"
+        },
         {
             "date": "20-03-2026",
             "nav": "13.62100"

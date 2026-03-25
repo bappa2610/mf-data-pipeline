@@ -5,10 +5,22 @@
         "scheme_category": "Debt Scheme - Overnight Fund",
         "scheme_code": 149826,
         "scheme_name": "JM Overnight Fund - (Direct) - Unclaimed Redemption I.E.F. - Growth Plan",
-        "isin_growth": null,
+        "isin_growth": "INF192K01MK9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "1073.99360"
+        },
+        {
+            "date": "24-03-2026",
+            "nav": "1073.99360"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "1073.99360"
+        },
         {
             "date": "22-03-2026",
             "nav": "1073.99360"

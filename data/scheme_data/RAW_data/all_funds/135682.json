@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Sundaram Mutual Fund",
-        "scheme_type": "Close Ended Schemes",
-        "scheme_category": "ELSS",
+        "fund_house": "Taurus Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Money Market",
         "scheme_code": 135682,
         "scheme_name": "Sundaram Long Term Tax Advantage Fund Series II Direct Plan - Growth",
         "isin_growth": "INF903J011W9",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "23-03-2026",
+            "nav": "36.32160"
+        },
         {
             "date": "20-03-2026",
             "nav": "36.30930"

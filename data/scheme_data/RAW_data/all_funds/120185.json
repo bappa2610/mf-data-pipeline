@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "ICICI Prudential Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Money Market",
         "scheme_code": 120185,
         "scheme_name": "ICICI Prudential US Bluechip Equity Fund - Direct Plan -  IDCW",
         "isin_growth": "INF109K01Z55",
         "isin_div_reinvestment": "INF109K01Z63"
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "78.89000"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "79.91000"
+        },
         {
             "date": "20-03-2026",
             "nav": "79.14000"

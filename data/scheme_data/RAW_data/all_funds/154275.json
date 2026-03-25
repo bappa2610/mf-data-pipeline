@@ -1,0 +1,26 @@
+{
+    "meta": {
+        "fund_house": "Kotak Mahindra Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_code": 154275,
+        "scheme_name": "Kotak Multi Factor Passive FOF - Direct- Growth",
+        "isin_growth": "INF74KA1ZG6",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "10.35800"
+        },
+        {
+            "date": "24-03-2026",
+            "nav": "10.16600"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "9.97500"
+        }
+    ],
+    "status": "SUCCESS"
+}

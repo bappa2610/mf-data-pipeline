@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Aditya Birla Sun Life Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Money Market",
         "scheme_code": 132175,
         "scheme_name": "Aditya Birla Sun Life Aggressive Hybrid Omni FOF-  Regular -  IDCW",
         "isin_growth": "INF084M01085",
         "isin_div_reinvestment": "INF084M01093"
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "35.82750"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "35.33100"
+        },
         {
             "date": "20-03-2026",
             "nav": "36.16840"

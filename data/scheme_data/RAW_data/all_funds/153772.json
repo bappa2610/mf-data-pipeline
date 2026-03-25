@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "360 ONE Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
+        "scheme_category": "Money Market",
         "scheme_code": 153772,
         "scheme_name": "360 ONE Multi Asset Allocation Fund - Regular Plan - Growth",
         "isin_growth": "INF579M01BJ8",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "11.47460"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "11.26700"
+        },
         {
             "date": "20-03-2026",
             "nav": "11.65640"

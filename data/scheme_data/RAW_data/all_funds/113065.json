@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Axis Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
+        "scheme_category": "Money Market",
         "scheme_code": 113065,
         "scheme_name": "Axis Multi Asset Allocation Fund - Regular Plan - Monthly IDCW",
         "isin_growth": "INF846K01776",
         "isin_div_reinvestment": "INF846K01784"
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "18.92620"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "18.54310"
+        },
         {
             "date": "20-03-2026",
             "nav": "19.19330"

@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "SBI Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Contra Fund",
+        "scheme_category": "Money Market",
         "scheme_code": 119724,
         "scheme_name": "SBI Contra Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW)",
         "isin_growth": "INF200K01QY2",
         "isin_div_reinvestment": "INF200K01QZ9"
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "82.19770"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "80.91770"
+        },
         {
             "date": "20-03-2026",
             "nav": "83.30630"

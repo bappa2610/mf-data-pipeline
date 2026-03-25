@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Axis Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
+        "scheme_category": "Money Market",
         "scheme_code": 120524,
         "scheme_name": "Axis Multi Asset Allocation Fund - Direct Plan - Growth Option",
         "isin_growth": "INF846K01EV4",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "48.89220"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "47.90080"
+        },
         {
             "date": "20-03-2026",
             "nav": "49.57600"

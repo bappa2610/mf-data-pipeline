@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Edelweiss Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Overseas",
+        "scheme_category": "Money Market",
         "scheme_code": 140274,
         "scheme_name": "Edelweiss US Value Equity Offshore Fund - Direct Plan - Growth Option",
         "isin_growth": "INF843K01EC1",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "42.08010"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "42.28550"
+        },
         {
             "date": "20-03-2026",
             "nav": "41.50480"

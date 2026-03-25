@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Aditya Birla Sun Life Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Money Market",
         "scheme_code": 119646,
         "scheme_name": "Aditya Birla Sun Life MNC Fund - Growth - Direct Plan",
         "isin_growth": "INF209K01VT3",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "1306.47000"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "1287.18000"
+        },
         {
             "date": "20-03-2026",
             "nav": "1326.56000"

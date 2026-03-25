@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "SBI Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Flexi Cap Fund",
+        "scheme_category": "Money Market",
         "scheme_code": 103216,
         "scheme_name": "SBI Flexicap Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW)",
         "isin_growth": "INF200K01230",
         "isin_div_reinvestment": "INF200K01248"
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "44.55520"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "43.88010"
+        },
         {
             "date": "20-03-2026",
             "nav": "45.14550"

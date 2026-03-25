@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "ICICI Prudential Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Money Market",
         "scheme_code": 102135,
         "scheme_name": "ICICI Prudential Thematic Advantage Fund (FOF) - Growth",
         "isin_growth": "INF109K01852",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "207.17930"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "204.40320"
+        },
         {
             "date": "20-03-2026",
             "nav": "209.37760"

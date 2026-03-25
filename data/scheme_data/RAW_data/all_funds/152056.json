@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "DSP Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
+        "scheme_category": "Money Market",
         "scheme_code": 152056,
         "scheme_name": "DSP Multi Asset Allocation Fund - Direct - Growth",
         "isin_growth": "INF740KA1TE9",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "15.77010"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "15.41720"
+        },
         {
             "date": "20-03-2026",
             "nav": "15.91690"

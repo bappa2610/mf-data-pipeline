@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Franklin Templeton Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Money Market",
         "scheme_code": 103151,
         "scheme_name": "Franklin India Opportunities Fund - Growth",
         "isin_growth": "INF090I01841",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "228.16600"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "224.04130"
+        },
         {
             "date": "20-03-2026",
             "nav": "231.04230"

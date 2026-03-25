@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Aditya Birla Sun Life Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Money Market",
         "scheme_code": 150691,
         "scheme_name": "Aditya Birla Sun Life Multi-Asset Passive FOF-Regular IDCW",
         "isin_growth": "INF209KB13M5",
         "isin_div_reinvestment": "INF209KB14M3"
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "15.83370"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "15.58740"
+        },
         {
             "date": "20-03-2026",
             "nav": "16.14790"

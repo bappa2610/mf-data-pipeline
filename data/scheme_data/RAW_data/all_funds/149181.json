@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "HDFC Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Overseas",
+        "scheme_category": "Money Market",
         "scheme_code": 149181,
         "scheme_name": "HDFC Developed World Overseas Equity Passive FOF - Growth Option",
         "isin_growth": "INF179KC1BP1",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "18.21400"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "18.33800"
+        },
         {
             "date": "19-03-2026",
             "nav": "18.06600"

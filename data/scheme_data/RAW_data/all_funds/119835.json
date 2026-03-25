@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "SBI Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Contra Fund",
+        "scheme_category": "Money Market",
         "scheme_code": 119835,
         "scheme_name": "SBI CONTRA FUND - DIRECT PLAN - GROWTH",
         "isin_growth": "INF200K01RA0",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "389.48230"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "383.41740"
+        },
         {
             "date": "20-03-2026",
             "nav": "394.73510"

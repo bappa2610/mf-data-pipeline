@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "DSP Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Overseas",
+        "scheme_category": "Money Market",
         "scheme_code": 119253,
         "scheme_name": "DSP US Specific Equity Omni FoF - Direct Plan - IDCW",
         "isin_growth": "INF740K01OI5",
         "isin_div_reinvestment": "INF740K01OJ3"
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "68.55640"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "69.50180"
+        },
         {
             "date": "20-03-2026",
             "nav": "67.97310"

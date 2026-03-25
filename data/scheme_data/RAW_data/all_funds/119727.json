@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "SBI Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Focused Fund",
+        "scheme_category": "Money Market",
         "scheme_code": 119727,
         "scheme_name": "SBI FOCUSED FUND - DIRECT PLAN -GROWTH",
         "isin_growth": "INF200K01RJ1",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "388.41810"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "383.83340"
+        },
         {
             "date": "20-03-2026",
             "nav": "394.65820"

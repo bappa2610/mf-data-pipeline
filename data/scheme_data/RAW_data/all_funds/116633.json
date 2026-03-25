@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Franklin Templeton Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Overseas",
+        "scheme_category": "Money Market",
         "scheme_code": 116633,
         "scheme_name": "Franklin U.S. Opportunities Equity Active Fund of Funds - Growth",
         "isin_growth": "INF090I01EW1",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "77.70800"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "78.30920"
+        },
         {
             "date": "20-03-2026",
             "nav": "76.86090"

@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "DSP Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Overseas",
+        "scheme_category": "Money Market",
         "scheme_code": 119280,
         "scheme_name": "DSP World Mining Overseas Equity Omni FoF - Direct Plan - IDCW",
         "isin_growth": "INF740K01PG6",
         "isin_div_reinvestment": "INF740K01PH4"
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "28.12720"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "28.28520"
+        },
         {
             "date": "20-03-2026",
             "nav": "27.25000"

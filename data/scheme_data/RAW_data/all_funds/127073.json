@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "HSBC Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Overseas",
+        "scheme_category": "Money Market",
         "scheme_code": 127073,
         "scheme_name": "HSBC Asia Pacific (Ex Japan) Dividend Yield Fund - Growth",
         "isin_growth": "INF336L01HC7",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "31.32230"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "30.83890"
+        },
         {
             "date": "20-03-2026",
             "nav": "31.74880"

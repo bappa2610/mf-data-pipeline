@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "ICICI Prudential Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Money Market",
         "scheme_code": 100363,
         "scheme_name": "ICICI Prudential Technology Fund - Growth",
         "isin_growth": "INF109K01506",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "164.57000"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "162.21000"
+        },
         {
             "date": "20-03-2026",
             "nav": "165.10000"

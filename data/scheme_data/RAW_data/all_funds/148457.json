@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Nippon India Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
+        "scheme_category": "Money Market",
         "scheme_code": 148457,
         "scheme_name": "Nippon India Multi Asset Allocation Fund - Direct Plan - Growth Option",
         "isin_growth": "INF204KB19V4",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "24.72650"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "24.32110"
+        },
         {
             "date": "20-03-2026",
             "nav": "25.04070"

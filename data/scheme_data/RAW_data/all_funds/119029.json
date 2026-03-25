@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "DSP Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Money Market",
         "scheme_code": 119029,
         "scheme_name": "DSP Natural Resources and New Energy Fund - Direct Plan - IDCW",
         "isin_growth": "INF740K01QB5",
         "isin_div_reinvestment": "INF740K01QC3"
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "36.50800"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "36.09700"
+        },
         {
             "date": "20-03-2026",
             "nav": "37.15100"

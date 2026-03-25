@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "DSP Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Overseas",
+        "scheme_category": "Money Market",
         "scheme_code": 152527,
         "scheme_name": "DSP US Specific Debt Passive FoF - Regular - Growth",
         "isin_growth": "INF740KA1UG2",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "12.34320"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "12.34200"
+        },
         {
             "date": "20-03-2026",
             "nav": "12.27020"

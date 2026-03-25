@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "WhiteOak Capital Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
+        "scheme_category": "Money Market",
         "scheme_code": 151746,
         "scheme_name": "WhiteOak Capital Multi Asset Allocation Fund Regular Plan Growth",
         "isin_growth": "INF03VN01779",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "14.96300"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "14.70400"
+        },
         {
             "date": "20-03-2026",
             "nav": "15.08400"

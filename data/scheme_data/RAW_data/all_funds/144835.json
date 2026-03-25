@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Sundaram Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Money Market",
         "scheme_code": 144835,
         "scheme_name": "Sundaram Services Fund Direct Plan - Growth",
         "isin_growth": "INF903JA1FA2",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "33.85250"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "33.13760"
+        },
         {
             "date": "20-03-2026",
             "nav": "34.14740"

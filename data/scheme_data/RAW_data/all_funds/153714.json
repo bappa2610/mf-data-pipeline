@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Edelweiss Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Money Market",
         "scheme_code": 153714,
         "scheme_name": "Edelweiss Income Plus Arbitrage Active Fund of Fund - Regular - Dividend- Payout",
         "isin_growth": "INF754K01VK7",
         "isin_div_reinvestment": "INF754K01VL5"
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "10.31250"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "10.31550"
+        },
         {
             "date": "20-03-2026",
             "nav": "10.32150"

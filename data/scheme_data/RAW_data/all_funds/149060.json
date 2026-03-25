@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Kotak Mahindra Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Overseas",
+        "scheme_category": "Money Market",
         "scheme_code": 149060,
         "scheme_name": "Kotak Global Innovation Overseas Equity Omni FOF- Direct Plan - IDCW Option",
         "isin_growth": "INF174KA1HH2",
         "isin_div_reinvestment": "INF174KA1HI0"
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "13.05280"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "13.12660"
+        },
         {
             "date": "19-03-2026",
             "nav": "13.08510"

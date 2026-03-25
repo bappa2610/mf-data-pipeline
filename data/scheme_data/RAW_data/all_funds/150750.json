@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Axis Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Overseas",
+        "scheme_category": "Money Market",
         "scheme_code": 150750,
         "scheme_name": "Axis NASDAQ 100 US Specific Equity Passive FOF - Regular Plan - Growth",
         "isin_growth": "INF846K015K2",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "23.74540"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "23.84290"
+        },
         {
             "date": "20-03-2026",
             "nav": "23.60400"

@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Aditya Birla Sun Life Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Money Market",
         "scheme_code": 131897,
         "scheme_name": "Aditya Birla Sun Life Income Plus Arbitrage Active FOF- DIRECT - IDCW",
         "isin_growth": "INF084M01DQ0",
         "isin_div_reinvestment": "INF084M01DR8"
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "25.66450"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "25.67090"
+        },
         {
             "date": "20-03-2026",
             "nav": "25.71250"

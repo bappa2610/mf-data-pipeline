@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Axis Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Money Market",
         "scheme_code": 148633,
         "scheme_name": "Axis Innovation Fund - Regular Plan - IDCW",
         "isin_growth": "INF846K01Y13",
         "isin_div_reinvestment": "INF846K01Y21"
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "14.38000"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "14.13000"
+        },
         {
             "date": "20-03-2026",
             "nav": "14.49000"

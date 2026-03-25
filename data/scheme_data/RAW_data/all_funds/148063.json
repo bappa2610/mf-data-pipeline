@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Edelweiss Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Overseas",
+        "scheme_category": "Money Market",
         "scheme_code": 148063,
         "scheme_name": "Edelweiss US Technology Equity Fund of Fund- Direct Plan- Growth",
         "isin_growth": "INF754K01LB7",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "32.39410"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "33.01520"
+        },
         {
             "date": "20-03-2026",
             "nav": "32.14800"

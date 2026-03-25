@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Edelweiss Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Index Funds",
+        "scheme_category": "Money Market",
         "scheme_code": 148555,
         "scheme_name": "Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund Direct Plan - Growth",
         "isin_growth": "INF754K01LV5",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "20.92590"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "20.77370"
+        },
         {
             "date": "20-03-2026",
             "nav": "21.02270"

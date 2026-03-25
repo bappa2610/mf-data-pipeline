@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "HSBC Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Overseas",
+        "scheme_category": "Money Market",
         "scheme_code": 115117,
         "scheme_name": "HSBC Brazil Fund - IDCW",
         "isin_growth": "INF336L01172",
         "isin_div_reinvestment": "INF336L01180"
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "10.41460"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "10.45100"
+        },
         {
             "date": "20-03-2026",
             "nav": "10.03290"

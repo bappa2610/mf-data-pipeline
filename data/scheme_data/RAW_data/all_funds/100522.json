@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Franklin Templeton Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Money Market",
         "scheme_code": 100522,
         "scheme_name": "Franklin India Technology Fund-Growth",
         "isin_growth": "INF090I01742",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "434.03310"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "430.60880"
+        },
         {
             "date": "20-03-2026",
             "nav": "434.65660"

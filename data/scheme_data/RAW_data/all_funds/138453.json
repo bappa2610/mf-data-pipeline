@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "PGIM India Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Overseas",
+        "scheme_category": "Money Market",
         "scheme_code": 138453,
         "scheme_name": "PGIM India Emerging Markets Equity Fund of Fund- Growth",
         "isin_growth": "INF223J01AY0",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "20.03000"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "19.83000"
+        },
         {
             "date": "20-03-2026",
             "nav": "20.14000"

@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Baroda BNP Paribas Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Overseas",
+        "scheme_category": "Money Market",
         "scheme_code": 150285,
         "scheme_name": "Baroda BNP Paribas Aqua Fund of Fund - Direct Plan - Growth Option",
         "isin_growth": "INF251K01QT5",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "15.30960"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "15.21470"
+        },
         {
             "date": "19-03-2026",
             "nav": "14.98390"

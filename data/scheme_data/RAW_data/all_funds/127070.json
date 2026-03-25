@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "HSBC Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Overseas",
+        "scheme_category": "Money Market",
         "scheme_code": 127070,
         "scheme_name": "HSBC Asia Pacific IDCW Yield Fund IDCW",
         "isin_growth": "INF336L01HD5",
         "isin_div_reinvestment": "INF336L01HE3"
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "22.04200"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "21.70190"
+        },
         {
             "date": "20-03-2026",
             "nav": "22.34220"

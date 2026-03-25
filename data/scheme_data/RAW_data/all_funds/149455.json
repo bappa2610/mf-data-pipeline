@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "ICICI Prudential Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Overseas",
+        "scheme_category": "Money Market",
         "scheme_code": 149455,
         "scheme_name": "ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Direct Plan Growth",
         "isin_growth": "INF109KC1Z55",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "30.57280"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "30.02620"
+        },
         {
             "date": "20-03-2026",
             "nav": "29.70620"

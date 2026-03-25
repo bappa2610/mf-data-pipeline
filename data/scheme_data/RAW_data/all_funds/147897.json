@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Axis Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Money Market",
         "scheme_code": 147897,
         "scheme_name": "Axis Income Plus Arbitrage Active FOF - Regular Plan - Half Yearly IDCW",
         "isin_growth": "INF846K01V81",
         "isin_div_reinvestment": "INF846K01V99"
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "12.30760"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "12.31140"
+        },
         {
             "date": "20-03-2026",
             "nav": "12.32850"

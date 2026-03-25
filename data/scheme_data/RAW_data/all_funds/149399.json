@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Edelweiss Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Money Market",
         "scheme_code": 149399,
         "scheme_name": "BHARAT Bond ETF FOF - April 2032 Regular Plan Growth",
         "isin_growth": "INF754K01NV1",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "12.98890"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "13.03740"
+        },
         {
             "date": "20-03-2026",
             "nav": "13.12060"

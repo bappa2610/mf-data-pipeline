@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Edelweiss Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Money Market",
         "scheme_code": 153778,
         "scheme_name": "Edelweiss Multi Asset Omni Fund of Fund- Regular Plan - IDCW",
         "isin_growth": "INF754K01VS0",
         "isin_div_reinvestment": "INF754K01VT8"
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "10.47960"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "10.23080"
+        },
         {
             "date": "20-03-2026",
             "nav": "10.66400"

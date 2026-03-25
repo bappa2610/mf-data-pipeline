@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Sundaram Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Overseas",
+        "scheme_category": "Money Market",
         "scheme_code": 106369,
         "scheme_name": "Sundaram Global Brand Theme-Equity Active FOF - Regular IDCW",
         "isin_growth": "INF903J01EY9",
         "isin_div_reinvestment": "INF903J01EZ6"
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "30.90420"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "31.15930"
+        },
         {
             "date": "19-03-2026",
             "nav": "30.78450"

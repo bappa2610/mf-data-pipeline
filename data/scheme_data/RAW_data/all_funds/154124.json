@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Sundaram Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Money Market",
         "scheme_code": 154124,
         "scheme_name": "Sundaram Income Plus Arbitrage Active FoF Fund-Direct-IDCW Payout",
         "isin_growth": "INF903JA1MA8",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "10.09350"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "10.09540"
+        },
         {
             "date": "20-03-2026",
             "nav": "10.10380"

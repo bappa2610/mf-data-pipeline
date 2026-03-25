@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Kotak Mahindra Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Money Market",
         "scheme_code": 147727,
         "scheme_name": "Kotak Pioneer Fund- Direct Plan- Growth Option",
         "isin_growth": "INF174KA1EZ1",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": ""
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "32.03700"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "31.57500"
+        },
         {
             "date": "19-03-2026",
             "nav": "32.26500"

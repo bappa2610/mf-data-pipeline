@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "SBI Mutual Fund",
+        "fund_house": "Taurus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Money Market",
         "scheme_code": 153834,
         "scheme_name": "SBI Dynamic Asset Allocation Active FoF - Regular Plan - Income Distribution Cum Capital Withdrawal Option",
         "isin_growth": "INF200KB1985",
         "isin_div_reinvestment": "INF200KB1993"
     },
     "data": [
+        {
+            "date": "24-03-2026",
+            "nav": "9.55860"
+        },
+        {
+            "date": "23-03-2026",
+            "nav": "9.47030"
+        },
         {
             "date": "20-03-2026",
             "nav": "9.63050"
