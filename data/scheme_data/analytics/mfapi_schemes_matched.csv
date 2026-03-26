@@ -961,10 +961,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 102126,Tata Mutual Fund,Tata Gilt Retirement Plan (28-2-15) Growth,,,Open Ended Schemes,Income
 102133,ICICI Prudential Mutual Fund,ICICI Prudential Multi Sector Passive FOF - Growth,INF109K01795,,Open Ended Schemes,Other Scheme - FoF Domestic
 102134,ICICI Prudential Mutual Fund,ICICI Prudential Multi Sector Passive FOF - IDCW,INF109K01DW7,INF109K01803,Open Ended Schemes,Other Scheme - FoF Domestic
-102135,Taurus Mutual Fund,ICICI Prudential Thematic Advantage Fund (FOF) - Growth,INF109K01852,,Open Ended Schemes,Money Market
-102136,Taurus Mutual Fund,ICICI Prudential Thematic Advantage Fund (FOF) - IDCW,INF109K01FR2,INF109K01860,Open Ended Schemes,Money Market
-102137,Taurus Mutual Fund,ICICI Prudential Dynamic Asset Allocation Active FOF - Growth,INF109K01837,,Open Ended Schemes,Money Market
-102138,Taurus Mutual Fund,ICICI Prudential Dynamic Asset Allocation Active FOF - IDCW,INF109K01FJ9,INF109K01845,Open Ended Schemes,Money Market
+102135,ICICI Prudential Mutual Fund,ICICI Prudential Thematic Advantage Fund (FOF) - Growth,INF109K01852,,Open Ended Schemes,Other Scheme - FoF Domestic
+102136,ICICI Prudential Mutual Fund,ICICI Prudential Thematic Advantage Fund (FOF) - IDCW,INF109K01FR2,INF109K01860,Open Ended Schemes,Other Scheme - FoF Domestic
+102137,ICICI Prudential Mutual Fund,ICICI Prudential Dynamic Asset Allocation Active FOF - Growth,INF109K01837,,Open Ended Schemes,Other Scheme - FoF Domestic
+102138,ICICI Prudential Mutual Fund,ICICI Prudential Dynamic Asset Allocation Active FOF - IDCW,INF109K01FJ9,INF109K01845,Open Ended Schemes,Other Scheme - FoF Domestic
 102139,ICICI Prudential Mutual Fund,ICICI Prudential Income Plus Arbitrage Omni FOF - Growth,INF109K01811,,Open Ended Schemes,Other Scheme - FoF Domestic
 102140,ICICI Prudential Mutual Fund,ICICI Prudential Income plus Arbitrage Omni FOF - IDCW,INF109K01EB9,INF109K01829,Open Ended Schemes,Other Scheme - FoF Domestic
 102141,ICICI Prudential Mutual Fund,ICICI Prudential Diversified Debt Strategy Active FOF - Growth,INF109K01878,,Open Ended Schemes,Other Scheme - FoF Domestic
@@ -15095,8 +15095,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 120676,ICICI Prudential Mutual Fund,ICICI Prudential Ultra Short Term Fund - Direct Plan -  Growth,INF109K01T04,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
 120677,ICICI Prudential Mutual Fund,ICICI Prudential Ultra Short Term Fund - Direct Plan -  Monthly IDCW,INF109K01T38,INF109K01T46,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
 120678,ICICI Prudential Mutual Fund,ICICI Prudential Ultra Short Term Fund - Direct Plan -  Half Yearly IDCW,,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
-120679,Taurus Mutual Fund,ICICI Prudential Dynamic Asset Allocation Active FOF - Direct Plan - Growth,INF109K01X16,,Open Ended Schemes,Money Market
-120680,Taurus Mutual Fund,ICICI Prudential Dynamic Asset Allocation Active FOF - Direct Plan - IDCW,INF109K01W90,INF109K01X08,Open Ended Schemes,Money Market
+120679,ICICI Prudential Mutual Fund,ICICI Prudential Dynamic Asset Allocation Active FOF - Direct Plan - Growth,INF109K01X16,,Open Ended Schemes,Other Scheme - FoF Domestic
+120680,ICICI Prudential Mutual Fund,ICICI Prudential Dynamic Asset Allocation Active FOF - Direct Plan - IDCW,INF109K01W90,INF109K01X08,Open Ended Schemes,Other Scheme - FoF Domestic
 120681,UTI Mutual Fund,UTI MNC Fund - Direct Plan - IDCW,INF789F01UB4,INF789F01UC2,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 120682,UTI Mutual Fund,UTI - MNC Fund - Growth Option - Direct,INF789F01UD0,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 120683,ICICI Prudential Mutual Fund,ICICI Prudential Nifty Next 50 Index Fund - Direct Plan -  IDCW,INF109K01Y64,INF109K01Y72,Open Ended Schemes,Other Scheme - Index Funds
@@ -15116,7 +15116,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 120697,ICICI Prudential Mutual Fund,ICICI Prudential Corporate Bond Fund - Direct Plan - Monthly IDCW,INF109K017B9,INF109K018B7,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
 120698,UTI Mutual Fund,UTI - Master Value Fund-Income Option - Direct,,,Open Ended Schemes,Income
 120699,UTI Mutual Fund,UTI - Master Value Fund-Growth Option-Direct,,,Open Ended Schemes,Income
-120700,Taurus Mutual Fund,ICICI Prudential Thematic Advantage Fund (FOF) - Direct Plan - Growth,INF109K01X40,,Open Ended Schemes,Money Market
+120700,ICICI Prudential Mutual Fund,ICICI Prudential Thematic Advantage Fund (FOF) - Direct Plan - Growth,INF109K01X40,,Open Ended Schemes,Other Scheme - FoF Domestic
 120702,ICICI Prudential Mutual Fund,ICICI Prudential Diversified Debt Strategy Active FOF  - Direct Plan - Growth,INF109K01X73,,Open Ended Schemes,Other Scheme - FoF Domestic
 120703,ICICI Prudential Mutual Fund,ICICI Prudential Diversified Debt Strategy Active FOF - Direct Plan -  IDCW,INF109K01X57,INF109K01X65,Open Ended Schemes,Other Scheme - FoF Domestic
 120704,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life MIP - Direct Plan - Growth,,,Open Ended Schemes,Income
@@ -21446,10 +21446,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 134889,Reliance Mutual Fund,Reliance Interval Fund -IV -Series 2 - Dividend Payout Option,,,Interval Fund Schemes,Income
 134890,Reliance Mutual Fund,Reliance Interval Fund -IV -Series 2 - Direct Plan - Growth Option,,,Interval Fund Schemes,Income
 134891,Reliance Mutual Fund,Reliance Interval Fund -IV -Series 2 - Growth Option,,,Interval Fund Schemes,Income
-134922,Taurus Mutual Fund,Nippon India US Equity Opportunities Fund- Growth Plan- Growth Option,INF204KA12G2,,Open Ended Schemes,Money Market
-134923,Taurus Mutual Fund,Nippon India US Equity Opportunities Fund- Direct Plan- Growth Plan- Growth Option,INF204KA15G5,,Open Ended Schemes,Money Market
-134924,Taurus Mutual Fund,NIPPON INDIA - US EQUITY OPPORTUNITIES FUND - IDCW Option,INF204KA13G0,INF204KA14G8,Open Ended Schemes,Money Market
-134925,Taurus Mutual Fund,NIPPON INDIA - US EQUITY OPPORTUNITIES FUND - Direct Plan - IDCW Option,INF204KA16G3,INF204KA17G1,Open Ended Schemes,Money Market
+134922,Nippon India Mutual Fund,Nippon India US Equity Opportunities Fund- Growth Plan- Growth Option,INF204KA12G2,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
+134923,Nippon India Mutual Fund,Nippon India US Equity Opportunities Fund- Direct Plan- Growth Plan- Growth Option,INF204KA15G5,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
+134924,Nippon India Mutual Fund,NIPPON INDIA - US EQUITY OPPORTUNITIES FUND - IDCW Option,INF204KA13G0,INF204KA14G8,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
+134925,Nippon India Mutual Fund,NIPPON INDIA - US EQUITY OPPORTUNITIES FUND - Direct Plan - IDCW Option,INF204KA16G3,INF204KA17G1,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 134934,HDFC Mutual Fund,HDFC FMP 1112D June 2015 (1)-Regular Option-Flexi Option,,,Close Ended Schemes,Income
 134935,HDFC Mutual Fund,HDFC FMP 1112D June 2015 (1)-Direct Option-Growth Option,,,Close Ended Schemes,Income
 134936,HDFC Mutual Fund,HDFC FMP 1112D June 2015 (1)-Regular Option-Growth Option,,,Close Ended Schemes,Income
