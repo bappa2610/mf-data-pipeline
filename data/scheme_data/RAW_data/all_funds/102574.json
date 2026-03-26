@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "Kotak Mahindra Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 102574,
         "scheme_name": "Kotak Multi Asset Omni FOF - Growth- Regular",
         "isin_growth": "INF174K01468",
-        "isin_div_reinvestment": ""
+        "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "243.56900"
+        },
         {
             "date": "24-03-2026",
             "nav": "239.22600"

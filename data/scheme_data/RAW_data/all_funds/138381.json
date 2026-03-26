@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "PGIM India Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
         "scheme_code": 138381,
         "scheme_name": "PGIM India Aggressive Hybrid Equity Fund - Dividend Option",
         "isin_growth": "INF663L01HA8",
         "isin_div_reinvestment": "INF663L01HB6"
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "14.14000"
+        },
         {
             "date": "24-03-2026",
             "nav": "13.95000"

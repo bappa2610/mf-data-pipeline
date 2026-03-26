@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 129201,
         "scheme_name": "HSBC Aggressive Hybrid Active FOF - Dividend Direct",
         "isin_growth": "INF336L01IB7",
         "isin_div_reinvestment": "INF336L01IC5"
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "31.55380"
+        },
         {
             "date": "24-03-2026",
             "nav": "31.05550"

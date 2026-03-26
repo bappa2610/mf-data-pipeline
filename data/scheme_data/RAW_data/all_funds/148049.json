@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "Tata Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
         "scheme_code": 148049,
         "scheme_name": "Tata Multi Asset Allocation Fund-Direct Plan-Dividend Payout",
         "isin_growth": "INF277K011Z7",
-        "isin_div_reinvestment": ""
+        "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "26.35250"
+        },
         {
             "date": "24-03-2026",
             "nav": "25.98520"

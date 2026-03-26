@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "Franklin Templeton Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 132988,
         "scheme_name": "Franklin India Income Plus Arbitrage Active Fund of Funds- IDCW",
         "isin_growth": "INF090I01LF1",
         "isin_div_reinvestment": "INF090I01LG9"
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "21.78430"
+        },
         {
             "date": "24-03-2026",
             "nav": "21.77700"

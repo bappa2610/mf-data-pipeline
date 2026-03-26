@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "Franklin Templeton Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Equity Scheme - Large Cap Fund",
         "scheme_code": 100470,
         "scheme_name": "Franklin India Large Cap Fund - IDCW",
         "isin_growth": "INF090I01155",
         "isin_div_reinvestment": "INF090I01163"
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "40.48200"
+        },
         {
             "date": "24-03-2026",
             "nav": "39.89120"

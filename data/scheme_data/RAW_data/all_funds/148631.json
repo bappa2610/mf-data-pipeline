@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 148631,
         "scheme_name": "Axis Innovation Fund - Regular Plan - Growth Option",
         "isin_growth": "INF846K01Y05",
-        "isin_div_reinvestment": ""
+        "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "17.39000"
+        },
         {
             "date": "24-03-2026",
             "nav": "17.18000"

@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "Aditya Birla Sun Life Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Equity Scheme - Dividend Yield Fund",
         "scheme_code": 101738,
         "scheme_name": "Aditya Birla Sun Life Dividend Yield Fund - Growth - Regular Plan",
         "isin_growth": "INF209K01405",
-        "isin_div_reinvestment": ""
+        "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "427.07000"
+        },
         {
             "date": "24-03-2026",
             "nav": "421.02000"

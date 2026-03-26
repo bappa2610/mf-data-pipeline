@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "Franklin Templeton Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 118559,
         "scheme_name": "Franklin Asian Equity Fund - Direct - Growth",
         "isin_growth": "INF090I01IZ5",
-        "isin_div_reinvestment": ""
+        "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "40.98910"
+        },
         {
             "date": "24-03-2026",
             "nav": "40.41280"

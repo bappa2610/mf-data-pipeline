@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "Sundaram Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 154127,
         "scheme_name": "Sundaram Income Plus Arbitrage Active FoF Fund-Regular-Growth",
         "isin_growth": "INF903JA1MC4",
-        "isin_div_reinvestment": ""
+        "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "10.08910"
+        },
         {
             "date": "24-03-2026",
             "nav": "10.08740"

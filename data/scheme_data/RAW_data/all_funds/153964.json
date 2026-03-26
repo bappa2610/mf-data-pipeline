@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "PPFAS Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Equity Scheme - Flexi Cap Fund",
         "scheme_code": 153964,
         "scheme_name": "Parag Parikh Flexi Cap Fund - Direct Plan - IDCW",
-        "isin_growth": "",
+        "isin_growth": null,
         "isin_div_reinvestment": "INF879O01308"
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "87.84090"
+        },
         {
             "date": "24-03-2026",
             "nav": "87.00060"

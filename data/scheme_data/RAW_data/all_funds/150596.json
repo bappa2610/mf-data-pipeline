@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Other Scheme - FoF Overseas",
         "scheme_code": 150596,
         "scheme_name": "Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Regular Plan - Growth",
         "isin_growth": "INF769K01IR7",
-        "isin_div_reinvestment": ""
+        "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "26.30500"
+        },
         {
             "date": "24-03-2026",
             "nav": "26.12300"

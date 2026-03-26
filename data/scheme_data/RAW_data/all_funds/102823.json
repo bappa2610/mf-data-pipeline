@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "SBI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 102823,
         "scheme_name": "SBI HEALTHCARE OPPORTUNITIES FUND - REGULAR PLAN -GROWTH",
         "isin_growth": "INF200K01446",
-        "isin_div_reinvestment": ""
+        "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "423.31230"
+        },
         {
             "date": "24-03-2026",
             "nav": "416.94600"

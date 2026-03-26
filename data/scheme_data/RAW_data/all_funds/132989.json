@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "Franklin Templeton Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 132989,
         "scheme_name": "Franklin India Income Plus Arbitrage Active Fund of Funds- Growth Plan - Direct",
         "isin_growth": "INF090I01LH7",
-        "isin_div_reinvestment": ""
+        "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "24.62410"
+        },
         {
             "date": "24-03-2026",
             "nav": "24.61570"

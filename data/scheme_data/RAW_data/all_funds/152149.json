@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "Aditya Birla Sun Life Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Other Scheme - FoF Overseas",
         "scheme_code": 152149,
         "scheme_name": "Aditya Birla Sun Life US Treasury 3-10 Year Bond ETFs Fund Of Funds-Regular IDCW",
         "isin_growth": "INF209KB10X8",
         "isin_div_reinvestment": "INF209KB11X6"
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "12.85580"
+        },
         {
             "date": "24-03-2026",
             "nav": "12.78390"

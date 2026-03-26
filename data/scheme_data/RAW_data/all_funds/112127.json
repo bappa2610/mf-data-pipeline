@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "DSP Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Other Scheme - FoF Overseas",
         "scheme_code": 112127,
         "scheme_name": "DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - IDCW",
         "isin_growth": "INF740K01292",
         "isin_div_reinvestment": "INF740K01300"
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "18.68190"
+        },
         {
             "date": "24-03-2026",
             "nav": "18.26110"

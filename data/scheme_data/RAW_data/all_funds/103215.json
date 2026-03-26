@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "SBI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Equity Scheme - Flexi Cap Fund",
         "scheme_code": 103215,
         "scheme_name": "SBI Flexicap Fund - REGULAR PLAN -Growth Option",
         "isin_growth": "INF200K01222",
-        "isin_div_reinvestment": ""
+        "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "101.26510"
+        },
         {
             "date": "24-03-2026",
             "nav": "99.50330"

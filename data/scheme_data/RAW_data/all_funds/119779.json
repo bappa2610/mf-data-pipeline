@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "Kotak Mahindra Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Other Scheme - FoF Overseas",
         "scheme_code": 119779,
         "scheme_name": "Kotak Global Emerging Market overseas Equity Omni FOF - Growth - Direct",
         "isin_growth": "INF174K01LW4",
-        "isin_div_reinvestment": ""
+        "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "36.54400"
+        },
         {
             "date": "24-03-2026",
             "nav": "35.84300"

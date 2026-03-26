@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "Sundaram Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 144834,
         "scheme_name": "Sundaram Services Fund Regular Plan - Reinvestment of Income Distribution cum Capital Withdrawal (IDCW) ",
         "isin_growth": "INF903JA1EZ2",
-        "isin_div_reinvestment": ""
+        "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "20.26070"
+        },
         {
             "date": "24-03-2026",
             "nav": "19.85230"

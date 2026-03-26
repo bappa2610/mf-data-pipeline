@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "Edelweiss Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 152440,
         "scheme_name": "Edelweiss Technology Fund - Regular Plan - IDCW",
         "isin_growth": "INF754K01SH9",
         "isin_div_reinvestment": "INF754K01SI7"
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "10.64940"
+        },
         {
             "date": "24-03-2026",
             "nav": "10.56150"

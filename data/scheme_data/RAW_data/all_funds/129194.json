@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 129194,
         "scheme_name": "HSBC Multi Asset Active FOF Direct Plan IDCW",
         "isin_growth": "INF336L01IH4",
         "isin_div_reinvestment": "INF336L01II2"
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "21.00940"
+        },
         {
             "date": "24-03-2026",
             "nav": "20.60760"

@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 147889,
         "scheme_name": "Axis Income Plus Arbitrage Active FOF - Direct Plan - Growth Option",
         "isin_growth": "INF846K01U09",
-        "isin_div_reinvestment": ""
+        "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "15.24320"
+        },
         {
             "date": "24-03-2026",
             "nav": "15.24140"

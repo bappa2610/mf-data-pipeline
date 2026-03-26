@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "Groww Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 154058,
         "scheme_name": "Groww Multi Asset Omni FOF Direct IDCW",
         "isin_growth": "INF666M01ND1",
         "isin_div_reinvestment": "INF666M01NE9"
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "9.43000"
+        },
         {
             "date": "24-03-2026",
             "nav": "9.25020"

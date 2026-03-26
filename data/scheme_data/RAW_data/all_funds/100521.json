@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "Franklin Templeton Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 100521,
         "scheme_name": "Franklin India Technology Fund - IDCW ",
         "isin_growth": "INF090I01759",
         "isin_div_reinvestment": "INF090I01767"
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "37.60850"
+        },
         {
             "date": "24-03-2026",
             "nav": "37.40640"

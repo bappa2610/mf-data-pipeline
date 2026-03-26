@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "360 ONE Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
         "scheme_code": 153775,
         "scheme_name": "360 ONE Multi Asset Allocation Fund - Regular Plan - IDCW",
         "isin_growth": "INF579M01BK6",
         "isin_div_reinvestment": "INF579M01BL4"
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "11.60170"
+        },
         {
             "date": "24-03-2026",
             "nav": "11.47460"

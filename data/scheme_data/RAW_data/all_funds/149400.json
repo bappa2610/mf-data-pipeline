@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "Edelweiss Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 149400,
         "scheme_name": "BHARAT Bond ETF FOF - April 2032 Regular Plan Dividend",
         "isin_growth": "INF754K01NW9",
         "isin_div_reinvestment": "INF754K01NX7"
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "12.97210"
+        },
         {
             "date": "24-03-2026",
             "nav": "12.98890"

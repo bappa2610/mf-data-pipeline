@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "SBI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 100643,
         "scheme_name": "SBI Technology Opportunities Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW)",
         "isin_growth": "INF200K01420",
         "isin_div_reinvestment": "INF200K01438"
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "110.20150"
+        },
         {
             "date": "24-03-2026",
             "nav": "109.38430"

@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 129198,
         "scheme_name": "HSBC Income Plus Arbitrage Active FOF Direct Plan IDCW",
         "isin_growth": "INF336L01IN2",
         "isin_div_reinvestment": "INF336L01IO0"
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "19.04620"
+        },
         {
             "date": "24-03-2026",
             "nav": "19.04310"

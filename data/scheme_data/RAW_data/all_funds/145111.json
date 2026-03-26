@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Equity Scheme - Large & Mid Cap Fund",
         "scheme_code": 145111,
         "scheme_name": "Axis Large & Mid Cap Fund - Regular Plan - IDCW",
         "isin_growth": "INF846K01J87",
         "isin_div_reinvestment": "INF846K01J95"
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "17.99000"
+        },
         {
             "date": "24-03-2026",
             "nav": "17.64000"

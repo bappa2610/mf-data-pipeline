@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "Franklin Templeton Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 101656,
         "scheme_name": "Franklin India Dynamic Asset Allocation Active Fund of Funds-Growth",
         "isin_growth": "INF090I01262",
-        "isin_div_reinvestment": ""
+        "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "159.37830"
+        },
         {
             "date": "24-03-2026",
             "nav": "157.61720"

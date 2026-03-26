@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "DSP Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 130491,
         "scheme_name": "DSP Income Plus Arbitrage Omni FoF - Direct Plan - IDCW",
         "isin_growth": "INF740K01Z68",
         "isin_div_reinvestment": "INF740K01Z76"
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "18.00450"
+        },
         {
             "date": "24-03-2026",
             "nav": "18.00860"

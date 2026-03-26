@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "Edelweiss Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 148452,
         "scheme_name": "BHARAT Bond FOF- April 2031- Regular Plan- Growth Option",
         "isin_growth": "INF754K01LL6",
-        "isin_div_reinvestment": ""
+        "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "13.83070"
+        },
         {
             "date": "24-03-2026",
             "nav": "13.83280"

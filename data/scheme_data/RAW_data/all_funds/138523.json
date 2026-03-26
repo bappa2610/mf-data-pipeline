@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "PGIM India Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Other Scheme - FoF Overseas",
         "scheme_code": 138523,
         "scheme_name": "PGIM India Global Equity Opportunities Fund of Fund- Growth",
         "isin_growth": "INF223J01AU8",
-        "isin_div_reinvestment": ""
+        "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "44.04000"
+        },
         {
             "date": "24-03-2026",
             "nav": "43.53000"

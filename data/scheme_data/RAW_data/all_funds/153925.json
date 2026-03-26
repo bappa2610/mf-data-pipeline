@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 153925,
         "scheme_name": "Axis Income Plus Arbitrage Passive FOF - Direct Plan - IDCW Option",
         "isin_growth": "INF846KA1309",
         "isin_div_reinvestment": "INF846KA1325"
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "10.20160"
+        },
         {
             "date": "24-03-2026",
             "nav": "10.19890"

@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "Quantum Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 141072,
         "scheme_name": "Quantum Multi Asset Active FOF - Regular Plan Growth Option",
         "isin_growth": "INF082J01341",
-        "isin_div_reinvestment": ""
+        "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "35.06330"
+        },
         {
             "date": "24-03-2026",
             "nav": "34.62030"

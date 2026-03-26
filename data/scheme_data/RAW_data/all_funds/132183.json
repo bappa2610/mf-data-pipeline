@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "Aditya Birla Sun Life Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 132183,
         "scheme_name": "Aditya Birla Sun Life Conservative Hybrid Active FOF- Direct Plan - Growth Option",
         "isin_growth": "INF084M01EQ8",
-        "isin_div_reinvestment": ""
+        "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "36.38320"
+        },
         {
             "date": "24-03-2026",
             "nav": "36.26260"

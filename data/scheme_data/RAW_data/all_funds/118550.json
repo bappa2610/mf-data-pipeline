@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "Franklin Templeton Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Other Scheme - FoF Overseas",
         "scheme_code": 118550,
         "scheme_name": "Franklin U.S. Opportunities Equity Active Fund of Funds - Direct - IDCW",
         "isin_growth": "INF090I01JP4",
         "isin_div_reinvestment": "INF090I01JQ2"
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "89.29050"
+        },
         {
             "date": "24-03-2026",
             "nav": "88.36890"

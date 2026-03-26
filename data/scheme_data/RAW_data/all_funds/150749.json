@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Other Scheme - FoF Overseas",
         "scheme_code": 150749,
         "scheme_name": "Axis NASDAQ 100 US Specific Equity Passive FOF - Direct Plan - IDCW",
         "isin_growth": "INF846K013K7",
         "isin_div_reinvestment": "INF846K014K5"
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "24.21120"
+        },
         {
             "date": "24-03-2026",
             "nav": "24.05230"

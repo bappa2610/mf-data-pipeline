@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "Edelweiss Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Other Scheme - FoF Overseas",
         "scheme_code": 140295,
         "scheme_name": "Edelweiss Europe Dynamic Equity Offshore Fund - Growth Option - Regular Plan",
         "isin_growth": "INF843K01GJ1",
-        "isin_div_reinvestment": ""
+        "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "28.26470"
+        },
         {
             "date": "24-03-2026",
             "nav": "27.79300"

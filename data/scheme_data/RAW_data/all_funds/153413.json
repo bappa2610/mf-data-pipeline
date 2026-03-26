@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "Zerodha Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 153413,
         "scheme_name": "Zerodha Silver ETF",
         "isin_growth": "INF0R8F01091",
-        "isin_div_reinvestment": ""
+        "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "23.62270"
+        },
         {
             "date": "24-03-2026",
             "nav": "22.65140"

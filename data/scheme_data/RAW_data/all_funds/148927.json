@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 148927,
         "scheme_name": "Mirae Asset NYSE FANG + ETF",
         "isin_growth": "INF769K01HF4",
-        "isin_div_reinvestment": ""
+        "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "130.91920"
+        },
         {
             "date": "24-03-2026",
             "nav": "130.35520"
