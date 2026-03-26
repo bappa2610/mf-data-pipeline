@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "DSP Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Debt Scheme - Money Market Fund",
         "scheme_code": 100089,
         "scheme_name": "DSP Savings Fund - Regular Plan - IDCW - Monthly",
         "isin_growth": "INF740K01722",
         "isin_div_reinvestment": "INF740K01AK0"
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "10.98830"
+        },
         {
             "date": "24-03-2026",
             "nav": "10.98640"
