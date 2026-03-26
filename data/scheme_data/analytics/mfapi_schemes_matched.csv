@@ -47,9 +47,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 100084,DSP Mutual Fund,DSP Gilt Fund - Regular Plan - Growth,INF740K01615,,Open Ended Schemes,Debt Scheme - Gilt Fund
 100085,DSP Mutual Fund,DSP Gilt Fund - Regular Plan - IDCW,INF740K01607,INF740K01AD5,Open Ended Schemes,Debt Scheme - Gilt Fund
 100086,DSP Mutual Fund,DSP Gilt Fund - Regular Plan - IDCW - Monthly,INF740K01623,INF740K01AE3,Open Ended Schemes,Debt Scheme - Gilt Fund
-100087,Taurus Mutual Fund,DSP Savings Fund - Regular Plan - Growth,INF740K01714,,Open Ended Schemes,Money Market
-100088,Taurus Mutual Fund,DSP Savings Fund - Regular Plan - IDCW,INF740K01706,INF740K01AJ2,Open Ended Schemes,Money Market
-100089,Taurus Mutual Fund,DSP Savings Fund - Regular Plan - IDCW - Monthly,INF740K01722,INF740K01AK0,Open Ended Schemes,Money Market
+100087,DSP Mutual Fund,DSP Savings Fund - Regular Plan - Growth,INF740K01714,,Open Ended Schemes,Debt Scheme - Money Market Fund
+100088,DSP Mutual Fund,DSP Savings Fund - Regular Plan - IDCW,INF740K01706,INF740K01AJ2,Open Ended Schemes,Debt Scheme - Money Market Fund
+100089,DSP Mutual Fund,DSP Savings Fund - Regular Plan - IDCW - Monthly,INF740K01722,INF740K01AK0,Open Ended Schemes,Debt Scheme - Money Market Fund
 100090,DSP Mutual Fund,DSP BlackRock Technology.com   Fund - Regular Plan - Growth,,,Open Ended Schemes,Income
 100119,HDFC Mutual Fund,HDFC Balanced Advantage Fund - Growth Plan,INF179K01830,,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
 100120,HDFC Mutual Fund,HDFC Balanced Advantage Fund - IDCW Plan,INF179K01814,INF179K01822,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
@@ -13656,9 +13656,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 119103,Tata Mutual Fund,Tata Corporate Bond Fund- Direct Plan-Weekly Dividend,,,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
 119104,Tata Mutual Fund,Tata Corporate Bond Fund- Direct Plan-Growth,,,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
 119105,Tata Mutual Fund,Tata Corporate Bond Fund- Direct Plan-Monthly Dividend,,,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
-119106,Taurus Mutual Fund,DSP Savings Fund - Direct Plan - Growth,INF740K01NU2,,Open Ended Schemes,Money Market
-119107,Taurus Mutual Fund,DSP Savings Fund - Direct Plan - IDCW - Monthly,INF740K01NT4,INF740K01NW8,Open Ended Schemes,Money Market
-119108,Taurus Mutual Fund,DSP Savings Fund - Direct Plan - IDCW,INF740K01NV0,INF740K01NX6,Open Ended Schemes,Money Market
+119106,DSP Mutual Fund,DSP Savings Fund - Direct Plan - Growth,INF740K01NU2,,Open Ended Schemes,Debt Scheme - Money Market Fund
+119107,DSP Mutual Fund,DSP Savings Fund - Direct Plan - IDCW - Monthly,INF740K01NT4,INF740K01NW8,Open Ended Schemes,Debt Scheme - Money Market Fund
+119108,DSP Mutual Fund,DSP Savings Fund - Direct Plan - IDCW,INF740K01NV0,INF740K01NX6,Open Ended Schemes,Debt Scheme - Money Market Fund
 119109,HDFC Mutual Fund,HDFC Overnight Fund - Daily IDCW Option - Direct Plan,,INF179KB1HY1,Open Ended Schemes,Debt Scheme - Overnight Fund
 119110,HDFC Mutual Fund,HDFC Overnight Fund - Growth Option - Direct Plan,INF179KB1HT1,,Open Ended Schemes,Debt Scheme - Overnight Fund
 119111,HDFC Mutual Fund,HDFC Floating Rate Income Fund Long -Direct Plan - Weekly Dividend Option,,,Open Ended Schemes,Income
