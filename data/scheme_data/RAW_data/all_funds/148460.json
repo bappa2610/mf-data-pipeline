@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "Nippon India Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
         "scheme_code": 148460,
         "scheme_name": "NIPPON INDIA MULTI ASSET ALLOCATION FUND - IDCW Option",
         "isin_growth": "INF204KB17V8",
         "isin_div_reinvestment": "INF204KB18V6"
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "22.86390"
+        },
         {
             "date": "24-03-2026",
             "nav": "22.52250"

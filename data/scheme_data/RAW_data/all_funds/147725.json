@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "Kotak Mahindra Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 147725,
         "scheme_name": "Kotak Pioneer Fund-Direct Plan-Reinvestment of Income Distribution cum capital withdrawal option",
         "isin_growth": "INF174KA1EX6",
         "isin_div_reinvestment": "INF174KA1EY4"
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "32.60400"
+        },
         {
             "date": "24-03-2026",
             "nav": "32.03300"

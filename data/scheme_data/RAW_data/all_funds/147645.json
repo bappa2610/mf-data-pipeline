@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "ICICI Prudential Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 147645,
         "scheme_name": "ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - IDCW",
         "isin_growth": "INF109KC1F42",
-        "isin_div_reinvestment": ""
+        "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "20.87870"
+        },
         {
             "date": "24-03-2026",
             "nav": "20.49790"

@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "ICICI Prudential Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 148034,
         "scheme_name": "ICICI Prudential Diversified Equity All Cap Omni FOF - IDCW",
         "isin_growth": "INF109KC1I31",
         "isin_div_reinvestment": "INF109KC1I23"
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "22.20930"
+        },
         {
             "date": "24-03-2026",
             "nav": "21.80580"
