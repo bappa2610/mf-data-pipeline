@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "Angel One Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Other Scheme - Gold ETF",
         "scheme_code": 153826,
         "scheme_name": "ANGEL ONE GOLD ETF",
         "isin_growth": "INF1J2R01114",
-        "isin_div_reinvestment": ""
+        "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "13.49610"
+        },
         {
             "date": "24-03-2026",
             "nav": "13.09000"
