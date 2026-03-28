@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Other Scheme - FoF Overseas",
         "scheme_code": 148955,
         "scheme_name": "Axis Global Innovation Fund of Fund - Direct Plan - IDCW",
         "isin_growth": "INF846K01Z38",
         "isin_div_reinvestment": "INF846K01Z46"
     },
     "data": [
+        {
+            "date": "27-03-2026",
+            "nav": "15.76000"
+        },
+        {
+            "date": "25-03-2026",
+            "nav": "16.32000"
+        },
         {
             "date": "24-03-2026",
             "nav": "16.11000"

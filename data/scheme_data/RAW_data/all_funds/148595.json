@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "DSP Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Equity Scheme - Value Fund",
         "scheme_code": 148595,
         "scheme_name": "DSP Value Fund - Direct Plan - Growth",
         "isin_growth": "INF740KA1PP3",
-        "isin_div_reinvestment": ""
+        "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "22.97700"
+        },
         {
             "date": "24-03-2026",
             "nav": "22.67900"

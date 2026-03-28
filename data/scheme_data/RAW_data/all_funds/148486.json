@@ -1,14 +1,22 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Other Scheme - FoF Overseas",
         "scheme_code": 148486,
         "scheme_name": "Axis Global Equity Alpha Fund of Fund - Regular Plan - Growth Option",
         "isin_growth": "INF846K01X30",
-        "isin_div_reinvestment": ""
+        "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-03-2026",
+            "nav": "21.21430"
+        },
+        {
+            "date": "25-03-2026",
+            "nav": "21.81130"
+        },
         {
             "date": "24-03-2026",
             "nav": "21.57550"

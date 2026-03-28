@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "DSP Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Other Scheme - FoF Overseas",
         "scheme_code": 149815,
         "scheme_name": "DSP Global Innovation Overseas Equity Omni FoF - Direct - IDCW",
         "isin_growth": "INF740KA1QQ9",
         "isin_div_reinvestment": "INF740KA1QR7"
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "19.01940"
+        },
         {
             "date": "24-03-2026",
             "nav": "18.80920"

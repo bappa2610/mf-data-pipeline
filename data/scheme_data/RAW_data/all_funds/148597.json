@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Taurus Mutual Fund",
+        "fund_house": "DSP Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Money Market",
+        "scheme_category": "Equity Scheme - Value Fund",
         "scheme_code": 148597,
         "scheme_name": "DSP Value Fund - Regular Plan - IDCW",
         "isin_growth": "INF740KA1PN8",
         "isin_div_reinvestment": "INF740KA1PO6"
     },
     "data": [
+        {
+            "date": "25-03-2026",
+            "nav": "15.41700"
+        },
         {
             "date": "24-03-2026",
             "nav": "15.21800"

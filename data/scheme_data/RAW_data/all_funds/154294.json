@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "fund_house": "HSBC Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Other Scheme - Gold ETF",
+        "scheme_code": 154294,
+        "scheme_name": "HSBC Gold ETF",
+        "isin_growth": "INF336L01RX2",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "27-03-2026",
+            "nav": "123.61830"
+        }
+    ],
+    "status": "SUCCESS"
+}
