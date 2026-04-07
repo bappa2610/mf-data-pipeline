@@ -746,8 +746,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 104684,ICICI Prudential Mutual Fund,ICICI Prudential Equity - Arbitrage Fund-Institutional Growth Option,INF109K01BD1,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
 104685,ICICI Prudential Mutual Fund,ICICI Prudential Balanced Advantage Fund - Growth,INF109K01BH2,,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
 104686,ICICI Prudential Mutual Fund,ICICI Prudential Balanced Advantage Fund - IDCW,INF109K01EG8,INF109K01BG4,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
-104706,HSBC Mutual Fund,HSBC Tax Saver Equity Fund - IDCW,INF336L01AZ3,,Open Ended Schemes,Equity Scheme - ELSS
-104707,HSBC Mutual Fund,HSBC Tax Saver Equity Fund - Growth,INF336L01BA4,,Open Ended Schemes,Equity Scheme - ELSS
 104722,Invesco Mutual Fund,Invesco India Low Duration Fund - Regular - Weekly IDCW (Reinvestment),,INF205K01HV6,Open Ended Schemes,Debt Scheme - Low Duration Fund
 104723,Invesco Mutual Fund,Invesco India Low Duration Fund - Regular - Monthly IDCW (Reinvestment),,INF205K01HW4,Open Ended Schemes,Debt Scheme - Low Duration Fund
 104725,Invesco Mutual Fund,Invesco India Low Duration Fund - Weekly IDCW (Payout / Reinvestment),INF205K01IB6,INF205K01IA8,Open Ended Schemes,Debt Scheme - Low Duration Fund
@@ -2472,8 +2470,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 120073,HSBC Mutual Fund,HSBC Conservative Hybrid Fund - Direct Growth,INF336L01DW4,,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund
 120074,HSBC Mutual Fund,HSBC Conservative Hybrid Fund - Direct Monthly IDCW,INF336L01DX2,INF336L01DY0,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund
 120075,HSBC Mutual Fund,HSBC Conservative Hybrid Fund - Direct Quarterly IDCW,INF336L01DZ7,INF336L01EA8,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund
-120078,HSBC Mutual Fund,HSBC Tax Saver Equity Fund - IDCW Direct Plan,INF336L01ER2,,Open Ended Schemes,Equity Scheme - ELSS
-120079,HSBC Mutual Fund,HSBC Tax Saver Equity Fund - Growth Direct,INF336L01EE0,,Open Ended Schemes,Equity Scheme - ELSS
 120084,PGIM India Mutual Fund,PGIM India Dynamic Bond Fund - Direct Plan-Growth Option,INF663L01AD7,,Open Ended Schemes,Debt Scheme - Dynamic Bond
 120085,PGIM India Mutual Fund,PGIM India Dynamic Bond Fund - Direct Plan-Monthly Dividend Option,INF663L01AF2,INF663L01AE5,Open Ended Schemes,Debt Scheme - Dynamic Bond
 120086,PGIM India Mutual Fund,PGIM India Dynamic Bond Fund - Direct Plan-Quarterly Dividend Option,INF663L01AI6,INF663L01AH8,Open Ended Schemes,Debt Scheme - Dynamic Bond
@@ -10177,10 +10173,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 148732,ITI Mutual Fund,ITI Mid Cap Fund - Regular Plan - Growth Option,INF00XX01895,,Open Ended Schemes,Equity Scheme - Mid Cap Fund
 148733,ITI Mutual Fund,ITI Mid Cap Fund - Direct Plan - Growth Option,INF00XX01929,,Open Ended Schemes,Equity Scheme - Mid Cap Fund
 148734,ITI Mutual Fund,ITI Mid Cap Fund - Regular Plan - IDCW Option,INF00XX01903,INF00XX01911,Open Ended Schemes,Equity Scheme - Mid Cap Fund
-148735,HSBC Mutual Fund,HSBC Global Equity Climate Change Fund of Fund - Regular - Growth,INF336L01PY4,,Open Ended Schemes,Other Scheme - FoF Overseas
-148736,HSBC Mutual Fund,HSBC Global Equity Climate Change Fund of Fund IDCW,INF336L01PZ1,INF336L01QA2,Open Ended Schemes,Other Scheme - FoF Overseas
-148737,HSBC Mutual Fund,HSBC Global Equity Climate Change Fund of Fund - Direct - Growth,INF336L01PV0,,Open Ended Schemes,Other Scheme - FoF Overseas
-148738,HSBC Mutual Fund,HSBC Global Equity  Climate Change Fund of Fund Direct Plan IDCW,INF336L01PW8,INF336L01PX6,Open Ended Schemes,Other Scheme - FoF Overseas
 148743,Kotak Mahindra Mutual Fund,Kotak Nifty Next 50 Index Fund - Regular Plan - Growth Option,INF174KA1FX3,,Open Ended Schemes,Other Scheme - Index Funds
 148744,Kotak Mahindra Mutual Fund,Kotak Nifty Next 50 Index Fund - Regular Plan - Payout of Income Distribution cum capital withdrawal option,INF174KA1FW5,INF174KA1FY1,Open Ended Schemes,Other Scheme - Index Funds
 148745,Kotak Mahindra Mutual Fund,Kotak Nifty Next 50 Index Fund - Direct Plan - Growth Option,INF174KA1GA9,,Open Ended Schemes,Other Scheme - Index Funds
@@ -16215,6 +16207,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 104703,SBI Mutual Fund,SBI DEBT FUND SERIES-90 DAYS- 8-DIVIDEND,,,Close Ended Schemes,Income
 104704,SBI Mutual Fund,SBI DEBT FUND SERIES -60 DAYS -7-GROWTH,,,Close Ended Schemes,Income
 104705,SBI Mutual Fund,SBI DEBT FUND SERIES -60 DAYS -7-DIVIDEND,,,Close Ended Schemes,Income
+104706,HSBC Mutual Fund,HSBC Tax Saver Equity Fund - IDCW,INF336L01AZ3,,Open Ended Schemes,Equity Scheme - ELSS
+104707,HSBC Mutual Fund,HSBC Tax Saver Equity Fund - Growth,INF336L01BA4,,Open Ended Schemes,Equity Scheme - ELSS
 104708,ICICI Prudential Mutual Fund,ICICI Prudential FMP series 34 - 16 Mths Plan - Retail Dividend Option,,,Close Ended Schemes,Income
 104710,ICICI Prudential Mutual Fund,ICICI Prudential FMP series 34 - 16 Mths Plan - Retail Growth Option,,,Close Ended Schemes,Income
 104711,ICICI Prudential Mutual Fund,ICICI Prudential FMP series 34 - 16 Mths Plan - Institutional Growth Option,,,Close Ended Schemes,Income
@@ -26554,6 +26548,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 120072,HSBC Mutual Fund,HSBC MIP-Regular Plan-Growth Direct,,,Open Ended Schemes,Income
 120076,HSBC Mutual Fund,HSBC - Small Cap Fund - Dividend Direct,,,Open Ended Schemes,Income
 120077,HSBC Mutual Fund,HSBC - Small Cap Fund - Growth Direct,,,Open Ended Schemes,Income
+120078,HSBC Mutual Fund,HSBC Tax Saver Equity Fund - IDCW Direct Plan,INF336L01ER2,,Open Ended Schemes,Equity Scheme - ELSS
+120079,HSBC Mutual Fund,HSBC Tax Saver Equity Fund - Growth Direct,INF336L01EE0,,Open Ended Schemes,Equity Scheme - ELSS
 120080,HSBC Mutual Fund,HSBC Dividend Yield Equity Fund-Dividend Direct,,,Open Ended Schemes,Income
 120081,HSBC Mutual Fund,HSBC Dividend Yield Equity Fund-Growth Direct,,,Open Ended Schemes,Income
 120082,BNP Paribas Mutual Fund,BNP Paribas Conservative Hybrid Fund - Direct Plan - Growth Option,,,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund
@@ -34294,6 +34290,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 148679,Trust Mutual Fund,TRUSTMF BANKING & PSU FUND REGULAR PLAN WEEKLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,,INF0GCD01032,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
 148680,Trust Mutual Fund,TRUSTMF BANKING & PSU DEBT FUND REGULAR PLAN QUARTERLY DIVIDEND REINVESTMENT,,,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
 148681,Trust Mutual Fund,TRUSTMF BANKING & PSU FUND DIRECT PLAN MONTHLY INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL OPTION,INF0GCD01149,INF0GCD01131,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
+148735,HSBC Mutual Fund,HSBC Global Equity Climate Change Fund of Fund - Regular - Growth,INF336L01PY4,,Open Ended Schemes,Other Scheme - FoF Overseas
+148736,HSBC Mutual Fund,HSBC Global Equity Climate Change Fund of Fund IDCW,INF336L01PZ1,INF336L01QA2,Open Ended Schemes,Other Scheme - FoF Overseas
+148737,HSBC Mutual Fund,HSBC Global Equity Climate Change Fund of Fund - Direct - Growth,INF336L01PV0,,Open Ended Schemes,Other Scheme - FoF Overseas
+148738,HSBC Mutual Fund,HSBC Global Equity  Climate Change Fund of Fund Direct Plan IDCW,INF336L01PW8,INF336L01PX6,Open Ended Schemes,Other Scheme - FoF Overseas
 148896,BNP Paribas Mutual Fund,BNP Paribas Funds Aqua Fund of Fund - Regular Plan Growth,,,Open Ended Schemes,Other Scheme - FoF Overseas
 148897,BNP Paribas Mutual Fund,BNP Paribas Funds Aqua Fund of Fund - Direct Plan - Growth Option,,,Open Ended Schemes,Other Scheme - FoF Overseas
 148898,BNP Paribas Mutual Fund,BNP Paribas Funds Aqua Fund of Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option,,,Open Ended Schemes,Other Scheme - FoF Overseas
