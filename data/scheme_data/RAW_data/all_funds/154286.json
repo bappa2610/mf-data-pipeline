@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "fund_house": "Kotak Mahindra Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Other Scheme - FoF Overseas",
+        "scheme_code": 154286,
+        "scheme_name": "Kotak Quality Overseas Equity Omni FOF - Regular Plan - Growth",
+        "isin_growth": "INF174KA1ZL6",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "10-04-2026",
+            "nav": "10.02200"
+        },
+        {
+            "date": "09-04-2026",
+            "nav": "10.02800"
+        },
+        {
+            "date": "08-04-2026",
+            "nav": "10.02000"
+        },
+        {
+            "date": "07-04-2026",
+            "nav": "10.02000"
+        },
+        {
+            "date": "06-04-2026",
+            "nav": "10.01900"
+        },
+        {
+            "date": "02-04-2026",
+            "nav": "10.01600"
+        },
+        {
+            "date": "01-04-2026",
+            "nav": "10.01500"
+        },
+        {
+            "date": "31-03-2026",
+            "nav": "10.01300"
+        },
+        {
+            "date": "30-03-2026",
+            "nav": "10.01200"
+        }
+    ],
+    "status": "SUCCESS"
+}

@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "fund_house": "Choice Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Other Scheme - Index Funds",
+        "scheme_code": 154302,
+        "scheme_name": "Choice Nifty 50 Index Fund - Regular Plan Growth",
+        "isin_growth": "INF2KCX01038",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "10-04-2026",
+            "nav": "10.34370"
+        },
+        {
+            "date": "09-04-2026",
+            "nav": "10.22580"
+        }
+    ],
+    "status": "SUCCESS"
+}

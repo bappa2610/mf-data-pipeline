@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "fund_house": "Edelweiss Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Other Scheme - Index Funds",
+        "scheme_code": 154310,
+        "scheme_name": "Edelweiss Nifty LargeMidcap 250 Plus 8-13 yr G-Sec 70-30 Index Fund Direct Plan Growth",
+        "isin_growth": "INF754K01WR0",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "10-04-2026",
+            "nav": "10.38770"
+        },
+        {
+            "date": "09-04-2026",
+            "nav": "10.27390"
+        }
+    ],
+    "status": "SUCCESS"
+}

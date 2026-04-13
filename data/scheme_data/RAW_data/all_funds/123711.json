@@ -4,11 +4,43 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Short Duration Fund",
         "scheme_code": 123711,
-        "scheme_name": "Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment)",
+        "scheme_name": "Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment)",
         "isin_growth": "INF666M01AP2",
         "isin_div_reinvestment": "INF666M01AM9"
     },
     "data": [
+        {
+            "date": "10-04-2026",
+            "nav": "1027.39200"
+        },
+        {
+            "date": "09-04-2026",
+            "nav": "1026.43880"
+        },
+        {
+            "date": "08-04-2026",
+            "nav": "1025.51920"
+        },
+        {
+            "date": "07-04-2026",
+            "nav": "1023.30940"
+        },
+        {
+            "date": "06-04-2026",
+            "nav": "1022.76780"
+        },
+        {
+            "date": "02-04-2026",
+            "nav": "1022.48260"
+        },
+        {
+            "date": "31-03-2026",
+            "nav": "1023.70180"
+        },
+        {
+            "date": "30-03-2026",
+            "nav": "1023.53430"
+        },
         {
             "date": "27-03-2026",
             "nav": "1022.73800"

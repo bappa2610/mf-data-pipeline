@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "fund_house": "The Wealth Company Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Equity Scheme - Small Cap Fund",
+        "scheme_code": 154267,
+        "scheme_name": "The Wealth Company Small Cap Fund- Regular-IDCW",
+        "isin_growth": "INF2F0001511",
+        "isin_div_reinvestment": "INF2F0001529"
+    },
+    "data": [
+        {
+            "date": "10-04-2026",
+            "nav": "10.39850"
+        },
+        {
+            "date": "09-04-2026",
+            "nav": "10.30190"
+        },
+        {
+            "date": "08-04-2026",
+            "nav": "10.27690"
+        },
+        {
+            "date": "07-04-2026",
+            "nav": "10.04850"
+        },
+        {
+            "date": "06-04-2026",
+            "nav": "10.01260"
+        },
+        {
+            "date": "02-04-2026",
+            "nav": "9.95640"
+        },
+        {
+            "date": "01-04-2026",
+            "nav": "9.93190"
+        },
+        {
+            "date": "31-03-2026",
+            "nav": "9.86570"
+        },
+        {
+            "date": "30-03-2026",
+            "nav": "9.86630"
+        }
+    ],
+    "status": "SUCCESS"
+}

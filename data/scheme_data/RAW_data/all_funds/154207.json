@@ -2,13 +2,49 @@
     "meta": {
         "fund_house": "Angel One Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Other  ETFs",
+        "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 154207,
         "scheme_name": "ANGEL ONE SILVER ETF FOF -REGULAR GROWTH",
         "isin_growth": "INF1J2R01163",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "10-04-2026",
+            "nav": "8.22060"
+        },
+        {
+            "date": "09-04-2026",
+            "nav": "8.13080"
+        },
+        {
+            "date": "08-04-2026",
+            "nav": "8.36600"
+        },
+        {
+            "date": "07-04-2026",
+            "nav": "8.00580"
+        },
+        {
+            "date": "06-04-2026",
+            "nav": "8.08730"
+        },
+        {
+            "date": "02-04-2026",
+            "nav": "7.86200"
+        },
+        {
+            "date": "01-04-2026",
+            "nav": "8.09700"
+        },
+        {
+            "date": "31-03-2026",
+            "nav": "7.90760"
+        },
+        {
+            "date": "30-03-2026",
+            "nav": "7.90780"
+        },
         {
             "date": "27-03-2026",
             "nav": "7.70990"

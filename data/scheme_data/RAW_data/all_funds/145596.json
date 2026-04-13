@@ -4,11 +4,43 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Dynamic Bond",
         "scheme_code": 145596,
-        "scheme_name": "Groww Dynamic Bond Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment)",
+        "scheme_name": "Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment)",
         "isin_growth": null,
         "isin_div_reinvestment": "INF666M01EL3"
     },
     "data": [
+        {
+            "date": "10-04-2026",
+            "nav": "1019.72440"
+        },
+        {
+            "date": "09-04-2026",
+            "nav": "1019.51670"
+        },
+        {
+            "date": "08-04-2026",
+            "nav": "1019.21290"
+        },
+        {
+            "date": "07-04-2026",
+            "nav": "1015.86770"
+        },
+        {
+            "date": "06-04-2026",
+            "nav": "1015.24540"
+        },
+        {
+            "date": "02-04-2026",
+            "nav": "1013.37420"
+        },
+        {
+            "date": "31-03-2026",
+            "nav": "1014.12230"
+        },
+        {
+            "date": "30-03-2026",
+            "nav": "1013.92000"
+        },
         {
             "date": "27-03-2026",
             "nav": "1013.72080"

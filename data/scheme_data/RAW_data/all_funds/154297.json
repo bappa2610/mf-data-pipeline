@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "fund_house": "HSBC Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_code": 154297,
+        "scheme_name": "HSBC Gold ETF Fund of fund - Direct IDCW",
+        "isin_growth": "INF336L01SD2",
+        "isin_div_reinvestment": "INF336L01SC4"
+    },
+    "data": [
+        {
+            "date": "10-04-2026",
+            "nav": "10.25630"
+        },
+        {
+            "date": "09-04-2026",
+            "nav": "10.19520"
+        },
+        {
+            "date": "08-04-2026",
+            "nav": "10.31820"
+        },
+        {
+            "date": "07-04-2026",
+            "nav": "10.15670"
+        }
+    ],
+    "status": "SUCCESS"
+}

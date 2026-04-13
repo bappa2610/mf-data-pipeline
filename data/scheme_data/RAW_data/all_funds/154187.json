@@ -2,13 +2,49 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Overseas",
+        "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 154187,
         "scheme_name": "Mirae Asset BSE India Defence ETF FOF - Direct Plan - Growth",
         "isin_growth": "INF769K01QG3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "10-04-2026",
+            "nav": "10.14000"
+        },
+        {
+            "date": "09-04-2026",
+            "nav": "9.99600"
+        },
+        {
+            "date": "08-04-2026",
+            "nav": "9.86000"
+        },
+        {
+            "date": "07-04-2026",
+            "nav": "9.48700"
+        },
+        {
+            "date": "06-04-2026",
+            "nav": "9.41100"
+        },
+        {
+            "date": "02-04-2026",
+            "nav": "9.24800"
+        },
+        {
+            "date": "01-04-2026",
+            "nav": "9.23900"
+        },
+        {
+            "date": "31-03-2026",
+            "nav": "8.85000"
+        },
+        {
+            "date": "30-03-2026",
+            "nav": "8.85000"
+        },
         {
             "date": "27-03-2026",
             "nav": "9.06200"

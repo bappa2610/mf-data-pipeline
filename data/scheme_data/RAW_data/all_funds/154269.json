@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "fund_house": "The Wealth Company Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Equity Scheme - Small Cap Fund",
+        "scheme_code": 154269,
+        "scheme_name": "The Wealth Company Small Cap Fund- Direct-Growth",
+        "isin_growth": "INF2F0001537",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "10-04-2026",
+            "nav": "10.40770"
+        },
+        {
+            "date": "09-04-2026",
+            "nav": "10.31040"
+        },
+        {
+            "date": "08-04-2026",
+            "nav": "10.28490"
+        },
+        {
+            "date": "07-04-2026",
+            "nav": "10.05580"
+        },
+        {
+            "date": "06-04-2026",
+            "nav": "10.01930"
+        },
+        {
+            "date": "02-04-2026",
+            "nav": "9.96100"
+        },
+        {
+            "date": "01-04-2026",
+            "nav": "9.93590"
+        },
+        {
+            "date": "31-03-2026",
+            "nav": "9.86920"
+        },
+        {
+            "date": "30-03-2026",
+            "nav": "9.86930"
+        }
+    ],
+    "status": "SUCCESS"
+}

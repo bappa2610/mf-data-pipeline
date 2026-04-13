@@ -4,11 +4,43 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Short Duration Fund",
         "scheme_code": 123704,
-        "scheme_name": "Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund) - Direct Plan - Growth Option",
+        "scheme_name": "Groww Short Term Fund (formerly known as Indiabulls Short Term Fund) - Direct Plan - Growth Option",
         "isin_growth": "INF666M01AC0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "10-04-2026",
+            "nav": "2489.56690"
+        },
+        {
+            "date": "09-04-2026",
+            "nav": "2487.20530"
+        },
+        {
+            "date": "08-04-2026",
+            "nav": "2484.92490"
+        },
+        {
+            "date": "07-04-2026",
+            "nav": "2479.51850"
+        },
+        {
+            "date": "06-04-2026",
+            "nav": "2478.15410"
+        },
+        {
+            "date": "02-04-2026",
+            "nav": "2477.25500"
+        },
+        {
+            "date": "31-03-2026",
+            "nav": "2480.10520"
+        },
+        {
+            "date": "30-03-2026",
+            "nav": "2479.64880"
+        },
         {
             "date": "27-03-2026",
             "nav": "2477.56810"

@@ -1,0 +1,38 @@
+{
+    "meta": {
+        "fund_house": "SBI Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Other Scheme - Other  ETFs",
+        "scheme_code": 154305,
+        "scheme_name": "SBI Nifty Midcap 150 ETF",
+        "isin_growth": "INF200KB1AK8",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "10-04-2026",
+            "nav": "21.30790"
+        },
+        {
+            "date": "09-04-2026",
+            "nav": "20.97320"
+        },
+        {
+            "date": "08-04-2026",
+            "nav": "20.91730"
+        },
+        {
+            "date": "07-04-2026",
+            "nav": "20.12150"
+        },
+        {
+            "date": "06-04-2026",
+            "nav": "20.08950"
+        },
+        {
+            "date": "02-04-2026",
+            "nav": "19.80590"
+        }
+    ],
+    "status": "SUCCESS"
+}
