@@ -1004,8 +1004,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 102126,Tata Mutual Fund,Tata Gilt Retirement Plan (28-2-15) Growth,,,Open Ended Schemes,Income
 102133,ICICI Prudential Mutual Fund,ICICI Prudential Multi Sector Passive FOF - Growth,INF109K01795,,Open Ended Schemes,Other Scheme - FoF Domestic
 102134,ICICI Prudential Mutual Fund,ICICI Prudential Multi Sector Passive FOF - IDCW,INF109K01DW7,INF109K01803,Open Ended Schemes,Other Scheme - FoF Domestic
-102135,ICICI Prudential Mutual Fund,ICICI Prudential Thematic Advantage Fund (FOF) - Growth,INF109K01852,,Open Ended Schemes,Other Scheme - FoF Domestic
-102136,ICICI Prudential Mutual Fund,ICICI Prudential Thematic Advantage Fund (FOF) - IDCW,INF109K01FR2,INF109K01860,Open Ended Schemes,Other Scheme - FoF Domestic
+102135,ICICI Prudential Mutual Fund,ICICI Prudential Aggressive Hybrid Active FOF - Growth,INF109K01852,,Open Ended Schemes,Other Scheme - FoF Domestic
+102136,ICICI Prudential Mutual Fund,ICICI Prudential Aggressive Hybrid Active FOF - IDCW,INF109K01FR2,INF109K01860,Open Ended Schemes,Other Scheme - FoF Domestic
 102137,ICICI Prudential Mutual Fund,ICICI Prudential Dynamic Asset Allocation Active FOF - Growth,INF109K01837,,Open Ended Schemes,Other Scheme - FoF Domestic
 102138,ICICI Prudential Mutual Fund,ICICI Prudential Dynamic Asset Allocation Active FOF - IDCW,INF109K01FJ9,INF109K01845,Open Ended Schemes,Other Scheme - FoF Domestic
 102139,ICICI Prudential Mutual Fund,ICICI Prudential Income Plus Arbitrage Omni FOF - Growth,INF109K01811,,Open Ended Schemes,Other Scheme - FoF Domestic
@@ -15573,7 +15573,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 120697,ICICI Prudential Mutual Fund,ICICI Prudential Corporate Bond Fund - Direct Plan - Monthly IDCW,INF109K017B9,INF109K018B7,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
 120698,UTI Mutual Fund,UTI - Master Value Fund-Income Option - Direct,,,Open Ended Schemes,Income
 120699,UTI Mutual Fund,UTI - Master Value Fund-Growth Option-Direct,,,Open Ended Schemes,Income
-120700,ICICI Prudential Mutual Fund,ICICI Prudential Thematic Advantage Fund (FOF) - Direct Plan - Growth,INF109K01X40,,Open Ended Schemes,Other Scheme - FoF Domestic
+120700,ICICI Prudential Mutual Fund,ICICI Prudential Aggressive Hybrid Active FOF - Direct Plan - Growth,INF109K01X40,,Open Ended Schemes,Other Scheme - FoF Domestic
 120702,ICICI Prudential Mutual Fund,ICICI Prudential Diversified Debt Strategy Active FOF  - Direct Plan - Growth,INF109K01X73,,Open Ended Schemes,Other Scheme - FoF Domestic
 120703,ICICI Prudential Mutual Fund,ICICI Prudential Diversified Debt Strategy Active FOF - Direct Plan -  IDCW,INF109K01X57,INF109K01X65,Open Ended Schemes,Other Scheme - FoF Domestic
 120704,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life MIP - Direct Plan - Growth,,,Open Ended Schemes,Income
@@ -17730,14 +17730,14 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 123694,IDFC Mutual Fund,IDFC FTP - Series 29(485 days)_Direct Plan_Growth,,,Close Ended Schemes,Income
 123697,IDFC Mutual Fund,IDFC FTP - Series 29 (485 days)_Regular Plan_Quarterly Dividend,,,Close Ended Schemes,Income
 123702,IDFC Mutual Fund,IDFC FTP - Series 29 (485 days)_Regular Plan_Growth,,,Close Ended Schemes,Income
-123704,Groww Mutual Fund,Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund) - Direct Plan - Growth Option,INF666M01AC0,,Open Ended Schemes,Debt Scheme - Short Duration Fund
-123705,Groww Mutual Fund,Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01AG1,INF666M01AD8,Open Ended Schemes,Debt Scheme - Short Duration Fund
-123706,Groww Mutual Fund,Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01AH9,INF666M01AE6,Open Ended Schemes,Debt Scheme - Short Duration Fund
-123707,Groww Mutual Fund,Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01AI7,INF666M01AF3,Open Ended Schemes,Debt Scheme - Short Duration Fund
-123708,Groww Mutual Fund,Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund )- Regular Plan - Growth Option,INF666M01AJ5,,Open Ended Schemes,Debt Scheme - Short Duration Fund
-123709,Groww Mutual Fund,Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund)- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01AN7,INF666M01AK3,Open Ended Schemes,Debt Scheme - Short Duration Fund
-123710,Groww Mutual Fund,Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund)- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01AO5,INF666M01AL1,Open Ended Schemes,Debt Scheme - Short Duration Fund
-123711,Groww Mutual Fund,Groww Short Duration Fund (formerly known as Indiabulls Short Term Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01AP2,INF666M01AM9,Open Ended Schemes,Debt Scheme - Short Duration Fund
+123704,Groww Mutual Fund,Groww Short Term Fund (formerly known as Indiabulls Short Term Fund) - Direct Plan - Growth Option,INF666M01AC0,,Open Ended Schemes,Debt Scheme - Short Duration Fund
+123705,Groww Mutual Fund,Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01AG1,INF666M01AD8,Open Ended Schemes,Debt Scheme - Short Duration Fund
+123706,Groww Mutual Fund,Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01AH9,INF666M01AE6,Open Ended Schemes,Debt Scheme - Short Duration Fund
+123707,Groww Mutual Fund,Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01AI7,INF666M01AF3,Open Ended Schemes,Debt Scheme - Short Duration Fund
+123708,Groww Mutual Fund,Groww Short Term Fund (formerly known as Indiabulls Short Term Fund )- Regular Plan - Growth Option,INF666M01AJ5,,Open Ended Schemes,Debt Scheme - Short Duration Fund
+123709,Groww Mutual Fund,Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01AN7,INF666M01AK3,Open Ended Schemes,Debt Scheme - Short Duration Fund
+123710,Groww Mutual Fund,Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01AO5,INF666M01AL1,Open Ended Schemes,Debt Scheme - Short Duration Fund
+123711,Groww Mutual Fund,Groww Short Term Fund (formerly known as Indiabulls Short Term Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01AP2,INF666M01AM9,Open Ended Schemes,Debt Scheme - Short Duration Fund
 123712,BOI AXA Mutual Fund,BOI AXA FIXED MATURITY PLAN SERIES 6 REGULAR PLAN GROWTH,,,Close Ended Schemes,Income
 123714,BOI AXA Mutual Fund,BOI AXA FIXED MATURITY PLAN SERIES 6 REGULAR PLAN DIVIDEND PAYOUT,,,Close Ended Schemes,Income
 123715,BOI AXA Mutual Fund,BOI AXA FIXED MATURITY PLAN SERIES 6 DIRECT PLAN GROWTH,,,Close Ended Schemes,Income
@@ -30852,16 +30852,16 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 145586,Kotak Mahindra Mutual Fund,Kotak Fmp series 251-1265 days-Direct Plan-Payout of Income Distribution cum capital withdrawal option ,,,IL&FS Mutual Fund,IDF
 145587,Kotak Mahindra Mutual Fund,Kotak FMP Series 251-1265 days-Regular Plan-Growth Option,,,IL&FS Mutual Fund,IDF
 145588,Kotak Mahindra Mutual Fund,Kotak FMP Series 251-1265 days-Direct Paln-Gwoth option,,,IL&FS Mutual Fund,IDF
-145589,Groww Mutual Fund,Groww Dynamic Bond Fund (formerly known as Indiabulls Dynamic Bond Fund) - Direct Plan - Growth option,INF666M01EK5,,Open Ended Schemes,Debt Scheme - Dynamic Bond
-145590,Groww Mutual Fund,Groww Dynamic Bond Fund (formerly known as Indiabulls Dynamic Bond Fund) - Regular Plan - Growth option,INF666M01ES8,,Open Ended Schemes,Debt Scheme - Dynamic Bond
-145591,Groww Mutual Fund,Groww Dynamic Bond Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01EQ2,INF666M01ER0,Open Ended Schemes,Debt Scheme - Dynamic Bond
-145592,Groww Mutual Fund,Groww Dynamic Bond Fund (formerly known as Indiabulls Dynamic Bond Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01EY6,INF666M01EZ3,Open Ended Schemes,Debt Scheme - Dynamic Bond
-145593,Groww Mutual Fund,Groww Dynamic Bond Fund (formerly known as Indiabulls Dynamic Bond Fund)- Regular Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment),,INF666M01ET6,Open Ended Schemes,Debt Scheme - Dynamic Bond
-145594,Groww Mutual Fund,Groww Dynamic Bond Fund (formerly known as Indiabulls Dynamic Bond Fund)- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01EU4,INF666M01EV2,Open Ended Schemes,Debt Scheme - Dynamic Bond
-145595,Groww Mutual Fund,Groww Dynamic Bond Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01EO7,INF666M01EP4,Open Ended Schemes,Debt Scheme - Dynamic Bond
-145596,Groww Mutual Fund,Groww Dynamic Bond Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment),,INF666M01EL3,Open Ended Schemes,Debt Scheme - Dynamic Bond
-145597,Groww Mutual Fund,Groww Dynamic Bond Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01EM1,INF666M01EN9,Open Ended Schemes,Debt Scheme - Dynamic Bond
-145598,Groww Mutual Fund,Groww Dynamic Bond Fund (formerly known as Indiabulls Dynamic Bond Fund)- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01EW0,INF666M01EX8,Open Ended Schemes,Debt Scheme - Dynamic Bond
+145589,Groww Mutual Fund,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund) - Direct Plan - Growth option,INF666M01EK5,,Open Ended Schemes,Debt Scheme - Dynamic Bond
+145590,Groww Mutual Fund,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund) - Regular Plan - Growth option,INF666M01ES8,,Open Ended Schemes,Debt Scheme - Dynamic Bond
+145591,Groww Mutual Fund,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01EQ2,INF666M01ER0,Open Ended Schemes,Debt Scheme - Dynamic Bond
+145592,Groww Mutual Fund,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01EY6,INF666M01EZ3,Open Ended Schemes,Debt Scheme - Dynamic Bond
+145593,Groww Mutual Fund,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Regular Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment),,INF666M01ET6,Open Ended Schemes,Debt Scheme - Dynamic Bond
+145594,Groww Mutual Fund,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01EU4,INF666M01EV2,Open Ended Schemes,Debt Scheme - Dynamic Bond
+145595,Groww Mutual Fund,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01EO7,INF666M01EP4,Open Ended Schemes,Debt Scheme - Dynamic Bond
+145596,Groww Mutual Fund,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment),,INF666M01EL3,Open Ended Schemes,Debt Scheme - Dynamic Bond
+145597,Groww Mutual Fund,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01EM1,INF666M01EN9,Open Ended Schemes,Debt Scheme - Dynamic Bond
+145598,Groww Mutual Fund,Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund)- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01EW0,INF666M01EX8,Open Ended Schemes,Debt Scheme - Dynamic Bond
 145599,Groww Mutual Fund,Groww Aggressive Hybrid Fund (formerly known as Indiabulls Equity Hybrid Fund) - Direct Plan - Growth option,INF666M01FA3,,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
 145600,Groww Mutual Fund,Groww Aggressive Hybrid Fund (formerly known as Indiabulls Equity Hybrid Fund)- Direct Plan- - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01FB1,INF666M01FC9,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
 145601,Groww Mutual Fund,Groww Aggressive Hybrid Fund (formerly known as Indiabulls Equity Hybrid Fund)- Direct Plan- Quarterly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01FF2,INF666M01FG0,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
@@ -36850,7 +36850,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153516,UTI Mutual Fund,UTI Multi Cap Fund - Regular Plan - Growth Option,INF789F1AB71,,Open Ended Schemes,Equity Scheme - Multi Cap Fund
 153517,HDFC Mutual Fund,HDFC CRISIL-IBX Financial Services 3-6 Months Debt Index Fund - Direct Growth Plan,INF179KC1JK5,,Open Ended Schemes,Other Scheme - Index Funds
 153518,HDFC Mutual Fund,HDFC CRISIL-IBX Financial Services 3-6 Months Debt Index Fund - Regular Growth Plan,INF179KC1JJ7,,Open Ended Schemes,Other Scheme - Index Funds
-153519,Mirae Asset Mutual Fund,Mirae Asset Nifty 50 Equal Weight ETF,,,Open Ended Schemes,Other Scheme - Other  ETFs
+153519,Mirae Asset Mutual Fund,Mirae Asset Nifty 50 Equal Weight ETF,INF769K01OO2,,Open Ended Schemes,Other Scheme - Other  ETFs
 153524,Groww Mutual Fund,Groww Silver ETF,INF666M01OF4,,Open Ended Schemes,Other Scheme - Other  ETFs
 153525,Groww Mutual Fund,Groww Silver ETF FOF - Direct - Growth,INF666M01KQ9,,Open Ended Schemes,Other Scheme - FoF Domestic
 153526,Groww Mutual Fund,Groww Silver ETF FOF - Direct - IDCW,INF666M01KR7,INF666M01KS5,Open Ended Schemes,Other Scheme - FoF Domestic
@@ -37450,16 +37450,16 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154184,The Wealth Company Mutual Fund,The Wealth Company Balanced Advantage Fund - Regular IDCW,INF2F0001453,INF2F0001461,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
 154185,The Wealth Company Mutual Fund,The Wealth Company Balanced Advantage Fund - Direct Growth,INF2F0001479,,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
 154186,The Wealth Company Mutual Fund,The Wealth Company Balanced Advantage Fund - Direct IDCW,INF2F0001487,INF2F0001495,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
-154187,Mirae Asset Mutual Fund,Mirae Asset BSE India Defence ETF FOF - Direct Plan - Growth,INF769K01QG3,,Open Ended Schemes,Other Scheme - FoF Overseas
-154188,Mirae Asset Mutual Fund,Mirae Asset BSE India Defence ETF FOF - Direct Plan - IDCW,INF769K01QI9,INF769K01QH1,Open Ended Schemes,Other Scheme - FoF Overseas
-154189,Mirae Asset Mutual Fund,Mirae Asset BSE India Defence ETF FOF - Regular Plan - Growth,INF769K01QD0,,Open Ended Schemes,Other Scheme - FoF Overseas
-154190,Mirae Asset Mutual Fund,Mirae Asset BSE India Defence ETF FOF - Regular Plan - IDCW,INF769K01QF5,INF769K01QE8,Open Ended Schemes,Other Scheme - FoF Overseas
+154187,Mirae Asset Mutual Fund,Mirae Asset BSE India Defence ETF FOF - Direct Plan - Growth,INF769K01QG3,,Open Ended Schemes,Other Scheme - FoF Domestic
+154188,Mirae Asset Mutual Fund,Mirae Asset BSE India Defence ETF FOF - Direct Plan - IDCW,INF769K01QI9,INF769K01QH1,Open Ended Schemes,Other Scheme - FoF Domestic
+154189,Mirae Asset Mutual Fund,Mirae Asset BSE India Defence ETF FOF - Regular Plan - Growth,INF769K01QD0,,Open Ended Schemes,Other Scheme - FoF Domestic
+154190,Mirae Asset Mutual Fund,Mirae Asset BSE India Defence ETF FOF - Regular Plan - IDCW,INF769K01QF5,INF769K01QE8,Open Ended Schemes,Other Scheme - FoF Domestic
 154191,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Best-in-Class Strategy Fund - Regular - IDCW Payout Option,INF251K01VN8,INF251K01VO6,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 154193,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Best-in-Class Strategy Fund - Direct - IDCW Payout Option,INF251K01VQ1,INF251K01VR9,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 154194,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Best-in-Class Strategy Fund - Regular - Growth Option,INF251K01VM0,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 154195,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Best-in-Class Strategy Fund - Direct - Growth Option,INF251K01VP3,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-154197,UTI Mutual Fund,UTI Nifty500 Shariah Index Fund - Direct Plan Growth Option,,,Open Ended Schemes,Other Scheme - Index Funds
-154198,UTI Mutual Fund,UTI Nifty500 Shariah Index Fund - Regular Plan Growth Option,,,Open Ended Schemes,Other Scheme - Index Funds
+154197,UTI Mutual Fund,UTI Nifty500 Shariah Index Fund - Direct Plan Growth Option,INF789F1AD04,,Open Ended Schemes,Other Scheme - Index Funds
+154198,UTI Mutual Fund,UTI Nifty500 Shariah Index Fund - Regular Plan Growth Option,INF789F1AC96,,Open Ended Schemes,Other Scheme - Index Funds
 154199,Groww Mutual Fund,Groww BSE Hospitals ETF,INF666M01OD9,,Open Ended Schemes,Other Scheme - Other  ETFs
 154200,Groww Mutual Fund,Groww BSE Hospitals ETF FOF Direct Growth,INF666M01NX9,,Open Ended Schemes,Other Scheme - FoF Domestic
 154201,Bajaj Finserv Mutual Fund,Bajaj Finserv Low Duration Fund - Regular - IDCW,INF0QA701CD1,INF0QA701CE9,Open Ended Schemes,Debt Scheme - Low Duration Fund
@@ -37467,8 +37467,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154203,Bajaj Finserv Mutual Fund,Bajaj Finserv Low Duration Fund - Regular - Growth,INF0QA701CC3,,Open Ended Schemes,Debt Scheme - Low Duration Fund
 154204,Bajaj Finserv Mutual Fund,Bajaj Finserv Low Duration Fund - Direct - Growth,INF0QA701CF6,,Open Ended Schemes,Debt Scheme - Low Duration Fund
 154205,Angel One Mutual Fund,ANGEL ONE SILVER ETF,INF1J2R01171,,Open Ended Schemes,Other Scheme - Other  ETFs
-154206,Angel One Mutual Fund,ANGEL ONE SILVER ETF FOF -DIRECT GROWTH,INF1J2R01155,,Open Ended Schemes,Other Scheme - Other  ETFs
-154207,Angel One Mutual Fund,ANGEL ONE SILVER ETF FOF -REGULAR GROWTH,INF1J2R01163,,Open Ended Schemes,Other Scheme - Other  ETFs
+154206,Angel One Mutual Fund,ANGEL ONE SILVER ETF FOF -DIRECT GROWTH,INF1J2R01155,,Open Ended Schemes,Other Scheme - FoF Domestic
+154207,Angel One Mutual Fund,ANGEL ONE SILVER ETF FOF -REGULAR GROWTH,INF1J2R01163,,Open Ended Schemes,Other Scheme - FoF Domestic
 154208,Edelweiss Mutual Fund,Edelweiss Gold ETF Fund of Fund Direct Plan Growth Option,INF754K01WP4,,Open Ended Schemes,Other Scheme - FoF Domestic
 154209,Edelweiss Mutual Fund,Edelweiss Gold ETF Fund of Fund Regular Plan Growth Option,INF754K01WQ2,,Open Ended Schemes,Other Scheme - FoF Domestic
 154210,Trust Mutual Fund,TRUSTMF MID CAP FUND -DIRECT -GROWTH,INF0GCD01875,,Open Ended Schemes,Equity Scheme - Mid Cap Fund
@@ -37526,11 +37526,15 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154264,HDFC Mutual Fund,HDFC INCOME PLUS ARBITRAGE OMNI FOF - IDCW OPTION - REGULAR PLAN,INF179KC1KC0,INF179KC1KD8,Open Ended Schemes,Other Scheme - FoF Domestic
 154265,ICICI Prudential Mutual Fund,ICICI Prudential Diversified Equity All Cap Active FOF - Growth,INF109K1A450,,Open Ended Schemes,Other Scheme - FoF Domestic
 154266,ICICI Prudential Mutual Fund,ICICI Prudential Diversified Equity All Cap Active FOF - Direct Plan - Growth,INF109K1A468,,Open Ended Schemes,Other Scheme - FoF Domestic
+154267,The Wealth Company Mutual Fund,The Wealth Company Small Cap Fund- Regular-IDCW,INF2F0001511,INF2F0001529,Open Ended Schemes,Equity Scheme - Small Cap Fund
+154268,The Wealth Company Mutual Fund,The Wealth Company Small Cap Fund- Regular-Growth,INF2F0001503,,Open Ended Schemes,Equity Scheme - Small Cap Fund
+154269,The Wealth Company Mutual Fund,The Wealth Company Small Cap Fund- Direct-Growth,INF2F0001537,,Open Ended Schemes,Equity Scheme - Small Cap Fund
+154270,The Wealth Company Mutual Fund,The Wealth Company Small Cap Fund- Direct-IDCW,INF2F0001545,INF2F0001552,Open Ended Schemes,Equity Scheme - Small Cap Fund
 154271,Nippon India Mutual Fund,Nippon India CRISIL-IBX Financial Services 3-6 Months Debt Index Fund- Direct Plan- Growth Option,INF204KC1GX3,,Open Ended Schemes,Other Scheme - Index Funds
 154272,Nippon India Mutual Fund,Nippon India CRISIL-IBX Financial Services 3-6 Months Debt Index Fund- Direct Plan-IDCW Option,INF204KC1GY1,INF204KC1GZ8,Open Ended Schemes,Other Scheme - Index Funds
 154273,Nippon India Mutual Fund,Nippon India CRISIL-IBX Financial Services 3-6 Months Debt Index Fund- Regular Plan- IDCW Option,INF204KC1GV7,INF204KC1GW5,Open Ended Schemes,Other Scheme - Index Funds
 154274,Nippon India Mutual Fund,Nippon India CRISIL-IBX Financial Services 3-6 Months Debt Index Fund- Regular Plan- Growth Option,INF204KC1GU9,,Open Ended Schemes,Other Scheme - Index Funds
-154275,Kotak Mahindra Mutual Fund,Kotak Multi Factor Passive FOF - Direct- Growth,INF74KA1ZG6,,Open Ended Schemes,Other Scheme - FoF Domestic
+154275,Kotak Mahindra Mutual Fund,Kotak Multi Factor Passive FOF - Direct- Growth,INF174KA1ZG6,,Open Ended Schemes,Other Scheme - FoF Domestic
 154276,Kotak Mahindra Mutual Fund,Kotak Multi Factor Passive FOF - Regular- Growth,INF174KA1ZH4,,Open Ended Schemes,Other Scheme - FoF Domestic
 154277,Groww Mutual Fund,Groww Nifty PSU Bank ETF,INF666M01OG2,,Open Ended Schemes,Other Scheme - Other  ETFs
 154278,Groww Mutual Fund,Groww Nifty PSU Bank Index Fund Direct Growth,INF666M01OH0,,Open Ended Schemes,Other Scheme - Index Funds
@@ -37541,11 +37545,31 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154283,Groww Mutual Fund,Groww Nifty PSU Bank Index Fund Direct IDCW,INF666M01OI8,INF666M01OJ6,Open Ended Schemes,Other Scheme - Index Funds
 154284,Groww Mutual Fund,Groww Nifty PSU Bank Index Fund Regular Growth,INF666M01OK4,,Open Ended Schemes,Other Scheme - Index Funds
 154285,Groww Mutual Fund,Groww Nifty PSU Bank Index Fund Regular IDCW,INF666M01OL2,INF666M01OM0,Open Ended Schemes,Other Scheme - Index Funds
+154286,Kotak Mahindra Mutual Fund,Kotak Quality Overseas Equity Omni FOF - Regular Plan - Growth,INF174KA1ZL6,,Open Ended Schemes,Other Scheme - FoF Overseas
+154287,Kotak Mahindra Mutual Fund,Kotak Quality Overseas Equity Omni FOF - Direct Plan - Growth-,INF174KA1ZI2,,Open Ended Schemes,Other Scheme - FoF Overseas
+154288,Kotak Mahindra Mutual Fund,Kotak Quality Overseas Equity Omni FOF - Direct Plan - IDCW,INF174KA1ZJ0,INF174KA1ZK8,Open Ended Schemes,Other Scheme - FoF Overseas
+154289,Kotak Mahindra Mutual Fund,Kotak Quality Overseas Equity Omni FOF - Regular Plan - IDCW,INF174KA1ZM4,INF174KA1ZN2,Open Ended Schemes,Other Scheme - FoF Overseas
 154290,Axis Mutual Fund,Axis Fixed Maturity Plan - Series 130 (92 Days) - Regular Plan - Growth,INF846KA1473,,Close Ended Schemes,Income
 154291,Axis Mutual Fund,Axis Fixed Maturity Plan - Series 130 (92 Days) - Regular Plan - IDCW,INF846KA1499,,Close Ended Schemes,Income
 154292,Axis Mutual Fund,Axis Fixed Maturity Plan - Series 130 (92 Days) - Direct Plan - Growth,INF846KA1481,,Close Ended Schemes,Income
 154293,Axis Mutual Fund,Axis Fixed Maturity Plan - Series 130 (92 Days) - Direct Plan - IDCW,INF846KA1507,,Close Ended Schemes,Income
 154294,HSBC Mutual Fund,HSBC Gold ETF,INF336L01RX2,,Open Ended Schemes,Other Scheme - Gold ETF
+154295,HSBC Mutual Fund,HSBC Gold ETF Fund of fund - Direct Growth,INF336L01SB6,,Open Ended Schemes,Other Scheme - FoF Domestic
+154296,HSBC Mutual Fund,HSBC Gold ETF Fund of fund - Regular IDCW,INF336L01SA8,INF336L01RZ7,Open Ended Schemes,Other Scheme - FoF Domestic
+154297,HSBC Mutual Fund,HSBC Gold ETF Fund of fund - Direct IDCW,INF336L01SD2,INF336L01SC4,Open Ended Schemes,Other Scheme - FoF Domestic
+154298,HSBC Mutual Fund,HSBC Gold ETF Fund of fund - Regular Growth,INF336L01RY0,,Open Ended Schemes,Other Scheme - FoF Domestic
 154299,Mirae Asset Mutual Fund,Mirae Asset Nifty 500 Value 50 ETF,INF769K01QV2,,Open Ended Schemes,Other Scheme - Other  ETFs
+154301,Choice Mutual Fund,Choice Nifty 50 Index Fund - Direct Plan Growth,INF2KCX01020,,Open Ended Schemes,Other Scheme - Index Funds
+154302,Choice Mutual Fund,Choice Nifty 50 Index Fund - Regular Plan Growth,INF2KCX01038,,Open Ended Schemes,Other Scheme - Index Funds
+154303,Choice Mutual Fund,Choice Nifty Next 50 Index Fund - Regular Plan Growth,INF2KCX01053,,Open Ended Schemes,Other Scheme - Index Funds
+154304,Choice Mutual Fund,Choice Nifty Next 50 Index Fund - Direct Plan Growth,INF2KCX01046,,Open Ended Schemes,Other Scheme - Index Funds
+154305,SBI Mutual Fund,SBI Nifty Midcap 150 ETF,INF200KB1AK8,,Open Ended Schemes,Other Scheme - Other  ETFs
 154308,HDFC Mutual Fund,HDFC CRISIL-IBX Financial Services 9-12 Months Debt Index Fund - Direct Growth Plan,INF179KC1KI7,,Open Ended Schemes,Other Scheme - Index Funds
 154309,HDFC Mutual Fund,HDFC CRISIL-IBX Financial Services 9-12 Months Debt Index Fund - Regular Growth Plan,INF179KC1KH9,,Open Ended Schemes,Other Scheme - Index Funds
+154310,Edelweiss Mutual Fund,Edelweiss Nifty LargeMidcap 250 Plus 8-13 yr G-Sec 70-30 Index Fund Direct Plan Growth,INF754K01WR0,,Open Ended Schemes,Other Scheme - Index Funds
+154311,Edelweiss Mutual Fund,Edelweiss Nifty LargeMidcap250 Plus 8-13 yr G-Sec 70-30 Index Fund Direct Plan Monthly IDCW,INF754K01WS8,INF754K01WT6,Open Ended Schemes,Other Scheme - Index Funds
+154312,Edelweiss Mutual Fund,Edelweiss Nifty LargeMidcap 250 Plus 8-13 yr G-Sec 70-30 Index Fund Regular Plan Growth,INF754K01WV2,,Open Ended Schemes,Other Scheme - Index Funds
+154313,Edelweiss Mutual Fund,Edelweiss Nifty LargeMidcap250 Plus 8-13 yr G-Sec 70-30 Index Fund Regular Plan Monthly IDCW,INF754K01WW0,INF754K01WX8,Open Ended Schemes,Other Scheme - Index Funds
+154314,Edelweiss Mutual Fund,Edelweiss Nifty LargeMidcap250 Plus 8-13 yr G-Sec 70-30 Index Fund - Direct Plan - Quarterly IDCW,INF754K01WZ3,INF754K01XA4,Open Ended Schemes,Other Scheme - Index Funds
+154315,Edelweiss Mutual Fund,Edelweiss Nifty LargeMidcap250 Plus 8-13 yr G-Sec 70-30 Index Fund - Regular Plan - Quarterly IDCW,INF754K01XC0,INF754K01XD8,Open Ended Schemes,Other Scheme - Index Funds
+154322,Motilal Oswal Mutual Fund,Motilal Oswal BSE Top 10 Banks ETF,INF247L01GV8,,Open Ended Schemes,Other Scheme - Other  ETFs
