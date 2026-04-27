@@ -1306,8 +1306,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 112125,Invesco Mutual Fund,Invesco India Money Market Fund - Monthly IDCW (Payout / Reinvestment),INF205K01SE9,INF205K01SF6,Open Ended Schemes,Debt Scheme - Money Market Fund
 112126,DSP Mutual Fund,DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - Growth,INF740K01284,,Open Ended Schemes,Other Scheme - FoF Overseas
 112127,DSP Mutual Fund,DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - IDCW,INF740K01292,INF740K01300,Open Ended Schemes,Other Scheme - FoF Overseas
-112152,Canara Robeco Mutual Fund,CANARA ROBECO CONSUMER TRENDS FUND - REGULAR PLAN - GROWTH OPTION,INF760K01241,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-112153,Canara Robeco Mutual Fund,CANARA ROBECO CONSUMER TRENDS FUND - REGULAR PLAN - IDCW (Payout/Reinvestment),INF760K01225,INF760K01233,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
+112152,Canara Robeco Mutual Fund,CANARA ROBECO CONSUMPTION FUND - REGULAR PLAN - GROWTH OPTION,INF760K01241,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
+112153,Canara Robeco Mutual Fund,CANARA ROBECO CONSUMPTION FUND - REGULAR PLAN - IDCW (Payout/Reinvestment),INF760K01225,INF760K01233,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 112171,Invesco Mutual Fund,Invesco India PSU Equity Fund - Regular Plan - Growth,INF205K01338,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 112173,Invesco Mutual Fund,Invesco India PSU Equity Fund - Regular Plan - IDCW (Payout / Reinvestment),INF205K01353,INF205K01346,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 112210,Axis Mutual Fund,Axis Liquid Fund - Regular Plan - Growth Option,INF846K01412,,Open Ended Schemes,Debt Scheme - Liquid Fund
@@ -1665,8 +1665,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 118270,Canara Robeco Mutual Fund,CANARA ROBECO LARGE CAP FUND - DIRECT PLAN - IDCW (Payout/Reinvestment),INF760K01FP6,INF760K01FQ4,Open Ended Schemes,Equity Scheme - Large Cap Fund
 118271,Canara Robeco Mutual Fund,CANARA ROBECO EQUITY HYBRID FUND - DIRECT PLAN - MONTHLY IDCW (Payout/Reinvestment),INF760K01EX3,INF760K01EY1,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
 118272,Canara Robeco Mutual Fund,CANARA ROBECO EQUITY HYBRID FUND - DIRECT PLAN - GROWTH OPTION,INF760K01EZ8,,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
-118273,Canara Robeco Mutual Fund,CANARA ROBECO CONSUMER TRENDS FUND - DIRECT PLAN - GROWTH OPTION,INF760K01DU1,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-118274,Canara Robeco Mutual Fund,CANARA ROBECO CONSUMER TRENDS FUND - DIRECT PLAN - IDCW (Payout/Reinvestment),INF760K01DS5,INF760K01DT3,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
+118273,Canara Robeco Mutual Fund,CANARA ROBECO CONSUMPTION FUND - DIRECT PLAN - GROWTH OPTION,INF760K01DU1,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
+118274,Canara Robeco Mutual Fund,CANARA ROBECO CONSUMPTION FUND - DIRECT PLAN - IDCW (Payout/Reinvestment),INF760K01DS5,INF760K01DT3,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 118275,Canara Robeco Mutual Fund,CANARA ROBECO FLEXICAP FUND - DIRECT PLAN - GROWTH OPTION,INF760K01EF0,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
 118276,Canara Robeco Mutual Fund,CANARA ROBECO FLEXICAP FUND - DIRECT PLAN - IDCW (Payout/Reinvestment),INF760K01ED5,INF760K01EE3,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
 118277,Canara Robeco Mutual Fund,CANARA ROBECO LARGE AND MID CAP FUND - DIRECT PLAN - IDCW (Payout/Reinvestment),INF760K01EG8,INF760K01EH6,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund
@@ -36304,3 +36304,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154344,Invesco Asset Management (India) Private Limited,Invesco India Nifty Bank Index Fund - Regular Plan - Growth,INF205KA1BN6,,Open Ended,Other Scheme - Index Funds
 154345,Groww Asset Management Limited,Groww Nifty Private Bank ETF,,,Open Ended,Other Scheme - Other  ETFs
 154346,Groww Asset Management Limited,Groww Nifty Private Bank Index Fund,,,Open Ended,Other Scheme - Index Funds
+154347,Edelweiss Asset Management Limited,Edelweiss Nifty Next 50 ETF - Growth,,,Open Ended,Other Scheme - Other  ETFs
+154348,Axis Asset Management Co. Ltd.,Axis Nifty Capital Markets Index Fund- Direct Plan,,,Open Ended,Other Scheme - Index Funds
+154349,Axis Asset Management Co. Ltd.,Axis Nifty Capital Markets Index Fund- Regular Plan,,,Open Ended,Other Scheme - Index Funds

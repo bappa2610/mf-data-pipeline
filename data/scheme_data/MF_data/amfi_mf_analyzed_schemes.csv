@@ -9074,8 +9074,8 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 112147,Mirae Asset Mutual Fund,Mirae Asset China Advantage Fund - Regular Plan Growth Option,,Open Ended,Income,Income,Regular,Growth,
 112148,Mirae Asset Mutual Fund,Mirae Asset China Advatage Fund-Regular Plan Dividend,,Open Ended,Income,Income,Regular,IDCW,
 112151,Canara Robeco Mutual Fund,Canara Robeco Consumer Trends Fund - Institutional Plan - Dividend Option,,Open Ended,Income,Income,Institutional,IDCW,
-112152,Canara Robeco Mutual Fund,CANARA ROBECO CONSUMER TRENDS FUND - REGULAR PLAN - GROWTH OPTION,INF760K01241,Open Ended,Equity,Sectoral/ Thematic,Regular,Growth,
-112153,Canara Robeco Mutual Fund,CANARA ROBECO CONSUMER TRENDS FUND - REGULAR PLAN - IDCW (Payout/Reinvestment),INF760K01225,Open Ended,Equity,Sectoral/ Thematic,Regular,IDCW,Reinvestment
+112152,Canara Robeco Mutual Fund,CANARA ROBECO CONSUMPTION FUND - REGULAR PLAN - GROWTH OPTION,INF760K01241,Open Ended,Equity,Sectoral/ Thematic,Regular,Growth,
+112153,Canara Robeco Mutual Fund,CANARA ROBECO CONSUMPTION FUND - REGULAR PLAN - IDCW (Payout/Reinvestment),INF760K01225,Open Ended,Equity,Sectoral/ Thematic,Regular,IDCW,Reinvestment
 112162,Tata Mutual Fund,Tata Fixed Maturity Plan Series 25 - Scheme B - High Investment Plan - Dividend,,Close Ended,Income,Income,Other,IDCW,
 112163,Tata Mutual Fund,Tata Fixed Maturity Plan Series 25 - Scheme B - High Investment Plan - Growth,,Close Ended,Income,Income,Other,Growth,
 112164,Tata Mutual Fund,Tata Fixed Maturity Plan Series 25 - Scheme B - Super High Investment Plan - Growth,,Close Ended,Income,Income,Other,Growth,
@@ -13431,8 +13431,8 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 118270,Canara Robeco Mutual Fund,CANARA ROBECO LARGE CAP FUND - DIRECT PLAN - IDCW (Payout/Reinvestment),INF760K01FP6,Open Ended,Equity,Large Cap Fund,Direct,IDCW,Reinvestment
 118271,Canara Robeco Mutual Fund,CANARA ROBECO EQUITY HYBRID FUND - DIRECT PLAN - MONTHLY IDCW (Payout/Reinvestment),INF760K01EX3,Open Ended,Hybrid,Aggressive Hybrid Fund,Direct,IDCW,Reinvestment
 118272,Canara Robeco Mutual Fund,CANARA ROBECO EQUITY HYBRID FUND - DIRECT PLAN - GROWTH OPTION,INF760K01EZ8,Open Ended,Hybrid,Aggressive Hybrid Fund,Direct,Growth,
-118273,Canara Robeco Mutual Fund,CANARA ROBECO CONSUMER TRENDS FUND - DIRECT PLAN - GROWTH OPTION,INF760K01DU1,Open Ended,Equity,Sectoral/ Thematic,Direct,Growth,
-118274,Canara Robeco Mutual Fund,CANARA ROBECO CONSUMER TRENDS FUND - DIRECT PLAN - IDCW (Payout/Reinvestment),INF760K01DS5,Open Ended,Equity,Sectoral/ Thematic,Direct,IDCW,Reinvestment
+118273,Canara Robeco Mutual Fund,CANARA ROBECO CONSUMPTION FUND - DIRECT PLAN - GROWTH OPTION,INF760K01DU1,Open Ended,Equity,Sectoral/ Thematic,Direct,Growth,
+118274,Canara Robeco Mutual Fund,CANARA ROBECO CONSUMPTION FUND - DIRECT PLAN - IDCW (Payout/Reinvestment),INF760K01DS5,Open Ended,Equity,Sectoral/ Thematic,Direct,IDCW,Reinvestment
 118275,Canara Robeco Mutual Fund,CANARA ROBECO FLEXICAP FUND - DIRECT PLAN - GROWTH OPTION,INF760K01EF0,Open Ended,Equity,Flexi Cap Fund,Direct,Growth,
 118276,Canara Robeco Mutual Fund,CANARA ROBECO FLEXICAP FUND - DIRECT PLAN - IDCW (Payout/Reinvestment),INF760K01ED5,Open Ended,Equity,Flexi Cap Fund,Direct,IDCW,Reinvestment
 118277,Canara Robeco Mutual Fund,CANARA ROBECO LARGE AND MID CAP FUND - DIRECT PLAN - IDCW (Payout/Reinvestment),INF760K01EG8,Open Ended,Equity,Large & Mid Cap Fund,Direct,IDCW,Reinvestment
@@ -36304,3 +36304,6 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 154344,Invesco Asset Management (India) Private Limited,Invesco India Nifty Bank Index Fund - Regular Plan - Growth,INF205KA1BN6,Open Ended,Other,Index Funds,Regular,Growth,
 154345,Groww Asset Management Limited,Groww Nifty Private Bank ETF,,Open Ended,Other,ETF,Other,Other,
 154346,Groww Asset Management Limited,Groww Nifty Private Bank Index Fund,,Open Ended,Other,Index Funds,Other,Other,
+154347,Edelweiss Asset Management Limited,Edelweiss Nifty Next 50 ETF - Growth,,Open Ended,Other,ETF,Other,Growth,
+154348,Axis Asset Management Co. Ltd.,Axis Nifty Capital Markets Index Fund- Direct Plan,,Open Ended,Other,Index Funds,Direct,Other,
+154349,Axis Asset Management Co. Ltd.,Axis Nifty Capital Markets Index Fund- Regular Plan,,Open Ended,Other,Index Funds,Regular,Other,
