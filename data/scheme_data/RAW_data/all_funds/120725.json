@@ -5,10 +5,14 @@
         "scheme_category": "Solution Oriented Scheme - Children\u2019s Fund",
         "scheme_code": 120725,
         "scheme_name": "UTI Children's Equity Fund - Direct Plan - IDCW",
-        "isin_growth": null,
+        "isin_growth": "INF789F1AZZ1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "28-04-2026",
+            "nav": "89.12720"
+        },
         {
             "date": "27-04-2026",
             "nav": "89.48690"

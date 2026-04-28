@@ -5,10 +5,14 @@
         "scheme_category": "Solution Oriented Scheme - Retirement Fund",
         "scheme_code": 120766,
         "scheme_name": "UTI Retirement Fund- Direct Plan",
-        "isin_growth": null,
+        "isin_growth": "INF789F1AA64",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "28-04-2026",
+            "nav": "53.79980"
+        },
         {
             "date": "27-04-2026",
             "nav": "53.94890"
