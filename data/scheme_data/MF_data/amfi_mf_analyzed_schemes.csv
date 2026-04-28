@@ -362,8 +362,8 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 100668,UTI Mutual Fund,UTI Flexi Cap Fund - Regular Plan - IDCW,INF189A01053,Open Ended,Equity,Flexi Cap Fund,Regular,IDCW,
 100669,UTI Mutual Fund,UTI - Flexi Cap Fund-Growth Option,INF789F01513,Open Ended,Equity,Flexi Cap Fund,Other,Growth,
 100676,Benchmark Mutual Fund,Benchmark Derivative Fund - Growth Plan,,Open Ended,Income,Income,Other,Growth,
-100678,UTI Mutual Fund,UTI Children's Hybrid Fund - Regular Plan,,Open Ended,Solution Oriented,Childrenâs Fund,Regular,Other,
-100682,UTI Mutual Fund,UTI Retirement Fund - Regular Plan,,Open Ended,Solution Oriented,Retirement Fund,Regular,Other,
+100678,UTI Mutual Fund,UTI Children's Hybrid Fund - Regular Plan,INF789F1AZP2,Open Ended,Solution Oriented,Childrenâs Fund,Regular,Other,
+100682,UTI Mutual Fund,UTI Retirement Fund - Regular Plan,INF789F1AA56,Open Ended,Solution Oriented,Retirement Fund,Regular,Other,
 100684,UTI Mutual Fund,UTI Aggressive Hybrid Fund - Regular Plan - Growth,INF789F01323,Open Ended,Hybrid,Aggressive Hybrid Fund,Regular,Growth,
 100685,UTI Mutual Fund,UTI Aggressive Hybrid Fund - Regular Plan - IDCW,INF789F01307,Open Ended,Hybrid,Aggressive Hybrid Fund,Regular,IDCW,
 100711,UTI Mutual Fund,UTI - INDEX SELECT FUND-Income Option,,Open Ended,Income,Income,Other,Other,
@@ -1210,8 +1210,8 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 102261,HSBC Mutual Fund,HSBC Conservative Hybrid Fund - Regular Quarterly IDCW,INF336L01123,Open Ended,Hybrid,Conservative Hybrid Fund,Regular,IDCW,Quarterly
 102262,HSBC Mutual Fund,HSBC Conservative Hybrid Fund - Regular Growth,INF336L01099,Open Ended,Hybrid,Conservative Hybrid Fund,Regular,Growth,
 102263,Tata Mutual Fund,Tata Gilt Securities Fund RIP ( Bonus),,Open Ended,Income,Income,Other,Bonus,
-102266,UTI Mutual Fund,UTI Children's Equity Fund - Regular Plan - IDCW,,Open Ended,Solution Oriented,Childrenâs Fund,Regular,IDCW,
-102267,UTI Mutual Fund,UTI Children's Equity Fund - Regular Plan - Growth Option,,Open Ended,Solution Oriented,Childrenâs Fund,Regular,Growth,
+102266,UTI Mutual Fund,UTI Children's Equity Fund - Regular Plan - IDCW,INF789F1AZX6,Open Ended,Solution Oriented,Childrenâs Fund,Regular,IDCW,
+102267,UTI Mutual Fund,UTI Children's Equity Fund - Regular Plan - Growth Option,INF789F1AZT4,Open Ended,Solution Oriented,Childrenâs Fund,Regular,Growth,
 102268,LIC Mutual Fund,LIC NOMURA MF Floating Rate Fund - Short Term Plan-Growth,,Open Ended,Income,Income,Other,Growth,
 102269,LIC Mutual Fund,LIC NOMURA MF Floating Rate Fund - Short Term Plan-Weekly Dividend,,Open Ended,Income,Income,Other,IDCW,Weekly
 102270,Franklin Templeton Mutual Fund,Franklin FMCG Fund - Dividend,,Open Ended,Income,Income,Other,IDCW,
@@ -15630,8 +15630,8 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 120719,UTI Mutual Fund,UTI Short Duration Fund - Direct Plan - Quarterly IDCW,INF789FA1R66,Open Ended,Debt,Short Duration Fund,Direct,IDCW,Quarterly
 120722,ICICI Prudential Mutual Fund,ICICI Prudential Focused Equity Fund - Direct Plan - Growth,INF109K018N2,Open Ended,Equity,Focused Fund,Direct,Growth,
 120723,ICICI Prudential Mutual Fund,ICICI Prudential Focused Equity Fund - Direct Plan - IDCW,INF109K016N6,Open Ended,Equity,Focused Fund,Direct,IDCW,
-120724,UTI Mutual Fund,UTI Children's Equity Fund - Direct Plan - Growth Option,,Open Ended,Solution Oriented,Childrenâs Fund,Direct,Growth,
-120725,UTI Mutual Fund,UTI Children's Equity Fund - Direct Plan - IDCW,,Open Ended,Solution Oriented,Childrenâs Fund,Direct,IDCW,
+120724,UTI Mutual Fund,UTI Children's Equity Fund - Direct Plan - Growth Option,INF789F1AZV0,Open Ended,Solution Oriented,Childrenâs Fund,Direct,Growth,
+120725,UTI Mutual Fund,UTI Children's Equity Fund - Direct Plan - IDCW,INF789F1AZZ1,Open Ended,Solution Oriented,Childrenâs Fund,Direct,IDCW,
 120726,UTI Mutual Fund,UTI Mid Cap Fund-Growth Option- Direct,INF789F01UA6,Open Ended,Equity,Mid Cap Fund,Direct,Growth,
 120727,UTI Mutual Fund,UTI Mid Cap Fund - Direct Plan - IDCW,INF789F01TY8,Open Ended,Equity,Mid Cap Fund,Direct,IDCW,
 120728,UTI Mutual Fund,UTI Infrastructure Fund-Growth Option- Direct,INF789F01TU6,Open Ended,Equity,Sectoral/ Thematic,Direct,Growth,
@@ -15669,10 +15669,10 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 120763,UTI Mutual Fund,UTI Dynamic Bond Fund - Direct Plan - Quarterly IDCW,INF789F01XB8,Open Ended,Debt,Dynamic Bond,Direct,IDCW,Quarterly
 120764,UTI Mutual Fund,UTI Credit Risk Fund - Direct Plan - Growth Option,INF789F01YB6,Open Ended,Debt,Credit Risk Fund,Direct,Growth,
 120765,UTI Mutual Fund,UTI Credit Risk Fund - Direct Plan - Quarterly IDCW,INF789F01YC4,Open Ended,Debt,Credit Risk Fund,Direct,IDCW,Quarterly
-120766,UTI Mutual Fund,UTI Retirement Fund- Direct Plan,,Open Ended,Solution Oriented,Retirement Fund,Direct,Other,
+120766,UTI Mutual Fund,UTI Retirement Fund- Direct Plan,INF789F1AA64,Open Ended,Solution Oriented,Retirement Fund,Direct,Other,
 120767,UTI Mutual Fund,UTI Services Industries Fund-Growth Option- Direct,,Open Ended,Income,Income,Direct,Growth,
 120768,UTI Mutual Fund,UTI Services Industries Fund-Income Option-Direct,,Open Ended,Income,Income,Direct,Other,
-120771,UTI Mutual Fund,UTI Children's Hybrid Fund - Direct Plan,,Open Ended,Solution Oriented,Childrenâs Fund,Direct,Other,
+120771,UTI Mutual Fund,UTI Children's Hybrid Fund - Direct Plan,INF789F1AZR8,Open Ended,Solution Oriented,Childrenâs Fund,Direct,Other,
 120772,UTI Mutual Fund,UTI Money Market Fund - Direct Plan - Daily IDCW (Reinvestment),,Open Ended,Debt,Money Market Fund,Direct,IDCW,Reinvestment
 120773,UTI Mutual Fund,UTI Smart Woman Savings Plan - Growth Option- Direct,,Open Ended,Income,Income,Direct,Growth,
 120774,UTI Mutual Fund,UTI Smart Woman Savings Plan - Dividend Option- Direct,,Open Ended,Income,Income,Direct,IDCW,
@@ -36305,5 +36305,5 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 154345,Groww Asset Management Limited,Groww Nifty Private Bank ETF,,Open Ended,Other,ETF,Other,Other,
 154346,Groww Asset Management Limited,Groww Nifty Private Bank Index Fund,,Open Ended,Other,Index Funds,Other,Other,
 154347,Edelweiss Asset Management Limited,Edelweiss Nifty Next 50 ETF - Growth,,Open Ended,Other,ETF,Other,Growth,
-154348,Axis Asset Management Co. Ltd.,Axis Nifty Capital Markets Index Fund- Direct Plan,,Open Ended,Other,Index Funds,Direct,Other,
-154349,Axis Asset Management Co. Ltd.,Axis Nifty Capital Markets Index Fund- Regular Plan,,Open Ended,Other,Index Funds,Regular,Other,
+154348,Axis Asset Management Co. Ltd.,Axis Nifty Capital Markets Index Fund- Direct Plan,INF846KA1549,Open Ended,Other,Index Funds,Direct,Other,
+154349,Axis Asset Management Co. Ltd.,Axis Nifty Capital Markets Index Fund- Regular Plan,INF846KA1531,Open Ended,Other,Index Funds,Regular,Other,
