@@ -5,10 +5,14 @@
         "scheme_category": "Solution Oriented Scheme - Children\u2019s Fund",
         "scheme_code": 100678,
         "scheme_name": "UTI Children's Hybrid Fund - Regular Plan",
-        "isin_growth": null,
+        "isin_growth": "INF789F1AZP2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "28-04-2026",
+            "nav": "39.63060"
+        },
         {
             "date": "27-04-2026",
             "nav": "39.73290"
