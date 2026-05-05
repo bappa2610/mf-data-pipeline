@@ -10265,7 +10265,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 148923,quant Mutual Fund,quant Quantamental Fund - Growth Option - Regular Plan,INF966L01AH5,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 148924,quant Mutual Fund,quant Quantamental Fund - IDCW Option - Direct Plan,INF966L01AL7,INF966L01AM5,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 148925,quant Mutual Fund,quant Quantamental Fund - Growth Option - Direct Plan,INF966L01AK9,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-148926,Axis Mutual Fund,Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF,INF846K01Z04,,Open Ended Schemes,Other Scheme - Other  ETFs
 148927,Mirae Asset Mutual Fund,Mirae Asset NYSE FANG + ETF,INF769K01HF4,,Open Ended Schemes,Other Scheme - Other  ETFs
 148928,Mirae Asset Mutual Fund,Mirae Asset NYSE FANG + ETF Fund of Fund Direct Growth,INF769K01HH0,,Open Ended Schemes,Other Scheme - FoF Domestic
 148929,Mirae Asset Mutual Fund,Mirae Asset NYSE FANG + ETF Fund of Fund Regular Growth,INF769K01HG2,,Open Ended Schemes,Other Scheme - FoF Domestic
@@ -10515,10 +10514,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 149235,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 52 (1848 Days) - Regular Plan - Growth,INF200KA12A3,,Close Ended Schemes,Income
 149240,Motilal Oswal Mutual Fund,Motilal Oswal 5 Year G-Sec Fund Of Fund Direct -Growth,INF247L01AQ1,,Open Ended Schemes,Other Scheme - FoF Domestic
 149241,Motilal Oswal Mutual Fund,Motilal Oswal 5 Year G-Sec Fund Of Fund Regular -Growth,INF247L01AR9,,Open Ended Schemes,Other Scheme - FoF Domestic
-149242,Axis Mutual Fund,Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF FOF - Regular Plan - Growth Option,INF846K010D8,,Open Ended Schemes,Other Scheme - FoF Domestic
-149243,Axis Mutual Fund,Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF FOF - Direct Plan - Growth Option,INF846K017C5,,Open Ended Schemes,Other Scheme - FoF Domestic
-149244,Axis Mutual Fund,Axis Nifty AAA Bond Plus SDL April 2026 50:50 ETF FOF - Direct Plan - IDCW Option,INF846K018C3,INF846K019C1,Open Ended Schemes,Other Scheme - FoF Domestic
-149245,Axis Mutual Fund,Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF FOF - Regular Plan - IDCW Option,INF846K011D6,INF846K012D4,Open Ended Schemes,Other Scheme - FoF Domestic
 149246,Edelweiss Mutual Fund,Edelweiss NIFTY PSU Bond Plus SDL Apr 2027 50:50 Index Fund - Direct Plan - IDCW,INF754K01MU5,INF754K01MV3,Open Ended Schemes,Other Scheme - Index Funds
 149247,Edelweiss Mutual Fund,Edelweiss NIFTY PSU Bond Plus SDL Apr 2027 50:50 Index Fund - Direct Plan Growth,INF754K01MT7,,Open Ended Schemes,Other Scheme - Index Funds
 149248,Edelweiss Mutual Fund,Edelweiss NIFTY PSU Bond Plus SDL Apr 2027 50:50 Index Fund - Regular Plan - IDCW,INF754K01MQ3,INF754K01MR1,Open Ended Schemes,Other Scheme - Index Funds
@@ -34332,10 +34327,15 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 148897,BNP Paribas Mutual Fund,BNP Paribas Funds Aqua Fund of Fund - Direct Plan - Growth Option,,,Open Ended Schemes,Other Scheme - FoF Overseas
 148898,BNP Paribas Mutual Fund,BNP Paribas Funds Aqua Fund of Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option,,,Open Ended Schemes,Other Scheme - FoF Overseas
 148899,BNP Paribas Mutual Fund,BNP Paribas Funds Aqua Fund of Fund - Direct Plan - Income Distribution cum Withdrawal Option,,,Open Ended Schemes,Other Scheme - FoF Overseas
+148926,Axis Mutual Fund,Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF,INF846K01Z04,,Open Ended Schemes,Other Scheme - Other  ETFs
 149152,HSBC Mutual Fund,HSBC Mid Cap Fund - Regular - IDCW,,,Open Ended Schemes,Equity Scheme - Mid Cap Fund
 149153,HSBC Mutual Fund,HSBC Mid Cap Fund - Regular - Growth,,,Open Ended Schemes,Equity Scheme - Mid Cap Fund
 149154,HSBC Mutual Fund,HSBC Mid Cap Fund - Direct - Growth,,,Open Ended Schemes,Equity Scheme - Mid Cap Fund
 149155,HSBC Mutual Fund,HSBC Mid Cap Fund - Direct - IDCW,,,Open Ended Schemes,Equity Scheme - Mid Cap Fund
+149242,Axis Mutual Fund,Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF FOF - Regular Plan - Growth Option,INF846K010D8,,Open Ended Schemes,Other Scheme - FoF Domestic
+149243,Axis Mutual Fund,Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF FOF - Direct Plan - Growth Option,INF846K017C5,,Open Ended Schemes,Other Scheme - FoF Domestic
+149244,Axis Mutual Fund,Axis Nifty AAA Bond Plus SDL April 2026 50:50 ETF FOF - Direct Plan - IDCW Option,INF846K018C3,INF846K019C1,Open Ended Schemes,Other Scheme - FoF Domestic
+149245,Axis Mutual Fund,Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF FOF - Regular Plan - IDCW Option,INF846K011D6,INF846K012D4,Open Ended Schemes,Other Scheme - FoF Domestic
 149349,Motilal Oswal Mutual Fund,Motilal Oswal MSCI EAFE Top 100 Select Index Fund - Direct Plan Growth,,,Open Ended Schemes,Other Scheme - Index Funds
 149350,Motilal Oswal Mutual Fund,Motilal Oswal MSCI EAFE Top 100 Select Index Fund - Regular Plan Growth,,,Open Ended Schemes,Other Scheme - Index Funds
 149375,Axis Mutual Fund,Axis Fixed Term Plan Series 109 (111 Days) - Direct Plan - Quarterly IDCW,,,Close Ended Schemes,Income
@@ -36312,3 +36312,5 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154349,Axis Asset Management Co. Ltd.,Axis Nifty Capital Markets Index Fund- Regular Plan,INF846KA1531,,Open Ended,Other Scheme - Index Funds
 154353,SBI Funds Management Limited,SBI Nifty Smallcap 250 ETF,INF200KB1AY9,,Open Ended,Other Scheme - Other  ETFs
 154354,SBI Funds Management Limited,SBI Nifty200 Value ETF,INF200KB1AX1,,Open Ended,Other Scheme - Other  ETFs
+154355,HDFC Asset Management Company Limited,HDFC GOLD SILVER PASSIVE FOF - GROWTH PLAN,,,Open Ended,Other Scheme - FoF Domestic
+154356,HDFC Asset Management Company Limited,HDFC GOLD SILVER PASSIVE FOF - GROWTH OPTION,,,Open Ended,Other Scheme - FoF Domestic
