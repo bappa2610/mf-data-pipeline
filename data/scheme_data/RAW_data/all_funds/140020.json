@@ -5,10 +5,14 @@
         "scheme_category": "Income",
         "scheme_code": 140020,
         "scheme_name": "ICICI Prudential Fixed Maturity Plan - Series 80 - 1100 Days Plan A Direct Plan Dividend Option",
-        "isin_growth": null,
+        "isin_growth": "INF109KB1H75",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-10-2020",
+            "nav": "12.71730"
+        },
         {
             "date": "25-10-2019",
             "nav": "12.71730"
