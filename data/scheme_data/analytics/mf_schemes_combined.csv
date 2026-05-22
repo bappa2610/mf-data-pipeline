@@ -920,11 +920,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 106778,ICICI Prudential Mutual Fund,ICICI Prudential Interval Fund - Annual Interval Plan III - Retail Dividend,INF109K01KU6,,Open Ended Schemes,Income
 106779,ICICI Prudential Mutual Fund,ICICI Prudential Interval Fund Annual Interval Plan III - Growth,INF109K01KV4,,Open Ended Schemes,Income
 106780,ICICI Prudential Mutual Fund,ICICI Prudential Interval Fund Annual Interval Plan III - Dividend,INF109K01KW2,,Open Ended Schemes,Income
-106793,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Wholesale Growth Option,INF179K01343,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
-106795,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Wholesale IDCW Option,INF179KA1KM1,INF179KA1KL3,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
-106796,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Retail Growth Option,INF179K01319,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
-106797,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Retail Quarterly IDCW Option,INF179K01327,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
-106799,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Retail IDCW Option,,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
+106793,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Regular Plan -Growth Option,INF179K01343,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
 106821,ICICI Prudential Mutual Fund,ICICI Prudential Smallcap Fund - Institutional Growth,INF109K01BK6,,Open Ended Schemes,Equity Scheme - Small Cap Fund
 106822,ICICI Prudential Mutual Fund,ICICI Prudential Smallcap Fund - IDCW,INF109K01FA8,INF109K01BJ8,Open Ended Schemes,Equity Scheme - Small Cap Fund
 106823,ICICI Prudential Mutual Fund,ICICI Prudential Smallcap Fund - Growth,INF109K01BI0,,Open Ended Schemes,Equity Scheme - Small Cap Fund
@@ -2022,8 +2018,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 118924,DSP Mutual Fund,DSP Bond Fund - Direct Plan - Growth,INF740K01MZ3,,Open Ended Schemes,Debt Scheme - Medium Duration Fund
 118928,HDFC Mutual Fund,HDFC Long Term Advantage Plan - IDCW Option - Direct Plan,INF179K01WV2,INF179K01WW0,Open Ended Schemes,Equity Scheme - ELSS
 118929,HDFC Mutual Fund,HDFC Long Term Advantage Plan - Growth Option - Direct Plan,INF179K01WX8,,Open Ended Schemes,Equity Scheme - ELSS
-118930,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Quarterly IDCW Option - Direct Plan,INF179K01UV6,INF179K01UW4,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
-118931,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Growth Option - Direct Plan,INF179K01UU8,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
 118934,HDFC Mutual Fund,HDFC Value Fund - IDCW Option - Direct Plan,INF179K01VA8,INF179K01VB6,Open Ended Schemes,Equity Scheme - Value Fund
 118935,HDFC Mutual Fund,HDFC Value Fund - Growth Option - Direct Plan,INF179K01VC4,,Open Ended Schemes,Equity Scheme - Value Fund
 118942,HDFC Mutual Fund,HDFC Low Duration  Fund - Direct Plan - Growth,INF179K01VF7,,Open Ended Schemes,Debt Scheme - Low Duration Fund
@@ -4033,10 +4027,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 129047,Motilal Oswal Mutual Fund,Motilal Oswal Flexi Cap Fund Direct - IDCW Payout/Reinvestment,INF247L01528,INF247L01510,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
 129048,Motilal Oswal Mutual Fund,Motilal Oswal Flexi Cap Fund Regular Plan-Growth Option,INF247L01478,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
 129049,Motilal Oswal Mutual Fund,Motilal Oswal Flexi cap Fund Regular - IDCW Payout/Reinvestment,INF247L01494,INF247L01486,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
-129051,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Wholesale Monthly IDCW Option,INF179KA1KO7,INF179KA1KN9,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
-129052,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Wholesale Growth Option - Direct Plan,INF179KA1KT6,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
-129053,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Wholesale IDCW Option - Direct Plan,INF179KA1KQ2,INF179KA1KP4,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
-129054,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Wholesale Monthly IDCW - Direct Plan,INF179KA1KS8,INF179KA1KR0,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
+129051,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Regular Plan - Monthly IDCW Option,INF179KA1KO7,INF179KA1KN9,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
+129052,HDFC Mutual Fund,HDFC ARBITRAGE FUND -Direct Plan - Growth Option,INF179KA1KT6,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
+129054,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Monthly IDCW - Direct Plan,INF179KA1KS8,INF179KA1KR0,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
 129065,HSBC Mutual Fund,HSBC Aggressive Hybrid Active FOF - Growth,INF336L01IA9,,Open Ended Schemes,Other Scheme - FoF Domestic
 129066,ICICI Prudential Mutual Fund,ICICI Prudential Multiple Yield Fund - Series 6 - 1100 Days - Plan E -Cumulative,INF109KA1SN7,,Close Ended Schemes,Income
 129067,ICICI Prudential Mutual Fund,ICICI Prudential Multiple Yield Fund - Series 6 - 1100 Days - Plan E - Direct Plan - Dividend,INF109KA1SQ0,,Close Ended Schemes,Income
@@ -17964,6 +17957,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 106791,Reliance Mutual Fund,Reliance Fixed Horizon Fund -IV-Series-5-Retail Plan Growth Option,,,Close Ended Schemes,Income
 106792,Reliance Mutual Fund,Reliance Fixed Horizon Fund -IV-Series-5-Retail Plan-Dividend Option,,,Close Ended Schemes,Income
 106794,HDFC Mutual Fund,HDFC Arbitrage Fund Wholesale Plan Dividend Option,,,Open Ended Schemes,Income
+106795,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Wholesale IDCW Option,INF179KA1KM1,INF179KA1KL3,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
+106796,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Retail Growth Option,INF179K01319,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
+106797,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Retail Quarterly IDCW Option,INF179K01327,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
+106799,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Retail IDCW Option,,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
 106803,HDFC Mutual Fund,HDFC FMP 181D OCTOBER 2007 WHOLESALE PLAN DIVIDEND PAYOUT OPTION,,,Close Ended Schemes,Income
 106804,HDFC Mutual Fund,HDFC FMP 181D OCTOBER 2007 RETAIL PLAN GROWTH OPTION,,,Close Ended Schemes,Income
 106805,HDFC Mutual Fund,HDFC FMP 181D OCTOBER 2007 WHOLESALE PLAN GROWTH OPTION,,,Close Ended Schemes,Income
@@ -25965,6 +25962,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 118920,JPMorgan Mutual Fund,JPMorgan India Fixed Maturity Plan - Series 12 - Direct Plan - Dividend Option,,,Close Ended Schemes,Income
 118926,HDFC Mutual Fund,HDFC Focused Large-Cap Fund -Direct Plan - Dividend Option,,,Open Ended Schemes,Income
 118927,HDFC Mutual Fund,HDFC Focused Large-Cap Fund -Direct Plan - Growth Option,,,Open Ended Schemes,Income
+118930,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Quarterly IDCW Option - Direct Plan,INF179K01UV6,INF179K01UW4,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
+118931,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Growth Option - Direct Plan,INF179K01UU8,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
 118932,HDFC Mutual Fund,HDFC Balanced Fund -Direct Plan - Dividend Option,,,Open Ended Schemes,Income
 118933,HDFC Mutual Fund,HDFC Balanced Fund -Direct Plan - Growth Option,,,Open Ended Schemes,Income
 118936,Deutsche Mutual Fund,DWS Alpha Equity Fund - Direct Plan - Growth,,,Open Ended Schemes,Income
@@ -30916,6 +30915,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 129043,Tata Mutual Fund,Tata FMP Series 47 Scheme F - Plan A -Dividend Option ( Payout),,,Close Ended Schemes,Income
 129044,Tata Mutual Fund,Tata FMP Series 47 Scheme F - Direct Plan -Growth Option,,,Close Ended Schemes,Income
 129045,Tata Mutual Fund,Tata FMP Series 47 Scheme F - Direct Plan - Dividend Option ( Payout),,,Close Ended Schemes,Income
+129053,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Wholesale IDCW Option - Direct Plan,INF179KA1KQ2,INF179KA1KP4,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
 129055,L&T Mutual Fund,L&T FMP Series XI - Plan A (1484 days) - Direct Plan - Dividend,,,Close Ended Schemes,Income
 129056,L&T Mutual Fund,L&T FMP Series XI - Plan A (1484 days) - Direct Plan - Growth,,,Close Ended Schemes,Income
 129057,L&T Mutual Fund,L&T FMP Series XI - Plan A (1484 days) - Regular Plan - Dividend (Payout) Option,,,Close Ended Schemes,Income
@@ -36316,7 +36316,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154348,Axis Asset Management Co. Ltd.,Axis Nifty Capital Markets Index Fund- Direct Plan,INF846KA1549,,Open Ended,Other Scheme - Index Funds
 154349,Axis Asset Management Co. Ltd.,Axis Nifty Capital Markets Index Fund- Regular Plan,INF846KA1531,,Open Ended,Other Scheme - Index Funds
 154353,SBI Funds Management Limited,SBI Nifty Smallcap 250 ETF,INF200KB1AY9,,Open Ended,Other Scheme - Other  ETFs
-154354,SBI Funds Management Limited,SBI Nifty200 Value ETF,INF200KB1AX1,,Open Ended,Other Scheme - Other  ETFs
+154354,SBI Funds Management Limited,SBI Nifty200 Value 30 ETF,INF200KB1AX1,,Open Ended,Other Scheme - Other  ETFs
 154375,SBI Funds Management Limited,SBI NIFTY G-SEC JUL 2031 INDEX FUND - DIRECT - IDCW PAYOUT,INF200KB1BD1,,Open Ended,Other Scheme - Index Funds
 154376,SBI Funds Management Limited,SBI NIFTY G-SEC JUL 2031 INDEX FUND - DIRECT - IDCW REINVESTMENT,INF200KB1BE9,,Open Ended,Other Scheme - Index Funds
 154362,SBI Funds Management Limited,SBI Nifty G-sec Jul 2031 Index Fund - REGULAR - GROWTH,INF200KB1AZ6,,Open Ended,Other Scheme - Index Funds
@@ -36338,3 +36338,5 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154382,Wealth Company Asset Management Holdings Private Limited,The Wealth Company Large & Mid Cap Fund Regular Growth,INF2F0001560,,Open Ended,Equity Scheme - Large & Mid Cap Fund
 154379,Wealth Company Asset Management Holdings Private Limited,The Wealth Company Large & Mid Cap Fund Regular IDCW,INF2F0001578,INF2F0001586,Open Ended,Equity Scheme - Large & Mid Cap Fund
 154380,Wealth Company Asset Management Holdings Private Limited,The Wealth Company Large & Mid Cap Fund Direct IDCW,INF2F0001602,INF2F0001610,Open Ended,Equity Scheme - Large & Mid Cap Fund
+154383,Groww Asset Management Limited,Groww Nifty Smallcap 250 Momentum Quality 100 Index Fund,,,Open Ended,Other Scheme - Index Funds
+154384,Groww Asset Management Limited,Groww Nifty Smallcap 250 Momentum Quality 100 ETF,,,Open Ended,Other Scheme - Other  ETFs

@@ -920,11 +920,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 106778,ICICI Prudential Mutual Fund,ICICI Prudential Interval Fund - Annual Interval Plan III - Retail Dividend,INF109K01KU6,,Open Ended Schemes,Income,11.7874,21-Nov-2017
 106779,ICICI Prudential Mutual Fund,ICICI Prudential Interval Fund Annual Interval Plan III - Growth,INF109K01KV4,,Open Ended Schemes,Income,17.7495,21-Nov-2017
 106780,ICICI Prudential Mutual Fund,ICICI Prudential Interval Fund Annual Interval Plan III - Dividend,INF109K01KW2,,Open Ended Schemes,Income,10.8352,29-Oct-2013
-106793,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Wholesale Growth Option,INF179K01343,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,32.206,21-May-2026
-106795,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Wholesale IDCW Option,INF179KA1KM1,INF179KA1KL3,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,10.906,21-May-2026
-106796,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Retail Growth Option,INF179K01319,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,31.235,21-May-2026
-106797,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Retail Quarterly IDCW Option,INF179K01327,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,22.266,21-May-2026
-106799,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Retail IDCW Option,,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,23.278,21-May-2026
+106793,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Regular Plan -Growth Option,INF179K01343,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,32.206,21-May-2026
 106821,ICICI Prudential Mutual Fund,ICICI Prudential Smallcap Fund - Institutional Growth,INF109K01BK6,,Open Ended Schemes,Equity Scheme - Small Cap Fund,18.65,24-Apr-2020
 106822,ICICI Prudential Mutual Fund,ICICI Prudential Smallcap Fund - IDCW,INF109K01FA8,INF109K01BJ8,Open Ended Schemes,Equity Scheme - Small Cap Fund,31.70,21-May-2026
 106823,ICICI Prudential Mutual Fund,ICICI Prudential Smallcap Fund - Growth,INF109K01BI0,,Open Ended Schemes,Equity Scheme - Small Cap Fund,85.38,21-May-2026
@@ -2022,8 +2018,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 118924,DSP Mutual Fund,DSP Bond Fund - Direct Plan - Growth,INF740K01MZ3,,Open Ended Schemes,Debt Scheme - Medium Duration Fund,89.6781,21-May-2026
 118928,HDFC Mutual Fund,HDFC Long Term Advantage Plan - IDCW Option - Direct Plan,INF179K01WV2,INF179K01WW0,Open Ended Schemes,Equity Scheme - ELSS,57.515,14-Jan-2022
 118929,HDFC Mutual Fund,HDFC Long Term Advantage Plan - Growth Option - Direct Plan,INF179K01WX8,,Open Ended Schemes,Equity Scheme - ELSS,625.385,14-Jan-2022
-118930,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Quarterly IDCW Option - Direct Plan,INF179K01UV6,INF179K01UW4,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,25.588,21-May-2026
-118931,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Growth Option - Direct Plan,INF179K01UU8,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,33.766,21-May-2026
 118934,HDFC Mutual Fund,HDFC Value Fund - IDCW Option - Direct Plan,INF179K01VA8,INF179K01VB6,Open Ended Schemes,Equity Scheme - Value Fund,42.952,21-May-2026
 118935,HDFC Mutual Fund,HDFC Value Fund - Growth Option - Direct Plan,INF179K01VC4,,Open Ended Schemes,Equity Scheme - Value Fund,830.311,21-May-2026
 118942,HDFC Mutual Fund,HDFC Low Duration  Fund - Direct Plan - Growth,INF179K01VF7,,Open Ended Schemes,Debt Scheme - Low Duration Fund,65.8652,21-May-2026
@@ -4033,10 +4027,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 129047,Motilal Oswal Mutual Fund,Motilal Oswal Flexi Cap Fund Direct - IDCW Payout/Reinvestment,INF247L01528,INF247L01510,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,30.7902,21-May-2026
 129048,Motilal Oswal Mutual Fund,Motilal Oswal Flexi Cap Fund Regular Plan-Growth Option,INF247L01478,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,55.7602,21-May-2026
 129049,Motilal Oswal Mutual Fund,Motilal Oswal Flexi cap Fund Regular - IDCW Payout/Reinvestment,INF247L01494,INF247L01486,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,29.2867,21-May-2026
-129051,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Wholesale Monthly IDCW Option,INF179KA1KO7,INF179KA1KN9,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,11.374,21-May-2026
-129052,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Wholesale Growth Option - Direct Plan,INF179KA1KT6,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,21.301,21-May-2026
-129053,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Wholesale IDCW Option - Direct Plan,INF179KA1KQ2,INF179KA1KP4,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,11.662,21-May-2026
-129054,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Wholesale Monthly IDCW - Direct Plan,INF179KA1KS8,INF179KA1KR0,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,11.262,21-May-2026
+129051,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Regular Plan - Monthly IDCW Option,INF179KA1KO7,INF179KA1KN9,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,11.374,21-May-2026
+129052,HDFC Mutual Fund,HDFC ARBITRAGE FUND -Direct Plan - Growth Option,INF179KA1KT6,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,21.301,21-May-2026
+129054,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Monthly IDCW - Direct Plan,INF179KA1KS8,INF179KA1KR0,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,11.262,21-May-2026
 129065,HSBC Mutual Fund,HSBC Aggressive Hybrid Active FOF - Growth,INF336L01IA9,,Open Ended Schemes,Other Scheme - FoF Domestic,40.6015,21-May-2026
 129066,ICICI Prudential Mutual Fund,ICICI Prudential Multiple Yield Fund - Series 6 - 1100 Days - Plan E -Cumulative,INF109KA1SN7,,Close Ended Schemes,Income,12.9746,02-May-2017
 129067,ICICI Prudential Mutual Fund,ICICI Prudential Multiple Yield Fund - Series 6 - 1100 Days - Plan E - Direct Plan - Dividend,INF109KA1SQ0,,Close Ended Schemes,Income,12.6864,02-May-2017
@@ -10062,10 +10055,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 148591,Union Mutual Fund,Union Aggressive Hybrid Fund - Regular Plan - Growth Option,INF582M01HC4,,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund,17.68,21-May-2026
 148592,Union Mutual Fund,Union Aggressive Hybrid Fund - Direct Plan - Growth Option,INF582M01GY0,,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund,18.81,21-May-2026
 148593,Union Mutual Fund,Union Aggressive Hybrid Fund - Direct Plan - IDCW Option,INF582M01HA8,INF582M01GZ7,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund,17.65,21-May-2026
-148594,DSP Mutual Fund,DSP Value Fund - Regular Plan - Growth,INF740KA1PM0,,Open Ended Schemes,Equity Scheme - Value Fund,23.338,20-May-2026
-148595,DSP Mutual Fund,DSP Value Fund - Direct Plan - Growth,INF740KA1PP3,,Open Ended Schemes,Equity Scheme - Value Fund,24.342,20-May-2026
-148596,DSP Mutual Fund,DSP Value Fund - Direct Plan - IDCW,INF740KA1PQ1,INF740KA1PR9,Open Ended Schemes,Equity Scheme - Value Fund,18.437,20-May-2026
-148597,DSP Mutual Fund,DSP Value Fund - Regular Plan - IDCW,INF740KA1PN8,INF740KA1PO6,Open Ended Schemes,Equity Scheme - Value Fund,16.312,20-May-2026
+148594,DSP Mutual Fund,DSP Value Fund - Regular Plan - Growth,INF740KA1PM0,,Open Ended Schemes,Equity Scheme - Value Fund,23.382,21-May-2026
+148595,DSP Mutual Fund,DSP Value Fund - Direct Plan - Growth,INF740KA1PP3,,Open Ended Schemes,Equity Scheme - Value Fund,24.388,21-May-2026
+148596,DSP Mutual Fund,DSP Value Fund - Direct Plan - IDCW,INF740KA1PQ1,INF740KA1PR9,Open Ended Schemes,Equity Scheme - Value Fund,18.472,21-May-2026
+148597,DSP Mutual Fund,DSP Value Fund - Regular Plan - IDCW,INF740KA1PN8,INF740KA1PO6,Open Ended Schemes,Equity Scheme - Value Fund,16.342,21-May-2026
 148598,ICICI Prudential Mutual Fund,ICICI Prudential Quant Fund Growth,INF109KC1O33,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,22.11,21-May-2026
 148599,ICICI Prudential Mutual Fund,ICICI Prudential Quant Fund IDCW,INF109KC1O58,INF109KC1O41,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,14.15,21-May-2026
 148600,ICICI Prudential Mutual Fund,ICICI Prudential Quant Fund Direct Plan Growth,INF109KC1O66,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,22.92,21-May-2026
@@ -10839,10 +10832,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 149803,UTI Mutual Fund,UTI BSE Sensex Index Fund - Direct Plan - Growth Option,INF789F1AVD7,,Open Ended Schemes,Other Scheme - Index Funds,13.5176,21-May-2026
 149804,Navi Mutual Fund,Navi Nifty Bank Index Fund- Direct Plan- Growth,INF959L01FT4,,Open Ended Schemes,Other Scheme - Index Funds,14.0485,21-May-2026
 149805,Navi Mutual Fund,Navi Nifty Bank Index Fund- Regular Plan- Growth,INF959L01FU2,,Open Ended Schemes,Other Scheme - Index Funds,13.6161,21-May-2026
-149814,DSP Mutual Fund,DSP Global Innovation Overseas Equity Omni FoF - Regular - IDCW,INF740KA1QN6,INF740KA1QO4,Open Ended Schemes,Other Scheme - FoF Overseas,21.3057,20-May-2026
-149815,DSP Mutual Fund,DSP Global Innovation Overseas Equity Omni FoF - Direct - IDCW,INF740KA1QQ9,INF740KA1QR7,Open Ended Schemes,Other Scheme - FoF Overseas,22.1466,20-May-2026
-149816,DSP Mutual Fund,DSP Global Innovation Overseas Equity Omni FoF - Direct - Growth,INF740KA1QP1,,Open Ended Schemes,Other Scheme - FoF Overseas,22.1466,20-May-2026
-149817,DSP Mutual Fund,DSP Global Innovation Overseas Equity Omni FoF - Regular - Growth,INF740KA1QM8,,Open Ended Schemes,Other Scheme - FoF Overseas,21.3057,20-May-2026
+149814,DSP Mutual Fund,DSP Global Innovation Overseas Equity Omni FoF - Regular - IDCW,INF740KA1QN6,INF740KA1QO4,Open Ended Schemes,Other Scheme - FoF Overseas,21.1549,21-May-2026
+149815,DSP Mutual Fund,DSP Global Innovation Overseas Equity Omni FoF - Direct - IDCW,INF740KA1QQ9,INF740KA1QR7,Open Ended Schemes,Other Scheme - FoF Overseas,21.9904,21-May-2026
+149816,DSP Mutual Fund,DSP Global Innovation Overseas Equity Omni FoF - Direct - Growth,INF740KA1QP1,,Open Ended Schemes,Other Scheme - FoF Overseas,21.9904,21-May-2026
+149817,DSP Mutual Fund,DSP Global Innovation Overseas Equity Omni FoF - Regular - Growth,INF740KA1QM8,,Open Ended Schemes,Other Scheme - FoF Overseas,21.1549,21-May-2026
 149822,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 59 (1618 Days) - Direct Plan - Growth,INF200KA19D2,,Close Ended Schemes,Income,12.9352,21-May-2026
 149823,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 59 (1618 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA10E9,,Close Ended Schemes,Income,12.9348,21-May-2026
 149824,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 59 (1618 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA18D4,,Close Ended Schemes,Income,12.8722,21-May-2026
@@ -12239,7 +12232,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 151956,LIC Mutual Fund,LIC MF Short Duration Fund-Regular Plan-Weekly IDCW,INF397L01430,INF397L01448,Open Ended Schemes,Debt Scheme - Short Duration Fund,12.736,21-May-2026
 151959,LIC Mutual Fund,LIC MF Short Duration Fund-Direct Plan-Monthly IDCW,INF397L01BH1,INF397L01BI9,Open Ended Schemes,Debt Scheme - Short Duration Fund,16.1725,21-May-2026
 151960,LIC Mutual Fund,LIC MF Short Duration Fund-Direct Plan-Weekly IDCW,INF397L01BK5,INF397L01BL3,Open Ended Schemes,Debt Scheme - Short Duration Fund,16.1727,21-May-2026
-151961,LIC Mutual Fund,LIC MF Gold Exchange Traded Fund,INF767K01SM1,,Open Ended Schemes,Other Scheme - Gold ETF,141.5969,21-May-2026
+151961,LIC Mutual Fund,LIC MF Gold Exchange Traded Fund,INF767K01SM1,,Open Ended Schemes,Other Scheme - Gold ETF,141.3405,22-May-2026
 151973,LIC Mutual Fund,LIC MF Gold ETF Fund of Fund-Regular Plan-Growth,INF397L01992,,Open Ended Schemes,Other Scheme - FoF Domestic,40.7105,21-May-2026
 151974,LIC Mutual Fund,LIC MF Gold ETF Fund of Fund-Direct Plan-Growth,INF397L01BU4,,Open Ended Schemes,Other Scheme - FoF Domestic,43.0355,21-May-2026
 151986,LIC Mutual Fund,LIC MF Medium to Long Duration Fund-Regular Plan-Quarterly IDCW,INF397L01FU5,,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund,16.1111,21-May-2026
