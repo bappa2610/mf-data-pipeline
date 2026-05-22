@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Arbitrage Fund",
         "scheme_code": 129052,
-        "scheme_name": "HDFC ARBITRAGE FUND - Wholesale Growth Option - Direct Plan",
+        "scheme_name": "HDFC ARBITRAGE FUND -Direct Plan - Growth Option",
         "isin_growth": "INF179KA1KT6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "22-05-2026",
+            "nav": "21.28500"
+        },
         {
             "date": "21-05-2026",
             "nav": "21.30100"

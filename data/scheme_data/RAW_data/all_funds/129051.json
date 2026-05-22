@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Arbitrage Fund",
         "scheme_code": 129051,
-        "scheme_name": "HDFC ARBITRAGE FUND - Wholesale Monthly IDCW Option  ",
+        "scheme_name": "HDFC ARBITRAGE FUND - Regular Plan - Monthly IDCW Option",
         "isin_growth": "INF179KA1KO7",
         "isin_div_reinvestment": "INF179KA1KN9"
     },
     "data": [
+        {
+            "date": "22-05-2026",
+            "nav": "11.36600"
+        },
         {
             "date": "21-05-2026",
             "nav": "11.37400"
