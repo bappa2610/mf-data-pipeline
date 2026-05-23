@@ -4480,7 +4480,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 106790,Reliance Mutual Fund,Reliance Fixed Horizon Fund -IV-Series-5-Institutional Plan-Dividend Plan,,,Close Ended Schemes,Income
 106791,Reliance Mutual Fund,Reliance Fixed Horizon Fund -IV-Series-5-Retail Plan Growth Option,,,Close Ended Schemes,Income
 106792,Reliance Mutual Fund,Reliance Fixed Horizon Fund -IV-Series-5-Retail Plan-Dividend Option,,,Close Ended Schemes,Income
-106793,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Wholesale Growth Option,INF179K01343,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
+106793,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Regular Plan -Growth Option,INF179K01343,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
 106794,HDFC Mutual Fund,HDFC Arbitrage Fund Wholesale Plan Dividend Option,,,Open Ended Schemes,Income
 106795,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Wholesale IDCW Option,INF179KA1KM1,INF179KA1KL3,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
 106796,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Retail Growth Option,INF179K01319,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
@@ -19639,10 +19639,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 129047,Motilal Oswal Mutual Fund,Motilal Oswal Flexi Cap Fund Direct - IDCW Payout/Reinvestment,INF247L01528,INF247L01510,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
 129048,Motilal Oswal Mutual Fund,Motilal Oswal Flexi Cap Fund Regular Plan-Growth Option,INF247L01478,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
 129049,Motilal Oswal Mutual Fund,Motilal Oswal Flexi cap Fund Regular - IDCW Payout/Reinvestment,INF247L01494,INF247L01486,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
-129051,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Wholesale Monthly IDCW Option  ,INF179KA1KO7,INF179KA1KN9,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
-129052,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Wholesale Growth Option - Direct Plan,INF179KA1KT6,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
+129051,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Regular Plan - Monthly IDCW Option,INF179KA1KO7,INF179KA1KN9,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
+129052,HDFC Mutual Fund,HDFC ARBITRAGE FUND -Direct Plan - Growth Option,INF179KA1KT6,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
 129053,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Wholesale IDCW Option - Direct Plan,INF179KA1KQ2,INF179KA1KP4,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
-129054,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Wholesale Monthly IDCW - Direct Plan,INF179KA1KS8,INF179KA1KR0,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
+129054,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Monthly IDCW - Direct Plan,INF179KA1KS8,INF179KA1KR0,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
 129055,L&T Mutual Fund,L&T FMP Series XI - Plan A (1484 days) - Direct Plan - Dividend,,,Close Ended Schemes,Income
 129056,L&T Mutual Fund,L&T FMP Series XI - Plan A (1484 days) - Direct Plan - Growth,,,Close Ended Schemes,Income
 129057,L&T Mutual Fund,L&T FMP Series XI - Plan A (1484 days) - Regular Plan - Dividend (Payout) Option,,,Close Ended Schemes,Income
@@ -30966,6 +30966,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154343,Invesco Mutual Fund,Invesco India Nifty Bank Index Fund - Direct Plan - Growth,INF205KA1BO4,,Open Ended Schemes,Other Scheme - Index Funds
 154344,Invesco Mutual Fund,Invesco India Nifty Bank Index Fund - Regular Plan - Growth,INF205KA1BN6,,Open Ended Schemes,Other Scheme - Index Funds
 154347,Edelweiss Mutual Fund,Edelweiss Nifty Next 50 ETF,INF754K01XF3,,Open Ended Schemes,Other Scheme - Other  ETFs
+154353,SBI Mutual Fund,SBI Nifty Smallcap 250 ETF,INF200KB1AY9,,Open Ended Schemes,Other Scheme - Other  ETFs
+154354,SBI Mutual Fund,SBI Nifty200 Value 30 ETF,INF200KB1AX1,,Open Ended Schemes,Other Scheme - Other  ETFs
 154357,DSP Mutual Fund,DSP Nifty FMCG ETF,INF740KA1ZA4,,Open Ended Schemes,Other Scheme - Other  ETFs
 154358,Kotak Mahindra Mutual Fund,Kotak Low Duration Fund - Direct Plan - Weekly - Reinvestment & Payout of Income Distribution cum Capital Withdrawal Option,INF174KA1ZW3,INF174KA1ZU7,Open Ended Schemes,Debt Scheme - Low Duration Fund
 154361,Kotak Mahindra Mutual Fund,Kotak Low Duration Fund - Direct Plan - Monthly - Reinvestment & Payout of Income Distribution cum Capital Withdrawal Option,INF174KA1A03,INF174KA1ZY9,Open Ended Schemes,Debt Scheme - Low Duration Fund
