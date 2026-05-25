@@ -734,7 +734,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 104492,Invesco Mutual Fund,Invesco India Liquid Fund - Monthly IDCW (Payout / Reinvestment),INF205K01HQ6,INF205K01HP8,Open Ended Schemes,Debt Scheme - Liquid Fund,1006.6583,24-May-2026
 104513,quant Mutual Fund,quant Large & Mid Cap Fund - Growth Option,INF966L01341,,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund,120.6968,22-May-2026
 104514,quant Mutual Fund,quant Large & Mid Cap Fund - IDCW Option - Regular Plan,INF966L01325,INF966L01333,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund,73.6731,22-May-2026
-104515,quant Mutual Fund,quant Large & Mid Cap Fund - Bonus Option - Regular Plan,INF966L01424,,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund,102.6509,20-Mar-2026
 104523,SBI Mutual Fund,SBI ESG Exclusionary Strategy Fund - Regular Plan - Growth,INF200K01214,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,230.6870,22-May-2026
 104559,Canara Robeco Mutual Fund,CANARA ROBECO SAVINGS FUND - REGULAR PLAN - DAILY IDCW (Reinvestment),,INF760K01803,Open Ended Schemes,Debt Scheme - Low Duration Fund,10.2373,22-May-2026
 104635,Invesco Mutual Fund,Invesco India ELSS Tax Saver Fund - Regular Plan - IDCW Payout,INF205K01296,INF205K01288,Open Ended Schemes,Equity Scheme - ELSS,22.86,22-May-2026
@@ -895,8 +894,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 106365,UTI Mutual Fund,UTI FIIF Quarterly Interval Plan III - Regular Plan - IDCW,INF789F01GI8,INF789F01GJ6,Close Ended Schemes,Income,10.0759,11-May-2022
 106366,UTI Mutual Fund,UTI Fixed  Income Interval Fund ( Quarterly Interval Plan - III) -Regular Plan - Growth Option,INF789F01GK4,,Close Ended Schemes,Income,27.902,11-May-2022
 106367,UTI Mutual Fund,UTI Fixed  Income Interval Fund ( Quarterly Interval Plan -III) - Inst Dividend Plan,INF789F01GL2,INF789F01GM0,Close Ended Schemes,Income,10.065,10-Dec-2020
-106369,Sundaram Mutual Fund,Sundaram Global Brand Theme-Equity Active FOF - Regular IDCW,INF903J01EY9,INF903J01EZ6,Open Ended Schemes,Other Scheme - FoF Overseas,35.1269,21-May-2026
-106370,Sundaram Mutual Fund,Sundaram Global Brand Theme-Equity Active FOF - Regular Growth,INF903J01EX1,,Open Ended Schemes,Other Scheme - FoF Overseas,43.4534,21-May-2026
+106369,Sundaram Mutual Fund,Sundaram Global Brand Theme-Equity Active FOF - Regular IDCW,INF903J01EY9,INF903J01EZ6,Open Ended Schemes,Other Scheme - FoF Overseas,35.0340,22-May-2026
+106370,Sundaram Mutual Fund,Sundaram Global Brand Theme-Equity Active FOF - Regular Growth,INF903J01EX1,,Open Ended Schemes,Other Scheme - FoF Overseas,43.3384,22-May-2026
 106383,UTI Mutual Fund,UTI Short Duration Fund - Discontinued Regular Option - Dividend Sub Option,INF789F01AH3,INF789F01AI1,Open Ended Schemes,Debt Scheme - Short Duration Fund,24.4726,22-May-2026
 106384,UTI Mutual Fund,UTI Short Duration Fund - Discontinued Regular Option -Growth Sub Option,INF789F01AJ9,,Open Ended Schemes,Debt Scheme - Short Duration Fund,46.2928,22-May-2026
 106425,UTI Mutual Fund,UTI India Consumer Fund - Regular Plan - Growth Option,INF789F01CE6,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,54.4281,22-May-2026
@@ -2293,8 +2292,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 119596,Sundaram Mutual Fund,Sundaram Financial Services Opportunities Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW),INF903J01MZ9,INF903J01NA0,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,32.1425,22-May-2026
 119597,Sundaram Mutual Fund,Sundaram Financial Services Opportunities Fund Direct Plan - Growth,INF903J01NB8,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,117.8677,22-May-2026
 119598,SBI Mutual Fund,SBI Large Cap FUND-DIRECT PLAN -GROWTH,INF200K01QX4,,Open Ended Schemes,Equity Scheme - Large Cap Fund,101.6833,22-May-2026
-119601,Sundaram Mutual Fund,Sundaram Global Brand Theme-Equity Active FOF - Direct IDCW,INF903J01NZ7,INF903J01OA8,Open Ended Schemes,Other Scheme - FoF Overseas,40.2490,21-May-2026
-119602,Sundaram Mutual Fund,Sundaram Global Brand Theme-Equity Active FOF - Direct Growth,INF903J01OB6,,Open Ended Schemes,Other Scheme - FoF Overseas,47.9589,21-May-2026
+119601,Sundaram Mutual Fund,Sundaram Global Brand Theme-Equity Active FOF - Direct IDCW,INF903J01NZ7,INF903J01OA8,Open Ended Schemes,Other Scheme - FoF Overseas,40.1435,22-May-2026
+119602,Sundaram Mutual Fund,Sundaram Global Brand Theme-Equity Active FOF - Direct Growth,INF903J01OB6,,Open Ended Schemes,Other Scheme - FoF Overseas,47.8332,22-May-2026
 119604,SBI Mutual Fund,SBI Equity Hybrid Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200K01RW4,INF200K01RX2,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund,99.7398,22-May-2026
 119605,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Government Securities Fund - Growth - Direct Plan,INF209K01XP7,,Open Ended Schemes,Debt Scheme - Gilt Fund,85.8226,22-May-2026
 119606,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Govenment Securities Fund -DIRECT - Quarterly IDCW,INF209KA1LC4,,Open Ended Schemes,Debt Scheme - Gilt Fund,11.3719,22-May-2026
@@ -2909,7 +2908,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 120821,quant Mutual Fund,quant Multi Asset Allocation Fund-GROWTH OPTION-Direct Plan,INF966L01580,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,179.3135,22-May-2026
 120822,quant Mutual Fund,quant Multi Cap Fund-IDCW Option - Direct Plan,INF966L01598,INF966L01606,Open Ended Schemes,Equity Scheme - Multi Cap Fund,80.4614,22-May-2026
 120823,quant Mutual Fund,quant Multi Cap Fund-GROWTH OPTION-Direct Plan,INF966L01614,,Open Ended Schemes,Equity Scheme - Multi Cap Fund,694.7746,22-May-2026
-120824,quant Mutual Fund,quant Large & Mid Cap Fund - Bonus Option-Direct Plan,INF966L01655,,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund,102.6509,20-Mar-2026
 120825,quant Mutual Fund,quant Large & Mid Cap Fund - IDCW Option - Direct Plan,INF966L01622,INF966L01630,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund,62.1603,22-May-2026
 120826,quant Mutual Fund,quant Large & Mid Cap Fund - Growth Option-Direct Plan,INF966L01648,,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund,133.499,22-May-2026
 120827,quant Mutual Fund,quant Small Cap Fund - IDCW Option - Direct Plan,INF966L01663,INF966L01671,Open Ended Schemes,Equity Scheme - Small Cap Fund,224.2311,22-May-2026
@@ -9485,10 +9483,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 147716,ITI Mutual Fund,ITI Overnight Fund - Regular Plan - Fortnightly IDCW Option,INF00XX01531,INF00XX01507,Open Ended Schemes,Debt Scheme - Overnight Fund,1002.7691,24-May-2026
 147717,ITI Mutual Fund,ITI Overnight Fund - Direct Plan - Monthly IDCW Option,INF00XX01630,INF00XX01606,Open Ended Schemes,Debt Scheme - Overnight Fund,1004.6960,24-May-2026
 147718,ITI Mutual Fund,ITI Overnight Fund - Regular Plan - Monthly IDCW Option,INF00XX01549,INF00XX01515,Open Ended Schemes,Debt Scheme - Overnight Fund,1001.0714,24-May-2026
-147724,Kotak Mahindra Mutual Fund,Kotak Pioneer Fund- Regular Plan- Growth Option,INF174KA1EW8,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,32.793,21-May-2026
-147725,Kotak Mahindra Mutual Fund,Kotak Pioneer Fund-Direct Plan-Reinvestment of Income Distribution cum capital withdrawal option,INF174KA1EX6,INF174KA1EY4,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,36.308,21-May-2026
-147727,Kotak Mahindra Mutual Fund,Kotak Pioneer Fund- Direct Plan- Growth Option,INF174KA1EZ1,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,36.313,21-May-2026
-147728,Kotak Mahindra Mutual Fund,Kotak Pioneer Fund- Regular Plan- Reinvestment of Income Distribution cum capital withdrawal option,INF174KA1EU2,INF174KA1EV0,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,32.807,21-May-2026
+147724,Kotak Mahindra Mutual Fund,Kotak Pioneer Fund- Regular Plan- Growth Option,INF174KA1EW8,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,32.923,22-May-2026
+147725,Kotak Mahindra Mutual Fund,Kotak Pioneer Fund-Direct Plan-Reinvestment of Income Distribution cum capital withdrawal option,INF174KA1EX6,INF174KA1EY4,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,36.453,22-May-2026
+147727,Kotak Mahindra Mutual Fund,Kotak Pioneer Fund- Direct Plan- Growth Option,INF174KA1EZ1,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,36.458,22-May-2026
+147728,Kotak Mahindra Mutual Fund,Kotak Pioneer Fund- Regular Plan- Reinvestment of Income Distribution cum capital withdrawal option,INF174KA1EU2,INF174KA1EV0,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,32.938,22-May-2026
 147729,Mahindra Manulife Mutual Fund,Mahindra Manulife Ultra Short Duration Fund - Regular Plan - Daily IDCW,,INF174V01861,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund,1101.2751,22-May-2026
 147730,Mahindra Manulife Mutual Fund,Mahindra Manulife Ultra Short Duration Fund - Regular Plan - Weekly IDCW,,INF174V01879,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund,999.7067,22-May-2026
 147731,Mahindra Manulife Mutual Fund,Mahindra Manulife Ultra Short Duration Fund - Direct Plan -Growth,INF174V01887,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund,1486.5995,22-May-2026
@@ -10373,10 +10371,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 149053,Axis Mutual Fund,Axis Floater Fund - Regular Plan - Monthly IDCW,INF846K016B9,INF846K015B1,Open Ended Schemes,Debt Scheme - Floater Fund,1003.9852,22-May-2026
 149054,Axis Mutual Fund,Axis Floater Fund - Regular Plan - Daily IDCW,,INF846K019B3,Open Ended Schemes,Debt Scheme - Floater Fund,1008.2796,22-May-2026
 149055,Axis Mutual Fund,Axis Floater Fund - Direct Plan - Annual IDCW,INF846K016A1,INF846K015A3,Open Ended Schemes,Debt Scheme - Floater Fund,1340.4553,22-May-2026
-149056,Kotak Mahindra Mutual Fund,Kotak Global Innovation Overseas Equity Omni FOF - Regular Plan-Growth,INF174KA1HD1,,Open Ended Schemes,Other Scheme - FoF Overseas,14.5371,21-May-2026
-149058,Kotak Mahindra Mutual Fund,Kotak Global Innovation Overseas Equity Omni FOF - Regular Plan -IDCW Option,INF174KA1HE9,INF174KA1HF6,Open Ended Schemes,Other Scheme - FoF Overseas,14.5375,21-May-2026
-149059,Kotak Mahindra Mutual Fund,Kotak Global Innovation Overseas Equity Omni FOF- Direct Plan -Growth,INF174KA1HG4,,Open Ended Schemes,Other Scheme - FoF Overseas,15.3915,21-May-2026
-149060,Kotak Mahindra Mutual Fund,Kotak Global Innovation Overseas Equity Omni FOF- Direct Plan - IDCW Option,INF174KA1HH2,INF174KA1HI0,Open Ended Schemes,Other Scheme - FoF Overseas,15.3893,21-May-2026
+149056,Kotak Mahindra Mutual Fund,Kotak Global Innovation Overseas Equity Omni FOF - Regular Plan-Growth,INF174KA1HD1,,Open Ended Schemes,Other Scheme - FoF Overseas,14.5156,22-May-2026
+149058,Kotak Mahindra Mutual Fund,Kotak Global Innovation Overseas Equity Omni FOF - Regular Plan -IDCW Option,INF174KA1HE9,INF174KA1HF6,Open Ended Schemes,Other Scheme - FoF Overseas,14.516,22-May-2026
+149059,Kotak Mahindra Mutual Fund,Kotak Global Innovation Overseas Equity Omni FOF- Direct Plan -Growth,INF174KA1HG4,,Open Ended Schemes,Other Scheme - FoF Overseas,15.3692,22-May-2026
+149060,Kotak Mahindra Mutual Fund,Kotak Global Innovation Overseas Equity Omni FOF- Direct Plan - IDCW Option,INF174KA1HH2,INF174KA1HI0,Open Ended Schemes,Other Scheme - FoF Overseas,15.367,22-May-2026
 149062,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series TJ (1838 days) - Direct Plan - Growth Option,INF209KB16A3,,Close Ended Schemes,Income,13.5001,22-May-2026
 149063,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series TJ (1838 days) - Direct Plan - Payout of IDCW Option,INF209KB17A1,,Close Ended Schemes,Income,13.5018,22-May-2026
 149064,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series TJ (1838 days) - Regular Plan - Growth Option,INF209KB14A8,,Close Ended Schemes,Income,13.4399,22-May-2026

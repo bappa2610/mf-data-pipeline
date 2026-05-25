@@ -734,7 +734,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 104492,Invesco Mutual Fund,Invesco India Liquid Fund - Monthly IDCW (Payout / Reinvestment),INF205K01HQ6,INF205K01HP8,Open Ended Schemes,Debt Scheme - Liquid Fund
 104513,quant Mutual Fund,quant Large & Mid Cap Fund - Growth Option,INF966L01341,,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund
 104514,quant Mutual Fund,quant Large & Mid Cap Fund - IDCW Option - Regular Plan,INF966L01325,INF966L01333,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund
-104515,quant Mutual Fund,quant Large & Mid Cap Fund - Bonus Option - Regular Plan,INF966L01424,,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund
 104523,SBI Mutual Fund,SBI ESG Exclusionary Strategy Fund - Regular Plan - Growth,INF200K01214,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 104559,Canara Robeco Mutual Fund,CANARA ROBECO SAVINGS FUND - REGULAR PLAN - DAILY IDCW (Reinvestment),,INF760K01803,Open Ended Schemes,Debt Scheme - Low Duration Fund
 104635,Invesco Mutual Fund,Invesco India ELSS Tax Saver Fund - Regular Plan - IDCW Payout,INF205K01296,INF205K01288,Open Ended Schemes,Equity Scheme - ELSS
@@ -2909,7 +2908,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 120821,quant Mutual Fund,quant Multi Asset Allocation Fund-GROWTH OPTION-Direct Plan,INF966L01580,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
 120822,quant Mutual Fund,quant Multi Cap Fund-IDCW Option - Direct Plan,INF966L01598,INF966L01606,Open Ended Schemes,Equity Scheme - Multi Cap Fund
 120823,quant Mutual Fund,quant Multi Cap Fund-GROWTH OPTION-Direct Plan,INF966L01614,,Open Ended Schemes,Equity Scheme - Multi Cap Fund
-120824,quant Mutual Fund,quant Large & Mid Cap Fund - Bonus Option-Direct Plan,INF966L01655,,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund
 120825,quant Mutual Fund,quant Large & Mid Cap Fund - IDCW Option - Direct Plan,INF966L01622,INF966L01630,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund
 120826,quant Mutual Fund,quant Large & Mid Cap Fund - Growth Option-Direct Plan,INF966L01648,,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund
 120827,quant Mutual Fund,quant Small Cap Fund - IDCW Option - Direct Plan,INF966L01663,INF966L01671,Open Ended Schemes,Equity Scheme - Small Cap Fund
@@ -16095,6 +16093,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 104510,UTI Mutual Fund,"UTI Fixed Maturity Plan Yearly Series October, 2006 - Growth Option",,,Close Ended Schemes,Income
 104511,UTI Mutual Fund,UTI Fixed Maturity Plan Quarterly November 2006 Series - I - Income Option,,,Close Ended Schemes,Income
 104512,UTI Mutual Fund,UTI Fixed Maturity Plan Quarterly November 2006 Series - I - Growth Option,,,Close Ended Schemes,Income
+104515,quant Mutual Fund,quant Large & Mid Cap Fund - Bonus Option - Regular Plan,INF966L01424,,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund
 104516,ING Mutual Fund,ING Vysya Fixed Maturity Fund - Series XIX-Growth Option,,,Close Ended Schemes,Income
 104517,ING Mutual Fund,ING Vysya Fixed Maturity Fund - Series XIX-Bonus Option,,,Close Ended Schemes,Income
 104518,ING Mutual Fund,ING Vysya Fixed Maturity Fund - Series XIX-Dividend Option,,,Close Ended Schemes,Income
@@ -26814,6 +26813,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 120809,Union Mutual Fund,Union KBC Capital Protection Oriented Fund - Series 2 - Regular Plan - Dividend Option,,,Close Ended Schemes,Income
 120816,DSP Mutual Fund,DSP BlackRock Dual Advantage Fund - Series 11 - 36M - Direct Plan - Growth Option (Maturity Date 04-Apr-2016),,,Close Ended Schemes,Income
 120817,DSP Mutual Fund,DSP BlackRock Dual Advantage Fund - Series 11 - 36M - Direct Plan - Dividend Payout Option (Maturity Date 04-Apr-2016),,,Close Ended Schemes,Income
+120824,quant Mutual Fund,quant Large & Mid Cap Fund - Bonus Option-Direct Plan,INF966L01655,,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund
 120829,quant Mutual Fund,Quant Dynamic Bond-Dividend Option-Direct Plan,,,Open Ended Schemes,Debt Scheme - Dynamic Bond
 120830,quant Mutual Fund,Quant Dynamic Bond-Growth Option-Direct Plan,,,Open Ended Schemes,Debt Scheme - Dynamic Bond
 120831,quant Mutual Fund,Quant Dynamic Bond-Bonus Option-Direct Plan,,,Open Ended Schemes,Debt Scheme - Dynamic Bond
