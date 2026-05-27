@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Arbitrage Fund",
         "scheme_code": 120364,
-        "scheme_name": "ICICI Prudential Equity Arbitrage Fund - Direct Plan - Growth",
+        "scheme_name": "ICICI Prudential Arbitrage Fund - Direct Plan - Growth",
         "isin_growth": "INF109K016O4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-05-2026",
+            "nav": "38.83690"
+        },
         {
             "date": "26-05-2026",
             "nav": "38.85490"

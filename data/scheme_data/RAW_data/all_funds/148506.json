@@ -5,10 +5,14 @@
         "scheme_category": "Equity Scheme - Large Cap Fund",
         "scheme_code": 148506,
         "scheme_name": "Sundaram Large Cap Fund (Formerly Known as Sundaram Blue Chip Fund) Regular Plan - Reinvestment of Income Distribution cum Capital Withdrawal (IDCW)",
-        "isin_growth": "INF903JA1JB2",
-        "isin_div_reinvestment": null
+        "isin_growth": null,
+        "isin_div_reinvestment": "INF903JA1JB2"
     },
     "data": [
+        {
+            "date": "27-05-2026",
+            "nav": "14.62030"
+        },
         {
             "date": "26-05-2026",
             "nav": "14.60150"

@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Arbitrage Fund",
         "scheme_code": 120365,
-        "scheme_name": "ICICI Prudential Equity Arbitrage Fund - Direct Plan - IDCW",
+        "scheme_name": "ICICI Prudential Arbitrage Fund - Direct Plan - IDCW",
         "isin_growth": "INF109K017O2",
         "isin_div_reinvestment": "INF109K015O6"
     },
     "data": [
+        {
+            "date": "27-05-2026",
+            "nav": "17.70100"
+        },
         {
             "date": "26-05-2026",
             "nav": "17.70920"

@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Arbitrage Fund",
         "scheme_code": 104683,
-        "scheme_name": "ICICI Prudential Equity Arbitrage Fund - Growth",
+        "scheme_name": "ICICI Prudential Arbitrage Fund - Growth",
         "isin_growth": "INF109K01BF6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-05-2026",
+            "nav": "36.04820"
+        },
         {
             "date": "26-05-2026",
             "nav": "36.06540"

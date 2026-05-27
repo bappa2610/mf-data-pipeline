@@ -5,10 +5,14 @@
         "scheme_category": "Debt Scheme - Overnight Fund",
         "scheme_code": 146957,
         "scheme_name": "Sundaram Overnight Fund Direct Plan - Monthly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW)",
-        "isin_growth": "INF903JA1HM3",
-        "isin_div_reinvestment": null
+        "isin_growth": null,
+        "isin_div_reinvestment": "INF903JA1HM3"
     },
     "data": [
+        {
+            "date": "27-05-2026",
+            "nav": "1042.05150"
+        },
         {
             "date": "26-05-2026",
             "nav": "1041.90460"
