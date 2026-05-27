@@ -2843,9 +2843,9 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 104676,SBI Mutual Fund,Z-REDEEMED-SBI Debt Fund Series - 18 Months -1- Dividend,,Close Ended,Income,Income,Other,IDCW,
 104679,DSP Mutual Fund,DSP BlackRock Fixed Term Plan - Series 1G - Growth,,Close Ended,Income,Income,Other,Growth,
 104680,DSP Mutual Fund,DSP BlackRock Fixed Term Plan - Series 1G - Dividend,,Close Ended,Income,Income,Other,IDCW,
-104681,ICICI Prudential Mutual Fund,ICICI Prudential Equity Arbitrage Fund - IDCW,INF109K01EF0,Open Ended,Hybrid,Arbitrage Fund,Other,IDCW,
+104681,ICICI Prudential Mutual Fund,ICICI Prudential Arbitrage Fund - IDCW,INF109K01EF0,Open Ended,Hybrid,Arbitrage Fund,Other,IDCW,
 104682,ICICI Prudential Mutual Fund,ICICI Prudential Equity - Arbitrage Fund-Institutional Dividend Option,,Open Ended,Income,Income,Institutional,IDCW,
-104683,ICICI Prudential Mutual Fund,ICICI Prudential Equity Arbitrage Fund - Growth,INF109K01BF6,Open Ended,Hybrid,Arbitrage Fund,Other,Growth,
+104683,ICICI Prudential Mutual Fund,ICICI Prudential Arbitrage Fund - Growth,INF109K01BF6,Open Ended,Hybrid,Arbitrage Fund,Other,Growth,
 104684,ICICI Prudential Mutual Fund,ICICI Prudential Equity - Arbitrage Fund-Institutional Growth Option,INF109K01BD1,Open Ended,Hybrid,Arbitrage Fund,Institutional,Growth,
 104685,ICICI Prudential Mutual Fund,ICICI Prudential Balanced Advantage Fund - Growth,INF109K01BH2,Open Ended,Hybrid,Dynamic Asset Allocation or Balanced Advantage,Other,Growth,
 104686,ICICI Prudential Mutual Fund,ICICI Prudential Balanced Advantage Fund - IDCW,INF109K01EG8,Open Ended,Hybrid,Dynamic Asset Allocation or Balanced Advantage,Other,IDCW,
@@ -15278,8 +15278,8 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 120361,Sahara Mutual Fund,Sahara R.E.A.L Fund - Growth Fund- Direct,,Open Ended,Growth,Growth,Direct,Growth,
 120362,LIC Mutual Fund,LIC MF Interval Fund Quarterly Plan-Series 1-Direct Plan-Dividend,,Interval Fund,Income,Income,Direct,IDCW,Quarterly
 120363,LIC Mutual Fund,LIC MF Interval Fund Quarterly Plan-Series 1-Direct Plan-Growth,,Interval Fund,Income,Income,Direct,Growth,
-120364,ICICI Prudential Mutual Fund,ICICI Prudential Equity Arbitrage Fund - Direct Plan - Growth,INF109K016O4,Open Ended,Hybrid,Arbitrage Fund,Direct,Growth,
-120365,ICICI Prudential Mutual Fund,ICICI Prudential Equity Arbitrage Fund - Direct Plan - IDCW,INF109K017O2,Open Ended,Hybrid,Arbitrage Fund,Direct,IDCW,
+120364,ICICI Prudential Mutual Fund,ICICI Prudential Arbitrage Fund - Direct Plan - Growth,INF109K016O4,Open Ended,Hybrid,Arbitrage Fund,Direct,Growth,
+120365,ICICI Prudential Mutual Fund,ICICI Prudential Arbitrage Fund - Direct Plan - IDCW,INF109K017O2,Open Ended,Hybrid,Arbitrage Fund,Direct,IDCW,
 120366,LIC Mutual Fund,LIC MF Interval Fund Annual Plan-Series 1-Direct Plan-Growth,,Interval Fund,Income,Income,Direct,Growth,
 120367,LIC Mutual Fund,LIC MF Interval Fund Annual Plan-Series 1-Direct Plan-Dividend,,Interval Fund,Income,Income,Direct,IDCW,Annual
 120368,Sahara Mutual Fund,Sahara Classic Fund- Growth Option- Direct,,Open Ended,Income,Income,Direct,Growth,
@@ -28721,10 +28721,10 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 144831,Axis Mutual Fund,Axis Fixed Term Plan Series 96 (1124 Days) - Regular Plan - Half Yearly IDCW,,Close Ended,Income,Income,Regular,IDCW,Annual
 144832,Axis Mutual Fund,Axis Fixed Term Plan Series 96 (1124 Days) - Regular Plan - Quarterly IDCW,,Close Ended,Income,Income,Regular,IDCW,Quarterly
 144833,Axis Mutual Fund,Axis Fixed Term Plan Series 96 (1124 Days) - Regular Plan - Regular IDCW,,Close Ended,Income,Income,Regular,IDCW,
-144834,Sundaram Mutual Fund,Sundaram Services Fund Regular Plan - Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),INF903JA1EZ2,Open Ended,Equity,Sectoral/ Thematic,Regular,IDCW,Reinvestment
+144834,Sundaram Mutual Fund,Sundaram Services Fund Regular Plan - Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),,Open Ended,Equity,Sectoral/ Thematic,Regular,IDCW,Reinvestment
 144835,Sundaram Mutual Fund,Sundaram Services Fund Direct Plan - Growth,INF903JA1FA2,Open Ended,Equity,Sectoral/ Thematic,Direct,Growth,
 144836,Sundaram Mutual Fund,Sundaram Services Fund Direct Plan - Payout of Income Distribution cum Capital Withdrawal (IDCW),INF903JA1FB0,Open Ended,Equity,Sectoral/ Thematic,Direct,IDCW,
-144837,Sundaram Mutual Fund,Sundaram Services Fund Direct Plan - Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),INF903JA1FC8,Open Ended,Equity,Sectoral/ Thematic,Direct,IDCW,Reinvestment
+144837,Sundaram Mutual Fund,Sundaram Services Fund Direct Plan - Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),,Open Ended,Equity,Sectoral/ Thematic,Direct,IDCW,Reinvestment
 144838,Sundaram Mutual Fund,Sundaram Services Fund Regular Plan - Growth,INF903JA1EX7,Open Ended,Equity,Sectoral/ Thematic,Regular,Growth,
 144839,Sundaram Mutual Fund,Sundaram Services Fund Regular Plan - Payout of Income Distribution cum Capital Withdrawal (IDCW),INF903JA1EY5,Open Ended,Equity,Sectoral/ Thematic,Regular,IDCW,
 144844,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 84 - 97 Days Plan B - Direct Plan Cumulative Option,,Close Ended,Income,Income,Direct,Other,
@@ -30250,11 +30250,11 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 146954,Sundaram Mutual Fund,Sundaram Overnight Fund Regular Plan - Weekly Payout of Income Distribution cum Capital Withdrawal (IDCW),INF903JA1HD2,Open Ended,Debt,Overnight Fund,Regular,IDCW,Weekly
 146955,Sundaram Mutual Fund,Sundaram Overnight Fund Direct Plan - Weekly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),INF903JA1HK7,Open Ended,Debt,Overnight Fund,Direct,IDCW,Reinvestment
 146956,Sundaram Mutual Fund,Sundaram Overnight Fund Direct Plan - Fortnightly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),INF903JA1HL5,Open Ended,Debt,Overnight Fund,Direct,IDCW,Reinvestment
-146957,Sundaram Mutual Fund,Sundaram Overnight Fund Direct Plan - Monthly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),INF903JA1HM3,Open Ended,Debt,Overnight Fund,Direct,IDCW,Reinvestment
+146957,Sundaram Mutual Fund,Sundaram Overnight Fund Direct Plan - Monthly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),,Open Ended,Debt,Overnight Fund,Direct,IDCW,Reinvestment
 146958,Sundaram Mutual Fund,Sundaram Overnight Fund Regular Plan - Fortnightly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),INF903JA1HE0,Open Ended,Debt,Overnight Fund,Regular,IDCW,Reinvestment
 146959,Sundaram Mutual Fund,Sundaram Overnight Fund Regular Plan - Growth,INF903JA1GZ7,Open Ended,Debt,Overnight Fund,Regular,Growth,
 146960,Sundaram Mutual Fund,Sundaram Overnight Fund Regular Plan - Monthly Payout of Income Distribution cum Capital Withdrawal (IDCW),INF903JA1HA8,Open Ended,Debt,Overnight Fund,Regular,IDCW,Monthly
-146961,Sundaram Mutual Fund,Sundaram Overnight Fund Regular Plan - Monthly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),INF903JA1HF7,Open Ended,Debt,Overnight Fund,Regular,IDCW,Reinvestment
+146961,Sundaram Mutual Fund,Sundaram Overnight Fund Regular Plan - Monthly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),,Open Ended,Debt,Overnight Fund,Regular,IDCW,Reinvestment
 146962,Sundaram Mutual Fund,Sundaram Overnight Fund Direct Plan - Monthly Payout of Income Distribution cum Capital Withdrawal (IDCW),INF903JA1HH3,Open Ended,Debt,Overnight Fund,Direct,IDCW,Monthly
 146963,Sundaram Mutual Fund,Sundaram Overnight Fund Direct Plan - Growth,INF903JA1HG5,Open Ended,Debt,Overnight Fund,Direct,Growth,
 146964,Sundaram Mutual Fund,Sundaram Overnight Fund Direct Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),INF903JA1HJ9,Open Ended,Debt,Overnight Fund,Direct,IDCW,Reinvestment
@@ -36303,13 +36303,13 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 154343,Invesco Mutual Fund,Invesco India Nifty Bank Index Fund - Direct Plan - Growth,INF205KA1BO4,Open Ended,Other,Index Funds,Direct,Growth,
 154344,Invesco Mutual Fund,Invesco India Nifty Bank Index Fund - Regular Plan - Growth,INF205KA1BN6,Open Ended,Other,Index Funds,Regular,Growth,
 154345,Groww Mutual Fund,Groww Nifty Private Bank ETF,INF666M01OT5,Open Ended,Other,ETF,Other,Other,
-154346,Groww Asset Management Limited,Groww Nifty Private Bank Index Fund Direct Growth,INF666M01OU3,Open Ended,Other,Index Funds,Direct,Growth,
+154346,Groww Mutual Fund,Groww Nifty Private Bank Index Fund Direct Growth,INF666M01OU3,Open Ended,Other,Index Funds,Direct,Growth,
 154347,Edelweiss Mutual Fund,Edelweiss Nifty Next 50 ETF,INF754K01XF3,Open Ended,Other,ETF,Other,Other,
 154348,Axis Mutual Fund,Axis Nifty Capital Markets Index Fund- Direct Plan,INF846KA1549,Open Ended,Other,Index Funds,Direct,Other,
 154349,Axis Mutual Fund,Axis Nifty Capital Markets Index Fund- Regular Plan,INF846KA1531,Open Ended,Other,Index Funds,Regular,Other,
-154350,Groww Asset Management Limited,Groww Nifty Private Bank Index Fund Regular Growth,INF666M01OX7,Open Ended,Other,Index Funds,Regular,Growth,
-154351,Groww Asset Management Limited,Groww Nifty Private Bank Index Fund Regular IDCW,INF666M01OY5,Open Ended,Other,Index Funds,Regular,IDCW,
-154352,Groww Asset Management Limited,Groww Nifty Private Bank Index Fund Direct IDCW,INF666M01OV1,Open Ended,Other,Index Funds,Direct,IDCW,
+154350,Groww Mutual Fund,Groww Nifty Private Bank Index Fund Regular Growth,INF666M01OX7,Open Ended,Other,Index Funds,Regular,Growth,
+154351,Groww Mutual Fund,Groww Nifty Private Bank Index Fund Regular IDCW,INF666M01OY5,Open Ended,Other,Index Funds,Regular,IDCW,
+154352,Groww Mutual Fund,Groww Nifty Private Bank Index Fund Direct IDCW,INF666M01OV1,Open Ended,Other,Index Funds,Direct,IDCW,
 154353,SBI Mutual Fund,SBI Nifty Smallcap 250 ETF,INF200KB1AY9,Open Ended,Other,ETF,Other,Other,
 154354,SBI Mutual Fund,SBI Nifty200 Value 30 ETF,INF200KB1AX1,Open Ended,Other,ETF,Other,Other,
 154357,DSP Mutual Fund,DSP Nifty FMCG ETF,INF740KA1ZA4,Open Ended,Other,ETF,Other,Other,
