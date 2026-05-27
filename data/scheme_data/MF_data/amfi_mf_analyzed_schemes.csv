@@ -31525,10 +31525,10 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 148503,Mirae Asset Mutual Fund,Mirae Asset Diversified Equity Allocator Passive FOF - Regular Plan - IDCW,INF769K01GA7,Open Ended,Other,FoF Domestic,Regular,IDCW,
 148504,Sundaram Mutual Fund,Sundaram Large Cap Fund(Formerly Known as Sundaram Blue Chip Fund) Regular Plan - Growth,INF903JA1IZ3,Open Ended,Equity,Large Cap Fund,Regular,Growth,
 148505,Sundaram Mutual Fund,Sundaram Large Cap Fund (Formerly Known as Sundaram Blue Chip Fund) Regular Plan - Payout of Income Distribution cum Capital Withdrawal (IDCW),INF903JA1JA4,Open Ended,Equity,Large Cap Fund,Regular,IDCW,
-148506,Sundaram Mutual Fund,Sundaram Large Cap Fund (Formerly Known as Sundaram Blue Chip Fund) Regular Plan - Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),INF903JA1JB2,Open Ended,Equity,Large Cap Fund,Regular,IDCW,Reinvestment
+148506,Sundaram Mutual Fund,Sundaram Large Cap Fund (Formerly Known as Sundaram Blue Chip Fund) Regular Plan - Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),,Open Ended,Equity,Large Cap Fund,Regular,IDCW,Reinvestment
 148507,Sundaram Mutual Fund,Sundaram Large Cap Fund (Formerly Known as Sundaram Blue Chip Fund)Direct Plan - Growth,INF903JA1JC0,Open Ended,Equity,Large Cap Fund,Direct,Growth,
 148508,Sundaram Mutual Fund,Sundaram Large Cap Fund (Formerly Known as Sundaram Blue Chip Fund) Direct Plan - Payout of Income Distribution cum Capital Withdrawal (IDCW),INF903JA1JD8,Open Ended,Equity,Large Cap Fund,Direct,IDCW,
-148509,Sundaram Mutual Fund,Sundaram Large Cap Fund (Formerly Known as Sundaram Blue Chip Fund) Direct Plan - Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),INF903JA1JE6,Open Ended,Equity,Large Cap Fund,Direct,IDCW,Reinvestment
+148509,Sundaram Mutual Fund,Sundaram Large Cap Fund (Formerly Known as Sundaram Blue Chip Fund) Direct Plan - Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),,Open Ended,Equity,Large Cap Fund,Direct,IDCW,Reinvestment
 148510,quant Mutual Fund,quant Liquid Fund-Unclaimed Dividend-Growth Option,,Open Ended,Debt,Liquid Fund,Other,Growth,
 148511,quant Mutual Fund,quant Liquid Fund-Unclaimed Redemption Investor Education Plan-Growth Option,,Open Ended,Debt,Liquid Fund,Other,Growth,
 148512,quant Mutual Fund,quant Liquid Fund-Unclaimed Redemption Plan-Growth Option,,Open Ended,Debt,Liquid Fund,Other,Growth,
@@ -36347,3 +36347,15 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 154389,Kotak Mahindra Asset Management Company Limited.,KOTAK NIFTY ALPHA LOW-VOLATILITY 30 INDEX FUND -REGULAR- GROWTH,INF174KA1A52,Open Ended,Other,Index Funds,Regular,Growth,
 154390,Kotak Mahindra Asset Management Company Limited.,KOTAK NIFTY ALPHA LOW-VOLATILITY 30 INDEX FUND -REGULAR- IDCW,INF174KA1A60,Open Ended,Other,Index Funds,Regular,IDCW,
 154391,Kotak Mahindra Asset Management Company Limited.,KOTAK NIFTY ALPHA LOW-VOLATILITY 30 INDEX FUND -DIRECT- IDCW,INF174KA1A37,Open Ended,Other,Index Funds,Direct,IDCW,
+154392,WhiteOak Capital Asset Management Limited,WhiteOak Capital Aggressive Hybrid Fund Direct Plan Growth,INF03VN01AF8,Open Ended,Hybrid,Aggressive Hybrid Fund,Direct,Growth,
+154393,WhiteOak Capital Asset Management Limited,WhiteOak Capital Aggressive Hybrid Fund Regular Plan Growth,INF03VN01AG6,Open Ended,Hybrid,Aggressive Hybrid Fund,Regular,Growth,
+154394,Shriram Asset Management Co. Ltd.,Shriram Overnight Fund- Direct Growth,INF680P01497,Open Ended,Debt,Overnight Fund,Direct,Growth,
+154395,Shriram Asset Management Co. Ltd.,Shriram Overnight Fund- Direct Daily IDCW,INF680P01513,Open Ended,Debt,Overnight Fund,Direct,IDCW,Daily
+154396,Shriram Asset Management Co. Ltd.,Shriram Overnight Fund- Direct Monthly IDCW,INF680P01612,Open Ended,Debt,Overnight Fund,Direct,IDCW,Monthly
+154397,Shriram Asset Management Co. Ltd.,Shriram Overnight Fund- Direct Weekly IDCW,INF680P01539,Open Ended,Debt,Overnight Fund,Direct,IDCW,Weekly
+154398,Shriram Asset Management Co. Ltd.,Shriram Overnight Fund- Regular Daily IDCW,INF680P01521,Open Ended,Debt,Overnight Fund,Regular,IDCW,Daily
+154399,Shriram Asset Management Co. Ltd.,Shriram Overnight Fund- Regular Growth,INF680P01505,Open Ended,Debt,Overnight Fund,Regular,Growth,
+154400,Shriram Asset Management Co. Ltd.,Shriram Overnight Fund- Regular Weekly IDCW,INF680P01547,Open Ended,Debt,Overnight Fund,Regular,IDCW,Weekly
+154401,Shriram Asset Management Co. Ltd.,Shriram Overnight Fund- Regular Fortnightly IDCW,INF680P01588,Open Ended,Debt,Overnight Fund,Regular,IDCW,Fortnightly
+154402,Shriram Asset Management Co. Ltd.,Shriram Overnight Fund- Regular Monthly IDCW,INF680P01620,Open Ended,Debt,Overnight Fund,Regular,IDCW,Monthly
+154403,Shriram Asset Management Co. Ltd.,Shriram Overnight Fund- Direct Fortnightly IDCW,INF680P01570,Open Ended,Debt,Overnight Fund,Direct,IDCW,Fortnightly
