@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 144837,
-        "scheme_name": "Sundaram Services Fund Direct Plan - Reinvestment of Income Distribution cum Capital Withdrawal (IDCW) ",
-        "isin_growth": "INF903JA1FC8",
-        "isin_div_reinvestment": null
+        "scheme_name": "Sundaram Services Fund Direct Plan - Reinvestment of Income Distribution cum Capital Withdrawal (IDCW)",
+        "isin_growth": null,
+        "isin_div_reinvestment": "INF903JA1FC8"
     },
     "data": [
+        {
+            "date": "27-05-2026",
+            "nav": "22.28290"
+        },
         {
             "date": "26-05-2026",
             "nav": "22.30790"
