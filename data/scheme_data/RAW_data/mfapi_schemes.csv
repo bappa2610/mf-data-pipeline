@@ -2637,9 +2637,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 104676,SBI Mutual Fund,Z-REDEEMED-SBI Debt Fund Series - 18 Months -1- Dividend,,,Close Ended Schemes,Income
 104679,DSP Mutual Fund,DSP BlackRock Fixed Term Plan - Series 1G - Growth,,,Close Ended Schemes,Income
 104680,DSP Mutual Fund,DSP BlackRock Fixed Term Plan - Series 1G - Dividend,,,Close Ended Schemes,Income
-104681,ICICI Prudential Mutual Fund,ICICI Prudential Equity Arbitrage Fund - IDCW,INF109K01EF0,INF109K01BE9,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
+104681,ICICI Prudential Mutual Fund,ICICI Prudential Arbitrage Fund - IDCW,INF109K01EF0,INF109K01BE9,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
 104682,ICICI Prudential Mutual Fund,ICICI Prudential Equity - Arbitrage Fund-Institutional Dividend Option,,,Open Ended Schemes,Income
-104683,ICICI Prudential Mutual Fund,ICICI Prudential Equity Arbitrage Fund - Growth,INF109K01BF6,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
+104683,ICICI Prudential Mutual Fund,ICICI Prudential Arbitrage Fund - Growth,INF109K01BF6,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
 104684,ICICI Prudential Mutual Fund,ICICI Prudential Equity - Arbitrage Fund-Institutional Growth Option,,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
 104685,ICICI Prudential Mutual Fund,ICICI Prudential Balanced Advantage Fund - Growth,INF109K01BH2,,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
 104686,ICICI Prudential Mutual Fund,ICICI Prudential Balanced Advantage Fund - IDCW,INF109K01EG8,INF109K01BG4,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
@@ -15250,8 +15250,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 120361,Sahara Mutual Fund,Sahara R.E.A.L Fund - Growth  Fund- Direct,,,Open Ended Schemes,Growth
 120362,LIC Mutual Fund,LIC MF Interval Fund Quarterly Plan-Series 1-Direct Plan-Dividend,,,Interval Fund Schemes,Income
 120363,LIC Mutual Fund,LIC MF Interval Fund Quarterly Plan-Series 1-Direct Plan-Growth,,,Interval Fund Schemes,Income
-120364,ICICI Prudential Mutual Fund,ICICI Prudential Equity Arbitrage Fund - Direct Plan - Growth,INF109K016O4,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
-120365,ICICI Prudential Mutual Fund,ICICI Prudential Equity Arbitrage Fund - Direct Plan - IDCW,INF109K017O2,INF109K015O6,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
+120364,ICICI Prudential Mutual Fund,ICICI Prudential Arbitrage Fund - Direct Plan - Growth,INF109K016O4,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
+120365,ICICI Prudential Mutual Fund,ICICI Prudential Arbitrage Fund - Direct Plan - IDCW,INF109K017O2,INF109K015O6,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
 120366,LIC Mutual Fund,LIC MF Interval Fund Annual Plan-Series 1-Direct Plan-Growth,,,Interval Fund Schemes,Income
 120367,LIC Mutual Fund,LIC MF Interval Fund Annual Plan-Series 1-Direct Plan-Dividend,,,Interval Fund Schemes,Income
 120368,Sahara Mutual Fund,Sahara Classic Fund- Growth Option- Direct,,,Open Ended Schemes,Income
@@ -31781,11 +31781,11 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 146954,Sundaram Mutual Fund,Sundaram Overnight Fund Regular Plan - Weekly Payout of Income Distribution cum Capital Withdrawal (IDCW),,,Open Ended Schemes,Debt Scheme - Overnight Fund
 146955,Sundaram Mutual Fund,Sundaram Overnight Fund Direct Plan - Weekly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),,,Open Ended Schemes,Debt Scheme - Overnight Fund
 146956,Sundaram Mutual Fund,Sundaram Overnight Fund Direct Plan - Fortnightly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),,,Open Ended Schemes,Debt Scheme - Overnight Fund
-146957,Sundaram Mutual Fund,Sundaram Overnight Fund Direct Plan - Monthly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),INF903JA1HM3,,Open Ended Schemes,Debt Scheme - Overnight Fund
+146957,Sundaram Mutual Fund,Sundaram Overnight Fund Direct Plan - Monthly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),,INF903JA1HM3,Open Ended Schemes,Debt Scheme - Overnight Fund
 146958,Sundaram Mutual Fund,Sundaram Overnight Fund Regular Plan - Fortnightly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),,,Open Ended Schemes,Debt Scheme - Overnight Fund
 146959,Sundaram Mutual Fund,Sundaram Overnight Fund Regular Plan - Growth,INF903JA1GZ7,,Open Ended Schemes,Debt Scheme - Overnight Fund
 146960,Sundaram Mutual Fund,Sundaram Overnight Fund Regular Plan - Monthly Payout of Income Distribution cum Capital Withdrawal (IDCW),INF903JA1HA8,,Open Ended Schemes,Debt Scheme - Overnight Fund
-146961,Sundaram Mutual Fund,Sundaram Overnight Fund Regular Plan - Monthly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),INF903JA1HF7,,Open Ended Schemes,Debt Scheme - Overnight Fund
+146961,Sundaram Mutual Fund,Sundaram Overnight Fund Regular Plan - Monthly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),,INF903JA1HF7,Open Ended Schemes,Debt Scheme - Overnight Fund
 146962,Sundaram Mutual Fund,Sundaram Overnight Fund Direct Plan - Monthly Payout of Income Distribution cum Capital Withdrawal (IDCW),INF903JA1HH3,,Open Ended Schemes,Debt Scheme - Overnight Fund
 146963,Sundaram Mutual Fund,Sundaram Overnight Fund Direct Plan - Growth,INF903JA1HG5,,Open Ended Schemes,Debt Scheme - Overnight Fund
 146964,Sundaram Mutual Fund,Sundaram Overnight Fund Direct Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),,,Open Ended Schemes,Debt Scheme - Overnight Fund
@@ -32975,10 +32975,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 148503,Mirae Asset Mutual Fund,Mirae Asset Diversified Equity Allocator Passive FOF - Regular Plan - IDCW,INF769K01GA7,INF769K01GC3,Open Ended Schemes,Other Scheme - FoF Domestic
 148504,Sundaram Mutual Fund,Sundaram Large Cap Fund(Formerly Known as Sundaram Blue Chip Fund) Regular Plan - Growth,INF903JA1IZ3,,Open Ended Schemes,Equity Scheme - Large Cap Fund
 148505,Sundaram Mutual Fund,Sundaram Large Cap Fund (Formerly Known as Sundaram Blue Chip Fund)  Regular Plan - Payout of Income Distribution cum Capital Withdrawal (IDCW),INF903JA1JA4,,Open Ended Schemes,Equity Scheme - Large Cap Fund
-148506,Sundaram Mutual Fund,Sundaram Large Cap Fund (Formerly Known as Sundaram Blue Chip Fund) Regular Plan - Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),INF903JA1JB2,,Open Ended Schemes,Equity Scheme - Large Cap Fund
+148506,Sundaram Mutual Fund,Sundaram Large Cap Fund (Formerly Known as Sundaram Blue Chip Fund) Regular Plan - Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),,INF903JA1JB2,Open Ended Schemes,Equity Scheme - Large Cap Fund
 148507,Sundaram Mutual Fund,Sundaram Large Cap Fund (Formerly Known as Sundaram Blue Chip Fund)Direct Plan - Growth,INF903JA1JC0,,Open Ended Schemes,Equity Scheme - Large Cap Fund
 148508,Sundaram Mutual Fund,Sundaram Large Cap Fund (Formerly Known as Sundaram Blue Chip Fund) Direct Plan - Payout of Income Distribution cum Capital Withdrawal (IDCW),INF903JA1JD8,,Open Ended Schemes,Equity Scheme - Large Cap Fund
-148509,Sundaram Mutual Fund,Sundaram Large Cap Fund (Formerly Known as Sundaram Blue Chip  Fund)  Direct Plan - Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),INF903JA1JE6,,Open Ended Schemes,Equity Scheme - Large Cap Fund
+148509,Sundaram Mutual Fund,Sundaram Large Cap Fund (Formerly Known as Sundaram Blue Chip  Fund)  Direct Plan - Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),,INF903JA1JE6,Open Ended Schemes,Equity Scheme - Large Cap Fund
 148510,quant Mutual Fund,quant Liquid Fund-Unclaimed Dividend-Growth Option,,,Open Ended Schemes,Debt Scheme - Liquid Fund
 148511,quant Mutual Fund,quant Liquid Fund-Unclaimed Redemption Investor Education Plan-Growth Option,,,Open Ended Schemes,Debt Scheme - Liquid Fund
 148512,quant Mutual Fund,quant Liquid Fund-Unclaimed Redemption Plan-Growth Option,,,Open Ended Schemes,Debt Scheme - Liquid Fund
@@ -37599,9 +37599,13 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154343,Invesco Mutual Fund,Invesco India Nifty Bank Index Fund - Direct Plan - Growth,INF205KA1BO4,,Open Ended Schemes,Other Scheme - Index Funds
 154344,Invesco Mutual Fund,Invesco India Nifty Bank Index Fund - Regular Plan - Growth,INF205KA1BN6,,Open Ended Schemes,Other Scheme - Index Funds
 154345,Groww Mutual Fund,Groww Nifty Private Bank ETF,INF666M01OT5,,Open Ended Schemes,Other Scheme - Other  ETFs
+154346,Groww Mutual Fund,Groww Nifty Private Bank Index Fund Direct Growth,INF666M01OU3,,Open Ended Schemes,Other Scheme - Index Funds
 154347,Edelweiss Mutual Fund,Edelweiss Nifty Next 50 ETF,INF754K01XF3,,Open Ended Schemes,Other Scheme - Other  ETFs
 154348,Axis Mutual Fund,Axis Nifty Capital Markets Index Fund- Direct Plan,INF846KA1549,,Open Ended Schemes,Other Scheme - Index Funds
 154349,Axis Mutual Fund,Axis Nifty Capital Markets Index Fund- Regular Plan,INF846KA1531,,Open Ended Schemes,Other Scheme - Index Funds
+154350,Groww Mutual Fund,Groww Nifty Private Bank Index Fund Regular Growth,INF666M01OX7,,Open Ended Schemes,Other Scheme - Index Funds
+154351,Groww Mutual Fund,Groww Nifty Private Bank Index Fund Regular IDCW,INF666M01OY5,INF666M01OZ2,Open Ended Schemes,Other Scheme - Index Funds
+154352,Groww Mutual Fund,Groww Nifty Private Bank Index Fund Direct IDCW,INF666M01OV1,INF666M01OW9,Open Ended Schemes,Other Scheme - Index Funds
 154353,SBI Mutual Fund,SBI Nifty Smallcap 250 ETF,INF200KB1AY9,,Open Ended Schemes,Other Scheme - Other  ETFs
 154354,SBI Mutual Fund,SBI Nifty200 Value 30 ETF,INF200KB1AX1,,Open Ended Schemes,Other Scheme - Other  ETFs
 154357,DSP Mutual Fund,DSP Nifty FMCG ETF,INF740KA1ZA4,,Open Ended Schemes,Other Scheme - Other  ETFs
