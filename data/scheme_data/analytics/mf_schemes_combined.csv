@@ -11922,10 +11922,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 151494,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 88 - 1303 Days Plan S - IDCW,INF109KC13R4,,Close Ended Schemes,Income
 151495,HDFC Mutual Fund,HDFC Nifty G-Sec Apr 2029 Index Fund - Growth Option - Direct Plan,INF179KC1FQ0,,Open Ended Schemes,Other Scheme - Index Funds
 151496,HDFC Mutual Fund,HDFC Nifty G-Sec Apr 2029 Index Fund - Growth Option,INF179KC1FR8,,Open Ended Schemes,Other Scheme - Index Funds
-151501,Axis Mutual Fund,Axis Fixed Term Plan - Series 112 (1143 Days) - Direct Plan - Growth,INF846K018O8,,Close Ended Schemes,Income
-151503,Axis Mutual Fund,Axis Fixed Term Plan - Series 112 (1143 Days) - Regular Plan - Quarterly IDCW Payout,INF846K012P8,,Close Ended Schemes,Income
-151504,Axis Mutual Fund,Axis Fixed Term Plan - Series 112 (1143 Days) - Regular Plan -  Half Yearly IDCW Payout,INF846K013P6,,Close Ended Schemes,Income
-151506,Axis Mutual Fund,Axis Fixed Term Plan - Series 112 (1143 Days) - Regular  Plan - Growth,INF846K011P0,,Close Ended Schemes,Income
 151507,Kotak Mahindra Mutual Fund,Kotak FMP Series 307 - Regular Plan - Growth,INF174KA1MM2,,Close Ended Schemes,Income
 151508,Kotak Mahindra Mutual Fund,Kotak FMP Series 307 - Direct Plan - IDCW Payout,INF174KA1MP5,,Close Ended Schemes,Income
 151509,Kotak Mahindra Mutual Fund,Kotak FMP Series 307 - Regular Plan - IDCW Payout,INF174KA1MN0,,Close Ended Schemes,Income
@@ -34453,6 +34449,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 151394,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil IBX AAA Mar 2024 Index Fund-Direct IDCW,,,Open Ended Schemes,Other Scheme - Index Funds
 151395,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil IBX AAA Mar 2024 Index Fund-Regular IDCW,,,Open Ended Schemes,Other Scheme - Index Funds
 151396,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil IBX AAA Mar 2024 Index Fund-Direct Growth,,,Open Ended Schemes,Other Scheme - Index Funds
+151501,Axis Mutual Fund,Axis Fixed Term Plan - Series 112 (1143 Days) - Direct Plan - Growth,INF846K018O8,,Close Ended Schemes,Income
+151503,Axis Mutual Fund,Axis Fixed Term Plan - Series 112 (1143 Days) - Regular Plan - Quarterly IDCW Payout,INF846K012P8,,Close Ended Schemes,Income
+151504,Axis Mutual Fund,Axis Fixed Term Plan - Series 112 (1143 Days) - Regular Plan -  Half Yearly IDCW Payout,INF846K013P6,,Close Ended Schemes,Income
+151506,Axis Mutual Fund,Axis Fixed Term Plan - Series 112 (1143 Days) - Regular  Plan - Growth,INF846K011P0,,Close Ended Schemes,Income
 151550,Motilal Oswal Mutual Fund,Motilal Oswal Nifty G-sec May 2029 Index Fund-  Regualr Plan Growth ption,,,Open Ended Schemes,Other Scheme - Index Funds
 151551,Motilal Oswal Mutual Fund,Motilal Oswal Nifty G-sec May 2029 Index Fund- Direct Plan Growth Option,,,Open Ended Schemes,Other Scheme - Index Funds
 151605,Kotak Mahindra Mutual Fund,Kotak Nifty SDL Jul 2028 Index Fund - Regular Plan - IDCW Payout,,,Open Ended Schemes,Other Scheme - Index Funds
@@ -36262,7 +36262,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 151705,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 88 - Plan V - Direct Plan - Growth,,,Close Ended,Income
 151706,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 88 - Plan V - Direct Plan - IDCW,,,Close Ended,Income
 151707,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 88 - Plan V - IDCW,,,Close Ended,Income
-151709,Nippon Life India Asset Management Limited,Nippon India Fixed Maturity Plan-XLV-Series 5-Direct Plan-Payout of IDCW,INF204KC1BK1,,Close Ended,Income
+151709,Nippon Life India Asset Management Limited,Nippon India Fixed Maturity Plan-XLV-Series 5-Direct Plan-IDCW Option,INF204KC1BK1,,Close Ended,Income
 151773,Kotak Mahindra Asset Management Company Limited.,Kotak FMP Series 312 - Regular Plan - Growth,INF174KA1NU3,,Close Ended,Income
 151774,Kotak Mahindra Asset Management Company Limited.,Kotak FMP Series 312 - Regular Plan - IDCW Option,INF174KA1NV1,,Close Ended,Income
 151771,Kotak Mahindra Asset Management Company Limited.,Kotak FMP Series 312 - Direct Plan - Growth,INF174KA1NW9,,Close Ended,Income
