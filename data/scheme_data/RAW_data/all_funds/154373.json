@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 154373,
-        "scheme_name": "SBI NIFTY G-SEC JUL 2031 INDEX FUND - REGULAR - IDCW PAYOUT",
+        "scheme_name": "SBI NIFTY G-SEC JUL 2031 INDEX FUND - REGULAR - IDCW",
         "isin_growth": "INF200KB1BA7",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": "INF200KB1BB5"
     },
     "data": [
+        {
+            "date": "03-06-2026",
+            "nav": "10.01570"
+        },
         {
             "date": "02-06-2026",
             "nav": "10.03200"

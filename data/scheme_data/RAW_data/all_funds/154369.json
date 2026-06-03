@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 154369,
-        "scheme_name": "SBI CRISIL-IBX 10:90 GLIT + SDL INDEX DEC 2029 INDEX FUND - DIRECT IDCW PAYOUT",
+        "scheme_name": "SBI CRISIL-IBX 10:90 GLIT + SDL INDEX DEC 2029 INDEX FUND - DIRECT IDCW",
         "isin_growth": "INF200KB1BJ8",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": "INF200KB1BK6"
     },
     "data": [
+        {
+            "date": "03-06-2026",
+            "nav": "10.02410"
+        },
         {
             "date": "02-06-2026",
             "nav": "10.02610"

@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 154367,
-        "scheme_name": "SBI CRISIL-IBX 10:90 GLIT + SDL INDEX DEC 2029 INDEX FUND - REGULAR - IDCW REINVETMENT",
+        "scheme_name": "SBI CRISIL-IBX 10:90 GLIT + SDL INDEX DEC 2029 INDEX FUND - REGULAR - IDCW",
         "isin_growth": "INF200KB1BG4",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": "INF200KB1BH2"
     },
     "data": [
+        {
+            "date": "03-06-2026",
+            "nav": "10.02360"
+        },
         {
             "date": "02-06-2026",
             "nav": "10.02570"
