@@ -6,9 +6,13 @@
         "scheme_code": 119606,
         "scheme_name": "Aditya Birla Sun Life Govenment Securities Fund -DIRECT - Quarterly IDCW",
         "isin_growth": "INF209KA1LC4",
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": "INF209K01XR3"
     },
     "data": [
+        {
+            "date": "02-06-2026",
+            "nav": "11.42220"
+        },
         {
             "date": "01-06-2026",
             "nav": "11.41150"

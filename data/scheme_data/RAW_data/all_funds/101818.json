@@ -6,9 +6,13 @@
         "scheme_code": 101818,
         "scheme_name": "Aditya Birla Sun Life Regular Savings Fund - Growth / Payment - Regular Plan",
         "isin_growth": "INF209K01751",
-        "isin_div_reinvestment": "INF209K01777"
+        "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "02-06-2026",
+            "nav": "68.67000"
+        },
         {
             "date": "01-06-2026",
             "nav": "68.63830"
