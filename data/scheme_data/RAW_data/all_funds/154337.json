@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "fund_house": "Motilal Oswal Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Equity Scheme - Contra Fund",
+        "scheme_code": 154337,
+        "scheme_name": "Motilal Oswal Contra Fund - Direct \u2013 Growth",
+        "isin_growth": "INF247L01GW6",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "05-06-2026",
+            "nav": "9.97980"
+        },
+        {
+            "date": "04-06-2026",
+            "nav": "9.94380"
+        }
+    ],
+    "status": "SUCCESS"
+}
