@@ -5,10 +5,14 @@
         "scheme_category": "Debt Scheme - Money Market Fund",
         "scheme_code": 147379,
         "scheme_name": "Baroda BNP Paribas Money Market Fund -Direct Plan - Weekly IDCW",
-        "isin_growth": null,
+        "isin_growth": "INF251K01VT5",
         "isin_div_reinvestment": "INF955L01IF5"
     },
     "data": [
+        {
+            "date": "08-06-2026",
+            "nav": "1002.28050"
+        },
         {
             "date": "05-06-2026",
             "nav": "1001.31830"
