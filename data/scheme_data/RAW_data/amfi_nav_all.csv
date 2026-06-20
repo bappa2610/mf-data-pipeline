@@ -69,15 +69,15 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 100332,LIC Mutual Fund,LIC MF Large Cap Fund-Regular Plan-IDCW,INF767K01097,INF767K01089,Open Ended Schemes,Equity Scheme - Large Cap Fund,32.0936,19-Jun-2026
 100348,ICICI Prudential Mutual Fund,ICICI Prudential Large & Mid Cap Fund - IDCW,INF109K01EQ7,INF109K01449,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund,29.81,19-Jun-2026
 100349,ICICI Prudential Mutual Fund,ICICI Prudential Large & Mid Cap Fund - Growth,INF109K01431,,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund,1015.87,19-Jun-2026
-100351,ICICI Prudential Mutual Fund,ICICI Prudential FMCG Fund - IDCW,INF109K01EO2,INF109K01423,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,77.55,18-Jun-2026
-100352,ICICI Prudential Mutual Fund,ICICI Prudential FMCG Fund - Growth,INF109K01415,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,419.57,18-Jun-2026
+100351,ICICI Prudential Mutual Fund,ICICI Prudential FMCG Fund - IDCW,INF109K01EO2,INF109K01423,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,77.32,19-Jun-2026
+100352,ICICI Prudential Mutual Fund,ICICI Prudential FMCG Fund - Growth,INF109K01415,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,418.35,19-Jun-2026
 100353,ICICI Prudential Mutual Fund,ICICI Prudential ELSS Tax Saver Fund - IDCW,INF109K01FN1,INF109K01472,Open Ended Schemes,Equity Scheme - ELSS,21.07,19-Jun-2026
 100354,ICICI Prudential Mutual Fund,ICICI Prudential ELSS Tax Saver Fund - Growth,INF109K01464,,Open Ended Schemes,Equity Scheme - ELSS,925.29,19-Jun-2026
 100355,ICICI Prudential Mutual Fund,ICICI Prudential Equity & Debt Fund - Monthly IDCW,INF109K01DX5,INF109K01498,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund,43.12,19-Jun-2026
 100356,ICICI Prudential Mutual Fund,ICICI Prudential Equity & Debt Fund - Growth,INF109K01480,,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund,402.61,19-Jun-2026
 100357,ICICI Prudential Mutual Fund,ICICI Prudential Liquid Fund -Quarterly IDCW,INF109K01UU5,INF109K01UT7,Open Ended Schemes,Debt Scheme - Liquid Fund,101.4288,16-Sep-2022
 100359,ICICI Prudential Mutual Fund,ICICI Prudential Liquid Institutional Plus Fund - Div - Daily,INF109K01VJ6,,Open Ended Schemes,Debt Scheme - Liquid Fund,118.5152,24-Apr-2020
-100363,ICICI Prudential Mutual Fund,ICICI Prudential Technology Fund - Growth,INF109K01506,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,169.85,18-Jun-2026
+100363,ICICI Prudential Mutual Fund,ICICI Prudential Technology Fund - Growth,INF109K01506,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,167.49,19-Jun-2026
 100364,ICICI Prudential Mutual Fund,ICICI Prudential Long Term Bond Fund - Half Yearly IDCW,INF109K01EX3,INF109K01357,Open Ended Schemes,Debt Scheme - Long Duration Fund,11.1771,16-Sep-2022
 100365,ICICI Prudential Mutual Fund,ICICI Prudential Long Term Bond Fund - Growth,INF109K01365,,Open Ended Schemes,Debt Scheme - Long Duration Fund,91.2742,19-Jun-2026
 100366,ICICI Prudential Mutual Fund,ICICI Prudential Long Term Bond Fund-Institutional Quarterly Dividend,INF109K01EY1,INF109K01381,Open Ended Schemes,Debt Scheme - Long Duration Fund,11.7562,24-Apr-2020
@@ -103,8 +103,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 100415,Tata Mutual Fund,Tata Ethical Fund-Regular Plan - Growth Option,INF277K01956,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,355.4166,19-Jun-2026
 100417,Tata Mutual Fund,Tata Income Fund-Regular Plan - Half Yearly Payout of IDCW Option,INF277K01DU6,INF277K01675,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund,15.3414,23-Sep-2022
 100418,Tata Mutual Fund,Tata Income Fund -Regular Plan - Growth Option,INF277K01659,,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund,66.6140,23-Sep-2022
-100470,Franklin Templeton Mutual Fund,Franklin India Large Cap Fund - IDCW,INF090I01155,INF090I01163,Open Ended Schemes,Equity Scheme - Large Cap Fund,41.9645,18-Jun-2026
-100471,Franklin Templeton Mutual Fund,Franklin India Large Cap Fund-Growth,INF090I01171,,Open Ended Schemes,Equity Scheme - Large Cap Fund,999.3653,18-Jun-2026
+100470,Franklin Templeton Mutual Fund,Franklin India Large Cap Fund - IDCW,INF090I01155,INF090I01163,Open Ended Schemes,Equity Scheme - Large Cap Fund,41.7578,19-Jun-2026
+100471,Franklin Templeton Mutual Fund,Franklin India Large Cap Fund-Growth,INF090I01171,,Open Ended Schemes,Equity Scheme - Large Cap Fund,994.4418,19-Jun-2026
 100472,Franklin Templeton Mutual Fund,Franklin India Mid Cap Fund - IDCW,INF090I01726,INF090I01734,Open Ended Schemes,Equity Scheme - Mid Cap Fund,93.5750,19-Jun-2026
 100473,Franklin Templeton Mutual Fund,Franklin India Mid Cap Fund-Growth,INF090I01809,,Open Ended Schemes,Equity Scheme - Mid Cap Fund,2756.1896,19-Jun-2026
 100474,Tata Mutual Fund,Tata ELSS Fund- Regular Plan - Payout of IDCW Option,INF277K01I60,,Open Ended Schemes,Equity Scheme - ELSS,94.6802,19-Jun-2026
@@ -123,9 +123,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 100504,Franklin Templeton Mutual Fund,Franklin India Low Duration Fund - Quarterly - IDCW,INF090I01BS5,INF090I01BT3,Open Ended Schemes,Debt Scheme - Low Duration Fund,14.7667,07-Aug-2022
 100519,Franklin Templeton Mutual Fund,Franklin India Flexi Cap Fund - IDCW,INF090I01213,INF090I01221,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,61.4315,19-Jun-2026
 100520,Franklin Templeton Mutual Fund,Franklin India Flexi Cap Fund - Growth,INF090I01239,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,1587.6721,19-Jun-2026
-100521,Franklin Templeton Mutual Fund,Franklin India Technology Fund - IDCW,INF090I01759,INF090I01767,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,38.3671,18-Jun-2026
-100522,Franklin Templeton Mutual Fund,Franklin India Technology Fund-Growth,INF090I01742,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,445.1799,18-Jun-2026
-100524,Franklin Templeton Mutual Fund,Franklin INDIA OPPORTUNITIES FUND - IDCW,INF090I01858,INF090I01866,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,36.7899,18-Jun-2026
+100521,Franklin Templeton Mutual Fund,Franklin India Technology Fund - IDCW,INF090I01759,INF090I01767,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,37.9994,19-Jun-2026
+100522,Franklin Templeton Mutual Fund,Franklin India Technology Fund-Growth,INF090I01742,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,440.9130,19-Jun-2026
+100524,Franklin Templeton Mutual Fund,Franklin INDIA OPPORTUNITIES FUND - IDCW,INF090I01858,INF090I01866,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,36.8105,19-Jun-2026
 100525,Franklin Templeton Mutual Fund,Franklin India ELSS Tax Saver Fund - IDCW,INF090I01783,INF090I01791,Open Ended Schemes,Equity Scheme - ELSS,59.7194,19-Jun-2026
 100526,Franklin Templeton Mutual Fund,Franklin India ELSS Tax Saver Fund-Growth,INF090I01775,,Open Ended Schemes,Equity Scheme - ELSS,1413.2869,19-Jun-2026
 100527,Franklin Templeton Mutual Fund,Franklin India Corporate Debt Fund - Plan A - Annual - IDCW,INF090I01DH4,INF090I01DI2,Open Ended Schemes,Debt Scheme - Corporate Bond Fund,16.7966,19-Jun-2026
@@ -266,8 +266,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 101084,HDFC Mutual Fund,HDFC Gilt Fund - IDCW Plan,INF179K01772,INF179K01764,Open Ended Schemes,Debt Scheme - Gilt Fund,12.2587,19-Jun-2026
 101098,ICICI Prudential Mutual Fund,ICICI Prudential Child Care Plan Study - Cumulative,INF109K01597,,Open Ended Schemes,Income,69.6122,25-May-2018
 101127,ICICI Prudential Mutual Fund,ICICI Prudential Children's Fund - Regular Plan,INF109K01605,,Open Ended Schemes,Solution Oriented Scheme - Childrenâs Fund,329.51,19-Jun-2026
-101143,ICICI Prudential Mutual Fund,ICICI Prudential Multi-Asset Fund - IDCW,INF109K01ED5,INF109K01779,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,34.6993,18-Jun-2026
-101144,ICICI Prudential Mutual Fund,ICICI Prudential Multi-Asset Fund - Growth,INF109K01761,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,807.8895,18-Jun-2026
+101143,ICICI Prudential Mutual Fund,ICICI Prudential Multi-Asset Fund - IDCW,INF109K01ED5,INF109K01779,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,34.5261,19-Jun-2026
+101144,ICICI Prudential Mutual Fund,ICICI Prudential Multi-Asset Fund - Growth,INF109K01761,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,803.8553,19-Jun-2026
 101161,Nippon India Mutual Fund,Nippon India Multi Cap Fund-Growth Plan-Growth Option,INF204K01489,,Open Ended Schemes,Equity Scheme - Multi Cap Fund,303.5228,19-Jun-2026
 101162,Nippon India Mutual Fund,Nippon India Multi Cap Fund-Growth Plan-Bonus Option,INF204K01471,,Open Ended Schemes,Equity Scheme - Multi Cap Fund,303.5228,19-Jun-2026
 101163,Nippon India Mutual Fund,NIPPON INDIA MULTI CAP FUND - IDCW Option,INF204K01455,INF204K01463,Open Ended Schemes,Equity Scheme - Multi Cap Fund,59.7913,19-Jun-2026
@@ -355,8 +355,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 101636,DSP Mutual Fund,DSP Large Cap Fund - Regular Plan - IDCW,INF740K01227,INF740K01235,Open Ended Schemes,Equity Scheme - Large Cap Fund,23.274,19-Jun-2026
 101642,ICICI Prudential Mutual Fund,ICICI Prudential Long Term Bond Fund - Institutional Dividend Halfyearly,INF109K01EW5,INF109K01373,Open Ended Schemes,Debt Scheme - Long Duration Fund,10.8508,24-Apr-2020
 101643,ICICI Prudential Mutual Fund,ICICI Prudential Long Term Bond Fund-Institutional Option-Growth,INF109K01407,,Open Ended Schemes,Debt Scheme - Long Duration Fund,73.5439,24-Apr-2020
-101656,Franklin Templeton Mutual Fund,Franklin India Dynamic Asset Allocation Active Fund of Funds-Growth,INF090I01262,,Open Ended Schemes,Other Scheme - FoF Domestic,165.7427,18-Jun-2026
-101657,Franklin Templeton Mutual Fund,Franklin India Dynamic Asset Allocation Active Fund of funds - IDCW,INF090I01247,INF090I01254,Open Ended Schemes,Other Scheme - FoF Domestic,40.8183,18-Jun-2026
+101656,Franklin Templeton Mutual Fund,Franklin India Dynamic Asset Allocation Active Fund of Funds-Growth,INF090I01262,,Open Ended Schemes,Other Scheme - FoF Domestic,165.4296,19-Jun-2026
+101657,Franklin Templeton Mutual Fund,Franklin India Dynamic Asset Allocation Active Fund of funds - IDCW,INF090I01247,INF090I01254,Open Ended Schemes,Other Scheme - FoF Domestic,40.7411,19-Jun-2026
 101659,Tata Mutual Fund,Tata Nifty 50 Index Fund -Regular Plan,INF277K01741,,Open Ended Schemes,Other Scheme - Index Funds,149.7842,19-Jun-2026
 101665,Nippon India Mutual Fund,Nippon India Short Duration  Fund-Growth Plan,INF204K01FL4,,Open Ended Schemes,Debt Scheme - Short Duration Fund,55.6912,19-Jun-2026
 101667,Nippon India Mutual Fund,NIPPON INDIA SHORT DURATION FUND - MONTHLY IDCW Option,INF204K01FM2,INF204K01FN0,Open Ended Schemes,Debt Scheme - Short Duration Fund,11.6476,19-Jun-2026
@@ -625,7 +625,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 103146,SBI Mutual Fund,SBI Comma Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200K01313,INF200K01321,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,65.5676,19-Jun-2026
 103149,ICICI Prudential Mutual Fund,ICICI Prudential Infrastructure Fund - Growth,INF109K01AV5,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,205.35,19-Jun-2026
 103150,ICICI Prudential Mutual Fund,ICICI Prudential Infrastructure Fund - IDCW,INF109K01FB6,INF109K01AT9,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,28.91,19-Jun-2026
-103151,Franklin Templeton Mutual Fund,Franklin India Opportunities Fund - Growth,INF090I01841,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,256.4808,18-Jun-2026
+103151,Franklin Templeton Mutual Fund,Franklin India Opportunities Fund - Growth,INF090I01841,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,256.6249,19-Jun-2026
 103154,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Equity Hybrid'95 Fund -Regular - IDCW,INF209K01BS7,INF209K01EE1,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund,168.5,19-Jun-2026
 103155,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Equity Hybrid'95 Fund - Regular Plan-Growth,INF209K01BT5,,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund,1510.63,19-Jun-2026
 103158,Tata Mutual Fund,Tata Treasury Advantage Fund Regular Plan - Weekly Payout of IDCW Option,INF277K01MD3,INF277K01MB7,Open Ended Schemes,Debt Scheme - Low Duration Fund,1008.4865,19-Jun-2026
@@ -689,8 +689,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 103635,ICICI Prudential Mutual Fund,ICICI Prudential Money Market Fund Option - Weekly IDCW,INF109K01TZ6,,Open Ended Schemes,Debt Scheme - Money Market Fund,100.8308,19-Jun-2026
 103636,ICICI Prudential Mutual Fund,ICICI Prudential Money Market Fund Option -Fortnightly IDCW,INF109K01UA7,,Open Ended Schemes,Debt Scheme - Money Market Fund,100.6605,16-Sep-2022
 103637,ICICI Prudential Mutual Fund,ICICI Prudential Money Market Fund Option - Monthly IDCW,INF109K01UC3,INF109K01UB5,Open Ended Schemes,Debt Scheme - Money Market Fund,100.8819,16-Sep-2022
-103678,Franklin Templeton Mutual Fund,Franklin India Dividend Yield Fund-Growth Plan,INF090I01957,,Open Ended Schemes,Equity Scheme - Dividend Yield Fund,137.6654,18-Jun-2026
-103679,Franklin Templeton Mutual Fund,Franklin India Dividend Yield Fund - IDCW,INF090I01932,INF090I01940,Open Ended Schemes,Equity Scheme - Dividend Yield Fund,23.8897,18-Jun-2026
+103678,Franklin Templeton Mutual Fund,Franklin India Dividend Yield Fund-Growth Plan,INF090I01957,,Open Ended Schemes,Equity Scheme - Dividend Yield Fund,136.7579,19-Jun-2026
+103679,Franklin Templeton Mutual Fund,Franklin India Dividend Yield Fund - IDCW,INF090I01932,INF090I01940,Open Ended Schemes,Equity Scheme - Dividend Yield Fund,23.7322,19-Jun-2026
 103734,Quantum Mutual Fund,Quantum Liquid Fund - Direct Plan Growth Option,INF082J01127,,Open Ended Schemes,Debt Scheme - Liquid Fund,37.2285,21-Jun-2026
 103735,Quantum Mutual Fund,Quantum Liquid Fund - Direct Plan Monthly IDCW,INF082J01143,INF082J01200,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0597,21-Jun-2026
 103736,Quantum Mutual Fund,Quantum Liquid Fund - Direct Plan Daily IDCW,,INF082J01135,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0085,21-Jun-2026
@@ -1261,8 +1261,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 112013,Edelweiss Mutual Fund,Edelweiss Aggressive Hybrid Fund  - Plan B - IDCW Option,INF754K01137,INF754K01145,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund,64.83,19-Jun-2026
 112014,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Liquid Fund- Discipline Advantage Plan,INF209K01KZ3,,Open Ended Schemes,Debt Scheme - Liquid Fund,302.6457,19-Jun-2026
 112016,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Savings Fund - Discipline Advantage Plan,INF209K01JT8,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund,332.7377,19-Jun-2026
-112038,Quantum Mutual Fund,Quantum Diversified Equity All Cap Active FOF - Direct Plan IDCW,INF082J01101,INF082J01119,Open Ended Schemes,Other Scheme - FoF Domestic,84.899,18-Jun-2026
-112039,Quantum Mutual Fund,Quantum Diversified Equity All Cap Active FOF - Direct Plan Growth Option,INF082J01093,,Open Ended Schemes,Other Scheme - FoF Domestic,85.111,18-Jun-2026
+112038,Quantum Mutual Fund,Quantum Diversified Equity All Cap Active FOF - Direct Plan IDCW,INF082J01101,INF082J01119,Open Ended Schemes,Other Scheme - FoF Domestic,84.778,19-Jun-2026
+112039,Quantum Mutual Fund,Quantum Diversified Equity All Cap Active FOF - Direct Plan Growth Option,INF082J01093,,Open Ended Schemes,Other Scheme - FoF Domestic,84.990,19-Jun-2026
 112076,UTI Mutual Fund,UTI Money Market Fund - Regular Plan - Daily IDCW (Reinvestment),,INF789F01PW0,Open Ended Schemes,Debt Scheme - Money Market Fund,1064.2086,19-Jun-2026
 112077,UTI Mutual Fund,UTI MMF - Regular Plan - Growth Option,INF789F01PX8,,Open Ended Schemes,Debt Scheme - Money Market Fund,3273.7342,19-Jun-2026
 112082,UTI Mutual Fund,UTI Ultra Short Duration Fund - Discontinued - INSTN PLAN - PERIODIC DIVIDEND OPTION,,INF789F01PL3,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund,1003.5556,25-Feb-2021
@@ -1459,7 +1459,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 114929,ICICI Prudential Mutual Fund,ICICI Prudential Interval Fund II Quarterly Interval Plan D - Quarterly Dividend Payout,INF109K01NO3,,Open Ended Schemes,Income,10.2309,11-Sep-2012
 114930,Mirae Asset Mutual Fund,Mirae Asset Great Consumer Fund Regular IDCW,INF769K01150,INF769K01143,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,25.359,19-Jun-2026
 114931,Mirae Asset Mutual Fund,Mirae Asset Great Consumer Fund - Regular Plan - Growth option,INF769K01135,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,90.514,19-Jun-2026
-114984,Motilal Oswal Mutual Fund,Motilal Oswal Nasdaq 100 ETF (MOFN100),INF247L01AP3,,Open Ended Schemes,Other Scheme - Other  ETFs,279.9529,18-Jun-2026
+114984,Motilal Oswal Mutual Fund,Motilal Oswal Nasdaq 100 ETF (MOFN100),INF247L01AP3,,Open Ended Schemes,Other Scheme - Other  ETFs,279.9113,19-Jun-2026
 115022,ICICI Prudential Mutual Fund,ICICI Prudential Interval Fund Quarterly Interval Plan - II Retail Quarterly Dividend Payout,INF109K01ME6,,Open Ended Schemes,Income,10.2340,20-Sep-2012
 115068,Axis Mutual Fund,Axis Dynamic Bond Fund - Regular Plan - Growth Option,INF846K01917,,Open Ended Schemes,Debt Scheme - Dynamic Bond,31.1522,19-Jun-2026
 115069,Axis Mutual Fund,Axis Dynamic Bond Fund - Regular Plan - Quarterly IDCW,INF846K01925,INF846K01933,Open Ended Schemes,Debt Scheme - Dynamic Bond,11.5161,19-Jun-2026
@@ -1472,8 +1472,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 115093,ICICI Prudential Mutual Fund,ICICI Prudential Ultra Short Term Fund - Half Yearly IDCW,INF109K01TV5,INF109K01TU7,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund,10.6114,16-Sep-2022
 115094,ICICI Prudential Mutual Fund,ICICI Prudential Ultra Short Term Fund - Monthly IDCW,INF109K01TR3,INF109K01TQ5,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund,10.7195,19-Jun-2026
 115103,JM Financial Mutual Fund,JM Short Term Fund - Daily Dividend Option,,INF192K01BD7,Open Ended Schemes,Debt Scheme - Short Duration Fund,14.0738,25-Sep-2020
-115116,HSBC Mutual Fund,HSBC Brazil Fund-Growth,INF336L01164,,Open Ended Schemes,Other Scheme - FoF Overseas,9.7384,18-Jun-2026
-115117,HSBC Mutual Fund,HSBC Brazil Fund - IDCW,INF336L01172,INF336L01180,Open Ended Schemes,Other Scheme - FoF Overseas,9.7384,18-Jun-2026
+115116,HSBC Mutual Fund,HSBC Brazil Fund-Growth,INF336L01164,,Open Ended Schemes,Other Scheme - FoF Overseas,9.7478,19-Jun-2026
+115117,HSBC Mutual Fund,HSBC Brazil Fund - IDCW,INF336L01172,INF336L01180,Open Ended Schemes,Other Scheme - FoF Overseas,9.7478,19-Jun-2026
 115127,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Gold ETF,INF209KB18D3,,Open Ended Schemes,Other Scheme - Gold ETF,126.7621,19-Jun-2026
 115131,Axis Mutual Fund,Axis Dynamic Bond Fund - Regular Plan - Half Yearly IDCW,INF846K01941,INF846K01958,Open Ended Schemes,Debt Scheme - Dynamic Bond,11.8445,19-Jun-2026
 115132,Quantum Mutual Fund,Quantum Gold Savings Fund - Direct Plan Growth Option,INF082J01150,,Open Ended Schemes,Other Scheme - FoF Domestic,55.4546,19-Jun-2026
@@ -1481,7 +1481,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 115270,Union Mutual Fund,Union Flexi Cap Fund - Growth Option,INF582M01104,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,51.15,19-Jun-2026
 115284,Invesco Mutual Fund,Invesco India Nifty 50 Exchange Traded Fund,INF205K01DA9,,Open Ended Schemes,Other Scheme - Other  ETFs,2747.1775,19-Jun-2026
 115290,Union Mutual Fund,Union Flexi Cap Fund - IDCW Option,INF582M01120,INF582M01112,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,32.30,19-Jun-2026
-115294,ICICI Prudential Mutual Fund,ICICI Prudential Technology Fund - IDCW,INF109K01FO9,INF109K01514,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,53.04,18-Jun-2026
+115294,ICICI Prudential Mutual Fund,ICICI Prudential Technology Fund - IDCW,INF109K01FO9,INF109K01514,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,52.30,19-Jun-2026
 115328,ICICI Prudential Mutual Fund,ICICI Prudential Money Market Fund Dividend,INF109K01I72,,Open Ended Schemes,Debt Scheme - Money Market Fund,100.0952,24-Apr-2020
 115398,Union Mutual Fund,Union Liquid Fund - Growth Option,INF582M01013,,Open Ended Schemes,Debt Scheme - Liquid Fund,2665.5431,21-Jun-2026
 115399,Union Mutual Fund,Union Liquid Fund - Fortnightly IDCW Option,INF582M01062,INF582M01047,Open Ended Schemes,Debt Scheme - Liquid Fund,1003.4220,21-Jun-2026
@@ -1581,7 +1581,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 117562,Nippon India Mutual Fund,Reliance Dual Advantage Fixed Tenure Fund II - Plan D - Dividend Payout Option,INF204K01RW6,,Close Ended Schemes,Income,14.3814,04-Aug-2015
 117600,Nippon India Mutual Fund,Reliance Dual Advantage Fixed Tenure Fund II - Plan H - Growth Option,INF204K01SD4,,Close Ended Schemes,Income,15.5612,24-Jul-2017
 117601,Nippon India Mutual Fund,Reliance Dual Advantage Fixed Tenure Fund II - Plan H - Dividend Payout Option,INF204K01SE2,,Close Ended Schemes,Income,15.5512,24-Jul-2017
-117608,Quantum Mutual Fund,Quantum Multi Asset Active FOF - Direct Plan Growth Option,INF082J01168,,Open Ended Schemes,Other Scheme - FoF Domestic,37.1336,18-Jun-2026
+117608,Quantum Mutual Fund,Quantum Multi Asset Active FOF - Direct Plan Growth Option,INF082J01168,,Open Ended Schemes,Other Scheme - FoF Domestic,36.9319,19-Jun-2026
 117619,ICICI Prudential Mutual Fund,ICICI Prudential US Bluechip Equity Fund - IDCW,INF109K01E43,INF109K01E50,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,72.45,18-Jun-2026
 117620,ICICI Prudential Mutual Fund,ICICI Prudential US Bluechip Equity Fund - Growth,INF109K01E35,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,72.45,18-Jun-2026
 117621,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan-Series 63-3 Year Plan L Cumulative,INF109K01E68,,Close Ended Schemes,Income,12.9338,06-Jul-2015
@@ -1735,7 +1735,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 118422,Bandhan Mutual Fund,Bandhan Focused Fund - Direct Plan - IDCW,INF194K01W39,INF194K01W47,Open Ended Schemes,Equity Scheme - Focused Fund,33.592,19-Jun-2026
 118423,Bandhan Mutual Fund,BANDHAN Flexi Cap Fund-Direct Plan-IDCW,INF194K01W70,INF194K01W88,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,51.308,19-Jun-2026
 118424,Bandhan Mutual Fund,BANDHAN Flexi Cap Fund-Direct Plan-Growth,INF194K01W62,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,230.086,19-Jun-2026
-118462,Franklin Templeton Mutual Fund,Franklin India Large Cap Fund - Direct - IDCW,INF090I01FO5,INF090I01FP2,Open Ended Schemes,Equity Scheme - Large Cap Fund,48.9726,18-Jun-2026
+118462,Franklin Templeton Mutual Fund,Franklin India Large Cap Fund - Direct - IDCW,INF090I01FO5,INF090I01FP2,Open Ended Schemes,Equity Scheme - Large Cap Fund,48.7323,19-Jun-2026
 118463,Bandhan Mutual Fund,Bandhan Gilt Fund - Direct Plan - IDCW,INF194K01R36,INF194K01R28,Open Ended Schemes,Debt Scheme - Gilt Fund,15.5352,19-Jun-2026
 118464,Bandhan Mutual Fund,Bandhan Gilt Fund - Direct Plan - Growth,INF194K01Q29,,Open Ended Schemes,Debt Scheme - Gilt Fund,40.2918,19-Jun-2026
 118465,Bandhan Mutual Fund,Bandhan Gilt Fund - Direct Plan - Half Yearly IDCW,INF194K01Q45,INF194K01Q37,Open Ended Schemes,Debt Scheme - Gilt Fund,12.5378,19-Jun-2026
@@ -1778,24 +1778,24 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 118510,Franklin Templeton Mutual Fund,Franklin India Large & Mid Cap Fund - Direct - Growth,INF090I01IN1,,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund,206.4725,19-Jun-2026
 118524,Franklin Templeton Mutual Fund,Franklin India Small Cap Fund - Direct - IDCW,INF090I01IO9,INF090I01IP6,Open Ended Schemes,Equity Scheme - Small Cap Fund,52.1823,19-Jun-2026
 118525,Franklin Templeton Mutual Fund,Franklin India Small Cap Fund - Direct - Growth,INF090I01IQ4,,Open Ended Schemes,Equity Scheme - Small Cap Fund,200.7822,19-Jun-2026
-118526,Franklin Templeton Mutual Fund,Franklin India Dividend Yield Fund - Direct - IDCW,INF090I01IR2,INF090I01IS0,Open Ended Schemes,Equity Scheme - Dividend Yield Fund,27.1793,18-Jun-2026
-118527,Franklin Templeton Mutual Fund,Franklin India Dividend Yield Fund - Direct - Growth,INF090I01IT8,,Open Ended Schemes,Equity Scheme - Dividend Yield Fund,151.8114,18-Jun-2026
+118526,Franklin Templeton Mutual Fund,Franklin India Dividend Yield Fund - Direct - IDCW,INF090I01IR2,INF090I01IS0,Open Ended Schemes,Equity Scheme - Dividend Yield Fund,27.0007,19-Jun-2026
+118527,Franklin Templeton Mutual Fund,Franklin India Dividend Yield Fund - Direct - Growth,INF090I01IT8,,Open Ended Schemes,Equity Scheme - Dividend Yield Fund,150.8139,19-Jun-2026
 118528,Franklin Templeton Mutual Fund,Franklin India Low Duration Fund - Direct - Monthly - IDCW,INF090I01HC6,INF090I01HD4,Open Ended Schemes,Debt Scheme - Low Duration Fund,13.3317,07-Aug-2022
 118529,Franklin Templeton Mutual Fund,Franklin India Low Duration Fund - Direct - Quarterly - IDCW,INF090I01HE2,INF090I01HF9,Open Ended Schemes,Debt Scheme - Low Duration Fund,13.1009,07-Aug-2022
 118530,Franklin Templeton Mutual Fund,Franklin India Low Duration Fund - Direct - Growth,INF090I01HG7,,Open Ended Schemes,Debt Scheme - Low Duration Fund,28.6858,07-Aug-2022
-118531,Franklin Templeton Mutual Fund,Franklin India Large Cap Fund- Direct - Growth,INF090I01FN7,,Open Ended Schemes,Equity Scheme - Large Cap Fund,1113.7724,18-Jun-2026
+118531,Franklin Templeton Mutual Fund,Franklin India Large Cap Fund- Direct - Growth,INF090I01FN7,,Open Ended Schemes,Equity Scheme - Large Cap Fund,1108.3064,19-Jun-2026
 118532,Franklin Templeton Mutual Fund,Franklin India Mid Cap Fund - Direct - IDCW,INF090I01FI7,INF090I01FJ5,Open Ended Schemes,Equity Scheme - Mid Cap Fund,113.3492,19-Jun-2026
 118533,Franklin Templeton Mutual Fund,Franklin India Mid Cap Fund - Direct - Growth,INF090I01FH9,,Open Ended Schemes,Equity Scheme - Mid Cap Fund,3120.6635,19-Jun-2026
 118534,Franklin Templeton Mutual Fund,Franklin India Flexi Cap Fund - Direct - IDCW,INF090I01FL1,INF090I01FM9,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,68.8396,19-Jun-2026
 118535,Franklin Templeton Mutual Fund,Franklin India Flexi Cap Fund - Direct - Growth,INF090I01FK3,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,1780.3505,19-Jun-2026
-118536,Franklin Templeton Mutual Fund,Franklin India Technology Fund - Direct - IDCW,INF090I01FF3,INF090I01FG1,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,43.1138,18-Jun-2026
-118537,Franklin Templeton Mutual Fund,Franklin India Technology Fund - Direct - Growth,INF090I01FE6,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,494.7429,18-Jun-2026
-118538,Franklin Templeton Mutual Fund,Franklin INDIA OPPORTUNITIES FUND - Direct - IDCW,INF090I01GD6,INF090I01GE4,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,41.7245,18-Jun-2026
-118539,Franklin Templeton Mutual Fund,Franklin India Opportunities Fund - Direct - Growth,INF090I01GC8,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,286.1107,18-Jun-2026
+118536,Franklin Templeton Mutual Fund,Franklin India Technology Fund - Direct - IDCW,INF090I01FF3,INF090I01FG1,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,42.7017,19-Jun-2026
+118537,Franklin Templeton Mutual Fund,Franklin India Technology Fund - Direct - Growth,INF090I01FE6,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,490.0141,19-Jun-2026
+118538,Franklin Templeton Mutual Fund,Franklin INDIA OPPORTUNITIES FUND - Direct - IDCW,INF090I01GD6,INF090I01GE4,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,41.7493,19-Jun-2026
+118539,Franklin Templeton Mutual Fund,Franklin India Opportunities Fund - Direct - Growth,INF090I01GC8,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,286.2808,19-Jun-2026
 118540,Franklin Templeton Mutual Fund,Franklin India ELSS Tax Saver Fund - Direct - Growth,INF090I01JS8,,Open Ended Schemes,Equity Scheme - ELSS,1586.9302,19-Jun-2026
 118541,Franklin Templeton Mutual Fund,Franklin India ELSS Tax Saver Fund - Direct - IDCW,INF090I01JT6,INF090I01JU4,Open Ended Schemes,Equity Scheme - ELSS,69.4891,19-Jun-2026
-118542,Franklin Templeton Mutual Fund,Franklin India Dynamic Asset Allocation Active Fund of funds - Direct - IDCW,INF090I01HT0,INF090I01HU8,Open Ended Schemes,Other Scheme - FoF Domestic,48.5201,18-Jun-2026
-118543,Franklin Templeton Mutual Fund,Franklin India Dynamic Asset Allocation Active Fund Of Funds - Direct - Growth,INF090I01HV6,,Open Ended Schemes,Other Scheme - FoF Domestic,188.9079,18-Jun-2026
+118542,Franklin Templeton Mutual Fund,Franklin India Dynamic Asset Allocation Active Fund of funds - Direct - IDCW,INF090I01HT0,INF090I01HU8,Open Ended Schemes,Other Scheme - FoF Domestic,48.4296,19-Jun-2026
+118543,Franklin Templeton Mutual Fund,Franklin India Dynamic Asset Allocation Active Fund Of Funds - Direct - Growth,INF090I01HV6,,Open Ended Schemes,Other Scheme - FoF Domestic,188.5555,19-Jun-2026
 118546,Franklin Templeton Mutual Fund,Franklin India Aggressive Hybrid Fund - Direct - Growth,INF090I01FZ1,,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund,306.1033,19-Jun-2026
 118547,Franklin Templeton Mutual Fund,Franklin India Aggressive Hybrid Fund - Direct - IDCW,INF090I01GA2,INF090I01GB0,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund,33.8896,19-Jun-2026
 118548,Franklin Templeton Mutual Fund,Franklin India Retirement Fund - Direct - Growth,INF090I01JZ3,,Open Ended Schemes,Solution Oriented Scheme - Retirement Fund,239.7288,19-Jun-2026
@@ -2429,8 +2429,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 119960,Tata Mutual Fund,Tata Equity Savings Fund- Direct Plan- Growth Option,INF277K01QH5,,Open Ended Schemes,Hybrid Scheme - Equity Savings,63.7493,20-Feb-2026
 120029,HSBC Mutual Fund,HSBC Large Cap Fund - Direct IDCW,INF336L01CK1,INF336L01CL9,Open Ended Schemes,Equity Scheme - Large Cap Fund,39.3233,19-Jun-2026
 120030,HSBC Mutual Fund,HSBC Large Cap Fund - Direct Growth,INF336L01CM7,,Open Ended Schemes,Equity Scheme - Large Cap Fund,525.559,19-Jun-2026
-120035,HSBC Mutual Fund,HSBC Brazil Fund - Growth Direct,INF336L01BY4,,Open Ended Schemes,Other Scheme - FoF Overseas,10.7031,18-Jun-2026
-120036,HSBC Mutual Fund,HSBC Brazil Fund - IDCW Direct Plan,INF336L01BW8,INF336L01BX6,Open Ended Schemes,Other Scheme - FoF Overseas,10.6939,18-Jun-2026
+120035,HSBC Mutual Fund,HSBC Brazil Fund - Growth Direct,INF336L01BY4,,Open Ended Schemes,Other Scheme - FoF Overseas,10.7136,19-Jun-2026
+120036,HSBC Mutual Fund,HSBC Brazil Fund - IDCW Direct Plan,INF336L01BW8,INF336L01BX6,Open Ended Schemes,Other Scheme - FoF Overseas,10.7043,19-Jun-2026
 120037,HSBC Mutual Fund,HSBC Liquid Fund - Direct Daily IDCW,,INF336L01CB0,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.576,19-Jun-2026
 120038,HSBC Mutual Fund,HSBC Liquid Fund -  Growth Direct,INF336L01CC8,,Open Ended Schemes,Debt Scheme - Liquid Fund,2788.6118,19-Jun-2026
 120039,HSBC Mutual Fund,HSBC Liquid Fund - Direct Monthly IDCW,INF336L01BZ1,INF336L01CA2,Open Ended Schemes,Debt Scheme - Liquid Fund,1043.5109,19-Jun-2026
@@ -2527,8 +2527,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 120323,ICICI Prudential Mutual Fund,ICICI Prudential Value Fund (erstwhile Value Discovery Fund) - Direct Plan - Growth,INF109K012K1,,Open Ended Schemes,Equity Scheme - Value Fund,508.63,19-Jun-2026
 120332,Invesco Mutual Fund,Invesco India Balanced Advantage Fund - Direct Plan - IDCW (Payout / Reinvestment),INF205K01LL9,INF205K01LM7,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage,21.89,19-Jun-2026
 120333,Invesco Mutual Fund,Invesco India Balanced Advantage Fund - Direct Plan - Growth,INF205K01LN5,,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage,62.64,19-Jun-2026
-120334,ICICI Prudential Mutual Fund,ICICI Prudential Multi-Asset Fund - Direct Plan - Growth,INF109K015K4,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,894.4842,18-Jun-2026
-120335,ICICI Prudential Mutual Fund,ICICI Prudential Multi-Asset Fund - Direct Plan - IDCW,INF109K013K9,INF109K014K7,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,59.4824,18-Jun-2026
+120334,ICICI Prudential Mutual Fund,ICICI Prudential Multi-Asset Fund - Direct Plan - Growth,INF109K015K4,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,890.0323,19-Jun-2026
+120335,ICICI Prudential Mutual Fund,ICICI Prudential Multi-Asset Fund - Direct Plan - IDCW,INF109K013K9,INF109K014K7,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,59.1863,19-Jun-2026
 120336,LIC Mutual Fund,LIC MF Banking & PSU Fund-Direct Plan-Weekly IDCW,INF767K01GL8,INF767K01GO2,Open Ended Schemes,Debt Scheme - Banking and PSU Fund,10.0646,19-Jun-2026
 120337,LIC Mutual Fund,LIC MF Banking & PSU Fund-Direct Plan-Daily IDCW,INF767K01GJ2,INF767K01GM6,Open Ended Schemes,Debt Scheme - Banking and PSU Fund,14.3171,19-Jun-2026
 120338,LIC Mutual Fund,LIC MF Banking & PSU Fund-Direct Plan-Growth,INF767K01GI4,,Open Ended Schemes,Debt Scheme - Banking and PSU Fund,39.5687,19-Jun-2026
@@ -2701,15 +2701,15 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 120584,ICICI Prudential Mutual Fund,ICICI Prudential Dynamic Bond Fund - Direct Plan -  Daily Dividend,INF109K016K2,,Open Ended Schemes,Income,10.5669,25-May-2018
 120585,ICICI Prudential Mutual Fund,ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund)  - Direct Plan - IDCW,INF109K014L5,INF109K015L2,Open Ended Schemes,Equity Scheme - Large Cap Fund,60.28,19-Jun-2026
 120586,ICICI Prudential Mutual Fund,ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund) - Direct Plan - Growth,INF109K016L0,,Open Ended Schemes,Equity Scheme - Large Cap Fund,119.13,19-Jun-2026
-120587,ICICI Prudential Mutual Fund,ICICI Prudential FMCG Fund - Direct Plan -  Growth,INF109K01Z14,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,466.10,18-Jun-2026
-120588,ICICI Prudential Mutual Fund,ICICI Prudential FMCG Fund - Direct Plan -  IDCW,INF109K01Y98,INF109K01Z06,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,153.02,18-Jun-2026
+120587,ICICI Prudential Mutual Fund,ICICI Prudential FMCG Fund - Direct Plan -  Growth,INF109K01Z14,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,464.75,19-Jun-2026
+120588,ICICI Prudential Mutual Fund,ICICI Prudential FMCG Fund - Direct Plan -  IDCW,INF109K01Y98,INF109K01Z06,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,152.58,19-Jun-2026
 120589,ICICI Prudential Mutual Fund,ICICI Prudential Gilt Fund - Direct Plan - IDCW,INF109K016C9,INF109K017C7,Open Ended Schemes,Debt Scheme - Gilt Fund,18.4477,19-Jun-2026
 120590,ICICI Prudential Mutual Fund,ICICI Prudential Gilt Fund - Direct Plan - Growth,INF109K018C5,,Open Ended Schemes,Debt Scheme - Gilt Fund,115.5992,19-Jun-2026
 120591,ICICI Prudential Mutual Fund,ICICI Prudential Smallcap Fund - Direct Plan - Growth,INF109K015M0,,Open Ended Schemes,Equity Scheme - Small Cap Fund,101.19,19-Jun-2026
 120592,ICICI Prudential Mutual Fund,ICICI Prudential ELSS Tax Saver Fund - Direct Plan - Growth,INF109K01Y31,,Open Ended Schemes,Equity Scheme - ELSS,1032.98,19-Jun-2026
 120593,ICICI Prudential Mutual Fund,ICICI Prudential ELSS Tax Saver Fund - Direct Plan - IDCW,INF109K01Y15,INF109K01Y23,Open Ended Schemes,Equity Scheme - ELSS,44.36,19-Jun-2026
-120594,ICICI Prudential Mutual Fund,ICICI Prudential Technology Fund - Direct Plan -  Growth,INF109K01Z48,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,190.12,18-Jun-2026
-120595,ICICI Prudential Mutual Fund,ICICI Prudential Technology Fund - Direct Plan -  IDCW,INF109K01Z22,INF109K01Z30,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,116.07,18-Jun-2026
+120594,ICICI Prudential Mutual Fund,ICICI Prudential Technology Fund - Direct Plan -  Growth,INF109K01Z48,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,187.48,19-Jun-2026
+120595,ICICI Prudential Mutual Fund,ICICI Prudential Technology Fund - Direct Plan -  IDCW,INF109K01Z22,INF109K01Z30,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,114.46,19-Jun-2026
 120596,ICICI Prudential Mutual Fund,ICICI Prudential Large & Mid Cap Fund - Direct Plan - Growth,INF109K011O5,,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund,1143.85,19-Jun-2026
 120597,ICICI Prudential Mutual Fund,ICICI Prudential Large & Mid Cap Fund - Direct Plan - IDCW,INF109K019N0,INF109K010O7,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund,53.44,19-Jun-2026
 120598,ICICI Prudential Mutual Fund,ICICI Prudential Multicap Fund - Direct Plan -  IDCW,INF109K012O3,INF109K013O1,Open Ended Schemes,Equity Scheme - Multi Cap Fund,64.37,19-Jun-2026
@@ -3058,8 +3058,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 122615,Nippon India Mutual Fund,Reliance Fixed Horizon Fund - XXIII - Series 12 - Direct Plan - Growth  Option,INF204K010C6,,Close Ended Schemes,Income,13.8038,17-Jul-2017
 122617,Nippon India Mutual Fund,Reliance Fixed Horizon Fund - XXIII - Series 12 - Dividend Payout Option,INF204K019B9,,Close Ended Schemes,Income,10.0000,29-Jun-2016
 122618,Bandhan Mutual Fund,BANDHAN Dynamic Bond Fund-Direct Plan-Half Yearly IDCW,INF194K011P8,INF194K012P6,Open Ended Schemes,Debt Scheme - Dynamic Bond,11.3002,19-Jun-2026
-122639,PPFAS Mutual Fund,Parag Parikh Flexi Cap Fund - Direct Plan - Growth,INF879O01027,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,90.5220,18-Jun-2026
-122640,PPFAS Mutual Fund,Parag Parikh Flexi Cap Fund - Regular Plan - Growth,INF879O01019,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,82.5845,18-Jun-2026
+122639,PPFAS Mutual Fund,Parag Parikh Flexi Cap Fund - Direct Plan - Growth,INF879O01027,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,90.1404,19-Jun-2026
+122640,PPFAS Mutual Fund,Parag Parikh Flexi Cap Fund - Regular Plan - Growth,INF879O01019,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,82.2350,19-Jun-2026
 122641,UTI Mutual Fund,UTI FIIF Half Yearly Plan I - Direct Plan - IDCW,INF789F01VR8,INF789F01VS6,Close Ended Schemes,Income,10.0606,11-May-2022
 122642,UTI Mutual Fund,UTI Fixed  Income Interval Fund ( Half Yearly Plan - I) - Direct Plan - Growth Option,INF789F01VT4,,Close Ended Schemes,Income,26.6295,11-May-2022
 122643,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Floating Rate Fund-Regular - DAILY IDCW,,INF209KA1LN1,Open Ended Schemes,Debt Scheme - Floater Fund,100.0319,19-Jun-2026
@@ -4008,7 +4008,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 129051,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Regular Plan - Monthly IDCW Option,INF179KA1KO7,INF179KA1KN9,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,11.437,19-Jun-2026
 129052,HDFC Mutual Fund,HDFC ARBITRAGE FUND -Direct Plan - Growth Option,INF179KA1KT6,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,21.429,19-Jun-2026
 129054,HDFC Mutual Fund,HDFC ARBITRAGE FUND - Monthly IDCW - Direct Plan,INF179KA1KS8,INF179KA1KR0,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,11.329,19-Jun-2026
-129065,HSBC Mutual Fund,HSBC Aggressive Hybrid Active FOF - Growth,INF336L01IA9,,Open Ended Schemes,Other Scheme - FoF Domestic,42.0313,18-Jun-2026
+129065,HSBC Mutual Fund,HSBC Aggressive Hybrid Active FOF - Growth,INF336L01IA9,,Open Ended Schemes,Other Scheme - FoF Domestic,42.2143,19-Jun-2026
 129066,ICICI Prudential Mutual Fund,ICICI Prudential Multiple Yield Fund - Series 6 - 1100 Days - Plan E -Cumulative,INF109KA1SN7,,Close Ended Schemes,Income,12.9746,02-May-2017
 129067,ICICI Prudential Mutual Fund,ICICI Prudential Multiple Yield Fund - Series 6 - 1100 Days - Plan E - Direct Plan - Dividend,INF109KA1SQ0,,Close Ended Schemes,Income,12.6864,02-May-2017
 129068,ICICI Prudential Mutual Fund,ICICI Prudential Multiple Yield Fund - Series 6 - 1100 Days - Plan E - Direct Plan - Cumulative,INF109KA1SP2,,Close Ended Schemes,Income,13.5358,02-May-2017
@@ -4032,17 +4032,17 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 129188,Invesco Mutual Fund,Invesco India - Invesco Global Equity Income Fund of Fund - Direct Plan - Growth,INF205K01B49,,Open Ended Schemes,Other Scheme - FoF Overseas,40.5224,18-Jun-2026
 129189,Invesco Mutual Fund,Invesco India - Invesco Global Equity Income Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment),INF205K01B23,INF205K01B31,Open Ended Schemes,Other Scheme - FoF Overseas,36.4473,18-Jun-2026
 129190,Invesco Mutual Fund,Invesco India - Invesco Global Equity Income Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment),INF205K01B56,INF205K01B64,Open Ended Schemes,Other Scheme - FoF Overseas,40.031,18-Jun-2026
-129191,HSBC Mutual Fund,HSBC Multi Asset Active FOF - Growth,INF336L01IG6,,Open Ended Schemes,Other Scheme - FoF Domestic,41.2401,18-Jun-2026
-129192,HSBC Mutual Fund,HSBC Multi Asset Active FOF IDCW,INF336L01IE1,INF336L01IF8,Open Ended Schemes,Other Scheme - FoF Domestic,30.0944,18-Jun-2026
-129193,HSBC Mutual Fund,HSBC Multi Asset Active FOF - Growth Direct,INF336L01IJ0,,Open Ended Schemes,Other Scheme - FoF Domestic,43.9609,18-Jun-2026
-129194,HSBC Mutual Fund,HSBC Multi Asset Active FOF Direct Plan IDCW,INF336L01IH4,INF336L01II2,Open Ended Schemes,Other Scheme - FoF Domestic,21.1157,18-Jun-2026
-129195,HSBC Mutual Fund,HSBC Income Plus Arbitrage Active FOF - Growth,INF336L01IM4,,Open Ended Schemes,Other Scheme - FoF Domestic,22.4614,18-Jun-2026
-129196,HSBC Mutual Fund,HSBC Income Plus Arbitrage Active FOF IDCW,INF336L01IK8,INF336L01IL6,Open Ended Schemes,Other Scheme - FoF Domestic,16.188,18-Jun-2026
-129197,HSBC Mutual Fund,HSBC Income Plus Arbitrage Active FOF - Growth Direct,INF336L01IP7,,Open Ended Schemes,Other Scheme - FoF Domestic,23.8863,18-Jun-2026
-129198,HSBC Mutual Fund,HSBC Income Plus Arbitrage Active FOF Direct Plan IDCW,INF336L01IN2,INF336L01IO0,Open Ended Schemes,Other Scheme - FoF Domestic,19.1058,18-Jun-2026
-129199,HSBC Mutual Fund,HSBC Aggressive Hybrid Active FOF - Dividend,INF336L01HY1,INF336L01HZ8,Open Ended Schemes,Other Scheme - FoF Domestic,29.657,18-Jun-2026
-129200,HSBC Mutual Fund,HSBC Aggressive Hybrid Active FOF - Growth Direct,INF336L01ID3,,Open Ended Schemes,Other Scheme - FoF Domestic,44.6971,18-Jun-2026
-129201,HSBC Mutual Fund,HSBC Aggressive Hybrid Active FOF - Dividend Direct,INF336L01IB7,INF336L01IC5,Open Ended Schemes,Other Scheme - FoF Domestic,32.0301,18-Jun-2026
+129191,HSBC Mutual Fund,HSBC Multi Asset Active FOF - Growth,INF336L01IG6,,Open Ended Schemes,Other Scheme - FoF Domestic,41.1903,19-Jun-2026
+129192,HSBC Mutual Fund,HSBC Multi Asset Active FOF IDCW,INF336L01IE1,INF336L01IF8,Open Ended Schemes,Other Scheme - FoF Domestic,30.0581,19-Jun-2026
+129193,HSBC Mutual Fund,HSBC Multi Asset Active FOF - Growth Direct,INF336L01IJ0,,Open Ended Schemes,Other Scheme - FoF Domestic,43.9088,19-Jun-2026
+129194,HSBC Mutual Fund,HSBC Multi Asset Active FOF Direct Plan IDCW,INF336L01IH4,INF336L01II2,Open Ended Schemes,Other Scheme - FoF Domestic,21.0907,19-Jun-2026
+129195,HSBC Mutual Fund,HSBC Income Plus Arbitrage Active FOF - Growth,INF336L01IM4,,Open Ended Schemes,Other Scheme - FoF Domestic,22.4683,19-Jun-2026
+129196,HSBC Mutual Fund,HSBC Income Plus Arbitrage Active FOF IDCW,INF336L01IK8,INF336L01IL6,Open Ended Schemes,Other Scheme - FoF Domestic,16.193,19-Jun-2026
+129197,HSBC Mutual Fund,HSBC Income Plus Arbitrage Active FOF - Growth Direct,INF336L01IP7,,Open Ended Schemes,Other Scheme - FoF Domestic,23.8939,19-Jun-2026
+129198,HSBC Mutual Fund,HSBC Income Plus Arbitrage Active FOF Direct Plan IDCW,INF336L01IN2,INF336L01IO0,Open Ended Schemes,Other Scheme - FoF Domestic,19.1118,19-Jun-2026
+129199,HSBC Mutual Fund,HSBC Aggressive Hybrid Active FOF - Dividend,INF336L01HY1,INF336L01HZ8,Open Ended Schemes,Other Scheme - FoF Domestic,29.7862,19-Jun-2026
+129200,HSBC Mutual Fund,HSBC Aggressive Hybrid Active FOF - Growth Direct,INF336L01ID3,,Open Ended Schemes,Other Scheme - FoF Domestic,44.8932,19-Jun-2026
+129201,HSBC Mutual Fund,HSBC Aggressive Hybrid Active FOF - Dividend Direct,INF336L01IB7,INF336L01IC5,Open Ended Schemes,Other Scheme - FoF Domestic,32.1707,19-Jun-2026
 129210,Sundaram Mutual Fund,Sundaram Infrastructure Advantage Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW),INF903J01F76,INF903J01F84,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,60.0964,19-Jun-2026
 129211,Sundaram Mutual Fund,Sundaram Infrastructure Advantage Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW),INF903J01G00,INF903J01G18,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,64.9196,19-Jun-2026
 129212,Sundaram Mutual Fund,Sundaram Infrastructure Advantage Fund Direct Plan - Growth,INF903J01F92,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,112.7525,19-Jun-2026
@@ -4658,10 +4658,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 132979,ICICI Prudential Mutual Fund,ICICI Prudential Blended Plan B - option I-Bonus,INF109KA1392,,Open Ended Schemes,Income,11.9703,07-Oct-2016
 132981,ICICI Prudential Mutual Fund,ICICI Prudential Medium Term Bond Fund - Annual IDCW,INF109KA12G3,INF109KA13G1,Open Ended Schemes,Debt Scheme - Medium Duration Fund,12.9357,16-Sep-2022
 132982,ICICI Prudential Mutual Fund,ICICI Prudential Medium Term Bond Fund -Direct Plan - Annual IDCW,INF109KA10G7,INF109KA11G5,Open Ended Schemes,Debt Scheme - Medium Duration Fund,14.3488,16-Sep-2022
-132987,Franklin Templeton Mutual Fund,Franklin India Income Plus Arbitrage Active Fund of Funds- Growth Plan,INF090I01LE4,,Open Ended Schemes,Other Scheme - FoF Domestic,22.1095,18-Jun-2026
-132988,Franklin Templeton Mutual Fund,Franklin India Income Plus Arbitrage Active Fund of Funds- IDCW,INF090I01LF1,INF090I01LG9,Open Ended Schemes,Other Scheme - FoF Domestic,22.1095,18-Jun-2026
-132989,Franklin Templeton Mutual Fund,Franklin India Income Plus Arbitrage Active Fund of Funds- Growth Plan - Direct,INF090I01LH7,,Open Ended Schemes,Other Scheme - FoF Domestic,25.0109,18-Jun-2026
-132990,Franklin Templeton Mutual Fund,Franklin India Income Plus Arbitrage Active Fund of Funds - Direct - IDCW,INF090I01LI5,INF090I01LJ3,Open Ended Schemes,Other Scheme - FoF Domestic,25.0109,18-Jun-2026
+132987,Franklin Templeton Mutual Fund,Franklin India Income Plus Arbitrage Active Fund of Funds- Growth Plan,INF090I01LE4,,Open Ended Schemes,Other Scheme - FoF Domestic,22.1182,19-Jun-2026
+132988,Franklin Templeton Mutual Fund,Franklin India Income Plus Arbitrage Active Fund of Funds- IDCW,INF090I01LF1,INF090I01LG9,Open Ended Schemes,Other Scheme - FoF Domestic,22.1182,19-Jun-2026
+132989,Franklin Templeton Mutual Fund,Franklin India Income Plus Arbitrage Active Fund of Funds- Growth Plan - Direct,INF090I01LH7,,Open Ended Schemes,Other Scheme - FoF Domestic,25.0209,19-Jun-2026
+132990,Franklin Templeton Mutual Fund,Franklin India Income Plus Arbitrage Active Fund of Funds - Direct - IDCW,INF090I01LI5,INF090I01LJ3,Open Ended Schemes,Other Scheme - FoF Domestic,25.0209,19-Jun-2026
 132995,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Equity Savings Fund - Direct Plan - Growth,INF209KA1TP9,,Open Ended Schemes,Hybrid Scheme - Equity Savings,25.69,19-Jun-2026
 132996,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Equity Savings Fund - Direct - IDCW,INF209KA1TQ7,INF209KA1TR5,Open Ended Schemes,Hybrid Scheme - Equity Savings,15.61,19-Jun-2026
 132997,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Equity Savings Fund - Regular - IDCW,INF209KA1TT1,INF209KA1TU9,Open Ended Schemes,Hybrid Scheme - Equity Savings,13.21,19-Jun-2026
@@ -6454,8 +6454,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 141049,Kotak Mahindra Mutual Fund,Kotak FMP Series 202-Regular Plan-Growth Option,INF174K019M2,,Close Ended Schemes,Income,12.30124559,14-May-2020
 141060,Quantum Mutual Fund,Quantum Dynamic Bond Fund - Regular Plan Monthly IDCW,INF082J01226,INF082J01234,Open Ended Schemes,Debt Scheme - Dynamic Bond,10.3990,19-Jun-2026
 141061,Quantum Mutual Fund,Quantum Dynamic Bond Fund - Regular Plan Growth Option,INF082J01218,,Open Ended Schemes,Debt Scheme - Dynamic Bond,22.1248,19-Jun-2026
-141062,Quantum Mutual Fund,Quantum Diversified Equity All Cap Active FOF - Regular Plan IDCW,INF082J01283,INF082J01291,Open Ended Schemes,Other Scheme - FoF Domestic,83.188,18-Jun-2026
-141063,Quantum Mutual Fund,Quantum Diversified Equity All Cap Active FOF - Regular Plan Growth Option,INF082J01275,,Open Ended Schemes,Other Scheme - FoF Domestic,83.400,18-Jun-2026
+141062,Quantum Mutual Fund,Quantum Diversified Equity All Cap Active FOF - Regular Plan IDCW,INF082J01283,INF082J01291,Open Ended Schemes,Other Scheme - FoF Domestic,83.069,19-Jun-2026
+141063,Quantum Mutual Fund,Quantum Diversified Equity All Cap Active FOF - Regular Plan Growth Option,INF082J01275,,Open Ended Schemes,Other Scheme - FoF Domestic,83.281,19-Jun-2026
 141064,Quantum Mutual Fund,Quantum Gold Savings Fund - Regular Plan Growth Option,INF082J01358,,Open Ended Schemes,Other Scheme - FoF Domestic,54.6072,19-Jun-2026
 141065,Quantum Mutual Fund,Quantum Liquid Fund - Regular Plan Daily IDCW,,INF082J01317,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0002,21-Jun-2026
 141066,Quantum Mutual Fund,Quantum Liquid Fund - Regular Plan Growth Option,INF082J01309,,Open Ended Schemes,Debt Scheme - Liquid Fund,36.9289,21-Jun-2026
@@ -6464,7 +6464,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 141069,Quantum Mutual Fund,Quantum Value Fund - Regular Plan IDCW,INF082J01259,INF082J01267,Open Ended Schemes,Equity Scheme - Value Fund,118.04,19-Jun-2026
 141070,Quantum Mutual Fund,Quantum ELSS Tax Saver Fund - Regular Plan Growth Option,INF082J01366,,Open Ended Schemes,Equity Scheme - ELSS,117.46,19-Jun-2026
 141071,Quantum Mutual Fund,Quantum ELSS Tax Saver Fund - Regular Plan IDCW,INF082J01374,,Open Ended Schemes,Equity Scheme - ELSS,116.66,19-Jun-2026
-141072,Quantum Mutual Fund,Quantum Multi Asset Active FOF - Regular Plan Growth Option,INF082J01341,,Open Ended Schemes,Other Scheme - FoF Domestic,36.1643,18-Jun-2026
+141072,Quantum Mutual Fund,Quantum Multi Asset Active FOF - Regular Plan Growth Option,INF082J01341,,Open Ended Schemes,Other Scheme - FoF Domestic,35.9675,19-Jun-2026
 141089,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 80 - 1125 Days Plan S - Cumulative Option,INF109KB1Y09,,Close Ended Schemes,Income,12.6735,27-Apr-2020
 141090,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 80 - 1125 Days Plan S - Direct Plan - Cumulative Option,INF109KB1Y25,,Close Ended Schemes,Income,12.7790,27-Apr-2020
 141091,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 80 - 1125 Days Plan S - Direct Plan - Dividend Option,INF109KB1Y33,,Close Ended Schemes,Income,12.7790,27-Apr-2020
@@ -9104,10 +9104,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 147328,UTI Mutual Fund,UTI - Fixed Term Income Fund Series XXXI-XV (1099 Days) - Regular Plan - Growth Option,INF789F1ALE6,,Close Ended Schemes,Income,12.4187,07-Jun-2022
 147329,UTI Mutual Fund,UTI Fixed Term Income Fund Series XXXI-XV (1099 Days) - Regular Plan - Annual IDCW,INF789F1ALG1,,Close Ended Schemes,Income,10,07-Jun-2022
 147330,UTI Mutual Fund,UTI Fixed Term Income Fund Series XXXI-XV (1099 Days) - Regular Plan - Quarterly IDCW,INF789F1ALF3,,Close Ended Schemes,Income,10,07-Jun-2022
-147345,ICICI Prudential Mutual Fund,ICICI Prudential MNC Fund - Growth Option,INF109KC1D69,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,29.77,18-Jun-2026
-147346,ICICI Prudential Mutual Fund,ICICI Prudential MNC Fund - Direct Plan - Growth Option,INF109KC1D93,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,32.53,18-Jun-2026
-147347,ICICI Prudential Mutual Fund,ICICI Prudential MNC Fund - Direct Plan - IDCW Option,INF109KC1E01,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,19.51,18-Jun-2026
-147348,ICICI Prudential Mutual Fund,ICICI Prudential MNC Fund - IDCW Option,INF109KC1D77,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,17.18,18-Jun-2026
+147345,ICICI Prudential Mutual Fund,ICICI Prudential MNC Fund - Growth Option,INF109KC1D69,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,29.80,19-Jun-2026
+147346,ICICI Prudential Mutual Fund,ICICI Prudential MNC Fund - Direct Plan - Growth Option,INF109KC1D93,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,32.56,19-Jun-2026
+147347,ICICI Prudential Mutual Fund,ICICI Prudential MNC Fund - Direct Plan - IDCW Option,INF109KC1E01,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,19.53,19-Jun-2026
+147348,ICICI Prudential Mutual Fund,ICICI Prudential MNC Fund - IDCW Option,INF109KC1D77,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,17.20,19-Jun-2026
 147351,Nippon India Mutual Fund,Nippon India Fixed Horizon Fund XLI - Series 10 - Growth Option,INF204KB13C7,,Close Ended Schemes,Income,12.7570,30-Jun-2022
 147352,Nippon India Mutual Fund,NIPPON INDIA FIXED HORIZON FUND - XLI - SERIES 10 - DIRECT Plan - IDCW Option,INF204KB16C0,,Close Ended Schemes,Income,12.9724,30-Jun-2022
 147353,Nippon India Mutual Fund,Nippon India Fixed Horizon Fund XLI - Series 10 - Direct Plan - Growth Option,INF204KB15C2,,Close Ended Schemes,Income,12.9724,30-Jun-2022
@@ -9272,10 +9272,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 147658,UTI Mutual Fund,UTI - Credit Risk Fund (Segregated - 13092019) - Regular Plan - Half Yearly Dividend Option,INF789F1AMY2,INF789F1AMZ9,Open Ended Schemes,Debt Scheme - Credit Risk Fund,0,10-Mar-2022
 147659,UTI Mutual Fund,UTI - Credit Risk Fund (Segregated - 13092019) - Direct Plan - Annual Dividend Option,INF789F1AML9,INF789F1AMM7,Open Ended Schemes,Debt Scheme - Credit Risk Fund,0,10-Mar-2022
 147660,UTI Mutual Fund,UTI - Credit Risk Fund (Segregated - 13092019) - Direct Plan - Half Yearly Dividend Option,INF789F1AMN5,INF789F1AMO3,Open Ended Schemes,Debt Scheme - Credit Risk Fund,0,10-Mar-2022
-147661,ICICI Prudential Mutual Fund,ICICI Prudential Commodities Fund - Growth Option,INF109KC1F67,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,47.52,18-Jun-2026
-147662,ICICI Prudential Mutual Fund,ICICI Prudential Commodities Fund - Direct Plan - Growth Option,INF109KC1F91,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,51.77,18-Jun-2026
-147663,ICICI Prudential Mutual Fund,ICICI Prudential Commodities Fund - IDCW Option,INF109KC1F75,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,30.55,18-Jun-2026
-147664,ICICI Prudential Mutual Fund,ICICI Prudential Commodities Fund - Direct Plan - IDCW Option,INF109KC1G09,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,34.32,18-Jun-2026
+147661,ICICI Prudential Mutual Fund,ICICI Prudential Commodities Fund - Growth Option,INF109KC1F67,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,47.47,19-Jun-2026
+147662,ICICI Prudential Mutual Fund,ICICI Prudential Commodities Fund - Direct Plan - Growth Option,INF109KC1F91,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,51.71,19-Jun-2026
+147663,ICICI Prudential Mutual Fund,ICICI Prudential Commodities Fund - IDCW Option,INF109KC1F75,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,30.52,19-Jun-2026
+147664,ICICI Prudential Mutual Fund,ICICI Prudential Commodities Fund - Direct Plan - IDCW Option,INF109KC1G09,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,34.28,19-Jun-2026
 147665,Axis Mutual Fund,Axis Nifty 100 Index Fund - Regular Plan - Growth Option,INF846K01S52,,Open Ended Schemes,Other Scheme - Index Funds,21.3264,19-Jun-2026
 147666,Axis Mutual Fund,Axis Nifty 100 Index Fund - Direct Plan - Growth Option,INF846K01S29,,Open Ended Schemes,Other Scheme - Index Funds,22.4419,19-Jun-2026
 147667,Axis Mutual Fund,Axis Nifty 100 Index Fund - Regular Plan - IDCW,INF846K01S60,INF846K01S78,Open Ended Schemes,Other Scheme - Index Funds,20.2278,19-Jun-2026
@@ -9742,8 +9742,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 148352,ITI Mutual Fund,ITI Large Cap Fund - Direct Plan - IDCW Option,INF00XX01812,INF00XX01820,Open Ended Schemes,Equity Scheme - Large Cap Fund,18.1961,19-Jun-2026
 148353,ITI Mutual Fund,ITI Large Cap Fund - Direct Plan - Growth Option,INF00XX01804,,Open Ended Schemes,Equity Scheme - Large Cap Fund,19.1725,19-Jun-2026
 148354,ITI Mutual Fund,ITI Large Cap Fund - Regular Plan - IDCW Option,INF00XX01788,INF00XX01796,Open Ended Schemes,Equity Scheme - Large Cap Fund,16.2019,19-Jun-2026
-148381,Motilal Oswal Mutual Fund,Motilal Oswal S&P 500 Index Fund - Direct Plan Growth,INF247L01AG2,,Open Ended Schemes,Other Scheme - Index Funds,32.6303,18-Jun-2026
-148382,Motilal Oswal Mutual Fund,Motilal Oswal S&P 500 Index Fund - Regular Plan Growth,INF247L01AH0,,Open Ended Schemes,Other Scheme - Index Funds,31.4993,18-Jun-2026
+148381,Motilal Oswal Mutual Fund,Motilal Oswal S&P 500 Index Fund - Direct Plan Growth,INF247L01AG2,,Open Ended Schemes,Other Scheme - Index Funds,32.6255,19-Jun-2026
+148382,Motilal Oswal Mutual Fund,Motilal Oswal S&P 500 Index Fund - Regular Plan Growth,INF247L01AH0,,Open Ended Schemes,Other Scheme - Index Funds,31.4942,19-Jun-2026
 148387,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Direct Plan - Growth,INF200KA1Q73,,Close Ended Schemes,Income,14.7809,19-Jun-2026
 148388,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1Q81,,Close Ended Schemes,Income,14.7809,19-Jun-2026
 148389,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Regular Plan - Growth,INF200KA1Q57,,Close Ended Schemes,Income,14.5784,19-Jun-2026
@@ -9939,10 +9939,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 148646,Kotak Mahindra Mutual Fund,Kotak International REIT Overseas Equity Omni FOF - Direct Plan - Growth,INF174KA1FO2,,Open Ended Schemes,Other Scheme - FoF Overseas,12.1399,18-Jun-2026
 148647,Kotak Mahindra Mutual Fund,Kotak International REIT Overseas Equity Omni FOF - Regular Plan - Payout of Income Distribution cum capital withdrawal option,INF174KA1FK0,INF174KA1FM6,Open Ended Schemes,Other Scheme - FoF Overseas,11.5626,18-Jun-2026
 148649,Kotak Mahindra Mutual Fund,Kotak International REIT Overseas Equity Omni FOF - Direct Plan - Payout of Income Distribution cum capital withdrawal option,INF174KA1FN4,INF174KA1FP9,Open Ended Schemes,Other Scheme - FoF Overseas,12.1399,18-Jun-2026
-148651,ICICI Prudential Mutual Fund,ICICI Prudential Business Cycle Fund Direct Plan Growth,INF109KC1P24,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,26.57,18-Jun-2026
-148652,ICICI Prudential Mutual Fund,ICICI Prudential Business Cycle Fund Direct Plan IDCW,INF109KC1P40,INF109KC1P32,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,19.35,18-Jun-2026
-148653,ICICI Prudential Mutual Fund,ICICI Prudential Business Cycle Fund Growth,INF109KC1O90,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,24.95,18-Jun-2026
-148654,ICICI Prudential Mutual Fund,ICICI Prudential Business Cycle Fund IDCW,INF109KC1P16,INF109KC1P08,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,17.83,18-Jun-2026
+148651,ICICI Prudential Mutual Fund,ICICI Prudential Business Cycle Fund Direct Plan Growth,INF109KC1P24,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,26.47,19-Jun-2026
+148652,ICICI Prudential Mutual Fund,ICICI Prudential Business Cycle Fund Direct Plan IDCW,INF109KC1P40,INF109KC1P32,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,19.27,19-Jun-2026
+148653,ICICI Prudential Mutual Fund,ICICI Prudential Business Cycle Fund Growth,INF109KC1O90,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,24.85,19-Jun-2026
+148654,ICICI Prudential Mutual Fund,ICICI Prudential Business Cycle Fund IDCW,INF109KC1P16,INF109KC1P08,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,17.76,19-Jun-2026
 148657,PGIM India Mutual Fund,PGIM India Balanced Advantage Fund - Regular Plan - Growth Option,INF663L01V72,,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage,15.01,19-Jun-2026
 148658,PGIM India Mutual Fund,PGIM India Balanced Advantage Fund -  Direct Plan - Growth Option,INF663L01V49,,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage,16.48,19-Jun-2026
 148659,PGIM India Mutual Fund,PGIM India Balanced Advantage Fund - Direct Plan - Dividend Option,INF663L01V56,INF663L01V64,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage,10.86,19-Jun-2026
@@ -10009,10 +10009,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 148744,Kotak Mahindra Mutual Fund,Kotak Nifty Next 50 Index Fund - Regular Plan - Payout of Income Distribution cum capital withdrawal option,INF174KA1FW5,INF174KA1FY1,Open Ended Schemes,Other Scheme - Index Funds,20.6181,19-Jun-2026
 148745,Kotak Mahindra Mutual Fund,Kotak Nifty Next 50 Index Fund - Direct Plan - Growth Option,INF174KA1GA9,,Open Ended Schemes,Other Scheme - Index Funds,21.1665,19-Jun-2026
 148746,Kotak Mahindra Mutual Fund,Kotak Nifty Next 50 Index Fund - Direct Plan -Payout of Income Distribution cum capital withdrawal option,INF174KA1FZ8,INF174KA1GB7,Open Ended Schemes,Other Scheme - Index Funds,21.1662,19-Jun-2026
-148747,Motilal Oswal Mutual Fund,Motilal Oswal Asset Allocation FOF- A- Direct Growth,INF247L01AL2,,Open Ended Schemes,Other Scheme - FoF Domestic,20.0012,18-Jun-2026
-148748,Motilal Oswal Mutual Fund,Motilal Oswal Asset Allocation FOF- A- Regular Growth,INF247L01AM0,,Open Ended Schemes,Other Scheme - FoF Domestic,19.4654,18-Jun-2026
-148749,Motilal Oswal Mutual Fund,Motilal Oswal Asset Allocation FOF- C- Regular Growth,INF247L01AO6,,Open Ended Schemes,Other Scheme - FoF Domestic,17.4034,18-Jun-2026
-148750,Motilal Oswal Mutual Fund,Motilal Oswal Asset Allocation FOF- C- Direct Growth,INF247L01AN8,,Open Ended Schemes,Other Scheme - FoF Domestic,17.8823,18-Jun-2026
+148747,Motilal Oswal Mutual Fund,Motilal Oswal Asset Allocation FOF- A- Direct Growth,INF247L01AL2,,Open Ended Schemes,Other Scheme - FoF Domestic,19.9172,19-Jun-2026
+148748,Motilal Oswal Mutual Fund,Motilal Oswal Asset Allocation FOF- A- Regular Growth,INF247L01AM0,,Open Ended Schemes,Other Scheme - FoF Domestic,19.3834,19-Jun-2026
+148749,Motilal Oswal Mutual Fund,Motilal Oswal Asset Allocation FOF- C- Regular Growth,INF247L01AO6,,Open Ended Schemes,Other Scheme - FoF Domestic,17.3255,19-Jun-2026
+148750,Motilal Oswal Mutual Fund,Motilal Oswal Asset Allocation FOF- C- Direct Growth,INF247L01AN8,,Open Ended Schemes,Other Scheme - FoF Domestic,17.8026,19-Jun-2026
 148751,Invesco Mutual Fund,Invesco India ESG Integration Strategy Fund - Direct Plan - Growth,INF205KA1338,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,17.84,19-Jun-2026
 148752,Invesco Mutual Fund,Invesco India ESG Integration Strategy Fund - Direct Plan - IDCW (Payout / Reinvestment),INF205KA1320,INF205KA1346,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,14.55,19-Jun-2026
 148753,Invesco Mutual Fund,Invesco India ESG Integration Strategy Fund - Regular Plan - Growth,INF205KA1304,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,16.44,19-Jun-2026
@@ -10497,7 +10497,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 149431,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 57 (1835 Days) - Direct Plan - Growth,INF200KA14C5,,Close Ended Schemes,Income,13.1194,19-Jun-2026
 149432,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 57 (1835 Days) - Regular Plan - Growth,INF200KA12C9,,Close Ended Schemes,Income,13.0495,19-Jun-2026
 149433,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 57 (1835 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA13C7,,Close Ended Schemes,Income,13.0498,19-Jun-2026
-149438,Motilal Oswal Mutual Fund,Motilal Oswal Nasdaq Q50 ETF,INF247L01AU3,,Open Ended Schemes,Other Scheme - Other  ETFs,120.4717,18-Jun-2026
+149438,Motilal Oswal Mutual Fund,Motilal Oswal Nasdaq Q50 ETF,INF247L01AU3,,Open Ended Schemes,Other Scheme - Other  ETFs,120.4542,19-Jun-2026
 149439,ICICI Prudential Mutual Fund,ICICI Prudential Passive Multi-Asset Fund of Funds - Growth,INF109KC1X81,,Open Ended Schemes,Other Scheme - FoF Domestic,16.5235,18-Jun-2026
 149440,ICICI Prudential Mutual Fund,ICICI Prudential Passive Multi-Asset Fund of Funds - IDCW,INF109KC1X99,INF109KC1Y07,Open Ended Schemes,Other Scheme - FoF Domestic,16.5236,18-Jun-2026
 149441,ICICI Prudential Mutual Fund,ICICI Prudential Passive Multi-Asset Fund of Funds - Direct Plan - Growth,INF109KC1Y15,,Open Ended Schemes,Other Scheme - FoF Domestic,16.8426,18-Jun-2026
@@ -10934,8 +10934,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 150386,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Flexi Cap Fund - Regular Plan - IDCW Option,INF251K01QX7,INF251K01QY5,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,13.1558,19-Jun-2026
 150387,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Flexi Cap Fund - Direct Plan - Growth Option,INF251K01QZ2,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,16.6111,19-Jun-2026
 150388,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Flexi Cap Fund - Direct Plan - IDCW Option,INF251K01RA3,INF251K01RB1,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,13.8728,19-Jun-2026
-150389,Quantum Mutual Fund,Quantum Nifty 50 ETF Fund of Fund - Regular Plan - Growth,INF082J01424,,Open Ended Schemes,Other Scheme - FoF Domestic,14.2784,18-Jun-2026
-150390,Quantum Mutual Fund,Quantum Nifty 50 ETF Fund of Fund - Direct Plan - Growth,INF082J01416,,Open Ended Schemes,Other Scheme - FoF Domestic,14.3450,18-Jun-2026
+150389,Quantum Mutual Fund,Quantum Nifty 50 ETF Fund of Fund - Regular Plan - Growth,INF082J01424,,Open Ended Schemes,Other Scheme - FoF Domestic,14.1976,19-Jun-2026
+150390,Quantum Mutual Fund,Quantum Nifty 50 ETF Fund of Fund - Direct Plan - Growth,INF082J01416,,Open Ended Schemes,Other Scheme - FoF Domestic,14.2638,19-Jun-2026
 150391,LIC Mutual Fund,LIC MF Money Market Fund-Direct Plan-IDCW,INF767K01RF7,INF767K01RG5,Open Ended Schemes,Debt Scheme - Money Market Fund,1279.8917,19-Jun-2026
 150392,LIC Mutual Fund,LIC MF Money Market Fund-Direct Plan-Growth,INF767K01RE0,,Open Ended Schemes,Debt Scheme - Money Market Fund,1279.8917,19-Jun-2026
 150393,LIC Mutual Fund,LIC MF Money Market Fund-Regular Plan-Growth,INF767K01RB6,,Open Ended Schemes,Debt Scheme - Money Market Fund,1260.9014,19-Jun-2026
@@ -11086,8 +11086,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 150591,Bandhan Mutual Fund,BANDHAN NIFTY200 MOMENTUM 30 INDEX FUND - GROWTH - DIRECT PLAN,INF194KB1DP9,,Open Ended Schemes,Other Scheme - Index Funds,15.9679,19-Jun-2026
 150592,Bandhan Mutual Fund,BANDHAN NIFTY200 MOMENTUM 30 INDEX FUND - GROWTH - REGULAR PLAN,INF194KB1DS3,,Open Ended Schemes,Other Scheme - Index Funds,15.5953,19-Jun-2026
 150593,Bandhan Mutual Fund,BANDHAN NIFTY200 MOMENTUM 30 INDEX FUND - IDCW - REGULAR PLAN,INF194KB1DT1,INF194KB1DU9,Open Ended Schemes,Other Scheme - Index Funds,15.5948,19-Jun-2026
-150594,Mirae Asset Mutual Fund,Mirae Asset Global Electric & Autonomous Vehicles Equity Passive FOF - Regular Plan - Growth,INF769K01IP1,,Open Ended Schemes,Other Scheme - FoF Overseas,18.343,18-Jun-2026
-150595,Mirae Asset Mutual Fund,Mirae Asset Global Electric & Autonomous Vehicles Equity Passive FOF - Direct Plan - Growth,INF769K01IQ9,,Open Ended Schemes,Other Scheme - FoF Overseas,18.624,18-Jun-2026
+150594,Mirae Asset Mutual Fund,Mirae Asset Global Electric & Autonomous Vehicles Equity Passive FOF - Regular Plan - Growth,INF769K01IP1,,Open Ended Schemes,Other Scheme - FoF Overseas,18.385,19-Jun-2026
+150595,Mirae Asset Mutual Fund,Mirae Asset Global Electric & Autonomous Vehicles Equity Passive FOF - Direct Plan - Growth,INF769K01IQ9,,Open Ended Schemes,Other Scheme - FoF Overseas,18.667,19-Jun-2026
 150596,Mirae Asset Mutual Fund,Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Regular Plan - Growth,INF769K01IR7,,Open Ended Schemes,Other Scheme - FoF Overseas,36.757,18-Jun-2026
 150597,Mirae Asset Mutual Fund,Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Direct Plan- Growth,INF769K01IS5,,Open Ended Schemes,Other Scheme - FoF Overseas,36.981,18-Jun-2026
 150598,Kotak Mahindra Mutual Fund,Kotak FMP Series 296-Regular Plan-IDCW Payout,INF174KA1JH8,,Close Ended Schemes,Income,10.15854161,29-Nov-2022
@@ -11805,10 +11805,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 151575,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas NIFTY SDL December 2028 Index Fund - Direct Plan - IDCW Option,INF251K01RS5,INF251K01RT3,Open Ended Schemes,Other Scheme - Index Funds,11.9990,19-Jun-2026
 151576,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas NIFTY SDL December 2028 Index Fund - Regular Plan - Growth Option,INF251K01RO4,,Open Ended Schemes,Other Scheme - Index Funds,12.6641,19-Jun-2026
 151577,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil IBX Gilt Apr 2028 Index Fund-Direct Growth,INF209KB11U2,,Open Ended Schemes,Other Scheme - Index Funds,12.5734,19-Jun-2026
-151578,ICICI Prudential Mutual Fund,ICICI Prudential Innovation Fund - Direct Plan - IDCW,INF109KC13T0,INF109KC14T8,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,16.49,18-Jun-2026
-151579,ICICI Prudential Mutual Fund,ICICI Prudential Innovation Fund - Growth,INF109KC19S9,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,18.78,18-Jun-2026
-151580,ICICI Prudential Mutual Fund,ICICI Prudential Innovation Fund - Direct Plan - Growth,INF109KC12T2,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,19.47,18-Jun-2026
-151581,ICICI Prudential Mutual Fund,ICICI Prudential Innovation Fund - IDCW,INF109KC10T6,INF109KC11T4,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,15.83,18-Jun-2026
+151578,ICICI Prudential Mutual Fund,ICICI Prudential Innovation Fund - Direct Plan - IDCW,INF109KC13T0,INF109KC14T8,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,16.55,19-Jun-2026
+151579,ICICI Prudential Mutual Fund,ICICI Prudential Innovation Fund - Growth,INF109KC19S9,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,18.85,19-Jun-2026
+151580,ICICI Prudential Mutual Fund,ICICI Prudential Innovation Fund - Direct Plan - Growth,INF109KC12T2,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,19.54,19-Jun-2026
+151581,ICICI Prudential Mutual Fund,ICICI Prudential Innovation Fund - IDCW,INF109KC10T6,INF109KC11T4,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,15.89,19-Jun-2026
 151582,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil IBX Gilt Apr 2028 Index Fund-Regular IDCW,INF209KB10U4,,Open Ended Schemes,Other Scheme - Index Funds,12.468,19-Jun-2026
 151583,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil IBX Gilt Apr 2028 Index Fund-Regular Growth,INF209KB19T7,,Open Ended Schemes,Other Scheme - Index Funds,12.4687,19-Jun-2026
 151584,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil IBX Gilt Apr 2028 Index Fund-Direct IDCW,INF209KB12U0,,Open Ended Schemes,Other Scheme - Index Funds,12.5769,19-Jun-2026
@@ -12115,10 +12115,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 152060,HDFC Mutual Fund,HDFC Technology Fund - IDCW Option - Direct Plan,INF179KC1HJ1,INF179KC1HK9,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,11.138,19-Jun-2026
 152061,Navi Mutual Fund,NAVI BSE SENSEX INDEX FUND - REGULAR PLAN - GROWTH,INF959L01HJ1,,Open Ended Schemes,Other Scheme - Index Funds,11.7277,19-Jun-2026
 152062,Navi Mutual Fund,NAVI BSE SENSEX INDEX FUND - DIRECT PLAN - GROWTH,INF959L01HK9,,Open Ended Schemes,Other Scheme - Index Funds,11.952,19-Jun-2026
-152063,Kotak Mahindra Mutual Fund,Kotak Multi Asset Allocation Fund - Direct Plan - IDCW Option,INF174KA1PE2,INF174KA1PF9,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,15.813,18-Jun-2026
-152064,Kotak Mahindra Mutual Fund,Kotak Multi Asset Allocation Fund - Direct Plan - Growth Option,INF174KA1PD4,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,16.469,18-Jun-2026
-152065,Kotak Mahindra Mutual Fund,Kotak Multi Asset Allocation Fund - Regular Plan - Growth Option,INF174KA1PA0,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,15.868,18-Jun-2026
-152066,Kotak Mahindra Mutual Fund,Kotak Multi Asset Allocation Fund - Regular Plan - IDCW Option,INF174KA1PB8,INF174KA1PC6,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,15.237,18-Jun-2026
+152063,Kotak Mahindra Mutual Fund,Kotak Multi Asset Allocation Fund - Direct Plan - IDCW Option,INF174KA1PE2,INF174KA1PF9,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,15.76,19-Jun-2026
+152064,Kotak Mahindra Mutual Fund,Kotak Multi Asset Allocation Fund - Direct Plan - Growth Option,INF174KA1PD4,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,16.414,19-Jun-2026
+152065,Kotak Mahindra Mutual Fund,Kotak Multi Asset Allocation Fund - Regular Plan - Growth Option,INF174KA1PA0,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,15.815,19-Jun-2026
+152066,Kotak Mahindra Mutual Fund,Kotak Multi Asset Allocation Fund - Regular Plan - IDCW Option,INF174KA1PB8,INF174KA1PC6,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,15.186,19-Jun-2026
 152067,quant Mutual Fund,quant Teck Fund - Growth Option - Direct Plan,INF966L01CT6,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,11.3401,19-Jun-2026
 152068,quant Mutual Fund,quant Teck Fund - IDCW Option - Direct Plan,INF966L01CU4,INF966L01CV2,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,11.3341,19-Jun-2026
 152069,quant Mutual Fund,quant Teck Fund - IDCW Option - Regular Plan,INF966L01CR0,INF966L01CS8,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,10.8528,19-Jun-2026
@@ -12141,8 +12141,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 152087,UTI Mutual Fund,UTI Innovation Fund - Direct Plan - Growth Option,INF789F1AZA4,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,11.3539,19-Jun-2026
 152088,UTI Mutual Fund,UTI Innovation Fund - Regular Plan - Payout of IDCW Option,INF789F1AYZ4,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,10.9301,19-Jun-2026
 152089,UTI Mutual Fund,UTI Innovation Fund - Direct Plan - Payout of IDCW Option,INF789F1AZB2,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,11.3539,19-Jun-2026
-152090,Motilal Oswal Mutual Fund,Motilal Oswal Developed Market Ex US ETFs Fund of Funds Direct Plan Growth,INF247L01BT3,,Open Ended Schemes,Other Scheme - FoF Overseas,18.3799,18-Jun-2026
-152091,Motilal Oswal Mutual Fund,Motilal Oswal Developed Market Ex US ETFs Fund of Funds Regular Plan Growth,INF247L01BS5,,Open Ended Schemes,Other Scheme - FoF Overseas,18.1248,18-Jun-2026
+152090,Motilal Oswal Mutual Fund,Motilal Oswal Developed Market Ex US ETFs Fund of Funds Direct Plan Growth,INF247L01BT3,,Open Ended Schemes,Other Scheme - FoF Overseas,18.3774,19-Jun-2026
+152091,Motilal Oswal Mutual Fund,Motilal Oswal Developed Market Ex US ETFs Fund of Funds Regular Plan Growth,INF247L01BS5,,Open Ended Schemes,Other Scheme - FoF Overseas,18.1222,19-Jun-2026
 152092,Groww Mutual Fund,Groww Nifty Total Market Index Fund - Direct Plan - Growth,INF666M01HM4,,Open Ended Schemes,Other Scheme - Index Funds,13.9179,19-Jun-2026
 152093,Edelweiss Mutual Fund,Edelweiss Multi Cap Fund - Direct Plan - IDCW,INF754K01SA4,INF754K01SB2,Open Ended Schemes,Equity Scheme - Multi Cap Fund,16.1567,19-Jun-2026
 152094,Edelweiss Mutual Fund,Edelweiss Multi Cap Fund - Direct Plan - Growth,INF754K01SD8,,Open Ended Schemes,Equity Scheme - Multi Cap Fund,16.1567,19-Jun-2026
@@ -12472,7 +12472,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 152473,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Innovation Fund Regular plan - IDCW Option,INF251K01TC5,INF251K01TD3,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,12.9759,19-Jun-2026
 152474,Quantum Mutual Fund,Quantum Multi Asset Allocation Fund - Direct Plan Growth Option,INF082J01457,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,12.16,19-Jun-2026
 152475,Quantum Mutual Fund,Quantum Multi Asset Allocation Fund - Regular Plan Growth Option,INF082J01465,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,11.72,19-Jun-2026
-152476,Zerodha Mutual Fund,Zerodha Gold ETF,INF0R8F01042,,Open Ended Schemes,Other Scheme - Gold ETF,23.1602,18-Jun-2026
+152476,Zerodha Mutual Fund,Zerodha Gold ETF,INF0R8F01042,,Open Ended Schemes,Other Scheme - Gold ETF,22.6850,19-Jun-2026
 152481,ICICI Prudential Mutual Fund,ICICI Prudential Nifty LargeMidcap 250 Index Fund - Growth,INF109KC15U3,,Open Ended Schemes,Other Scheme - Index Funds,12.3182,19-Jun-2026
 152482,ICICI Prudential Mutual Fund,ICICI Prudential Nifty LargeMidcap 250 Index Fund - Direct Plan - Growth,INF109KC12U0,,Open Ended Schemes,Other Scheme - Index Funds,12.4681,19-Jun-2026
 152483,ICICI Prudential Mutual Fund,ICICI Prudential Nifty LargeMidcap 250 Index Fund - Direct Plan - IDCW,INF109KC13U8,INF109KC14U6,Open Ended Schemes,Other Scheme - Index Funds,12.4681,19-Jun-2026
@@ -13021,8 +13021,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 153089,UTI Mutual Fund,UTI Nifty Midcap 150 Index Fund - Direct Plan - Growth Option,INF789F1AZO5,,Open Ended Schemes,Other Scheme - Index Funds,11.0139,19-Jun-2026
 153090,Samco Mutual Fund,Samco Arbitrage Fund - Direct Plan - Growth,INF0K1H01214,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,10.84,19-Jun-2026
 153091,Samco Mutual Fund,Samco Arbitrage Fund - Regular Plan - Growth,INF0K1H01222,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,10.66,19-Jun-2026
-153092,Samco Mutual Fund,Samco Multi Asset Allocation Fund - Direct Plan - Growth,INF0K1H01230,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,12.48,18-Jun-2026
-153093,Samco Mutual Fund,Samco Multi Asset Allocation Fund - Regular Plan - Growth,INF0K1H01248,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,12.18,18-Jun-2026
+153092,Samco Mutual Fund,Samco Multi Asset Allocation Fund - Direct Plan - Growth,INF0K1H01230,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,12.56,19-Jun-2026
+153093,Samco Mutual Fund,Samco Multi Asset Allocation Fund - Regular Plan - Growth,INF0K1H01248,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,12.25,19-Jun-2026
 153094,Quantum Mutual Fund,Quantum Ethical Fund - Direct Plan Growth Option,INF082J01473,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,9.78,19-Jun-2026
 153095,Quantum Mutual Fund,Quantum Ethical Fund - Regular Plan Growth Option,INF082J01481,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,9.58,19-Jun-2026
 153096,HDFC Mutual Fund,HDFC Nifty India Digital Index Fund - Growth Option - Regular,INF179KC1JA6,,Open Ended Schemes,Other Scheme - Index Funds,7.8577,19-Jun-2026
@@ -13329,7 +13329,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 153410,ICICI Prudential Mutual Fund,ICICI Prudential CRISIL-IBX Financial Services 3-6 Months Debt Index Fund - Direct Plan - Annual IDCW,INF109K1A070,INF109K1A088,Open Ended Schemes,Other Scheme - Index Funds,10.9003,19-Jun-2026
 153411,ICICI Prudential Mutual Fund,ICICI Prudential CRISIL-IBX Financial Services 3-6 Months Debt Index Fund - Direct Plan - Growth,INF109K1A062,,Open Ended Schemes,Other Scheme - Index Funds,10.9003,19-Jun-2026
 153412,ICICI Prudential Mutual Fund,ICICI Prudential CRISIL-IBX Financial Services 3-6 Months Debt Index Fund - Annual IDCW,INF109K1A054,INF109K1A047,Open Ended Schemes,Other Scheme - Index Funds,10.8808,19-Jun-2026
-153413,Zerodha Mutual Fund,Zerodha Silver ETF,INF0R8F01091,,Open Ended Schemes,Other Scheme - Other  ETFs,24.2696,18-Jun-2026
+153413,Zerodha Mutual Fund,Zerodha Silver ETF,INF0R8F01091,,Open Ended Schemes,Other Scheme - Other  ETFs,23.3331,19-Jun-2026
 153414,Axis Mutual Fund,Axis Nifty500 Value 50 ETF,INF846KA1119,,Open Ended Schemes,Other Scheme - Other  ETFs,33.8179,19-Jun-2026
 153415,360 ONE Mutual Fund,360 ONE Silver ETF,INF579M01BC3,,Open Ended Schemes,Other Scheme - Other  ETFs,226.2415,19-Jun-2026
 153416,Edelweiss Mutual Fund,Edelweiss Low Duration Fund - Direct Plan Growth,INF754K01UP8,,Open Ended Schemes,Debt Scheme - Low Duration Fund,1088.1622,19-Jun-2026
@@ -13692,10 +13692,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 153813,Mirae Asset Mutual Fund,Mirae Asset Gold Silver Passive FoF - Direct Plan - IDCW,INF769K01PO9,INF769K01PN1,Open Ended Schemes,Other Scheme - FoF Domestic,16.516,19-Jun-2026
 153814,Mirae Asset Mutual Fund,Mirae Asset Gold Silver Passive FoF - Regular Plan - Growth,INF769K01PP6,,Open Ended Schemes,Other Scheme - FoF Domestic,16.438,19-Jun-2026
 153815,Mirae Asset Mutual Fund,Mirae Asset Gold Silver Passive FoF - Regular Plan - IDCW,INF769K01PL5,INF769K01PK7,Open Ended Schemes,Other Scheme - FoF Domestic,16.434,19-Jun-2026
-153816,Mirae Asset Mutual Fund,Mirae Asset Multi Factor Passive FOF - Direct Plan - Growth,INF769K01PH3,,Open Ended Schemes,Other Scheme - FoF Domestic,10.814,18-Jun-2026
-153817,Mirae Asset Mutual Fund,Mirae Asset Multi Factor Passive FOF - Direct Plan - IDCW,INF769K01PJ9,INF769K01PI1,Open Ended Schemes,Other Scheme - FoF Domestic,10.811,18-Jun-2026
-153818,Mirae Asset Mutual Fund,Mirae Asset Multi Factor Passive FOF - Regular Plan - Growth,INF769K01PE0,,Open Ended Schemes,Other Scheme - FoF Domestic,10.767,18-Jun-2026
-153819,Mirae Asset Mutual Fund,Mirae Asset Multi Factor Passive FOF - Regular Plan - IDCW,INF769K01PG5,INF769K01PF7,Open Ended Schemes,Other Scheme - FoF Domestic,10.751,18-Jun-2026
+153816,Mirae Asset Mutual Fund,Mirae Asset Multi Factor Passive FOF - Direct Plan - Growth,INF769K01PH3,,Open Ended Schemes,Other Scheme - FoF Domestic,10.805,19-Jun-2026
+153817,Mirae Asset Mutual Fund,Mirae Asset Multi Factor Passive FOF - Direct Plan - IDCW,INF769K01PJ9,INF769K01PI1,Open Ended Schemes,Other Scheme - FoF Domestic,10.802,19-Jun-2026
+153818,Mirae Asset Mutual Fund,Mirae Asset Multi Factor Passive FOF - Regular Plan - Growth,INF769K01PE0,,Open Ended Schemes,Other Scheme - FoF Domestic,10.758,19-Jun-2026
+153819,Mirae Asset Mutual Fund,Mirae Asset Multi Factor Passive FOF - Regular Plan - IDCW,INF769K01PG5,INF769K01PF7,Open Ended Schemes,Other Scheme - FoF Domestic,10.742,19-Jun-2026
 153820,Motilal Oswal Mutual Fund,Motilal Oswal Silver ETF,INF247L01FZ1,,Open Ended Schemes,Other Scheme - Other  ETFs,227.3733,19-Jun-2026
 153821,Groww Mutual Fund,Groww Multi Asset Allocation Fund Direct Growth,INF666M01MA9,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,10.2324,19-Jun-2026
 153822,Union Mutual Fund,Union Diversified Equity All Cap Active FOF - Regular Plan - Growth Option,INF582M01LV6,,Open Ended Schemes,Other Scheme - FoF Domestic,10.4714,19-Jun-2026
@@ -13833,8 +13833,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 153961,Axis Mutual Fund,Axis Multi-Asset Active FoF - Direct Plan - IDCW,INF846KA1374,INF846KA1382,Open Ended Schemes,Other Scheme - FoF Domestic,10.5800,18-Jun-2026
 153962,Axis Mutual Fund,Axis Multi-Asset Active FoF - Regular Plan - IDCW,INF846KA1341,INF846KA1358,Open Ended Schemes,Other Scheme - FoF Domestic,10.5188,18-Jun-2026
 153963,Axis Mutual Fund,Axis Multi-Asset Active FoF - Regular Plan - Growth,INF846KA1333,,Open Ended Schemes,Other Scheme - FoF Domestic,10.5188,18-Jun-2026
-153964,PPFAS Mutual Fund,Parag Parikh Flexi Cap Fund - Direct Plan - IDCW,,INF879O01308,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,90.5219,18-Jun-2026
-153965,PPFAS Mutual Fund,Parag Parikh Flexi Cap Fund - Regular Plan - IDCW,,INF879O01324,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,82.5841,18-Jun-2026
+153964,PPFAS Mutual Fund,Parag Parikh Flexi Cap Fund - Direct Plan - IDCW,,INF879O01308,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,90.1403,19-Jun-2026
+153965,PPFAS Mutual Fund,Parag Parikh Flexi Cap Fund - Regular Plan - IDCW,,INF879O01324,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,82.2346,19-Jun-2026
 153966,Edelweiss Mutual Fund,Edelweiss Nifty 50 ETF - Growth,INF754K01VX0,,Open Ended Schemes,Other Scheme - Other  ETFs,24.1287,19-Jun-2026
 153967,Kotak Mahindra Mutual Fund,Kotak Rural Opportunities Fund - Direct Plan - IDCW Divdend - Payouout & Reinvestment,INF174KA1XX6,INF174KA1XY4,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,9.628,19-Jun-2026
 153968,Kotak Mahindra Mutual Fund,Kotak Rural Opportunities Fund - Regular Plan - IDCW Dividend - Payout & Reinvestment,INF174KA1YA2,INF174KA1YB0,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,9.544,19-Jun-2026
@@ -13888,7 +13888,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 154025,DSP Mutual Fund,DSP Nifty Midcap 150 ETF,INF740KA1WW5,,Open Ended Schemes,Other Scheme - Other  ETFs,22.9971,19-Jun-2026
 154026,Navi Mutual Fund,Navi Nifty Midsmall 400 Index Fund - Regular - Growth,INF959L01HS2,,Open Ended Schemes,Other Scheme - Index Funds,10.6122,19-Jun-2026
 154027,Navi Mutual Fund,Navi Nifty midsmallcap 400 Index Fund- Direct - Growth,INF959L01HR4,,Open Ended Schemes,Other Scheme - Index Funds,10.6592,19-Jun-2026
-154028,Groww Mutual Fund,Groww Multi Asset Omni FOF Direct Growth,INF666M01NC3,,Open Ended Schemes,Other Scheme - FoF Domestic,10.3079,18-Jun-2026
+154028,Groww Mutual Fund,Groww Multi Asset Omni FOF Direct Growth,INF666M01NC3,,Open Ended Schemes,Other Scheme - FoF Domestic,10.3036,19-Jun-2026
 154029,Kotak Mahindra Mutual Fund,Kotak Nifty500 Momentum 50 Index Fund - Direct Plan - IDCW - Payout & Investment,INF174KA1YD6,INF174KA1YE4,Open Ended Schemes,Other Scheme - Index Funds,10.263,19-Jun-2026
 154030,Kotak Mahindra Mutual Fund,Kotak Nifty500 Momentum 50 Index Fund - Regular Plan - Growth,INF174KA1YF1,,Open Ended Schemes,Other Scheme - Index Funds,10.245,19-Jun-2026
 154031,Kotak Mahindra Mutual Fund,Kotak Nifty500 Momentum 50 Index Fund - Regular Plan - IDCW - Payout & Reinvestment,INF174KA1YG9,INF174KA1YH7,Open Ended Schemes,Other Scheme - Index Funds,10.245,19-Jun-2026
@@ -13909,9 +13909,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 154054,Abakkus Mutual Fund,Abakkus Liquid Fund - Regular Plan - Quarterly IDCW Reinvestment,,INF2JJD01102,Open Ended Schemes,Debt Scheme - Liquid Fund,101.2678,19-Jun-2026
 154055,Abakkus Mutual Fund,Abakkus Liquid Fund - Direct Plan - Monthly IDCW Reinvestment,,INF2JJD01037,Open Ended Schemes,Debt Scheme - Liquid Fund,100.1356,19-Jun-2026
 154056,Abakkus Mutual Fund,Abakkus Liquid Fund - Regular Plan - Weekly IDCW Reinvestment,,INF2JJD01094,Open Ended Schemes,Debt Scheme - Liquid Fund,100.1364,19-Jun-2026
-154057,Groww Mutual Fund,Groww Multi Asset Omni FOF Regular Growth,INF666M01NF6,,Open Ended Schemes,Other Scheme - FoF Domestic,10.2513,18-Jun-2026
-154058,Groww Mutual Fund,Groww Multi Asset Omni FOF Direct IDCW,INF666M01ND1,INF666M01NE9,Open Ended Schemes,Other Scheme - FoF Domestic,10.3079,18-Jun-2026
-154059,Groww Mutual Fund,Groww Multi Asset Omni FOF Regular IDCW,INF666M01NG4,INF666M01NH2,Open Ended Schemes,Other Scheme - FoF Domestic,10.2513,18-Jun-2026
+154057,Groww Mutual Fund,Groww Multi Asset Omni FOF Regular Growth,INF666M01NF6,,Open Ended Schemes,Other Scheme - FoF Domestic,10.2467,19-Jun-2026
+154058,Groww Mutual Fund,Groww Multi Asset Omni FOF Direct IDCW,INF666M01ND1,INF666M01NE9,Open Ended Schemes,Other Scheme - FoF Domestic,10.3036,19-Jun-2026
+154059,Groww Mutual Fund,Groww Multi Asset Omni FOF Regular IDCW,INF666M01NG4,INF666M01NH2,Open Ended Schemes,Other Scheme - FoF Domestic,10.2467,19-Jun-2026
 154060,Mirae Asset Mutual Fund,Mirae Asset Nifty Top 20 Equal Weight ETF,INF769K01PZ5,,Open Ended Schemes,Other Scheme - Other  ETFs,8.6661,19-Jun-2026
 154061,Mirae Asset Mutual Fund,Mirae Asset BSE 500 Dividend Leaders 50 ETF,INF769K01PY8,,Open Ended Schemes,Other Scheme - Other  ETFs,35.3830,19-Jun-2026
 154062,Motilal Oswal Mutual Fund,Motilal Oswal Nifty MNC ETF,INF247L01GK1,,Open Ended Schemes,Other Scheme - Other  ETFs,32.5377,19-Jun-2026
@@ -13967,10 +13967,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 154120,Mahindra Manulife Mutual Fund,Mahindra Manulife Innovation Opportunities Fund - Regular - Growth,INF174V01CX8,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,10.8792,19-Jun-2026
 154121,Mahindra Manulife Mutual Fund,Mahindra Manulife Innovation Opportunities Fund - Direct - Growth,INF174V01DA4,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,10.9568,19-Jun-2026
 154122,Mahindra Manulife Mutual Fund,Mahindra Manulife Innovation Opportunities Fund - Direct - IDCW,INF174V01DC0,INF174V01DB2,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,10.9567,19-Jun-2026
-154123,Sundaram Mutual Fund,Sundaram Income Plus Arbitrage Active FoF Fund-Direct-Growth,INF903JA1LZ7,,Open Ended Schemes,Other Scheme - FoF Domestic,10.2623,18-Jun-2026
-154124,Sundaram Mutual Fund,Sundaram Income Plus Arbitrage Active FoF Fund-Direct-IDCW Payout,INF903JA1MA8,,Open Ended Schemes,Other Scheme - FoF Domestic,10.2623,18-Jun-2026
-154125,Sundaram Mutual Fund,Sundaram Income Plus Arbitrage Active FoF Fund-Regular-IDCW Payout,INF903JA1MD2,,Open Ended Schemes,Other Scheme - FoF Domestic,10.2504,18-Jun-2026
-154127,Sundaram Mutual Fund,Sundaram Income Plus Arbitrage Active FoF Fund-Regular-Growth,INF903JA1MC4,,Open Ended Schemes,Other Scheme - FoF Domestic,10.2504,18-Jun-2026
+154123,Sundaram Mutual Fund,Sundaram Income Plus Arbitrage Active FoF Fund-Direct-Growth,INF903JA1LZ7,,Open Ended Schemes,Other Scheme - FoF Domestic,10.2639,19-Jun-2026
+154124,Sundaram Mutual Fund,Sundaram Income Plus Arbitrage Active FoF Fund-Direct-IDCW Payout,INF903JA1MA8,,Open Ended Schemes,Other Scheme - FoF Domestic,10.2639,19-Jun-2026
+154125,Sundaram Mutual Fund,Sundaram Income Plus Arbitrage Active FoF Fund-Regular-IDCW Payout,INF903JA1MD2,,Open Ended Schemes,Other Scheme - FoF Domestic,10.2519,19-Jun-2026
+154127,Sundaram Mutual Fund,Sundaram Income Plus Arbitrage Active FoF Fund-Regular-Growth,INF903JA1MC4,,Open Ended Schemes,Other Scheme - FoF Domestic,10.2519,19-Jun-2026
 154129,Bandhan Mutual Fund,Bandhan Gold ETF FOF-Direct-Growth,INF194KB1KL3,,Open Ended Schemes,Other Scheme - FoF Domestic,9.4795,19-Jun-2026
 154130,Bandhan Mutual Fund,Bandhan Gold ETF FOF-Regular-Growth,INF194KB1KK5,,Open Ended Schemes,Other Scheme - FoF Domestic,9.4611,19-Jun-2026
 154131,The Wealth Company Mutual Fund,THE WEALTH COMPANY GOLD ETF FOF DIRECT GROWTH,INF2F0001412,,Open Ended Schemes,Other Scheme - FoF Domestic,9.2202,19-Jun-2026
@@ -14131,10 +14131,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 154292,Axis Mutual Fund,Axis Fixed Maturity Plan - Series 130 (92 Days) - Direct Plan - Growth,INF846KA1481,,Close Ended Schemes,Income,10.1820,11-Jun-2026
 154293,Axis Mutual Fund,Axis Fixed Maturity Plan - Series 130 (92 Days) - Direct Plan - IDCW,INF846KA1507,,Close Ended Schemes,Income,10.1820,11-Jun-2026
 154294,HSBC Mutual Fund,HSBC Gold ETF,INF336L01RX2,,Open Ended Schemes,Other Scheme - Gold ETF,125.4921,19-Jun-2026
-154295,HSBC Mutual Fund,HSBC Gold ETF Fund of fund - Direct Growth,INF336L01SB6,,Open Ended Schemes,Other Scheme - FoF Domestic,10.1594,18-Jun-2026
-154296,HSBC Mutual Fund,HSBC Gold ETF Fund of fund - Regular IDCW,INF336L01SA8,INF336L01RZ7,Open Ended Schemes,Other Scheme - FoF Domestic,10.1505,18-Jun-2026
-154297,HSBC Mutual Fund,HSBC Gold ETF Fund of fund - Direct IDCW,INF336L01SD2,INF336L01SC4,Open Ended Schemes,Other Scheme - FoF Domestic,10.1594,18-Jun-2026
-154298,HSBC Mutual Fund,HSBC Gold ETF Fund of fund - Regular Growth,INF336L01RY0,,Open Ended Schemes,Other Scheme - FoF Domestic,10.1505,18-Jun-2026
+154295,HSBC Mutual Fund,HSBC Gold ETF Fund of fund - Direct Growth,INF336L01SB6,,Open Ended Schemes,Other Scheme - FoF Domestic,9.9807,19-Jun-2026
+154296,HSBC Mutual Fund,HSBC Gold ETF Fund of fund - Regular IDCW,INF336L01SA8,INF336L01RZ7,Open Ended Schemes,Other Scheme - FoF Domestic,9.9718,19-Jun-2026
+154297,HSBC Mutual Fund,HSBC Gold ETF Fund of fund - Direct IDCW,INF336L01SD2,INF336L01SC4,Open Ended Schemes,Other Scheme - FoF Domestic,9.9807,19-Jun-2026
+154298,HSBC Mutual Fund,HSBC Gold ETF Fund of fund - Regular Growth,INF336L01RY0,,Open Ended Schemes,Other Scheme - FoF Domestic,9.9719,19-Jun-2026
 154299,Mirae Asset Mutual Fund,Mirae Asset Nifty 500 Value 50 ETF,INF769K01QV2,,Open Ended Schemes,Other Scheme - Other  ETFs,16.6087,19-Jun-2026
 154301,Choice Mutual Fund,Choice Nifty 50 Index Fund - Direct Plan Growth,INF2KCX01020,,Open Ended Schemes,Other Scheme - Index Funds,10.3769,19-Jun-2026
 154302,Choice Mutual Fund,Choice Nifty 50 Index Fund - Regular Plan Growth,INF2KCX01038,,Open Ended Schemes,Other Scheme - Index Funds,10.3707,19-Jun-2026
