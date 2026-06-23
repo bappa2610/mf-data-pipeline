@@ -5,10 +5,14 @@
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 120304,
         "scheme_name": "UTI-  Liquid Cash Plan - Direct Plan - Growth Option",
-        "isin_growth": "INF789F01XQ6",
+        "isin_growth": "INF789F1AD46",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "22-06-2026",
+            "nav": "459.12450"
+        },
         {
             "date": "21-06-2026",
             "nav": "459.07060"

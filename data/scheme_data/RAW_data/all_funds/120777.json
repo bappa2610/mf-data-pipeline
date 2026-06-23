@@ -6,9 +6,13 @@
         "scheme_code": 120777,
         "scheme_name": "UTI Liquid Fund - Direct Plan - Weekly IDCW",
         "isin_growth": null,
-        "isin_div_reinvestment": "INF789F01XT0"
+        "isin_div_reinvestment": "INF789F1AD79"
     },
     "data": [
+        {
+            "date": "22-06-2026",
+            "nav": "107.50320"
+        },
         {
             "date": "21-06-2026",
             "nav": "107.49050"

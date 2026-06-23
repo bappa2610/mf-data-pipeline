@@ -6,9 +6,13 @@
         "scheme_code": 102010,
         "scheme_name": "UTI Liquid Fund - Regular Plan - Daily IDCW (Reinvestment)",
         "isin_growth": null,
-        "isin_div_reinvestment": "INF789F01PG3"
+        "isin_div_reinvestment": "INF789F1AF77"
     },
     "data": [
+        {
+            "date": "22-06-2026",
+            "nav": "119.66030"
+        },
         {
             "date": "21-06-2026",
             "nav": "119.64660"

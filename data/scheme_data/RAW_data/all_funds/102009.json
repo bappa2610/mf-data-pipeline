@@ -5,10 +5,14 @@
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 102009,
         "scheme_name": "UTI-  Liquid Cash Plan- Discontinued - Regular Plan -Growth",
-        "isin_growth": "INF789F01BB4",
+        "isin_growth": "INF789F1AG35",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "22-06-2026",
+            "nav": "412.50280"
+        },
         {
             "date": "21-06-2026",
             "nav": "412.45570"

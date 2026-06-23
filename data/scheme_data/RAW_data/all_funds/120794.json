@@ -5,10 +5,14 @@
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 120794,
         "scheme_name": "UTI Liquid Fund - Direct Plan - Monthly IDCW",
-        "isin_growth": "INF789F01XR4",
-        "isin_div_reinvestment": "INF789F01XS2"
+        "isin_growth": "INF789F1AD53",
+        "isin_div_reinvestment": "INF789F1AD61"
     },
     "data": [
+        {
+            "date": "22-06-2026",
+            "nav": "104.80350"
+        },
         {
             "date": "21-06-2026",
             "nav": "104.79120"

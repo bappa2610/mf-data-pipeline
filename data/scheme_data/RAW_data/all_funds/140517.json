@@ -5,10 +5,14 @@
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 140517,
         "scheme_name": "UTI Liquid Fund - Regular Plan - Flexi IDCW",
-        "isin_growth": "INF789FA1J82",
-        "isin_div_reinvestment": "INF789FA1J90"
+        "isin_growth": "INF789F1AF02",
+        "isin_div_reinvestment": "INF789F1AF10"
     },
     "data": [
+        {
+            "date": "22-06-2026",
+            "nav": "165.20010"
+        },
         {
             "date": "21-06-2026",
             "nav": "165.18120"

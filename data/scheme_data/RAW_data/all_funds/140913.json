@@ -5,10 +5,14 @@
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 140913,
         "scheme_name": "UTI Liquid Fund - Direct Plan - Fortnightly IDCW",
-        "isin_growth": "INF789FA1K06",
-        "isin_div_reinvestment": "INF789FA1K14"
+        "isin_growth": "INF789F1AD87",
+        "isin_div_reinvestment": "INF789F1AD95"
     },
     "data": [
+        {
+            "date": "22-06-2026",
+            "nav": "115.76430"
+        },
         {
             "date": "21-06-2026",
             "nav": "115.75070"

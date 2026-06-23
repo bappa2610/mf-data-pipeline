@@ -6,9 +6,13 @@
         "scheme_code": 102007,
         "scheme_name": "UTI-  Liquid Cash Plan- Discontinued -Regular Plan Periodic Dividend Option",
         "isin_growth": null,
-        "isin_div_reinvestment": "INF789F01AZ5"
+        "isin_div_reinvestment": "INF789F1AE94"
     },
     "data": [
+        {
+            "date": "22-06-2026",
+            "nav": "113.66310"
+        },
         {
             "date": "21-06-2026",
             "nav": "113.65010"

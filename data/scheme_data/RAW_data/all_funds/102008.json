@@ -5,10 +5,14 @@
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 102008,
         "scheme_name": "UTI-  Liquid Cash Plan- Discontinued - Regular Plan - Monthly Dividend Option",
-        "isin_growth": "INF789F01BC2",
-        "isin_div_reinvestment": "INF789F01BA6"
+        "isin_growth": "INF789F1AF44",
+        "isin_div_reinvestment": "INF789F1AG27"
     },
     "data": [
+        {
+            "date": "22-06-2026",
+            "nav": "106.77910"
+        },
         {
             "date": "21-06-2026",
             "nav": "106.76690"

@@ -5,10 +5,14 @@
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 134427,
         "scheme_name": "UTI Liquid Fund - Direct Plan - Annual IDCW",
-        "isin_growth": "INF789FA1K63",
-        "isin_div_reinvestment": "INF789FA1K71"
+        "isin_growth": "INF789F1AE45",
+        "isin_div_reinvestment": "INF789F1AE52"
     },
     "data": [
+        {
+            "date": "22-06-2026",
+            "nav": "201.91710"
+        },
         {
             "date": "21-06-2026",
             "nav": "201.89340"

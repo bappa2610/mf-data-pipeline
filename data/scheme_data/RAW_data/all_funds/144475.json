@@ -5,10 +5,14 @@
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 144475,
         "scheme_name": "UTI Liquid Fund - Regular Plan - Half-Yearly IDCW",
-        "isin_growth": "INF789FA1J41",
-        "isin_div_reinvestment": "INF789FA1J58"
+        "isin_growth": "INF789F1AF51",
+        "isin_div_reinvestment": "INF789F1AF69"
     },
     "data": [
+        {
+            "date": "22-06-2026",
+            "nav": "139.59450"
+        },
         {
             "date": "21-06-2026",
             "nav": "139.57800"
