@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 148747,
-        "scheme_name": "Motilal Oswal Asset Allocation FOF- A- Direct Growth",
+        "scheme_name": "Motilal Oswal Multi Asset Passive Fund of Fund - Direct Growth",
         "isin_growth": "INF247L01AL2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "23-06-2026",
+            "nav": "19.78430"
+        },
         {
             "date": "22-06-2026",
             "nav": "19.95090"
