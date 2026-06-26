@@ -311,7 +311,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 101306,DSP Mutual Fund,DSP Short Term Fund - IDCW - Monthly,INF740K01664,INF740K01AG8,Open Ended Schemes,Debt Scheme - Short Duration Fund
 101313,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty 50 Index Fund -REGULAR - IDCW,INF209K01LA4,INF209K01LC0,Open Ended Schemes,Other Scheme - Index Funds
 101314,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty 50 Index Fund - Growth - Regular Plan,INF209K01LB2,,Open Ended Schemes,Other Scheme - Index Funds
-101316,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Savings Fund-Retail Growth,INF209K01MC8,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
 101317,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Savings Fund - Growth - Regular Plan,INF209K01LZ1,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
 101349,ICICI Prudential Mutual Fund,ICICI Prudential Nifty 50 Index Fund - Cumulative Option,INF109K01PI0,,Open Ended Schemes,Other Scheme - Index Funds
 101350,ICICI Prudential Mutual Fund,ICICI Prudential All Seasons Bond Fund Retail - Cumulative,INF109K01712,,Open Ended Schemes,Debt Scheme - Dynamic Bond
@@ -815,7 +814,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 105857,LIC Mutual Fund,LIC MF Banking & PSU Fund-Regular Plan-Weekly IDCW,INF767K01568,INF767K01576,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
 105875,DSP Mutual Fund,DSP Flexi Cap Fund - Regular Plan - Growth,INF740K01037,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
 105878,DSP Mutual Fund,DSP Strategic Bond Fund - Regular Plan - IDCW - Weekly,INF740K01GQ4,INF740K01GP6,Open Ended Schemes,Debt Scheme - Dynamic Bond
-105881,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Savings Fund-Weekly - retail IDCW,INF209K01MD6,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
 105887,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Savings Fund-Regular - weekly IDCW,INF209K01MA2,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
 105888,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Savings Fund-Regular - DAILY IDCW,INF209K01LY4,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
 105907,ICICI Prudential Mutual Fund,ICICI Prudential Interval Fund - Quarterly Interval Plan II - Retail Dividend,INF109K01MC0,,Open Ended Schemes,Income
@@ -1067,7 +1065,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 109059,Sundaram Mutual Fund,Sundaram Financial Services Opportunities Fund Regular Plan - Growth,INF903J01629,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 109060,Sundaram Mutual Fund,Sundaram Financial Services Opportunities Fund Institutional Plan - Income Distribution cum Capital Withdrawal (IDCW),INF903J01637,INF903J01645,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 109061,Sundaram Mutual Fund,Sundaram Financial Services Opportunities Fund Institutional Plan - Growth,INF903J01652,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-109108,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Savings Fund-Retail - Daily IDCW,INF209K01MB0,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
 109254,Bank of India Mutual Fund,BANK OF INDIA Liquid Fund- Regular Plan- Growth,INF761K01306,,Open Ended Schemes,Debt Scheme - Liquid Fund
 109255,Bank of India Mutual Fund,BANK OF INDIA Liquid Fund- Regular Plan- Weekly IDCW,,INF761K01CP1,Open Ended Schemes,Debt Scheme - Liquid Fund
 109264,Bank of India Mutual Fund,BANK OF INDIA Ultra Short Duration Fund- Regular Plan- Weekly IDCW,,INF761K01CX5,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
@@ -14490,6 +14487,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 101296,Benchmark Mutual Fund,Banking Index Benchmark Exchange Traded Scheme (Bank BeES),,,Open Ended Schemes,Income
 101307,DBS Chola Mutual Fund,DBS Chola Liquid Fund - Regular Weekly Dividend,,,Open Ended Schemes,Income
 101315,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Savings Fund-Insititutional Fortnightly Dividend,,,Open Ended Schemes,Income
+101316,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Savings Fund-Retail Growth,INF209K01MC8,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
 101318,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Savings Fund-Retail Fortnightly Dividend,,,Open Ended Schemes,Income
 101319,Standard Chartered Mutual Fund,Grindlays Cash Fund - Dividend (Weekly),,,Open Ended Schemes,Income
 101325,Benchmark Mutual Fund,Nifty Benchmark Exchange Traded Scheme- Nifty BeES,,,Open Ended Schemes,Income
@@ -17112,6 +17110,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 105877,DSP Mutual Fund,DSP BlackRock Strategic Bond Fund - Regular Plan - Weekly Dividend,,,Open Ended Schemes,Income
 105879,DBS Chola Mutual Fund,DBS Chola Fixed Maturity Plan - Series 7 (Quarterly Plan - IV) - Cumulative,,,Close Ended Schemes,Income
 105880,DBS Chola Mutual Fund,DBS Chola Fixed Maturity Plan - Series 7 (Quarterly Plan - IV) - Dividend Payout,,,Close Ended Schemes,Income
+105881,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Savings Fund-Weekly - retail IDCW,INF209K01MD6,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
 105882,Nippon India Mutual Fund,Nippon India Interval Fund-Quarterly Interval Fund-Series-III-Institutional Plan-Growth Option,INF204K01DW6,,Interval Fund Schemes,Income
 105883,Nippon India Mutual Fund,NIPPON INDIA QUARTERLY INTERVAL FUND - SERIES III - INSTITUTIONAL IDCW Option,,,Interval Fund Schemes,Income
 105884,Nippon India Mutual Fund,Nippon India Interval Fund-Quarterly Interval Fund-Series-III- Growth Option,INF204K01DT2,,Interval Fund Schemes,Income
@@ -19499,6 +19498,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 109105,HDFC Mutual Fund,HDFC FMP 370D JUNE 2008 (2) - RETAIL PLAN - GROWTH OPTION,,,Close Ended Schemes,Income
 109106,HDFC Mutual Fund,HDFC FMP 370D JUNE 2008 (2) - RETAIL PLAN - QUARTERLY DIVIDEND OPTION,,,Close Ended Schemes,Income
 109107,HDFC Mutual Fund,HDFC FMP 370D JUNE 2008 (2) - RETAIL PLAN - NORMAL DIVIDEND OPTION,,,Close Ended Schemes,Income
+109108,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Savings Fund-Retail - Daily IDCW,INF209K01MB0,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
 109109,Franklin Templeton Mutual Fund,Templeton Fixed Horizon Fund - Series VIII - Plan F - Growth,,,Close Ended Schemes,Income
 109110,Franklin Templeton Mutual Fund,Templeton Fixed Horizon Fund - Series VIII - Plan F - Dividend,,,Close Ended Schemes,Income
 109111,Invesco Mutual Fund,Religare FMP-375 days-Sr-XII - Regular Dividend Reinvestment,,,Close Ended Schemes,Income
