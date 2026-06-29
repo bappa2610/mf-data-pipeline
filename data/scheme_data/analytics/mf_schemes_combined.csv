@@ -958,7 +958,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 107525,HDFC Mutual Fund,HDFC Infrastructure Fund - IDCW Plan,INF179K01GE1,INF179K01GG6,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 107578,Mirae Asset Mutual Fund,Mirae Asset Large Cap Fund - Growth Plan,INF769K01010,,Open Ended Schemes,Equity Scheme - Large Cap Fund
 107579,Mirae Asset Mutual Fund,Mirae Asset Large Cap Fund Regular IDCW,INF769K01036,INF769K01028,Open Ended Schemes,Equity Scheme - Large Cap Fund
-107693,Quantum Mutual Fund,Quantum Gold Fund,INF082J01408,,Open Ended Schemes,Other Scheme - Gold ETF
+107693,Quantum Mutual Fund,Quantum Gold ETF,INF082J01408,,Open Ended Schemes,Other Scheme - Gold ETF
 107700,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Regular Plan - Daily IDCW,,INF769K01986,Open Ended Schemes,Debt Scheme - Low Duration Fund
 107701,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Regular Plan - Weekly IDCW,,INF769K01994,Open Ended Schemes,Debt Scheme - Low Duration Fund
 107702,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Regular Plan - Quarterly IDCW,INF769K01978,INF769K01AB8,Open Ended Schemes,Debt Scheme - Low Duration Fund
@@ -1462,7 +1462,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 115117,HSBC Mutual Fund,HSBC Brazil Fund - IDCW,INF336L01172,INF336L01180,Open Ended Schemes,Other Scheme - FoF Overseas
 115127,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Gold ETF,INF209KB18D3,,Open Ended Schemes,Other Scheme - Gold ETF
 115131,Axis Mutual Fund,Axis Dynamic Bond Fund - Regular Plan - Half Yearly IDCW,INF846K01941,INF846K01958,Open Ended Schemes,Debt Scheme - Dynamic Bond
-115132,Quantum Mutual Fund,Quantum Gold Savings Fund - Direct Plan Growth Option,INF082J01150,,Open Ended Schemes,Other Scheme - FoF Domestic
+115132,Quantum Mutual Fund,Quantum Gold ETF FOF - Direct Plan Growth Option,INF082J01150,,Open Ended Schemes,Other Scheme - FoF Domestic
 115269,ICICI Prudential Mutual Fund,ICICI Prudential Multi-Asset Fund- Institutional Growth Option,INF109K01TN2,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
 115270,Union Mutual Fund,Union Flexi Cap Fund - Growth Option,INF582M01104,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
 115284,Invesco Mutual Fund,Invesco India Nifty 50 Exchange Traded Fund,INF205K01DA9,,Open Ended Schemes,Other Scheme - Other  ETFs
@@ -5002,8 +5002,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 134460,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 76 - 1135 Days Plan Z Direct Plan Dividend Option,INF109KB1BE1,,Close Ended Schemes,Income
 134461,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 76 - 1135 Days Plan Z Direct Plan Cumulative Option,INF109KB1BD3,,Close Ended Schemes,Income
 134484,UTI Mutual Fund,UTI Ultra Short Duration Fund - Regular Plan - Annual IDCW,INF789FA1P43,INF789FA1P50,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
-134493,Quantum Mutual Fund,Quantum Dynamic Bond Fund - Direct Plan Monthly IDCW,INF082J01184,INF082J01192,Open Ended Schemes,Debt Scheme - Dynamic Bond
-134494,Quantum Mutual Fund,Quantum Dynamic Bond Fund - Direct Plan Growth Option,INF082J01176,,Open Ended Schemes,Debt Scheme - Dynamic Bond
+134493,Quantum Mutual Fund,Quantum Dynamic Term Fund - Direct Plan Monthly IDCW,INF082J01184,INF082J01192,Open Ended Schemes,Debt Scheme - Dynamic Bond
+134494,Quantum Mutual Fund,Quantum Dynamic Term Fund - Direct Plan Growth Option,INF082J01176,,Open Ended Schemes,Debt Scheme - Dynamic Bond
 134495,UTI Mutual Fund,UTI Medium Duration Fund - Regular Plan - Monthly IDCW,INF789FB1JV2,INF789FB1KP2,Open Ended Schemes,Debt Scheme - Medium Duration Fund
 134496,UTI Mutual Fund,UTI Medium Duration Fund - Regular Plan - Quarterly IDCW,INF789FB1JW0,INF789FB1JX8,Open Ended Schemes,Debt Scheme - Medium Duration Fund
 134497,UTI Mutual Fund,UTI Medium Duration Fund - Regular Plan - Half-Yearly IDCW,INF789FB1JY6,INF789FB1JZ3,Open Ended Schemes,Debt Scheme - Medium Duration Fund
@@ -6436,11 +6436,11 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 141047,Kotak Mahindra Mutual Fund,Kotak FMP Series 202-Direct Plan-Growth Option,INF174K011N7,,Close Ended Schemes,Income
 141048,Kotak Mahindra Mutual Fund,Kotak FMP Series 202-Regular Plan-Dividend Payout Option,INF174K010N9,,Close Ended Schemes,Income
 141049,Kotak Mahindra Mutual Fund,Kotak FMP Series 202-Regular Plan-Growth Option,INF174K019M2,,Close Ended Schemes,Income
-141060,Quantum Mutual Fund,Quantum Dynamic Bond Fund - Regular Plan Monthly IDCW,INF082J01226,INF082J01234,Open Ended Schemes,Debt Scheme - Dynamic Bond
-141061,Quantum Mutual Fund,Quantum Dynamic Bond Fund - Regular Plan Growth Option,INF082J01218,,Open Ended Schemes,Debt Scheme - Dynamic Bond
+141060,Quantum Mutual Fund,Quantum Dynamic Term Fund - Regular Plan Monthly IDCW,INF082J01226,INF082J01234,Open Ended Schemes,Debt Scheme - Dynamic Bond
+141061,Quantum Mutual Fund,Quantum Dynamic Term Fund - Regular Plan Growth Option,INF082J01218,,Open Ended Schemes,Debt Scheme - Dynamic Bond
 141062,Quantum Mutual Fund,Quantum Diversified Equity All Cap Active FOF - Regular Plan IDCW,INF082J01283,INF082J01291,Open Ended Schemes,Other Scheme - FoF Domestic
 141063,Quantum Mutual Fund,Quantum Diversified Equity All Cap Active FOF - Regular Plan Growth Option,INF082J01275,,Open Ended Schemes,Other Scheme - FoF Domestic
-141064,Quantum Mutual Fund,Quantum Gold Savings Fund - Regular Plan Growth Option,INF082J01358,,Open Ended Schemes,Other Scheme - FoF Domestic
+141064,Quantum Mutual Fund,Quantum Gold ETF FOF - Regular Plan Growth Option,INF082J01358,,Open Ended Schemes,Other Scheme - FoF Domestic
 141065,Quantum Mutual Fund,Quantum Liquid Fund - Regular Plan Daily IDCW,,INF082J01317,Open Ended Schemes,Debt Scheme - Liquid Fund
 141066,Quantum Mutual Fund,Quantum Liquid Fund - Regular Plan Growth Option,INF082J01309,,Open Ended Schemes,Debt Scheme - Liquid Fund
 141067,Quantum Mutual Fund,Quantum Liquid Fund - Regular Plan Monthly IDCW,INF082J01325,INF082J01333,Open Ended Schemes,Debt Scheme - Liquid Fund
@@ -10918,8 +10918,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 150386,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Flexi Cap Fund - Regular Plan - IDCW Option,INF251K01QX7,INF251K01QY5,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
 150387,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Flexi Cap Fund - Direct Plan - Growth Option,INF251K01QZ2,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
 150388,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Flexi Cap Fund - Direct Plan - IDCW Option,INF251K01RA3,INF251K01RB1,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
-150389,Quantum Mutual Fund,Quantum Nifty 50 ETF Fund of Fund - Regular Plan - Growth,INF082J01424,,Open Ended Schemes,Other Scheme - FoF Domestic
-150390,Quantum Mutual Fund,Quantum Nifty 50 ETF Fund of Fund - Direct Plan - Growth,INF082J01416,,Open Ended Schemes,Other Scheme - FoF Domestic
+150389,Quantum Mutual Fund,Quantum Nifty 50 ETF FOF - Regular Plan - Growth,INF082J01424,,Open Ended Schemes,Other Scheme - FoF Domestic
+150390,Quantum Mutual Fund,Quantum Nifty 50 ETF FOF - Direct Plan - Growth,INF082J01416,,Open Ended Schemes,Other Scheme - FoF Domestic
 150391,LIC Mutual Fund,LIC MF Money Market Fund-Direct Plan-IDCW,INF767K01RF7,INF767K01RG5,Open Ended Schemes,Debt Scheme - Money Market Fund
 150392,LIC Mutual Fund,LIC MF Money Market Fund-Direct Plan-Growth,INF767K01RE0,,Open Ended Schemes,Debt Scheme - Money Market Fund
 150393,LIC Mutual Fund,LIC MF Money Market Fund-Regular Plan-Growth,INF767K01RB6,,Open Ended Schemes,Debt Scheme - Money Market Fund

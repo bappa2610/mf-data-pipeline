@@ -5540,7 +5540,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 107690,Aditya Birla Sun Life Mutual Fund,Birla Sun Life Fixed Term Plan - Series AL RETAIL DIVIDEND,,Close Ended,Income,Income,Retail,IDCW,
 107691,Standard Chartered Mutual Fund,Standard Chartered FMP - QS26 Plan-A-Growth,,Close Ended,Income,Income,Standard,Growth,
 107692,Standard Chartered Mutual Fund,Standard Chartered FMP - QS26 Plan-A-Dividend,,Close Ended,Income,Income,Standard,IDCW,
-107693,Quantum Mutual Fund,Quantum Gold Fund,INF082J01408,Open Ended,Other,ETF,Other,Other,
+107693,Quantum Mutual Fund,Quantum Gold ETF,INF082J01408,Open Ended,Other,ETF,Other,Other,
 107694,Mirae Asset Mutual Fund,Mirae Asset Savings Fund-Regular Plan- Bonus,,Open Ended,Income,Income,Regular,Bonus,
 107695,Mirae Asset Mutual Fund,Mirae Asset Savings Fund-Regular Plan- Growth,,Open Ended,Debt,Low Duration Fund,Regular,Growth,
 107698,Mirae Asset Mutual Fund,Mirae Asset Savings Fund-Regular Plan- Daily Dividend,,Open Ended,Debt,Low Duration Fund,Regular,IDCW,Daily
@@ -10907,7 +10907,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 115129,BNP Paribas Mutual Fund,BNP Paribas Fixed Term Fund-Sr 21 J - Calendar Quarterly Dividend Option,,Close Ended,Income,Income,Other,IDCW,Quarterly
 115130,BNP Paribas Mutual Fund,BNP Paribas Fixed Term Fund-Sr 21 J - Growth Option,,Close Ended,Income,Income,Other,Growth,
 115131,Axis Mutual Fund,Axis Dynamic Bond Fund - Regular Plan - Half Yearly IDCW,INF846K01941,Open Ended,Debt,Dynamic Bond,Regular,IDCW,Annual
-115132,Quantum Mutual Fund,Quantum Gold Savings Fund - Direct Plan Growth Option,INF082J01150,Open Ended,Other,FoF Domestic,Direct,Growth,
+115132,Quantum Mutual Fund,Quantum Gold ETF FOF - Direct Plan Growth Option,INF082J01150,Open Ended,Other,FoF Domestic,Direct,Growth,
 115133,UTI Mutual Fund,UTI-FTIF Sr. IX Plan II (369 Days) - Growth Option,,Close Ended,Income,Income,Other,Growth,
 115134,UTI Mutual Fund,UTI-FTIF Sr. IX Plan II (369 Days) - Dividend Option,,Close Ended,Income,Income,Other,IDCW,
 115135,L&T Mutual Fund,L&T FMP - III (April370D A) - Growth,,Close Ended,Income,Income,Other,Growth,
@@ -23299,8 +23299,8 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 134472,Baroda Pioneer Mutual Fund,Baroda Pioneer Fixed Maturity Plan Series N Plan B (Direct) - Growth Option,,Close Ended,Income,Income,Direct,Growth,
 134473,Baroda Pioneer Mutual Fund,Baroda Pioneer Fixed Maturity Plan Series N - Plan A - Growth Option,,Close Ended,Income,Income,Other,Growth,
 134484,UTI Mutual Fund,UTI Ultra Short Duration Fund - Regular Plan - Annual IDCW,INF789FA1P43,Open Ended,Debt,Ultra Short Duration Fund,Regular,IDCW,Annual
-134493,Quantum Mutual Fund,Quantum Dynamic Bond Fund - Direct Plan Monthly IDCW,INF082J01184,Open Ended,Debt,Dynamic Bond,Direct,IDCW,Monthly
-134494,Quantum Mutual Fund,Quantum Dynamic Bond Fund - Direct Plan Growth Option,INF082J01176,Open Ended,Debt,Dynamic Bond,Direct,Growth,
+134493,Quantum Mutual Fund,Quantum Dynamic Term Fund - Direct Plan Monthly IDCW,INF082J01184,Open Ended,Debt,Dynamic Bond,Direct,IDCW,Monthly
+134494,Quantum Mutual Fund,Quantum Dynamic Term Fund - Direct Plan Growth Option,INF082J01176,Open Ended,Debt,Dynamic Bond,Direct,Growth,
 134495,UTI Mutual Fund,UTI Medium Duration Fund - Regular Plan - Monthly IDCW,INF789FB1JV2,Open Ended,Debt,Medium Duration Fund,Regular,IDCW,Monthly
 134496,UTI Mutual Fund,UTI Medium Duration Fund - Regular Plan - Quarterly IDCW,INF789FB1JW0,Open Ended,Debt,Medium Duration Fund,Regular,IDCW,Quarterly
 134497,UTI Mutual Fund,UTI Medium Duration Fund - Regular Plan - Half-Yearly IDCW,INF789FB1JY6,Open Ended,Debt,Medium Duration Fund,Regular,IDCW,Annual
@@ -25962,11 +25962,11 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 141057,Edelweiss Mutual Fund,Edelweiss Fixed Maturity Plan - Series 41 - Direct Plan - Dividend Payout,,Close Ended,Income,Income,Direct,IDCW,
 141058,Edelweiss Mutual Fund,Edelweiss Fixed Maturity Plan - Series 41 - Regular Plan - Dividend Payout,,Close Ended,Income,Income,Regular,IDCW,
 141059,Edelweiss Mutual Fund,Edelweiss Fixed Maturity Plan - Series 41 - Regular Plan - Growth,,Close Ended,Income,Income,Regular,Growth,
-141060,Quantum Mutual Fund,Quantum Dynamic Bond Fund - Regular Plan Monthly IDCW,INF082J01226,Open Ended,Debt,Dynamic Bond,Regular,IDCW,Monthly
-141061,Quantum Mutual Fund,Quantum Dynamic Bond Fund - Regular Plan Growth Option,INF082J01218,Open Ended,Debt,Dynamic Bond,Regular,Growth,
+141060,Quantum Mutual Fund,Quantum Dynamic Term Fund - Regular Plan Monthly IDCW,INF082J01226,Open Ended,Debt,Dynamic Bond,Regular,IDCW,Monthly
+141061,Quantum Mutual Fund,Quantum Dynamic Term Fund - Regular Plan Growth Option,INF082J01218,Open Ended,Debt,Dynamic Bond,Regular,Growth,
 141062,Quantum Mutual Fund,Quantum Diversified Equity All Cap Active FOF - Regular Plan IDCW,INF082J01283,Open Ended,Other,FoF Domestic,Regular,IDCW,
 141063,Quantum Mutual Fund,Quantum Diversified Equity All Cap Active FOF - Regular Plan Growth Option,INF082J01275,Open Ended,Other,FoF Domestic,Regular,Growth,
-141064,Quantum Mutual Fund,Quantum Gold Savings Fund - Regular Plan Growth Option,INF082J01358,Open Ended,Other,FoF Domestic,Regular,Growth,
+141064,Quantum Mutual Fund,Quantum Gold ETF FOF - Regular Plan Growth Option,INF082J01358,Open Ended,Other,FoF Domestic,Regular,Growth,
 141065,Quantum Mutual Fund,Quantum Liquid Fund - Regular Plan Daily IDCW,,Open Ended,Debt,Liquid Fund,Regular,IDCW,Daily
 141066,Quantum Mutual Fund,Quantum Liquid Fund - Regular Plan Growth Option,INF082J01309,Open Ended,Debt,Liquid Fund,Regular,Growth,
 141067,Quantum Mutual Fund,Quantum Liquid Fund - Regular Plan Monthly IDCW,INF082J01325,Open Ended,Debt,Liquid Fund,Regular,IDCW,Monthly
@@ -32804,8 +32804,8 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 150386,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Flexi Cap Fund - Regular Plan - IDCW Option,INF251K01QX7,Open Ended,Equity,Flexi Cap Fund,Regular,IDCW,
 150387,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Flexi Cap Fund - Direct Plan - Growth Option,INF251K01QZ2,Open Ended,Equity,Flexi Cap Fund,Direct,Growth,
 150388,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Flexi Cap Fund - Direct Plan - IDCW Option,INF251K01RA3,Open Ended,Equity,Flexi Cap Fund,Direct,IDCW,
-150389,Quantum Mutual Fund,Quantum Nifty 50 ETF Fund of Fund - Regular Plan - Growth,INF082J01424,Open Ended,Other,FoF Domestic,Regular,Growth,
-150390,Quantum Mutual Fund,Quantum Nifty 50 ETF Fund of Fund - Direct Plan - Growth,INF082J01416,Open Ended,Other,FoF Domestic,Direct,Growth,
+150389,Quantum Mutual Fund,Quantum Nifty 50 ETF FOF - Regular Plan - Growth,INF082J01424,Open Ended,Other,FoF Domestic,Regular,Growth,
+150390,Quantum Mutual Fund,Quantum Nifty 50 ETF FOF - Direct Plan - Growth,INF082J01416,Open Ended,Other,FoF Domestic,Direct,Growth,
 150391,LIC Mutual Fund,LIC MF Money Market Fund-Direct Plan-IDCW,INF767K01RF7,Open Ended,Debt,Money Market Fund,Direct,IDCW,
 150392,LIC Mutual Fund,LIC MF Money Market Fund-Direct Plan-Growth,INF767K01RE0,Open Ended,Debt,Money Market Fund,Direct,Growth,
 150393,LIC Mutual Fund,LIC MF Money Market Fund-Regular Plan-Growth,INF767K01RB6,Open Ended,Debt,Money Market Fund,Regular,Growth,
