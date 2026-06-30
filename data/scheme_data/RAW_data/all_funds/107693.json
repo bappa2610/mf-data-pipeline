@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Gold ETF",
         "scheme_code": 107693,
-        "scheme_name": "Quantum Gold Fund",
+        "scheme_name": "Quantum Gold ETF",
         "isin_growth": "INF082J01408",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "29-06-2026",
+            "nav": "116.52420"
+        },
         {
             "date": "25-06-2026",
             "nav": "115.53170"

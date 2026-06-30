@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 115132,
-        "scheme_name": "Quantum Gold Savings Fund - Direct Plan Growth Option",
+        "scheme_name": "Quantum Gold ETF FOF - Direct Plan Growth Option",
         "isin_growth": "INF082J01150",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "29-06-2026",
+            "nav": "53.97150"
+        },
         {
             "date": "25-06-2026",
             "nav": "53.18630"

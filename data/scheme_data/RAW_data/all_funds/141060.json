@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Dynamic Bond",
         "scheme_code": 141060,
-        "scheme_name": "Quantum Dynamic Bond Fund - Regular Plan Monthly IDCW",
+        "scheme_name": "Quantum Dynamic Term Fund - Regular Plan Monthly IDCW",
         "isin_growth": "INF082J01226",
         "isin_div_reinvestment": "INF082J01234"
     },
     "data": [
+        {
+            "date": "29-06-2026",
+            "nav": "10.48900"
+        },
         {
             "date": "25-06-2026",
             "nav": "10.46510"

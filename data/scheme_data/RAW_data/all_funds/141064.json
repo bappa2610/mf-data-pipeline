@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 141064,
-        "scheme_name": "Quantum Gold Savings Fund - Regular Plan Growth Option",
+        "scheme_name": "Quantum Gold ETF FOF - Regular Plan Growth Option",
         "isin_growth": "INF082J01358",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "29-06-2026",
+            "nav": "53.14020"
+        },
         {
             "date": "25-06-2026",
             "nav": "52.36960"
