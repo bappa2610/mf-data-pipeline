@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 150390,
-        "scheme_name": "Quantum Nifty 50 ETF Fund of Fund - Direct Plan - Growth",
+        "scheme_name": "Quantum Nifty 50 ETF FOF - Direct Plan - Growth",
         "isin_growth": "INF082J01416",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "29-06-2026",
+            "nav": "14.25130"
+        },
         {
             "date": "25-06-2026",
             "nav": "14.31200"
