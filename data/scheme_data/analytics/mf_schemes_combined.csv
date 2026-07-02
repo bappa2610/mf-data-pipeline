@@ -10250,6 +10250,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 149121,Union Mutual Fund,Union Money Market Fund - Direct Plan -  Weekly IDCW Option,,INF582M01HI1,Open Ended Schemes,Debt Scheme - Money Market Fund
 149122,Union Mutual Fund,Union Money Market Fund - Regular Plan -  Monthly IDCW Option,INF582M01HS0,INF582M01HR2,Open Ended Schemes,Debt Scheme - Money Market Fund
 149123,Union Mutual Fund,Union Money Market Fund - Direct Plan -  Monthly IDCW Option,INF582M01HK7,INF582M01HJ9,Open Ended Schemes,Debt Scheme - Money Market Fund
+149128,Nippon India Mutual Fund,Nippon India Fixed Maturity Plan - XLIII - Series 1 - Regular Plan - Income Distribution cum Capital Withdrawal Plan,INF204KC1162,,Close Ended Schemes,Income
+149129,Nippon India Mutual Fund,Nippon India Fixed Maturity Plan - XLIII - Series 1- Direct Plan - Growth Option,INF204KC1170,,Close Ended Schemes,Income
+149130,Nippon India Mutual Fund,Nippon India Fixed Maturity Plan - XLIII - Series 1 - Direct Plan - Income Distribution Cum Capital Withdrawal Plan,INF204KC1188,,Close Ended Schemes,Income
+149131,Nippon India Mutual Fund,Nippon India Fixed Maturity Plan - XLIII - Series 1 - Regular Plan - Growth Option,INF204KC1154,,Close Ended Schemes,Income
 149132,SBI Mutual Fund,SBI Balanced Advantage Fund - Regular Plan - Growth,INF200KA1Y40,,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
 149133,SBI Mutual Fund,SBI Balanced Advantage Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1Y57,INF200KA1Y65,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
 149134,SBI Mutual Fund,SBI Balanced Advantage Fund - Direct Plan - Growth,INF200KA1Y73,,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
@@ -34771,8 +34775,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 103107,JM Financial Asset Management Limited,JM Emerging Leaders Fund-Dividend Plan,,,Open Ended,Growth
 103096,UTI Asset Mgmt. Co. Ltd.,UTI Opportunities Fund-Growth Option,,,Open Ended,Equity Scheme - Value Fund
 103099,UTI Asset Mgmt. Co. Ltd.,UTI Opportunities Fund-Dividend Option,,,Open Ended,Equity Scheme - Value Fund
-154430,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life Low Duration Fund-Direct Weekly- IDCW Payou,INF209KC1530,,Open Ended,Debt Scheme - Low Duration Fund
 154429,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life Low Duration Fund-Regular-Weekly IDCW Payout,INF209KC1548,,Open Ended,Debt Scheme - Low Duration Fund
+154430,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life Low Duration Fund-Direct Weekly- IDCW Payou,INF209KC1530,,Open Ended,Debt Scheme - Low Duration Fund
 103198,Franklin Templeton Asset Management (India) Private Limited,Franklin Templeton Fixed Tenure Fund-SeriesII (60MonthsPlan)-Growth Plan,,,Close Ended,Income
 103199,Franklin Templeton Asset Management (India) Private Limited,Franklin Templeton Fixed Tenure Fund-SeriesII (60MonthsPlan)-Annual Dividend Plan,,,Close Ended,Income
 103200,Franklin Templeton Asset Management (India) Private Limited,Franklin Templeton Fixed Tenure Fund-SeriesII (60MonthsPlan)-Growth Plan,,,Close Ended,Income
@@ -35596,12 +35600,12 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 144073,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 83 - 1735 Days Plan P - Direct Plan Dividend Option,,,Close Ended,Income
 144074,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 83 - 1735 Days Plan P - Dividend Option,,,Close Ended,Income
 144076,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 83 - 1735 Days Plan P - Direct Plan Half Yearly Dividend Option,INF109KC1HF4,,Close Ended,Income
-144166,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 83 - 1107 Days Plan Q - Dividend Option,,,Close Ended,Income
-144167,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 83 - 1107 Days Plan Q - Quarterly Dividend Option,INF109KC1HN8,,Close Ended,Income
-144168,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 83 - 1107 Days Plan Q - Half Yearly Dividend Option,INF109KC1HO6,,Close Ended,Income
 144169,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 83 - 1107 Days Plan Q - Direct Plan Half Yearly Dividend Option,INF109KC1HR9,,Close Ended,Income
 144170,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 83 - 1107 Days Plan Q - Direct Plan Quarterly Dividend Option,INF109KC1HQ1,,Close Ended,Income
 144165,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 83 - 1107 Days Plan Q - Direct Plan Dividend Option,,,Close Ended,Income
+144166,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 83 - 1107 Days Plan Q - Dividend Option,,,Close Ended,Income
+144167,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 83 - 1107 Days Plan Q - Quarterly Dividend Option,INF109KC1HN8,,Close Ended,Income
+144168,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 83 - 1107 Days Plan Q - Half Yearly Dividend Option,INF109KC1HO6,,Close Ended,Income
 144280,Kotak Mahindra Asset Management Company Limited.,Kotak FMP Series 234 - Direct Plan - Dividend Option,INF174KA1111,,Close Ended,Income
 144285,Kotak Mahindra Asset Management Company Limited.,Kotak FMP Series 235 - Direct Plan - Dividend Option,INF174KA1152,,Close Ended,Income
 144303,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 83 - 1100 Days Plan R - Direct Plan Dividend Option,,,Close Ended,Income
@@ -36404,5 +36408,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154458,NJ Asset Management Private Limited,NJ Value Fund - Regular Growth,INF0J8L01230,,Open Ended,Equity Scheme - Value Fund
 154459,Axis Asset Management Co. Ltd.,Axis Nifty50 Equal Weight Index Fund-Regular Plan- Growth Option,INF846KA1556,,Open Ended,Other Scheme - Index Funds
 154460,Axis Asset Management Co. Ltd.,Axis Nifty50 Equal Weight Index Fund-Direct Plan- Growth Option,INF846KA1564,,Open Ended,Other Scheme - Index Funds
-154461,Edelweiss Asset Management Limited,Edelweiss Nifty Metal ETF - Growth,,,Open Ended,Other Scheme - Other  ETFs
+154461,Edelweiss Asset Management Limited,Edelweiss Nifty Metal ETF,INF754K01XG1,,Open Ended,Other Scheme - Other  ETFs
 154466,UTI Asset Mgmt. Co. Ltd.,UTI Nifty 1D Rate Liquid ETF - Growth,,,Open Ended,Other Scheme - Other  ETFs
+154468,SBI Funds Management Limited,SBI Crisil - IBX SDL Index - June 2034 Index Fund - Regular Plan - Growth,,,Open Ended,Other Scheme - Index Funds
+154469,SBI Funds Management Limited,SBI Crisil - IBX SDL Index - June 2034 Index Fund - Regular Plan - IDCW,,,Open Ended,Other Scheme - Index Funds
+154470,SBI Funds Management Limited,SBI Crisil - IBX SDL Index - June 2034 Index Fund - Direct Plan - IDCW,,,Open Ended,Other Scheme - Index Funds
+154467,SBI Funds Management Limited,SBI Crisil - IBX SDL Index - June 2034 Index Fund - Direct Plan - Growth,,,Open Ended,Other Scheme - Index Funds

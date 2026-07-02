@@ -32019,6 +32019,10 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 149121,Union Mutual Fund,Union Money Market Fund - Direct Plan - Weekly IDCW Option,,Open Ended,Debt,Money Market Fund,Direct,IDCW,Weekly
 149122,Union Mutual Fund,Union Money Market Fund - Regular Plan - Monthly IDCW Option,INF582M01HS0,Open Ended,Debt,Money Market Fund,Regular,IDCW,Monthly
 149123,Union Mutual Fund,Union Money Market Fund - Direct Plan - Monthly IDCW Option,INF582M01HK7,Open Ended,Debt,Money Market Fund,Direct,IDCW,Monthly
+149128,Nippon India Mutual Fund,Nippon India Fixed Maturity Plan - XLIII - Series 1 - Regular Plan - Income Distribution cum Capital Withdrawal Plan,INF204KC1162,Close Ended,Income,Income,Regular,IDCW,
+149129,Nippon India Mutual Fund,Nippon India Fixed Maturity Plan - XLIII - Series 1- Direct Plan - Growth Option,INF204KC1170,Close Ended,Income,Income,Direct,Growth,
+149130,Nippon India Mutual Fund,Nippon India Fixed Maturity Plan - XLIII - Series 1 - Direct Plan - Income Distribution Cum Capital Withdrawal Plan,INF204KC1188,Close Ended,Income,Income,Direct,IDCW,
+149131,Nippon India Mutual Fund,Nippon India Fixed Maturity Plan - XLIII - Series 1 - Regular Plan - Growth Option,INF204KC1154,Close Ended,Income,Income,Regular,Growth,
 149132,SBI Mutual Fund,SBI Balanced Advantage Fund - Regular Plan - Growth,INF200KA1Y40,Open Ended,Hybrid,Dynamic Asset Allocation or Balanced Advantage,Regular,Growth,
 149133,SBI Mutual Fund,SBI Balanced Advantage Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1Y57,Open Ended,Hybrid,Dynamic Asset Allocation or Balanced Advantage,Regular,IDCW,
 149134,SBI Mutual Fund,SBI Balanced Advantage Fund - Direct Plan - Growth,INF200KA1Y73,Open Ended,Hybrid,Dynamic Asset Allocation or Balanced Advantage,Direct,Growth,
@@ -36400,9 +36404,13 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 154458,NJ Asset Management Private Limited,NJ Value Fund - Regular Growth,INF0J8L01230,Open Ended,Equity,Value Fund,Regular,Growth,
 154459,Axis Asset Management Co. Ltd.,Axis Nifty50 Equal Weight Index Fund-Regular Plan- Growth Option,INF846KA1556,Open Ended,Other,Index Funds,Regular,Growth,
 154460,Axis Asset Management Co. Ltd.,Axis Nifty50 Equal Weight Index Fund-Direct Plan- Growth Option,INF846KA1564,Open Ended,Other,Index Funds,Direct,Growth,
-154461,Edelweiss Asset Management Limited,Edelweiss Nifty Metal ETF - Growth,,Open Ended,Other,ETF,Other,Growth,
+154461,Edelweiss Asset Management Limited,Edelweiss Nifty Metal ETF,INF754K01XG1,Open Ended,Other,ETF,Other,Other,
 154462,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset Money Market Fund - Direct Plan - Weekly IDCW,INF769K01RA4,Open Ended,Debt,Money Market Fund,Direct,IDCW,Weekly
 154463,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset Money Market Fund - Direct Plan - Monthly IDCW,INF769K01RB2,Open Ended,Debt,Money Market Fund,Direct,IDCW,Monthly
 154464,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset Money Market Fund - Regular Plan - Weekly IDCW,INF769K01QY6,Open Ended,Debt,Money Market Fund,Regular,IDCW,Weekly
 154465,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset Money Market Fund - Regular Plan - Monthly IDCW,INF769K01QZ3,Open Ended,Debt,Money Market Fund,Regular,IDCW,Monthly
 154466,UTI Asset Mgmt. Co. Ltd.,UTI Nifty 1D Rate Liquid ETF - Growth,,Open Ended,Other,ETF,Other,Growth,
+154467,SBI Funds Management Limited,SBI Crisil - IBX SDL Index - June 2034 Index Fund - Direct Plan - Growth,,Open Ended,Other,Index Funds,Direct,Growth,
+154468,SBI Funds Management Limited,SBI Crisil - IBX SDL Index - June 2034 Index Fund - Regular Plan - Growth,,Open Ended,Other,Index Funds,Regular,Growth,
+154469,SBI Funds Management Limited,SBI Crisil - IBX SDL Index - June 2034 Index Fund - Regular Plan - IDCW,,Open Ended,Other,Index Funds,Regular,IDCW,
+154470,SBI Funds Management Limited,SBI Crisil - IBX SDL Index - June 2034 Index Fund - Direct Plan - IDCW,,Open Ended,Other,Index Funds,Direct,IDCW,
