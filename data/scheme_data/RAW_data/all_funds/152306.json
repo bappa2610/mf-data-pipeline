@@ -5,10 +5,14 @@
         "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 152306,
         "scheme_name": "DSP Nifty Healthcare ETF",
-        "isin_growth": "INF740KA1UF4",
+        "isin_growth": "INF740KA1ZG1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "03-07-2026",
+            "nav": "16.58040"
+        },
         {
             "date": "02-07-2026",
             "nav": "162.85060"

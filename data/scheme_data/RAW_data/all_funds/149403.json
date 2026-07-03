@@ -5,10 +5,14 @@
         "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 149403,
         "scheme_name": "DSP Nifty Midcap 150 Quality 50 ETF",
-        "isin_growth": "INF740KA1QL0",
+        "isin_growth": "INF740KA1ZF3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "03-07-2026",
+            "nav": "24.69210"
+        },
         {
             "date": "02-07-2026",
             "nav": "247.42920"
