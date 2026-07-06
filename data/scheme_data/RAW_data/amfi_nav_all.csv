@@ -439,7 +439,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 101951,SBI Mutual Fund,SBI Gilt Fund - Income Distribution cum Capital Withdrawal Option (IDCW) - PF (Fixed Period - 2 Yrs),INF200K01AF5,INF200K01AG3,Open Ended Schemes,Debt Scheme - Gilt Fund,21.4323,06-Jul-2026
 101952,SBI Mutual Fund,SBI Gilt Fund - Income Distribution cum Capital Withdrawal Option (IDCW) - PF (Fixed Period - 3 Yrs),INF200K01AI9,INF200K01AJ7,Open Ended Schemes,Debt Scheme - Gilt Fund,20.7804,06-Jul-2026
 101972,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Money Manager Fund - Retail - Daily IDCW,,INF209K01JZ5,Open Ended Schemes,Debt Scheme - Money Market Fund,100.015,19-Jun-2026
-101973,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Money Manager Fund - Daily IDCW,,INF209K01SZ6,Open Ended Schemes,Debt Scheme - Money Market Fund,100.1146,06-Jul-2026
+101973,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Money Manager Fund - Daily IDCW,,INF209K01SZ6,Open Ended Schemes,Debt Scheme - Money Market Fund,100.0585,06-Jul-2026
 101974,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Money Manager Fund - WEEKLY IDCW,,INF209K01SY9,Open Ended Schemes,Debt Scheme - Money Market Fund,100.1148,06-Jul-2026
 101976,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Money Manager Fund - Growth,INF209K01RV7,,Open Ended Schemes,Debt Scheme - Money Market Fund,394.8729,06-Jul-2026
 101979,HDFC Mutual Fund,HDFC ELSS Tax saver - Growth Plan,INF179K01BB8,,Open Ended Schemes,Equity Scheme - ELSS,1381.605,06-Jul-2026
@@ -2204,7 +2204,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 119507,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Dividend Yield Fund - Growth - Direct Plan,INF209K01WA1,,Open Ended Schemes,Equity Scheme - Dividend Yield Fund,501.17,03-Jul-2026
 119511,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Money Manager Fund - Growth - Direct Plan,INF209K01UU3,,Open Ended Schemes,Debt Scheme - Money Market Fund,400.5846,06-Jul-2026
 119512,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Money Manager Fund - Direct - weekly IDCW,INF209K01UV1,INF209KA1LM3,Open Ended Schemes,Debt Scheme - Money Market Fund,100.1160,06-Jul-2026
-119513,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Money Manager Fund - Direct - daily IDCW,,INF209K01UT5,Open Ended Schemes,Debt Scheme - Money Market Fund,100.1155,06-Jul-2026
+119513,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Money Manager Fund - Direct - daily IDCW,,INF209K01UT5,Open Ended Schemes,Debt Scheme - Money Market Fund,100.0585,06-Jul-2026
 119514,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Infrastructure Fund - Growth - Direct Plan,INF209K01WH6,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,119.25,06-Jul-2026
 119515,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Infrastructure Fund -  Direct - IDCW,INF209K01WG8,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,49.98,06-Jul-2026
 119516,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life International Equity Fund - Direct - IDCW,INF209K01Q89,INF209K01WT1,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,52.8767,03-Jul-2026
@@ -3573,10 +3573,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 126332,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan-Series 72-368 Days Plan D - Direct Plan - Cumulative,INF109KA13S6,,Close Ended Schemes,Income,13.0397,02-May-2017
 126334,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan-Series 72-368 Days Plan D - Cumulative,INF109KA11S0,,Close Ended Schemes,Income,12.9935,02-May-2017
 126335,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan-Series 72-368 Days Plan D - Dividend,INF109KA12S8,,Close Ended Schemes,Income,11.5640,02-May-2017
-126350,Invesco Mutual Fund,Invesco India - Invesco Pan European Equity Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment),INF205K01A08,INF205K01A16,Open Ended Schemes,Other Scheme - FoF Overseas,26.2824,02-Jul-2026
-126351,Invesco Mutual Fund,Invesco India - Invesco Pan European Equity Fund of Fund - Regular Plan - Growth Option,INF205K01ZZ9,,Open Ended Schemes,Other Scheme - FoF Overseas,26.2827,02-Jul-2026
-126352,Invesco Mutual Fund,Invesco India - Invesco Pan European Equity Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment),INF205K01A32,INF205K01A40,Open Ended Schemes,Other Scheme - FoF Overseas,28.6289,02-Jul-2026
-126353,Invesco Mutual Fund,Invesco India - Invesco Pan European Equity Fund of Fund - Direct Plan - Growth Option,INF205K01A24,,Open Ended Schemes,Other Scheme - FoF Overseas,28.7155,02-Jul-2026
+126350,Invesco Mutual Fund,Invesco India - Invesco Pan European Equity Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment),INF205K01A08,INF205K01A16,Open Ended Schemes,Other Scheme - FoF Overseas,26.7039,06-Jul-2026
+126351,Invesco Mutual Fund,Invesco India - Invesco Pan European Equity Fund of Fund - Regular Plan - Growth Option,INF205K01ZZ9,,Open Ended Schemes,Other Scheme - FoF Overseas,26.7042,06-Jul-2026
+126352,Invesco Mutual Fund,Invesco India - Invesco Pan European Equity Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment),INF205K01A32,INF205K01A40,Open Ended Schemes,Other Scheme - FoF Overseas,29.0891,06-Jul-2026
+126353,Invesco Mutual Fund,Invesco India - Invesco Pan European Equity Fund of Fund - Direct Plan - Growth Option,INF205K01A24,,Open Ended Schemes,Other Scheme - FoF Overseas,29.1771,06-Jul-2026
 126371,Nippon India Mutual Fund,Reliance Fixed Horizon Fund - XXV - Series 14-Growth Option,INF204KA1GT3,,Close Ended Schemes,Income,12.7842,24-Jan-2017
 126372,Nippon India Mutual Fund,Reliance Fixed Horizon Fund - XXV - Series 14-Direct Plan -Growth Option,INF204KA1GR7,,Close Ended Schemes,Income,12.8223,24-Jan-2017
 126389,Bank of India Mutual Fund,BANK OF INDIA Ultra Short Duration Fund- Direct Plan-Bonus,INF761K01CS5,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund,3474.0068,06-Jul-2026
@@ -4012,10 +4012,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 129184,Nippon India Mutual Fund,Reliance Fixed Horizon Fund- XXVI- Series 16- Direct Plan - Dividend Payout Option,INF204KA1NU7,,Close Ended Schemes,Income,10.0000,27-Apr-2017
 129185,Nippon India Mutual Fund,Reliance Fixed Horizon Fund- XXVI- Series 16- Dividend payout Option,INF204KA1NS1,,Close Ended Schemes,Income,10.0000,08-May-2017
 129186,Nippon India Mutual Fund,Reliance Fixed Horizon Fund- XXVI- Series 16- Direct Plan - Growth Option,INF204KA1NT9,,Close Ended Schemes,Income,13.3054,08-May-2017
-129187,Invesco Mutual Fund,Invesco India - Invesco Global Equity Income Fund of Fund - Regular Plan - Growth,INF205K01B15,,Open Ended Schemes,Other Scheme - FoF Overseas,37.5432,02-Jul-2026
-129188,Invesco Mutual Fund,Invesco India - Invesco Global Equity Income Fund of Fund - Direct Plan - Growth,INF205K01B49,,Open Ended Schemes,Other Scheme - FoF Overseas,41.6893,02-Jul-2026
-129189,Invesco Mutual Fund,Invesco India - Invesco Global Equity Income Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment),INF205K01B23,INF205K01B31,Open Ended Schemes,Other Scheme - FoF Overseas,37.4896,02-Jul-2026
-129190,Invesco Mutual Fund,Invesco India - Invesco Global Equity Income Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment),INF205K01B56,INF205K01B64,Open Ended Schemes,Other Scheme - FoF Overseas,41.1838,02-Jul-2026
+129187,Invesco Mutual Fund,Invesco India - Invesco Global Equity Income Fund of Fund - Regular Plan - Growth,INF205K01B15,,Open Ended Schemes,Other Scheme - FoF Overseas,37.9717,06-Jul-2026
+129188,Invesco Mutual Fund,Invesco India - Invesco Global Equity Income Fund of Fund - Direct Plan - Growth,INF205K01B49,,Open Ended Schemes,Other Scheme - FoF Overseas,42.1674,06-Jul-2026
+129189,Invesco Mutual Fund,Invesco India - Invesco Global Equity Income Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment),INF205K01B23,INF205K01B31,Open Ended Schemes,Other Scheme - FoF Overseas,37.9174,06-Jul-2026
+129190,Invesco Mutual Fund,Invesco India - Invesco Global Equity Income Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment),INF205K01B56,INF205K01B64,Open Ended Schemes,Other Scheme - FoF Overseas,41.6561,06-Jul-2026
 129191,HSBC Mutual Fund,HSBC Multi Asset Active FOF - Growth,INF336L01IG6,,Open Ended Schemes,Other Scheme - FoF Domestic,41.1783,03-Jul-2026
 129192,HSBC Mutual Fund,HSBC Multi Asset Active FOF IDCW,INF336L01IE1,INF336L01IF8,Open Ended Schemes,Other Scheme - FoF Domestic,30.0493,03-Jul-2026
 129193,HSBC Mutual Fund,HSBC Multi Asset Active FOF - Growth Direct,INF336L01IJ0,,Open Ended Schemes,Other Scheme - FoF Domestic,43.9101,03-Jul-2026
@@ -9890,10 +9890,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 148609,HDFC Mutual Fund,HDFC Dividend Yield Fund - Growth Option Direct Plan,INF179KC1AO6,,Open Ended Schemes,Equity Scheme - Dividend Yield Fund,26.879,06-Jul-2026
 148610,HDFC Mutual Fund,HDFC Dividend Yield Fund - Growth Plan,INF179KC1AR9,,Open Ended Schemes,Equity Scheme - Dividend Yield Fund,24.915,06-Jul-2026
 148611,HDFC Mutual Fund,HDFC Dividend Yield Fund - IDCW Plan,INF179KC1AS7,INF179KC1AT5,Open Ended Schemes,Equity Scheme - Dividend Yield Fund,19.855,06-Jul-2026
-148612,Invesco Mutual Fund,Invesco India - Invesco Global Consumer Trends Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment),INF205KA1239,INF205KA1254,Open Ended Schemes,Other Scheme - FoF Overseas,13.8001,02-Jul-2026
-148613,Invesco Mutual Fund,Invesco India - Invesco Global Consumer Trends Fund of Fund - Regular Plan - Growth,INF205KA1247,,Open Ended Schemes,Other Scheme - FoF Overseas,13.8004,02-Jul-2026
-148614,Invesco Mutual Fund,Invesco India - Invesco Global Consumer Trends Fund of Fund - Direct Plan - Growth,INF205KA1270,,Open Ended Schemes,Other Scheme - FoF Overseas,14.5742,02-Jul-2026
-148615,Invesco Mutual Fund,Invesco India - Invesco Global Consumer Trends Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment),INF205KA1262,INF205KA1288,Open Ended Schemes,Other Scheme - FoF Overseas,14.5733,02-Jul-2026
+148612,Invesco Mutual Fund,Invesco India - Invesco Global Consumer Trends Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment),INF205KA1239,INF205KA1254,Open Ended Schemes,Other Scheme - FoF Overseas,13.4395,06-Jul-2026
+148613,Invesco Mutual Fund,Invesco India - Invesco Global Consumer Trends Fund of Fund - Regular Plan - Growth,INF205KA1247,,Open Ended Schemes,Other Scheme - FoF Overseas,13.4398,06-Jul-2026
+148614,Invesco Mutual Fund,Invesco India - Invesco Global Consumer Trends Fund of Fund - Direct Plan - Growth,INF205KA1270,,Open Ended Schemes,Other Scheme - FoF Overseas,14.1948,06-Jul-2026
+148615,Invesco Mutual Fund,Invesco India - Invesco Global Consumer Trends Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment),INF205KA1262,INF205KA1288,Open Ended Schemes,Other Scheme - FoF Overseas,14.1939,06-Jul-2026
 148616,UTI Mutual Fund,UTI Small Cap Fund - Regular Plan - IDCW (Payout),INF789F1AUP3,,Open Ended Schemes,Equity Scheme - Small Cap Fund,27.313,06-Jul-2026
 148617,UTI Mutual Fund,UTI Small Cap Fund - Regular Plan - Growth Option,INF789F1AUO6,,Open Ended Schemes,Equity Scheme - Small Cap Fund,27.3132,06-Jul-2026
 148618,UTI Mutual Fund,UTI Small Cap Fund - Direct Plan - Growth Option,INF789F1AUQ1,,Open Ended Schemes,Equity Scheme - Small Cap Fund,29.7101,06-Jul-2026
@@ -10749,8 +10749,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 149949,Edelweiss Mutual Fund,Edelweiss CRISIL PSU Plus SDL 50:50 Oct 2025 Index Fund - Regular Plan Growth,INF754K01OC9,,Open Ended Schemes,Other Scheme - Index Funds,12.3027,31-Oct-2025
 149950,Edelweiss Mutual Fund,Edelweiss CRISIL PSU Plus SDL 50:50 Oct 2025 Index Fund - Direct Plan Growth,INF754K01OG0,,Open Ended Schemes,Other Scheme - Index Funds,12.3889,31-Oct-2025
 149959,Tata Mutual Fund,Tata Nifty India Digital Exchange Traded Fund,INF277KA1364,,Open Ended Schemes,Other Scheme - Other  ETFs,82.0337,06-Jul-2026
-149960,Invesco Mutual Fund,Invesco India - Invesco EQQQ Nasdaq-100 ETF Fund of Fund - Regular Plan - Growth,INF205KA1577,,Open Ended Schemes,Other Scheme - FoF Overseas,26.1343,02-Jul-2026
-149961,Invesco Mutual Fund,Invesco India - Invesco EQQQ Nasdaq-100 ETF Fund of Fund - Direct Plan - Growth,INF205KA1585,,Open Ended Schemes,Other Scheme - FoF Overseas,26.3963,02-Jul-2026
+149960,Invesco Mutual Fund,Invesco India - Invesco EQQQ Nasdaq-100 ETF Fund of Fund - Regular Plan - Growth,INF205KA1577,,Open Ended Schemes,Other Scheme - FoF Overseas,26.3429,06-Jul-2026
+149961,Invesco Mutual Fund,Invesco India - Invesco EQQQ Nasdaq-100 ETF Fund of Fund - Direct Plan - Growth,INF205KA1585,,Open Ended Schemes,Other Scheme - FoF Overseas,26.6077,06-Jul-2026
 149962,HSBC Mutual Fund,HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Direct - Payout of IDCW,INF336L01QI5,INF336L01QJ3,Open Ended Schemes,Other Scheme - Index Funds,13.2591,06-Jul-2026
 149963,HSBC Mutual Fund,HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Regular - Growth,INF336L01QK1,,Open Ended Schemes,Other Scheme - Index Funds,13.1567,06-Jul-2026
 149964,HSBC Mutual Fund,HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Regular - payout of IDCW,INF336L01QL9,INF336L01QM7,Open Ended Schemes,Other Scheme - Index Funds,13.1565,06-Jul-2026
@@ -14199,12 +14199,12 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 154391,Kotak Mahindra Mutual Fund,Kotak Nifty Alpha Low Volatility 30 Index Fund - Direct- IDCW,INF174KA1A37,INF174KA1A45,Open Ended Schemes,Other Scheme - Index Funds,10.256,06-Jul-2026
 154392,WhiteOak Capital Mutual Fund,WhiteOak Capital Aggressive Hybrid Fund Direct Plan Growth,INF03VN01AF8,,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund,10.232,06-Jul-2026
 154393,WhiteOak Capital Mutual Fund,WhiteOak Capital Aggressive Hybrid Fund Regular Plan Growth,INF03VN01AG6,,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund,10.227,06-Jul-2026
-154394,Shriram Mutual Fund,Shriram Overnight Fund- Direct Growth,INF680P01497,,Open Ended Schemes,Debt Scheme - Overnight Fund,1260.9006,06-Jul-2026
-154395,Shriram Mutual Fund,Shriram Overnight Fund- Direct Daily IDCW,,INF680P01513,Open Ended Schemes,Debt Scheme - Overnight Fund,999.199,06-Jul-2026
-154396,Shriram Mutual Fund,Shriram Overnight Fund- Direct Monthly IDCW,INF680P01612,INF680P01638,Open Ended Schemes,Debt Scheme - Overnight Fund,1003.1064,06-Jul-2026
-154398,Shriram Mutual Fund,Shriram Overnight Fund- Regular Daily IDCW,,INF680P01521,Open Ended Schemes,Debt Scheme - Overnight Fund,999.7217,06-Jul-2026
-154399,Shriram Mutual Fund,Shriram Overnight Fund- Regular Growth,INF680P01505,,Open Ended Schemes,Debt Scheme - Overnight Fund,1256.339,06-Jul-2026
-154402,Shriram Mutual Fund,Shriram Overnight Fund- Regular Monthly IDCW,INF680P01620,INF680P01646,Open Ended Schemes,Debt Scheme - Overnight Fund,1002.6546,06-Jul-2026
+154394,Shriram Mutual Fund,Shriram Overnight Fund- Direct Growth,INF680P01497,,Open Ended Schemes,Debt Scheme - Overnight Fund,1260.8555,06-Jul-2026
+154395,Shriram Mutual Fund,Shriram Overnight Fund- Direct Daily IDCW,,INF680P01513,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.0266,06-Jul-2026
+154396,Shriram Mutual Fund,Shriram Overnight Fund- Direct Monthly IDCW,INF680P01612,INF680P01638,Open Ended Schemes,Debt Scheme - Overnight Fund,1003.0704,06-Jul-2026
+154398,Shriram Mutual Fund,Shriram Overnight Fund- Regular Daily IDCW,,INF680P01521,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.01,06-Jul-2026
+154399,Shriram Mutual Fund,Shriram Overnight Fund- Regular Growth,INF680P01505,,Open Ended Schemes,Debt Scheme - Overnight Fund,1256.8694,06-Jul-2026
+154402,Shriram Mutual Fund,Shriram Overnight Fund- Regular Monthly IDCW,INF680P01620,INF680P01646,Open Ended Schemes,Debt Scheme - Overnight Fund,1003.0779,06-Jul-2026
 154404,ICICI Prudential Mutual Fund,ICICI Prudential Nifty Smallcap 250 ETF,INF109K1A476,,Open Ended Schemes,Other Scheme - Other  ETFs,18.0786,06-Jul-2026
 154413,Choice Mutual Fund,Choice Overnight Fund - Growth Option - Direct Plan,,,Open Ended Schemes,Debt Scheme - Overnight Fund,100.048,06-Jul-2026
 154414,Choice Mutual Fund,Choice Overnight Fund - Daily IDCW Option - Regular Plan,,,Open Ended Schemes,Debt Scheme - Overnight Fund,100.0471,06-Jul-2026
