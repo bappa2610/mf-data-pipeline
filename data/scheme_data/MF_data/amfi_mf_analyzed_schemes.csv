@@ -34232,10 +34232,10 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 152147,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life US Treasury 3-10 Year Bond ETFs Fund Of Funds-Regular Growth,INF209KB19W1,Open Ended,Other,FoF Overseas,Regular,Growth,
 152149,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life US Treasury 3-10 Year Bond ETFs Fund Of Funds-Regular IDCW,INF209KB10X8,Open Ended,Other,FoF Overseas,Regular,IDCW,
 152150,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life US Treasury 3-10 Year Bond ETFs Fund Of Funds-Direct Growth,INF209KB12X4,Open Ended,Other,FoF Overseas,Direct,Growth,
-152151,Helios Mutual Fund,Helios Overnight Fund - Direct Plan - Daily IDCW Option,INF0R8701087,Open Ended,Debt,Overnight Fund,Direct,IDCW,Daily
-152152,Helios Mutual Fund,Helios Overnight Fund - Direct Plan - Growth Option,INF0R8701079,Open Ended,Debt,Overnight Fund,Direct,Growth,
-152153,Helios Mutual Fund,Helios Overnight Fund - Regular Plan - Growth Option,INF0R8701095,Open Ended,Debt,Overnight Fund,Regular,Growth,
-152154,Helios Mutual Fund,Helios Overnight Fund - Regular Plan - Daily IDCW Option,INF0R8701103,Open Ended,Debt,Overnight Fund,Regular,IDCW,Daily
+152151,Helios Mutual Fund,Helios Overnight Fund - Direct Plan - Daily IDCW Option,INF0R8701087,Open Ended,Income/Debt Orienteds,Overnight Fund,Direct,IDCW,Daily
+152152,Helios Mutual Fund,Helios Overnight Fund - Direct Plan - Growth Option,INF0R8701079,Open Ended,Income/Debt Orienteds,Overnight Fund,Direct,Growth,
+152153,Helios Mutual Fund,Helios Overnight Fund - Regular Plan - Growth Option,INF0R8701095,Open Ended,Income/Debt Orienteds,Overnight Fund,Regular,Growth,
+152154,Helios Mutual Fund,Helios Overnight Fund - Regular Plan - Daily IDCW Option,INF0R8701103,Open Ended,Income/Debt Orienteds,Overnight Fund,Regular,IDCW,Daily
 152155,Mirae Asset Mutual Fund,Mirae Asset Nifty IT ETF,INF769K01KV5,Open Ended,Other,ETF,Other,Other,
 152156,Zerodha Mutual Fund,Zerodha Nifty LargeMidcap 250 Index Fund - Direct Plan - Growth option,INF0R8F01018,Open Ended,Other,Index Funds,Direct,Growth,
 152157,Zerodha Mutual Fund,Zerodha ELSS Tax Saver Nifty LargeMidcap 250 Index Fund - Direct Plan - Growth option,INF0R8F01026,Open Ended,Other,Index Funds,Direct,Growth,
@@ -34554,10 +34554,10 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 152506,Nippon Life India Asset Management Limited,Nippon India Fixed Maturity Plan XLVI Series 3 - Direct Plan- Growth,INF204KC1CN3,Close Ended,Income,Income,Direct,Growth,
 152507,Nippon Life India Asset Management Limited,Nippon India Fixed Maturity Plan XLVI Series 3 - Regular Plan -IDCW Payout,INF204KC1CM5,Close Ended,Income,Income,Regular,IDCW,
 152508,Nippon Life India Asset Management Limited,Nippon India Fixed Maturity Plan XLVI Series 3 - Direct Plan - IDCW Payout,INF204KC1CO1,Close Ended,Income,Income,Direct,IDCW,
-152509,Helios Mutual Fund,Helios Balanced Advantage Fund- Direct Plan- Growth Option,INF0R8701145,Open Ended,Hybrid,Dynamic Asset Allocation or Balanced Advantage,Direct,Growth,
-152510,Helios Mutual Fund,Helios Balanced Advantage Fund- Regular Plan-IDCW Option,INF0R8701129,Open Ended,Hybrid,Dynamic Asset Allocation or Balanced Advantage,Regular,IDCW,
-152511,Helios Mutual Fund,Helios Balanced Advantage Fund- Direct Plan-IDCW Option,INF0R8701152,Open Ended,Hybrid,Dynamic Asset Allocation or Balanced Advantage,Direct,IDCW,
-152512,Helios Mutual Fund,Helios Balanced Advantage Fund- Regular Plan- Growth Option,INF0R8701111,Open Ended,Hybrid,Dynamic Asset Allocation or Balanced Advantage,Regular,Growth,
+152509,Helios Mutual Fund,Helios Balanced Advantage Fund- Direct Plan- Growth Option,INF0R8701145,Open Ended,Hybrids,Balanced Advantage Fund/ Dynamic Asset Allocation,Direct,Growth,
+152510,Helios Mutual Fund,Helios Balanced Advantage Fund- Regular Plan-IDCW Option,INF0R8701129,Open Ended,Hybrids,Balanced Advantage Fund/ Dynamic Asset Allocation,Regular,IDCW,
+152511,Helios Mutual Fund,Helios Balanced Advantage Fund- Direct Plan-IDCW Option,INF0R8701152,Open Ended,Hybrids,Balanced Advantage Fund/ Dynamic Asset Allocation,Direct,IDCW,
+152512,Helios Mutual Fund,Helios Balanced Advantage Fund- Regular Plan- Growth Option,INF0R8701111,Open Ended,Hybrids,Balanced Advantage Fund/ Dynamic Asset Allocation,Regular,Growth,
 152513,Axis Mutual Fund,Axis CRISIL IBX SDL June 2034 Debt Index Fund - Regular Plan - IDCW Option,INF846K017V5,Open Ended,Other,Index Funds,Regular,IDCW,
 152514,Axis Mutual Fund,Axis CRISIL IBX SDL June 2034 Debt Index Fund - Direct Plan - IDCW Option,INF846K010W8,Open Ended,Other,Index Funds,Direct,IDCW,
 152515,Axis Mutual Fund,Axis CRISIL IBX SDL June 2034 Debt Index Fund - Direct Plan - Growth Option,INF846K019V1,Open Ended,Other,Index Funds,Direct,Growth,
@@ -36429,3 +36429,4 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 154487,Baroda BNP Paribas Asset Management India Private Limited,Baroda BNP Paribas Services Fund - Regular IDCW Payout,INF251K01VW9,Open Ended,Equitys,Thematic Fund,Regular,IDCW,
 154490,Baroda BNP Paribas Asset Management India Private Limited,Baroda BNP Paribas Services Fund - Direct Growth Option,INF251K01VY5,Open Ended,Equitys,Thematic Fund,Direct,Growth,
 154491,Kotak Mahindra Asset Management Company Limited.,Kotak Nifty Private Bank ETF,INF174KA1A9,Open Ended,Exchange Traded Funds (ETFs),ETF,Other,Other,
+154492,Bajaj Finserv Asset Management Limited,Bajaj Finserv BSE Top 10 Banks ETF,,Open Ended,Exchange Traded Funds (ETFs),ETF,Other,Other,
