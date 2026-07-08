@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Helios Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Overnight Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Overnight Fund",
         "scheme_code": 152151,
         "scheme_name": "Helios Overnight Fund - Direct Plan - Daily IDCW Option",
         "isin_growth": "INF0R8701087",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "07-07-2026",
+            "nav": "1000.00000"
+        },
         {
             "date": "06-07-2026",
             "nav": "1000.00000"

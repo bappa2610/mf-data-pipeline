@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Aditya Birla Sun Life Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Index Funds",
+        "scheme_category": "Index Funds - Equity Funds",
         "scheme_code": 149836,
         "scheme_name": "Aditya Birla Sun Life Nifty Next 50 Index Fund-Regular IDCW",
         "isin_growth": "INF209KB13G7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "07-07-2026",
+            "nav": "17.48580"
+        },
         {
             "date": "06-07-2026",
             "nav": "17.59210"

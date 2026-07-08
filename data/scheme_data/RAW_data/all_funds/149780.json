@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Aditya Birla Sun Life Mutual Fund",
+        "fund_house": "Open Ended Schemes(Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic))",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Equity Scheme - Value Fund",
         "scheme_code": 149780,
         "scheme_name": "Aditya Birla Sun Life Silver ETF FOF-Direct Growth",
         "isin_growth": "INF209KB16F2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "07-07-2026",
+            "nav": "35.17810"
+        },
         {
             "date": "06-07-2026",
             "nav": "35.79820"

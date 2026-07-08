@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Aditya Birla Sun Life Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Index Funds",
+        "scheme_category": "Index Funds - Equity Funds",
         "scheme_code": 148811,
         "scheme_name": "Aditya Birla Sun Life Nifty Smallcap 50 Index Fund-Regular Growth",
         "isin_growth": "INF209KB1V83",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "07-07-2026",
+            "nav": "22.57620"
+        },
         {
             "date": "06-07-2026",
             "nav": "22.68650"
