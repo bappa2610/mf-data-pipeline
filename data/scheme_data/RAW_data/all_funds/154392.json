@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "WhiteOak Capital Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
+        "scheme_category": "Hybrid Schemes - Aggressive Hybrid Fund",
         "scheme_code": 154392,
         "scheme_name": "WhiteOak Capital Aggressive Hybrid Fund Direct Plan Growth",
         "isin_growth": "INF03VN01AF8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "08-07-2026",
+            "nav": "10.07700"
+        },
         {
             "date": "07-07-2026",
             "nav": "10.21200"
