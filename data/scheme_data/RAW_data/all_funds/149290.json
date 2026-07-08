@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Aditya Birla Sun Life Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Overseas",
+        "scheme_category": "Overseas Fund of Funds - Fund of Funds investing overseas",
         "scheme_code": 149290,
         "scheme_name": "Aditya Birla Sun Life US Equity Passive FOF-Regular Growth",
         "isin_growth": "INF209KB15C1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "07-07-2026",
+            "nav": "22.26300"
+        },
         {
             "date": "06-07-2026",
             "nav": "22.93750"

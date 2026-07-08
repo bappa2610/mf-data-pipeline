@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Kotak Mahindra Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
+        "scheme_category": "Equity Scheme - Value Fund",
         "scheme_code": 154317,
         "scheme_name": "Kotak Multi Asset Active FOF - Direct - IDCW",
         "isin_growth": "INF174KA1ZP7",
         "isin_div_reinvestment": "INF174KA1ZQ5"
     },
     "data": [
+        {
+            "date": "07-07-2026",
+            "nav": "10.17900"
+        },
         {
             "date": "06-07-2026",
             "nav": "10.22300"
