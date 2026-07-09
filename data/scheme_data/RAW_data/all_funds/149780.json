@@ -1,6 +1,6 @@
 {
     "meta": {
-        "fund_house": "Open Ended Schemes(Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic))",
+        "fund_house": "Aditya Birla Sun Life Mutual Fund",
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Value Fund",
         "scheme_code": 149780,
@@ -9,6 +9,10 @@
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "09-07-2026",
+            "nav": "34.60360"
+        },
         {
             "date": "08-07-2026",
             "nav": "34.17280"
