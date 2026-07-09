@@ -454,13 +454,13 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 101997,HDFC Mutual Fund,HDFC Overnight Fund - IDCW Option (Daily),,INF179KB1IF8,Open Ended Schemes,Debt Scheme - Overnight Fund,1042.66,08-Jul-2026
 102000,HDFC Mutual Fund,HDFC Large Cap Fund - Growth Option - Regular Plan,INF179K01BE2,,Open Ended Schemes,Equity Scheme - Large Cap Fund,1120.179,08-Jul-2026
 102001,HDFC Mutual Fund,HDFC Large Cap Fund - IDCW Option - Regular Plan,INF179K01BC6,INF179K01BD4,Open Ended Schemes,Equity Scheme - Large Cap Fund,51.3,08-Jul-2026
-102007,UTI Mutual Fund,UTI-  Liquid Cash Plan- Discontinued -Regular Plan Periodic Dividend Option,,INF789F1AE94,Open Ended Schemes,Debt Scheme - Liquid Fund,113.2457,08-Jul-2026
-102008,UTI Mutual Fund,UTI-  Liquid Cash Plan- Discontinued - Regular Plan - Monthly Dividend Option,INF789F1AF44,INF789F1AG27,Open Ended Schemes,Debt Scheme - Liquid Fund,106.4881,08-Jul-2026
-102009,UTI Mutual Fund,UTI-  Liquid Cash Plan- Discontinued - Regular Plan -Growth,INF789F1AG35,,Open Ended Schemes,Debt Scheme - Liquid Fund,413.6978,08-Jul-2026
-102010,UTI Mutual Fund,UTI Liquid Fund - Regular Plan - Daily IDCW (Reinvestment),,INF789F1AF77,Open Ended Schemes,Debt Scheme - Liquid Fund,120.007,08-Jul-2026
-102011,UTI Mutual Fund,UTI Liquid Fund - Regular Plan - Monthly IDCW,INF789F1AF93,INF789F1AG01,Open Ended Schemes,Debt Scheme - Liquid Fund,112.7523,08-Jul-2026
-102012,UTI Mutual Fund,UTI-  Liquid Cash Plan - Regular Plan - Growth Option,INF789F1AF85,,Open Ended Schemes,Debt Scheme - Liquid Fund,455.8954,08-Jul-2026
-102013,UTI Mutual Fund,UTI Liquid Fund - Regular Plan - Weekly IDCW,,INF789F1AG19,Open Ended Schemes,Debt Scheme - Liquid Fund,105.2834,08-Jul-2026
+102007,UTI Mutual Fund,UTI Liquid Fund - Discontinued -Regular Plan Periodic Dividend Option,,INF789F1AE94,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,113.2457,08-Jul-2026
+102008,UTI Mutual Fund,UTI Liquid Fund - Discontinued - Regular Plan - Monthly Dividend Option,INF789F1AF44,INF789F1AG27,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,106.4881,08-Jul-2026
+102009,UTI Mutual Fund,UTI Liquid Fund - Discontinued - Regular Plan -Growth,INF789F1AG35,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,413.6978,08-Jul-2026
+102010,UTI Mutual Fund,UTI Liquid Fund - Regular Plan - Daily IDCW (Reinvestment),,INF789F1AF77,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,120.007,08-Jul-2026
+102011,UTI Mutual Fund,UTI Liquid Fund - Regular Plan - Monthly IDCW,INF789F1AF93,INF789F1AG01,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,112.7523,08-Jul-2026
+102012,UTI Mutual Fund,UTI Liquid Fund - Regular Plan - Growth Option,INF789F1AF85,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,455.8954,08-Jul-2026
+102013,UTI Mutual Fund,UTI Liquid Fund - Regular Plan - Weekly IDCW,,INF789F1AG19,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,105.2834,08-Jul-2026
 102020,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas MULTI CAP FUND - Regular Plan - Growth Option,INF955L01674,,Open Ended Schemes,Equity Scheme - Multi Cap Fund,288.7974,08-Jul-2026
 102021,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas MULTI CAP FUND - Regular Plan - IDCW Option,INF955L01658,INF955L01666,Open Ended Schemes,Equity Scheme - Multi Cap Fund,50.8412,08-Jul-2026
 102036,Tata Mutual Fund,Tata Large Cap Fund- Regular Plan - Payout of IDCW Option,INF277K01EG3,INF277K01923,Open Ended Schemes,Equity Scheme - Large Cap Fund,100.5901,08-Jul-2026
@@ -920,7 +920,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 106876,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life International Equity Fund - Plan B - Growth - Regular Plan,INF209K01546,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,28.8036,28-Jul-2023
 106885,ICICI Prudential Mutual Fund,ICICI Prudential Interval Fund II - Quarterly Interval Plan B - Retail Dividend,INF109K01MW8,,Open Ended Schemes,Income,10.0124,14-Sep-2017
 106886,ICICI Prudential Mutual Fund,ICICI Prudential Interval Fund II - Quarterly Interval Plan B - Retail Growth,INF109K01MV0,,Open Ended Schemes,Income,20.9682,14-Sep-2017
-106929,Kotak Mahindra Mutual Fund,Kotak Nifty PSU Bank ETF,INF373I01023,,Open Ended Schemes,Other Scheme - Other  ETFs,809.0168,08-Jul-2026
+106929,Kotak Mahindra Mutual Fund,Kotak Nifty PSU Bank ETF,INF174KA1A86,,Open Ended Schemes,Exchange Traded Funds,809.0168,08-Jul-2026
 106976,ICICI Prudential Mutual Fund,ICICI Prudential Interval Fund II - Quarterly Interval Plan C - Retail Growth,INF109K01NH7,,Open Ended Schemes,Income,22.1759,25-Sep-2017
 106977,ICICI Prudential Mutual Fund,ICICI Prudential Interval Fund II - Quarterly Interval Plan C - Retail Dividend,INF109K01NI5,,Open Ended Schemes,Income,10.0038,25-Sep-2017
 106978,Franklin Templeton Mutual Fund,Franklin Asian Equity Fund - IDCW,INF090I01999,INF090I01AA5,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,20.9609,08-Jul-2026
@@ -1460,7 +1460,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 115103,JM Financial Mutual Fund,JM Short Term Fund - Daily Dividend Option,,INF192K01BD7,Open Ended Schemes,Debt Scheme - Short Duration Fund,14.0738,25-Sep-2020
 115116,HSBC Mutual Fund,HSBC Brazil Fund-Growth,INF336L01164,,Open Ended Schemes,Other Scheme - FoF Overseas,9.9225,08-Jul-2026
 115117,HSBC Mutual Fund,HSBC Brazil Fund - IDCW,INF336L01172,INF336L01180,Open Ended Schemes,Other Scheme - FoF Overseas,9.9225,08-Jul-2026
-115127,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Gold ETF,INF209KB18D3,,Open Ended Schemes,Other Scheme - Gold ETF,124.5494,08-Jul-2026
+115127,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Gold ETF,INF209KB18D3,,Open Ended Schemes,Exchange Traded Funds,124.5494,08-Jul-2026
 115131,Axis Mutual Fund,Axis Dynamic Bond Fund - Regular Plan - Half Yearly IDCW,INF846K01941,INF846K01958,Open Ended Schemes,Debt Scheme - Dynamic Bond,11.9668,08-Jul-2026
 115132,Quantum Mutual Fund,Quantum Gold ETF FOF - Direct Plan Growth Option,INF082J01150,,Open Ended Schemes,Other Scheme - FoF Domestic,54.1838,08-Jul-2026
 115269,ICICI Prudential Mutual Fund,ICICI Prudential Multi-Asset Fund- Institutional Growth Option,INF109K01TN2,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,22.849,24-Apr-2020
@@ -2496,7 +2496,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 120301,ICICI Prudential Mutual Fund,ICICI Prudential Blended Plan B - Direct Plan -  Monthly Dividend Option - I,INF109K018J0,INF109K019J8,Open Ended Schemes,Income,10.3063,07-Oct-2016
 120302,ICICI Prudential Mutual Fund,ICICI Prudential Blended Plan B - Direct Plan -  Dividend Option - I,INF109K015J6,INF109K016J4,Open Ended Schemes,Income,17.7362,07-Oct-2016
 120303,ICICI Prudential Mutual Fund,ICICI Prudential Blended Plan B-Direct Plan -  Daily Dividend Option - I,INF109K014J9,,Open Ended Schemes,Income,12.0320,07-Oct-2016
-120304,UTI Mutual Fund,UTI-  Liquid Cash Plan - Direct Plan - Growth Option,INF789F1AD46,,Open Ended Schemes,Debt Scheme - Liquid Fund,460.4774,08-Jul-2026
+120304,UTI Mutual Fund,UTI Liquid Fund - Direct Plan - Growth Option,INF789F1AD46,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,460.4774,08-Jul-2026
 120307,LIC Mutual Fund,LIC MF Nifty 50 Index Fund-Direct Plan-Growth,INF767K01FF2,,Open Ended Schemes,Other Scheme - Index Funds,142.915,08-Jul-2026
 120308,LIC Mutual Fund,LIC MF BSE Sensex Index Fund-Direct Plan-Growth,INF767K01FJ4,,Open Ended Schemes,Other Scheme - Index Funds,154.1717,08-Jul-2026
 120309,LIC Mutual Fund,LIC MF Nifty 50 Index Fund-Direct Plan-IDCW,INF767K01FG0,INF767K01FH8,Open Ended Schemes,Other Scheme - Index Funds,52.6561,08-Jul-2026
@@ -2662,7 +2662,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 120545,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Gold Fund-DIRECT - IDCW,INF209K01YT7,,Open Ended Schemes,Other Scheme - FoF Domestic,42.7406,08-Jul-2026
 120546,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Gold Fund - Growth - Direct Plan,INF209K01YU5,,Open Ended Schemes,Other Scheme - FoF Domestic,42.7421,08-Jul-2026
 120550,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Regular Savings Fund - DIRECT - MONTHLY IDCW,INF209K01R47,INF209K01XI2,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund,27.0882,08-Jul-2026
-120558,UTI Mutual Fund,UTI Liquid Fund - Direct Plan - Daily IDCW (Reinvestment),,INF789F1AD38,Open Ended Schemes,Debt Scheme - Liquid Fund,106.5304,08-Jul-2026
+120558,UTI Mutual Fund,UTI Liquid Fund - Direct Plan - Daily IDCW (Reinvestment),,INF789F1AD38,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,106.5304,08-Jul-2026
 120559,Invesco Mutual Fund,Invesco India Short Duration Fund - Direct Plan - Daily IDCW (Reinvestment),,INF205K01UE5,Open Ended Schemes,Debt Scheme - Short Duration Fund,1020.8818,08-Jul-2026
 120560,Invesco Mutual Fund,Invesco India Short Duration Fund - Direct Plan - Growth,INF205K01UH8,,Open Ended Schemes,Debt Scheme - Short Duration Fund,4180.134,08-Jul-2026
 120561,Invesco Mutual Fund,Invesco India Short Duration Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment),INF205K01UI6,INF205K01UJ4,Open Ended Schemes,Debt Scheme - Short Duration Fund,2750.6792,08-Jul-2026
@@ -2841,7 +2841,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 120766,UTI Mutual Fund,UTI Retirement Fund- Direct Plan,INF789F1AA64,,Open Ended Schemes,Solution Oriented Scheme - Retirement Fund,54.7486,08-Jul-2026
 120771,UTI Mutual Fund,UTI Children's Hybrid Fund - Direct Plan,INF789F1AZR8,,Open Ended Schemes,Solution Oriented Scheme - Childrenâs Fund,41.3478,08-Jul-2026
 120772,UTI Mutual Fund,UTI Money Market Fund - Direct Plan - Daily IDCW (Reinvestment),,INF789F01XU8,Open Ended Schemes,Debt Scheme - Money Market Fund,1029.7363,08-Jul-2026
-120777,UTI Mutual Fund,UTI Liquid Fund - Direct Plan - Weekly IDCW,,INF789F1AD79,Open Ended Schemes,Debt Scheme - Liquid Fund,107.8199,08-Jul-2026
+120777,UTI Mutual Fund,UTI Liquid Fund - Direct Plan - Weekly IDCW,,INF789F1AD79,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,107.8199,08-Jul-2026
 120778,UTI Mutual Fund,UTI Conservative Hybrid Fund - Direct Plan - Monthly IDCW,INF789F01UK5,INF789F01UL3,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund,19.2703,08-Jul-2026
 120779,UTI Mutual Fund,UTI Conservative Hybrid Fund - Direct Plan - Growth Option,INF789F01UJ7,,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund,76.9479,08-Jul-2026
 120780,UTI Mutual Fund,UTI India Consumer Fund - Direct Plan - Growth Option,INF789F01VF3,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,61.8265,08-Jul-2026
@@ -2856,7 +2856,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 120791,UTI Mutual Fund,UTI Gilt Fund - Direct Plan - IDCW,INF789F01TJ9,INF789F01TK7,Open Ended Schemes,Debt Scheme - Gilt Fund,31.5975,08-Jul-2026
 120792,UTI Mutual Fund,UTI - GILT FUND - Direct Plan - Growth Option,INF789F01TL5,,Open Ended Schemes,Debt Scheme - Gilt Fund,68.2766,08-Jul-2026
 120793,UTI Mutual Fund,UTI Money Market Fund - Direct Plan - Weekly IDCW,INF789F01XW4,INF789F01XX2,Open Ended Schemes,Debt Scheme - Money Market Fund,1131.0131,08-Jul-2026
-120794,UTI Mutual Fund,UTI Liquid Fund - Direct Plan - Monthly IDCW,INF789F1AD53,INF789F1AD61,Open Ended Schemes,Debt Scheme - Liquid Fund,104.5319,08-Jul-2026
+120794,UTI Mutual Fund,UTI Liquid Fund - Direct Plan - Monthly IDCW,INF789F1AD53,INF789F1AD61,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,104.5319,08-Jul-2026
 120795,UTI Mutual Fund,UTI Arbitrage Fund - Direct Plan - Growth Option,INF789FB1RG6,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,39.8011,08-Jul-2026
 120796,UTI Mutual Fund,UTI Arbitrage Fund - Direct Plan - IDCW,INF789FB1RE1,INF789FB1RF8,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,23.2819,08-Jul-2026
 120798,Nippon India Mutual Fund,Nippon India Yearly Interval Fund - Series 1 - Growth Plan - Growth Option,INF204K01M05,,Interval Fund Schemes,Income,18.3223,23-Feb-2021
@@ -4583,14 +4583,14 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 131896,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Income Plus Arbitrage Active FOF- Regular Plan - Growth Option,INF084M01AH5,,Open Ended Schemes,Other Scheme - FoF Domestic,39.5520,08-Jul-2026
 131897,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Income Plus Arbitrage Active FOF- DIRECT - IDCW,INF084M01DQ0,INF084M01DR8,Open Ended Schemes,Other Scheme - FoF Domestic,26.2466,08-Jul-2026
 131898,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Income Plus Arbitrage Active FOF- Direct Plan - Growth Option,INF084M01DP2,,Open Ended Schemes,Other Scheme - FoF Domestic,41.9165,08-Jul-2026
-132003,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-REGULAR - RETAIL - IDCW,INF084M01BA8,INF084M01BB6,Open Ended Schemes,Other Scheme - FoF Overseas,43.4070,07-Jul-2026
-132005,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Global Excellence Equity Fund Of Fund- Retail Plan - Regular Plan - Growth Option,INF084M01AZ7,,Open Ended Schemes,Other Scheme - FoF Overseas,43.3801,07-Jul-2026
-132009,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Global Excellence Equity Fund Of Fund - Retail Plan - Direct Plan - Growth Option,INF084M01EH7,,Open Ended Schemes,Other Scheme - FoF Overseas,46.4059,07-Jul-2026
-132010,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-DIRECT - RETAIL - IDCW,INF084M01EI5,INF084M01EJ3,Open Ended Schemes,Other Scheme - FoF Overseas,46.4297,07-Jul-2026
-132138,Aditya Birla Sun Life Mutual Fund,Aditya Birla SUn Life Global Emerging Opportunities Fund - Regular Plan - Growth Option,INF084M01AT0,,Open Ended Schemes,Other Scheme - FoF Overseas,33.5168,07-Jul-2026
-132139,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Global Emerging Opportunities Fund - Regular - IDCW,INF084M01AU8,INF084M01AV6,Open Ended Schemes,Other Scheme - FoF Overseas,33.5229,07-Jul-2026
-132140,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct plan - Growth Option,INF084M01EB0,,Open Ended Schemes,Other Scheme - FoF Overseas,35.2686,07-Jul-2026
-132141,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct - IDCW,INF084M01EC8,INF084M01ED6,Open Ended Schemes,Other Scheme - FoF Overseas,31.1932,07-Jul-2026
+132003,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-REGULAR - RETAIL - IDCW,INF084M01BA8,INF084M01BB6,Open Ended Schemes,Other Scheme - FoF Overseas,43.5585,08-Jul-2026
+132005,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Global Excellence Equity Fund Of Fund- Retail Plan - Regular Plan - Growth Option,INF084M01AZ7,,Open Ended Schemes,Other Scheme - FoF Overseas,43.5315,08-Jul-2026
+132009,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Global Excellence Equity Fund Of Fund - Retail Plan - Direct Plan - Growth Option,INF084M01EH7,,Open Ended Schemes,Other Scheme - FoF Overseas,46.5686,08-Jul-2026
+132010,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-DIRECT - RETAIL - IDCW,INF084M01EI5,INF084M01EJ3,Open Ended Schemes,Other Scheme - FoF Overseas,46.5924,08-Jul-2026
+132138,Aditya Birla Sun Life Mutual Fund,Aditya Birla SUn Life Global Emerging Opportunities Fund - Regular Plan - Growth Option,INF084M01AT0,,Open Ended Schemes,Other Scheme - FoF Overseas,33.6587,08-Jul-2026
+132139,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Global Emerging Opportunities Fund - Regular - IDCW,INF084M01AU8,INF084M01AV6,Open Ended Schemes,Other Scheme - FoF Overseas,33.6647,08-Jul-2026
+132140,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct plan - Growth Option,INF084M01EB0,,Open Ended Schemes,Other Scheme - FoF Overseas,35.4184,08-Jul-2026
+132141,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct - IDCW,INF084M01EC8,INF084M01ED6,Open Ended Schemes,Other Scheme - FoF Overseas,31.3257,08-Jul-2026
 132174,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Aggressive Hybrid Omni FOF- Regular Plan - Growth Option,INF084M01077,,Open Ended Schemes,Other Scheme - FoF Domestic,43.1645,08-Jul-2026
 132175,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Aggressive Hybrid Omni FOF-  Regular -  IDCW,INF084M01085,INF084M01093,Open Ended Schemes,Other Scheme - FoF Domestic,38.7155,08-Jul-2026
 132178,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Conservative Hybrid Active FOF- Regular Plan - Growth Option,INF084M01044,,Open Ended Schemes,Other Scheme - FoF Domestic,35.3673,08-Jul-2026
@@ -4914,7 +4914,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 133966,ICICI Prudential Mutual Fund,ICICI Prudential India Recovery Fund - Series 1 Dividend,INF109KB1110,,Close Ended Schemes,Growth,9.46,03-Oct-2018
 133971,UTI Mutual Fund,UTI Banking & PSU Fund - Regular Plan - Flexi IDCW,INF789FA1U61,INF789FA1U79,Open Ended Schemes,Debt Scheme - Banking and PSU Fund,15.5991,08-Jul-2026
 133972,UTI Mutual Fund,UTI Banking & PSU Fund - Direct Plan - Flexi IDCW,INF789FA1V29,INF789FA1V37,Open Ended Schemes,Debt Scheme - Banking and PSU Fund,20.4391,08-Jul-2026
-133973,UTI Mutual Fund,UTI Liquid Fund - Regular Plan - Annual IDCW,INF789F1AD12,INF789F1AD20,Open Ended Schemes,Debt Scheme - Liquid Fund,201.0229,08-Jul-2026
+133973,UTI Mutual Fund,UTI Liquid Fund - Regular Plan - Annual IDCW,INF789F1AD12,INF789F1AD20,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,201.0229,08-Jul-2026
 133974,Tata Mutual Fund,Tata Short Term Bond Fund- Direct Plan - Periodic Payout of IDCW Option,INF277K01P38,INF277K01P46,Open Ended Schemes,Debt Scheme - Short Duration Fund,29.7547,08-Jul-2026
 133975,Tata Mutual Fund,Tata Short Term Bond Fund- Regular Plan - Periodic Payout of IDCW Option,INF277K01P12,INF277K01P20,Open Ended Schemes,Debt Scheme - Short Duration Fund,26.6269,08-Jul-2026
 133984,Nippon India Mutual Fund,Reliance Dual Advantage Fixed Tenure Fund VII- Plan D- Growth Option,INF204KA1G69,,Close Ended Schemes,Income,11.6425,03-Apr-2018
@@ -4996,7 +4996,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 134410,Nippon India Mutual Fund,Reliance Dual Advantage Fixed Tenure Fund VII- Plan E- Direct Plan-Growth Option,INF204KA1L88,,Close Ended Schemes,Income,11.8440,14-May-2018
 134411,Nippon India Mutual Fund,Reliance Dual Advantage Fixed Tenure Fund VII- Plan E- Dividend Payout Option,INF204KA1L96,,Close Ended Schemes,Income,10.0000,14-May-2018
 134412,Nippon India Mutual Fund,Reliance Dual Advantage Fixed Tenure Fund VII- Plan E- Direct Plan-Dividend Payout Option,INF204KA1L70,,Close Ended Schemes,Income,10.0000,14-May-2018
-134427,UTI Mutual Fund,UTI Liquid Fund - Direct Plan - Annual IDCW,INF789F1AE45,INF789F1AE52,Open Ended Schemes,Debt Scheme - Liquid Fund,202.5121,08-Jul-2026
+134427,UTI Mutual Fund,UTI Liquid Fund - Direct Plan - Annual IDCW,INF789F1AE45,INF789F1AE52,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,202.5121,08-Jul-2026
 134458,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 76 - 1135 Days Plan Z Cumulative Option,INF109KB1BB7,,Close Ended Schemes,Income,12.6690,30-May-2018
 134459,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 76 - 1135 Days Plan Z Dividend Option,INF109KB1BC5,,Close Ended Schemes,Income,12.6690,30-May-2018
 134460,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 76 - 1135 Days Plan Z Direct Plan Dividend Option,INF109KB1BE1,,Close Ended Schemes,Income,12.7067,30-May-2018
@@ -5348,7 +5348,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 135718,ICICI Prudential Mutual Fund,ICICI Prudential Multiple Yield Fund - Series 10 - 1775 Days Plan A Direct Plan Cumulative Option,INF109KB1OP0,,Close Ended Schemes,Income,14.2742,16-Oct-2020
 135719,ICICI Prudential Mutual Fund,ICICI Prudential Multiple Yield Fund - Series 10 - 1775 Days Plan A Direct Plan Dividend Option,INF109KB1OQ8,,Close Ended Schemes,Income,14.2742,16-Oct-2020
 135720,ICICI Prudential Mutual Fund,ICICI Prudential Multiple Yield Fund - Series 10 - 1775 Days Plan A Dividend Option,INF109KB1OO3,,Close Ended Schemes,Income,13.8900,16-Oct-2020
-135721,UTI Mutual Fund,UTI Liquid Fund - Regular Plan - Quarterly IDCW,INF789F1AG43,INF789F1AG50,Open Ended Schemes,Debt Scheme - Liquid Fund,189.8103,08-Jul-2026
+135721,UTI Mutual Fund,UTI Liquid Fund - Regular Plan - Quarterly IDCW,INF789F1AG43,INF789F1AG50,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,189.8103,08-Jul-2026
 135744,Kotak Mahindra Mutual Fund,Kotak Nifty 50 Value 20 ETF - Payout of Income Distribution cum capital withdrawal option,INF174KA1ZE1,,Open Ended Schemes,Other Scheme - Other  ETFs,13.9433,08-Jul-2026
 135745,Kotak Mahindra Mutual Fund,Kotak Capital Protection Oriented Scheme - Series 2 - Dividend,INF174K01Z97,,Close Ended Schemes,Income,10.00000026,11-Dec-2018
 135746,Kotak Mahindra Mutual Fund,Kotak Capital Protection Oriented Scheme - Series 2 - Direct Growth,INF174K010A6,,Close Ended Schemes,Income,12.24230938,11-Dec-2018
@@ -5962,7 +5962,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 139821,PGIM India Mutual Fund,PGIM India Aggressive Hybrid Equity Fund-Monthly Dividend Option,INF663L01NY6,INF663L01NZ3,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund,22.11,08-Jul-2026
 139822,PGIM India Mutual Fund,PGIM India Aggressive Hybrid Equity Fund-Quarterly Dividend Option,INF663L01OC0,INF663L01OD8,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund,20.99,05-Mar-2021
 139823,PGIM India Mutual Fund,PGIM India Aggressive Hybrid Equity Fund-Direct Plan-Quarterly Divdend Option,INF663L01OE6,INF663L01OF3,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund,21.55,05-Mar-2021
-139838,UTI Mutual Fund,UTI Liquid Fund - Regular Plan - Fortnightly IDCW,INF789F1AF28,INF789F1AF36,Open Ended Schemes,Debt Scheme - Liquid Fund,115.6744,08-Jul-2026
+139838,UTI Mutual Fund,UTI Liquid Fund - Regular Plan - Fortnightly IDCW,INF789F1AF28,INF789F1AF36,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,115.6744,08-Jul-2026
 139839,Bandhan Mutual Fund,BANDHAN Nifty 50 ETF,INF194KA1U07,,Open Ended Schemes,Other Scheme - Other  ETFs,263.4884,08-Jul-2026
 139840,Bandhan Mutual Fund,BANDHAN BSE Sensex ETF,INF194KA1T91,,Open Ended Schemes,Other Scheme - Other  ETFs,831.3562,08-Jul-2026
 139841,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 79 - 1104 Days Plan P Cumulative Option,INF109KB1B48,,Close Ended Schemes,Income,12.3018,16-Sep-2019
@@ -6011,7 +6011,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 140021,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 80 - 1100 Days Plan A Dividend Option,INF109KB1H59,,Close Ended Schemes,Income,12.5893,25-Oct-2019
 140022,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 80 - 1100 Days Plan A Direct Plan Cumulative Option,INF109KB1H67,,Close Ended Schemes,Income,12.7173,25-Oct-2019
 140023,UTI Mutual Fund,UTI Money Market Fund - Direct Plan - Half-Yearly IDCW,INF789FA1M87,INF789FA1M95,Open Ended Schemes,Debt Scheme - Money Market Fund,1861.4023,08-Jul-2026
-140024,UTI Mutual Fund,UTI Liquid Fund - Direct Plan - Quarterly IDCW,INF789F1AE03,INF789F1AE11,Open Ended Schemes,Debt Scheme - Liquid Fund,191.2588,08-Jul-2026
+140024,UTI Mutual Fund,UTI Liquid Fund - Direct Plan - Quarterly IDCW,INF789F1AE03,INF789F1AE11,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,191.2588,08-Jul-2026
 140029,ICICI Prudential Mutual Fund,ICICI Prudential Value Fund - Series 9 - Cumulative Option,INF109KB1I25,,Close Ended Schemes,Growth,12.27,01-Nov-2019
 140030,ICICI Prudential Mutual Fund,ICICI Prudential Value Fund - Series 9 - Dividend Option,INF109KB1I33,,Close Ended Schemes,Growth,10.53,01-Nov-2019
 140031,ICICI Prudential Mutual Fund,ICICI Prudential Value Fund - Series 9 - Direct Plan - Cumulative Option,INF109KB1I41,,Close Ended Schemes,Growth,12.60,01-Nov-2019
@@ -6232,7 +6232,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 140501,ICICI Prudential Mutual Fund,ICICI Prudential Value Fund - Series 11 - Dividend Option,INF109KB1M78,,Close Ended Schemes,Growth,11.27,29-Jan-2020
 140502,ICICI Prudential Mutual Fund,ICICI Prudential Value Fund - Series 11 - Direct Plan - Cumulative Option,INF109KB1M86,,Close Ended Schemes,Growth,13.54,29-Jan-2020
 140503,ICICI Prudential Mutual Fund,ICICI Prudential Value Fund - Series 11 - Direct Plan - Dividend Option,INF109KB1M94,,Close Ended Schemes,Growth,11.69,29-Jan-2020
-140504,UTI Mutual Fund,UTI Liquid Fund - Direct Plan - Half-Yearly IDCW,INF789F1AE29,INF789F1AE37,Open Ended Schemes,Debt Scheme - Liquid Fund,158.1883,08-Jul-2026
+140504,UTI Mutual Fund,UTI Liquid Fund - Direct Plan - Half-Yearly IDCW,INF789F1AE29,INF789F1AE37,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,158.1883,08-Jul-2026
 140505,UTI Mutual Fund,UTI - Dual Advantage Fixed Term Series IV-II (1278 Days) - Regular Plan - Growth Option,INF789FC1HV5,,Close Ended Schemes,Income,11.7301,28-Jul-2020
 140506,UTI Mutual Fund,UTI - Dual Advantage Fixed Term Series IV-II (1278 Days) - Direct  Plan - Dividend Option,INF789FC1HW3,,Close Ended Schemes,Income,10,28-Jul-2020
 140507,UTI Mutual Fund,UTI - Dual Advantage Fixed Term Series IV-II (1278 Days) - Direct Plan - Growth Option,INF789FC1HX1,,Close Ended Schemes,Income,12.2771,28-Jul-2020
@@ -6245,7 +6245,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 140514,Nippon India Mutual Fund,Nippon India Dual Advantage Fixed Tenure Fund X- Plan F- Direct Plan-Growth Option,INF204KB1GX4,,Close Ended Schemes,Income,12.3240,23-Oct-2020
 140515,Nippon India Mutual Fund,Nippon India Dual Advantage Fixed Tenure Fund X- Plan F- Direct Plan-Dividend Payout Option,INF204KB1GW6,,Close Ended Schemes,Income,10.0000,23-Oct-2020
 140516,Nippon India Mutual Fund,Nippon India Dual Advantage Fixed Tenure Fund X- Plan F- Growth Option,INF204KB1GZ9,,Close Ended Schemes,Income,11.9817,23-Oct-2020
-140517,UTI Mutual Fund,UTI Liquid Fund - Regular Plan - Flexi IDCW,INF789F1AF02,INF789F1AF10,Open Ended Schemes,Debt Scheme - Liquid Fund,165.6786,08-Jul-2026
+140517,UTI Mutual Fund,UTI Liquid Fund - Regular Plan - Flexi IDCW,INF789F1AF02,INF789F1AF10,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,165.6786,08-Jul-2026
 140518,UTI Mutual Fund,UTI FTIF Series XXVI-II (1176 Days)- Direct Plan - Quarterly Div Option,INF789FC1HY9,,Close Ended Schemes,Income,10,21-Apr-2020
 140519,UTI Mutual Fund,UTI FTIF Series XXVI-II (1176 Days)- Direct Plan - Flexi Div Option,INF789FC1IA7,,Close Ended Schemes,Income,10,21-Apr-2020
 140520,UTI Mutual Fund,UTI FTIF Series XXVI-II (1176 Days)- Regular Plan - Growth Option,INF789FC1IH2,,Close Ended Schemes,Income,12.3599,21-Apr-2020
@@ -6380,7 +6380,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 140910,Kotak Mahindra Mutual Fund,Kotak FMP Series 200-Regular Plan-Growth Option,INF174K011M9,,Close Ended Schemes,Income,12.31234551,11-May-2020
 140911,Kotak Mahindra Mutual Fund,Kotak FMP Series 200-Direct Plan-Dividend Payout Option,INF174K014M3,,Close Ended Schemes,Income,12.46957982,11-May-2020
 140912,Kotak Mahindra Mutual Fund,Kotak FMP Series 200-Direct Plan-Growth Option,INF174K013M5,,Close Ended Schemes,Income,12.46958857,11-May-2020
-140913,UTI Mutual Fund,UTI Liquid Fund - Direct Plan - Fortnightly IDCW,INF789F1AD87,INF789F1AD95,Open Ended Schemes,Debt Scheme - Liquid Fund,115.7609,08-Jul-2026
+140913,UTI Mutual Fund,UTI Liquid Fund - Direct Plan - Fortnightly IDCW,INF789F1AD87,INF789F1AD95,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,115.7609,08-Jul-2026
 140914,Nippon India Mutual Fund,Nippon India Fixed Horizon Fund XXXIII- Series 4- Growth Option,INF204KB1IS0,,Close Ended Schemes,Income,12.6373,08-Jul-2020
 140917,Nippon India Mutual Fund,Nippon India Fixed Horizon Fund XXXIII- Series 4- Direct Plan-Growth Option,INF204KB1IU6,,Close Ended Schemes,Income,12.6602,08-Jul-2020
 140924,Nippon India Mutual Fund,Nippon India Fixed Horizon Fund XXXIII- Series 5- Dividend Payout Option,INF204KB1IX0,,Close Ended Schemes,Income,10.0000,16-Oct-2020
@@ -6803,7 +6803,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 141757,UTI Mutual Fund,UTI FTIF Series XXVII-VI (1113 Days) - Direct Plan - Growth Option,INF789FC1R54,,Close Ended Schemes,Income,11.3005,15-Sep-2020
 141766,Edelweiss Mutual Fund,Edelweiss Balanced Advantage Fund - Regular Plan - Monthly - IDCW Option,INF754K01IK4,INF754K01IL2,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage,20.37,08-Jul-2026
 141767,Edelweiss Mutual Fund,Edelweiss Balanced Advantage Fund - Direct Plan - Monthly - IDCW Option,INF754K01IH0,INF754K01II8,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage,25.86,08-Jul-2026
-141768,UTI Mutual Fund,UTI Liquid Fund - Direct Plan - Flexi IDCW,INF789F1AE60,INF789F1AE78,Open Ended Schemes,Debt Scheme - Liquid Fund,166.798,08-Jul-2026
+141768,UTI Mutual Fund,UTI Liquid Fund - Direct Plan - Flexi IDCW,INF789F1AE60,INF789F1AE78,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,166.798,08-Jul-2026
 141769,UTI Mutual Fund,UTI FTIF Series XXVII-VII (1104 Days) - Direct Plan - Annual Div Option,INF789FC1S38,,Close Ended Schemes,Income,10,15-Sep-2020
 141770,UTI Mutual Fund,UTI FTIF Series XXVII-VII (1104 Days) - Direct Plan - Quarterly Div Option,INF789FC1S20,,Close Ended Schemes,Income,10,15-Sep-2020
 141771,UTI Mutual Fund,UTI FTIF Series XXVII-VII (1104 Days) - Direct Plan - Maturity Div Option,INF789FC1S46,,Close Ended Schemes,Income,10,15-Sep-2020
@@ -7846,7 +7846,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 144466,Franklin Templeton Mutual Fund,Franklin India Equity Savings Fund- Growth Direct,INF090I01PD7,,Open Ended Schemes,Hybrid Scheme - Equity Savings,18.6309,08-Jul-2026
 144467,Franklin Templeton Mutual Fund,Franklin India Equity Savings Fund - Direct - Quarterly - IDCW,INF090I01PL0,INF090I01PK2,Open Ended Schemes,Hybrid Scheme - Equity Savings,13.8901,08-Jul-2026
 144468,Franklin Templeton Mutual Fund,Franklin India Equity Savings Fund - IDCW,INF090I01OZ3,INF090I01OY6,Open Ended Schemes,Hybrid Scheme - Equity Savings,13.8645,08-Jul-2026
-144475,UTI Mutual Fund,UTI Liquid Fund - Regular Plan - Half-Yearly IDCW,INF789F1AF51,INF789F1AF69,Open Ended Schemes,Debt Scheme - Liquid Fund,140.0063,08-Jul-2026
+144475,UTI Mutual Fund,UTI Liquid Fund - Regular Plan - Half-Yearly IDCW,INF789F1AF51,INF789F1AF69,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,140.0063,08-Jul-2026
 144480,Nippon India Mutual Fund,Nippon India Fixed Horizon Fund XXXVIII- Series 11- Growth Option,INF204KB1E69,,Close Ended Schemes,Income,12.9195,22-Oct-2021
 144481,Nippon India Mutual Fund,NIPPON INDIA FIXED HORIZON FUND - XXXVIII - SERIES 11 - IDCW Option,INF204KB1E77,,Close Ended Schemes,Income,12.9195,22-Oct-2021
 144482,Nippon India Mutual Fund,Nippon India Fixed Horizon Fund XXXVIII- Series 11- Direct Plan- Growth Option,INF204KB1E85,,Close Ended Schemes,Income,12.9696,22-Oct-2021
@@ -9874,10 +9874,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 148591,Union Mutual Fund,Union Aggressive Hybrid Fund - Regular Plan - Growth Option,INF582M01HC4,,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund,18.19,08-Jul-2026
 148592,Union Mutual Fund,Union Aggressive Hybrid Fund - Direct Plan - Growth Option,INF582M01GY0,,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund,19.38,08-Jul-2026
 148593,Union Mutual Fund,Union Aggressive Hybrid Fund - Direct Plan - IDCW Option,INF582M01HA8,INF582M01GZ7,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund,18.03,08-Jul-2026
-148594,DSP Mutual Fund,DSP Value Fund - Regular Plan - Growth,INF740KA1PM0,,Open Ended Schemes,Equity Scheme - Value Fund,23.8800,07-Jul-2026
-148595,DSP Mutual Fund,DSP Value Fund - Direct Plan - Growth,INF740KA1PP3,,Open Ended Schemes,Equity Scheme - Value Fund,24.9340,07-Jul-2026
-148596,DSP Mutual Fund,DSP Value Fund - Direct Plan - IDCW,INF740KA1PQ1,INF740KA1PR9,Open Ended Schemes,Equity Scheme - Value Fund,18.8860,07-Jul-2026
-148597,DSP Mutual Fund,DSP Value Fund - Regular Plan - IDCW,INF740KA1PN8,INF740KA1PO6,Open Ended Schemes,Equity Scheme - Value Fund,16.6910,07-Jul-2026
+148594,DSP Mutual Fund,DSP Value Fund - Regular Plan - Growth,INF740KA1PM0,,Open Ended Schemes,Equity Scheme - Value Fund,23.5490,08-Jul-2026
+148595,DSP Mutual Fund,DSP Value Fund - Direct Plan - Growth,INF740KA1PP3,,Open Ended Schemes,Equity Scheme - Value Fund,24.5890,08-Jul-2026
+148596,DSP Mutual Fund,DSP Value Fund - Direct Plan - IDCW,INF740KA1PQ1,INF740KA1PR9,Open Ended Schemes,Equity Scheme - Value Fund,18.6240,08-Jul-2026
+148597,DSP Mutual Fund,DSP Value Fund - Regular Plan - IDCW,INF740KA1PN8,INF740KA1PO6,Open Ended Schemes,Equity Scheme - Value Fund,16.4590,08-Jul-2026
 148598,ICICI Prudential Mutual Fund,ICICI Prudential Quant Fund Growth,INF109KC1O33,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,22.44,08-Jul-2026
 148599,ICICI Prudential Mutual Fund,ICICI Prudential Quant Fund IDCW,INF109KC1O58,INF109KC1O41,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,14.36,08-Jul-2026
 148600,ICICI Prudential Mutual Fund,ICICI Prudential Quant Fund Direct Plan Growth,INF109KC1O66,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,23.28,08-Jul-2026
@@ -10626,7 +10626,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 149776,ICICI Prudential Mutual Fund,ICICI Prudential Silver ETF FOF - Direct Plan - IDCW,INF109KC1Z06,INF109KC1Z14,Open Ended Schemes,Other Scheme - FoF Domestic,33.6744,08-Jul-2026
 149777,ICICI Prudential Mutual Fund,ICICI Prudential Silver ETF FOF - Growth,INF109KC1Y64,,Open Ended Schemes,Other Scheme - FoF Domestic,32.9467,08-Jul-2026
 149778,ICICI Prudential Mutual Fund,ICICI Prudential Silver ETF FOF - IDCW,INF109KC1Y72,INF109KC1Y80,Open Ended Schemes,Other Scheme - FoF Domestic,32.9461,08-Jul-2026
-149779,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Silver ETF,INF209KB19F6,,Open Ended Schemes,Other Scheme - Other  ETFs,219.8863,08-Jul-2026
+149779,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Silver ETF,INF209KB19F6,,Open Ended Schemes,Exchange Traded Funds,219.8863,08-Jul-2026
 149780,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Silver ETF FOF-Direct Growth,INF209KB16F2,,Open Ended Schemes,Fund of Funds Scheme,34.1728,08-Jul-2026
 149781,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Silver ETF FOF-Direct IDCW,INF209KB17F0,INF209KB18F8,Open Ended Schemes,Fund of Funds Scheme,34.1605,08-Jul-2026
 149783,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Silver ETF FOF-Regular Growth,INF209KB13F9,,Open Ended Schemes,Fund of Funds Scheme,33.4950,08-Jul-2026
@@ -10651,10 +10651,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 149803,UTI Mutual Fund,UTI BSE Sensex Index Fund - Direct Plan - Growth Option,INF789F1AVD7,,Open Ended Schemes,Other Scheme - Index Funds,13.8122,08-Jul-2026
 149804,Navi Mutual Fund,Navi Nifty Bank Index Fund- Direct Plan- Growth,INF959L01FT4,,Open Ended Schemes,Other Scheme - Index Funds,14.9557,08-Jul-2026
 149805,Navi Mutual Fund,Navi Nifty Bank Index Fund- Regular Plan- Growth,INF959L01FU2,,Open Ended Schemes,Other Scheme - Index Funds,14.4785,08-Jul-2026
-149814,DSP Mutual Fund,DSP Global Innovation Overseas Equity Omni FoF - Regular - IDCW,INF740KA1QN6,INF740KA1QO4,Open Ended Schemes,Other Scheme - FoF Overseas,21.5757,07-Jul-2026
-149815,DSP Mutual Fund,DSP Global Innovation Overseas Equity Omni FoF - Direct - IDCW,INF740KA1QQ9,INF740KA1QR7,Open Ended Schemes,Other Scheme - FoF Overseas,22.4530,07-Jul-2026
-149816,DSP Mutual Fund,DSP Global Innovation Overseas Equity Omni FoF - Direct - Growth,INF740KA1QP1,,Open Ended Schemes,Other Scheme - FoF Overseas,22.4530,07-Jul-2026
-149817,DSP Mutual Fund,DSP Global Innovation Overseas Equity Omni FoF - Regular - Growth,INF740KA1QM8,,Open Ended Schemes,Other Scheme - FoF Overseas,21.5757,07-Jul-2026
+149814,DSP Mutual Fund,DSP Global Innovation Overseas Equity Omni FoF - Regular - IDCW,INF740KA1QN6,INF740KA1QO4,Open Ended Schemes,Other Scheme - FoF Overseas,21.5329,08-Jul-2026
+149815,DSP Mutual Fund,DSP Global Innovation Overseas Equity Omni FoF - Direct - IDCW,INF740KA1QQ9,INF740KA1QR7,Open Ended Schemes,Other Scheme - FoF Overseas,22.4090,08-Jul-2026
+149816,DSP Mutual Fund,DSP Global Innovation Overseas Equity Omni FoF - Direct - Growth,INF740KA1QP1,,Open Ended Schemes,Other Scheme - FoF Overseas,22.4090,08-Jul-2026
+149817,DSP Mutual Fund,DSP Global Innovation Overseas Equity Omni FoF - Regular - Growth,INF740KA1QM8,,Open Ended Schemes,Other Scheme - FoF Overseas,21.5329,08-Jul-2026
 149822,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 59 (1618 Days) - Direct Plan - Growth,INF200KA19D2,,Close Ended Schemes,Income,13.0157,06-Jul-2026
 149823,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 59 (1618 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA10E9,,Close Ended Schemes,Income,13.0153,06-Jul-2026
 149824,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 59 (1618 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA18D4,,Close Ended Schemes,Income,12.9511,06-Jul-2026
@@ -11758,7 +11758,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 151530,UTI Mutual Fund,UTI Long Duration Fund - Direct Plan - Half Yearly IDCW Option,INF789F1AYE9,INF789F1AYF6,Open Ended Schemes,Debt Scheme - Long Duration Fund,12.4089,08-Jul-2026
 151531,UTI Mutual Fund,UTI Long Duration Fund - Regular Plan - Annual IDCW Option,INF789F1AXX1,INF789F1AXY9,Open Ended Schemes,Debt Scheme - Long Duration Fund,11.0807,08-Jul-2026
 151532,UTI Mutual Fund,UTI Long Duration Fund - Regular Plan - Flexi IDCW Option,INF789F1AXZ6,INF789F1AYA7,Open Ended Schemes,Debt Scheme - Long Duration Fund,12.0335,08-Jul-2026
-151533,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life CRISIL Liquid Overnight ETF - IDCW Daily Reinvestment with Weekly Payout,INF209KB18T9,,Open Ended Schemes,Other Scheme - Other  ETFs,1000.0000,08-Jul-2026
+151533,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life CRISIL Liquid Overnight ETF - IDCW Daily Reinvestment with Weekly Payout,INF209KB18T9,,Open Ended Schemes,Exchange Traded Funds,1000.0000,08-Jul-2026
 151546,Bandhan Mutual Fund,Bandhan US Treasury Bond 0-1 year specific Debt Passive FOF - REGULAR PLAN - GROWTH,INF194KB1FT6,,Open Ended Schemes,Other Scheme - FoF Overseas,13.2892,08-Jul-2026
 151547,Bandhan Mutual Fund,Bandhan US Treasury Bond 0-1 year specific Debt Passive FOF- REGULAR PLAN- IDCW,INF194KB1FU4,INF194KB1FZ3,Open Ended Schemes,Other Scheme - FoF Overseas,13.2892,08-Jul-2026
 151548,Bandhan Mutual Fund,Bandhan US Treasury Bond 0-1 year specific Debt Passive FOF - DIRECT PLAN - GROWTH,INF194KB1FV2,,Open Ended Schemes,Other Scheme - FoF Overseas,13.3151,08-Jul-2026
@@ -12031,7 +12031,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 151956,LIC Mutual Fund,LIC MF Short Duration Fund-Regular Plan-Weekly IDCW,INF397L01430,INF397L01448,Open Ended Schemes,Debt Scheme - Short Duration Fund,12.8055,08-Jul-2026
 151959,LIC Mutual Fund,LIC MF Short Duration Fund-Direct Plan-Monthly IDCW,INF397L01BH1,INF397L01BI9,Open Ended Schemes,Debt Scheme - Short Duration Fund,16.5604,08-Jul-2026
 151960,LIC Mutual Fund,LIC MF Short Duration Fund-Direct Plan-Weekly IDCW,INF397L01BK5,INF397L01BL3,Open Ended Schemes,Debt Scheme - Short Duration Fund,16.5605,08-Jul-2026
-151961,LIC Mutual Fund,LIC MF Gold Exchange Traded Fund,INF767K01SM1,,Open Ended Schemes,Other Scheme - Gold ETF,127.6259,08-Jul-2026
+151961,LIC Mutual Fund,LIC MF Gold Exchange Traded Fund,INF767K01SM1,,Open Ended Schemes,Other Scheme - Gold ETF,128.6223,09-Jul-2026
 151973,LIC Mutual Fund,LIC MF Gold ETF Fund of Fund-Regular Plan-Growth,INF397L01992,,Open Ended Schemes,Other Scheme - FoF Domestic,36.4643,08-Jul-2026
 151974,LIC Mutual Fund,LIC MF Gold ETF Fund of Fund-Direct Plan-Growth,INF397L01BU4,,Open Ended Schemes,Other Scheme - FoF Domestic,38.5599,08-Jul-2026
 151986,LIC Mutual Fund,LIC MF Medium to Long Duration Fund-Regular Plan-Quarterly IDCW,INF397L01FU5,,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund,16.3209,08-Jul-2026

@@ -1065,13 +1065,13 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 102001,HDFC Mutual Fund,HDFC Large Cap Fund - IDCW Option - Regular Plan,INF179K01BC6,Open Ended,Equity,Large Cap Fund,Regular,IDCW,
 102003,UTI Mutual Fund,UTI- Liquid Fund-Short Term Plan-Income,,Open Ended,Income,Income,Other,Other,
 102004,UTI Mutual Fund,UTI- Liquid Fund-Short Term Plan-Growth,,Open Ended,Income,Income,Other,Growth,
-102007,UTI Mutual Fund,UTI- Liquid Cash Plan- Discontinued -Regular Plan Periodic Dividend Option,,Open Ended,Debt,Liquid Fund,Regular,IDCW,
-102008,UTI Mutual Fund,UTI- Liquid Cash Plan- Discontinued - Regular Plan - Monthly Dividend Option,INF789F1AF44,Open Ended,Debt,Liquid Fund,Regular,IDCW,Monthly
-102009,UTI Mutual Fund,UTI- Liquid Cash Plan- Discontinued - Regular Plan -Growth,INF789F1AG35,Open Ended,Debt,Liquid Fund,Regular,Growth,
-102010,UTI Mutual Fund,UTI Liquid Fund - Regular Plan - Daily IDCW (Reinvestment),,Open Ended,Debt,Liquid Fund,Regular,IDCW,Reinvestment
-102011,UTI Mutual Fund,UTI Liquid Fund - Regular Plan - Monthly IDCW,INF789F1AF93,Open Ended,Debt,Liquid Fund,Regular,IDCW,Monthly
-102012,UTI Mutual Fund,UTI- Liquid Cash Plan - Regular Plan - Growth Option,INF789F1AF85,Open Ended,Debt,Liquid Fund,Regular,Growth,
-102013,UTI Mutual Fund,UTI Liquid Fund - Regular Plan - Weekly IDCW,,Open Ended,Debt,Liquid Fund,Regular,IDCW,Weekly
+102007,UTI Mutual Fund,UTI Liquid Fund - Discontinued -Regular Plan Periodic Dividend Option,,Open Ended,Income/Debt Orienteds,Liquid Fund,Regular,IDCW,
+102008,UTI Mutual Fund,UTI Liquid Fund - Discontinued - Regular Plan - Monthly Dividend Option,INF789F1AF44,Open Ended,Income/Debt Orienteds,Liquid Fund,Regular,IDCW,Monthly
+102009,UTI Mutual Fund,UTI Liquid Fund - Discontinued - Regular Plan -Growth,INF789F1AG35,Open Ended,Income/Debt Orienteds,Liquid Fund,Regular,Growth,
+102010,UTI Mutual Fund,UTI Liquid Fund - Regular Plan - Daily IDCW (Reinvestment),,Open Ended,Income/Debt Orienteds,Liquid Fund,Regular,IDCW,Reinvestment
+102011,UTI Mutual Fund,UTI Liquid Fund - Regular Plan - Monthly IDCW,INF789F1AF93,Open Ended,Income/Debt Orienteds,Liquid Fund,Regular,IDCW,Monthly
+102012,UTI Mutual Fund,UTI Liquid Fund - Regular Plan - Growth Option,INF789F1AF85,Open Ended,Income/Debt Orienteds,Liquid Fund,Regular,Growth,
+102013,UTI Mutual Fund,UTI Liquid Fund - Regular Plan - Weekly IDCW,,Open Ended,Income/Debt Orienteds,Liquid Fund,Regular,IDCW,Weekly
 102015,Standard Chartered Mutual Fund,GSSIF- MT(Div Bimonthly),,Open Ended,Income,Income,Other,Other,
 102016,Tata Mutual Fund,Tata Gilt High Fund - Growth,,Open Ended,Income,Income,Other,Growth,
 102018,DBS Chola Mutual Fund,DBS Chola Monthly Income Plan -Regular - Cumulative Plan,,Open Ended,Income,Income,Regular,Other,
@@ -4887,7 +4887,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 106926,Standard Chartered Mutual Fund,SCAF-FM-S1-Plan A-Growth,,Close Ended,Income,Income,Other,Growth,
 106927,Standard Chartered Mutual Fund,SCAF-FM-S1-Plan B-Dividend,,Close Ended,Income,Income,Other,IDCW,
 106928,Standard Chartered Mutual Fund,SCAF-FM-S1-Plan B-Growth,,Close Ended,Income,Income,Other,Growth,
-106929,Kotak Mahindra Mutual Fund,Kotak Nifty PSU Bank ETF,INF373I01023,Open Ended,Other,ETF,Other,Other,
+106929,Kotak Mahindra Mutual Fund,Kotak Nifty PSU Bank ETF,INF174KA1A86,Open Ended,Exchange Traded Funds,Exchange Traded Funds,Other,Other,
 106930,ICICI Prudential Mutual Fund,ICICI Prudential FMP series 41 - 18 Mths Plan - Institutional Dividend Option,,Close Ended,Income,Income,Institutional,IDCW,
 106931,ICICI Prudential Mutual Fund,ICICI Prudential FMP series 41 - 18 Mths Plan - Institutional Growth Option,,Close Ended,Income,Income,Institutional,Growth,
 106932,ICICI Prudential Mutual Fund,ICICI Prudential FMP series 41 - 18 Mths Plan - Retail Growth Option,,Close Ended,Income,Income,Retail,Growth,
@@ -10902,7 +10902,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 115124,Aditya Birla Sun Life Mutual Fund,Birla Sun Life Fixed Term Plan - Series CY - Growth,,Close Ended,Income,Income,Other,Growth,
 115125,Aditya Birla Sun Life Mutual Fund,Birla Sun Life Fixed Term Plan - Series CZ - Dividend,,Close Ended,Income,Income,Other,IDCW,
 115126,Aditya Birla Sun Life Mutual Fund,Birla Sun Life Fixed Term Plan - Series CZ - Growth,,Close Ended,Income,Income,Other,Growth,
-115127,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Gold ETF,INF209KB18D3,Open Ended,Other,ETF,Other,Other,
+115127,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Gold ETF,INF209KB18D3,Open Ended,Exchange Traded Funds,Exchange Traded Funds,Other,Other,
 115128,BNP Paribas Mutual Fund,BNP Paribas Fixed Term Fund-Sr 21 J - Dividend On Maturity Option,,Close Ended,Income,Income,Other,IDCW,
 115129,BNP Paribas Mutual Fund,BNP Paribas Fixed Term Fund-Sr 21 J - Calendar Quarterly Dividend Option,,Close Ended,Income,Income,Other,IDCW,Quarterly
 115130,BNP Paribas Mutual Fund,BNP Paribas Fixed Term Fund-Sr 21 J - Growth Option,,Close Ended,Income,Income,Other,Growth,
@@ -15218,7 +15218,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 120301,ICICI Prudential Mutual Fund,ICICI Prudential Blended Plan B - Direct Plan - Monthly Dividend Option - I,INF109K018J0,Open Ended,Income,Income,Direct,IDCW,Monthly
 120302,ICICI Prudential Mutual Fund,ICICI Prudential Blended Plan B - Direct Plan - Dividend Option - I,INF109K015J6,Open Ended,Income,Income,Direct,IDCW,
 120303,ICICI Prudential Mutual Fund,ICICI Prudential Blended Plan B-Direct Plan - Daily Dividend Option - I,INF109K014J9,Open Ended,Income,Income,Direct,IDCW,Daily
-120304,UTI Mutual Fund,UTI- Liquid Cash Plan - Direct Plan - Growth Option,INF789F1AD46,Open Ended,Debt,Liquid Fund,Direct,Growth,
+120304,UTI Mutual Fund,UTI Liquid Fund - Direct Plan - Growth Option,INF789F1AD46,Open Ended,Income/Debt Orienteds,Liquid Fund,Direct,Growth,
 120305,LIC Mutual Fund,LIC MF Index Fund-Sensex Advantage-Direct Plan Dividend Option,,Open Ended,Income,Income,Direct,IDCW,
 120306,LIC Mutual Fund,LIC MF Index Fund-Sensex Advantage-Direct Plan Growth Option,,Open Ended,Income,Income,Direct,Growth,
 120307,LIC Mutual Fund,LIC MF Nifty 50 Index Fund-Direct Plan-Growth,INF767K01FF2,Open Ended,Other,Index Funds,Direct,Growth,
@@ -15471,7 +15471,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 120555,Invesco Mutual Fund,Invesco India Regular Savings Fund - Direct Plan - Monthly Dividend,,Open Ended,Hybrid,Conservative Hybrid Fund,Direct,IDCW,Monthly
 120556,Invesco Mutual Fund,Religare Invesco Overnight Fund - Direct Plan - Daily Dividend Reinvestment,,Open Ended,Income,Income,Direct,IDCW,Reinvestment
 120557,Invesco Mutual Fund,Religare Invesco Overnight Fund - Direct Plan - Growth,,Open Ended,Income,Income,Direct,Growth,
-120558,UTI Mutual Fund,UTI Liquid Fund - Direct Plan - Daily IDCW (Reinvestment),,Open Ended,Debt,Liquid Fund,Direct,IDCW,Reinvestment
+120558,UTI Mutual Fund,UTI Liquid Fund - Direct Plan - Daily IDCW (Reinvestment),,Open Ended,Income/Debt Orienteds,Liquid Fund,Direct,IDCW,Reinvestment
 120559,Invesco Mutual Fund,Invesco India Short Duration Fund - Direct Plan - Daily IDCW (Reinvestment),,Open Ended,Debt,Short Duration Fund,Direct,IDCW,Reinvestment
 120560,Invesco Mutual Fund,Invesco India Short Duration Fund - Direct Plan - Growth,INF205K01UH8,Open Ended,Debt,Short Duration Fund,Direct,Growth,
 120561,Invesco Mutual Fund,Invesco India Short Duration Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment),INF205K01UI6,Open Ended,Debt,Short Duration Fund,Direct,IDCW,Reinvestment
@@ -15678,7 +15678,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 120774,UTI Mutual Fund,UTI Smart Woman Savings Plan - Dividend Option- Direct,,Open Ended,Income,Income,Direct,IDCW,
 120775,UTI Mutual Fund,UTI - MIS-Income-Direct,,Open Ended,Income,Income,Direct,Other,
 120776,UTI Mutual Fund,UTI - MIS-Growth-Direct,,Open Ended,Income,Income,Direct,Growth,
-120777,UTI Mutual Fund,UTI Liquid Fund - Direct Plan - Weekly IDCW,,Open Ended,Debt,Liquid Fund,Direct,IDCW,Weekly
+120777,UTI Mutual Fund,UTI Liquid Fund - Direct Plan - Weekly IDCW,,Open Ended,Income/Debt Orienteds,Liquid Fund,Direct,IDCW,Weekly
 120778,UTI Mutual Fund,UTI Conservative Hybrid Fund - Direct Plan - Monthly IDCW,INF789F01UK5,Open Ended,Hybrid,Conservative Hybrid Fund,Direct,IDCW,Monthly
 120779,UTI Mutual Fund,UTI Conservative Hybrid Fund - Direct Plan - Growth Option,INF789F01UJ7,Open Ended,Hybrid,Conservative Hybrid Fund,Direct,Growth,
 120780,UTI Mutual Fund,UTI India Consumer Fund - Direct Plan - Growth Option,INF789F01VF3,Open Ended,Equity,Sectoral/ Thematic,Direct,Growth,
@@ -15695,7 +15695,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 120791,UTI Mutual Fund,UTI Gilt Fund - Direct Plan - IDCW,INF789F01TJ9,Open Ended,Debt,Gilt Fund,Direct,IDCW,
 120792,UTI Mutual Fund,UTI - GILT FUND - Direct Plan - Growth Option,INF789F01TL5,Open Ended,Debt,Gilt Fund,Direct,Growth,
 120793,UTI Mutual Fund,UTI Money Market Fund - Direct Plan - Weekly IDCW,INF789F01XW4,Open Ended,Debt,Money Market Fund,Direct,IDCW,Weekly
-120794,UTI Mutual Fund,UTI Liquid Fund - Direct Plan - Monthly IDCW,INF789F1AD53,Open Ended,Debt,Liquid Fund,Direct,IDCW,Monthly
+120794,UTI Mutual Fund,UTI Liquid Fund - Direct Plan - Monthly IDCW,INF789F1AD53,Open Ended,Income/Debt Orienteds,Liquid Fund,Direct,IDCW,Monthly
 120795,UTI Mutual Fund,UTI Arbitrage Fund - Direct Plan - Growth Option,INF789FB1RG6,Open Ended,Hybrid,Arbitrage Fund,Direct,Growth,
 120796,UTI Mutual Fund,UTI Arbitrage Fund - Direct Plan - IDCW,INF789FB1RE1,Open Ended,Hybrid,Arbitrage Fund,Direct,IDCW,
 120797,Union Mutual Fund,Union KBC Capital Protection Oriented Fund - Series 2 - Direct Plan - Growth Option,,Close Ended,Income,Income,Direct,Growth,
@@ -23090,7 +23090,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 133966,ICICI Prudential Mutual Fund,ICICI Prudential India Recovery Fund - Series 1 Dividend,INF109KB1110,Close Ended,Growth,Growth,Other,IDCW,
 133971,UTI Mutual Fund,UTI Banking & PSU Fund - Regular Plan - Flexi IDCW,INF789FA1U61,Open Ended,Debt,Banking and PSU Fund,Regular,IDCW,
 133972,UTI Mutual Fund,UTI Banking & PSU Fund - Direct Plan - Flexi IDCW,INF789FA1V29,Open Ended,Debt,Banking and PSU Fund,Direct,IDCW,
-133973,UTI Mutual Fund,UTI Liquid Fund - Regular Plan - Annual IDCW,INF789F1AD12,Open Ended,Debt,Liquid Fund,Regular,IDCW,Annual
+133973,UTI Mutual Fund,UTI Liquid Fund - Regular Plan - Annual IDCW,INF789F1AD12,Open Ended,Income/Debt Orienteds,Liquid Fund,Regular,IDCW,Annual
 133974,Tata Mutual Fund,Tata Short Term Bond Fund- Direct Plan - Periodic Payout of IDCW Option,INF277K01P38,Open Ended,Debt,Short Duration Fund,Direct,IDCW,
 133975,Tata Mutual Fund,Tata Short Term Bond Fund- Regular Plan - Periodic Payout of IDCW Option,INF277K01P12,Open Ended,Debt,Short Duration Fund,Regular,IDCW,
 133984,Nippon India Mutual Fund,Reliance Dual Advantage Fixed Tenure Fund VII- Plan D- Growth Option,INF204KA1G69,Close Ended,Income,Income,Other,Growth,
@@ -23288,7 +23288,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 134424,L&T Mutual Fund,L&T Triple Ace Bond Fund - Regular Plan - Annual IDCW,,Open Ended,Debt,Corporate Bond Fund,Regular,IDCW,Annual
 134425,L&T Mutual Fund,L&T Resurgent India Bond Fund - Direct Plan - Annual IDCW,,Open Ended,Debt,Medium Duration Fund,Direct,IDCW,Annual
 134426,L&T Mutual Fund,L&T Resurgent India Bond Fund - Regular Plan - Annual IDCW,,Open Ended,Debt,Medium Duration Fund,Regular,IDCW,Annual
-134427,UTI Mutual Fund,UTI Liquid Fund - Direct Plan - Annual IDCW,INF789F1AE45,Open Ended,Debt,Liquid Fund,Direct,IDCW,Annual
+134427,UTI Mutual Fund,UTI Liquid Fund - Direct Plan - Annual IDCW,INF789F1AE45,Open Ended,Income/Debt Orienteds,Liquid Fund,Direct,IDCW,Annual
 134458,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 76 - 1135 Days Plan Z Cumulative Option,INF109KB1BB7,Close Ended,Income,Income,Other,Other,
 134459,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 76 - 1135 Days Plan Z Dividend Option,INF109KB1BC5,Close Ended,Income,Income,Other,IDCW,
 134460,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 76 - 1135 Days Plan Z Direct Plan Dividend Option,INF109KB1BE1,Close Ended,Income,Income,Direct,IDCW,
@@ -23886,7 +23886,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 135718,ICICI Prudential Mutual Fund,ICICI Prudential Multiple Yield Fund - Series 10 - 1775 Days Plan A Direct Plan Cumulative Option,INF109KB1OP0,Close Ended,Income,Income,Direct,Other,
 135719,ICICI Prudential Mutual Fund,ICICI Prudential Multiple Yield Fund - Series 10 - 1775 Days Plan A Direct Plan Dividend Option,INF109KB1OQ8,Close Ended,Income,Income,Direct,IDCW,
 135720,ICICI Prudential Mutual Fund,ICICI Prudential Multiple Yield Fund - Series 10 - 1775 Days Plan A Dividend Option,INF109KB1OO3,Close Ended,Income,Income,Other,IDCW,
-135721,UTI Mutual Fund,UTI Liquid Fund - Regular Plan - Quarterly IDCW,INF789F1AG43,Open Ended,Debt,Liquid Fund,Regular,IDCW,Quarterly
+135721,UTI Mutual Fund,UTI Liquid Fund - Regular Plan - Quarterly IDCW,INF789F1AG43,Open Ended,Income/Debt Orienteds,Liquid Fund,Regular,IDCW,Quarterly
 135739,Deutsche Mutual Fund,DWS Fixed Maturity Plan - Series 95 - Regular Option - Regular Dividend,,Close Ended,Income,Income,Regular,IDCW,
 135741,Deutsche Mutual Fund,DWS Fixed Maturity Plan - Series 95 - Direct Option - Growth,,Close Ended,Income,Income,Direct,Growth,
 135742,Deutsche Mutual Fund,DWS Fixed Maturity Plan - Series 95 - Regular Option - Growth,,Close Ended,Income,Income,Regular,Growth,
@@ -25119,7 +25119,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 139821,PGIM India Mutual Fund,PGIM India Aggressive Hybrid Equity Fund-Monthly Dividend Option,INF663L01NY6,Open Ended,Hybrid,Aggressive Hybrid Fund,Other,IDCW,Monthly
 139822,PGIM India Mutual Fund,PGIM India Aggressive Hybrid Equity Fund-Quarterly Dividend Option,INF663L01OC0,Open Ended,Hybrid,Aggressive Hybrid Fund,Other,IDCW,Quarterly
 139823,PGIM India Mutual Fund,PGIM India Aggressive Hybrid Equity Fund-Direct Plan-Quarterly Divdend Option,INF663L01OE6,Open Ended,Hybrid,Aggressive Hybrid Fund,Direct,Other,
-139838,UTI Mutual Fund,UTI Liquid Fund - Regular Plan - Fortnightly IDCW,INF789F1AF28,Open Ended,Debt,Liquid Fund,Regular,IDCW,Fortnightly
+139838,UTI Mutual Fund,UTI Liquid Fund - Regular Plan - Fortnightly IDCW,INF789F1AF28,Open Ended,Income/Debt Orienteds,Liquid Fund,Regular,IDCW,Fortnightly
 139839,Bandhan Mutual Fund,BANDHAN Nifty 50 ETF,INF194KA1U07,Open Ended,Other,ETF,Other,Other,
 139840,Bandhan Mutual Fund,BANDHAN BSE Sensex ETF,INF194KA1T91,Open Ended,Other,ETF,Other,Other,
 139841,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 79 - 1104 Days Plan P Cumulative Option,INF109KB1B48,Close Ended,Income,Income,Other,Other,
@@ -25241,7 +25241,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 140021,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 80 - 1100 Days Plan A Dividend Option,INF109KB1H59,Close Ended,Income,Income,Other,IDCW,
 140022,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 80 - 1100 Days Plan A Direct Plan Cumulative Option,INF109KB1H67,Close Ended,Income,Income,Direct,Other,
 140023,UTI Mutual Fund,UTI Money Market Fund - Direct Plan - Half-Yearly IDCW,INF789FA1M87,Open Ended,Debt,Money Market Fund,Direct,IDCW,Annual
-140024,UTI Mutual Fund,UTI Liquid Fund - Direct Plan - Quarterly IDCW,INF789F1AE03,Open Ended,Debt,Liquid Fund,Direct,IDCW,Quarterly
+140024,UTI Mutual Fund,UTI Liquid Fund - Direct Plan - Quarterly IDCW,INF789F1AE03,Open Ended,Income/Debt Orienteds,Liquid Fund,Direct,IDCW,Quarterly
 140025,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 80 - 1107 Days Plan B Cumulative Option,,Close Ended,Income,Income,Other,Other,
 140026,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 80 - 1107 Days Plan B Direct Plan Cumulative Option,,Close Ended,Income,Income,Direct,Other,
 140027,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 80 - 1107 Days Plan B Direct Plan Dividend Option,,Close Ended,Income,Income,Direct,IDCW,
@@ -25583,7 +25583,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 140501,ICICI Prudential Mutual Fund,ICICI Prudential Value Fund - Series 11 - Dividend Option,INF109KB1M78,Close Ended,Growth,Growth,Other,IDCW,
 140502,ICICI Prudential Mutual Fund,ICICI Prudential Value Fund - Series 11 - Direct Plan - Cumulative Option,INF109KB1M86,Close Ended,Growth,Growth,Direct,Other,
 140503,ICICI Prudential Mutual Fund,ICICI Prudential Value Fund - Series 11 - Direct Plan - Dividend Option,INF109KB1M94,Close Ended,Growth,Growth,Direct,IDCW,
-140504,UTI Mutual Fund,UTI Liquid Fund - Direct Plan - Half-Yearly IDCW,INF789F1AE29,Open Ended,Debt,Liquid Fund,Direct,IDCW,Annual
+140504,UTI Mutual Fund,UTI Liquid Fund - Direct Plan - Half-Yearly IDCW,INF789F1AE29,Open Ended,Income/Debt Orienteds,Liquid Fund,Direct,IDCW,Annual
 140505,UTI Mutual Fund,UTI - Dual Advantage Fixed Term Series IV-II (1278 Days) - Regular Plan - Growth Option,INF789FC1HV5,Close Ended,Income,Income,Regular,Growth,
 140506,UTI Mutual Fund,UTI - Dual Advantage Fixed Term Series IV-II (1278 Days) - Direct Plan - Dividend Option,INF789FC1HW3,Close Ended,Income,Income,Direct,IDCW,
 140507,UTI Mutual Fund,UTI - Dual Advantage Fixed Term Series IV-II (1278 Days) - Direct Plan - Growth Option,INF789FC1HX1,Close Ended,Income,Income,Direct,Growth,
@@ -25596,7 +25596,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 140514,Nippon India Mutual Fund,Nippon India Dual Advantage Fixed Tenure Fund X- Plan F- Direct Plan-Growth Option,INF204KB1GX4,Close Ended,Income,Income,Direct,Growth,
 140515,Nippon India Mutual Fund,Nippon India Dual Advantage Fixed Tenure Fund X- Plan F- Direct Plan-Dividend Payout Option,INF204KB1GW6,Close Ended,Income,Income,Direct,IDCW,
 140516,Nippon India Mutual Fund,Nippon India Dual Advantage Fixed Tenure Fund X- Plan F- Growth Option,INF204KB1GZ9,Close Ended,Income,Income,Other,Growth,
-140517,UTI Mutual Fund,UTI Liquid Fund - Regular Plan - Flexi IDCW,INF789F1AF02,Open Ended,Debt,Liquid Fund,Regular,IDCW,
+140517,UTI Mutual Fund,UTI Liquid Fund - Regular Plan - Flexi IDCW,INF789F1AF02,Open Ended,Income/Debt Orienteds,Liquid Fund,Regular,IDCW,
 140518,UTI Mutual Fund,UTI FTIF Series XXVI-II (1176 Days)- Direct Plan - Quarterly Div Option,INF789FC1HY9,Close Ended,Income,Income,Direct,Other,
 140519,UTI Mutual Fund,UTI FTIF Series XXVI-II (1176 Days)- Direct Plan - Flexi Div Option,INF789FC1IA7,Close Ended,Income,Income,Direct,Other,
 140520,UTI Mutual Fund,UTI FTIF Series XXVI-II (1176 Days)- Regular Plan - Growth Option,INF789FC1IH2,Close Ended,Income,Income,Regular,Growth,
@@ -25850,7 +25850,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 140910,Kotak Mahindra Mutual Fund,Kotak FMP Series 200-Regular Plan-Growth Option,INF174K011M9,Close Ended,Income,Income,Regular,Growth,
 140911,Kotak Mahindra Mutual Fund,Kotak FMP Series 200-Direct Plan-Dividend Payout Option,INF174K014M3,Close Ended,Income,Income,Direct,IDCW,
 140912,Kotak Mahindra Mutual Fund,Kotak FMP Series 200-Direct Plan-Growth Option,INF174K013M5,Close Ended,Income,Income,Direct,Growth,
-140913,UTI Mutual Fund,UTI Liquid Fund - Direct Plan - Fortnightly IDCW,INF789F1AD87,Open Ended,Debt,Liquid Fund,Direct,IDCW,Fortnightly
+140913,UTI Mutual Fund,UTI Liquid Fund - Direct Plan - Fortnightly IDCW,INF789F1AD87,Open Ended,Income/Debt Orienteds,Liquid Fund,Direct,IDCW,Fortnightly
 140914,Nippon India Mutual Fund,Nippon India Fixed Horizon Fund XXXIII- Series 4- Growth Option,INF204KB1IS0,Close Ended,Income,Income,Other,Growth,
 140915,Nippon Life India Asset Management Limited,Nippon India Fixed Horizon Fund XXXIII- Series 4- Dividend Payout Option,INF204KB1IT8,Close Ended,Income,Income,Other,IDCW,
 140916,Nippon Life India Asset Management Limited,Nippon India Fixed Horizon Fund XXXIII- Series 4- Direct Plan-Dividend Payout Option,INF204KB1IV4,Close Ended,Income,Income,Direct,IDCW,
@@ -26510,7 +26510,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 141761,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 81 - 1133 Days Plan T - Direct Plan - Cumulative Option,,Close Ended,Income,Income,Direct,Other,
 141766,Edelweiss Mutual Fund,Edelweiss Balanced Advantage Fund - Regular Plan - Monthly - IDCW Option,INF754K01IK4,Open Ended,Hybrid,Dynamic Asset Allocation or Balanced Advantage,Regular,IDCW,Monthly
 141767,Edelweiss Mutual Fund,Edelweiss Balanced Advantage Fund - Direct Plan - Monthly - IDCW Option,INF754K01IH0,Open Ended,Hybrid,Dynamic Asset Allocation or Balanced Advantage,Direct,IDCW,Monthly
-141768,UTI Mutual Fund,UTI Liquid Fund - Direct Plan - Flexi IDCW,INF789F1AE60,Open Ended,Debt,Liquid Fund,Direct,IDCW,
+141768,UTI Mutual Fund,UTI Liquid Fund - Direct Plan - Flexi IDCW,INF789F1AE60,Open Ended,Income/Debt Orienteds,Liquid Fund,Direct,IDCW,
 141769,UTI Mutual Fund,UTI FTIF Series XXVII-VII (1104 Days) - Direct Plan - Annual Div Option,INF789FC1S38,Close Ended,Income,Income,Direct,Other,
 141770,UTI Mutual Fund,UTI FTIF Series XXVII-VII (1104 Days) - Direct Plan - Quarterly Div Option,INF789FC1S20,Close Ended,Income,Income,Direct,Other,
 141771,UTI Mutual Fund,UTI FTIF Series XXVII-VII (1104 Days) - Direct Plan - Maturity Div Option,INF789FC1S46,Close Ended,Income,Income,Direct,Other,
@@ -28445,7 +28445,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 144472,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 83 - 1361 Days Plan W - Direct Plan Quarterly Dividend Option,,Close Ended,Income,Income,Direct,IDCW,Quarterly
 144473,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 83 - 1361 Days Plan W - Half Yearly Dividend Option,,Close Ended,Income,Income,Other,IDCW,Annual
 144474,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 83 - 1361 Days Plan W - Direct Plan Half Yearly Dividend Option,,Close Ended,Income,Income,Direct,IDCW,Annual
-144475,UTI Mutual Fund,UTI Liquid Fund - Regular Plan - Half-Yearly IDCW,INF789F1AF51,Open Ended,Debt,Liquid Fund,Regular,IDCW,Annual
+144475,UTI Mutual Fund,UTI Liquid Fund - Regular Plan - Half-Yearly IDCW,INF789F1AF51,Open Ended,Income/Debt Orienteds,Liquid Fund,Regular,IDCW,Annual
 144476,Kotak Mahindra Asset Management Company Limited.,Kotak FMP Series 238 - Regular Plan - Dividend Option,INF174KA1319,Close Ended,Income,Income,Regular,IDCW,
 144477,Kotak Mahindra Asset Management Company Limited.,Kotak FMP Series 238- Direct Plan -Growth Option,INF174KA1327,Close Ended,Income,Income,Direct,Growth,
 144478,Kotak Mahindra Asset Management Company Limited.,Kotak FMP Series 238 - Regular Plan - Growth Option,INF174KA1301,Close Ended,Income,Income,Regular,Growth,
@@ -32454,7 +32454,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 149776,ICICI Prudential Mutual Fund,ICICI Prudential Silver ETF FOF - Direct Plan - IDCW,INF109KC1Z06,Open Ended,Other,FoF Domestic,Direct,IDCW,
 149777,ICICI Prudential Mutual Fund,ICICI Prudential Silver ETF FOF - Growth,INF109KC1Y64,Open Ended,Other,FoF Domestic,Other,Growth,
 149778,ICICI Prudential Mutual Fund,ICICI Prudential Silver ETF FOF - IDCW,INF109KC1Y72,Open Ended,Other,FoF Domestic,Other,IDCW,
-149779,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Silver ETF,INF209KB19F6,Open Ended,Other,ETF,Other,Other,
+149779,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Silver ETF,INF209KB19F6,Open Ended,Exchange Traded Funds,Exchange Traded Funds,Other,Other,
 149780,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Silver ETF FOF-Direct Growth,INF209KB16F2,Open Ended,Fund of Funds,Fund of Funds,Direct,Growth,
 149781,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Silver ETF FOF-Direct IDCW,INF209KB17F0,Open Ended,Fund of Funds,Fund of Funds,Direct,IDCW,
 149783,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Silver ETF FOF-Regular Growth,INF209KB13F9,Open Ended,Fund of Funds,Fund of Funds,Regular,Growth,
@@ -33757,7 +33757,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 151530,UTI Mutual Fund,UTI Long Duration Fund - Direct Plan - Half Yearly IDCW Option,INF789F1AYE9,Open Ended,Debt,Long Duration Fund,Direct,IDCW,Annual
 151531,UTI Mutual Fund,UTI Long Duration Fund - Regular Plan - Annual IDCW Option,INF789F1AXX1,Open Ended,Debt,Long Duration Fund,Regular,IDCW,Annual
 151532,UTI Mutual Fund,UTI Long Duration Fund - Regular Plan - Flexi IDCW Option,INF789F1AXZ6,Open Ended,Debt,Long Duration Fund,Regular,IDCW,
-151533,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life CRISIL Liquid Overnight ETF - IDCW Daily Reinvestment with Weekly Payout,INF209KB18T9,Open Ended,Other,ETF,Other,IDCW,Reinvestment
+151533,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life CRISIL Liquid Overnight ETF - IDCW Daily Reinvestment with Weekly Payout,INF209KB18T9,Open Ended,Exchange Traded Funds,Exchange Traded Funds,Other,IDCW,Reinvestment
 151538,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 88 - 365 Days Plan T - Direct Plan - Growth,,Close Ended,Income,Income,Direct,Growth,
 151539,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 88 - 365 Days Plan T - IDCW,,Close Ended,Income,Income,Other,IDCW,
 151540,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 88 - 365 Days Plan T - Direct Plan - IDCW,,Close Ended,Income,Income,Direct,IDCW,
