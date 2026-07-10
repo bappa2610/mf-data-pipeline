@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Liquid Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
         "scheme_code": 102010,
         "scheme_name": "UTI Liquid Fund - Regular Plan - Daily IDCW (Reinvestment)",
         "isin_growth": null,
         "isin_div_reinvestment": "INF789F1AF77"
     },
     "data": [
+        {
+            "date": "09-07-2026",
+            "nav": "120.03310"
+        },
         {
             "date": "08-07-2026",
             "nav": "120.00700"

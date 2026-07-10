@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Liquid Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
         "scheme_code": 102009,
-        "scheme_name": "UTI-  Liquid Cash Plan- Discontinued - Regular Plan -Growth",
+        "scheme_name": "UTI Liquid Fund - Discontinued - Regular Plan -Growth",
         "isin_growth": "INF789F1AG35",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "09-07-2026",
+            "nav": "413.78800"
+        },
         {
             "date": "08-07-2026",
             "nav": "413.69780"

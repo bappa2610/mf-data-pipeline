@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "Aditya Birla Sun Life Mutual Fund",
+        "fund_house": "Open Ended Schemes(Exchange Traded Funds (ETFs) - Equity ETF)",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Gold ETF",
+        "scheme_category": "Equity Scheme - Value Fund",
         "scheme_code": 115127,
         "scheme_name": "Aditya Birla Sun Life Gold ETF",
         "isin_growth": "INF209KB18D3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "09-07-2026",
+            "nav": "125.52510"
+        },
         {
             "date": "08-07-2026",
             "nav": "124.54940"

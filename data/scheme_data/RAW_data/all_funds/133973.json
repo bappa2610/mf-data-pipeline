@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Liquid Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
         "scheme_code": 133973,
         "scheme_name": "UTI Liquid Fund - Regular Plan - Annual IDCW",
         "isin_growth": "INF789F1AD12",
         "isin_div_reinvestment": "INF789F1AD20"
     },
     "data": [
+        {
+            "date": "09-07-2026",
+            "nav": "201.06670"
+        },
         {
             "date": "08-07-2026",
             "nav": "201.02290"
