@@ -36379,8 +36379,8 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 154430,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life Low Duration Fund-Direct Weekly- IDCW Payou,INF209KC1530,Open Ended,Debt,Low Duration Fund,Direct,IDCW,Weekly
 154431,Invesco Mutual Fund,Invesco India Ultra Short Duration Fund - Regular Plan - Weekly IDCW (Payout / Reinvestment),INF205KA1BQ9,Open Ended,Debt,Ultra Short Duration Fund,Regular,IDCW,Reinvestment
 154432,Invesco Asset Management (India) Private Limited,Invesco India Ultra Short Duration Fund - Direct Plan - Weekly IDCW (Payout / Reinvestment),INF205KA1BS5,Open Ended,Debt,Ultra Short Duration Fund,Direct,IDCW,Reinvestment
-154433,Trust Asset Management Private Limited,TRUSTMF LARGE & MIDCAP FUND - DIRECT PLAN - GROWTH,INF0GCD01891,Open Ended,Equity,Large & Mid Cap Fund,Direct,Growth,
-154434,Trust Asset Management Private Limited,TRUSTMF LARGE & MIDCAP FUND - REGULAR PLAN - GROWTH,INF0GCD01909,Open Ended,Equity,Large & Mid Cap Fund,Regular,Growth,
+154433,Trust Asset Management Private Limited,TRUSTMF LARGE & MIDCAP FUND - DIRECT PLAN - GROWTH,INF0GCD01891,Open Ended,Equitys,Large & Mid Cap Fund,Direct,Growth,
+154434,Trust Asset Management Private Limited,TRUSTMF LARGE & MIDCAP FUND - REGULAR PLAN - GROWTH,INF0GCD01909,Open Ended,Equitys,Large & Mid Cap Fund,Regular,Growth,
 154436,Zerodha Asset Management Private Limited,Zerodha Life Cycle Fund 2036 - Direct - Growth,,Open Ended,Hybrid,Multi Asset Allocation,Direct,Growth,
 154437,Zerodha Asset Management Private Limited,Zerodha Life Cycle Fund 2041 - Direct - Growth,,Open Ended,Hybrid,Multi Asset Allocation,Direct,Growth,
 154438,AlphaGrep Investment Management Private Limited,ALPHAGREP MULTI ASSET ALLOCATION FUND-DIRECT-GROWTH,INF2VOA01012,Open Ended,Hybrids,Multi Asset Allocation Fund,Direct,Growth,
@@ -36414,9 +36414,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 154468,SBI Funds Management Limited,SBI Crisil - IBX SDL Index - June 2034 Index Fund - Regular Plan - Growth,INF200KB1BL4,Open Ended,Index Funds,Debt Funds,Regular,Growth,
 154469,SBI Funds Management Limited,SBI Crisil - IBX SDL Index - June 2034 Index Fund - Regular Plan - IDCW,INF200KB1BM2,Open Ended,Index Funds,Debt Funds,Regular,IDCW,
 154470,SBI Funds Management Limited,SBI Crisil - IBX SDL Index - June 2034 Index Fund - Direct Plan - IDCW,INF200KB1BP5,Open Ended,Index Funds,Debt Funds,Direct,IDCW,
-154471,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset BSE Midcap 150 Momentum 30 ETF,INF769K01RC0,Open Ended,Other,ETF,Other,Other,
-154473,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset BSE Midcap 150 Momentum 30 ETF FOF - Regular Plan - Growth,INF769K01QW0,Open Ended,Fund of Funds (Domestic),Fund of Funds (Domestic),Regular,Growth,
-154474,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset BSE Midcap 150 Momentum 30 ETF FOF - Direct Plan - Growth,INF769K01QX8,Open Ended,Fund of Funds (Domestic),Fund of Funds (Domestic),Direct,Growth,
+154471,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset BSE Midcap 150 Momentum 30 ETF,INF769K01RC0,Open Ended,Exchange Traded Funds (ETFs),ETF,Other,Other,
 154476,Groww Asset Management Limited,Groww Nifty Cements ETF,INF666M01PH7,Open Ended,Exchange Traded Funds (ETFs),ETF,Other,Other,
 154477,Abakkus Investment Managers Private Limited,Abakkus Large & Mid Cap Fund - Direct Plan - Growth,INF2JJD01193,Open Ended,Equity,Large & Mid Cap Fund,Direct,Growth,
 154478,Abakkus Investment Managers Private Limited,Abakkus Large & Mid Cap Fund - Regular Plan - Growth,INF2JJD01201,Open Ended,Equity,Large & Mid Cap Fund,Regular,Growth,
@@ -36430,11 +36428,6 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 154490,Baroda BNP Paribas Asset Management India Private Limited,Baroda BNP Paribas Services Fund - Direct Growth Option,INF251K01VY5,Open Ended,Equitys,Thematic Fund,Direct,Growth,
 154491,Kotak Mahindra Asset Management Company Limited.,Kotak Nifty Private Bank ETF,INF174KA1A9,Open Ended,Exchange Traded Funds (ETFs),ETF,Other,Other,
 154492,Bajaj Finserv Asset Management Limited,Bajaj Finserv BSE Top 10 Banks ETF,INF0QA701CI0,Open Ended,Exchange Traded Funds (ETFs),ETF,Other,Other,
-154493,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75 25 Index Fund - Direct Plan - Growth,INF769K01RG1,Open Ended,Index Funds,Equity Funds,Direct,Growth,
-154494,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75 25 Index Fund - Direct Plan - IDCW,INF769K01RI7,Open Ended,Index Funds,Equity Funds,Direct,IDCW,
-154495,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75 25 Index Fund - Regular Plan - Growth,INF769K01RD8,Open Ended,Index Funds,Equity Funds,Regular,Growth,
-154496,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75 25 Index Fund - Regular Plan - IDCW,INF769K01RF3,Open Ended,Index Funds,Equity Funds,Regular,IDCW,
-154497,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset Nifty200 Momentum 30 Plus 8-13 yr G-Sec 50 50 ETF,INF769K01RJ5,Open Ended,Exchange Traded Funds (ETFs),ETF,Other,Other,
 154498,ITI Asset Management Limited,ITI Multi Asset Allocation Fund - Direct Plan - Growth Option,,Open Ended,Hybrids,Multi Asset Allocation Fund,Direct,Growth,
 154499,ITI Asset Management Limited,ITI Multi Asset Allocation Fund- Direct Plan- IDCW Option,,Open Ended,Hybrids,Multi Asset Allocation Fund,Direct,IDCW,
 154500,ITI Asset Management Limited,ITI Multi Asset Allocation Fund- Regular Plan- Growth Option,,Open Ended,Hybrids,Multi Asset Allocation Fund,Regular,Growth,
