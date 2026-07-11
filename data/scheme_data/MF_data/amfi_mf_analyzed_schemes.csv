@@ -702,8 +702,8 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 101358,Franklin Templeton Mutual Fund,Franklin India Money Market Fund - Institutional Option - Growth,INF090I01BX5,Open Ended,Debt,Money Market Fund,Institutional,Growth,
 101359,Franklin Templeton Mutual Fund,Franklin India Money Market Fund - Institutional Option - Dividend,INF090I01BW7,Open Ended,Debt,Money Market Fund,Institutional,IDCW,
 101361,Canara Robeco Mutual Fund,Canara Robeco Liquid Fund- INSTITUTIONAL-Weekly dividend,,Open Ended,Income,Income,Institutional,IDCW,Weekly
-101372,Kotak Mahindra Mutual Fund,Kotak Bond Short Term Plan-(Payout of Income Distribution cum capital withdrawal option),INF174K01EU3,Open Ended,Debt,Short Duration Fund,Other,IDCW,
-101373,Kotak Mahindra Mutual Fund,Kotak Bond Short Term Plan-(Growth),INF174K01ES7,Open Ended,Debt,Short Duration Fund,Other,Growth,
+101372,Kotak Mahindra Mutual Fund,Kotak Bond Short Term Plan-(Payout of Income Distribution cum capital withdrawal option),INF174K01EU3,Open Ended,Income/Debt Orienteds,Short Term Fund,Other,IDCW,
+101373,Kotak Mahindra Mutual Fund,Kotak Bond Short Term Plan-(Growth),INF174K01ES7,Open Ended,Income/Debt Orienteds,Short Term Fund,Other,Growth,
 101393,Sahara Mutual Fund,Sahara Liquid Fund-Fixed Pricing - Daily Dividend Option,,Open Ended,Liquid,Liquid,Other,IDCW,Daily
 101394,Sahara Mutual Fund,Sahara Liquid Fund-Fixed Pricing - Growth option,,Open Ended,Liquid,Liquid,Other,Growth,
 101395,Sahara Asset Management Company Private Limited,Sahara Liquid Fund-Fixed Pricing - Daily Dividend option,,Open Ended,Liquid,Liquid,Other,IDCW,Daily
@@ -997,8 +997,8 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 101879,HDFC Mutual Fund,HDFC Sovereign Gilt Fund - Provident Plan-Dividend Option,,Open Ended,Income,Income,Other,IDCW,
 101883,Tata Mutual Fund,Tata Gilt Securities Short Maturity Fund -Regular Plan-Growth,,Open Ended,Income,Income,Regular,Growth,
 101884,Benchmark Mutual Fund,Liquid Benchmark Exchange Traded Scheme (Liquid BeES),,Open Ended,Income,Income,Other,Other,
-101892,Kotak Mahindra Mutual Fund,Kotak Money market Fund - (Monthly Payout of Income Distribution cum capital withdrawal option),INF174K018O0,Open Ended,Debt,Money Market Fund,Other,IDCW,Monthly
-101893,Kotak Mahindra Mutual Fund,Kotak Money Market Fund - (Growth),INF174K01NA6,Open Ended,Debt,Money Market Fund,Other,Growth,
+101892,Kotak Mahindra Mutual Fund,Kotak Money market Fund - (Monthly Payout of Income Distribution cum capital withdrawal option),INF174K018O0,Open Ended,Income/Debt Orienteds,Money Market Fund,Other,IDCW,Monthly
+101893,Kotak Mahindra Mutual Fund,Kotak Money Market Fund - (Growth),INF174K01NA6,Open Ended,Income/Debt Orienteds,Money Market Fund,Other,Growth,
 101894,Kotak Mahindra Mutual Fund,Kotak Money Market Scheme - (Weekly Reinvestment of Income Distribution cum capital withdrawal option),,Open Ended,Debt,Money Market Fund,Other,IDCW,Reinvestment
 101895,DBS Chola Mutual Fund,DBS Chola Monthly Income Plan-Regular-Monthly Dividend Plan,,Open Ended,Income,Income,Regular,IDCW,Monthly
 101898,UTI Mutual Fund,UTI Sunder,,Open Ended,Income,Income,Other,Other,
@@ -1399,9 +1399,9 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 102585,ICICI Prudential Mutual Fund,ICICI Prudential FMP-15 Month - Series 25-Retail Plan-Cumulative Option,,Open Ended,Income,Income,Retail,Other,
 102587,ICICI Prudential Mutual Fund,ICICI Prudential FMP-15 Month - Series 25-Institutional Plan-Cumulative Option,,Open Ended,Income,Income,Institutional,Other,
 102590,Kotak Mahindra Mutual Fund,Kotak Savings Fund -Weekly Weekly Reinvestment of Income Distribution cum capital withdrawal option,,Open Ended,Debt,Ultra Short Duration Fund,Other,IDCW,Reinvestment
-102591,Kotak Mahindra Mutual Fund,Kotak Savings Fund -Growth,INF174K01FD6,Open Ended,Debt,Ultra Short Duration Fund,Other,Growth,
-102592,Kotak Mahindra Mutual Fund,Kotak Savings Fund -Monthly Payout of Income Distribution cum capital withdrawal option,INF174K01FH7,Open Ended,Debt,Ultra Short Duration Fund,Other,IDCW,Monthly
-102593,Kotak Mahindra Asset Management Company Limited.,Kotak Floater Long-Term-Weekly Dividend,,Open Ended,Debt,Ultra Short Duration Fund,Other,IDCW,Weekly
+102591,Kotak Mahindra Mutual Fund,Kotak Savings Fund -Growth,INF174K01FD6,Open Ended,Income/Debt Orienteds,Ultra Short Term Fund,Other,Growth,
+102592,Kotak Mahindra Mutual Fund,Kotak Savings Fund -Monthly Payout of Income Distribution cum capital withdrawal option,INF174K01FH7,Open Ended,Income/Debt Orienteds,Ultra Short Term Fund,Other,IDCW,Monthly
+102593,Kotak Mahindra Asset Management Company Limited.,Kotak Floater Long-Term-Weekly Dividend,,Open Ended,Income/Debt Orienteds,Ultra Short Term Fund,Other,IDCW,Weekly
 102594,ICICI Prudential Mutual Fund,ICICI Prudential Value Fund (erstwhile Value Discovery Fund) - Growth,INF109K01AF8,Open Ended,Equity,Value Fund,Other,Growth,
 102595,ICICI Prudential Mutual Fund,ICICI Prudential Value Fund (erstwhile Value Discovery Fund) - IDCW,INF109K01EC7,Open Ended,Equity,Value Fund,Other,IDCW,
 102596,ICICI Prudential Mutual Fund,ICICI Prudential Value Discovery Fund - Institutional Option - I - Growth,,Open Ended,Income,Income,Institutional,Growth,
@@ -14701,19 +14701,19 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 119735,Kotak Mahindra Mutual Fund,Kotak Bond Fund - Growth - Direct,INF174K01JC0,Open Ended,Debt,Medium to Long Duration Fund,Direct,Growth,
 119736,Kotak Mahindra Mutual Fund,Kotak Bond - Quaterly Payout of Income Distribution cum capital withdrawal option - Direct,,Open Ended,Debt,Medium to Long Duration Fund,Direct,IDCW,
 119738,Kotak Mahindra Mutual Fund,Kotak Bond Short Term Plan-(Payout of Income Distribution cum capital withdrawal option) - Direct,,Open Ended,Debt,Short Duration Fund,Direct,IDCW,
-119739,Kotak Mahindra Mutual Fund,Kotak Bond Short Term Plan-(Growth) - Direct,INF174K01JI7,Open Ended,Debt,Short Duration Fund,Direct,Growth,
+119739,Kotak Mahindra Mutual Fund,Kotak Bond Short Term Plan-(Growth) - Direct,INF174K01JI7,Open Ended,Income/Debt Orienteds,Short Term Fund,Direct,Growth,
 119740,Kotak Mahindra Mutual Fund,Kotak Credit Risk Fund - Direct Plan - Standard Income Distribution cum capital withdrawal option,INF174K01MG5,Open Ended,Debt,Credit Risk Fund,Direct,IDCW,
 119741,Kotak Mahindra Mutual Fund,Kotak Credit Risk Fund - Growth - Direct,INF174K01LZ7,Open Ended,Debt,Credit Risk Fund,Direct,Growth,
 119742,Kotak Mahindra Mutual Fund,Kotak Credit Risk Fund - Monthly Payout of Income Distribution cum capital withdrawal option - Direct,,Open Ended,Debt,Credit Risk Fund,Direct,IDCW,Monthly
 119743,Kotak Mahindra Mutual Fund,Kotak Credit Risk Fund - Weekly Reinvestment of Income Distribution cum capital withdrawal option- Direct,,Open Ended,Debt,Credit Risk Fund,Direct,IDCW,Reinvestment
 119744,Kotak Mahindra Mutual Fund,Kotak Credit Risk Fund - Quaterly Direct Payout of Income Distribution cum capital withdrawal option - Direct,,Open Ended,Debt,Credit Risk Fund,Direct,IDCW,
 119745,Kotak Mahindra Mutual Fund,Kotak Money Market Scheme - (Daily Reinvestment of Income Distribution cum capital withdrawal option) - Direct,,Open Ended,Debt,Money Market Fund,Direct,IDCW,Reinvestment
-119746,Kotak Mahindra Mutual Fund,Kotak Money Market Fund - (Growth) - Direct,INF174K01MW2,Open Ended,Debt,Money Market Fund,Direct,Growth,
-119747,Kotak Mahindra Mutual Fund,Kotak Money Market Fund - (Monthly Payout of Income Distribution cum capital withdrawal option) - Direct,INF174K019O8,Open Ended,Debt,Money Market Fund,Direct,IDCW,Monthly
+119746,Kotak Mahindra Mutual Fund,Kotak Money Market Fund - (Growth) - Direct,INF174K01MW2,Open Ended,Income/Debt Orienteds,Money Market Fund,Direct,Growth,
+119747,Kotak Mahindra Mutual Fund,Kotak Money Market Fund - (Monthly Payout of Income Distribution cum capital withdrawal option) - Direct,INF174K019O8,Open Ended,Income/Debt Orienteds,Money Market Fund,Direct,IDCW,Monthly
 119748,Kotak Mahindra Mutual Fund,Kotak Money Market Scheme - (Weekly Reinvestment of Income Distribution cum capital withdrawal option) - Direct,,Open Ended,Debt,Money Market Fund,Direct,IDCW,Reinvestment
 119749,Kotak Mahindra Mutual Fund,Kotak Treasury Advantage Fund -Daily Reinvestment of Income Distribution cum capital withdrawal option - Direct,INF174K01JT4,Open Ended,Debt,Ultra Short Duration Fund,Direct,IDCW,Reinvestment
-119750,Kotak Mahindra Mutual Fund,Kotak Savings Fund-Growth - Direct,INF174K01JP2,Open Ended,Debt,Ultra Short Duration Fund,Direct,Growth,
-119751,Kotak Mahindra Mutual Fund,Kotak Savings Fund-Monthly Payout of Income Distribution cum capital withdrawal option - Direct,INF174K01JQ0,Open Ended,Debt,Ultra Short Duration Fund,Direct,IDCW,Monthly
+119750,Kotak Mahindra Mutual Fund,Kotak Savings Fund-Growth - Direct,INF174K01JP2,Open Ended,Income/Debt Orienteds,Ultra Short Term Fund,Direct,Growth,
+119751,Kotak Mahindra Mutual Fund,Kotak Savings Fund-Monthly Payout of Income Distribution cum capital withdrawal option - Direct,INF174K01JQ0,Open Ended,Income/Debt Orienteds,Ultra Short Term Fund,Direct,IDCW,Monthly
 119752,Kotak Mahindra Mutual Fund,Kotak Savings Fund-Weekly Weekly Reinvestment of Income Distribution cum capital withdrawal option- Direct,,Open Ended,Debt,Ultra Short Duration Fund,Direct,IDCW,Reinvestment
 119753,Kotak Mahindra Mutual Fund,Kotak Dynamic Bond Fund - Direct Plan - Standard Income Distribution cum capital withdrawal option,INF174K01JX6,Open Ended,Debt,Dynamic Bond,Direct,IDCW,
 119754,Kotak Mahindra Mutual Fund,Kotak Dynamic Bond Fund - Daily Dividend - Direct,,Open Ended,Income,Income,Direct,IDCW,Daily
@@ -22964,32 +22964,32 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 133731,Deutsche Mutual Fund,DWS Hybrid Fixed Term Fund - Series 35 - Regular Plan - Regular Dividend,,Close Ended,Income,Income,Regular,IDCW,
 133732,Deutsche Mutual Fund,DWS Hybrid Fixed Term Fund - Series 35 - Regular Plan - Annual Dividend,,Close Ended,Income,Income,Regular,IDCW,Annual
 133733,UTI Mutual Fund,UTI Low Duration Fund - Regular Plan - Fortnightly IDCW,INF789FA1N45,Open Ended,Debt,Low Duration Fund,Regular,IDCW,Fortnightly
-133770,Kotak Mahindra Mutual Fund,Kotak Coporate Bond Fund- Retail Plan-Growth Option,,Open Ended,Debt,Corporate Bond Fund,Retail,Growth,
-133771,Kotak Mahindra Mutual Fund,Kotak Corporate Bond Fund- Retail Plan- Weekly Dividend Option,INF178L01897,Open Ended,Debt,Corporate Bond Fund,Retail,IDCW,Weekly
-133772,Kotak Mahindra Mutual Fund,Kotak Corporate Bond Fund- Institutional Plan-Growth Option,INF178L01921,Open Ended,Debt,Corporate Bond Fund,Institutional,Growth,
-133773,Kotak Mahindra Asset Management Company Limited.,Kotak Corporate Bond Fund- Institutional Plan-Daily Dividend Option,,Open Ended,Debt,Corporate Bond Fund,Institutional,IDCW,Daily
-133774,Kotak Mahindra Asset Management Company Limited.,Kotak Corporate Bond Fund- Institutional Plan-Monthly Dividend Option,,Open Ended,Debt,Corporate Bond Fund,Institutional,IDCW,Monthly
-133775,Kotak Mahindra Asset Management Company Limited.,Kotak Corporate Bond Fund- Standard Plan-Bonus Option,INF178L01BX2,Open Ended,Debt,Corporate Bond Fund,Standard,Bonus,
-133776,Kotak Mahindra Mutual Fund,Kotak Corporate Bond Fund- Standard Plan-Daily Dividend Option,INF178L01BU8,Open Ended,Debt,Corporate Bond Fund,Standard,IDCW,Daily
-133777,Kotak Mahindra Mutual Fund,Kotak Corporate Bond Fund- Regular Plan-Quarterly Dividend Option,INF178L01BR4,Open Ended,Debt,Corporate Bond Fund,Regular,IDCW,Quarterly
-133778,Kotak Mahindra Asset Management Company Limited.,Kotak Corporate Bond Fund- Retail Plan-Bonus Option,,Open Ended,Debt,Corporate Bond Fund,Retail,Bonus,
-133779,Kotak Mahindra Mutual Fund,Kotak Corporate Bond Fund- Retail Plan- Monthly Dividend Option,INF178L01855,Open Ended,Debt,Corporate Bond Fund,Retail,IDCW,Monthly
-133780,Kotak Mahindra Asset Management Company Limited.,Kotak Corporate Bond Fund- Retail Plan- Quarterly Dividend Option,,Open Ended,Debt,Corporate Bond Fund,Retail,IDCW,Quarterly
-133781,Kotak Mahindra Asset Management Company Limited.,Kotak Corporate Bond Fund- Institutional Plan-Bonus Option,,Open Ended,Debt,Corporate Bond Fund,Institutional,Bonus,
-133782,Kotak Mahindra Mutual Fund,Kotak Corporate Bond Fund- Regular Plan-Growth Option,INF178L01BO1,Open Ended,Debt,Corporate Bond Fund,Regular,Growth,
-133783,Kotak Mahindra Mutual Fund,Kotak Corporate Bond Fund- Retail Plan-Daily Dividend Option,,Open Ended,Debt,Corporate Bond Fund,Retail,IDCW,Daily
-133784,Kotak Mahindra Asset Management Company Limited.,Kotak Coporate Bond Fund- Institutional Plan-Weekly Dividend Option,,Open Ended,Debt,Corporate Bond Fund,Institutional,IDCW,Weekly
-133785,Kotak Mahindra Asset Management Company Limited.,Kotak Corporate Bond Fund- Institutional Plan-Quarterly Dividend Option,,Open Ended,Debt,Corporate Bond Fund,Institutional,IDCW,Quarterly
-133786,Kotak Mahindra Mutual Fund,Kotak Corporate Bond Fund- Standard Plan-Weekly Dividend Option,,Open Ended,Debt,Corporate Bond Fund,Standard,IDCW,Weekly
-133787,Kotak Mahindra Mutual Fund,Kotak Corporate Bond Fund- Regular Plan-Monthly Dividend Option,INF178L01BQ6,Open Ended,Debt,Corporate Bond Fund,Regular,IDCW,Monthly
-133788,Kotak Mahindra Asset Management Company Limited.,Kotak Corporate Bond Fund- Direct Plan- Bonus Option,INF178L01CH3,Open Ended,Debt,Corporate Bond Fund,Direct,Bonus,
-133789,Kotak Mahindra Asset Management Company Limited.,Kotak Corporate Bond Fund- Direct Plan- Weekly Dividend Option,INF178L01CD2,Open Ended,Debt,Corporate Bond Fund,Direct,IDCW,Weekly
-133790,Kotak Mahindra Asset Management Company Limited.,Kotak Corporate Bond Fund- Direct Plan -Daily Dividend Option,INF178L01CE0,Open Ended,Debt,Corporate Bond Fund,Direct,IDCW,Daily
-133791,Kotak Mahindra Mutual Fund,Kotak Corporate Bond Fund- Direct Plan- Growth Option,INF178L01BY0,Open Ended,Debt,Corporate Bond Fund,Direct,Growth,
-133792,Kotak Mahindra Mutual Fund,Kotak Corporate Bond Fund- Direct Plan- Monthly Payout of Income Distribution cum capital withdrawal option,INF178L01BZ7,Open Ended,Debt,Corporate Bond Fund,Direct,IDCW,Monthly
-133793,Kotak Mahindra Asset Management Company Limited.,Kotak Corporate Bond Fund- Direct Plan- Quarterly Dividend Option,INF178L01CC4,Open Ended,Debt,Corporate Bond Fund,Direct,IDCW,Quarterly
-133794,Kotak Mahindra Asset Management Company Limited.,Kotak Corporate Bond Fund- Standard Plan- Annual Dividend Option,INF178L01BV6,Open Ended,Debt,Corporate Bond Fund,Standard,IDCW,Annual
-133795,Kotak Mahindra Asset Management Company Limited.,kotak Corporate Bond Fund- Direct Plan - Annual Dividend Option,INF178L01CF7,Open Ended,Debt,Corporate Bond Fund,Direct,IDCW,Annual
+133770,Kotak Mahindra Mutual Fund,Kotak Coporate Bond Fund- Retail Plan-Growth Option,,Open Ended,Income/Debt Orienteds,Corporate Bond Fund,Retail,Growth,
+133771,Kotak Mahindra Mutual Fund,Kotak Corporate Bond Fund- Retail Plan- Weekly Dividend Option,INF178L01897,Open Ended,Income/Debt Orienteds,Corporate Bond Fund,Retail,IDCW,Weekly
+133772,Kotak Mahindra Mutual Fund,Kotak Corporate Bond Fund- Institutional Plan-Growth Option,INF178L01921,Open Ended,Income/Debt Orienteds,Corporate Bond Fund,Institutional,Growth,
+133773,Kotak Mahindra Asset Management Company Limited.,Kotak Corporate Bond Fund- Institutional Plan-Daily Dividend Option,,Open Ended,Income/Debt Orienteds,Corporate Bond Fund,Institutional,IDCW,Daily
+133774,Kotak Mahindra Asset Management Company Limited.,Kotak Corporate Bond Fund- Institutional Plan-Monthly Dividend Option,,Open Ended,Income/Debt Orienteds,Corporate Bond Fund,Institutional,IDCW,Monthly
+133775,Kotak Mahindra Asset Management Company Limited.,Kotak Corporate Bond Fund- Standard Plan-Bonus Option,INF178L01BX2,Open Ended,Income/Debt Orienteds,Corporate Bond Fund,Standard,Bonus,
+133776,Kotak Mahindra Mutual Fund,Kotak Corporate Bond Fund- Standard Plan-Daily Dividend Option,INF178L01BU8,Open Ended,Income/Debt Orienteds,Corporate Bond Fund,Standard,IDCW,Daily
+133777,Kotak Mahindra Mutual Fund,Kotak Corporate Bond Fund- Regular Plan-Quarterly Dividend Option,INF178L01BR4,Open Ended,Income/Debt Orienteds,Corporate Bond Fund,Regular,IDCW,Quarterly
+133778,Kotak Mahindra Asset Management Company Limited.,Kotak Corporate Bond Fund- Retail Plan-Bonus Option,,Open Ended,Income/Debt Orienteds,Corporate Bond Fund,Retail,Bonus,
+133779,Kotak Mahindra Mutual Fund,Kotak Corporate Bond Fund- Retail Plan- Monthly Dividend Option,INF178L01855,Open Ended,Income/Debt Orienteds,Corporate Bond Fund,Retail,IDCW,Monthly
+133780,Kotak Mahindra Asset Management Company Limited.,Kotak Corporate Bond Fund- Retail Plan- Quarterly Dividend Option,,Open Ended,Income/Debt Orienteds,Corporate Bond Fund,Retail,IDCW,Quarterly
+133781,Kotak Mahindra Asset Management Company Limited.,Kotak Corporate Bond Fund- Institutional Plan-Bonus Option,,Open Ended,Income/Debt Orienteds,Corporate Bond Fund,Institutional,Bonus,
+133782,Kotak Mahindra Mutual Fund,Kotak Corporate Bond Fund- Regular Plan-Growth Option,INF178L01BO1,Open Ended,Income/Debt Orienteds,Corporate Bond Fund,Regular,Growth,
+133783,Kotak Mahindra Mutual Fund,Kotak Corporate Bond Fund- Retail Plan-Daily Dividend Option,,Open Ended,Income/Debt Orienteds,Corporate Bond Fund,Retail,IDCW,Daily
+133784,Kotak Mahindra Asset Management Company Limited.,Kotak Coporate Bond Fund- Institutional Plan-Weekly Dividend Option,,Open Ended,Income/Debt Orienteds,Corporate Bond Fund,Institutional,IDCW,Weekly
+133785,Kotak Mahindra Asset Management Company Limited.,Kotak Corporate Bond Fund- Institutional Plan-Quarterly Dividend Option,,Open Ended,Income/Debt Orienteds,Corporate Bond Fund,Institutional,IDCW,Quarterly
+133786,Kotak Mahindra Mutual Fund,Kotak Corporate Bond Fund- Standard Plan-Weekly Dividend Option,,Open Ended,Income/Debt Orienteds,Corporate Bond Fund,Standard,IDCW,Weekly
+133787,Kotak Mahindra Mutual Fund,Kotak Corporate Bond Fund- Regular Plan-Monthly Dividend Option,INF178L01BQ6,Open Ended,Income/Debt Orienteds,Corporate Bond Fund,Regular,IDCW,Monthly
+133788,Kotak Mahindra Asset Management Company Limited.,Kotak Corporate Bond Fund- Direct Plan- Bonus Option,INF178L01CH3,Open Ended,Income/Debt Orienteds,Corporate Bond Fund,Direct,Bonus,
+133789,Kotak Mahindra Asset Management Company Limited.,Kotak Corporate Bond Fund- Direct Plan- Weekly Dividend Option,INF178L01CD2,Open Ended,Income/Debt Orienteds,Corporate Bond Fund,Direct,IDCW,Weekly
+133790,Kotak Mahindra Asset Management Company Limited.,Kotak Corporate Bond Fund- Direct Plan -Daily Dividend Option,INF178L01CE0,Open Ended,Income/Debt Orienteds,Corporate Bond Fund,Direct,IDCW,Daily
+133791,Kotak Mahindra Mutual Fund,Kotak Corporate Bond Fund- Direct Plan- Growth Option,INF178L01BY0,Open Ended,Income/Debt Orienteds,Corporate Bond Fund,Direct,Growth,
+133792,Kotak Mahindra Mutual Fund,Kotak Corporate Bond Fund- Direct Plan- Monthly Payout of Income Distribution cum capital withdrawal option,INF178L01BZ7,Open Ended,Income/Debt Orienteds,Corporate Bond Fund,Direct,IDCW,Monthly
+133793,Kotak Mahindra Asset Management Company Limited.,Kotak Corporate Bond Fund- Direct Plan- Quarterly Dividend Option,INF178L01CC4,Open Ended,Income/Debt Orienteds,Corporate Bond Fund,Direct,IDCW,Quarterly
+133794,Kotak Mahindra Asset Management Company Limited.,Kotak Corporate Bond Fund- Standard Plan- Annual Dividend Option,INF178L01BV6,Open Ended,Income/Debt Orienteds,Corporate Bond Fund,Standard,IDCW,Annual
+133795,Kotak Mahindra Asset Management Company Limited.,kotak Corporate Bond Fund- Direct Plan - Annual Dividend Option,INF178L01CF7,Open Ended,Income/Debt Orienteds,Corporate Bond Fund,Direct,IDCW,Annual
 133796,Kotak Mahindra Mutual Fund,Kotak Infrastructure & Economic Reform Fund - Standard Plan-Growth,INF178L01095,Open Ended,Equity,Sectoral/ Thematic,Standard,Growth,
 133797,Kotak Mahindra Asset Management Company Limited.,Kotak Infrastructure & Economic Reform Fund - Institutional Plan-Growth,,Open Ended,Equity,Sectoral/ Thematic,Institutional,Growth,
 133798,Kotak Mahindra Asset Management Company Limited.,Kotak Infrastructure & Economic Reform Fund - Institutional Plan-Dividend,,Open Ended,Equity,Sectoral/ Thematic,Institutional,IDCW,
@@ -23792,8 +23792,8 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 135496,ICICI Prudential Mutual Fund,ICICI Prudential Capital Protection Oriented Fund - Series IX - 1101 Days Plan A Dividend Option,INF109KB1NU2,Close Ended,Income,Income,Other,IDCW,
 135497,UTI Mutual Fund,UTI Short Duration Fund - Direct Plan - Annual IDCW,INF789FA1R33,Open Ended,Debt,Short Duration Fund,Direct,IDCW,Annual
 135498,Kotak Mahindra Mutual Fund,Kotak Low Duration Fund - Regular Plan - Normal Dividend,,Open Ended,Income,Income,Regular,IDCW,
-135500,Kotak Mahindra Mutual Fund,Kotak Bond Short Term Plan - Direct - Standard Income Distribution cum capital withdrawal option,INF174K01Z14,Open Ended,Debt,Short Duration Fund,Direct,IDCW,
-135501,Kotak Mahindra Mutual Fund,Kotak Bond Short Term Plan - Regular Plan - Normal Dividend,INF174K01Y98,Open Ended,Debt,Short Duration Fund,Regular,IDCW,
+135500,Kotak Mahindra Mutual Fund,Kotak Bond Short Term Plan - Direct - Standard Income Distribution cum capital withdrawal option,INF174K01Z14,Open Ended,Income/Debt Orienteds,Short Term Fund,Direct,IDCW,
+135501,Kotak Mahindra Mutual Fund,Kotak Bond Short Term Plan - Regular Plan - Normal Dividend,INF174K01Y98,Open Ended,Income/Debt Orienteds,Short Term Fund,Regular,IDCW,
 135506,SBI Mutual Fund,SBI EQUITY OPPORTUNITIES FUND - SERIES IV - DIRECT PLAN - GROWTH,,Close Ended,Growth,Growth,Direct,Growth,
 135507,SBI Mutual Fund,SBI EQUITY OPPORTUNITIES FUND - SERIES IV - REGULAR PLAN - GROWTH,,Close Ended,Growth,Growth,Regular,Growth,
 135508,SBI Mutual Fund,SBI Equity Opportunities Fund-Series IV - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),,Close Ended,Growth,Growth,Regular,IDCW,
@@ -36436,3 +36436,11 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 154504,HDFC Asset Management Company Limited,HDFC Nifty Metal ETF - Growth Option,,Open Ended,Exchange Traded Funds (ETFs),ETF,Other,Growth,
 154505,HDFC Asset Management Company Limited,HDFC Nifty Metal ETF FOF - Direct Plan - Growth Option,,Open Ended,Fund of Funds (Domestic),Fund of Funds (Domestic),Direct,Growth,
 154506,HDFC Asset Management Company Limited,HDFC Nifty Metal ETF FOF - Growth Option,,Open Ended,Fund of Funds (Domestic),Fund of Funds (Domestic),Other,Growth,
+154507,Kotak Mahindra Asset Management Company Limited.,Kotak Money Market Fund - Direct - IDCW Weekly,INF174KA1B28,Open Ended,Income/Debt Orienteds,Money Market Fund,Direct,IDCW,Weekly
+154508,Kotak Mahindra Asset Management Company Limited.,Kotak Money Market Fund - Regular - IDCW Weekly,INF174KA1B10,Open Ended,Income/Debt Orienteds,Money Market Fund,Regular,IDCW,Weekly
+154509,Kotak Mahindra Asset Management Company Limited.,Kotak Bond Short Term Fund - Regular - IDCW Weekly,INF174KA1B51,Open Ended,Income/Debt Orienteds,Short Term Fund,Regular,IDCW,Weekly
+154510,Kotak Mahindra Asset Management Company Limited.,Kotak Bond Short Term Fund - Direct - IDCW Weekly,INF174KA1B69,Open Ended,Income/Debt Orienteds,Short Term Fund,Direct,IDCW,Weekly
+154511,Kotak Mahindra Asset Management Company Limited.,Kotak Corporate Bond Fund - Regular - IDCW Weekly,INF174KA1B93,Open Ended,Income/Debt Orienteds,Corporate Bond Fund,Regular,IDCW,Weekly
+154512,Kotak Mahindra Asset Management Company Limited.,Kotak Corporate Bond Fund - Direct - IDCW Weekly,INF174KA1C01,Open Ended,Income/Debt Orienteds,Corporate Bond Fund,Direct,IDCW,Weekly
+154513,Kotak Mahindra Asset Management Company Limited.,Kotak Savings Fund - Direct - IDCW Weekly,INF174KA1C43,Open Ended,Income/Debt Orienteds,Ultra Short Term Fund,Direct,IDCW,Weekly
+154514,Kotak Mahindra Asset Management Company Limited.,Kotak Savings Fund - Regular - IDCW Weekly,INF174KA1C35,Open Ended,Income/Debt Orienteds,Ultra Short Term Fund,Regular,IDCW,Weekly
