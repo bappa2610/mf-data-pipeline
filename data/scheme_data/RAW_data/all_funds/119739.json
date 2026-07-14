@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Kotak Mahindra Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Short Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 119739,
         "scheme_name": "Kotak Bond Short Term Plan-(Growth) - Direct",
         "isin_growth": "INF174K01JI7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "13-07-2026",
+            "nav": "61.00080"
+        },
         {
             "date": "10-07-2026",
             "nav": "60.98730"

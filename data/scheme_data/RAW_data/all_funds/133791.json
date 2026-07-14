@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Kotak Mahindra Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Corporate Bond Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Corporate Bond Fund",
         "scheme_code": 133791,
         "scheme_name": "Kotak Corporate Bond Fund- Direct Plan- Growth Option",
         "isin_growth": "INF178L01BY0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "13-07-2026",
+            "nav": "4188.55830"
+        },
         {
             "date": "10-07-2026",
             "nav": "4187.73760"

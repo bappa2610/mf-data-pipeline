@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Kotak Mahindra Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Money Market Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Money Market Fund",
         "scheme_code": 119747,
         "scheme_name": "Kotak Money Market Fund - (Monthly Payout of Income Distribution cum capital withdrawal option) - Direct",
         "isin_growth": "INF174K019O8",
         "isin_div_reinvestment": "INF174K01MX0"
     },
     "data": [
+        {
+            "date": "13-07-2026",
+            "nav": "1288.43780"
+        },
         {
             "date": "10-07-2026",
             "nav": "1288.07390"
