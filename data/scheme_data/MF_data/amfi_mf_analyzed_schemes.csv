@@ -36014,16 +36014,16 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 154042,Abakkus Mutual Fund,Abakkus Flexi Cap Fund - Regular - IDCW,INF2JJD01151,Open Ended,Equity,Flexi Cap Fund,Regular,IDCW,
 154043,Abakkus Mutual Fund,Abakkus Flexi Cap Fund - Direct - Growth,INF2JJD01136,Open Ended,Equity,Flexi Cap Fund,Direct,Growth,
 154045,Abakkus Mutual Fund,Abakkus Flexi Cap Fund - Direct - IDCW,INF2JJD01128,Open Ended,Equity,Flexi Cap Fund,Direct,IDCW,
-154047,Abakkus Mutual Fund,Abakkus Liquid Fund - Regular Plan - Growth,INF2JJD01078,Open Ended,Debt,Liquid Fund,Regular,Growth,
-154048,Abakkus Mutual Fund,Abakkus Liquid Fund - Regular Plan - Monthly IDCW Reinvestment,,Open Ended,Debt,Liquid Fund,Regular,IDCW,Reinvestment
-154049,Abakkus Mutual Fund,Abakkus Liquid Fund - Direct Plan - Daily IDCW Reinvestment,,Open Ended,Debt,Liquid Fund,Direct,IDCW,Reinvestment
-154050,Abakkus Mutual Fund,Abakkus Liquid Fund - Direct Plan - Weekly IDCW Reinvestment,,Open Ended,Debt,Liquid Fund,Direct,IDCW,Reinvestment
-154051,Abakkus Mutual Fund,Abakkus Liquid Fund - Direct Plan - Growth,INF2JJD01029,Open Ended,Debt,Liquid Fund,Direct,Growth,
-154052,Abakkus Mutual Fund,Abakkus Liquid Fund - Direct Plan - Quarterly IDCW Reinvestment,,Open Ended,Debt,Liquid Fund,Direct,IDCW,Reinvestment
-154053,Abakkus Mutual Fund,Abakkus Liquid Fund - Regular Plan - Daily IDCW Reinvestment,,Open Ended,Debt,Liquid Fund,Regular,IDCW,Reinvestment
-154054,Abakkus Mutual Fund,Abakkus Liquid Fund - Regular Plan - Quarterly IDCW Reinvestment,,Open Ended,Debt,Liquid Fund,Regular,IDCW,Reinvestment
-154055,Abakkus Mutual Fund,Abakkus Liquid Fund - Direct Plan - Monthly IDCW Reinvestment,,Open Ended,Debt,Liquid Fund,Direct,IDCW,Reinvestment
-154056,Abakkus Mutual Fund,Abakkus Liquid Fund - Regular Plan - Weekly IDCW Reinvestment,,Open Ended,Debt,Liquid Fund,Regular,IDCW,Reinvestment
+154047,Abakkus Mutual Fund,Abakkus Liquid Fund - Regular Plan - Growth,INF2JJD01078,Open Ended,Income/Debt Orienteds,Liquid Fund,Regular,Growth,
+154048,Abakkus Mutual Fund,Abakkus Liquid Fund - Regular Plan - Monthly IDCW Reinvestment,,Open Ended,Income/Debt Orienteds,Liquid Fund,Regular,IDCW,Reinvestment
+154049,Abakkus Mutual Fund,Abakkus Liquid Fund - Direct Plan - Daily IDCW Reinvestment,,Open Ended,Income/Debt Orienteds,Liquid Fund,Direct,IDCW,Reinvestment
+154050,Abakkus Mutual Fund,Abakkus Liquid Fund - Direct Plan - Weekly IDCW Reinvestment,,Open Ended,Income/Debt Orienteds,Liquid Fund,Direct,IDCW,Reinvestment
+154051,Abakkus Mutual Fund,Abakkus Liquid Fund - Direct Plan - Growth,INF2JJD01029,Open Ended,Income/Debt Orienteds,Liquid Fund,Direct,Growth,
+154052,Abakkus Mutual Fund,Abakkus Liquid Fund - Direct Plan - Quarterly IDCW Reinvestment,,Open Ended,Income/Debt Orienteds,Liquid Fund,Direct,IDCW,Reinvestment
+154053,Abakkus Mutual Fund,Abakkus Liquid Fund - Regular Plan - Daily IDCW Reinvestment,,Open Ended,Income/Debt Orienteds,Liquid Fund,Regular,IDCW,Reinvestment
+154054,Abakkus Mutual Fund,Abakkus Liquid Fund - Regular Plan - Quarterly IDCW Reinvestment,,Open Ended,Income/Debt Orienteds,Liquid Fund,Regular,IDCW,Reinvestment
+154055,Abakkus Mutual Fund,Abakkus Liquid Fund - Direct Plan - Monthly IDCW Reinvestment,,Open Ended,Income/Debt Orienteds,Liquid Fund,Direct,IDCW,Reinvestment
+154056,Abakkus Mutual Fund,Abakkus Liquid Fund - Regular Plan - Weekly IDCW Reinvestment,,Open Ended,Income/Debt Orienteds,Liquid Fund,Regular,IDCW,Reinvestment
 154057,Groww Mutual Fund,Groww Multi Asset Omni FOF Regular Growth,INF666M01NF6,Open Ended,Other,FoF Domestic,Regular,Growth,
 154058,Groww Mutual Fund,Groww Multi Asset Omni FOF Direct IDCW,INF666M01ND1,Open Ended,Other,FoF Domestic,Direct,IDCW,
 154059,Groww Mutual Fund,Groww Multi Asset Omni FOF Regular IDCW,INF666M01NG4,Open Ended,Other,FoF Domestic,Regular,IDCW,
@@ -36449,3 +36449,5 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 154518,AlphaGrep Investment Management Private Limited,AlphaGrep Flexi Cap Fund - Direct - Growth,INF2VOA01079,Open Ended,Equitys,Flexi Cap Fund,Direct,Growth,
 154519,AlphaGrep Investment Management Private Limited,AlphaGrep Flexi Cap Fund - Regular - Growth,INF2VOA01103,Open Ended,Equitys,Flexi Cap Fund,Regular,Growth,
 154520,AlphaGrep Investment Management Private Limited,AlphaGrep Flexi Cap Fund - Direct-IDCW,INF2VOA01095,Open Ended,Equitys,Flexi Cap Fund,Direct,IDCW,
+154521,Abakkus Investment Managers Private Limited,Abakkus Liquid Fund - Unclaimed Redemption Less than 3 Years,,Open Ended,Income/Debt Orienteds,Liquid Fund,Other,Other,
+154522,Abakkus Investment Managers Private Limited,Abakkus Liquid Fund - Unclaimed IDCW Less than 3 Years,,Open Ended,Income/Debt Orienteds,Liquid Fund,Other,IDCW,

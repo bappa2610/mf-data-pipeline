@@ -13879,16 +13879,16 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154042,Abakkus Mutual Fund,Abakkus Flexi Cap Fund - Regular - IDCW,INF2JJD01151,INF2JJD01144,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
 154043,Abakkus Mutual Fund,Abakkus Flexi Cap Fund - Direct - Growth,INF2JJD01136,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
 154045,Abakkus Mutual Fund,Abakkus Flexi Cap Fund - Direct - IDCW,INF2JJD01128,INF2JJD01110,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
-154047,Abakkus Mutual Fund,Abakkus Liquid Fund - Regular Plan - Growth,INF2JJD01078,,Open Ended Schemes,Debt Scheme - Liquid Fund
-154048,Abakkus Mutual Fund,Abakkus Liquid Fund - Regular Plan - Monthly IDCW Reinvestment,,INF2JJD01086,Open Ended Schemes,Debt Scheme - Liquid Fund
-154049,Abakkus Mutual Fund,Abakkus Liquid Fund - Direct Plan - Daily IDCW Reinvestment,,INF2JJD01011,Open Ended Schemes,Debt Scheme - Liquid Fund
-154050,Abakkus Mutual Fund,Abakkus Liquid Fund - Direct Plan - Weekly IDCW Reinvestment,,INF2JJD01045,Open Ended Schemes,Debt Scheme - Liquid Fund
-154051,Abakkus Mutual Fund,Abakkus Liquid Fund - Direct Plan - Growth,INF2JJD01029,,Open Ended Schemes,Debt Scheme - Liquid Fund
-154052,Abakkus Mutual Fund,Abakkus Liquid Fund - Direct Plan - Quarterly IDCW Reinvestment,,INF2JJD01052,Open Ended Schemes,Debt Scheme - Liquid Fund
-154053,Abakkus Mutual Fund,Abakkus Liquid Fund - Regular Plan - Daily IDCW Reinvestment,,INF2JJD01060,Open Ended Schemes,Debt Scheme - Liquid Fund
-154054,Abakkus Mutual Fund,Abakkus Liquid Fund - Regular Plan - Quarterly IDCW Reinvestment,,INF2JJD01102,Open Ended Schemes,Debt Scheme - Liquid Fund
-154055,Abakkus Mutual Fund,Abakkus Liquid Fund - Direct Plan - Monthly IDCW Reinvestment,,INF2JJD01037,Open Ended Schemes,Debt Scheme - Liquid Fund
-154056,Abakkus Mutual Fund,Abakkus Liquid Fund - Regular Plan - Weekly IDCW Reinvestment,,INF2JJD01094,Open Ended Schemes,Debt Scheme - Liquid Fund
+154047,Abakkus Mutual Fund,Abakkus Liquid Fund - Regular Plan - Growth,INF2JJD01078,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+154048,Abakkus Mutual Fund,Abakkus Liquid Fund - Regular Plan - Monthly IDCW Reinvestment,,INF2JJD01086,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+154049,Abakkus Mutual Fund,Abakkus Liquid Fund - Direct Plan - Daily IDCW Reinvestment,,INF2JJD01011,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+154050,Abakkus Mutual Fund,Abakkus Liquid Fund - Direct Plan - Weekly IDCW Reinvestment,,INF2JJD01045,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+154051,Abakkus Mutual Fund,Abakkus Liquid Fund - Direct Plan - Growth,INF2JJD01029,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+154052,Abakkus Mutual Fund,Abakkus Liquid Fund - Direct Plan - Quarterly IDCW Reinvestment,,INF2JJD01052,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+154053,Abakkus Mutual Fund,Abakkus Liquid Fund - Regular Plan - Daily IDCW Reinvestment,,INF2JJD01060,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+154054,Abakkus Mutual Fund,Abakkus Liquid Fund - Regular Plan - Quarterly IDCW Reinvestment,,INF2JJD01102,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+154055,Abakkus Mutual Fund,Abakkus Liquid Fund - Direct Plan - Monthly IDCW Reinvestment,,INF2JJD01037,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+154056,Abakkus Mutual Fund,Abakkus Liquid Fund - Regular Plan - Weekly IDCW Reinvestment,,INF2JJD01094,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 154057,Groww Mutual Fund,Groww Multi Asset Omni FOF Regular Growth,INF666M01NF6,,Open Ended Schemes,Other Scheme - FoF Domestic
 154058,Groww Mutual Fund,Groww Multi Asset Omni FOF Direct IDCW,INF666M01ND1,INF666M01NE9,Open Ended Schemes,Other Scheme - FoF Domestic
 154059,Groww Mutual Fund,Groww Multi Asset Omni FOF Regular IDCW,INF666M01NG4,INF666M01NH2,Open Ended Schemes,Other Scheme - FoF Domestic
@@ -36380,6 +36380,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154071,Jio BlackRock Asset Management Private Limited,JioBlackRock Overnight Fund - Unclaimed Redemption - Above 3 years- Growth Option,,,Open Ended,Debt Scheme - Overnight Fund
 154116,Jio BlackRock Asset Management Private Limited,JioBlackRock Liquid Fund - Direct Plan - Daily IDCW Reinvestment Option,INF22M001119,,Open Ended,Debt Scheme - Liquid Fund
 154117,Jio BlackRock Asset Management Private Limited,JioBlackRock Liquid Fund - Direct Plan - Weekly IDCW Option,INF22M001127,INF22M001135,Open Ended,Debt Scheme - Liquid Fund
+154522,Abakkus Investment Managers Private Limited,Abakkus Liquid Fund - Unclaimed IDCW Less than 3 Years,,,Open Ended,Income/Debt Oriented Schemes - Liquid Fund
+154521,Abakkus Investment Managers Private Limited,Abakkus Liquid Fund - Unclaimed Redemption Less than 3 Years,,,Open Ended,Income/Debt Oriented Schemes - Liquid Fund
 154126,Sundaram Asset Management Company Ltd,Sundaram Income Plus Arbitrage Active FoF Fund-Regular-IDCW Reinvestment,INF903JA1ME0,,Open Ended,Other Scheme - FoF Domestic
 154128,Sundaram Asset Management Company Ltd,Sundaram Income Plus Arbitrage Active FoF Fund-Direct-IDCW Reinvestment,INF903JA1MB6,,Open Ended,Other Scheme - FoF Domestic
 154377,Motilal Oswal Asset Management Company Limited,Motilal Oswal BSE Midcap 150 Momentum 30 Index Fund-Direct,INF247L01HE2,,Open Ended,Other Scheme - Index Funds
@@ -36440,7 +36442,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154499,ITI Asset Management Limited,ITI Multi Asset Allocation Fund- Direct Plan- IDCW Option,,,Open Ended,Hybrid Schemes - Multi Asset Allocation Fund
 154500,ITI Asset Management Limited,ITI Multi Asset Allocation Fund- Regular Plan- Growth Option,,,Open Ended,Hybrid Schemes - Multi Asset Allocation Fund
 154503,ICICI Prudential Asset Management Company Limited,ICICI Prudential BSE Insurance ETF,,,Open Ended,Exchange Traded Funds (ETFs) - Other ETF
-154504,HDFC Asset Management Company Limited,HDFC Nifty Metal ETF - Growth Option,,,Open Ended,Exchange Traded Funds (ETFs) - Other ETF
+154504,HDFC Asset Management Company Limited,HDFC Nifty Metal ETF - Growth Option,,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
 154505,HDFC Asset Management Company Limited,HDFC Nifty Metal ETF FOF - Direct Plan - Growth Option,,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154506,HDFC Asset Management Company Limited,HDFC Nifty Metal ETF FOF - Growth Option,,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154515,Quantum Asset Management Company Private Limited,Quantum Flexi Cap Fund - Direct Plan Growth Option,,,Open Ended,Equity Schemes - Flexi Cap Fund
