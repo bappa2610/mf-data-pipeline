@@ -11428,20 +11428,20 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 151077,HSBC Mutual Fund,HSBC ELSS Tax saver Fund - Regular IDCW Payout,INF677K01072,,Open Ended Schemes,Equity Scheme - ELSS
 151078,HSBC Mutual Fund,HSBC ELSS Tax saver Fund - Direct Growth,INF917K01GP0,,Open Ended Schemes,Equity Scheme - ELSS
 151079,HSBC Mutual Fund,HSBC ELSS Tax saver Fund - Direct IDCW Payout,INF917K01GO3,,Open Ended Schemes,Equity Scheme - ELSS
-151084,HSBC Mutual Fund,HSBC Dynamic Bond Fund - Regular Growth,INF677K01916,,Open Ended Schemes,Debt Scheme - Dynamic Bond
-151085,HSBC Mutual Fund,HSBC Dynamic Bond Fund - Regular Monthly IDCW,INF677K01924,INF677K01932,Open Ended Schemes,Debt Scheme - Dynamic Bond
-151086,HSBC Mutual Fund,HSBC Dynamic Bond Fund - Direct Monthly IDCW,INF917K01GZ9,INF917K01GY2,Open Ended Schemes,Debt Scheme - Dynamic Bond
-151087,HSBC Mutual Fund,HSBC Dynamic Bond Fund - Direct Growth,INF917K01HA0,,Open Ended Schemes,Debt Scheme - Dynamic Bond
-151088,HSBC Mutual Fund,HSBC Dynamic Bond Fund - Direct Annual IDCW,INF917K01VN4,INF917K01VM6,Open Ended Schemes,Debt Scheme - Dynamic Bond
-151089,HSBC Mutual Fund,HSBC Dynamic Bond Fund - Regular Annual IDCW,INF917K01VP9,INF917K01VO2,Open Ended Schemes,Debt Scheme - Dynamic Bond
-151102,HSBC Mutual Fund,HSBC Banking and PSU Debt Fund - Regular Daily IDCW,,INF677K01AF4,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-151103,HSBC Mutual Fund,HSBC Banking and PSU Debt Fund - Regular Weekly IDCW,,INF917K01HM5,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-151104,HSBC Mutual Fund,HSBC Banking and PSU Debt Fund - Regular Growth,INF677K01AE7,,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-151105,HSBC Mutual Fund,HSBC Banking and PSU Debt Fund - Regular Monthly IDCW,INF677K01AI8,INF677K01AJ6,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-151106,HSBC Mutual Fund,HSBC Banking and PSU Debt Fund - Direct Monthly IDCW,INF917K01HJ1,INF917K01HI3,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-151107,HSBC Mutual Fund,HSBC Banking and PSU Debt Fund - Direct Growth,INF917K01HH5,,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-151108,HSBC Mutual Fund,HSBC Banking and PSU Debt Fund - Direct Daily IDCW,,INF917K01HL7,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-151109,HSBC Mutual Fund,HSBC Banking and PSU Debt Fund - Direct Weekly IDCW,,INF917K01HK9,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
+151084,HSBC Mutual Fund,HSBC Dynamic Bond Fund - Regular Growth,INF677K01916,,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
+151085,HSBC Mutual Fund,HSBC Dynamic Bond Fund - Regular Monthly IDCW,INF677K01924,INF677K01932,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
+151086,HSBC Mutual Fund,HSBC Dynamic Bond Fund - Direct Monthly IDCW,INF917K01GZ9,INF917K01GY2,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
+151087,HSBC Mutual Fund,HSBC Dynamic Bond Fund - Direct Growth,INF917K01HA0,,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
+151088,HSBC Mutual Fund,HSBC Dynamic Bond Fund - Direct Annual IDCW,INF917K01VN4,INF917K01VM6,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
+151089,HSBC Mutual Fund,HSBC Dynamic Bond Fund - Regular Annual IDCW,INF917K01VP9,INF917K01VO2,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
+151102,HSBC Mutual Fund,HSBC Banking and PSU Debt Fund - Regular Daily IDCW,,INF677K01AF4,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
+151103,HSBC Mutual Fund,HSBC Banking and PSU Debt Fund - Regular Weekly IDCW,,INF917K01HM5,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
+151104,HSBC Mutual Fund,HSBC Banking and PSU Debt Fund - Regular Growth,INF677K01AE7,,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
+151105,HSBC Mutual Fund,HSBC Banking and PSU Debt Fund - Regular Monthly IDCW,INF677K01AI8,INF677K01AJ6,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
+151106,HSBC Mutual Fund,HSBC Banking and PSU Debt Fund - Direct Monthly IDCW,INF917K01HJ1,INF917K01HI3,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
+151107,HSBC Mutual Fund,HSBC Banking and PSU Debt Fund - Direct Growth,INF917K01HH5,,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
+151108,HSBC Mutual Fund,HSBC Banking and PSU Debt Fund - Direct Daily IDCW,,INF917K01HL7,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
+151109,HSBC Mutual Fund,HSBC Banking and PSU Debt Fund - Direct Weekly IDCW,,INF917K01HK9,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
 151110,HSBC Mutual Fund,HSBC Value Fund - Regular Growth,INF677K01023,,Open Ended Schemes,Equity Scheme - Value Fund
 151111,HSBC Mutual Fund,HSBC Value Fund - Regular IDCW,INF677K01213,INF677K01015,Open Ended Schemes,Equity Scheme - Value Fund
 151112,HSBC Mutual Fund,HSBC Value Fund - Direct IDCW,INF917K01HC6,INF917K01HB8,Open Ended Schemes,Equity Scheme - Value Fund
@@ -36422,7 +36422,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154469,SBI Funds Management Limited,SBI Crisil - IBX SDL Index - June 2034 Index Fund - Regular Plan - IDCW,INF200KB1BM2,INF200KB1BN0,Open Ended,Index Funds - Debt Funds
 154470,SBI Funds Management Limited,SBI Crisil - IBX SDL Index - June 2034 Index Fund - Direct Plan - IDCW,INF200KB1BP5,INF200KB1BQ3,Open Ended,Index Funds - Debt Funds
 154467,SBI Funds Management Limited,SBI Crisil - IBX SDL Index - June 2034 Index Fund - Direct Plan - Growth,INF200KB1BO8,,Open Ended,Index Funds - Debt Funds
-154471,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset BSE Midcap 150 Momentum 30 ETF,INF769K01RC0,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
 154476,Groww Asset Management Limited,Groww Nifty Cements ETF,INF666M01PH7,,Open Ended,Exchange Traded Funds (ETFs) - Other ETF
 154477,Abakkus Investment Managers Private Limited,Abakkus Large & Mid Cap Fund - Direct  Plan - Growth,INF2JJD01193,,Open Ended,Equity Scheme - Large & Mid Cap Fund
 154478,Abakkus Investment Managers Private Limited,Abakkus Large & Mid Cap Fund - Regular Plan - Growth,INF2JJD01201,,Open Ended,Equity Scheme - Large & Mid Cap Fund
