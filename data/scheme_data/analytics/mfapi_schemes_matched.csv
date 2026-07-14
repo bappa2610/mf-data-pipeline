@@ -583,7 +583,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 101359,Franklin Templeton Mutual Fund,Franklin India Savings Fund - Institutional Option - Dividend,,,Open Ended Schemes,Debt Scheme - Money Market Fund
 101361,Canara Robeco Mutual Fund,Canara Robeco Liquid Fund- INSTITUTIONAL-Weekly dividend,,,Open Ended Schemes,Income
 101372,Kotak Mahindra Mutual Fund,Kotak Bond Short Term Plan-(Payout of Income Distribution cum capital withdrawal option),,,Open Ended Schemes,Debt Scheme - Short Duration Fund
-101373,Kotak Mahindra Mutual Fund,Kotak Bond Short Term Plan-(Growth),INF174K01ES7,,Open Ended Schemes,Debt Scheme - Short Duration Fund
+101373,Kotak Mahindra Mutual Fund,Kotak Bond Short Term Plan-(Growth),INF174K01ES7,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 101393,Sahara Mutual Fund,Sahara Liquid Fund-Fixed Pricing - Daily Dividend Option,,,Open Ended Schemes,Liquid
 101394,Sahara Mutual Fund,Sahara Liquid Fund-Fixed Pricing - Growth option,,,Open Ended Schemes,Liquid
 101397,Sahara Mutual Fund,Sahara Liquid Fund-Fixed Pricing -  Weekly Dividend Option,,,Open Ended Schemes,Liquid
@@ -833,8 +833,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 101879,HDFC Mutual Fund,HDFC Sovereign Gilt Fund - Provident Plan-Dividend Option,,,Open Ended Schemes,Income
 101883,Tata Mutual Fund,Tata Gilt Securities Short Maturity Fund -Regular Plan-Growth,,,Open Ended Schemes,Income
 101884,Benchmark Mutual Fund,Liquid Benchmark Exchange Traded Scheme (Liquid BeES),,,Open Ended Schemes,Income
-101892,Kotak Mahindra Mutual Fund,Kotak Money market Fund - (Monthly Payout of Income Distribution cum capital withdrawal option),INF174K018O0,INF174K01NB4,Open Ended Schemes,Debt Scheme - Money Market Fund
-101893,Kotak Mahindra Mutual Fund,Kotak Money Market Fund - (Growth),INF174K01NA6,,Open Ended Schemes,Debt Scheme - Money Market Fund
+101892,Kotak Mahindra Mutual Fund,Kotak Money market Fund - (Monthly Payout of Income Distribution cum capital withdrawal option),INF174K018O0,INF174K01NB4,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
+101893,Kotak Mahindra Mutual Fund,Kotak Money Market Fund - (Growth),INF174K01NA6,,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
 101894,Kotak Mahindra Mutual Fund,Kotak Money Market Scheme - (Weekly Reinvestment of Income Distribution cum capital withdrawal option),,,Open Ended Schemes,Debt Scheme - Money Market Fund
 101895,DBS Chola Mutual Fund,DBS Chola Monthly Income Plan-Regular-Monthly Dividend Plan,,,Open Ended Schemes,Income
 101898,UTI Mutual Fund,UTI Sunder,,,Open Ended Schemes,Income
@@ -1199,8 +1199,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 102585,ICICI Prudential Mutual Fund,ICICI Prudential FMP-15 Month - Series 25-Retail Plan-Cumulative Option,,,Open Ended Schemes,Income
 102587,ICICI Prudential Mutual Fund,ICICI Prudential FMP-15 Month - Series 25-Institutional Plan-Cumulative Option,,,Open Ended Schemes,Income
 102590,Kotak Mahindra Mutual Fund,Kotak Savings Fund -Weekly Weekly Reinvestment of Income Distribution cum capital withdrawal option,,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
-102591,Kotak Mahindra Mutual Fund,Kotak Savings Fund -Growth,INF174K01FD6,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
-102592,Kotak Mahindra Mutual Fund,Kotak Savings Fund -Monthly Payout of Income Distribution cum capital withdrawal option,INF174K01FH7,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
+102591,Kotak Mahindra Mutual Fund,Kotak Savings Fund -Growth,INF174K01FD6,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+102592,Kotak Mahindra Mutual Fund,Kotak Savings Fund -Monthly Payout of Income Distribution cum capital withdrawal option,INF174K01FH7,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
 102594,ICICI Prudential Mutual Fund,ICICI Prudential Value Fund (erstwhile Value Discovery Fund) - Growth,INF109K01AF8,,Open Ended Schemes,Equity Scheme - Value Fund
 102595,ICICI Prudential Mutual Fund,ICICI Prudential Value Fund (erstwhile Value Discovery Fund) - IDCW,INF109K01EC7,INF109K01AD3,Open Ended Schemes,Equity Scheme - Value Fund
 102596,ICICI Prudential Mutual Fund,ICICI Prudential Value Discovery Fund - Institutional Option - I - Growth,,,Open Ended Schemes,Income
@@ -31024,4 +31024,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154427,HDFC Mutual Fund,HDFC Nifty Auto Index Fund- Direct Plan- Growth Option,INF179KC1KQ0,,Open Ended Schemes,Other Scheme - Index Funds
 154428,HDFC Mutual Fund,HDFC Nifty Auto Index Fund- Growth Option,INF179KC1KP2,,Open Ended Schemes,Other Scheme - Index Funds
 154431,Invesco Mutual Fund,Invesco India Ultra Short Duration Fund - Regular Plan - Weekly IDCW (Payout / Reinvestment),INF205KA1BQ9,INF205KA1BR7,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
+154436,Zerodha Mutual Fund,Zerodha Life Cycle Fund 2036 - Direct - Growth,,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
+154437,Zerodha Mutual Fund,Zerodha Life Cycle Fund 2041 - Direct - Growth,,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
 154462,Mirae Asset Mutual Fund,Mirae Asset Money Market Fund - Direct Plan - Weekly IDCW,,INF769K01RA4,Open Ended Schemes,Debt Scheme - Money Market Fund
