@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Kotak Mahindra Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Money Market Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Money Market Fund",
         "scheme_code": 101893,
         "scheme_name": "Kotak Money Market Fund - (Growth)",
         "isin_growth": "INF174K01NA6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "13-07-2026",
+            "nav": "4791.86990"
+        },
         {
             "date": "10-07-2026",
             "nav": "4790.60350"

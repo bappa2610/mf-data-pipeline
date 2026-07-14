@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Kotak Mahindra Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short Term Fund",
         "scheme_code": 102591,
         "scheme_name": "Kotak Savings Fund -Growth",
         "isin_growth": "INF174K01FD6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "13-07-2026",
+            "nav": "45.56550"
+        },
         {
             "date": "10-07-2026",
             "nav": "45.54300"
