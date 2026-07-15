@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 153985,
         "scheme_name": "Mirae Asset Infrastructure Fund - Regular Plan - Growth",
         "isin_growth": "INF769K01PS0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "15-07-2026",
+            "nav": "11.05600"
+        },
         {
             "date": "14-07-2026",
             "nav": "10.98800"
