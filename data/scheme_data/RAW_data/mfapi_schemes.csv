@@ -940,9 +940,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 102001,HDFC Mutual Fund,HDFC Large Cap Fund - IDCW Option - Regular Plan,INF179K01BC6,INF179K01BD4,Open Ended Schemes,Equity Scheme - Large Cap Fund
 102003,UTI Mutual Fund,UTI-  Liquid Fund-Short Term Plan-Income,,,Open Ended Schemes,Income
 102004,UTI Mutual Fund,UTI-  Liquid Fund-Short Term Plan-Growth,,,Open Ended Schemes,Income
-102007,UTI Mutual Fund,UTI Liquid Fund - Discontinued -Regular Plan Periodic Dividend Option,,INF789F1AE94,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
-102008,UTI Mutual Fund,UTI Liquid Fund - Discontinued - Regular Plan - Monthly Dividend Option,INF789F1AF44,INF789F1AG27,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
-102009,UTI Mutual Fund,UTI Liquid Fund - Discontinued - Regular Plan -Growth,INF789F1AG35,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+102007,UTI Mutual Fund,UTI Liquid Fund - Discontinued -Regular Plan Periodic Dividend Option,INF789F1AE86,INF789F1AE94,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+102008,UTI Mutual Fund,UTI Liquid Fund - Discontinued - Regular Plan - Monthly Dividend Option,INF789F1AG27,INF789F1AG35,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+102009,UTI Mutual Fund,UTI Liquid Fund - Discontinued - Regular Plan -Growth,INF789F1AF44,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 102010,UTI Mutual Fund,UTI Liquid Fund - Regular Plan - Daily IDCW (Reinvestment),,INF789F1AF77,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 102011,UTI Mutual Fund,UTI Liquid Fund - Regular Plan - Monthly IDCW,INF789F1AF93,INF789F1AG01,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 102012,UTI Mutual Fund,UTI Liquid Fund - Regular Plan - Growth Option,INF789F1AF85,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
@@ -34775,20 +34775,20 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 151077,HSBC Mutual Fund,HSBC ELSS Tax saver Fund - Regular IDCW Payout,INF677K01072,,Open Ended Schemes,Equity Scheme - ELSS
 151078,HSBC Mutual Fund,HSBC ELSS Tax saver Fund - Direct Growth,INF917K01GP0,,Open Ended Schemes,Equity Scheme - ELSS
 151079,HSBC Mutual Fund,HSBC ELSS Tax saver Fund - Direct IDCW Payout,INF917K01GO3,,Open Ended Schemes,Equity Scheme - ELSS
-151084,HSBC Mutual Fund,HSBC Dynamic Bond Fund - Regular Growth,INF677K01916,,Open Ended Schemes,Debt Scheme - Dynamic Bond
-151085,HSBC Mutual Fund,HSBC Dynamic Bond Fund - Regular Monthly IDCW,INF677K01924,INF677K01932,Open Ended Schemes,Debt Scheme - Dynamic Bond
-151086,HSBC Mutual Fund,HSBC Dynamic Bond Fund - Direct Monthly IDCW,INF917K01GZ9,INF917K01GY2,Open Ended Schemes,Debt Scheme - Dynamic Bond
-151087,HSBC Mutual Fund,HSBC Dynamic Bond Fund - Direct Growth,INF917K01HA0,,Open Ended Schemes,Debt Scheme - Dynamic Bond
-151088,HSBC Mutual Fund,HSBC Dynamic Bond Fund - Direct Annual IDCW,INF917K01VN4,INF917K01VM6,Open Ended Schemes,Debt Scheme - Dynamic Bond
-151089,HSBC Mutual Fund,HSBC Dynamic Bond Fund - Regular Annual IDCW,INF917K01VP9,INF917K01VO2,Open Ended Schemes,Debt Scheme - Dynamic Bond
-151102,HSBC Mutual Fund,HSBC Banking and PSU Debt Fund - Regular Daily IDCW,,INF677K01AF4,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-151103,HSBC Mutual Fund,HSBC Banking and PSU Debt Fund - Regular Weekly IDCW,,INF917K01HM5,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-151104,HSBC Mutual Fund,HSBC Banking and PSU Debt Fund - Regular Growth,INF677K01AE7,,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-151105,HSBC Mutual Fund,HSBC Banking and PSU Debt Fund - Regular Monthly IDCW,INF677K01AI8,INF677K01AJ6,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-151106,HSBC Mutual Fund,HSBC Banking and PSU Debt Fund - Direct Monthly IDCW,INF917K01HJ1,INF917K01HI3,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-151107,HSBC Mutual Fund,HSBC Banking and PSU Debt Fund - Direct Growth,INF917K01HH5,,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-151108,HSBC Mutual Fund,HSBC Banking and PSU Debt Fund - Direct Daily IDCW,,INF917K01HL7,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-151109,HSBC Mutual Fund,HSBC Banking and PSU Debt Fund - Direct Weekly IDCW,,INF917K01HK9,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
+151084,HSBC Mutual Fund,HSBC Dynamic Bond Fund - Regular Growth,INF677K01916,,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
+151085,HSBC Mutual Fund,HSBC Dynamic Bond Fund - Regular Monthly IDCW,INF677K01924,INF677K01932,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
+151086,HSBC Mutual Fund,HSBC Dynamic Bond Fund - Direct Monthly IDCW,INF917K01GZ9,INF917K01GY2,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
+151087,HSBC Mutual Fund,HSBC Dynamic Bond Fund - Direct Growth,INF917K01HA0,,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
+151088,HSBC Mutual Fund,HSBC Dynamic Bond Fund - Direct Annual IDCW,INF917K01VN4,INF917K01VM6,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
+151089,HSBC Mutual Fund,HSBC Dynamic Bond Fund - Regular Annual IDCW,INF917K01VP9,INF917K01VO2,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
+151102,HSBC Mutual Fund,HSBC Banking and PSU Debt Fund - Regular Daily IDCW,,INF677K01AF4,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
+151103,HSBC Mutual Fund,HSBC Banking and PSU Debt Fund - Regular Weekly IDCW,,INF917K01HM5,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
+151104,HSBC Mutual Fund,HSBC Banking and PSU Debt Fund - Regular Growth,INF677K01AE7,,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
+151105,HSBC Mutual Fund,HSBC Banking and PSU Debt Fund - Regular Monthly IDCW,INF677K01AI8,INF677K01AJ6,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
+151106,HSBC Mutual Fund,HSBC Banking and PSU Debt Fund - Direct Monthly IDCW,INF917K01HJ1,INF917K01HI3,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
+151107,HSBC Mutual Fund,HSBC Banking and PSU Debt Fund - Direct Growth,INF917K01HH5,,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
+151108,HSBC Mutual Fund,HSBC Banking and PSU Debt Fund - Direct Daily IDCW,,INF917K01HL7,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
+151109,HSBC Mutual Fund,HSBC Banking and PSU Debt Fund - Direct Weekly IDCW,,INF917K01HK9,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
 151110,HSBC Mutual Fund,HSBC Value Fund - Regular Growth,INF677K01023,,Open Ended Schemes,Equity Scheme - Value Fund
 151111,HSBC Mutual Fund,HSBC Value Fund - Regular IDCW,INF677K01213,INF677K01015,Open Ended Schemes,Equity Scheme - Value Fund
 151112,HSBC Mutual Fund,HSBC Value Fund - Direct IDCW,INF917K01HC6,INF917K01HB8,Open Ended Schemes,Equity Scheme - Value Fund
@@ -37322,16 +37322,16 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154042,Abakkus Mutual Fund,Abakkus Flexi Cap Fund - Regular - IDCW,INF2JJD01151,INF2JJD01144,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
 154043,Abakkus Mutual Fund,Abakkus Flexi Cap Fund - Direct - Growth,INF2JJD01136,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
 154045,Abakkus Mutual Fund,Abakkus Flexi Cap Fund - Direct - IDCW,INF2JJD01128,INF2JJD01110,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
-154047,Abakkus Mutual Fund,Abakkus Liquid Fund - Regular Plan - Growth,INF2JJD01078,,Open Ended Schemes,Debt Scheme - Liquid Fund
-154048,Abakkus Mutual Fund,Abakkus Liquid Fund - Regular Plan - Monthly IDCW Reinvestment,,INF2JJD01086,Open Ended Schemes,Debt Scheme - Liquid Fund
-154049,Abakkus Mutual Fund,Abakkus Liquid Fund - Direct Plan - Daily IDCW Reinvestment,,INF2JJD01011,Open Ended Schemes,Debt Scheme - Liquid Fund
-154050,Abakkus Mutual Fund,Abakkus Liquid Fund - Direct Plan - Weekly IDCW Reinvestment,,INF2JJD01045,Open Ended Schemes,Debt Scheme - Liquid Fund
-154051,Abakkus Mutual Fund,Abakkus Liquid Fund - Direct Plan - Growth,INF2JJD01029,,Open Ended Schemes,Debt Scheme - Liquid Fund
-154052,Abakkus Mutual Fund,Abakkus Liquid Fund - Direct Plan - Quarterly IDCW Reinvestment,,INF2JJD01052,Open Ended Schemes,Debt Scheme - Liquid Fund
-154053,Abakkus Mutual Fund,Abakkus Liquid Fund - Regular Plan - Daily IDCW Reinvestment,,INF2JJD01060,Open Ended Schemes,Debt Scheme - Liquid Fund
-154054,Abakkus Mutual Fund,Abakkus Liquid Fund - Regular Plan - Quarterly IDCW Reinvestment,,INF2JJD01102,Open Ended Schemes,Debt Scheme - Liquid Fund
-154055,Abakkus Mutual Fund,Abakkus Liquid Fund - Direct Plan - Monthly IDCW Reinvestment,,INF2JJD01037,Open Ended Schemes,Debt Scheme - Liquid Fund
-154056,Abakkus Mutual Fund,Abakkus Liquid Fund - Regular Plan - Weekly IDCW Reinvestment,,INF2JJD01094,Open Ended Schemes,Debt Scheme - Liquid Fund
+154047,Abakkus Mutual Fund,Abakkus Liquid Fund - Regular Plan - Growth,INF2JJD01078,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+154048,Abakkus Mutual Fund,Abakkus Liquid Fund - Regular Plan - Monthly IDCW Reinvestment,,INF2JJD01086,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+154049,Abakkus Mutual Fund,Abakkus Liquid Fund - Direct Plan - Daily IDCW Reinvestment,,INF2JJD01011,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+154050,Abakkus Mutual Fund,Abakkus Liquid Fund - Direct Plan - Weekly IDCW Reinvestment,,INF2JJD01045,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+154051,Abakkus Mutual Fund,Abakkus Liquid Fund - Direct Plan - Growth,INF2JJD01029,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+154052,Abakkus Mutual Fund,Abakkus Liquid Fund - Direct Plan - Quarterly IDCW Reinvestment,,INF2JJD01052,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+154053,Abakkus Mutual Fund,Abakkus Liquid Fund - Regular Plan - Daily IDCW Reinvestment,,INF2JJD01060,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+154054,Abakkus Mutual Fund,Abakkus Liquid Fund - Regular Plan - Quarterly IDCW Reinvestment,,INF2JJD01102,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+154055,Abakkus Mutual Fund,Abakkus Liquid Fund - Direct Plan - Monthly IDCW Reinvestment,,INF2JJD01037,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+154056,Abakkus Mutual Fund,Abakkus Liquid Fund - Regular Plan - Weekly IDCW Reinvestment,,INF2JJD01094,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 154057,Groww Mutual Fund,Groww Multi Asset Omni FOF Regular Growth,INF666M01NF6,,Open Ended Schemes,Other Scheme - FoF Domestic
 154058,Groww Mutual Fund,Groww Multi Asset Omni FOF Direct IDCW,INF666M01ND1,INF666M01NE9,Open Ended Schemes,Other Scheme - FoF Domestic
 154059,Groww Mutual Fund,Groww Multi Asset Omni FOF Regular IDCW,INF666M01NG4,INF666M01NH2,Open Ended Schemes,Other Scheme - FoF Domestic
@@ -37649,6 +37649,12 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154399,Shriram Mutual Fund,Shriram Overnight Fund- Regular Growth,INF680P01505,,Open Ended Schemes,Debt Scheme - Overnight Fund
 154402,Shriram Mutual Fund,Shriram Overnight Fund- Regular Monthly IDCW,INF680P01620,INF680P01646,Open Ended Schemes,Debt Scheme - Overnight Fund
 154404,ICICI Prudential Mutual Fund,ICICI Prudential Nifty Smallcap 250 ETF,INF109K1A476,,Open Ended Schemes,Other Scheme - Other  ETFs
+154405,Tata Mutual Fund,Tata Multi Sector Passive FOF Regular Plan Growth Option,INF277KA1ES2,,Open Ended Schemes,Other Scheme - FoF Domestic
+154406,Tata Mutual Fund,Tata Multi Sector Passive FOF Regular Plan IDCW Payout Option,INF277KA1EU8,,Open Ended Schemes,Other Scheme - FoF Domestic
+154407,Tata Mutual Fund,Tata Multi Sector Passive FOF Regular Plan IDCW Reinvestment Option,,INF277KA1ET0,Open Ended Schemes,Other Scheme - FoF Domestic
+154408,Tata Mutual Fund,Tata Multi Sector Passive FOF Direct Plan IDCW Reinvestment Option,,INF277KA1EW4,Open Ended Schemes,Other Scheme - FoF Domestic
+154409,Tata Mutual Fund,Tata Multi Sector Passive FOF Direct Plan Growth Option,INF277KA1EV6,,Open Ended Schemes,Other Scheme - FoF Domestic
+154410,Tata Mutual Fund,Tata Multi Sector Passive FOF Direct Plan IDCW Payout Option,INF277KA1EX2,,Open Ended Schemes,Other Scheme - FoF Domestic
 154413,Choice Mutual Fund,Choice Overnight Fund - Growth Option - Direct Plan,,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 154414,Choice Mutual Fund,Choice Overnight Fund - Daily IDCW Option - Regular Plan,,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 154415,Choice Mutual Fund,Choice Overnight Fund - Growth Option - Regular Plan,,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
