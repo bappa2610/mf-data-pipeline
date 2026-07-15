@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Abakkus Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Liquid Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
         "scheme_code": 154056,
         "scheme_name": "Abakkus Liquid Fund - Regular Plan - Weekly IDCW Reinvestment",
         "isin_growth": null,
         "isin_div_reinvestment": "INF2JJD01094"
     },
     "data": [
+        {
+            "date": "14-07-2026",
+            "nav": "100.06410"
+        },
         {
             "date": "13-07-2026",
             "nav": "100.06230"

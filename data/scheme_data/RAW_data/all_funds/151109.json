@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Banking and PSU Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Banking and PSU Debt Fund",
         "scheme_code": 151109,
         "scheme_name": "HSBC Banking and PSU Debt Fund - Direct Weekly IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF917K01HK9"
     },
     "data": [
+        {
+            "date": "14-07-2026",
+            "nav": "10.31500"
+        },
         {
             "date": "13-07-2026",
             "nav": "10.33500"

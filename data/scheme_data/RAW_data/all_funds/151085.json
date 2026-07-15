@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Dynamic Bond",
+        "scheme_category": "Income/Debt Oriented Schemes - Dynamic Term Fund",
         "scheme_code": 151085,
         "scheme_name": "HSBC Dynamic Bond Fund - Regular Monthly IDCW",
         "isin_growth": "INF677K01924",
         "isin_div_reinvestment": "INF677K01932"
     },
     "data": [
+        {
+            "date": "14-07-2026",
+            "nav": "10.67950"
+        },
         {
             "date": "13-07-2026",
             "nav": "10.71970"

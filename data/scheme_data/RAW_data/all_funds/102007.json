@@ -5,10 +5,14 @@
         "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
         "scheme_code": 102007,
         "scheme_name": "UTI Liquid Fund - Discontinued -Regular Plan Periodic Dividend Option",
-        "isin_growth": null,
+        "isin_growth": "INF789F1AE86",
         "isin_div_reinvestment": "INF789F1AE94"
     },
     "data": [
+        {
+            "date": "14-07-2026",
+            "nav": "113.36270"
+        },
         {
             "date": "13-07-2026",
             "nav": "113.35980"
