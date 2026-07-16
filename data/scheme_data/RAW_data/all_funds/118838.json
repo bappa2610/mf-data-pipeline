@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 118838,
         "scheme_name": "Mirae Asset Great Consumer Fund Direct IDCW",
         "isin_growth": "INF769K01BM3",
         "isin_div_reinvestment": "INF769K01BN1"
     },
     "data": [
+        {
+            "date": "15-07-2026",
+            "nav": "66.06700"
+        },
         {
             "date": "14-07-2026",
             "nav": "65.76100"
