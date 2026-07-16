@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Aditya Birla Sun Life Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Value Fund",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 149783,
         "scheme_name": "Aditya Birla Sun Life Silver ETF FOF-Regular Growth",
         "isin_growth": "INF209KB13F9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "15-07-2026",
+            "nav": "33.25180"
+        },
         {
             "date": "14-07-2026",
             "nav": "33.10910"

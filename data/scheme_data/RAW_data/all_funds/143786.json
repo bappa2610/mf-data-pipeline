@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 143786,
         "scheme_name": "Mirae Asset Healthcare Fund Regular IDCW",
         "isin_growth": "INF769K01EB0",
         "isin_div_reinvestment": "INF769K01EC8"
     },
     "data": [
+        {
+            "date": "15-07-2026",
+            "nav": "26.41700"
+        },
         {
             "date": "14-07-2026",
             "nav": "26.32500"

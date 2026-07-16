@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Open Ended Schemes(Exchange Traded Funds (ETFs) - Equity ETF)",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Value Fund",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 145881,
         "scheme_name": "Aditya Birla Sunlife Nifty Next 50 ETF",
         "isin_growth": "INF209KB16D7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "15-07-2026",
+            "nav": "75.82450"
+        },
         {
             "date": "14-07-2026",
             "nav": "75.51230"

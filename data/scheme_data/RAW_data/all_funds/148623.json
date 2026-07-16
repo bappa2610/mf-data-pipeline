@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 148623,
         "scheme_name": "Mirae Asset Banking and Financial Services Fund Direct Growth",
         "isin_growth": "INF769K01GX9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "15-07-2026",
+            "nav": "23.81900"
+        },
         {
             "date": "14-07-2026",
             "nav": "23.61600"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "ITI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short Term Fund",
         "scheme_code": 148906,
-        "scheme_name": "ITI Ultra Short Duration Fund - Regular Plan - Growth Option",
+        "scheme_name": "ITI Ultra Short Term Fund - Regular Plan - Growth Option",
         "isin_growth": "INF00XX01952",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "15-07-2026",
+            "nav": "1308.58900"
+        },
         {
             "date": "14-07-2026",
             "nav": "1308.42090"

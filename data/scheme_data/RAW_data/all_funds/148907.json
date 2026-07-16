@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "ITI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short Term Fund",
         "scheme_code": 148907,
-        "scheme_name": "ITI Ultra Short Duration Fund - Regular Plan - Weekly IDCW Option",
+        "scheme_name": "ITI Ultra Short Term Fund - Regular Plan - Weekly IDCW Option",
         "isin_growth": null,
         "isin_div_reinvestment": "INF00XX01978"
     },
     "data": [
+        {
+            "date": "15-07-2026",
+            "nav": "1001.12890"
+        },
         {
             "date": "14-07-2026",
             "nav": "1000.99990"

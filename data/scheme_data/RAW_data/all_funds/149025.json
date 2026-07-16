@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "ITI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Dynamic Bond",
+        "scheme_category": "Income/Debt Oriented Schemes - Dynamic Term Fund",
         "scheme_code": 149025,
-        "scheme_name": "ITI Dynamic Bond Fund - Direct Plan - Quarterly IDCW Option",
+        "scheme_name": "ITI Dynamic Term Fund - Direct Plan - Quarterly IDCW Option",
         "isin_growth": "INF00XX01BI1",
         "isin_div_reinvestment": "INF00XX01BE0"
     },
     "data": [
+        {
+            "date": "15-07-2026",
+            "nav": "13.56350"
+        },
         {
             "date": "14-07-2026",
             "nav": "13.54510"
