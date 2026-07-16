@@ -6,9 +6,13 @@
         "scheme_code": 154414,
         "scheme_name": "Choice Overnight Fund - Daily IDCW Option - Regular Plan",
         "isin_growth": null,
-        "isin_div_reinvestment": null
+        "isin_div_reinvestment": "INF2KCX01079"
     },
     "data": [
+        {
+            "date": "16-07-2026",
+            "nav": "100.18040"
+        },
         {
             "date": "15-07-2026",
             "nav": "100.16680"

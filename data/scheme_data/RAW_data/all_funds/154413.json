@@ -5,10 +5,14 @@
         "scheme_category": "Income/Debt Oriented Schemes - Overnight Fund",
         "scheme_code": 154413,
         "scheme_name": "Choice Overnight Fund - Growth Option - Direct Plan",
-        "isin_growth": null,
+        "isin_growth": "INF2KCX01087",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "16-07-2026",
+            "nav": "100.18420"
+        },
         {
             "date": "15-07-2026",
             "nav": "100.17030"
