@@ -14239,9 +14239,12 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154469,SBI Mutual Fund,SBI Crisil - IBX SDL Index - June 2034 Index Fund - Regular Plan - IDCW,INF200KB1BM2,INF200KB1BN0,Open Ended Schemes,Index Funds - Debt Funds
 154470,SBI Mutual Fund,SBI Crisil - IBX SDL Index - June 2034 Index Fund - Direct Plan - IDCW,INF200KB1BP5,INF200KB1BQ3,Open Ended Schemes,Index Funds - Debt Funds
 154471,Mirae Asset Mutual Fund,Mirae Asset BSE Midcap 150 Momentum 30 ETF,INF769K01RC0,,Open Ended Schemes,Exchange Traded Funds
+154491,Kotak Mahindra Mutual Fund,Kotak Nifty Private Bank ETF,INF174KA1A9,,Open Ended Schemes,Exchange Traded Funds
+154492,Bajaj Finserv Mutual Fund,Bajaj Finserv BSE Top 10 Banks ETF,INF0QA701CI0,,Open Ended Schemes,Exchange Traded Funds
 154507,Kotak Mahindra Mutual Fund,Kotak Money Market Fund - Direct - IDCW Weekly,INF174KA1B28,INF174KA1B02,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
 154510,Kotak Mahindra Mutual Fund,Kotak Bond Short Term Fund - Direct - IDCW Weekly,INF174KA1B69,INF174KA1B44,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 154513,Kotak Mahindra Mutual Fund,Kotak Savings Fund - Direct - IDCW Weekly,INF174KA1C43,INF174KA1C27,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+154521,Abakkus Mutual Fund,Abakkus Liquid Fund - Unclaimed Redemption Less than 3 Years,,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 100027,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Half Yearly Dividend,,,Open Ended Schemes,Income
 100028,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Quaterly Dividend,,,Open Ended Schemes,Income
 100029,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Growth,,,Open Ended Schemes,Income
@@ -36403,7 +36406,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154116,Jio BlackRock Asset Management Private Limited,JioBlackRock Liquid Fund - Direct Plan - Daily IDCW Reinvestment Option,INF22M001119,,Open Ended,Debt Scheme - Liquid Fund
 154117,Jio BlackRock Asset Management Private Limited,JioBlackRock Liquid Fund - Direct Plan - Weekly IDCW Option,INF22M001127,INF22M001135,Open Ended,Debt Scheme - Liquid Fund
 154522,Abakkus Investment Managers Private Limited,Abakkus Liquid Fund - Unclaimed IDCW Less than 3 Years,,,Open Ended,Income/Debt Oriented Schemes - Liquid Fund
-154521,Abakkus Investment Managers Private Limited,Abakkus Liquid Fund - Unclaimed Redemption Less than 3 Years,,,Open Ended,Income/Debt Oriented Schemes - Liquid Fund
 154126,Sundaram Asset Management Company Ltd,Sundaram Income Plus Arbitrage Active FoF Fund-Regular-IDCW Reinvestment,INF903JA1ME0,,Open Ended,Other Scheme - FoF Domestic
 154128,Sundaram Asset Management Company Ltd,Sundaram Income Plus Arbitrage Active FoF Fund-Direct-IDCW Reinvestment,INF903JA1MB6,,Open Ended,Other Scheme - FoF Domestic
 154377,Motilal Oswal Asset Management Company Limited,Motilal Oswal BSE Midcap 150 Momentum 30 Index Fund-Direct,INF247L01HE2,,Open Ended,Other Scheme - Index Funds
@@ -36437,8 +36439,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154490,Baroda BNP Paribas Asset Management India Private Limited,Baroda BNP Paribas Services Fund - Direct Growth Option,INF251K01VY5,,Open Ended,Equity Schemes - Thematic Fund
 154485,Baroda BNP Paribas Asset Management India Private Limited,Baroda BNP Paribas Services Fund - Direct IDCW Payout option,INF251K01VU3,INF251K01VZ2,Open Ended,Equity Schemes - Thematic Fund
 154486,Baroda BNP Paribas Asset Management India Private Limited,Baroda BNP Paribas Services Fund - Regular Growth option,INF251K01VV1,,Open Ended,Equity Schemes - Thematic Fund
-154491,Kotak Mahindra Asset Management Company Limited.,Kotak Nifty Private Bank ETF,INF174KA1A9,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
-154492,Bajaj Finserv Asset Management Limited,Bajaj Finserv BSE Top 10 Banks ETF,INF0QA701CI0,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
 154502,ITI Asset Management Limited,ITI Multi Asset Allocation Fund- Regular Plan- IDCW Option,,,Open Ended,Hybrid Schemes - Multi Asset Allocation Fund
 154498,ITI Asset Management Limited,ITI Multi Asset Allocation Fund - Direct Plan - Growth Option,,,Open Ended,Hybrid Schemes - Multi Asset Allocation Fund
 154499,ITI Asset Management Limited,ITI Multi Asset Allocation Fund- Direct Plan- IDCW Option,,,Open Ended,Hybrid Schemes - Multi Asset Allocation Fund
