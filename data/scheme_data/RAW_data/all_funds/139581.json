@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Open Ended Schemes(Exchange Traded Funds (ETFs) - Equity ETF)",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Schemes - Thematic Fund",
+        "scheme_category": "Equity Schemes - Value Fund",
         "scheme_code": 139581,
         "scheme_name": "Aditya Birla Sun Life BSE Sensex ETF",
         "isin_growth": "INF209KB10E8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "22-07-2026",
+            "nav": "77.31450"
+        },
         {
             "date": "21-07-2026",
             "nav": "78.03170"
