@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mahindra Manulife Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Focused Fund",
+        "scheme_category": "Equity Schemes - Focused Fund",
         "scheme_code": 148569,
         "scheme_name": "Mahindra Manulife Focused Fund - Direct Plan - IDCW",
         "isin_growth": "INF174V01AI3",
         "isin_div_reinvestment": "INF174V01AH5"
     },
     "data": [
+        {
+            "date": "21-07-2026",
+            "nav": "20.32610"
+        },
         {
             "date": "20-07-2026",
             "nav": "20.34900"

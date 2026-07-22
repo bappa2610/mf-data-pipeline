@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mahindra Manulife Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
+        "scheme_category": "Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation",
         "scheme_code": 149406,
         "scheme_name": "Mahindra Manulife Balanced Advantage Fund - Direct Plan - Growth",
         "isin_growth": "INF174V01BE0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "21-07-2026",
+            "nav": "16.12540"
+        },
         {
             "date": "20-07-2026",
             "nav": "16.10050"

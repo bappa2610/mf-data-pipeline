@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mahindra Manulife Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Multi Cap Fund",
+        "scheme_category": "Equity Schemes - Multi Cap Fund",
         "scheme_code": 141223,
         "scheme_name": "Mahindra Manulife Multi Cap Fund - Direct Plan - IDCW",
         "isin_growth": "INF174V01366",
         "isin_div_reinvestment": "INF174V01358"
     },
     "data": [
+        {
+            "date": "21-07-2026",
+            "nav": "32.35670"
+        },
         {
             "date": "20-07-2026",
             "nav": "32.34560"

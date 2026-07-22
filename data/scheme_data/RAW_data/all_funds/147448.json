@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mahindra Manulife Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
+        "scheme_category": "Hybrid Schemes - Aggressive Hybrid Fund",
         "scheme_code": 147448,
         "scheme_name": "Mahindra Manulife Aggressive Hybrid Fund - Direct Plan - Monthly IDCW",
         "isin_growth": "INF174V01804",
         "isin_div_reinvestment": "INF174V01796"
     },
     "data": [
+        {
+            "date": "21-07-2026",
+            "nav": "21.13440"
+        },
         {
             "date": "20-07-2026",
             "nav": "21.10090"
