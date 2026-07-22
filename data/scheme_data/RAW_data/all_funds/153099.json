@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Groww Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Multi Cap Fund",
+        "scheme_category": "Equity Schemes - Multi Cap Fund",
         "scheme_code": 153099,
         "scheme_name": "Groww Multicap Fund - Regular - IDCW",
         "isin_growth": "INF666M01JH0",
         "isin_div_reinvestment": "INF666M01JI8"
     },
     "data": [
+        {
+            "date": "22-07-2026",
+            "nav": "11.60260"
+        },
         {
             "date": "21-07-2026",
             "nav": "11.68790"

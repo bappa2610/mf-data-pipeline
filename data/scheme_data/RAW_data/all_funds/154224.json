@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Open Ended Schemes(Exchange Traded Funds (ETFs) - Equity ETF)",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Schemes - Thematic Fund",
+        "scheme_category": "Equity Schemes - Value Fund",
         "scheme_code": 154224,
         "scheme_name": "Aditya Birla Sun Life BSE Top 10 Banks ETF",
         "isin_growth": "INF209KC1670",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "22-07-2026",
+            "nav": "169.67210"
+        },
         {
             "date": "21-07-2026",
             "nav": "171.79250"

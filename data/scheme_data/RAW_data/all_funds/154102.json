@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Groww Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Small Cap Fund",
+        "scheme_category": "Equity Schemes - Small Cap Fund",
         "scheme_code": 154102,
         "scheme_name": "Groww Small Cap Fund-Regular-Growth",
         "isin_growth": "INF666M01NM2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "22-07-2026",
+            "nav": "11.89050"
+        },
         {
             "date": "21-07-2026",
             "nav": "11.98280"

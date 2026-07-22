@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Groww Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Sectoral Fund",
         "scheme_code": 152273,
         "scheme_name": "Groww Banking & Financial Services Fund-IDCW",
         "isin_growth": "INF666M01HT9",
         "isin_div_reinvestment": "INF666M01HU7"
     },
     "data": [
+        {
+            "date": "22-07-2026",
+            "nav": "13.47120"
+        },
         {
             "date": "21-07-2026",
             "nav": "13.65400"

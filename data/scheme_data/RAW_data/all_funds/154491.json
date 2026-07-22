@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Kotak Mahindra Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Schemes - Thematic Fund",
+        "scheme_category": "Equity Schemes - Value Fund",
         "scheme_code": 154491,
         "scheme_name": "Kotak Nifty Private Bank ETF",
-        "isin_growth": "INF174KA1A9",
+        "isin_growth": "INF174KA1A94",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "22-07-2026",
+            "nav": "27.52100"
+        },
         {
             "date": "21-07-2026",
             "nav": "27.90800"
