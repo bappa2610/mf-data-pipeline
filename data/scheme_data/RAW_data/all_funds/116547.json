@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Groww Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Large Cap Fund",
+        "scheme_category": "Equity Schemes - Large Cap Fund",
         "scheme_code": 116547,
         "scheme_name": "Groww Largecap Fund (formerly known as Indiabulls Blue Chip Fund) - Regular Plan- Growth Option",
         "isin_growth": "INF666M01162",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "22-07-2026",
+            "nav": "42.49000"
+        },
         {
             "date": "21-07-2026",
             "nav": "42.84000"
