@@ -1,6 +1,6 @@
 {
     "meta": {
-        "fund_house": "Open Ended Schemes(Exchange Traded Funds (ETFs) - Equity ETF)",
+        "fund_house": "Aditya Birla Sun Life Mutual Fund",
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Value Fund",
         "scheme_code": 139581,
@@ -9,6 +9,10 @@
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "23-07-2026",
+            "nav": "76.94980"
+        },
         {
             "date": "22-07-2026",
             "nav": "77.31450"
