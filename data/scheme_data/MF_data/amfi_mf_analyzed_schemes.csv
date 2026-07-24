@@ -36305,12 +36305,12 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 154402,Shriram Mutual Fund,Shriram Overnight Fund- Regular Monthly IDCW,INF680P01620,Open Ended,Debt,Overnight Fund,Regular,IDCW,Monthly
 154403,Shriram Asset Management Co. Ltd.,Shriram Overnight Fund- Direct Fortnightly IDCW,INF680P01570,Open Ended,Debt,Overnight Fund,Direct,IDCW,Fortnightly
 154404,ICICI Prudential Mutual Fund,ICICI Prudential Nifty Smallcap 250 ETF,INF109K1A476,Open Ended,Other,ETF,Other,Other,
-154405,Tata Mutual Fund,Tata Multi Sector Passive FOF Regular Plan Growth Option,INF277KA1ES2,Open Ended,Other,FoF Domestic,Regular,Growth,
-154406,Tata Mutual Fund,Tata Multi Sector Passive FOF Regular Plan IDCW Payout Option,INF277KA1EU8,Open Ended,Other,FoF Domestic,Regular,IDCW,
-154407,Tata Mutual Fund,Tata Multi Sector Passive FOF Regular Plan IDCW Reinvestment Option,,Open Ended,Other,FoF Domestic,Regular,IDCW,Reinvestment
-154408,Tata Mutual Fund,Tata Multi Sector Passive FOF Direct Plan IDCW Reinvestment Option,,Open Ended,Other,FoF Domestic,Direct,IDCW,Reinvestment
-154409,Tata Mutual Fund,Tata Multi Sector Passive FOF Direct Plan Growth Option,INF277KA1EV6,Open Ended,Other,FoF Domestic,Direct,Growth,
-154410,Tata Mutual Fund,Tata Multi Sector Passive FOF Direct Plan IDCW Payout Option,INF277KA1EX2,Open Ended,Other,FoF Domestic,Direct,IDCW,
+154405,Tata Mutual Fund,Tata Multi Sector Passive FOF Regular Plan Growth Option,INF277KA1ES2,Open Ended,Fund of Funds,Fund of Funds,Regular,Growth,
+154406,Tata Mutual Fund,Tata Multi Sector Passive FOF Regular Plan IDCW Payout Option,INF277KA1EU8,Open Ended,Fund of Funds,Fund of Funds,Regular,IDCW,
+154407,Tata Mutual Fund,Tata Multi Sector Passive FOF Regular Plan IDCW Reinvestment Option,,Open Ended,Fund of Funds,Fund of Funds,Regular,IDCW,Reinvestment
+154408,Tata Mutual Fund,Tata Multi Sector Passive FOF Direct Plan IDCW Reinvestment Option,,Open Ended,Fund of Funds,Fund of Funds,Direct,IDCW,Reinvestment
+154409,Tata Mutual Fund,Tata Multi Sector Passive FOF Direct Plan Growth Option,INF277KA1EV6,Open Ended,Fund of Funds,Fund of Funds,Direct,Growth,
+154410,Tata Mutual Fund,Tata Multi Sector Passive FOF Direct Plan IDCW Payout Option,INF277KA1EX2,Open Ended,Fund of Funds,Fund of Funds,Direct,IDCW,
 154413,Choice Mutual Fund,Choice Overnight Fund - Growth Option - Direct Plan,INF2KCX01087,Open Ended,Income/Debt Orienteds,Overnight Fund,Direct,Growth,
 154414,Choice Mutual Fund,Choice Overnight Fund - Daily IDCW Option - Regular Plan,,Open Ended,Income/Debt Orienteds,Overnight Fund,Regular,IDCW,Daily
 154415,Choice Mutual Fund,Choice Overnight Fund - Growth Option - Regular Plan,INF2KCX01095,Open Ended,Income/Debt Orienteds,Overnight Fund,Regular,Growth,
@@ -36418,3 +36418,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 154535,Edelweiss Asset Management Limited,Edelweiss BSE Largemid (60 40) stable dividend 50 ETF,,Open Ended,Exchange Traded Funds (ETFs),ETF,Other,IDCW,
 154536,Invesco Asset Management (India) Private Limited,Invesco India Nifty Bank ETF,INF205KA1CB9,Open Ended,Exchange Traded Funds (ETFs),ETF,Other,Other,
 154537,Invesco Asset Management (India) Private Limited,Invesco India BSE Sensex ETF,INF205KA1CA1,Open Ended,Exchange Traded Funds (ETFs),ETF,Other,Other,
+154538,Franklin Templeton Asset Management (India) Private Limited,Franklin India Short Term Fund - Direct - IDCW,,Open Ended,Income/Debt Orienteds,Short Term Fund,Direct,IDCW,
+154539,Franklin Templeton Asset Management (India) Private Limited,Franklin India Short Term Fund- IDCW,,Open Ended,Income/Debt Orienteds,Short Term Fund,Other,IDCW,
+154540,Franklin Templeton Asset Management (India) Private Limited,Franklin India Short Term Fund- Growth,,Open Ended,Income/Debt Orienteds,Short Term Fund,Other,Growth,
+154541,Franklin Templeton Asset Management (India) Private Limited,Franklin India Short Term Fund - Direct - Growth,,Open Ended,Income/Debt Orienteds,Short Term Fund,Direct,Growth,
