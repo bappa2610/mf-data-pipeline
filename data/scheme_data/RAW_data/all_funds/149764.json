@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Invesco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Flexi Cap Fund",
+        "scheme_category": "Equity Schemes - Flexi Cap Fund",
         "scheme_code": 149764,
         "scheme_name": "Invesco India Flexi Cap Fund - Regular Plan - IDCW",
         "isin_growth": "INF205KA1452",
         "isin_div_reinvestment": "INF205KA1478"
     },
     "data": [
+        {
+            "date": "24-07-2026",
+            "nav": "16.89000"
+        },
         {
             "date": "23-07-2026",
             "nav": "16.92000"

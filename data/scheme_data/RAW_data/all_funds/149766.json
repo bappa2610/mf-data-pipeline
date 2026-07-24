@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Invesco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Flexi Cap Fund",
+        "scheme_category": "Equity Schemes - Flexi Cap Fund",
         "scheme_code": 149766,
         "scheme_name": "Invesco India Flexi Cap Fund - Regular Plan - Growth",
         "isin_growth": "INF205KA1460",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "24-07-2026",
+            "nav": "18.99000"
+        },
         {
             "date": "23-07-2026",
             "nav": "19.03000"
