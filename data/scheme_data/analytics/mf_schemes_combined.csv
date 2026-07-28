@@ -14180,6 +14180,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154427,HDFC Mutual Fund,HDFC Nifty Auto Index Fund- Direct Plan- Growth Option,INF179KC1KQ0,,Open Ended Schemes,Other Scheme - Index Funds
 154428,HDFC Mutual Fund,HDFC Nifty Auto Index Fund- Growth Option,INF179KC1KP2,,Open Ended Schemes,Other Scheme - Index Funds
 154431,Invesco Mutual Fund,Invesco India Ultra Short Duration Fund - Regular Plan - Weekly IDCW (Payout / Reinvestment),INF205KA1BQ9,INF205KA1BR7,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
+154432,Invesco Mutual Fund,Invesco India Ultra Short Duration Fund - Direct Plan - Weekly IDCW (Payout / Reinvestment),INF205KA1BS5,INF205KA1BT3,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
 154436,Zerodha Mutual Fund,Zerodha Life Cycle Fund 2036 - Direct - Growth,,,Open Ended Schemes,Life Cycle Funds - Life Cycle Fund with Maturity of 10 Years
 154437,Zerodha Mutual Fund,Zerodha Life Cycle Fund 2041 - Direct - Growth,,,Open Ended Schemes,Life Cycle Funds - Life Cycle Fund with Maturity of 15 Years
 154438,AlphaGrep Mutual Fund,ALPHAGREP MULTI ASSET ALLOCATION FUND-DIRECT-GROWTH,INF2VOA01012,,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
@@ -14203,8 +14204,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154476,Groww Mutual Fund,Groww Nifty Cements ETF,INF666M01PH7,,Open Ended Schemes,Exchange Traded Funds
 154491,Kotak Mahindra Mutual Fund,Kotak Nifty Private Bank ETF,INF174KA1A94,,Open Ended Schemes,Exchange Traded Funds
 154492,Bajaj Finserv Mutual Fund,Bajaj Finserv BSE Top 10 Banks ETF,INF0QA701CI0,,Open Ended Schemes,Exchange Traded Funds
+154497,Mirae Asset Mutual Fund,Mirae Asset Nifty200 Momentum 30 Plus 8-13 yr G-Sec 50:50 ETF,INF769K01RJ5,,Open Ended Schemes,Exchange Traded Funds
 154504,HDFC Mutual Fund,HDFC Nifty Metal ETF - Growth Option,,,Open Ended Schemes,Exchange Traded Funds
 154507,Kotak Mahindra Mutual Fund,Kotak Money Market Fund - Direct - IDCW Weekly,INF174KA1B28,INF174KA1B02,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
+154509,Kotak Mahindra Mutual Fund,Kotak Bond Short Term Fund - Regular - IDCW Weekly,INF174KA1B51,INF174KA1B77,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 154510,Kotak Mahindra Mutual Fund,Kotak Bond Short Term Fund - Direct - IDCW Weekly,INF174KA1B69,INF174KA1B44,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 154511,Kotak Mahindra Mutual Fund,Kotak Corporate Bond Fund - Regular - IDCW Weekly,INF174KA1B93,INF174KA1C19,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
 154513,Kotak Mahindra Mutual Fund,Kotak Savings Fund - Direct - IDCW Weekly,INF174KA1C43,INF174KA1C27,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
@@ -34647,7 +34650,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 101158,Baroda BNP Paribas Asset Management India Private Limited,BOB INCOME FUND-STP,,,Open Ended,Debt Scheme - Medium to Long Duration Fund
 101159,Baroda BNP Paribas Asset Management India Private Limited,BOB INCOME FUND-STP,,,Open Ended,Debt Scheme - Medium to Long Duration Fund
 101189,Baroda BNP Paribas Asset Management India Private Limited,BOB GILT FUND-PF,,,Open Ended,Debt Scheme - Gilt Fund
-154509,Kotak Mahindra Asset Management Company Limited.,Kotak Bond Short Term Fund - Regular - IDCW Weekly,INF174KA1B51,INF174KA1B77,Open Ended,Income/Debt Oriented Schemes - Short Term Fund
 101509,JM Financial Asset Management Limited,JM Short Term Fund,,,Open Ended,Debt Scheme - Short Duration Fund
 101522,JM Financial Asset Management Limited,JM Short Term Fund..-Monthly Dividend,,,Open Ended,Debt Scheme - Short Duration Fund
 101523,JM Financial Asset Management Limited,JM Short Term Fund..-Institutional Plan - Monthly Dividend,,,Open Ended,Debt Scheme - Short Duration Fund
@@ -34883,7 +34885,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 113326,Baroda BNP Paribas Asset Management India Private Limited,Baroda Pioneer PSU Equity Fund,,,Open Ended,Equity Scheme - Mid Cap Fund
 113347,Nippon Life India Asset Management Limited,Reliance Arbitrage Advantage Fund - Dividend Plan - Dividend Reinvestment Option,,,Open Ended,Hybrid Scheme - Arbitrage Fund
 114225,Bandhan AMC Limited,DFC FMP - HYS - 12 (Plan A) - Dividend Option,,,Close Ended,Income
-154432,Invesco Asset Management (India) Private Limited,Invesco India Ultra Short Duration Fund - Direct Plan - Weekly IDCW (Payout / Reinvestment),INF205KA1BS5,INF205KA1BT3,Open Ended,Debt Scheme - Ultra Short Duration Fund
 114586,PGIM India Asset Management Private Limite,Pramerica Short Term Income Fund - Quarterly Dividend Option,,,Open Ended,Income
 114618,Nippon Life India Asset Management Limited,Reliance Gold Savings Fund-Dividend Plan-Dividend Reinvestment Option,,,Open Ended,Other Scheme - FoF Domestic
 114769,Tata Asset Management Limited,TFMP Series 31-Scheme B -Growth Option,,,Close Ended,Income
@@ -36393,7 +36394,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154490,Baroda BNP Paribas Asset Management India Private Limited,Baroda BNP Paribas Services Fund - Direct Growth Option,INF251K01VY5,,Open Ended,Equity Schemes - Thematic Fund
 154485,Baroda BNP Paribas Asset Management India Private Limited,Baroda BNP Paribas Services Fund - Direct IDCW Payout option,INF251K01VU3,INF251K01VZ2,Open Ended,Equity Schemes - Thematic Fund
 154486,Baroda BNP Paribas Asset Management India Private Limited,Baroda BNP Paribas Services Fund - Regular Growth option,INF251K01VV1,,Open Ended,Equity Schemes - Thematic Fund
-154497,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset Nifty200 Momentum 30 Plus 8-13 yr G-Sec 50 50 ETF,INF769K01RJ5,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
 154502,ITI Asset Management Limited,ITI Multi Asset Allocation Fund- Regular Plan- IDCW Option,,,Open Ended,Hybrid Schemes - Multi Asset Allocation Fund
 154498,ITI Asset Management Limited,ITI Multi Asset Allocation Fund - Direct Plan - Growth Option,,,Open Ended,Hybrid Schemes - Multi Asset Allocation Fund
 154499,ITI Asset Management Limited,ITI Multi Asset Allocation Fund- Direct Plan- IDCW Option,,,Open Ended,Hybrid Schemes - Multi Asset Allocation Fund
@@ -36431,3 +36431,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154550,Jio BlackRock Asset Management Private Limited,JioBlackRock Nifty 50 ETF,,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
 154551,Motilal Oswal Asset Management Company Limited,Motilal Oswal Nifty Metal ETF,,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
 154552,Motilal Oswal Asset Management Company Limited,Motilal Oswal Nifty Oil & Gas ETF,,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
+154553,WhiteOak Capital Asset Management Limited,WhiteOak Capital Dividend Yield Fund Regular Plan Growth,INF03VN01AI2,,Open Ended,Equity Schemes - Dividend Yield Fund
+154554,WhiteOak Capital Asset Management Limited,WhiteOak Capital Dividend Yield Fund Direct Plan IDCW,INF03VN01AJ0,INF03VN01AK8,Open Ended,Equity Schemes - Dividend Yield Fund
+154555,WhiteOak Capital Asset Management Limited,WhiteOak Capital Dividend Yield Fund Regular Plan IDCW,INF03VN01AL6,INF03VN01AM4,Open Ended,Equity Schemes - Dividend Yield Fund
+154556,WhiteOak Capital Asset Management Limited,WhiteOak Capital Dividend Yield Fund Direct Plan Growth,INF03VN01AH4,,Open Ended,Equity Schemes - Dividend Yield Fund
