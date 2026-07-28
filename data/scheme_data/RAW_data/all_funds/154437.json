@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Zerodha Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
+        "scheme_category": "Life Cycle Funds - Life Cycle Fund with Maturity of 15 Years",
         "scheme_code": 154437,
         "scheme_name": "Zerodha Life Cycle Fund 2041 - Direct - Growth",
         "isin_growth": null,
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "28-07-2026",
+            "nav": "9.91600"
+        },
         {
             "date": "27-07-2026",
             "nav": "9.94280"
