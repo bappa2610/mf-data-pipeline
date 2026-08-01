@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Invesco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
+        "scheme_category": "Hybrid Schemes - Aggressive Hybrid Fund",
         "scheme_code": 143532,
         "scheme_name": "Invesco India Aggressive Hybrid Fund - Direct Plan - IDCW (Payout / Reinvestment)",
         "isin_growth": "INF205K013Q9",
         "isin_div_reinvestment": "INF205K015Q4"
     },
     "data": [
+        {
+            "date": "31-07-2026",
+            "nav": "24.29800"
+        },
         {
             "date": "30-07-2026",
             "nav": "24.32600"

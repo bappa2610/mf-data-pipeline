@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Invesco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
+        "scheme_category": "Hybrid Schemes - Multi Asset Allocation Fund",
         "scheme_code": 153049,
         "scheme_name": "Invesco India Multi Asset Allocation Fund - Direct Plan - IDCW",
         "isin_growth": "INF205KA1AD9",
         "isin_div_reinvestment": "INF205KA1AE7"
     },
     "data": [
+        {
+            "date": "31-07-2026",
+            "nav": "12.66000"
+        },
         {
             "date": "30-07-2026",
             "nav": "12.63000"

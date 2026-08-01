@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Invesco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Gilt Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Gilt Fund",
         "scheme_code": 120522,
         "scheme_name": "Invesco India Gilt Fund - Direct Plan - Quarterly IDCW (Payout / Reinvestment)",
         "isin_growth": "INF205K01SP5",
         "isin_div_reinvestment": "INF205K01SQ3"
     },
     "data": [
+        {
+            "date": "31-07-2026",
+            "nav": "1125.10470"
+        },
         {
             "date": "30-07-2026",
             "nav": "1126.01310"

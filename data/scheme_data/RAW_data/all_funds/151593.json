@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Invesco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Index Funds",
+        "scheme_category": "Index Funds - Debt Funds",
         "scheme_code": 151593,
         "scheme_name": "Invesco India Nifty G-sec Jul 2027 Index Fund - Direct Plan - Growth",
         "isin_growth": "INF205KA1775",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "31-07-2026",
+            "nav": "1272.36130"
+        },
         {
             "date": "30-07-2026",
             "nav": "1271.98600"

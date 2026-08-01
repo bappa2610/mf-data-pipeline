@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Invesco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Money Market Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Money Market Fund",
         "scheme_code": 120508,
         "scheme_name": "Invesco India Money Market Fund - Direct Plan - Discretionary IDCW (Payout / Reinvestment)",
         "isin_growth": "INF205K01RW3",
         "isin_div_reinvestment": "INF205K01RX1"
     },
     "data": [
+        {
+            "date": "31-07-2026",
+            "nav": "3023.99440"
+        },
         {
             "date": "30-07-2026",
             "nav": "3022.93060"

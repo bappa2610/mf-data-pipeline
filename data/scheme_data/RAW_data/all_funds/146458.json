@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Invesco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Equity Savings",
+        "scheme_category": "Hybrid Schemes - Equity Savings Fund",
         "scheme_code": 146458,
         "scheme_name": "Invesco India Equity Savings Fund - Direct Plan - IDCW (Payout / Reinvestment)",
         "isin_growth": "INF205KA1064",
         "isin_div_reinvestment": "INF205KA1031"
     },
     "data": [
+        {
+            "date": "31-07-2026",
+            "nav": "18.86940"
+        },
         {
             "date": "30-07-2026",
             "nav": "18.87270"

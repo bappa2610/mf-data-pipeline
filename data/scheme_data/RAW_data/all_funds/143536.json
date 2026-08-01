@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Invesco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
+        "scheme_category": "Hybrid Schemes - Aggressive Hybrid Fund",
         "scheme_code": 143536,
         "scheme_name": "Invesco India Aggressive Hybrid Fund - Regular Plan - Growth",
         "isin_growth": "INF205K011Q3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "31-07-2026",
+            "nav": "21.48890"
+        },
         {
             "date": "30-07-2026",
             "nav": "21.51450"

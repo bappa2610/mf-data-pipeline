@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Invesco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Liquid Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
         "scheme_code": 139387,
         "scheme_name": "Invesco India Liquid Fund - Unclaimed Redemption Plan - Below 3 years",
         "isin_growth": null,
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "31-07-2026",
+            "nav": "1833.79080"
+        },
         {
             "date": "30-07-2026",
             "nav": "1833.33600"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Invesco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Money Market Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Money Market Fund",
         "scheme_code": 152580,
         "scheme_name": "Invesco India Money Market Fund - Weekly IDCW (Payout / Reinvestment)",
         "isin_growth": "INF205KA1833",
         "isin_div_reinvestment": "INF205KA1841"
     },
     "data": [
+        {
+            "date": "31-07-2026",
+            "nav": "1000.99320"
+        },
         {
             "date": "30-07-2026",
             "nav": "1000.66840"

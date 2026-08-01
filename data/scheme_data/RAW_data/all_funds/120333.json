@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Invesco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
+        "scheme_category": "Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation",
         "scheme_code": 120333,
         "scheme_name": "Invesco India Balanced Advantage Fund - Direct Plan - Growth",
         "isin_growth": "INF205K01LN5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "31-07-2026",
+            "nav": "63.53000"
+        },
         {
             "date": "30-07-2026",
             "nav": "63.56000"

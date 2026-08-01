@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Invesco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Equity Schemes - Value Fund",
         "scheme_code": 153697,
         "scheme_name": "Invesco India Income Plus Arbitrage Active Fund of Fund - Direct Plan - Growth",
         "isin_growth": "INF205KA1BA3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "31-07-2026",
+            "nav": "1059.69050"
+        },
         {
             "date": "30-07-2026",
             "nav": "1059.52680"

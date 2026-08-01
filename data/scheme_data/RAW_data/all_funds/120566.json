@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Invesco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Low Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short to Short Term Fund",
         "scheme_code": 120566,
         "scheme_name": "Invesco India Low Duration Fund - Direct Plan -Daily IDCW (Reinvestment)",
         "isin_growth": null,
         "isin_div_reinvestment": "INF205K01NV4"
     },
     "data": [
+        {
+            "date": "31-07-2026",
+            "nav": "1018.96550"
+        },
         {
             "date": "30-07-2026",
             "nav": "1018.90180"

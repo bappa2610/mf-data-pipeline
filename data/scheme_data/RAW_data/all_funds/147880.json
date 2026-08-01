@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Invesco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Overnight Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Overnight Fund",
         "scheme_code": 147880,
         "scheme_name": "Invesco India Overnight Fund - Regular Plan - Daily IDCW (Reinvestment)",
         "isin_growth": null,
         "isin_div_reinvestment": "INF205KA1072"
     },
     "data": [
+        {
+            "date": "31-07-2026",
+            "nav": "1000.13950"
+        },
         {
             "date": "30-07-2026",
             "nav": "1000.13950"

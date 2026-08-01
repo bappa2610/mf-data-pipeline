@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Invesco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short Term Fund",
         "scheme_code": 120542,
         "scheme_name": "Invesco India Ultra Short Duration Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment)",
         "isin_growth": "INF205K01TI8",
         "isin_div_reinvestment": "INF205K01TJ6"
     },
     "data": [
+        {
+            "date": "31-07-2026",
+            "nav": "1343.37920"
+        },
         {
             "date": "30-07-2026",
             "nav": "2091.82730"

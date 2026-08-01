@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Invesco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Focused Fund",
+        "scheme_category": "Equity Schemes - Focused Fund",
         "scheme_code": 148481,
         "scheme_name": "Invesco India Focused Fund - Direct Plan - Growth",
         "isin_growth": "INF205KA1213",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "31-07-2026",
+            "nav": "31.71000"
+        },
         {
             "date": "30-07-2026",
             "nav": "31.61000"
