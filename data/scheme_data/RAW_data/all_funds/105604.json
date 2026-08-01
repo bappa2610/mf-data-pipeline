@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Invesco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Arbitrage Fund",
+        "scheme_category": "Hybrid Schemes - Arbitrage Fund",
         "scheme_code": 105604,
         "scheme_name": "Invesco India Arbitrage Fund - Regular Plan - IDCW (Payout / Reinvestment)",
         "isin_growth": "INF205K01148",
         "isin_div_reinvestment": "INF205K01130"
     },
     "data": [
+        {
+            "date": "31-07-2026",
+            "nav": "18.14720"
+        },
         {
             "date": "30-07-2026",
             "nav": "18.14610"

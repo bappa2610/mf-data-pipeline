@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Invesco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Low Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short to Short Term Fund",
         "scheme_code": 104725,
         "scheme_name": "Invesco India Low Duration Fund - Weekly IDCW (Payout / Reinvestment)",
         "isin_growth": "INF205K01IB6",
         "isin_div_reinvestment": "INF205K01IA8"
     },
     "data": [
+        {
+            "date": "31-07-2026",
+            "nav": "1347.57110"
+        },
         {
             "date": "30-07-2026",
             "nav": "1347.18920"

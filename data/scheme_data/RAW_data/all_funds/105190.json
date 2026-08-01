@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Invesco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Short Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 105190,
         "scheme_name": "Invesco India Short Duration Fund - Regular Plan - Weekly IDCW (Reinvestment)",
         "isin_growth": null,
         "isin_div_reinvestment": "INF205K01UV9"
     },
     "data": [
+        {
+            "date": "31-07-2026",
+            "nav": "1019.03830"
+        },
         {
             "date": "30-07-2026",
             "nav": "1018.60050"

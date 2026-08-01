@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Invesco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Low Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short to Short Term Fund",
         "scheme_code": 104728,
         "scheme_name": "Invesco India Low Duration Fund - Regular - Growth",
         "isin_growth": "INF205K01HT0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "31-07-2026",
+            "nav": "3566.54830"
+        },
         {
             "date": "30-07-2026",
             "nav": "3565.58840"

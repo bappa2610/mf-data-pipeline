@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Invesco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 106653,
         "scheme_name": "Invesco India Infrastructure Fund - Regular Plan - IDCW (Payout / Reinvestment)",
         "isin_growth": "INF205K01CE3",
         "isin_div_reinvestment": "INF205K01CF0"
     },
     "data": [
+        {
+            "date": "31-07-2026",
+            "nav": "43.77000"
+        },
         {
             "date": "30-07-2026",
             "nav": "43.59000"

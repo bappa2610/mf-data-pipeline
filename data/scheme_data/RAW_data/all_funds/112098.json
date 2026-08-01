@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Invesco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Large Cap Fund",
+        "scheme_category": "Equity Schemes - Large Cap Fund",
         "scheme_code": 112098,
         "scheme_name": "Invesco India Largecap Fund - Regular Plan - Growth",
         "isin_growth": "INF205K01304",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "31-07-2026",
+            "nav": "72.47000"
+        },
         {
             "date": "30-07-2026",
             "nav": "71.90000"

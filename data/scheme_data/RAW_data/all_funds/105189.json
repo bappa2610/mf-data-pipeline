@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Invesco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Short Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 105189,
         "scheme_name": "Invesco India Short Duration Fund - Plan B - Growth",
         "isin_growth": "INF205K01UR7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "31-07-2026",
+            "nav": "3745.92040"
+        },
         {
             "date": "30-07-2026",
             "nav": "3744.32230"

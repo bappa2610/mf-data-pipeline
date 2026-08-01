@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Invesco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - ELSS",
+        "scheme_category": "Equity Schemes - ELSS- Tax Saver Fund",
         "scheme_code": 104635,
         "scheme_name": "Invesco India ELSS Tax Saver Fund - Regular Plan - IDCW Payout",
         "isin_growth": "INF205K01296",
         "isin_div_reinvestment": "INF205K01288"
     },
     "data": [
+        {
+            "date": "31-07-2026",
+            "nav": "24.50000"
+        },
         {
             "date": "30-07-2026",
             "nav": "24.39000"

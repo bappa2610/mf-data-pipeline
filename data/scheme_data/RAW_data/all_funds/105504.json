@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Invesco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Mid Cap Fund",
+        "scheme_category": "Equity Schemes - Mid Cap Fund",
         "scheme_code": 105504,
         "scheme_name": "Invesco India Midcap Fund - Regular Plan - IDCW (Payout / Reinvestment)",
         "isin_growth": "INF205K01BD7",
         "isin_div_reinvestment": "INF205K01BE5"
     },
     "data": [
+        {
+            "date": "31-07-2026",
+            "nav": "61.62000"
+        },
         {
             "date": "30-07-2026",
             "nav": "61.54000"

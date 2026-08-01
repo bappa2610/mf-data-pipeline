@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Invesco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Liquid Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
         "scheme_code": 104488,
         "scheme_name": "Invesco India Liquid Fund - Regular - Growth",
         "isin_growth": "INF205K01HG7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "31-07-2026",
+            "nav": "3376.89850"
+        },
         {
             "date": "30-07-2026",
             "nav": "3376.10920"

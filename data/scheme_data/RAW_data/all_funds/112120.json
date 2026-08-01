@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Invesco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Money Market Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Money Market Fund",
         "scheme_code": 112120,
         "scheme_name": "Invesco India Money Market Fund - Regular - Growth",
         "isin_growth": "INF205K01SG4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "31-07-2026",
+            "nav": "2853.81670"
+        },
         {
             "date": "30-07-2026",
             "nav": "2852.88720"
