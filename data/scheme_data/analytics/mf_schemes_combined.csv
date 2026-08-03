@@ -10331,10 +10331,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 149260,LIC Mutual Fund,LIC MF Balanced Advantage Fund-Direct Plan-IDCW,INF767K01QZ7,INF767K01RA8,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
 149261,LIC Mutual Fund,LIC MF Balanced Advantage Fund-Direct Plan-Growth,INF767K01QY0,,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
 149262,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty Healthcare ETF,INF209KB10C2,,Open Ended Schemes,Exchange Traded Funds
-149263,NJ Mutual Fund,NJ Balanced Advantage Fund - Regular Plan - IDCW Payout Option,INF0J8L01016,,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
-149264,NJ Mutual Fund,NJ Balanced Advantage Fund - Direct Plan - Growth Option,INF0J8L01040,,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
-149265,NJ Mutual Fund,NJ Balanced Advantage Fund - Direct Plan - IDCW Payout Option,INF0J8L01032,,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
-149266,NJ Mutual Fund,NJ Balanced Advantage Fund - Regular Plan - Growth Option,INF0J8L01024,,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
+149263,NJ Mutual Fund,NJ Balanced Advantage Fund - Regular Plan - IDCW Payout Option,INF0J8L01016,,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
+149264,NJ Mutual Fund,NJ Balanced Advantage Fund - Direct Plan - Growth Option,INF0J8L01040,,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
+149265,NJ Mutual Fund,NJ Balanced Advantage Fund - Direct Plan - IDCW Payout Option,INF0J8L01032,,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
+149266,NJ Mutual Fund,NJ Balanced Advantage Fund - Regular Plan - Growth Option,INF0J8L01024,,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
 149268,ITI Mutual Fund,ITI Pharma and Healthcare Fund - Direct Plan - Growth Option,INF00XX01BO9,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 149269,ITI Mutual Fund,ITI Pharma and Healthcare Fund - Regular Plan - IDCW Option,INF00XX01BM3,INF00XX01BN1,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 149270,ITI Mutual Fund,ITI Pharma and Healthcare Fund - Regular Plan - Growth Option,INF00XX01BL5,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
@@ -10886,10 +10886,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 150359,Mirae Asset Mutual Fund,Mirae Asset Nifty SDL Jun 2027 Index Fund - Direct Plan - IDCW,INF769K01IG0,INF769K01II6,Open Ended Schemes,Other Scheme - Index Funds
 150360,Mirae Asset Mutual Fund,Mirae Asset Nifty SDL Jun 2027 Index Fund - Regular Plan - Growth,INF769K01IE5,,Open Ended Schemes,Other Scheme - Index Funds
 150361,Mirae Asset Mutual Fund,Mirae Asset Nifty SDL Jun 2027 Index Fund - Regular Plan - IDCW,INF769K01ID7,INF769K01IF2,Open Ended Schemes,Other Scheme - Index Funds
-150366,NJ Mutual Fund,NJ Arbitrage Fund - Regular Plan - Growth Option,INF0J8L01057,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
-150367,NJ Mutual Fund,NJ Arbitrage Fund - Direct Plan - Growth Option,INF0J8L01065,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
-150368,NJ Mutual Fund,NJ Overnight Fund - Regular Plan - Growth Option,INF0J8L01073,,Open Ended Schemes,Debt Scheme - Overnight Fund
-150369,NJ Mutual Fund,NJ Overnight Fund - Direct Plan - Growth Option,INF0J8L01081,,Open Ended Schemes,Debt Scheme - Overnight Fund
+150366,NJ Mutual Fund,NJ Arbitrage Fund - Regular Plan - Growth Option,INF0J8L01057,,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund
+150367,NJ Mutual Fund,NJ Arbitrage Fund - Direct Plan - Growth Option,INF0J8L01065,,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund
+150368,NJ Mutual Fund,NJ Overnight Fund - Regular Plan - Growth Option,INF0J8L01073,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
+150369,NJ Mutual Fund,NJ Overnight Fund - Direct Plan - Growth Option,INF0J8L01081,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 150376,Edelweiss Mutual Fund,Edelweiss Focused Fund - Direct Plan - Growth,INF754K01OP1,,Open Ended Schemes,Equity Scheme - Focused Fund
 150382,Edelweiss Mutual Fund,Edelweiss Focused Fund - Regular Plan - Growth,INF754K01OL0,,Open Ended Schemes,Equity Scheme - Focused Fund
 150383,Edelweiss Mutual Fund,Edelweiss Focused Fund - Direct Plan - IDCW,INF754K01OQ9,INF754K01OR7,Open Ended Schemes,Equity Scheme - Focused Fund
@@ -11764,10 +11764,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 151602,Kotak Mahindra Mutual Fund,Kotak Silver ETF Fund of Fund - Regular Plan - Growth Option,INF174KA1MR1,,Open Ended Schemes,Other Scheme - FoF Domestic
 151603,Kotak Mahindra Mutual Fund,Kotak Silver ETF Fund of Fund - Direct Plan - Growth Option,INF174KA1MQ3,,Open Ended Schemes,Other Scheme - FoF Domestic
 151604,Mirae Asset Mutual Fund,Mirae Asset Nifty 100 Low Volatility 30 ETF,INF769K01JU9,,Open Ended Schemes,Other Scheme - Other  ETFs
-151609,NJ Mutual Fund,NJ ELSS Tax Saver Scheme Regular Growth,INF0J8L01099,,Open Ended Schemes,Equity Scheme - ELSS
-151610,NJ Mutual Fund,NJ ELSS Tax Saver Scheme Regular IDCW,INF0J8L01107,,Open Ended Schemes,Equity Scheme - ELSS
-151611,NJ Mutual Fund,NJ ELSS Tax Saver Scheme Direct Growth,INF0J8L01115,,Open Ended Schemes,Equity Scheme - ELSS
-151612,NJ Mutual Fund,NJ ELSS Tax Saver Scheme Direct IDCW,INF0J8L01123,,Open Ended Schemes,Equity Scheme - ELSS
+151609,NJ Mutual Fund,NJ ELSS Tax Saver Scheme Regular Growth,INF0J8L01099,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
+151610,NJ Mutual Fund,NJ ELSS Tax Saver Scheme Regular IDCW,INF0J8L01107,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
+151611,NJ Mutual Fund,NJ ELSS Tax Saver Scheme Direct Growth,INF0J8L01115,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
+151612,NJ Mutual Fund,NJ ELSS Tax Saver Scheme Direct IDCW,INF0J8L01123,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
 151617,Trust Mutual Fund,TRUSTMF FIXED MATURITY PLAN -SERIES II (1196 DAYS)-REGULAR PLAN -GROWTH,INF0GCD01636,,Close Ended Schemes,Income
 151618,Trust Mutual Fund,TRUSTMF FIXED MATURITY PLAN -SERIES II (1196 DAYS)-REGULAR PLAN -IDCW PAYOUT,INF0GCD01644,,Close Ended Schemes,Income
 151620,Trust Mutual Fund,TRUSTMF FIXED MATURITY PLAN -SERIES II (1196 DAYS)-DIRECT PLAN -GROWTH,INF0GCD01651,,Close Ended Schemes,Income
@@ -11961,10 +11961,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 151914,quant Mutual Fund,quant Manufacturing Fund - IDCW Option - Direct Plan,INF966L01CK5,INF966L01CL3,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 151915,quant Mutual Fund,quant Manufacturing Fund - IDCW Option - Regular Plan,INF966L01CO7,INF966L01CP4,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 151916,quant Mutual Fund,quant Manufacturing Fund - Growth Option - Direct Plan,INF966L01CJ7,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-151917,NJ Mutual Fund,NJ Flexi Cap Fund - Direct Plan - Growth Option,INF0J8L01156,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
-151918,NJ Mutual Fund,NJ Flexi Cap Fund - Direct Plan - IDCW Option,INF0J8L01164,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
-151919,NJ Mutual Fund,NJ Flexi Cap Fund - Regular Plan - IDCW Option,INF0J8L01149,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
-151920,NJ Mutual Fund,NJ Flexi Cap Fund - Regular Plan - Growth Option,INF0J8L01131,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
+151917,NJ Mutual Fund,NJ Flexi Cap Fund - Direct Plan - Growth Option,INF0J8L01156,,Open Ended Schemes,Equity Schemes - Flexi Cap Fund
+151918,NJ Mutual Fund,NJ Flexi Cap Fund - Direct Plan - IDCW Option,INF0J8L01164,,Open Ended Schemes,Equity Schemes - Flexi Cap Fund
+151919,NJ Mutual Fund,NJ Flexi Cap Fund - Regular Plan - IDCW Option,INF0J8L01149,,Open Ended Schemes,Equity Schemes - Flexi Cap Fund
+151920,NJ Mutual Fund,NJ Flexi Cap Fund - Regular Plan - Growth Option,INF0J8L01131,,Open Ended Schemes,Equity Schemes - Flexi Cap Fund
 151927,LIC Mutual Fund,LIC MF Liquid Fund-Regular Plan-Weekly IDCW,INF397L01950,INF397L01943,Open Ended Schemes,Debt Scheme - Liquid Fund
 151928,LIC Mutual Fund,LIC MF Liquid Fund-Regular Plan-Monthly IDCW,INF397L01976,INF397L01968,Open Ended Schemes,Debt Scheme - Liquid Fund
 151930,LIC Mutual Fund,LIC MF Liquid Fund-Direct Plan-Monthly IDCW,INF397L01AK7,INF397L01AJ9,Open Ended Schemes,Debt Scheme - Liquid Fund
@@ -12098,7 +12098,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 152112,PGIM India Mutual Fund,PGIM India Money Market Fund - Segregated Portfolio 1 - Direct Plan - Monthly IDCW Option,,,Open Ended Schemes,Debt Scheme - Money Market Fund
 152113,PGIM India Mutual Fund,PGIM India Money Market Fund - Segregated Portfolio 1 - Direct Plan - Quarterly IDCW option,,,Open Ended Schemes,Debt Scheme - Money Market Fund
 152114,PGIM India Mutual Fund,PGIM India Money Market Fund - Segregated Portfolio 1 - Direct Plan - Growth Option,,,Open Ended Schemes,Debt Scheme - Money Market Fund
-152116,NJ Mutual Fund,NJ Overnight Fund - Unclaimed Redemption Plan - Upto 3 Years,,,Open Ended Schemes,Debt Scheme - Overnight Fund
+152116,NJ Mutual Fund,NJ Overnight Fund - Unclaimed Redemption Plan - Upto 3 Years,,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 152119,PGIM India Mutual Fund,PGIM India Money Market Fund - Segregated Portfolio 1 - Regular Plan - Monthly IDCW option,,,Open Ended Schemes,Debt Scheme - Money Market Fund
 152120,PGIM India Mutual Fund,PGIM India Money Market Fund - Segregated Portfolio 1 - Regular Plan - Annual IDCW Option,,,Open Ended Schemes,Debt Scheme - Money Market Fund
 152121,PGIM India Mutual Fund,PGIM India Money Market Fund - Segregated Portfolio 1 - Regular Plan - Quarterly IDCW Option,,,Open Ended Schemes,Debt Scheme - Money Market Fund
@@ -36219,9 +36219,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 150323,Kotak Mahindra Asset Management Company Limited.,Kotak FMP Series 295 - 176 days Regular Plan IDCW Payout,INF174KA1JA3,,Close Ended,Income
 150324,Kotak Mahindra Asset Management Company Limited.,Kotak FMP Series 295 - 176 days Direct Plan Growth,INF174KA1JB1,,Close Ended,Income
 150325,Kotak Mahindra Asset Management Company Limited.,Kotak FMP Series 295 - 176 days Direct Plan IDCW Payout,INF174KA1JC9,,Close Ended,Income
-152115,NJ Asset Management Private Limited,NJ Overnight Fund - Unclaimed IDCW Plan - Above 3 Years,,,Open Ended,Debt Scheme - Overnight Fund
-152117,NJ Asset Management Private Limited,NJ Overnight Fund - Unclaimed IDCW Plan - Upto 3 Years,,,Open Ended,Debt Scheme - Overnight Fund
-152118,NJ Asset Management Private Limited,NJ Overnight Fund - Unclaimed Redemption Plan - Above 3 Years,,,Open Ended,Debt Scheme - Overnight Fund
+152115,NJ Asset Management Private Limited,NJ Overnight Fund - Unclaimed IDCW Plan - Above 3 Years,,,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
+152117,NJ Asset Management Private Limited,NJ Overnight Fund - Unclaimed IDCW Plan - Upto 3 Years,,,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
+152118,NJ Asset Management Private Limited,NJ Overnight Fund - Unclaimed Redemption Plan - Above 3 Years,,,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
 150524,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 88 - 226 Days Plan E - Half Yearly IDCW,INF109KC16D7,,Close Ended,Income
 154403,Shriram Asset Management Co. Ltd.,Shriram Overnight Fund- Direct Fortnightly IDCW,INF680P01570,INF680P01596,Open Ended,Debt Scheme - Overnight Fund
 154397,Shriram Asset Management Co. Ltd.,Shriram Overnight Fund- Direct Weekly IDCW,INF680P01539,INF680P01554,Open Ended,Debt Scheme - Overnight Fund
@@ -36380,14 +36380,14 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154522,Abakkus Investment Managers Private Limited,Abakkus Liquid Fund - Unclaimed IDCW Less than 3 Years,,,Open Ended,Income/Debt Oriented Schemes - Liquid Fund
 154126,Sundaram Asset Management Company Ltd,Sundaram Income Plus Arbitrage Active FoF Fund-Regular-IDCW Reinvestment,INF903JA1ME0,,Open Ended,Other Scheme - FoF Domestic
 154128,Sundaram Asset Management Company Ltd,Sundaram Income Plus Arbitrage Active FoF Fund-Direct-IDCW Reinvestment,INF903JA1MB6,,Open Ended,Other Scheme - FoF Domestic
-154451,NJ Asset Management Private Limited,NJ Momentum Fund - Direct Growth,INF0J8L01172,,Open Ended,Equity Scheme - Sectoral/ Thematic
-154452,NJ Asset Management Private Limited,NJ Momentum Fund - Regular Growth,INF0J8L01198,,Open Ended,Equity Scheme - Sectoral/ Thematic
-154453,NJ Asset Management Private Limited,NJ Momentum Fund - Regular IDCW,INF0J8L01206,,Open Ended,Equity Scheme - Sectoral/ Thematic
-154454,NJ Asset Management Private Limited,NJ Momentum Fund - Direct IDCW,INF0J8L01180,,Open Ended,Equity Scheme - Sectoral/ Thematic
-154455,NJ Asset Management Private Limited,NJ Value Fund - Regular IDCW,INF0J8L01248,,Open Ended,Equity Scheme - Value Fund
-154456,NJ Asset Management Private Limited,NJ Value Fund - Direct Growth,INF0J8L01214,,Open Ended,Equity Scheme - Value Fund
-154457,NJ Asset Management Private Limited,NJ Value Fund - Direct IDCW,INF0J8L01222,,Open Ended,Equity Scheme - Value Fund
-154458,NJ Asset Management Private Limited,NJ Value Fund - Regular Growth,INF0J8L01230,,Open Ended,Equity Scheme - Value Fund
+154451,NJ Asset Management Private Limited,NJ Momentum Fund - Direct Growth,INF0J8L01172,,Open Ended,Equity Schemes - Thematic Fund
+154452,NJ Asset Management Private Limited,NJ Momentum Fund - Regular Growth,INF0J8L01198,,Open Ended,Equity Schemes - Thematic Fund
+154453,NJ Asset Management Private Limited,NJ Momentum Fund - Regular IDCW,INF0J8L01206,,Open Ended,Equity Schemes - Thematic Fund
+154454,NJ Asset Management Private Limited,NJ Momentum Fund - Direct IDCW,INF0J8L01180,,Open Ended,Equity Schemes - Thematic Fund
+154455,NJ Asset Management Private Limited,NJ Value Fund - Regular IDCW,INF0J8L01248,,Open Ended,Equity Schemes - Value Fund
+154456,NJ Asset Management Private Limited,NJ Value Fund - Direct Growth,INF0J8L01214,,Open Ended,Equity Schemes - Value Fund
+154457,NJ Asset Management Private Limited,NJ Value Fund - Direct IDCW,INF0J8L01222,,Open Ended,Equity Schemes - Value Fund
+154458,NJ Asset Management Private Limited,NJ Value Fund - Regular Growth,INF0J8L01230,,Open Ended,Equity Schemes - Value Fund
 154477,Abakkus Investment Managers Private Limited,Abakkus Large & Mid Cap Fund - Direct  Plan - Growth,INF2JJD01193,,Open Ended,Equity Scheme - Large & Mid Cap Fund
 154478,Abakkus Investment Managers Private Limited,Abakkus Large & Mid Cap Fund - Regular Plan - Growth,INF2JJD01201,,Open Ended,Equity Scheme - Large & Mid Cap Fund
 154483,Wealth Company Asset Management Holdings Private Limited,The Wealth Company Mid Cap Fund- Direct- IDCW,INF2F0001669,INF2F0001677,Open Ended,Equity Schemes - Mid Cap Fund
@@ -36472,3 +36472,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154595,Axis Asset Management Co. Ltd.,Axis Nifty Energy Index Fund - Direct Plan - IDCW,,,Open Ended,Index Funds - Equity Funds
 154596,Axis Asset Management Co. Ltd.,Axis Nifty Energy Index Fund - Regular Plan - IDCW,,,Open Ended,Index Funds - Equity Funds
 154597,Axis Asset Management Co. Ltd.,Axis Nifty Energy Index Fund - Regular Plan - Growth,,,Open Ended,Index Funds - Equity Funds
+154598,Bandhan AMC Limited,Bandhan Contra Fund-Regular Plan-Growth,INF194KB1KU4,,Open Ended,Equity Schemes - Contra Fund
+154599,Bandhan AMC Limited,Bandhan Contra Fund-Direct Plan-Annual IDCW,INF194KB1LC0,INF194KB1LD8,Open Ended,Equity Schemes - Contra Fund
+154600,Bandhan AMC Limited,Bandhan Contra Fund-Direct Plan-Growth,INF194KB1KX8,,Open Ended,Equity Schemes - Contra Fund
+154601,Bandhan AMC Limited,Bandhan Contra Fund-Regular Plan-Annual IDCW,INF194KB1LA4,INF194KB1LB2,Open Ended,Equity Schemes - Contra Fund
