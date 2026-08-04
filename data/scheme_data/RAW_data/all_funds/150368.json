@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "NJ Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Overnight Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Overnight Fund",
         "scheme_code": 150368,
         "scheme_name": "NJ Overnight Fund - Regular Plan - Growth Option",
         "isin_growth": "INF0J8L01073",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "03-08-2026",
+            "nav": "1263.32550"
+        },
         {
             "date": "02-08-2026",
             "nav": "1263.15760"

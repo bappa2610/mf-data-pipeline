@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "NJ Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - ELSS",
+        "scheme_category": "Equity Schemes - ELSS- Tax Saver Fund",
         "scheme_code": 151610,
         "scheme_name": "NJ ELSS Tax Saver Scheme Regular IDCW",
         "isin_growth": "INF0J8L01107",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "03-08-2026",
+            "nav": "14.34000"
+        },
         {
             "date": "31-07-2026",
             "nav": "14.18000"

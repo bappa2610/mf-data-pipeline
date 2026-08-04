@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "NJ Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Flexi Cap Fund",
+        "scheme_category": "Equity Schemes - Flexi Cap Fund",
         "scheme_code": 151920,
         "scheme_name": "NJ Flexi Cap Fund - Regular Plan - Growth Option",
         "isin_growth": "INF0J8L01131",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "03-08-2026",
+            "nav": "13.40000"
+        },
         {
             "date": "31-07-2026",
             "nav": "13.27000"
