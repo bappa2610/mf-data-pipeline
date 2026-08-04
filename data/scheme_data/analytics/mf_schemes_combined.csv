@@ -8965,6 +8965,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 146996,UTI Mutual Fund,UTI Fixed Term Income Fund Series XXXI-XI (1169 Days) - Regular Plan - Annual IDCW,INF789F1AJS0,,Close Ended Schemes,Income
 146997,Union Mutual Fund,Union Overnight Fund - Regular Plan - Growth Option,INF582M01FJ3,,Open Ended Schemes,Debt Scheme - Overnight Fund
 146998,Union Mutual Fund,Union Overnight Fund - Regular Plan - Daily IDCW Option,,INF582M01FK1,Open Ended Schemes,Debt Scheme - Overnight Fund
+146999,Union Mutual Fund,Union Overnight Fund - Regular Plan - Weekly IDCW Option,,INF582M01FL9,Open Ended Schemes,Debt Scheme - Overnight Fund
 147000,Union Mutual Fund,Union Overnight Fund - Regular Plan - Monthly IDCW Option,INF582M01FP0,INF582M01FN5,Open Ended Schemes,Debt Scheme - Overnight Fund
 147002,Union Mutual Fund,Union Overnight Fund - Direct Plan - Daily IDCW Option,,INF582M01FB0,Open Ended Schemes,Debt Scheme - Overnight Fund
 147003,Union Mutual Fund,Union Overnight Fund - Direct Plan - Growth Option,INF582M01FA2,,Open Ended Schemes,Debt Scheme - Overnight Fund
@@ -14230,8 +14231,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154510,Kotak Mahindra Mutual Fund,Kotak Bond Short Term Fund - Direct - IDCW Weekly,INF174KA1B69,INF174KA1B44,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 154511,Kotak Mahindra Mutual Fund,Kotak Corporate Bond Fund - Regular - IDCW Weekly,INF174KA1B93,INF174KA1C19,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
 154513,Kotak Mahindra Mutual Fund,Kotak Savings Fund - Direct - IDCW Weekly,INF174KA1C43,INF174KA1C27,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+154514,Kotak Mahindra Mutual Fund,Kotak Savings Fund - Regular - IDCW Weekly,INF174KA1C35,INF174KA1C50,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
 154521,Abakkus Mutual Fund,Abakkus Liquid Fund - Unclaimed Redemption Less than 3 Years,,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 154524,Edelweiss Mutual Fund,Edelweiss BSE Top 10 Bank ETF,INF754K01XH9,,Open Ended Schemes,Exchange Traded Funds
+154528,DSP Mutual Fund,DSP BSE MidSmall Private Banks ETF,INF740KA1ZH9,,Open Ended Schemes,Exchange Traded Funds
 154535,Edelweiss Mutual Fund,Edelweiss BSE LargeMid (60:40) Stable Dividend 50 ETF,INF754K01XI7,,Open Ended Schemes,Exchange Traded Funds
 100027,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Half Yearly Dividend,,,Open Ended Schemes,Income
 100028,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Quaterly Dividend,,,Open Ended Schemes,Income
@@ -34754,7 +34757,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 102552,Nippon Life India Asset Management Limited,Reliance Fixed Term Scheme-Series-IV-Annual Plan-Growth Option,,,Close Ended,Growth
 102553,Nippon Life India Asset Management Limited,Reliance Fixed Term Scheme-Series-IV-Annual Plan-Dividend Option,,,Close Ended,Growth
 102593,Kotak Mahindra Asset Management Company Limited.,Kotak Floater Long-Term-Weekly Dividend,,,Open Ended,Income/Debt Oriented Schemes - Ultra Short Term Fund
-154514,Kotak Mahindra Asset Management Company Limited.,Kotak Savings Fund - Regular - IDCW Weekly,INF174KA1C35,INF174KA1C50,Open Ended,Income/Debt Oriented Schemes - Ultra Short Term Fund
 154607,Kotak Mahindra Asset Management Company Limited.,Kotak Savings Fund - Regular - IDCW,INF174KA1E33,INF174KA1E58,Open Ended,Income/Debt Oriented Schemes - Ultra Short Term Fund
 154608,Kotak Mahindra Asset Management Company Limited.,Kotak Savings Fund - Direct - IDCW,INF174KA1E41,INF174KA1E25,Open Ended,Income/Debt Oriented Schemes - Ultra Short Term Fund
 102657,Nippon Life India Asset Management Limited,Reliance Fixed Term Scheme-Monthly Plan Series-XI-Monthly Plan-Growth Option,,,Close Ended,Growth
@@ -35955,7 +35957,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 146985,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 85 - 1140 Days Plan R - Half Yearly Dividend Option,INF109KC1XW6,,Close Ended,Income
 146986,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 85 - 1140 Days Plan R - Direct Plan Half Yearly Dividend Option,INF109KC1XZ9,,Close Ended,Income
 146984,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 85 - 1140 Days Plan R - Direct Plan Quarterly Dividend Option,INF109KC1XY2,,Close Ended,Income
-146999,Union Asset Management Company Private Limited,Union Overnight Fund - Regular Plan - Weekly IDCW Option,INF582M01FL9,,Open Ended,Debt Scheme - Overnight Fund
 147001,Union Asset Management Company Private Limited,Union Overnight Fund - Regular Plan - Fortnightly IDCW Option,INF582M01FO3,INF582M01FM7,Open Ended,Debt Scheme - Overnight Fund
 147004,Union Asset Management Company Private Limited,Union Overnight Fund - Direct Plan - Weekly IDCW Option,INF582M01FC8,,Open Ended,Debt Scheme - Overnight Fund
 147005,Union Asset Management Company Private Limited,Union Overnight Fund - Direct Plan - Fortnightly IDCW Option,INF582M01FF1,INF582M01FD6,Open Ended,Debt Scheme - Overnight Fund
@@ -36425,7 +36426,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154525,SBI Funds Management Limited,SBI Nifty Midcap 150 Momentum 50 ETF FOF - Regular - IDCW,INF200KB1BS9,INF200KB1BT7,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154526,SBI Funds Management Limited,SBI Nifty Midcap 150 Momentum 50 ETF FOF - Direct - Growth,INF200KB1BU5,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154527,SBI Funds Management Limited,SBI Nifty Midcap 150 Momentum 50 ETF FOF - Direct - IDCW,INF200KB1BV3,INF200KB1BW1,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
-154528,DSP Asset Managers Private Limited,DSP BSE MidSmall Private Banks ETF,INF740KA1ZH9,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
 154536,Invesco Asset Management (India) Private Limited,Invesco India Nifty Bank ETF,INF205KA1CB9,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
 154537,Invesco Asset Management (India) Private Limited,Invesco India BSE Sensex ETF,INF205KA1CA1,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
 154540,Franklin Templeton Asset Management (India) Private Limited,Franklin India Short Term Fund- Growth,,,Open Ended,Income/Debt Oriented Schemes - Short Term Fund
