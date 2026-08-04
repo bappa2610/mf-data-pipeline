@@ -425,9 +425,9 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 100830,Kotak Mahindra Mutual Fund,Kotak Liquid-Institutional Plan (Growth),,Open Ended,Debt,Liquid Fund,Institutional,Growth,
 100831,Kotak Mahindra Mutual Fund,Kotak Liquid-Institutional Plan - (Daily Dividend),,Open Ended,Income,Income,Institutional,IDCW,Daily
 100832,Kotak Mahindra Mutual Fund,Kotak Liquid-Institutional Plan (Weekly Dividend),,Open Ended,Debt,Liquid Fund,Institutional,IDCW,Weekly
-100833,Kotak Mahindra Mutual Fund,Kotak Liquid Fund - Regular - Daily Reinvestment of Income Distribution cum capital withdrawal option,,Open Ended,Debt,Liquid Fund,Regular,IDCW,Reinvestment
+100833,Kotak Mahindra Mutual Fund,Kotak Liquid Fund - Regular - Daily Reinvestment of Income Distribution cum capital withdrawal option,,Open Ended,Income/Debt Orienteds,Liquid Fund,Regular,IDCW,Reinvestment
 100834,Kotak Mahindra Mutual Fund,Kotak Liquid Regular Plan Weekly Reinvestment of Income Distribution cum capital withdrawal option Dividend,,Open Ended,Debt,Liquid Fund,Regular,IDCW,Reinvestment
-100835,Kotak Mahindra Mutual Fund,Kotak Liquid Fund - Regular Plan - Growth,INF174K01NI9,Open Ended,Debt,Liquid Fund,Regular,Growth,
+100835,Kotak Mahindra Mutual Fund,Kotak Liquid Fund - Regular Plan - Growth,INF174K01NI9,Open Ended,Income/Debt Orienteds,Liquid Fund,Regular,Growth,
 100836,Kotak Mahindra Mutual Fund,Kotak Liquid-Sweep (Daily Dividend),,Open Ended,Income,Income,Other,IDCW,Daily
 100837,Nippon India Mutual Fund,Nippon India Liquid Fund - Retail Option - Growth Plan,INF204K01UL3,Open Ended,Debt,Liquid Fund,Retail,Growth,
 100838,Nippon India Mutual Fund,NIPPON INDIA LIQUID FUND - RETAIL Plan - WEEKLY IDCW OPTION,,Open Ended,Debt,Liquid Fund,Retail,IDCW,Weekly
@@ -14726,9 +14726,9 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 119761,Kotak Mahindra Mutual Fund,Kotak Gilt-Savings-Annual Dividend - Direct,,Open Ended,Income,Income,Direct,IDCW,Annual
 119762,Kotak Mahindra Mutual Fund,Kotak Gilt-Savings-Growth - Direct,,Open Ended,Income,Income,Direct,Growth,
 119763,Kotak Mahindra Mutual Fund,Kotak Gilt-Savings-Monthly Dividend - Direct,,Open Ended,Income,Income,Direct,IDCW,Monthly
-119764,Kotak Mahindra Mutual Fund,Kotak Liquid Fund - Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option,,Open Ended,Debt,Liquid Fund,Direct,IDCW,Reinvestment
+119764,Kotak Mahindra Mutual Fund,Kotak Liquid Fund - Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option,,Open Ended,Income/Debt Orienteds,Liquid Fund,Direct,IDCW,Reinvestment
 119765,Kotak Mahindra Mutual Fund,Kotak Liquid - Weekly Payout of Income Distribution cum capital withdrawal option - Direct,,Open Ended,Debt,Liquid Fund,Direct,IDCW,Weekly
-119766,Kotak Mahindra Mutual Fund,Kotak Liquid Fund - Direct Plan - Growth,INF174K01NE8,Open Ended,Debt,Liquid Fund,Direct,Growth,
+119766,Kotak Mahindra Mutual Fund,Kotak Liquid Fund - Direct Plan - Growth,INF174K01NE8,Open Ended,Income/Debt Orienteds,Liquid Fund,Direct,Growth,
 119767,Kotak Mahindra Mutual Fund,Kotak Aggressive Hybrid Fund - Direct Plan - IDCW - Payout & Reinvestment of Income Distribution cum capital withdrawal option,INF174K01LL7,Open Ended,Hybrid,Aggressive Hybrid Fund,Direct,IDCW,Reinvestment
 119768,Kotak Mahindra Mutual Fund,Kotak Contra Fund - Direct Plan - IDCW -Payout & Re-investment of Income Distribution cum capital withdrawal option- Direct,INF174K01LA0,Open Ended,Equity,Contra Fund,Direct,IDCW,
 119769,Kotak Mahindra Mutual Fund,Kotak Contra Fund - Direct Plan - Growth,INF174K01KZ9,Open Ended,Equity,Contra Fund,Direct,Growth,
@@ -35547,8 +35547,8 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 153581,Tata Mutual Fund,Tata Nifty Midcap 150 Index Fund - Direct Plan - Growth Option,INF277KA1DZ9,Open Ended,Other,Index Funds,Direct,Growth,
 153582,Tata Mutual Fund,Tata Nifty Midcap 150 Index Fund - Regular Plan - IDCW Payout Option,INF277KA1DY2,Open Ended,Other,Index Funds,Regular,IDCW,
 153583,Groww Mutual Fund,Groww Nifty 500 Low Volatility 50 ETF,INF666M01LB9,Open Ended,Other,ETF,Other,Other,
-153585,Kotak Mahindra Mutual Fund,Kotak Liquid Fund - Direct Plan - Weekly - Reinvestment & Payout of Income Distribution cum capital withdrawal option,INF174KA1WL3,Open Ended,Debt,Liquid Fund,Direct,IDCW,Reinvestment
-153586,Kotak Mahindra Mutual Fund,Kotak Liquid Fund - Regular Plan - Weekly - Reinvestment & Payout of Income Distribution cum capital withdrawal option,INF174KA1WK5,Open Ended,Debt,Liquid Fund,Regular,IDCW,Reinvestment
+153585,Kotak Mahindra Mutual Fund,Kotak Liquid Fund - Direct Plan - Weekly - Reinvestment & Payout of Income Distribution cum capital withdrawal option,INF174KA1WL3,Open Ended,Income/Debt Orienteds,Liquid Fund,Direct,IDCW,Reinvestment
+153586,Kotak Mahindra Mutual Fund,Kotak Liquid Fund - Regular Plan - Weekly - Reinvestment & Payout of Income Distribution cum capital withdrawal option,INF174KA1WK5,Open Ended,Income/Debt Orienteds,Liquid Fund,Regular,IDCW,Reinvestment
 153588,DSP Mutual Fund,DSP Nifty IT Index Fund - Regular - Growth,INF740KA1WI4,Open Ended,Other,Index Funds,Regular,Growth,
 153589,DSP Mutual Fund,DSP Nifty IT Index Fund - Regular - IDCW,INF740KA1WJ2,Open Ended,Other,Index Funds,Regular,IDCW,
 153590,DSP Mutual Fund,DSP Nifty IT Index Fund - Direct - Growth,INF740KA1WL8,Open Ended,Other,Index Funds,Direct,Growth,
@@ -36387,10 +36387,10 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 154495,Mirae Asset Mutual Fund,Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund - Regular Plan - Growth,INF769K01RD8,Open Ended,Index Funds,Equity Funds,Regular,Growth,
 154496,Mirae Asset Mutual Fund,Mirae Asset Nifty200 Momentum 30 Plus 8-13yr G-Sec 75:25 Index Fund - Regular Plan - IDCW,INF769K01RF3,Open Ended,Index Funds,Equity Funds,Regular,IDCW,
 154497,Mirae Asset Mutual Fund,Mirae Asset Nifty200 Momentum 30 Plus 8-13 yr G-Sec 50:50 ETF,INF769K01RJ5,Open Ended,Exchange Traded Funds,Exchange Traded Funds,Other,Other,
-154498,ITI Asset Management Limited,ITI Multi Asset Allocation Fund - Direct Plan - Growth Option,,Open Ended,Hybrids,Multi Asset Allocation Fund,Direct,Growth,
-154499,ITI Asset Management Limited,ITI Multi Asset Allocation Fund- Direct Plan- IDCW Option,,Open Ended,Hybrids,Multi Asset Allocation Fund,Direct,IDCW,
-154500,ITI Asset Management Limited,ITI Multi Asset Allocation Fund- Regular Plan- Growth Option,,Open Ended,Hybrids,Multi Asset Allocation Fund,Regular,Growth,
-154502,ITI Asset Management Limited,ITI Multi Asset Allocation Fund- Regular Plan- IDCW Option,,Open Ended,Hybrids,Multi Asset Allocation Fund,Regular,IDCW,
+154498,ITI Asset Management Limited,ITI Multi Asset Allocation Fund - Direct Plan - Growth Option,INF00XX01DS6,Open Ended,Hybrids,Multi Asset Allocation Fund,Direct,Growth,
+154499,ITI Asset Management Limited,ITI Multi Asset Allocation Fund- Direct Plan- IDCW Option,INF00XX01DT4,Open Ended,Hybrids,Multi Asset Allocation Fund,Direct,IDCW,
+154500,ITI Asset Management Limited,ITI Multi Asset Allocation Fund- Regular Plan- Growth Option,INF00XX01DP2,Open Ended,Hybrids,Multi Asset Allocation Fund,Regular,Growth,
+154502,ITI Asset Management Limited,ITI Multi Asset Allocation Fund- Regular Plan- IDCW Option,INF00XX01DQ0,Open Ended,Hybrids,Multi Asset Allocation Fund,Regular,IDCW,
 154503,ICICI Prudential Mutual Fund,ICICI Prudential BSE Insurance ETF,INF109K1A567,Open Ended,Exchange Traded Funds,Exchange Traded Funds,Other,Other,
 154504,HDFC Mutual Fund,HDFC Nifty Metal ETF - Growth Option,,Open Ended,Exchange Traded Funds,Exchange Traded Funds,Other,Growth,
 154505,HDFC Asset Management Company Limited,HDFC Nifty Metal ETF FOF - Direct Plan - Growth Option,,Open Ended,Fund of Funds (Domestic),Fund of Funds (Domestic),Direct,Growth,
@@ -36477,3 +36477,11 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 154602,UTI Asset Mgmt. Co. Ltd.,UTI Nifty 500 Exchange Traded Fund,,Open Ended,Exchange Traded Funds (ETFs),ETF,Other,Other,
 154603,UTI Asset Mgmt. Co. Ltd.,UTI Nifty 500 Index Fund Regular Plan - Growth Option,,Open Ended,Exchange Traded Funds (ETFs),ETF,Regular,Growth,
 154604,UTI Asset Mgmt. Co. Ltd.,UTI Nifty 500 Index Fund Direct Plan Growth Option,,Open Ended,Exchange Traded Funds (ETFs),ETF,Direct,Growth,
+154605,Kotak Mahindra Asset Management Company Limited.,Kotak Liquid Fund - Regular- IDCW,INF174KA1D91,Open Ended,Income/Debt Orienteds,Liquid Fund,Regular,IDCW,
+154606,Kotak Mahindra Asset Management Company Limited.,Kotak Liquid Fund - Direct - IDCW,INF174KA1E09,Open Ended,Income/Debt Orienteds,Liquid Fund,Direct,IDCW,
+154607,Kotak Mahindra Asset Management Company Limited.,Kotak Savings Fund - Regular - IDCW,INF174KA1E33,Open Ended,Income/Debt Orienteds,Ultra Short Term Fund,Regular,IDCW,
+154608,Kotak Mahindra Asset Management Company Limited.,Kotak Savings Fund - Direct - IDCW,INF174KA1E41,Open Ended,Income/Debt Orienteds,Ultra Short Term Fund,Direct,IDCW,
+154609,Kotak Mahindra Asset Management Company Limited.,Kotak Corporate Bond Fund - Direct -IDCW,INF174KA1E82,Open Ended,Income/Debt Orienteds,Corporate Bond Fund,Direct,IDCW,
+154610,Kotak Mahindra Asset Management Company Limited.,Kotak Corporate Bond Fund - Regular - IDCW,INF174KA1E74,Open Ended,Income/Debt Orienteds,Corporate Bond Fund,Regular,IDCW,
+154611,Kotak Mahindra Asset Management Company Limited.,Kotak Money Market Fund - Regular - IDCW,INF174KA1F16,Open Ended,Income/Debt Orienteds,Money Market Fund,Regular,IDCW,
+154612,Kotak Mahindra Asset Management Company Limited.,Kotak Money Market Fund - Direct - IDCW,INF174KA1F24,Open Ended,Income/Debt Orienteds,Money Market Fund,Direct,IDCW,
