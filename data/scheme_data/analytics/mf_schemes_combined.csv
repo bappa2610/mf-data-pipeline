@@ -36424,12 +36424,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154541,Franklin Templeton Asset Management (India) Private Limited,Franklin India Short Term Fund - Direct - Growth,,,Open Ended,Income/Debt Oriented Schemes - Short Term Fund
 154538,Franklin Templeton Asset Management (India) Private Limited,Franklin India Short Term Fund - Direct - IDCW,,,Open Ended,Income/Debt Oriented Schemes - Short Term Fund
 154539,Franklin Templeton Asset Management (India) Private Limited,Franklin India Short Term Fund- IDCW,,,Open Ended,Income/Debt Oriented Schemes - Short Term Fund
-154546,Invesco Asset Management (India) Private Limited,Invesco India Pharma and Healthcare Fund - Direct Plan - IDCW Payout,,,Open Ended,Equity Schemes - Sectoral Fund
-154547,Invesco Asset Management (India) Private Limited,Invesco India Pharma and Healthcare Fund - Direct Plan - Growth,,,Open Ended,Equity Schemes - Sectoral Fund
-154542,Invesco Asset Management (India) Private Limited,Invesco India Pharma and Healthcare Fund - Regular Plan - Growth,,,Open Ended,Equity Schemes - Sectoral Fund
-154543,Invesco Asset Management (India) Private Limited,Invesco India Pharma and Healthcare Fund - Regular Plan - IDCW Reinvestment,,,Open Ended,Equity Schemes - Sectoral Fund
-154544,Invesco Asset Management (India) Private Limited,Invesco India Pharma and Healthcare Fund - Regular Fund - IDCW Payout,,,Open Ended,Equity Schemes - Sectoral Fund
-154545,Invesco Asset Management (India) Private Limited,Invesco India Pharma and Healthcare Fund - Direct Plan - IDCW Reinvestment,,,Open Ended,Equity Schemes - Sectoral Fund
+154544,Invesco Asset Management (India) Private Limited,Invesco India Pharma and Healthcare Fund - Regular Fund - IDCW Plan,INF205KA1BV9,INF205KA1BW7,Open Ended,Equity Schemes - Sectoral Fund
+154545,Invesco Asset Management (India) Private Limited,Invesco India Pharma and Healthcare Fund - Regular Plan - Growth,INF205KA1BU1,,Open Ended,Equity Schemes - Sectoral Fund
+154546,Invesco Asset Management (India) Private Limited,Invesco India Pharma and Healthcare Fund - Direct Plan - IDCW Plan,INF205KA1BY3,INF205KA1BZ0,Open Ended,Equity Schemes - Sectoral Fund
+154547,Invesco Asset Management (India) Private Limited,Invesco India Pharma and Healthcare Fund - Direct Plan - Growth,INF205KA1BX5,,Open Ended,Equity Schemes - Sectoral Fund
 154548,Edelweiss Asset Management Limited,Edelweiss Nifty REITs & Realty Index Fund - Direct Growth,INF754K01XJ5,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
 154549,Edelweiss Asset Management Limited,Edelweiss Nifty REITs & Realty Index Fund - Direct IDCW,INF754K01XK3,INF754K01XL1,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
 154559,Edelweiss Asset Management Limited,Edelweiss REITs & Realty Index Fund - Regular IDCW Payout,INF754K01XO5,INF754K01XP2,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
@@ -36476,3 +36474,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154599,Bandhan AMC Limited,Bandhan Contra Fund-Direct Plan-Annual IDCW,INF194KB1LC0,INF194KB1LD8,Open Ended,Equity Schemes - Contra Fund
 154600,Bandhan AMC Limited,Bandhan Contra Fund-Direct Plan-Growth,INF194KB1KX8,,Open Ended,Equity Schemes - Contra Fund
 154601,Bandhan AMC Limited,Bandhan Contra Fund-Regular Plan-Annual IDCW,INF194KB1LA4,INF194KB1LB2,Open Ended,Equity Schemes - Contra Fund
+154602,UTI Asset Mgmt. Co. Ltd.,UTI Nifty 500 Exchange Traded Fund,,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
+154603,UTI Asset Mgmt. Co. Ltd.,UTI Nifty 500 Index Fund Regular Plan - Growth Option,,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
+154604,UTI Asset Mgmt. Co. Ltd.,UTI Nifty 500 Index Fund Direct Plan Growth Option,,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
