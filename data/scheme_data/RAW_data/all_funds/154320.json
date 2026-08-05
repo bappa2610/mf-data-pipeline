@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Groww Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Arbitrage Fund",
+        "scheme_category": "Hybrid Schemes - Arbitrage Fund",
         "scheme_code": 154320,
         "scheme_name": "Groww Arbitrage Fund Direct Growth",
         "isin_growth": "INF666M01ON8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "05-08-2026",
+            "nav": "10.18860"
+        },
         {
             "date": "04-08-2026",
             "nav": "10.20320"

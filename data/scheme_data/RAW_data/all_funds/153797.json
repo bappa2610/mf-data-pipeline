@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Groww Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Index Funds",
+        "scheme_category": "Index Funds - Equity Funds",
         "scheme_code": 153797,
         "scheme_name": "Groww Nifty Next 50 Index Fund Direct IDCW",
         "isin_growth": "INF666M01LU9",
         "isin_div_reinvestment": "INF666M01LV7"
     },
     "data": [
+        {
+            "date": "05-08-2026",
+            "nav": "11.03090"
+        },
         {
             "date": "04-08-2026",
             "nav": "10.99140"

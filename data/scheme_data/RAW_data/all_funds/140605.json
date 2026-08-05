@@ -1,14 +1,18 @@
 {
     "meta": {
-        "fund_house": "IDFC Mutual Fund",
+        "fund_house": "Bandhan Mutual Fund",
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Credit Risk Fund",
         "scheme_code": 140605,
-        "scheme_name": "IDFC Credit Risk Fund-Direct Plan-Half Yearly Dividend",
-        "isin_growth": null,
-        "isin_div_reinvestment": null
+        "scheme_name": "BANDHAN CREDIT RISK FUND - DIRECT PLAN HALF YEARLY IDCW",
+        "isin_growth": "INF194KA1X04",
+        "isin_div_reinvestment": "INF194KA1X12"
     },
     "data": [
+        {
+            "date": "05-08-2026",
+            "nav": "10.40890"
+        },
         {
             "date": "25-08-2020",
             "nav": "10.45170"

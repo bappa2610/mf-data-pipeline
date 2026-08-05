@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Groww Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - ELSS",
+        "scheme_category": "Equity Schemes - ELSS- Tax Saver Fund",
         "scheme_code": 141810,
         "scheme_name": "Groww ELSS Tax Saver Fund (formerly known as Indiabulls Tax Savings Fund)- Regular Plan- - Income Distribution cum capital withdrawal Option (Payout)",
         "isin_growth": "INF666M01DO9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "05-08-2026",
+            "nav": "19.38000"
+        },
         {
             "date": "04-08-2026",
             "nav": "19.33000"

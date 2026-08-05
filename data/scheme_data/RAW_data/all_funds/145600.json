@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Groww Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
+        "scheme_category": "Hybrid Schemes - Aggressive Hybrid Fund",
         "scheme_code": 145600,
         "scheme_name": "Groww Aggressive Hybrid Fund (formerly known as Indiabulls Equity Hybrid Fund)- Direct Plan- - Income Distribution cum capital withdrawal Option (Payout & Reinvestment)",
         "isin_growth": "INF666M01FB1",
         "isin_div_reinvestment": "INF666M01FC9"
     },
     "data": [
+        {
+            "date": "05-08-2026",
+            "nav": "23.41110"
+        },
         {
             "date": "04-08-2026",
             "nav": "23.38510"

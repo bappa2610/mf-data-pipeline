@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Groww Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Equity Schemes - Value Fund",
         "scheme_code": 153631,
         "scheme_name": "Groww Nifty India Internet ETF FOF - Regular - IDCW",
         "isin_growth": "INF666M01LG8",
         "isin_div_reinvestment": "INF666M01LH6"
     },
     "data": [
+        {
+            "date": "05-08-2026",
+            "nav": "10.16450"
+        },
         {
             "date": "04-08-2026",
             "nav": "10.10520"

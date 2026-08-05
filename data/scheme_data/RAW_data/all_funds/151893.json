@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Bajaj Finserv Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Money Market Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Money Market Fund",
         "scheme_code": 151893,
         "scheme_name": "Bajaj Finserv Money Market Fund-Regular Plan-Growth",
         "isin_growth": "INF0QA701441",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "05-08-2026",
+            "nav": "1224.14330"
+        },
         {
             "date": "04-08-2026",
             "nav": "1223.60640"

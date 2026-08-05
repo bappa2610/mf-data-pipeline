@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Groww Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
+        "scheme_category": "Hybrid Schemes - Multi Asset Allocation Fund",
         "scheme_code": 153852,
         "scheme_name": "Groww Multi Asset Allocation Fund Direct IDCW",
         "isin_growth": "INF666M01MB7",
         "isin_div_reinvestment": "INF666M01MC5"
     },
     "data": [
+        {
+            "date": "05-08-2026",
+            "nav": "10.45300"
+        },
         {
             "date": "04-08-2026",
             "nav": "10.40280"

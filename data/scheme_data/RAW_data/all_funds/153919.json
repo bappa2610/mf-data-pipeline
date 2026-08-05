@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Groww Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Equity Schemes - Value Fund",
         "scheme_code": 153919,
         "scheme_name": "Groww Nifty Capital Markets ETF FOF Regular IDCW",
         "isin_growth": "INF666M01MK8",
         "isin_div_reinvestment": "INF666M01ML6"
     },
     "data": [
+        {
+            "date": "05-08-2026",
+            "nav": "11.20080"
+        },
         {
             "date": "04-08-2026",
             "nav": "11.25140"

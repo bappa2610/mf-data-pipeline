@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Groww Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Money Market Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Money Market Fund",
         "scheme_code": 153993,
         "scheme_name": "Groww Money Market Fund Regular IDCW",
         "isin_growth": "INF666M01NA7",
         "isin_div_reinvestment": "INF666M01NB5"
     },
     "data": [
+        {
+            "date": "05-08-2026",
+            "nav": "10.37380"
+        },
         {
             "date": "04-08-2026",
             "nav": "10.36950"

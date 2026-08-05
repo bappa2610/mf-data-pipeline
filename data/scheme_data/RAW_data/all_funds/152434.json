@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Groww Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Index Funds",
+        "scheme_category": "Index Funds - Equity Funds",
         "scheme_code": 152434,
         "scheme_name": "Groww Nifty Smallcap 250 Index Fund - Regular Plan - Regular Plan - IDCW",
         "isin_growth": "INF666M01HW3",
         "isin_div_reinvestment": "INF666M01HX1"
     },
     "data": [
+        {
+            "date": "05-08-2026",
+            "nav": "12.05760"
+        },
         {
             "date": "04-08-2026",
             "nav": "11.97320"

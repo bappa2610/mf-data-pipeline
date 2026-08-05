@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Groww Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Gilt Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Gilt Fund",
         "scheme_code": 153503,
         "scheme_name": "Groww Gilt Fund - Regular - Growth",
         "isin_growth": "INF666M01KN6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "05-08-2026",
+            "nav": "9.91050"
+        },
         {
             "date": "04-08-2026",
             "nav": "9.89210"

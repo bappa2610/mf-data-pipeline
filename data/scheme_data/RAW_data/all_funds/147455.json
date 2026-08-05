@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Groww Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Overnight Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Overnight Fund",
         "scheme_code": 147455,
         "scheme_name": "Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment)",
         "isin_growth": null,
         "isin_div_reinvestment": "INF666M01GU9"
     },
     "data": [
+        {
+            "date": "05-08-2026",
+            "nav": "1001.05160"
+        },
         {
             "date": "04-08-2026",
             "nav": "1001.05150"

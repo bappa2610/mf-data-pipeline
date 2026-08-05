@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Groww Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Dynamic Bond",
+        "scheme_category": "Income/Debt Oriented Schemes - Dynamic Term Fund",
         "scheme_code": 145590,
         "scheme_name": "Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund) - Regular Plan - Growth option",
         "isin_growth": "INF666M01ES8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "05-08-2026",
+            "nav": "1495.88780"
+        },
         {
             "date": "04-08-2026",
             "nav": "1494.75860"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Groww Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Index Funds",
+        "scheme_category": "Index Funds - Equity Funds",
         "scheme_code": 153954,
         "scheme_name": "Groww Nifty Midcap 150 Index Fund Regular IDCW",
         "isin_growth": "INF666M01MT9",
         "isin_div_reinvestment": "INF666M01MU7"
     },
     "data": [
+        {
+            "date": "05-08-2026",
+            "nav": "10.43720"
+        },
         {
             "date": "04-08-2026",
             "nav": "10.41230"
