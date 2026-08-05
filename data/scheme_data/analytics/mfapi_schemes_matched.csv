@@ -368,9 +368,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 100830,Kotak Mahindra Mutual Fund,Kotak Liquid-Institutional Plan  (Growth),,,Open Ended Schemes,Debt Scheme - Liquid Fund
 100831,Kotak Mahindra Mutual Fund,Kotak Liquid-Institutional Plan - (Daily Dividend),,,Open Ended Schemes,Income
 100832,Kotak Mahindra Mutual Fund,Kotak Liquid-Institutional Plan (Weekly Dividend),,,Open Ended Schemes,Debt Scheme - Liquid Fund
-100833,Kotak Mahindra Mutual Fund,Kotak Liquid Fund - Regular  - Daily Reinvestment of Income Distribution cum capital withdrawal option,,INF174K01NL3,Open Ended Schemes,Debt Scheme - Liquid Fund
+100833,Kotak Mahindra Mutual Fund,Kotak Liquid Fund - Regular  - Daily Reinvestment of Income Distribution cum capital withdrawal option,,INF174K01NL3,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 100834,Kotak Mahindra Mutual Fund,Kotak Liquid Regular Plan Weekly Reinvestment of Income Distribution cum capital withdrawal option Dividend,,,Open Ended Schemes,Debt Scheme - Liquid Fund
-100835,Kotak Mahindra Mutual Fund,Kotak Liquid Fund - Regular Plan - Growth,INF174K01NI9,,Open Ended Schemes,Debt Scheme - Liquid Fund
+100835,Kotak Mahindra Mutual Fund,Kotak Liquid Fund - Regular Plan - Growth,INF174K01NI9,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 100836,Kotak Mahindra Mutual Fund,Kotak Liquid-Sweep (Daily Dividend),,,Open Ended Schemes,Income
 100837,Nippon India Mutual Fund,Nippon India Liquid Fund - Retail Option - Growth Plan,INF204K01UL3,,Open Ended Schemes,Debt Scheme - Liquid Fund
 100838,Nippon India Mutual Fund,NIPPON INDIA LIQUID FUND - RETAIL Plan - WEEKLY IDCW OPTION,,INF204K01UK5,Open Ended Schemes,Debt Scheme - Liquid Fund
@@ -25764,6 +25764,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 146983,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 85 - 1140 Days Plan R - Quarterly IDCW Option,,,Close Ended Schemes,Income
 146997,Union Mutual Fund,Union Overnight Fund - Regular Plan - Growth Option,INF582M01FJ3,,Open Ended Schemes,Debt Scheme - Overnight Fund
 146998,Union Mutual Fund,Union Overnight Fund - Regular Plan - Daily IDCW Option,,INF582M01FK1,Open Ended Schemes,Debt Scheme - Overnight Fund
+146999,Union Mutual Fund,Union Overnight Fund - Regular Plan - Weekly IDCW Option,,INF582M01FL9,Open Ended Schemes,Debt Scheme - Overnight Fund
 147000,Union Mutual Fund,Union Overnight Fund - Regular Plan - Monthly IDCW Option,INF582M01FP0,INF582M01FN5,Open Ended Schemes,Debt Scheme - Overnight Fund
 147002,Union Mutual Fund,Union Overnight Fund - Direct Plan - Daily IDCW Option,,INF582M01FB0,Open Ended Schemes,Debt Scheme - Overnight Fund
 147003,Union Mutual Fund,Union Overnight Fund - Direct Plan - Growth Option,INF582M01FA2,,Open Ended Schemes,Debt Scheme - Overnight Fund
@@ -31088,6 +31089,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154510,Kotak Mahindra Mutual Fund,Kotak Bond Short Term Fund - Direct - IDCW Weekly,INF174KA1B69,INF174KA1B44,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 154511,Kotak Mahindra Mutual Fund,Kotak Corporate Bond Fund - Regular - IDCW Weekly,INF174KA1B93,INF174KA1C19,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
 154513,Kotak Mahindra Mutual Fund,Kotak Savings Fund - Direct - IDCW Weekly,INF174KA1C43,INF174KA1C27,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+154514,Kotak Mahindra Mutual Fund,Kotak Savings Fund - Regular - IDCW Weekly,INF174KA1C35,INF174KA1C50,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
 154521,Abakkus Mutual Fund,Abakkus Liquid Fund - Unclaimed Redemption Less than 3 Years,,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 154524,Edelweiss Mutual Fund,Edelweiss BSE Top 10 Bank ETF,INF754K01XH9,,Open Ended Schemes,Equity Schemes - Value Fund
+154528,DSP Mutual Fund,DSP BSE MidSmall Private Banks ETF,INF740KA1ZH9,,Open Ended Schemes,Equity Schemes - Value Fund
 154535,Edelweiss Mutual Fund,Edelweiss BSE LargeMid (60:40) Stable Dividend 50 ETF,INF754K01XI7,,Open Ended Schemes,Equity Schemes - Value Fund
