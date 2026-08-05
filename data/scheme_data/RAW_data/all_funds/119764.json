@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Kotak Mahindra Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Liquid Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
         "scheme_code": 119764,
         "scheme_name": "Kotak Liquid Fund - Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option",
         "isin_growth": null,
         "isin_div_reinvestment": "INF174K01NH1"
     },
     "data": [
+        {
+            "date": "04-08-2026",
+            "nav": "1222.81000"
+        },
         {
             "date": "03-08-2026",
             "nav": "1222.81000"
