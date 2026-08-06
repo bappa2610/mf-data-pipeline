@@ -36476,8 +36476,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154591,ASK ASSET MANAGEMENT PRIVATE LIMITED,ASK Liquid Fund Direct Daily IDCW,INF2XUU01039,,Open Ended,Income/Debt Oriented Schemes - Liquid Fund
 154592,ASK ASSET MANAGEMENT PRIVATE LIMITED,ASK Liquid Fund Direct Monthly IDCW,INF2XUU01112,INF2XUU01120,Open Ended,Income/Debt Oriented Schemes - Liquid Fund
 154593,DSP Asset Managers Private Limited,DSP NIFTY 10 YR BENCHMARK G-SEC ETF,INF740KA1ZI7,,Open Ended,Exchange Traded Funds (ETFs) - Debt ETF
-154594,Axis Asset Management Co. Ltd.,Axis Nifty Energy Index Fund - Direct Plan - Growth,,,Open Ended,Index Funds - Equity Funds
-154597,Axis Asset Management Co. Ltd.,Axis Nifty Energy Index Fund - Regular Plan - Growth,,,Open Ended,Index Funds - Equity Funds
+154594,Axis Asset Management Co. Ltd.,Axis Nifty Energy Index Fund - Direct Plan - Growth,INF846KA1580,,Open Ended,Index Funds - Equity Funds
+154597,Axis Asset Management Co. Ltd.,Axis Nifty Energy Index Fund - Regular Plan - Growth,INF846KA1572,,Open Ended,Index Funds - Equity Funds
 154598,Bandhan AMC Limited,Bandhan Contra Fund-Regular Plan-Growth,INF194KB1KU4,,Open Ended,Equity Schemes - Contra Fund
 154599,Bandhan AMC Limited,Bandhan Contra Fund-Direct Plan-Annual IDCW,INF194KB1LC0,INF194KB1LD8,Open Ended,Equity Schemes - Contra Fund
 154600,Bandhan AMC Limited,Bandhan Contra Fund-Direct Plan-Growth,INF194KB1KX8,,Open Ended,Equity Schemes - Contra Fund
@@ -36485,4 +36485,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154602,UTI Asset Mgmt. Co. Ltd.,UTI Nifty 500 Exchange Traded Fund,,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
 154603,UTI Asset Mgmt. Co. Ltd.,UTI Nifty 500 Index Fund Regular Plan - Growth Option,,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
 154604,UTI Asset Mgmt. Co. Ltd.,UTI Nifty 500 Index Fund Direct Plan Growth Option,,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
-154615,SBI Funds Management Limited,SBI Balanced Hybrid Fund,,,Open Ended,Hybrid Schemes - Balanced Hybrid Fund
+154615,SBI Funds Management Limited,SBI Balanced Hybrid Fund - Regular Plan - Growth,,,Open Ended,Hybrid Schemes - Balanced Hybrid Fund
+154616,SBI Funds Management Limited,SBI Balance Hybrid Fund - Regular Plan - IDCW,,,Open Ended,Hybrid Schemes - Balanced Hybrid Fund
+154617,SBI Funds Management Limited,SBI Balance Hybrid Fund - Direct Plan - IDCW,,,Open Ended,Hybrid Schemes - Balanced Hybrid Fund
+154618,SBI Funds Management Limited,SBI Balance Hybrid Fund - Direct Plan - Growth,,,Open Ended,Hybrid Schemes - Balanced Hybrid Fund

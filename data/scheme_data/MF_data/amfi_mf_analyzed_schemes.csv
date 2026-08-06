@@ -36466,8 +36466,8 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 154591,ASK ASSET MANAGEMENT PRIVATE LIMITED,ASK Liquid Fund Direct Daily IDCW,INF2XUU01039,Open Ended,Income/Debt Orienteds,Liquid Fund,Direct,IDCW,Daily
 154592,ASK ASSET MANAGEMENT PRIVATE LIMITED,ASK Liquid Fund Direct Monthly IDCW,INF2XUU01112,Open Ended,Income/Debt Orienteds,Liquid Fund,Direct,IDCW,Monthly
 154593,DSP Asset Managers Private Limited,DSP NIFTY 10 YR BENCHMARK G-SEC ETF,INF740KA1ZI7,Open Ended,Exchange Traded Funds (ETFs),ETF,Other,Other,
-154594,Axis Asset Management Co. Ltd.,Axis Nifty Energy Index Fund - Direct Plan - Growth,,Open Ended,Index Funds,Equity Funds,Direct,Growth,
-154597,Axis Asset Management Co. Ltd.,Axis Nifty Energy Index Fund - Regular Plan - Growth,,Open Ended,Index Funds,Equity Funds,Regular,Growth,
+154594,Axis Asset Management Co. Ltd.,Axis Nifty Energy Index Fund - Direct Plan - Growth,INF846KA1580,Open Ended,Index Funds,Equity Funds,Direct,Growth,
+154597,Axis Asset Management Co. Ltd.,Axis Nifty Energy Index Fund - Regular Plan - Growth,INF846KA1572,Open Ended,Index Funds,Equity Funds,Regular,Growth,
 154598,Bandhan AMC Limited,Bandhan Contra Fund-Regular Plan-Growth,INF194KB1KU4,Open Ended,Equitys,Contra Fund,Regular,Growth,
 154599,Bandhan AMC Limited,Bandhan Contra Fund-Direct Plan-Annual IDCW,INF194KB1LC0,Open Ended,Equitys,Contra Fund,Direct,IDCW,Annual
 154600,Bandhan AMC Limited,Bandhan Contra Fund-Direct Plan-Growth,INF194KB1KX8,Open Ended,Equitys,Contra Fund,Direct,Growth,
@@ -36485,4 +36485,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 154612,Kotak Mahindra Asset Management Company Limited.,Kotak Money Market Fund - Direct - IDCW,INF174KA1F24,Open Ended,Income/Debt Orienteds,Money Market Fund,Direct,IDCW,
 154613,Bajaj Finserv Asset Management Limited,Bajaj Finserv Money Market Fund-Regular Plan-Weekly-IDCW,INF0QA701CJ8,Open Ended,Income/Debt Orienteds,Money Market Fund,Regular,IDCW,Weekly
 154614,Bajaj Finserv Asset Management Limited,Bajaj Finserv Money Market Fund-Direct Plan-Weekly-IDCW,INF0QA701CK6,Open Ended,Income/Debt Orienteds,Money Market Fund,Direct,IDCW,Weekly
-154615,SBI Funds Management Limited,SBI Balanced Hybrid Fund,,Open Ended,Hybrids,Balanced Hybrid Fund,Other,Other,
+154615,SBI Funds Management Limited,SBI Balanced Hybrid Fund - Regular Plan - Growth,,Open Ended,Hybrids,Balanced Hybrid Fund,Regular,Growth,
+154616,SBI Funds Management Limited,SBI Balance Hybrid Fund - Regular Plan - IDCW,,Open Ended,Hybrids,Balanced Hybrid Fund,Regular,IDCW,
+154617,SBI Funds Management Limited,SBI Balance Hybrid Fund - Direct Plan - IDCW,,Open Ended,Hybrids,Balanced Hybrid Fund,Direct,IDCW,
+154618,SBI Funds Management Limited,SBI Balance Hybrid Fund - Direct Plan - Growth,,Open Ended,Hybrids,Balanced Hybrid Fund,Direct,Growth,
