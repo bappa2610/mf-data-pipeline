@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Groww Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Liquid Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
         "scheme_code": 119135,
         "scheme_name": "Groww Liquid Fund ( formerly known as Indiabulls Liquid )Fund - Direct Plan - Growth Option",
         "isin_growth": "INF666M01451",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "05-08-2026",
+            "nav": "2736.06440"
+        },
         {
             "date": "04-08-2026",
             "nav": "2735.48040"

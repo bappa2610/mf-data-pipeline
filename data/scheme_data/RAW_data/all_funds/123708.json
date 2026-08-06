@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Groww Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Short Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 123708,
         "scheme_name": "Groww Short Term Fund (formerly known as Indiabulls Short Term Fund )- Regular Plan - Growth Option",
         "isin_growth": "INF666M01AJ5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "05-08-2026",
+            "nav": "2208.02200"
+        },
         {
             "date": "04-08-2026",
             "nav": "2205.38480"
