@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HDFC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Index Funds",
+        "scheme_category": "Index Funds - Equity Funds",
         "scheme_code": 154428,
         "scheme_name": "HDFC Nifty Auto Index Fund- Growth Option",
         "isin_growth": "INF179KC1KP2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "07-08-2026",
+            "nav": "10.86760"
+        },
         {
             "date": "06-08-2026",
             "nav": "10.65770"
