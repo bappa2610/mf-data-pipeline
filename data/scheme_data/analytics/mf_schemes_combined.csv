@@ -13148,6 +13148,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153289,Invesco Mutual Fund,Invesco India Business Cycle Fund - Regular Plan - IDCW,INF205KA1AG2,INF205KA1AH0,Open Ended Schemes,Equity Schemes - Thematic Fund
 153290,Invesco Mutual Fund,Invesco India Business Cycle Fund - Direct Plan - IDCW,INF205KA1AJ6,INF205KA1AK4,Open Ended Schemes,Equity Schemes - Thematic Fund
 153291,Invesco Mutual Fund,Invesco India Business Cycle Fund - Direct Plan - Growth,INF205KA1AI8,,Open Ended Schemes,Equity Schemes - Thematic Fund
+153292,Bank of India Mutual Fund,Bank of India Money Market Fund - Direct - Weekly IDCW,,INF761K01GQ0,Open Ended Schemes,Debt Scheme - Money Market Fund
 153293,Bank of India Mutual Fund,Bank of India Money Market Fund - Regular - Growth,INF761K01GS6,,Open Ended Schemes,Debt Scheme - Money Market Fund
 153294,Bank of India Mutual Fund,Bank of India Money Market Fund - Direct - Growth,INF761K01GO5,,Open Ended Schemes,Debt Scheme - Money Market Fund
 153295,Bank of India Mutual Fund,Bank of India Money Market Fund - Direct - Monthly IDCW,INF761K01GR8,INF761K01GX6,Open Ended Schemes,Debt Scheme - Money Market Fund
@@ -14216,6 +14217,12 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154473,Mirae Asset Mutual Fund,Mirae Asset BSE Midcap 150 Momentum 30 ETF FOF - Regular Plan - Growth,INF769K01QW0,,Open Ended Schemes,Fund of Funds Scheme
 154474,Mirae Asset Mutual Fund,Mirae Asset BSE Midcap 150 Momentum 30 ETF FOF - Direct Plan - Growth,INF769K01QX8,,Open Ended Schemes,Fund of Funds Scheme
 154476,Groww Mutual Fund,Groww Nifty Cements ETF,INF666M01PH7,,Open Ended Schemes,Exchange Traded Funds
+154477,Abakkus Mutual Fund,Abakkus Large & Mid Cap Fund - Direct  Plan - Growth,INF2JJD01193,,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund
+154478,Abakkus Mutual Fund,Abakkus Large & Mid Cap Fund - Regular Plan - Growth,INF2JJD01201,,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund
+154479,The Wealth Company Mutual Fund,The Wealth Company Mid Cap Fund- Regular-Growth,INF2F0001628,,Open Ended Schemes,Equity Schemes - Mid Cap Fund
+154481,The Wealth Company Mutual Fund,The Wealth Company Mid Cap Fund- Direct-Growth,INF2F0001651,,Open Ended Schemes,Equity Schemes - Mid Cap Fund
+154483,The Wealth Company Mutual Fund,The Wealth Company Mid Cap Fund- Direct- IDCW,INF2F0001669,INF2F0001677,Open Ended Schemes,Equity Schemes - Mid Cap Fund
+154484,The Wealth Company Mutual Fund,The Wealth Company Mid Cap Fund-Regular-IDCW,INF2F0001636,INF2F0001644,Open Ended Schemes,Equity Schemes - Mid Cap Fund
 154485,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Services Fund - Direct IDCW Payout option,INF251K01VU3,INF251K01VZ2,Open Ended Schemes,Equity Schemes - Thematic Fund
 154486,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Services Fund - Regular Growth option,INF251K01VV1,,Open Ended Schemes,Equity Schemes - Thematic Fund
 154487,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Services Fund - Regular IDCW Payout,INF251K01VW9,INF251K01VX7,Open Ended Schemes,Equity Schemes - Thematic Fund
@@ -14229,6 +14236,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154497,Mirae Asset Mutual Fund,Mirae Asset Nifty200 Momentum 30 Plus 8-13 yr G-Sec 50:50 ETF,INF769K01RJ5,,Open Ended Schemes,Exchange Traded Funds
 154503,ICICI Prudential Mutual Fund,ICICI Prudential BSE Insurance ETF,INF109K1A567,,Open Ended Schemes,Exchange Traded Funds
 154504,HDFC Mutual Fund,HDFC Nifty Metal ETF - Growth Option,,,Open Ended Schemes,Exchange Traded Funds
+154505,HDFC Mutual Fund,HDFC Nifty Metal ETF FOF - Direct Plan - Growth Option,,,Open Ended Schemes,Fund of Funds Scheme
+154506,HDFC Mutual Fund,HDFC Nifty Metal ETF FOF - Growth Option,,,Open Ended Schemes,Fund of Funds Scheme
 154507,Kotak Mahindra Mutual Fund,Kotak Money Market Fund - Direct - IDCW Weekly,INF174KA1B28,INF174KA1B02,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
 154508,Kotak Mahindra Mutual Fund,Kotak Money Market Fund - Regular - IDCW Weekly,INF174KA1B10,INF174KA1B36,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
 154509,Kotak Mahindra Mutual Fund,Kotak Bond Short Term Fund - Regular - IDCW Weekly,INF174KA1B51,INF174KA1B77,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
@@ -14240,6 +14249,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154524,Edelweiss Mutual Fund,Edelweiss BSE Top 10 Bank ETF,INF754K01XH9,,Open Ended Schemes,Exchange Traded Funds
 154528,DSP Mutual Fund,DSP BSE MidSmall Private Banks ETF,INF740KA1ZH9,,Open Ended Schemes,Exchange Traded Funds
 154535,Edelweiss Mutual Fund,Edelweiss BSE LargeMid (60:40) Stable Dividend 50 ETF,INF754K01XI7,,Open Ended Schemes,Exchange Traded Funds
+154551,Motilal Oswal Mutual Fund,Motilal Oswal Nifty Metal ETF,,,Open Ended Schemes,Exchange Traded Funds
+154552,Motilal Oswal Mutual Fund,Motilal Oswal Nifty Oil & Gas ETF,,,Open Ended Schemes,Exchange Traded Funds
 100027,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Half Yearly Dividend,,,Open Ended Schemes,Income
 100028,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Quaterly Dividend,,,Open Ended Schemes,Income
 100029,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Growth,,,Open Ended Schemes,Income
@@ -36398,7 +36409,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 152708,Tata Asset Management Limited,Tata Fixed Maturity Plan Series 61 Scheme C (91 days) - Regular Plan IDCW Payout Option,INF277KA1BW0,,Close Ended,Income
 152709,Tata Asset Management Limited,Tata Fixed Maturity Plan Series 61 Scheme C (91 days) - Direct Plan IDCW Payout Option,INF277KA1BY6,,Close Ended,Income
 153168,Baroda BNP Paribas Asset Management India Private Limited,Baroda BNP Paribas Children's Fund - Direct Plan - IDCW Option,INF251K01UF6,,Open Ended,Solution Oriented Scheme - Children s Fund
-153292,Bank of India Investment Managers Private Limited,Bank of India Money Market Fund - Direct - Weekly IDCW,INF761K01GQ0,,Open Ended,Debt Scheme - Money Market Fund
 153446,Aditya Birla Sun Life AMC Limited,Aditya Birla Sun Life Crisil-IBX Financial Services 9-12 Months Debt Index Fund-Regular IDCW Payout,INF209KC1522,,Open Ended,Other Scheme - Index Funds
 154071,Jio BlackRock Asset Management Private Limited,JioBlackRock Overnight Fund - Unclaimed Redemption - Above 3 years- Growth Option,,,Open Ended,Debt Scheme - Overnight Fund
 154116,Jio BlackRock Asset Management Private Limited,JioBlackRock Liquid Fund - Direct Plan - Daily IDCW Reinvestment Option,INF22M001119,,Open Ended,Debt Scheme - Liquid Fund
@@ -36407,18 +36417,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154126,Sundaram Asset Management Company Ltd,Sundaram Income Plus Arbitrage Active FoF Fund-Regular-IDCW Reinvestment,INF903JA1ME0,,Open Ended,Other Scheme - FoF Domestic
 154128,Sundaram Asset Management Company Ltd,Sundaram Income Plus Arbitrage Active FoF Fund-Direct-IDCW Reinvestment,INF903JA1MB6,,Open Ended,Other Scheme - FoF Domestic
 154624,Choice AMC Private Limited,Choice Overnight Fund -Direct -Unclaimed Less than 3 years IDCW Plan,,,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
-154477,Abakkus Investment Managers Private Limited,Abakkus Large & Mid Cap Fund - Direct  Plan - Growth,INF2JJD01193,,Open Ended,Equity Scheme - Large & Mid Cap Fund
-154478,Abakkus Investment Managers Private Limited,Abakkus Large & Mid Cap Fund - Regular Plan - Growth,INF2JJD01201,,Open Ended,Equity Scheme - Large & Mid Cap Fund
-154483,Wealth Company Asset Management Holdings Private Limited,The Wealth Company Mid Cap Fund- Direct- IDCW,INF2F0001669,INF2F0001677,Open Ended,Equity Schemes - Mid Cap Fund
-154484,Wealth Company Asset Management Holdings Private Limited,The Wealth Company Mid Cap Fund-Regular-IDCW,INF2F0001636,INF2F0001644,Open Ended,Equity Schemes - Mid Cap Fund
-154479,Wealth Company Asset Management Holdings Private Limited,The Wealth Company Mid Cap Fund- Regular-Growth,INF2F0001628,,Open Ended,Equity Schemes - Mid Cap Fund
-154481,Wealth Company Asset Management Holdings Private Limited,The Wealth Company Mid Cap Fund- Direct-Growth,INF2F0001651,,Open Ended,Equity Schemes - Mid Cap Fund
 154502,ITI Asset Management Limited,ITI Multi Asset Allocation Fund- Regular Plan- IDCW Option,INF00XX01DQ0,INF00XX01DR8,Open Ended,Hybrid Schemes - Multi Asset Allocation Fund
 154498,ITI Asset Management Limited,ITI Multi Asset Allocation Fund - Direct Plan - Growth Option,INF00XX01DS6,,Open Ended,Hybrid Schemes - Multi Asset Allocation Fund
 154499,ITI Asset Management Limited,ITI Multi Asset Allocation Fund- Direct Plan- IDCW Option,INF00XX01DT4,INF00XX01DU2,Open Ended,Hybrid Schemes - Multi Asset Allocation Fund
 154500,ITI Asset Management Limited,ITI Multi Asset Allocation Fund- Regular Plan- Growth Option,INF00XX01DP2,,Open Ended,Hybrid Schemes - Multi Asset Allocation Fund
-154505,HDFC Asset Management Company Limited,HDFC Nifty Metal ETF FOF - Direct Plan - Growth Option,,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
-154506,HDFC Asset Management Company Limited,HDFC Nifty Metal ETF FOF - Growth Option,,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154515,Quantum Asset Management Company Private Limited,Quantum Flexi Cap Fund - Direct Plan Growth Option,INF082J01507,,Open Ended,Equity Schemes - Flexi Cap Fund
 154516,Quantum Asset Management Company Private Limited,Quantum Flexi Cap Fund - Regular Plan Growth Option,INF082J01515,,Open Ended,Equity Schemes - Flexi Cap Fund
 154517,AlphaGrep Investment Management Private Limited,AlphaGrep Flexi Cap Fund - Regular- IDCW,INF2VOA01129,INF2VOA01111,Open Ended,Equity Schemes - Flexi Cap Fund
@@ -36444,8 +36446,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154559,Edelweiss Asset Management Limited,Edelweiss REITs & Realty Index Fund - Regular IDCW Payout,INF754K01XO5,INF754K01XP2,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
 154561,Edelweiss Asset Management Limited,Edelweiss REITs & Realty Index Fund - Regular Growth,INF754K01XN7,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
 154550,Jio BlackRock Asset Management Private Limited,JioBlackRock Nifty 50 ETF,INF22M001184,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
-154551,Motilal Oswal Asset Management Company Limited,Motilal Oswal Nifty Metal ETF,,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
-154552,Motilal Oswal Asset Management Company Limited,Motilal Oswal Nifty Oil & Gas ETF,,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
 154553,WhiteOak Capital Asset Management Limited,WhiteOak Capital Dividend Yield Fund Regular Plan Growth,INF03VN01AI2,,Open Ended,Equity Schemes - Dividend Yield Fund
 154554,WhiteOak Capital Asset Management Limited,WhiteOak Capital Dividend Yield Fund Direct Plan IDCW,INF03VN01AJ0,INF03VN01AK8,Open Ended,Equity Schemes - Dividend Yield Fund
 154555,WhiteOak Capital Asset Management Limited,WhiteOak Capital Dividend Yield Fund Regular Plan IDCW,INF03VN01AL6,INF03VN01AM4,Open Ended,Equity Schemes - Dividend Yield Fund
@@ -36496,3 +36496,4 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154620,Edelweiss Asset Management Limited,Edelweiss Ultra Short Term Fund Regular IDCW Plan,,,Open Ended,Income/Debt Oriented Schemes - Ultra Short Term Fund
 154621,Edelweiss Asset Management Limited,Edelweiss Ultra Short Term Fund Direct Growth Plan,,,Open Ended,Income/Debt Oriented Schemes - Ultra Short Term Fund
 154625,quant Money Managers Limited,quant Silver ETF,,,Open Ended,Exchange Traded Funds (ETFs) - Silver ETF
+154626,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset BSE LargeMid (60 40) Stable Dividend 50 ETF,INF769K01RK3,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
