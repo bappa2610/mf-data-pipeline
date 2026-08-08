@@ -202,8 +202,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 100821,UTI Mutual Fund,UTI ELSS Tax Saver Fund - Regular Plan - Growth Option,INF789F01547,,Open Ended Schemes,Equity Scheme - ELSS,205.3304,07-Aug-2026
 100822,UTI Mutual Fund,UTI Nifty 50 Index Fund - Regular Plan - Growth Option,INF789F01JN2,,Open Ended Schemes,Other Scheme - Index Funds,170.4013,07-Aug-2026
 100823,UTI Mutual Fund,UTI Nifty 50 Index Fund - Regular Plan - IDCW,INF789F01JL6,INF789F01JM4,Open Ended Schemes,Other Scheme - Index Funds,85.8479,07-Aug-2026
-100833,Kotak Mahindra Mutual Fund,Kotak Liquid Fund - Regular  - Daily Reinvestment of Income Distribution cum capital withdrawal option,,INF174K01NL3,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1277.7388,07-Aug-2026
-100835,Kotak Mahindra Mutual Fund,Kotak Liquid Fund - Regular Plan - Growth,INF174K01NI9,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,5643.4977,07-Aug-2026
+100833,Kotak Mahindra Mutual Fund,Kotak Liquid Fund - Regular  - Daily Reinvestment of Income Distribution cum capital withdrawal option,,INF174K01NL3,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1277.943,08-Aug-2026
+100835,Kotak Mahindra Mutual Fund,Kotak Liquid Fund - Regular Plan - Growth,INF174K01NI9,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,5644.3993,08-Aug-2026
 100837,Nippon India Mutual Fund,Nippon India Liquid Fund - Retail Option - Growth Plan,INF204K01UL3,,Open Ended Schemes,Debt Scheme - Liquid Fund,6040.9876,09-Aug-2026
 100838,Nippon India Mutual Fund,NIPPON INDIA LIQUID FUND - RETAIL Plan - WEEKLY IDCW OPTION,,INF204K01UK5,Open Ended Schemes,Debt Scheme - Liquid Fund,1034.8773,09-Aug-2026
 100842,Nippon India Mutual Fund,NIPPON INDIA LIQUID FUND - RETAIL Plan - DAILY IDCW OPTION,,INF204K01UJ7,Open Ended Schemes,Debt Scheme - Liquid Fund,1524.2800,09-Aug-2026
@@ -222,7 +222,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 100859,Nippon India Mutual Fund,Nippon India Corporate Bond Fund - Growth Plan - Bonus Option,INF204KA12N8,,Open Ended Schemes,Debt Scheme - Corporate Bond Fund,45.5926,07-Aug-2026
 100864,LIC Mutual Fund,LIC MF ELSS Tax Saver-Regular Plan-IDCW,INF767K01931,INF767K01949,Open Ended Schemes,Equity Scheme - ELSS,31.6888,07-Aug-2026
 100865,LIC Mutual Fund,LIC MF ELSS Tax Saver-Regular Plan-Growth,INF767K01956,,Open Ended Schemes,Equity Scheme - ELSS,151.3727,07-Aug-2026
-100868,HDFC Mutual Fund,HDFC Liquid Fund - Growth Plan,INF179KB1HK0,,Open Ended Schemes,Debt Scheme - Liquid Fund,5479.2877,07-Aug-2026
+100868,HDFC Mutual Fund,HDFC Liquid Fund - Growth Plan,INF179KB1HK0,,Open Ended Schemes,Debt Scheme - Liquid Fund,5480.168,08-Aug-2026
 100872,HDFC Mutual Fund,HDFC Liquid Fund-PREMIUM PLUS- Growth,INF179K01KQ7,,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0000,17-Dec-2012
 100874,HDFC Mutual Fund,HDFC Liquid Fund - IDCW Plan Weekly,INF179KB1ID3,,Open Ended Schemes,Debt Scheme - Liquid Fund,1031.8552,07-Aug-2026
 100875,HDFC Mutual Fund,HDFC Liquid Fund - IDCW Daily,,INF179KB1IC5,Open Ended Schemes,Debt Scheme - Liquid Fund,1019.82,07-Aug-2026
@@ -450,7 +450,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 101993,HDFC Mutual Fund,HDFC Money Market Fund - Growth Option,INF179KB1HR5,,Open Ended Schemes,Debt Scheme - Money Market Fund,6129.2558,07-Aug-2026
 101994,HDFC Mutual Fund,HDFC Money Market Fund - Daily IDCW Option,,INF179KB1IG6,Open Ended Schemes,Debt Scheme - Money Market Fund,1063.64,07-Aug-2026
 101995,HDFC Mutual Fund,HDFC Money Market Fund - Weekly IDCW Option,INF179KB1IH4,INF179KB1II2,Open Ended Schemes,Debt Scheme - Money Market Fund,1063.6516,07-Aug-2026
-101996,HDFC Mutual Fund,HDFC Overnight Fund - Growth Option,INF179KB1HS3,,Open Ended Schemes,Debt Scheme - Overnight Fund,4022.0427,07-Aug-2026
+101996,HDFC Mutual Fund,HDFC Overnight Fund - Growth Option,INF179KB1HS3,,Open Ended Schemes,Debt Scheme - Overnight Fund,4022.5792,08-Aug-2026
 101997,HDFC Mutual Fund,HDFC Overnight Fund - IDCW Option (Daily),,INF179KB1IF8,Open Ended Schemes,Debt Scheme - Overnight Fund,1042.66,07-Aug-2026
 102000,HDFC Mutual Fund,HDFC Large Cap Fund - Growth Option - Regular Plan,INF179K01BE2,,Open Ended Schemes,Equity Scheme - Large Cap Fund,1150.246,07-Aug-2026
 102001,HDFC Mutual Fund,HDFC Large Cap Fund - IDCW Option - Regular Plan,INF179K01BC6,INF179K01BD4,Open Ended Schemes,Equity Scheme - Large Cap Fund,52.677,07-Aug-2026
@@ -642,10 +642,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 103197,Nippon India Mutual Fund,NIPPON INDIA ELSS TAX SAVER FUND - IDCW Option,INF204K01GL2,INF204K01GM0,Open Ended Schemes,Equity Scheme - ELSS,34.5877,07-Aug-2026
 103215,SBI Mutual Fund,SBI Flexicap Fund - REGULAR PLAN -Growth Option,INF200K01222,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,109.8419,07-Aug-2026
 103216,SBI Mutual Fund,SBI Flexicap Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200K01230,INF200K01248,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,49.1847,07-Aug-2026
-103225,quant Mutual Fund,quant Liquid Fund - Growth Option - Regular Plan,INF966L01317,,Open Ended Schemes,Debt Scheme - Liquid Fund,43.9199,07-Aug-2026
-103226,quant Mutual Fund,quant Liquid Fund-Daily IDCW Option - Regular Plan,,INF966L01275,Open Ended Schemes,Debt Scheme - Liquid Fund,12.6284,07-Aug-2026
-103227,quant Mutual Fund,quant Liquid Fund - Weekly IDCW Option - Regular Plan,INF966L01499,INF966L01283,Open Ended Schemes,Debt Scheme - Liquid Fund,14.5142,07-Aug-2026
-103228,quant Mutual Fund,quant Liquid Fund - Monthly IDCW Option - Regular Plan,INF966L01291,INF966L01309,Open Ended Schemes,Debt Scheme - Liquid Fund,15.1728,07-Aug-2026
+103225,quant Mutual Fund,quant Liquid Fund - Growth Option - Regular Plan,INF966L01317,,Open Ended Schemes,Debt Scheme - Liquid Fund,43.9332,09-Aug-2026
+103226,quant Mutual Fund,quant Liquid Fund-Daily IDCW Option - Regular Plan,,INF966L01275,Open Ended Schemes,Debt Scheme - Liquid Fund,12.6323,09-Aug-2026
+103227,quant Mutual Fund,quant Liquid Fund - Weekly IDCW Option - Regular Plan,INF966L01499,INF966L01283,Open Ended Schemes,Debt Scheme - Liquid Fund,14.5186,09-Aug-2026
+103228,quant Mutual Fund,quant Liquid Fund - Monthly IDCW Option - Regular Plan,INF966L01291,INF966L01309,Open Ended Schemes,Debt Scheme - Liquid Fund,15.1774,09-Aug-2026
 103233,Kotak Mahindra Mutual Fund,Kotak Large & Midcap Fund - IDCW-Regular,INF174K01203,INF174K01195,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund,62.627,07-Aug-2026
 103234,Kotak Mahindra Mutual Fund,Kotak Large & Midcap Fund - Growth-Regular,INF174K01187,,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund,358.974,07-Aug-2026
 103308,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Focused Fund -Regular - IDCW,INF209K01454,INF209K01CS5,Open Ended Schemes,Equity Scheme - Focused Fund,23.8908,07-Aug-2026
@@ -659,9 +659,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 103342,ICICI Prudential Mutual Fund,ICICI Prudential Liquid Fund - Weekly IDCW,INF109K01VS7,,Open Ended Schemes,Debt Scheme - Liquid Fund,100.2379,07-Aug-2026
 103343,ICICI Prudential Mutual Fund,ICICI Prudential Liquid Fund - Daily IDCW,INF109K01VP3,,Open Ended Schemes,Debt Scheme - Liquid Fund,100.1482,07-Aug-2026
 103344,ICICI Prudential Mutual Fund,ICICI Prudential Liquid Fund - Institutional Option - I,INF109K01VH0,,Open Ended Schemes,Debt Scheme - Liquid Fund,275.6151,24-Apr-2020
-103347,DSP Mutual Fund,DSP Liquidity Fund - Regular Plan - Growth,INF740K01FK9,,Open Ended Schemes,Debt Scheme - Liquid Fund,3989.0814,07-Aug-2026
-103348,DSP Mutual Fund,DSP Liquidity Fund - Regular Plan - IDCW - Weekly,INF740K01FM5,INF740K01FL7,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.6386,07-Aug-2026
-103349,DSP Mutual Fund,DSP Liquidity Fund- Regular Plan - IDCW - Daily,,INF740KA1OE0,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.4663,07-Aug-2026
+103347,DSP Mutual Fund,DSP Liquidity Fund - Regular Plan - Growth,INF740K01FK9,,Open Ended Schemes,Debt Scheme - Liquid Fund,3989.7299,08-Aug-2026
+103348,DSP Mutual Fund,DSP Liquidity Fund - Regular Plan - IDCW - Weekly,INF740K01FM5,INF740K01FL7,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.8014,08-Aug-2026
+103349,DSP Mutual Fund,DSP Liquidity Fund- Regular Plan - IDCW - Daily,,INF740KA1OE0,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.6288,08-Aug-2026
 103360,Franklin Templeton Mutual Fund,Franklin India Small Cap Fund-Growth,INF090I01569,,Open Ended Schemes,Equity Scheme - Small Cap Fund,180.5455,07-Aug-2026
 103361,Franklin Templeton Mutual Fund,Franklin India Small Cap Fund - IDCW,INF090I01544,INF090I01551,Open Ended Schemes,Equity Scheme - Small Cap Fund,45.1320,07-Aug-2026
 103389,Canara Robeco Mutual Fund,CANARA ROBECO INFRASTRUCTURE FUND - REGULAR PLAN - IDCW (Payout/Reinvestment),INF760K01258,INF760K01266,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,65.5100,07-Aug-2026
@@ -1498,11 +1498,11 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 115942,Tata Mutual Fund,Tata Retirement Savings Fund - Progressive Plan -Regular Plan-Growth Option,INF277K01FG0,,Open Ended Schemes,Solution Oriented Scheme - Retirement Fund,69.5099,07-Aug-2026
 115943,Tata Mutual Fund,Tata Retirement Savings Fund- Moderate Plan-Regular Plan-Growth Option,INF277K01FH8,,Open Ended Schemes,Solution Oriented Scheme - Retirement Fund,68.4421,07-Aug-2026
 115944,Tata Mutual Fund,Tata Retirement Savings Fund- Conservative Plan-Regular Plan-Growth Option,INF277K01FI6,,Open Ended Schemes,Solution Oriented Scheme - Retirement Fund,33.0553,07-Aug-2026
-115991,Groww Mutual Fund,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund) - Regular Plan - Growth Option,INF666M01014,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,2700.929,07-Aug-2026
-115992,Groww Mutual Fund,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Regular Plan- - Income Distribution cum capital withdrawal Option (Reinvestment),,INF666M01022,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1002.0894,07-Aug-2026
-115993,Groww Mutual Fund,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01089,INF666M01030,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1002.5424,07-Aug-2026
-115994,Groww Mutual Fund,Groww Liquid Fund (formerly known as Indiabulls Liquid) Fund- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01063,INF666M01048,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1003.8171,07-Aug-2026
-115995,Groww Mutual Fund,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01071,INF666M01055,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1002.4723,07-Aug-2026
+115991,Groww Mutual Fund,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund) - Regular Plan - Growth Option,INF666M01014,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,2701.388,08-Aug-2026
+115992,Groww Mutual Fund,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Regular Plan- - Income Distribution cum capital withdrawal Option (Reinvestment),,INF666M01022,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1002.2613,08-Aug-2026
+115993,Groww Mutual Fund,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01089,INF666M01030,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1002.7128,08-Aug-2026
+115994,Groww Mutual Fund,Groww Liquid Fund (formerly known as Indiabulls Liquid) Fund- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01063,INF666M01048,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1003.9877,08-Aug-2026
+115995,Groww Mutual Fund,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01071,INF666M01055,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1002.6426,08-Aug-2026
 116020,Bandhan Mutual Fund,BANDHAN Low Duration Fund - Regular Plan - Periodic IDCW,INF194K01I29,INF194K01I37,Open Ended Schemes,Debt Scheme - Low Duration Fund,13.6777,07-Aug-2026
 116051,Union Mutual Fund,Union ELSS Tax Saver Fund - Growth Option,INF582M01302,,Open Ended Schemes,Equity Scheme - ELSS,66.70,07-Aug-2026
 116052,Union Mutual Fund,Union ELSS Tax Saver Fund - IDCW Option,INF582M01328,INF582M01310,Open Ended Schemes,Equity Scheme - ELSS,37.29,07-Aug-2026
@@ -1970,14 +1970,14 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 118898,ICICI Prudential Mutual Fund,ICICI Prudential Capital Protection Oriented Fund III - PLAN D - 36 Months - Cumulative,INF109K01I80,,Close Ended Schemes,Income,12.9111,01-Feb-2016
 118899,ICICI Prudential Mutual Fund,ICICI Prudential Capital Protection Oriented Fund III - PLAN D - 36 Months - Dividend,INF109K01J06,,Close Ended Schemes,Income,12.9111,01-Feb-2016
 118900,ICICI Prudential Mutual Fund,ICICI Prudential Capital Protection Oriented Fund III - PLAN D - 36 Months - Direct Plan - Cumulative,INF109K01I98,,Close Ended Schemes,Income,13.3938,01-Feb-2016
-118901,HSBC Mutual Fund,HSBC Liquid Fund - Regular Daily IDCW,,INF336L01BM9,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.3789,07-Aug-2026
-118902,HSBC Mutual Fund,HSBC Liquid Fund - Regular Growth,INF336L01BN7,,Open Ended Schemes,Debt Scheme - Liquid Fund,2784.2923,07-Aug-2026
-118903,HSBC Mutual Fund,HSBC Liquid Fund - Regular Monthly IDCW,INF336L01BP2,INF336L01BO5,Open Ended Schemes,Debt Scheme - Liquid Fund,1004.3357,07-Aug-2026
-118904,HSBC Mutual Fund,HSBC Liquid Fund - Regular Weekly IDCW,INF336L01LJ4,INF336L01BQ0,Open Ended Schemes,Debt Scheme - Liquid Fund,1108.0938,07-Aug-2026
-118906,HSBC Mutual Fund,HSBC Liquid Fund - IDCW,,INF336L01BK3,Open Ended Schemes,Debt Scheme - Liquid Fund,1019.3,07-Aug-2026
-118907,HSBC Mutual Fund,HSBC Liquid Fund - Growth,INF336L01BL1,,Open Ended Schemes,Debt Scheme - Liquid Fund,4017.1889,07-Aug-2026
-118908,HSBC Mutual Fund,HSBC Liquid Fund - Weekly IDCW,,INF336L01BR8,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.8727,07-Aug-2026
-118909,HSBC Mutual Fund,HSBC Liquid Fund - Institutional Daily IDCW,,INF336L01BS6,Open Ended Schemes,Debt Scheme - Liquid Fund,1562.8262,07-Aug-2026
+118901,HSBC Mutual Fund,HSBC Liquid Fund - Regular Daily IDCW,,INF336L01BM9,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.5397,08-Aug-2026
+118902,HSBC Mutual Fund,HSBC Liquid Fund - Regular Growth,INF336L01BN7,,Open Ended Schemes,Debt Scheme - Liquid Fund,2784.7393,08-Aug-2026
+118903,HSBC Mutual Fund,HSBC Liquid Fund - Regular Monthly IDCW,INF336L01BP2,INF336L01BO5,Open Ended Schemes,Debt Scheme - Liquid Fund,1004.4969,08-Aug-2026
+118904,HSBC Mutual Fund,HSBC Liquid Fund - Regular Weekly IDCW,INF336L01LJ4,INF336L01BQ0,Open Ended Schemes,Debt Scheme - Liquid Fund,1108.2717,08-Aug-2026
+118906,HSBC Mutual Fund,HSBC Liquid Fund - IDCW,,INF336L01BK3,Open Ended Schemes,Debt Scheme - Liquid Fund,1019.4636,08-Aug-2026
+118907,HSBC Mutual Fund,HSBC Liquid Fund - Growth,INF336L01BL1,,Open Ended Schemes,Debt Scheme - Liquid Fund,4017.8338,08-Aug-2026
+118908,HSBC Mutual Fund,HSBC Liquid Fund - Weekly IDCW,,INF336L01BR8,Open Ended Schemes,Debt Scheme - Liquid Fund,1002.0336,08-Aug-2026
+118909,HSBC Mutual Fund,HSBC Liquid Fund - Institutional Daily IDCW,,INF336L01BS6,Open Ended Schemes,Debt Scheme - Liquid Fund,1563.0771,08-Aug-2026
 118921,DSP Mutual Fund,DSP Bond Fund - Direct Plan - IDCW - Monthly,INF740K01NA4,INF740K01NC0,Open Ended Schemes,Debt Scheme - Medium Duration Fund,11.3149,07-Aug-2026
 118922,DSP Mutual Fund,DSP Bond Fund - Direct Plan - IDCW,INF740K01NB2,INF740K01ND8,Open Ended Schemes,Debt Scheme - Medium Duration Fund,11.8524,07-Aug-2026
 118924,DSP Mutual Fund,DSP Bond Fund - Direct Plan - Growth,INF740K01MZ3,,Open Ended Schemes,Debt Scheme - Medium Duration Fund,92.7194,07-Aug-2026
@@ -2048,7 +2048,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 119088,HDFC Mutual Fund,HDFC Liquid Fund - IDCW Weekly - Direct Plan,,,Open Ended Schemes,Debt Scheme - Liquid Fund,1031.8687,07-Aug-2026
 119089,HDFC Mutual Fund,HDFC Liquid Fund - IDCW Daily - Direct Plan,,INF179KB1HV7,Open Ended Schemes,Debt Scheme - Liquid Fund,1019.82,07-Aug-2026
 119090,HDFC Mutual Fund,HDFC Liquid Fund - IDCW Monthly - Direct Plan,INF179KB1HO2,INF179KB1HQ7,Open Ended Schemes,Debt Scheme - Liquid Fund,1028.4776,07-Aug-2026
-119091,HDFC Mutual Fund,HDFC Liquid Fund - Growth Option - Direct Plan,INF179KB1HP9,,Open Ended Schemes,Debt Scheme - Liquid Fund,5544.1339,07-Aug-2026
+119091,HDFC Mutual Fund,HDFC Liquid Fund - Growth Option - Direct Plan,INF179KB1HP9,,Open Ended Schemes,Debt Scheme - Liquid Fund,5545.0426,08-Aug-2026
 119092,HDFC Mutual Fund,HDFC Money Market Fund - Growth Option - Direct Plan,INF179KB1HU9,,Open Ended Schemes,Debt Scheme - Money Market Fund,6263.5512,07-Aug-2026
 119093,HDFC Mutual Fund,HDFC Money Market Fund - Daily IDCW Option - Direct Plan,,INF179KB1HZ8,Open Ended Schemes,Debt Scheme - Money Market Fund,1063.64,07-Aug-2026
 119094,HDFC Mutual Fund,HDFC Money Market Fund - Weekly IDCW Option -Direct Plan,INF179KB1IA9,INF179KB1IB7,Open Ended Schemes,Debt Scheme - Money Market Fund,1063.6738,07-Aug-2026
@@ -2063,15 +2063,15 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 119107,DSP Mutual Fund,DSP Savings Fund - Direct Plan - IDCW - Monthly,INF740K01NT4,INF740K01NW8,Open Ended Schemes,Debt Scheme - Money Market Fund,11.0657,07-Aug-2026
 119108,DSP Mutual Fund,DSP Savings Fund - Direct Plan - IDCW,INF740K01NV0,INF740K01NX6,Open Ended Schemes,Debt Scheme - Money Market Fund,12.5973,07-Aug-2026
 119109,HDFC Mutual Fund,HDFC Overnight Fund - Daily IDCW Option - Direct Plan,,INF179KB1HY1,Open Ended Schemes,Debt Scheme - Overnight Fund,1042.66,07-Aug-2026
-119110,HDFC Mutual Fund,HDFC Overnight Fund - Growth Option - Direct Plan,INF179KB1HT1,,Open Ended Schemes,Debt Scheme - Overnight Fund,4065.1449,07-Aug-2026
+119110,HDFC Mutual Fund,HDFC Overnight Fund - Growth Option - Direct Plan,INF179KB1HT1,,Open Ended Schemes,Debt Scheme - Overnight Fund,4065.6976,08-Aug-2026
 119115,HDFC Mutual Fund,HDFC Gilt Fund - IDCW Option - Direct Plan,INF179K01VR2,INF179K01VT8,Open Ended Schemes,Debt Scheme - Gilt Fund,13.1363,07-Aug-2026
 119116,HDFC Mutual Fund,HDFC Gilt Fund - Growth Option - Direct Plan,INF179K01VS0,,Open Ended Schemes,Debt Scheme - Gilt Fund,60.9213,07-Aug-2026
 119118,HDFC Mutual Fund,HDFC Hybrid Debt Fund - Growth Option - Direct Plan,INF179K01XE6,,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund,90.3989,07-Aug-2026
 119119,HDFC Mutual Fund,HDFC Hybrid Debt Fund - IDCW Monthly - Direct Plan,INF179K01XF3,INF179K01XG1,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund,15.228,07-Aug-2026
 119120,HDFC Mutual Fund,HDFC Hybrid Debt Fund - IDCW Quarterly - Direct Plan,INF179K01XH9,INF179K01XI7,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund,16.1293,07-Aug-2026
-119123,DSP Mutual Fund,DSP Liquidity Fund - Direct Plan - IDCW - Weekly,INF740KA1OC4,INF740KA1OD2,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.6415,07-Aug-2026
-119124,DSP Mutual Fund,DSP Liquidity Fund - Direct Plan - IDCW - Daily,,INF740KA1OB6,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.4663,07-Aug-2026
-119125,DSP Mutual Fund,DSP Liquidity Fund - Direct Plan - Growth,INF740K01QL4,,Open Ended Schemes,Debt Scheme - Liquid Fund,4038.9413,07-Aug-2026
+119123,DSP Mutual Fund,DSP Liquidity Fund - Direct Plan - IDCW - Weekly,INF740KA1OC4,INF740KA1OD2,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.8068,08-Aug-2026
+119124,DSP Mutual Fund,DSP Liquidity Fund - Direct Plan - IDCW - Daily,,INF740KA1OB6,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.6316,08-Aug-2026
+119125,DSP Mutual Fund,DSP Liquidity Fund - Direct Plan - Growth,INF740K01QL4,,Open Ended Schemes,Debt Scheme - Liquid Fund,4039.6080,08-Aug-2026
 119126,Tata Mutual Fund,Tata Medium Term Fund- Direct Plan - Payout of IDCW Option,INF277K01PG9,INF277K01PH7,Open Ended Schemes,Debt Scheme - Medium Duration Fund,15.2302,23-Sep-2022
 119127,Tata Mutual Fund,Tata Medium Term Fund- Direct Plan- Growth Option,INF277K01PI5,,Open Ended Schemes,Debt Scheme - Medium Duration Fund,32.7645,23-Sep-2022
 119128,HDFC Mutual Fund,HDFC Equity Savings Fund - Growth Option - Direct Plan,INF179K01XT4,,Open Ended Schemes,Hybrid Scheme - Equity Savings,77.219,07-Aug-2026
@@ -2081,11 +2081,11 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 119132,HDFC Mutual Fund,HDFC Gold ETF Fund of Fund - Direct Plan,INF179K01VX0,,Open Ended Schemes,Other Scheme - FoF Domestic,46.5187,07-Aug-2026
 119133,Groww Mutual Fund,Groww Largecap Fund (formerly known as Indiabulls Blue Chip Fund) - Direct Plan - Growth Option,INF666M01600,,Open Ended Schemes,Equity Schemes - Large Cap Fund,53.13,07-Aug-2026
 119134,Groww Mutual Fund,Groww Largecap Fund (formerly known as Indiabulls Bluechip Fund)- Direct Plan- - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01626,INF666M01618,Open Ended Schemes,Equity Schemes - Large Cap Fund,30.77,07-Aug-2026
-119135,Groww Mutual Fund,Groww Liquid Fund ( formerly known as Indiabulls Liquid )Fund - Direct Plan - Growth Option,INF666M01451,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,2737.0063,07-Aug-2026
-119136,Groww Mutual Fund,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund) - Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment),,INF666M01469,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1002.0907,07-Aug-2026
-119137,Groww Mutual Fund,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01527,INF666M01477,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1002.5544,07-Aug-2026
-119138,Groww Mutual Fund,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01501,INF666M01485,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1003.8504,07-Aug-2026
-119139,Groww Mutual Fund,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01519,INF666M01493,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1030.153,07-Aug-2026
+119135,Groww Mutual Fund,Groww Liquid Fund ( formerly known as Indiabulls Liquid )Fund - Direct Plan - Growth Option,INF666M01451,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,2737.479,08-Aug-2026
+119136,Groww Mutual Fund,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund) - Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment),,INF666M01469,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1002.2656,08-Aug-2026
+119137,Groww Mutual Fund,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01527,INF666M01477,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1002.7276,08-Aug-2026
+119138,Groww Mutual Fund,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01501,INF666M01485,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1004.0238,08-Aug-2026
+119139,Groww Mutual Fund,Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01519,INF666M01493,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1030.331,08-Aug-2026
 119159,Tata Mutual Fund,Tata Large Cap Fund- Direct Plan - Payout of IDCW Option,INF277K01QX2,INF277K01QY0,Open Ended Schemes,Equity Scheme - Large Cap Fund,127.7966,07-Aug-2026
 119160,Tata Mutual Fund,Tata Large Cap Fund -Direct Plan Growth Option,INF277K01QZ7,,Open Ended Schemes,Equity Scheme - Large Cap Fund,602.4730,07-Aug-2026
 119161,Navi Mutual Fund,Navi Liquid Fund - Direct Plan Monthly IDCW - Payout,INF959L01GG9,INF959L01GH7,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0271,09-Aug-2026
@@ -2336,8 +2336,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 119757,Kotak Mahindra Mutual Fund,Kotak Gilt-Investment  Provident Fund and Trust-Growth - Direct,INF174K01KM7,,Open Ended Schemes,Debt Scheme - Gilt Fund,114.9334,07-Aug-2026
 119758,Kotak Mahindra Mutual Fund,Kotak Gilt-Investment Regular-Payout of Income Distribution cum capital withdrawal option - Direct,INF174K01KF1,,Open Ended Schemes,Debt Scheme - Gilt Fund,24.6929,07-Aug-2026
 119759,Kotak Mahindra Mutual Fund,Kotak Gilt-Investment Regular-Growth - Direct,INF174K01KE4,,Open Ended Schemes,Debt Scheme - Gilt Fund,112.2139,07-Aug-2026
-119764,Kotak Mahindra Mutual Fund,Kotak Liquid Fund - Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option,,INF174K01NH1,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1222.81,07-Aug-2026
-119766,Kotak Mahindra Mutual Fund,Kotak Liquid Fund - Direct Plan - Growth,INF174K01NE8,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,5704.5307,07-Aug-2026
+119764,Kotak Mahindra Mutual Fund,Kotak Liquid Fund - Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option,,INF174K01NH1,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1223.01,08-Aug-2026
+119766,Kotak Mahindra Mutual Fund,Kotak Liquid Fund - Direct Plan - Growth,INF174K01NE8,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,5705.464,08-Aug-2026
 119767,Kotak Mahindra Mutual Fund,Kotak Aggressive Hybrid Fund - Direct Plan - IDCW - Payout & Reinvestment of Income Distribution cum  capital withdrawal option,INF174K01LL7,INF174K01LM5,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund,48.431,07-Aug-2026
 119768,Kotak Mahindra Mutual Fund,Kotak Contra Fund - Direct Plan - IDCW -Payout & Re-investment of Income Distribution cum capital withdrawal option- Direct,INF174K01LA0,INF174K01LB8,Open Ended Schemes,Equity Scheme - Contra Fund,66.597,07-Aug-2026
 119769,Kotak Mahindra Mutual Fund,Kotak Contra Fund - Direct Plan - Growth,INF174K01KZ9,,Open Ended Schemes,Equity Scheme - Contra Fund,187.149,07-Aug-2026
@@ -2417,10 +2417,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 120030,HSBC Mutual Fund,HSBC Large Cap Fund - Direct Growth,INF336L01CM7,,Open Ended Schemes,Equity Scheme - Large Cap Fund,546.5573,07-Aug-2026
 120035,HSBC Mutual Fund,HSBC Brazil Fund - Growth Direct,INF336L01BY4,,Open Ended Schemes,Other Scheme - FoF Overseas,11.1783,07-Aug-2026
 120036,HSBC Mutual Fund,HSBC Brazil Fund - IDCW Direct Plan,INF336L01BW8,INF336L01BX6,Open Ended Schemes,Other Scheme - FoF Overseas,11.1686,07-Aug-2026
-120037,HSBC Mutual Fund,HSBC Liquid Fund - Direct Daily IDCW,,INF336L01CB0,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.576,07-Aug-2026
-120038,HSBC Mutual Fund,HSBC Liquid Fund -  Growth Direct,INF336L01CC8,,Open Ended Schemes,Debt Scheme - Liquid Fund,2813.1066,07-Aug-2026
-120039,HSBC Mutual Fund,HSBC Liquid Fund - Direct Monthly IDCW,INF336L01BZ1,INF336L01CA2,Open Ended Schemes,Debt Scheme - Liquid Fund,1040.0223,07-Aug-2026
-120040,HSBC Mutual Fund,HSBC Liquid Fund - Direct Weekly IDCW,INF336L01LK2,INF336L01CD6,Open Ended Schemes,Debt Scheme - Liquid Fund,1195.8425,07-Aug-2026
+120037,HSBC Mutual Fund,HSBC Liquid Fund - Direct Daily IDCW,,INF336L01CB0,Open Ended Schemes,Debt Scheme - Liquid Fund,1001.7392,08-Aug-2026
+120038,HSBC Mutual Fund,HSBC Liquid Fund -  Growth Direct,INF336L01CC8,,Open Ended Schemes,Debt Scheme - Liquid Fund,2813.5655,08-Aug-2026
+120039,HSBC Mutual Fund,HSBC Liquid Fund - Direct Monthly IDCW,INF336L01BZ1,INF336L01CA2,Open Ended Schemes,Debt Scheme - Liquid Fund,1040.1919,08-Aug-2026
+120040,HSBC Mutual Fund,HSBC Liquid Fund - Direct Weekly IDCW,INF336L01LK2,INF336L01CD6,Open Ended Schemes,Debt Scheme - Liquid Fund,1196.0375,08-Aug-2026
 120043,HSBC Mutual Fund,HSBC Global Emerging Market Fund - Growth Direct,INF336L01CJ3,,Open Ended Schemes,Other Scheme - FoF Overseas,37.0377,07-Aug-2026
 120044,HSBC Mutual Fund,HSBC Global Emerging Markets Fund - IDCW Direct Plan,INF336L01CH7,INF336L01CI5,Open Ended Schemes,Other Scheme - FoF Overseas,29.2011,07-Aug-2026
 120045,HSBC Mutual Fund,HSBC Flexi Cap Fund - Direct IDCW,INF336L01DF9,INF336L01DG7,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,48.0729,07-Aug-2026
@@ -2882,10 +2882,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 120833,quant Mutual Fund,quant Infrastructure Fund - Growth Option-Direct Plan,INF966L01721,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,46.2448,07-Aug-2026
 120834,quant Mutual Fund,quant Focused Fund - Growth Option-Direct Plan,INF966L01853,,Open Ended Schemes,Equity Scheme - Focused Fund,105.7967,07-Aug-2026
 120835,quant Mutual Fund,quant Focused Fund - IDCW Option - Direct Plan,INF966L01838,INF966L01846,Open Ended Schemes,Equity Scheme - Focused Fund,61.8451,07-Aug-2026
-120836,quant Mutual Fund,quant Liquid Fund-Daily IDCW Option - Direct Plan,,INF966L01770,Open Ended Schemes,Debt Scheme - Liquid Fund,13.1662,07-Aug-2026
-120837,quant Mutual Fund,quant Liquid Fund - Growth Option - Direct Plan,INF966L01820,,Open Ended Schemes,Debt Scheme - Liquid Fund,45.2143,07-Aug-2026
-120838,quant Mutual Fund,quant Liquid Fund - Monthly IDCW Option - Direct Plan,INF966L01796,INF966L01812,Open Ended Schemes,Debt Scheme - Liquid Fund,15.778,07-Aug-2026
-120839,quant Mutual Fund,quant Liquid Fund - Weekly IDCW Option - Direct Plan,INF966L01788,INF966L01804,Open Ended Schemes,Debt Scheme - Liquid Fund,14.7016,07-Aug-2026
+120836,quant Mutual Fund,quant Liquid Fund-Daily IDCW Option - Direct Plan,,INF966L01770,Open Ended Schemes,Debt Scheme - Liquid Fund,13.1703,09-Aug-2026
+120837,quant Mutual Fund,quant Liquid Fund - Growth Option - Direct Plan,INF966L01820,,Open Ended Schemes,Debt Scheme - Liquid Fund,45.2287,09-Aug-2026
+120838,quant Mutual Fund,quant Liquid Fund - Monthly IDCW Option - Direct Plan,INF966L01796,INF966L01812,Open Ended Schemes,Debt Scheme - Liquid Fund,15.783,09-Aug-2026
+120839,quant Mutual Fund,quant Liquid Fund - Weekly IDCW Option - Direct Plan,INF966L01788,INF966L01804,Open Ended Schemes,Debt Scheme - Liquid Fund,14.7062,09-Aug-2026
 120840,quant Mutual Fund,quant Mid Cap Fund - IDCW Option - Direct Plan,INF966L01861,INF966L01879,Open Ended Schemes,Equity Scheme - Mid Cap Fund,89.9151,07-Aug-2026
 120841,quant Mutual Fund,quant Mid Cap Fund - Growth Option - Direct Plan,INF966L01887,,Open Ended Schemes,Equity Scheme - Mid Cap Fund,255.9932,07-Aug-2026
 120842,quant Mutual Fund,quant Flexi Cap Fund - IDCW Option - Direct Plan,INF966L01895,INF966L01903,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,84.3519,07-Aug-2026
@@ -5614,19 +5614,19 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 138282,PGIM India Mutual Fund,PGIM India Insta Cash Fund-Institutional Plan-Growth,INF223J01BB6,,Open Ended Schemes,Debt Scheme - Liquid Fund,26.2743,28-Jul-2019
 138283,PGIM India Mutual Fund,PGIM India Insta Cash Fund-Institutional Plan-Daily Dividend,INF223J01BA8,,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0516,28-Jul-2019
 138284,PGIM India Mutual Fund,PGIM India INSTA CASH FUND - Regular Plan BONUS OPTION,INF223J01BH3,,Open Ended Schemes,Debt Scheme - Liquid Fund,13.7989,11-Sep-2018
-138285,PGIM India Mutual Fund,PGIM India Liquid Fund - Daily Dividend,,INF223J01BO9,Open Ended Schemes,Debt Scheme - Liquid Fund,100.304,08-Aug-2026
+138285,PGIM India Mutual Fund,PGIM India Liquid Fund - Daily Dividend,,INF223J01BO9,Open Ended Schemes,Debt Scheme - Liquid Fund,100.304,09-Aug-2026
 138286,PGIM India Mutual Fund,PGIM India Liquid Fund - Bonus Option,INF223J01BQ4,,Open Ended Schemes,Debt Scheme - Liquid Fund,186.8975,21-Jan-2022
-138287,PGIM India Mutual Fund,PGIM India Liquid Fund - Monthly Dividend,INF223J01BL5,,Open Ended Schemes,Debt Scheme - Liquid Fund,116.4436,08-Aug-2026
-138288,PGIM India Mutual Fund,PGIM India Liquid Fund - Growth,INF223J01BP6,,Open Ended Schemes,Debt Scheme - Liquid Fund,363.7603,08-Aug-2026
-138289,PGIM India Mutual Fund,PGIM India Liquid Fund - Weekly Dividend,INF223J01BU6,,Open Ended Schemes,Debt Scheme - Liquid Fund,100.5208,08-Aug-2026
+138287,PGIM India Mutual Fund,PGIM India Liquid Fund - Monthly Dividend,INF223J01BL5,,Open Ended Schemes,Debt Scheme - Liquid Fund,116.4626,09-Aug-2026
+138288,PGIM India Mutual Fund,PGIM India Liquid Fund - Growth,INF223J01BP6,,Open Ended Schemes,Debt Scheme - Liquid Fund,363.8197,09-Aug-2026
+138289,PGIM India Mutual Fund,PGIM India Liquid Fund - Weekly Dividend,INF223J01BU6,,Open Ended Schemes,Debt Scheme - Liquid Fund,100.5372,09-Aug-2026
 138292,PGIM India Mutual Fund,PGIM India Insta Cash Fund- Annual Dividend Option,INF223J01IP1,INF223J01IQ9,Open Ended Schemes,Debt Scheme - Liquid Fund,144.7569,28-Jul-2019
 138294,PGIM India Mutual Fund,PGIM India Insta Cash Fund - Quarterly Dividend Option,INF223J01IN6,INF223J01IO4,Open Ended Schemes,Debt Scheme - Liquid Fund,143.9385,28-Jul-2019
 138296,PGIM India Mutual Fund,PGIM India Insta Cash Fund - Direct Plan - Annual Dividend,INF223J01NO4,INF223J01NP1,Open Ended Schemes,Debt Scheme - Liquid Fund,144.7765,28-Jul-2019
-138297,PGIM India Mutual Fund,PGIM India Liquid Fund - Direct Plan - Daily Dividend,INF223J01NR7,,Open Ended Schemes,Debt Scheme - Liquid Fund,131.3449,08-Aug-2026
-138298,PGIM India Mutual Fund,PGIM India Liquid Fund - Direct Plan - Monthly Dividend,INF223J01NT3,INF223J01NU1,Open Ended Schemes,Debt Scheme - Liquid Fund,116.0262,08-Aug-2026
-138299,PGIM India Mutual Fund,PGIM India Liquid Fund - Direct Plan - Growth,INF223J01NS5,,Open Ended Schemes,Debt Scheme - Liquid Fund,368.5461,08-Aug-2026
+138297,PGIM India Mutual Fund,PGIM India Liquid Fund - Direct Plan - Daily Dividend,INF223J01NR7,,Open Ended Schemes,Debt Scheme - Liquid Fund,131.3668,09-Aug-2026
+138298,PGIM India Mutual Fund,PGIM India Liquid Fund - Direct Plan - Monthly Dividend,INF223J01NT3,INF223J01NU1,Open Ended Schemes,Debt Scheme - Liquid Fund,116.0455,09-Aug-2026
+138299,PGIM India Mutual Fund,PGIM India Liquid Fund - Direct Plan - Growth,INF223J01NS5,,Open Ended Schemes,Debt Scheme - Liquid Fund,368.6074,09-Aug-2026
 138300,PGIM India Mutual Fund,PGIM India Insta Cash Fund - Direct Plan - Quarterly Dividend,INF223J01NX5,,Open Ended Schemes,Debt Scheme - Liquid Fund,145.6889,28-Jul-2019
-138301,PGIM India Mutual Fund,PGIM India Liquid Fund - Direct Plan - Weekly Dividend,INF223J01NV9,INF223J01NW7,Open Ended Schemes,Debt Scheme - Liquid Fund,100.5212,08-Aug-2026
+138301,PGIM India Mutual Fund,PGIM India Liquid Fund - Direct Plan - Weekly Dividend,INF223J01NV9,INF223J01NW7,Open Ended Schemes,Debt Scheme - Liquid Fund,100.5379,09-Aug-2026
 138302,PGIM India Mutual Fund,PGIM India Insta Cash Fund - Direct Plan -  Regular Bonus,INF223J01NQ9,,Open Ended Schemes,Debt Scheme - Liquid Fund,138.2962,01-Aug-2016
 138303,PGIM India Mutual Fund,PGIM India Insta Cash Fund - Direct Plan -Monthly Bonus,INF223J01VE8,,Open Ended Schemes,Debt Scheme - Liquid Fund,132.9596,01-Aug-2016
 138304,PGIM India Mutual Fund,PGIM India INSTA CASH FUND-Monthly Bonus Option,INF223J01VD0,,Open Ended Schemes,Debt Scheme - Liquid Fund,140.0664,28-Jul-2019
@@ -8553,12 +8553,12 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 146057,HDFC Mutual Fund,HDFC FMP 1190D January 2019 (1) - Quarterly IDCW Option - Direct Plan,INF179KC1080,,Close Ended Schemes,Income,10,12-Apr-2022
 146058,HDFC Mutual Fund,HDFC FMP 1190D January 2019 (1) - Growth Option,INF179KC1098,,Close Ended Schemes,Income,12.7474,12-Apr-2022
 146059,HDFC Mutual Fund,HDFC FMP 1190D January 2019 (1) - Quarterly IDCW Option,INF179KC1114,,Close Ended Schemes,Income,10,12-Apr-2022
-146061,DSP Mutual Fund,DSP Overnight Fund - Regular Plan - Growth,INF740KA1MB0,,Open Ended Schemes,Debt Scheme - Overnight Fund,1460.1774,07-Aug-2026
-146062,DSP Mutual Fund,DSP Overnight Fund - Direct Plan - Growth,INF740KA1MC8,,Open Ended Schemes,Debt Scheme - Overnight Fund,1469.0116,07-Aug-2026
-146063,DSP Mutual Fund,DSP Overnight Fund - Regular Plan - IDCW - Weekly,INF740KA1OV4,INF740KA1OW2,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.6304,07-Aug-2026
+146061,DSP Mutual Fund,DSP Overnight Fund - Regular Plan - Growth,INF740KA1MB0,,Open Ended Schemes,Debt Scheme - Overnight Fund,1460.3746,08-Aug-2026
+146062,DSP Mutual Fund,DSP Overnight Fund - Direct Plan - Growth,INF740KA1MC8,,Open Ended Schemes,Debt Scheme - Overnight Fund,1469.2129,08-Aug-2026
+146063,DSP Mutual Fund,DSP Overnight Fund - Regular Plan - IDCW - Weekly,INF740KA1OV4,INF740KA1OW2,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.7704,08-Aug-2026
 146064,DSP Mutual Fund,DSP Overnight Fund - Direct Plan - IDCW - Weekly,INF740KA1OS0,INF740KA1OT8,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.8946,22-May-2023
-146065,DSP Mutual Fund,DSP Overnight Fund - Direct Plan - IDCW - Daily,,INF740KA1OR2,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.0099,07-Aug-2026
-146066,DSP Mutual Fund,DSP Overnight Fund - Regular Plan - IDCW - Daily,,INF740KA1OU6,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.0099,07-Aug-2026
+146065,DSP Mutual Fund,DSP Overnight Fund - Direct Plan - IDCW - Daily,,INF740KA1OR2,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.1469,08-Aug-2026
+146066,DSP Mutual Fund,DSP Overnight Fund - Regular Plan - IDCW - Daily,,INF740KA1OU6,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.1181,08-Aug-2026
 146067,Tata Mutual Fund,TATA Ultra Short Term Fund-Direct Plan - Weekly Payout of Income Distribution cum capital withdrawal option,INF277K014T4,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund,10.4111,07-Aug-2026
 146068,Tata Mutual Fund,TATA Ultra Short Term Fund Direct Plan - Weekly Reinvestment of Income Distribution cum capital withdrawal option,,INF277K015T1,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund,10.4111,07-Aug-2026
 146069,Tata Mutual Fund,TATA Ultra Short Term Fund-Direct Plan - Monthly Payout of Income Distribution cum capital withdrawal option,INF277K012T8,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund,16.0684,07-Aug-2026
@@ -8589,10 +8589,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 146128,Canara Robeco Mutual Fund,CANARA ROBECO SMALL CAP FUND - REGULAR PLAN - IDCW (Payout/Reinvestment),INF760K01JG7,INF760K01JH5,Open Ended Schemes,Equity Scheme - Small Cap Fund,35.2400,07-Aug-2026
 146130,Canara Robeco Mutual Fund,CANARA ROBECO SMALL CAP FUND - DIRECT PLAN - GROWTH OPTION,INF760K01JC6,,Open Ended Schemes,Equity Scheme - Small Cap Fund,46.0500,07-Aug-2026
 146131,Canara Robeco Mutual Fund,CANARA ROBECO SMALL CAP FUND - DIRECT PLAN - IDCW (Payout/Reinvestment),INF760K01JD4,INF760K01JE2,Open Ended Schemes,Equity Scheme - Small Cap Fund,39.8900,07-Aug-2026
-146138,Kotak Mahindra Mutual Fund,Kotak Overnight Fund-Regular Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option,,INF174KA1BB8,Open Ended Schemes,Debt Scheme - Overnight Fund,1004.7568,07-Aug-2026
-146140,Kotak Mahindra Mutual Fund,Kotak Overnight Fund-Direct Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option,,INF174KA1BE2,Open Ended Schemes,Debt Scheme - Overnight Fund,1003.6055,07-Aug-2026
-146141,Kotak Mahindra Mutual Fund,Kotak Overnight Fund -Direct Plan-Growth Option,INF174KA1BF9,,Open Ended Schemes,Debt Scheme - Overnight Fund,1463.2847,07-Aug-2026
-146142,Kotak Mahindra Mutual Fund,Kotak Overnight Fund -Regular plan-Growth Option,INF174KA1BC6,,Open Ended Schemes,Debt Scheme - Overnight Fund,1453.1803,07-Aug-2026
+146138,Kotak Mahindra Mutual Fund,Kotak Overnight Fund-Regular Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option,,INF174KA1BB8,Open Ended Schemes,Debt Scheme - Overnight Fund,1004.8898,08-Aug-2026
+146140,Kotak Mahindra Mutual Fund,Kotak Overnight Fund-Direct Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option,,INF174KA1BE2,Open Ended Schemes,Debt Scheme - Overnight Fund,1003.7423,08-Aug-2026
+146141,Kotak Mahindra Mutual Fund,Kotak Overnight Fund -Direct Plan-Growth Option,INF174KA1BF9,,Open Ended Schemes,Debt Scheme - Overnight Fund,1463.4842,08-Aug-2026
+146142,Kotak Mahindra Mutual Fund,Kotak Overnight Fund -Regular plan-Growth Option,INF174KA1BC6,,Open Ended Schemes,Debt Scheme - Overnight Fund,1453.3742,08-Aug-2026
 146144,HDFC Mutual Fund,HDFC FMP 1182D January 2019 (1) - Quarterly IDCW Option,INF179KC1171,,Close Ended Schemes,Income,10,12-Apr-2022
 146145,HDFC Mutual Fund,HDFC FMP 1182D January 2019 (1) - Growth Option - Direct Plan,INF179KC1122,,Close Ended Schemes,Income,12.8188,12-Apr-2022
 146146,HDFC Mutual Fund,HDFC FMP 1182D January 2019 (1) - IDCW Option,INF179KC1163,,Close Ended Schemes,Income,10,12-Apr-2022
@@ -8936,13 +8936,13 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 146954,Sundaram Mutual Fund,Sundaram Overnight Fund Regular Plan - Weekly Payout of Income Distribution cum Capital Withdrawal (IDCW),INF903JA1HD2,,Open Ended Schemes,Debt Scheme - Overnight Fund,1048.3636,13-Sep-2024
 146955,Sundaram Mutual Fund,Sundaram Overnight Fund Direct Plan - Weekly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),INF903JA1HK7,,Open Ended Schemes,Debt Scheme - Overnight Fund,1049.5696,13-Sep-2024
 146956,Sundaram Mutual Fund,Sundaram Overnight Fund Direct Plan - Fortnightly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),INF903JA1HL5,,Open Ended Schemes,Debt Scheme - Overnight Fund,1067.4522,13-Sep-2024
-146957,Sundaram Mutual Fund,Sundaram Overnight Fund Direct Plan - Monthly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),,INF903JA1HM3,Open Ended Schemes,Debt Scheme - Overnight Fund,1052.6858,07-Aug-2026
+146957,Sundaram Mutual Fund,Sundaram Overnight Fund Direct Plan - Monthly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),,INF903JA1HM3,Open Ended Schemes,Debt Scheme - Overnight Fund,1052.8287,08-Aug-2026
 146958,Sundaram Mutual Fund,Sundaram Overnight Fund Regular Plan - Fortnightly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),INF903JA1HE0,,Open Ended Schemes,Debt Scheme - Overnight Fund,1068.8381,13-Sep-2024
-146959,Sundaram Mutual Fund,Sundaram Overnight Fund Regular Plan - Growth,INF903JA1GZ7,,Open Ended Schemes,Debt Scheme - Overnight Fund,1446.0835,07-Aug-2026
-146960,Sundaram Mutual Fund,Sundaram Overnight Fund Regular Plan - Monthly Payout of Income Distribution cum Capital Withdrawal (IDCW),INF903JA1HA8,,Open Ended Schemes,Debt Scheme - Overnight Fund,1047.3721,07-Aug-2026
-146961,Sundaram Mutual Fund,Sundaram Overnight Fund Regular Plan - Monthly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),,INF903JA1HF7,Open Ended Schemes,Debt Scheme - Overnight Fund,1047.3721,07-Aug-2026
-146962,Sundaram Mutual Fund,Sundaram Overnight Fund Direct Plan - Monthly Payout of Income Distribution cum Capital Withdrawal (IDCW),INF903JA1HH3,,Open Ended Schemes,Debt Scheme - Overnight Fund,1052.6858,07-Aug-2026
-146963,Sundaram Mutual Fund,Sundaram Overnight Fund Direct Plan - Growth,INF903JA1HG5,,Open Ended Schemes,Debt Scheme - Overnight Fund,1456.5137,07-Aug-2026
+146959,Sundaram Mutual Fund,Sundaram Overnight Fund Regular Plan - Growth,INF903JA1GZ7,,Open Ended Schemes,Debt Scheme - Overnight Fund,1446.2759,08-Aug-2026
+146960,Sundaram Mutual Fund,Sundaram Overnight Fund Regular Plan - Monthly Payout of Income Distribution cum Capital Withdrawal (IDCW),INF903JA1HA8,,Open Ended Schemes,Debt Scheme - Overnight Fund,1047.5115,08-Aug-2026
+146961,Sundaram Mutual Fund,Sundaram Overnight Fund Regular Plan - Monthly Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),,INF903JA1HF7,Open Ended Schemes,Debt Scheme - Overnight Fund,1047.5115,08-Aug-2026
+146962,Sundaram Mutual Fund,Sundaram Overnight Fund Direct Plan - Monthly Payout of Income Distribution cum Capital Withdrawal (IDCW),INF903JA1HH3,,Open Ended Schemes,Debt Scheme - Overnight Fund,1052.8287,08-Aug-2026
+146963,Sundaram Mutual Fund,Sundaram Overnight Fund Direct Plan - Growth,INF903JA1HG5,,Open Ended Schemes,Debt Scheme - Overnight Fund,1456.7115,08-Aug-2026
 146964,Sundaram Mutual Fund,Sundaram Overnight Fund Direct Plan - Daily Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),INF903JA1HJ9,,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.0300,13-Sep-2024
 146973,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 1 (3668 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1C95,,Close Ended Schemes,Income,17.5261,07-Aug-2026
 146974,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 1 (3668 Days) - Direct Plan - Growth,INF200KA1D03,,Close Ended Schemes,Income,17.7523,07-Aug-2026
@@ -9054,14 +9054,14 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 147266,Kotak Mahindra Mutual Fund,KOTAK FLOATING RATE FUND-REGULAR PLAN-GROWTH OPTION,INF174KA1DY6,,Open Ended Schemes,Debt Scheme - Floater Fund,1618.6412,07-Aug-2026
 147267,Kotak Mahindra Mutual Fund,KOTAK FLOATING RATE FUND-DIRECT PLAN-Standard Reinvestment of Income Distribution cum capital withdrawal option,,INF174KA1EF3,Open Ended Schemes,Debt Scheme - Floater Fund,1449.6884,07-Aug-2026
 147269,Kotak Mahindra Mutual Fund,KOTAK FLOATING RATE FUND-DIRECT PLAN-GROWTH OPTION,INF174KA1EC0,,Open Ended Schemes,Debt Scheme - Floater Fund,1664.1006,07-Aug-2026
-147287,HSBC Mutual Fund,HSBC Overnight Fund - Direct Growth,INF336L01OF6,,Open Ended Schemes,Debt Scheme - Overnight Fund,1435.1639,07-Aug-2026
-147288,HSBC Mutual Fund,HSBC Overnight Fund - Regular Weekly IDCW,INF336L01OP5,INF336L01ON0,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.4412,07-Aug-2026
-147289,HSBC Mutual Fund,HSBC Overnight Fund - Regular Daily IDCW,,INF336L01OM2,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.0149,07-Aug-2026
-147290,HSBC Mutual Fund,HSBC Overnight Fund - Regular Growth,INF336L01OL4,,Open Ended Schemes,Debt Scheme - Overnight Fund,1422.7756,07-Aug-2026
-147291,HSBC Mutual Fund,HSBC Overnight Fund - Direct Daily IDCW,,INF336L01OG4,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.0149,07-Aug-2026
-147296,HSBC Mutual Fund,HSBC Overnight Fund - Direct Weekly IDCW,INF336L01OJ8,INF336L01OH2,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.4278,07-Aug-2026
-147300,HSBC Mutual Fund,HSBC Overnight Fund - Direct Monthly IDCW,INF336L01OK6,INF336L01OI0,Open Ended Schemes,Debt Scheme - Overnight Fund,1001.5355,07-Aug-2026
-147301,HSBC Mutual Fund,HSBC Overnight Fund - Regular Monthly IDCW,INF336L01OQ3,INF336L01OO8,Open Ended Schemes,Debt Scheme - Overnight Fund,1001.5105,07-Aug-2026
+147287,HSBC Mutual Fund,HSBC Overnight Fund - Direct Growth,INF336L01OF6,,Open Ended Schemes,Debt Scheme - Overnight Fund,1435.3593,08-Aug-2026
+147288,HSBC Mutual Fund,HSBC Overnight Fund - Regular Weekly IDCW,INF336L01OP5,INF336L01ON0,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.5751,08-Aug-2026
+147289,HSBC Mutual Fund,HSBC Overnight Fund - Regular Daily IDCW,,INF336L01OM2,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.1483,08-Aug-2026
+147290,HSBC Mutual Fund,HSBC Overnight Fund - Regular Growth,INF336L01OL4,,Open Ended Schemes,Debt Scheme - Overnight Fund,1422.9661,08-Aug-2026
+147291,HSBC Mutual Fund,HSBC Overnight Fund - Direct Daily IDCW,,INF336L01OG4,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.1452,08-Aug-2026
+147296,HSBC Mutual Fund,HSBC Overnight Fund - Direct Weekly IDCW,INF336L01OJ8,INF336L01OH2,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.5641,08-Aug-2026
+147300,HSBC Mutual Fund,HSBC Overnight Fund - Direct Monthly IDCW,INF336L01OK6,INF336L01OI0,Open Ended Schemes,Debt Scheme - Overnight Fund,1001.6718,08-Aug-2026
+147301,HSBC Mutual Fund,HSBC Overnight Fund - Regular Monthly IDCW,INF336L01OQ3,INF336L01OO8,Open Ended Schemes,Debt Scheme - Overnight Fund,1001.6446,08-Aug-2026
 147303,DSP Mutual Fund,DSP Quant Fund - Regular Plan - Growth,INF740KA1NN3,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,21.8410,07-Aug-2026
 147304,DSP Mutual Fund,DSP Quant Fund - Direct Plan - IDCW,INF740KA1NR4,INF740KA1NS2,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,17.5790,07-Aug-2026
 147305,DSP Mutual Fund,DSP Quant Fund - Regular Plan - IDCW,INF740KA1NO1,INF740KA1NP8,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,16.5860,07-Aug-2026
@@ -9142,16 +9142,16 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 147447,Mahindra Manulife Mutual Fund,Mahindra Manulife Aggressive Hybrid Fund - Regular Plan - Growth,INF174V01754,,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund,27.2677,07-Aug-2026
 147448,Mahindra Manulife Mutual Fund,Mahindra Manulife Aggressive Hybrid Fund - Direct Plan - Monthly IDCW,INF174V01804,INF174V01796,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund,21.3501,07-Aug-2026
 147449,Mahindra Manulife Mutual Fund,Mahindra Manulife Aggressive Hybrid Fund - Regular Plan - Monthly IDCW,INF174V01770,INF174V01762,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund,18.2122,07-Aug-2026
-147450,Groww Mutual Fund,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- Growth Option,INF666M01GL8,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1412.5477,07-Aug-2026
-147451,Groww Mutual Fund,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01GN4,INF666M01GO2,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1001.8966,07-Aug-2026
-147452,Groww Mutual Fund,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01GP9,INF666M01GQ7,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1216.5444,07-Aug-2026
-147453,Groww Mutual Fund,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01GR5,INF666M01GS3,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1001.9669,07-Aug-2026
-147454,Groww Mutual Fund,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- Growth Option,INF666M01GT1,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1403.1163,07-Aug-2026
-147455,Groww Mutual Fund,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment),,INF666M01GU9,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1001.0516,07-Aug-2026
-147456,Groww Mutual Fund,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01GV7,INF666M01GW5,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1001.5435,07-Aug-2026
-147457,Groww Mutual Fund,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01GX3,INF666M01GY1,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1002.3484,07-Aug-2026
-147458,Groww Mutual Fund,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment),,INF666M01GM6,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1001.5085,07-Aug-2026
-147459,Groww Mutual Fund,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01GZ8,INF666M01HA9,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1001.9631,07-Aug-2026
+147450,Groww Mutual Fund,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- Growth Option,INF666M01GL8,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1412.7361,08-Aug-2026
+147451,Groww Mutual Fund,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01GN4,INF666M01GO2,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1002.0307,08-Aug-2026
+147452,Groww Mutual Fund,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01GP9,INF666M01GQ7,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1216.7068,08-Aug-2026
+147453,Groww Mutual Fund,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01GR5,INF666M01GS3,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1002.1007,08-Aug-2026
+147454,Groww Mutual Fund,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- Growth Option,INF666M01GT1,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1403.299,08-Aug-2026
+147455,Groww Mutual Fund,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment),,INF666M01GU9,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1001.1869,08-Aug-2026
+147456,Groww Mutual Fund,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01GV7,INF666M01GW5,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1001.6741,08-Aug-2026
+147457,Groww Mutual Fund,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- Fortnightly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01GX3,INF666M01GY1,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1002.4791,08-Aug-2026
+147458,Groww Mutual Fund,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Direct Plan- - Income Distribution cum capital withdrawal Option ( Reinvestment),,INF666M01GM6,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1001.6429,08-Aug-2026
+147459,Groww Mutual Fund,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),INF666M01GZ8,INF666M01HA9,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1002.0936,08-Aug-2026
 147460,Nippon India Mutual Fund,NIPPON INDIA FIXED HORIZON FUND - XLI - SERIES 12 - IDCW Option,INF204KB12D7,,Close Ended Schemes,Income,12.7315,01-Aug-2022
 147461,Nippon India Mutual Fund,NIPPON INDIA FIXED HORIZON FUND - XLI - SERIES 12 - DIRECT Plan - IDCW Option,INF204KB14D3,,Close Ended Schemes,Income,12.9474,01-Aug-2022
 147462,Nippon India Mutual Fund,Nippon India Fixed Horizon Fund XLI - Series 12 - Growth Option,INF204KB11D9,,Close Ended Schemes,Income,12.7315,01-Aug-2022
@@ -9218,12 +9218,12 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 147577,Axis Mutual Fund,Axis Money Market Fund - Regular Plan - Daily IDCW,,INF846K01R53,Open Ended Schemes,Debt Scheme - Money Market Fund,1005.6127,07-Aug-2026
 147578,Axis Mutual Fund,Axis Money Market Fund - Regular Plan - Monthly IDCW,INF846K01R95,INF846K01R87,Open Ended Schemes,Debt Scheme - Money Market Fund,1008.2400,07-Aug-2026
 147579,Nippon India Mutual Fund,Nippon India ETF BSE Sensex Next 50,INF204KB15D0,,Open Ended Schemes,Other Scheme - Other  ETFs,94.3074,07-Aug-2026
-147600,PGIM India Mutual Fund,PGIM India Overnight Fund - Regular Plan- Growth Option,INF663L01T43,,Open Ended Schemes,Debt Scheme - Overnight Fund,1407.2372,08-Aug-2026
-147605,PGIM India Mutual Fund,PGIM India Overnight Fund - Direct Plan - Daily Dividend Option,,INF663L01T35,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.0088,08-Aug-2026
-147606,PGIM India Mutual Fund,PGIM India Overnight Fund - Direct Plan - Growth Option,INF663L01T01,,Open Ended Schemes,Debt Scheme - Overnight Fund,1413.6057,08-Aug-2026
-147607,PGIM India Mutual Fund,PGIM India Overnight Fund - Regular Plan - Weekly Dividend Option,INF663L01T50,INF663L01T68,Open Ended Schemes,Debt Scheme - Overnight Fund,1006.9105,08-Aug-2026
-147608,PGIM India Mutual Fund,PGIM India Overnight Fund - Direct Plan - Weekly Dividend Option,INF663L01T19,INF663L01T27,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.0302,08-Aug-2026
-147609,PGIM India Mutual Fund,PGIM India Overnight Fund - Regular Plan - Daily Dividend Option,,INF663L01T76,Open Ended Schemes,Debt Scheme - Overnight Fund,1000,08-Aug-2026
+147600,PGIM India Mutual Fund,PGIM India Overnight Fund - Regular Plan- Growth Option,INF663L01T43,,Open Ended Schemes,Debt Scheme - Overnight Fund,1407.4226,09-Aug-2026
+147605,PGIM India Mutual Fund,PGIM India Overnight Fund - Direct Plan - Daily Dividend Option,,INF663L01T35,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.0088,09-Aug-2026
+147606,PGIM India Mutual Fund,PGIM India Overnight Fund - Direct Plan - Growth Option,INF663L01T01,,Open Ended Schemes,Debt Scheme - Overnight Fund,1413.7929,09-Aug-2026
+147607,PGIM India Mutual Fund,PGIM India Overnight Fund - Regular Plan - Weekly Dividend Option,INF663L01T50,INF663L01T68,Open Ended Schemes,Debt Scheme - Overnight Fund,1007.0434,09-Aug-2026
+147608,PGIM India Mutual Fund,PGIM India Overnight Fund - Direct Plan - Weekly Dividend Option,INF663L01T19,INF663L01T27,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.6771,09-Aug-2026
+147609,PGIM India Mutual Fund,PGIM India Overnight Fund - Regular Plan - Daily Dividend Option,,INF663L01T76,Open Ended Schemes,Debt Scheme - Overnight Fund,1000,09-Aug-2026
 147614,Tata Mutual Fund,Tata Nifty Private Bank Exchange Traded Fund,INF277K010X4,,Open Ended Schemes,Other Scheme - Other  ETFs,284.1852,07-Aug-2026
 147615,ITI Mutual Fund,ITI Arbitrage Fund - Direct Plan - IDCW Option,INF00XX01457,INF00XX01465,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,14.5120,07-Aug-2026
 147616,ITI Mutual Fund,ITI Arbitrage Fund - Regular Plan - IDCW Option,INF00XX01424,INF00XX01432,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,13.7873,07-Aug-2026
@@ -10038,14 +10038,14 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 148822,ICICI Prudential Mutual Fund,ICICI Prudential Nifty 100 Low Volatility 30 ETF FOF - Direct Plan - Growth,INF109KC1P81,,Open Ended Schemes,Other Scheme - FoF Domestic,18.9917,07-Aug-2026
 148823,ICICI Prudential Mutual Fund,ICICI Prudential Nifty 100 Low Volatility 30 ETF FOF - Direct Plan - IDCW,INF109KC1Q07,INF109KC1P99,Open Ended Schemes,Other Scheme - FoF Domestic,18.9918,07-Aug-2026
 148824,ICICI Prudential Mutual Fund,ICICI Prudential Nifty 100 Low Volatility 30 ETF FOF - IDCW,INF109KC1P73,INF109KC1P65,Open Ended Schemes,Other Scheme - FoF Domestic,18.5516,07-Aug-2026
-148833,Trust Mutual Fund,TRUSTMF Liquid Fund-Regular Plan-Growth,INF0GCD01198,,Open Ended Schemes,Debt Scheme - Liquid Fund,1355.5856,07-Aug-2026
-148834,Trust Mutual Fund,TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal,,INF0GCD01206,Open Ended Schemes,Debt Scheme - Liquid Fund,1218.4280,07-Aug-2026
-148836,Trust Mutual Fund,TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal,INF0GCD01214,INF0GCD01222,Open Ended Schemes,Debt Scheme - Liquid Fund,1193.4441,07-Aug-2026
-148837,Trust Mutual Fund,TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal,INF0GCD01271,INF0GCD01289,Open Ended Schemes,Debt Scheme - Liquid Fund,1246.5507,07-Aug-2026
-148839,Trust Mutual Fund,TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal,INF0GCD01305,INF0GCD01297,Open Ended Schemes,Debt Scheme - Liquid Fund,1219.0194,07-Aug-2026
-148841,Trust Mutual Fund,TRUSTMF Liquid Fund-Direct Plan-Growth,INF0GCD01255,,Open Ended Schemes,Debt Scheme - Liquid Fund,1366.4926,07-Aug-2026
-148842,Trust Mutual Fund,TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal,,INF0GCD01263,Open Ended Schemes,Debt Scheme - Liquid Fund,1290.7454,07-Aug-2026
-148843,Trust Mutual Fund,TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal,INF0GCD01248,INF0GCD01230,Open Ended Schemes,Debt Scheme - Liquid Fund,1209.2750,07-Aug-2026
+148833,Trust Mutual Fund,TRUSTMF Liquid Fund-Regular Plan-Growth,INF0GCD01198,,Open Ended Schemes,Debt Scheme - Liquid Fund,1356.0174,09-Aug-2026
+148834,Trust Mutual Fund,TRUSTMF Liquid Fund-Regular Plan-Daily Income Distribution cum Capital Withdrawal,,INF0GCD01206,Open Ended Schemes,Debt Scheme - Liquid Fund,1218.6675,09-Aug-2026
+148836,Trust Mutual Fund,TRUSTMF Liquid Fund-Regular Plan-Weekly Income Distribution cum Capital Withdrawal,INF0GCD01214,INF0GCD01222,Open Ended Schemes,Debt Scheme - Liquid Fund,1193.8241,09-Aug-2026
+148837,Trust Mutual Fund,TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal,INF0GCD01271,INF0GCD01289,Open Ended Schemes,Debt Scheme - Liquid Fund,1246.9581,09-Aug-2026
+148839,Trust Mutual Fund,TRUSTMF Liquid Fund-Direct Plan-Monthly Income Distribution cum Capital Withdrawal,INF0GCD01305,INF0GCD01297,Open Ended Schemes,Debt Scheme - Liquid Fund,1219.4181,09-Aug-2026
+148841,Trust Mutual Fund,TRUSTMF Liquid Fund-Direct Plan-Growth,INF0GCD01255,,Open Ended Schemes,Debt Scheme - Liquid Fund,1366.9393,09-Aug-2026
+148842,Trust Mutual Fund,TRUSTMF Liquid Fund-Direct Plan-Daily Income Distribution cum Capital Withdrawal,,INF0GCD01263,Open Ended Schemes,Debt Scheme - Liquid Fund,1291.0246,09-Aug-2026
+148843,Trust Mutual Fund,TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal,INF0GCD01248,INF0GCD01230,Open Ended Schemes,Debt Scheme - Liquid Fund,1209.6602,09-Aug-2026
 148882,Canara Robeco Mutual Fund,Canara Robeco Focused Fund - Direct Plan - IDCW (Payout/Reinvestment),INF760K01JS2,INF760K01JR4,Open Ended Schemes,Equity Scheme - Focused Fund,18.5500,07-Aug-2026
 148883,Canara Robeco Mutual Fund,Canara Robeco Focused Fund - Direct Plan - Growth Option,INF760K01JQ6,,Open Ended Schemes,Equity Scheme - Focused Fund,21.8200,07-Aug-2026
 148884,Canara Robeco Mutual Fund,Canara Robeco Focused Fund - Regular Plan - Growth Option,INF760K01JT0,,Open Ended Schemes,Equity Scheme - Focused Fund,20.1300,07-Aug-2026
@@ -10373,10 +10373,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 149307,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 54 (1842 Days) - Direct Plan - Growth,INF200KA12B1,,Close Ended Schemes,Income,13.3274,07-Aug-2026
 149308,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 54 (1842 Days) - Regular Plan - Growth,INF200KA10B5,,Close Ended Schemes,Income,13.2525,07-Aug-2026
 149309,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 54 (1842 Days) - Direct Plan - Income Distribution Cum Withdrawal Option (IDCW),INF200KA13B9,,Close Ended Schemes,Income,13.3280,07-Aug-2026
-149310,DSP Mutual Fund,Unclaimed Redemption - Upto 3 years (Invested in DSP Overnight Fund),,,Open Ended Schemes,Debt Scheme - Overnight Fund,13.0856,07-Aug-2026
-149311,DSP Mutual Fund,Unclaimed Redemption - Beyond 3 years (Invested in DSP Overnight Fund),,,Open Ended Schemes,Debt Scheme - Overnight Fund,10.0000,07-Aug-2026
-149312,DSP Mutual Fund,Unclaimed IDCW - Upto 3 years (Invested in DSP Overnight Fund),,,Open Ended Schemes,Debt Scheme - Overnight Fund,13.0856,07-Aug-2026
-149313,DSP Mutual Fund,Unclaimed IDCW - Beyond 3 years (Invested in DSP Overnight Fund),,,Open Ended Schemes,Debt Scheme - Overnight Fund,10.0000,07-Aug-2026
+149310,DSP Mutual Fund,Unclaimed Redemption - Upto 3 years (Invested in DSP Overnight Fund),,,Open Ended Schemes,Debt Scheme - Overnight Fund,13.0874,08-Aug-2026
+149311,DSP Mutual Fund,Unclaimed Redemption - Beyond 3 years (Invested in DSP Overnight Fund),,,Open Ended Schemes,Debt Scheme - Overnight Fund,10.0014,08-Aug-2026
+149312,DSP Mutual Fund,Unclaimed IDCW - Upto 3 years (Invested in DSP Overnight Fund),,,Open Ended Schemes,Debt Scheme - Overnight Fund,13.0874,08-Aug-2026
+149313,DSP Mutual Fund,Unclaimed IDCW - Beyond 3 years (Invested in DSP Overnight Fund),,,Open Ended Schemes,Debt Scheme - Overnight Fund,10.0014,08-Aug-2026
 149316,360 ONE Mutual Fund,360 ONE QUANT FUND REGULAR INCOME DISTRIBUTION CUM CAPITAL WITHDRAWAL,INF579M01AG6,INF579M01AH4,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,19.3356,07-Aug-2026
 149317,360 ONE Mutual Fund,360 ONE QUANT FUND REGULAR GROWTH,INF579M01AF8,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,19.3356,07-Aug-2026
 149318,360 ONE Mutual Fund,360 ONE QUANT FUND DIRECT GROWTH,INF579M01AI2,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,20.5155,07-Aug-2026
@@ -10440,9 +10440,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 149391,ICICI Prudential Mutual Fund,ICICI Prudential Nifty Midcap 150 Index Fund - Direct Plan - IDCW,INF109KC1W66,INF109KC1W74,Open Ended Schemes,Other Scheme - Index Funds,20.9048,07-Aug-2026
 149392,DSP Mutual Fund,DSP Nifty 50 ETF,INF740KA1CL0,,Open Ended Schemes,Other Scheme - Other  ETFs,259.0514,07-Aug-2026
 149393,Groww Mutual Fund,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Unclaimed Dividend > 3 Years,,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1183.0934,27-Nov-2024
-149394,Groww Mutual Fund,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Unclaimed Dividend < 3 years,,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1310.0119,07-Aug-2026
-149395,Groww Mutual Fund,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Unclaimed Redemption > 3 Years,,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1000,07-Aug-2026
-149396,Groww Mutual Fund,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Unclaimed Redemption < 3 Years,,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1296.3961,07-Aug-2026
+149394,Groww Mutual Fund,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Unclaimed Dividend < 3 years,,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1310.2204,08-Aug-2026
+149395,Groww Mutual Fund,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Unclaimed Redemption > 3 Years,,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1000,08-Aug-2026
+149396,Groww Mutual Fund,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Unclaimed Redemption < 3 Years,,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1296.5689,08-Aug-2026
 149397,Kotak Mahindra Mutual Fund,Kotak Nifty Alpha 50 ETF,INF174KA1IA5,,Open Ended Schemes,Other Scheme - Other  ETFs,53.6425,07-Aug-2026
 149398,Edelweiss Mutual Fund,BHARAT Bond ETF - April 2032,INF754K01OB1,,Open Ended Schemes,Other Scheme - Other  ETFs,1355.7942,07-Aug-2026
 149399,Edelweiss Mutual Fund,BHARAT Bond ETF FOF - April 2032 Regular Plan Growth,INF754K01NV1,,Open Ended Schemes,Other Scheme - FoF Domestic,13.4885,07-Aug-2026
@@ -10548,11 +10548,11 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 149602,Sundaram Mutual Fund,Sundaram Aggressive Hybrid Fund(Formerly Known as Principal Hybrid Equity Fund)-Direct Plan - Monthly Income Distribution CUM Capital Withdrawal Option,INF173K01FB2,INF173K01FC0,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund,39.5491,07-Aug-2026
 149658,Sundaram Mutual Fund,Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) - Daily Income Distribution CUM Capital Withdrawal,,INF173K01DB7,Open Ended Schemes,Debt Scheme - Liquid Fund,1000.8893,13-Sep-2024
 149659,Sundaram Mutual Fund,Sundaram Liquid Fund (Formerly Principal Cash Management Fund) - Weekly Income Distribution CUM Capital Withdrawal Option,,INF173K01DC5,Open Ended Schemes,Debt Scheme - Liquid Fund,1007.8472,13-Sep-2024
-149660,Sundaram Mutual Fund,Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) - Regular Plan IDCW,INF173K01DD3,INF173K01DE1,Open Ended Schemes,Debt Scheme - Liquid Fund,1041.6178,07-Aug-2026
-149661,Sundaram Mutual Fund,Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) -Growth Option,INF173K01DA9,,Open Ended Schemes,Debt Scheme - Liquid Fund,2462.4682,07-Aug-2026
-149662,Sundaram Mutual Fund,Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) -Direct Plan - IDCW,INF173K01GV8,INF173K01GW6,Open Ended Schemes,Debt Scheme - Liquid Fund,1044.7543,07-Aug-2026
+149660,Sundaram Mutual Fund,Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) - Regular Plan IDCW,INF173K01DD3,INF173K01DE1,Open Ended Schemes,Debt Scheme - Liquid Fund,1041.7867,08-Aug-2026
+149661,Sundaram Mutual Fund,Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) -Growth Option,INF173K01DA9,,Open Ended Schemes,Debt Scheme - Liquid Fund,2462.8677,08-Aug-2026
+149662,Sundaram Mutual Fund,Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) -Direct Plan - IDCW,INF173K01GV8,INF173K01GW6,Open Ended Schemes,Debt Scheme - Liquid Fund,1044.9301,08-Aug-2026
 149663,Sundaram Mutual Fund,Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund )- Direct Plan - Income Distribution CUM Capital Withdrawal Option - Daily,,INF173K01GT2,Open Ended Schemes,Debt Scheme - Liquid Fund,1000.6367,13-Sep-2024
-149664,Sundaram Mutual Fund,Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) - Direct Plan - Growth Option,INF173K01GU0,,Open Ended Schemes,Debt Scheme - Liquid Fund,2496.8086,07-Aug-2026
+149664,Sundaram Mutual Fund,Sundaram Liquid Fund (Formerly Known as Principal Cash Management Fund) - Direct Plan - Growth Option,INF173K01GU0,,Open Ended Schemes,Debt Scheme - Liquid Fund,2497.2288,08-Aug-2026
 149665,Sundaram Mutual Fund,Sundaram Liquid Fund(Formerly Known as Principal Cash Management Fund)- Direct Plan - Income Distribution CUM Capital Withdrawal Option - Weekly,,INF173K01GY2,Open Ended Schemes,Debt Scheme - Liquid Fund,1008.3385,13-Sep-2024
 149666,Sundaram Mutual Fund,Sundaram Multi Cap Fund (Formerly Known as Principal Multi Cap Growth Fund)- Income Distribution CUM Capital Withdrawal Option (IDCW),INF173K01957,INF173K01965,Open Ended Schemes,Equity Scheme - Multi Cap Fund,64.9830,07-Aug-2026
 149667,Sundaram Mutual Fund,Sundaram Multi Cap Fund (Formerly Known as Principal Multi Cap Growth Fund)-Growth Option,INF173K01940,,Open Ended Schemes,Equity Scheme - Multi Cap Fund,396.9948,07-Aug-2026
@@ -10629,10 +10629,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 149792,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty SDL Apr 2027 Index Fund-Regular Growth,INF209KB19E9,,Open Ended Schemes,Other Scheme - Index Funds,13.0922,07-Aug-2026
 149793,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty SDL Apr 2027 Index Fund-Direct IDCW Payout,INF209KB12F1,,Open Ended Schemes,Other Scheme - Index Funds,13.2723,07-Aug-2026
 149794,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty SDL Apr 2027 Index Fund-Direct Growth,INF209KB11F3,,Open Ended Schemes,Other Scheme - Index Funds,13.2725,07-Aug-2026
-149795,Trust Mutual Fund,TRUST MF OVERNIGHT FUND-REGULAR-GROWTH,INF0GCD01438,,Open Ended Schemes,Debt Scheme - Overnight Fund,1293.4899,07-Aug-2026
-149796,Trust Mutual Fund,TRUST MF OVERNIGHT FUND-DIRECT PLAN-DAILY IDCW REINVESTMENT,,INF0GCD01461,Open Ended Schemes,Debt Scheme - Overnight Fund,1268.6587,07-Aug-2026
-149797,Trust Mutual Fund,TRUST MF OVERNIGHT FUND-DIRECT PLAN-GROWTH,INF0GCD01453,,Open Ended Schemes,Debt Scheme - Overnight Fund,1296.4563,07-Aug-2026
-149798,Trust Mutual Fund,TRUST MF OVERNIGHT FUND-REGULAR PLAN-DAILY IDCW REINVESTMENT,,INF0GCD01446,Open Ended Schemes,Debt Scheme - Overnight Fund,1256.4236,07-Aug-2026
+149795,Trust Mutual Fund,TRUST MF OVERNIGHT FUND-REGULAR-GROWTH,INF0GCD01438,,Open Ended Schemes,Debt Scheme - Overnight Fund,1293.8302,09-Aug-2026
+149796,Trust Mutual Fund,TRUST MF OVERNIGHT FUND-DIRECT PLAN-DAILY IDCW REINVESTMENT,,INF0GCD01461,Open Ended Schemes,Debt Scheme - Overnight Fund,1268.9150,09-Aug-2026
+149797,Trust Mutual Fund,TRUST MF OVERNIGHT FUND-DIRECT PLAN-GROWTH,INF0GCD01453,,Open Ended Schemes,Debt Scheme - Overnight Fund,1296.8015,09-Aug-2026
+149798,Trust Mutual Fund,TRUST MF OVERNIGHT FUND-REGULAR PLAN-DAILY IDCW REINVESTMENT,,INF0GCD01446,Open Ended Schemes,Debt Scheme - Overnight Fund,1256.6130,09-Aug-2026
 149799,Motilal Oswal Mutual Fund,Motilal Oswal Nifty 200 Momentum 30 Index Fund-Regular Plan,INF247L01AW9,,Open Ended Schemes,Other Scheme - Index Funds,15.0142,07-Aug-2026
 149800,Motilal Oswal Mutual Fund,Motilal Oswal Nifty 200 Momentum 30 Index Fund-Direct Plan,INF247L01AV1,,Open Ended Schemes,Other Scheme - Index Funds,15.4798,07-Aug-2026
 149801,Motilal Oswal Mutual Fund,Motilal Oswal Nifty 200 Momentum 30 ETF,INF247L01BK2,,Open Ended Schemes,Other Scheme - Other  ETFs,62.8001,07-Aug-2026
@@ -10980,10 +10980,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 150492,Kotak Mahindra Mutual Fund,Kotak Nifty India Consumption ETF,INF174KA1ZF8,,Open Ended Schemes,Other Scheme - Other  ETFs,12.5731,07-Aug-2026
 150497,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty 200 Quality 30 ETF,INF209KB15K4,,Open Ended Schemes,Exchange Traded Funds,22.0574,07-Aug-2026
 150498,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty 200 Momentum 30 ETF,INF209KB14K7,,Open Ended Schemes,Other Scheme - Other  ETFs,31.4161,07-Aug-2026
-150499,HSBC Mutual Fund,HSBC Overnight Fund - Unclaimed IDCW Below three years,,,Open Ended Schemes,Debt Scheme - Overnight Fund,1273.6964,07-Aug-2026
-150500,HSBC Mutual Fund,HSBC Overnight Fund - Unclaimed Redemption above three years,,,Open Ended Schemes,Debt Scheme - Overnight Fund,1000,07-Aug-2026
-150501,HSBC Mutual Fund,HSBC Overnight Fund - Unclaimed IDCW Above three years,,,Open Ended Schemes,Debt Scheme - Overnight Fund,1000,07-Aug-2026
-150502,HSBC Mutual Fund,HSBC Overnight Fund - Unclaimed Redemption Below three years,,,Open Ended Schemes,Debt Scheme - Overnight Fund,1273.7163,07-Aug-2026
+150499,HSBC Mutual Fund,HSBC Overnight Fund - Unclaimed IDCW Below three years,,,Open Ended Schemes,Debt Scheme - Overnight Fund,1273.8698,08-Aug-2026
+150500,HSBC Mutual Fund,HSBC Overnight Fund - Unclaimed Redemption above three years,,,Open Ended Schemes,Debt Scheme - Overnight Fund,1000,08-Aug-2026
+150501,HSBC Mutual Fund,HSBC Overnight Fund - Unclaimed IDCW Above three years,,,Open Ended Schemes,Debt Scheme - Overnight Fund,1000,08-Aug-2026
+150502,HSBC Mutual Fund,HSBC Overnight Fund - Unclaimed Redemption Below three years,,,Open Ended Schemes,Debt Scheme - Overnight Fund,1273.8897,08-Aug-2026
 150503,Canara Robeco Mutual Fund,Canara Robeco Banking and PSU Debt Fund- Regular Plan- Growth Option,INF760K01KF7,,Open Ended Schemes,Debt Scheme - Banking and PSU Fund,12.7607,07-Aug-2026
 150504,Canara Robeco Mutual Fund,Canara Robeco Banking and PSU Debt Fund- Regular Plan- IDCW (Payout/ Reinvestment),INF760K01KH3,INF760K01KG5,Open Ended Schemes,Debt Scheme - Banking and PSU Fund,10.7067,07-Aug-2026
 150505,Canara Robeco Mutual Fund,Canara Robeco Banking and PSU Debt Fund- Direct Plan- Growth Option,INF760K01KC4,,Open Ended Schemes,Debt Scheme - Banking and PSU Fund,12.9150,07-Aug-2026
@@ -11484,10 +11484,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 151186,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series UB (1224 days) - Direct Plan Growth Option,INF209KB18P7,,Close Ended Schemes,Income,12.581,22-Apr-2026
 151188,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series UB (1224 days)- Regular Plan - Growth Option,INF209KB16P1,,Close Ended Schemes,Income,12.5389,22-Apr-2026
 151189,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series UB (1224 days) - Regular Plan - Payout of IDCW Option,INF209KB17P9,,Close Ended Schemes,Income,10.,22-Apr-2026
-151190,quant Mutual Fund,quant Overnight Fund - Growth Option - Direct Plan,INF966L01AZ7,,Open Ended Schemes,Debt Scheme - Overnight Fund,12.5274,07-Aug-2026
-151191,quant Mutual Fund,quant Overnight Fund - IDCW Option - Regular Plan,INF966L01BD2,INF966L01BE0,Open Ended Schemes,Debt Scheme - Overnight Fund,12.4698,07-Aug-2026
-151193,quant Mutual Fund,quant Overnight Fund - IDCW Option - Direct Plan,INF966L01BA8,INF966L01BB6,Open Ended Schemes,Debt Scheme - Overnight Fund,12.5326,07-Aug-2026
-151195,quant Mutual Fund,quant Overnight Fund - Growth Option - Regular Plan,INF966L01BC4,,Open Ended Schemes,Debt Scheme - Overnight Fund,12.4813,07-Aug-2026
+151190,quant Mutual Fund,quant Overnight Fund - Growth Option - Direct Plan,INF966L01AZ7,,Open Ended Schemes,Debt Scheme - Overnight Fund,12.5307,09-Aug-2026
+151191,quant Mutual Fund,quant Overnight Fund - IDCW Option - Regular Plan,INF966L01BD2,INF966L01BE0,Open Ended Schemes,Debt Scheme - Overnight Fund,12.473,09-Aug-2026
+151193,quant Mutual Fund,quant Overnight Fund - IDCW Option - Direct Plan,INF966L01BA8,INF966L01BB6,Open Ended Schemes,Debt Scheme - Overnight Fund,12.5358,09-Aug-2026
+151195,quant Mutual Fund,quant Overnight Fund - Growth Option - Regular Plan,INF966L01BC4,,Open Ended Schemes,Debt Scheme - Overnight Fund,12.4845,09-Aug-2026
 151196,ICICI Prudential Mutual Fund,ICICI Prudential Nifty 10 yr Benchmark G-sec ETF,INF109KC18O0,,Open Ended Schemes,Other Scheme - Other  ETFs,265.5287,07-Aug-2026
 151201,Axis Mutual Fund,Axis Long Duration Fund - Regular Plan - Monthly IDCW,INF846K018L4,INF846K010M9,Open Ended Schemes,Debt Scheme - Long Duration Fund,1021.5659,07-Aug-2026
 151202,Axis Mutual Fund,Axis Long Duration Fund - Direct Plan - Monthly IDCW,INF846K019L2,INF846K011M7,Open Ended Schemes,Debt Scheme - Long Duration Fund,1020.5255,07-Aug-2026
@@ -11593,7 +11593,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 151338,UTI Mutual Fund,UTI Fixed Term Income Fund - Series XXXV-III (1176 Days) - Regular Plan - Growth Option,INF789F1AXC5,,Close Ended Schemes,Income,12.3326,15-Apr-2026
 151339,UTI Mutual Fund,UTI Fixed Term Income Fund - Series XXXV-III (1176 Days) - Regular Plan - Annual IDCW Option,INF789F1AXJ0,,Close Ended Schemes,Income,10.8572,15-Apr-2026
 151341,UTI Mutual Fund,UTI Fixed Term Income Fund - Series XXXV-III (1176 Days) - Direct Plan - Growth Option,INF789F1AXH4,,Close Ended Schemes,Income,12.4782,15-Apr-2026
-151358,Kotak Mahindra Mutual Fund,Kotak Nifty 1D Rate Liquid ETF,INF174KA1LV5,,Open Ended Schemes,Other Scheme - Other  ETFs,1117.0329,07-Aug-2026
+151358,Kotak Mahindra Mutual Fund,Kotak Nifty 1D Rate Liquid ETF,INF174KA1LV5,,Open Ended Schemes,Other Scheme - Other  ETFs,1117.1789,08-Aug-2026
 151359,Kotak Mahindra Mutual Fund,Kotak FMP Series 306 - Regular Plan - Growth,INF174KA1LW3,,Close Ended Schemes,Income,10.17967887,25-Apr-2023
 151360,Kotak Mahindra Mutual Fund,Kotak FMP Series 306 - Direct Plan - Growth,INF174KA1LY9,,Close Ended Schemes,Income,10.18230576,25-Apr-2023
 151361,Kotak Mahindra Mutual Fund,Kotak FMP Series 306 - Direct Plan - IDCW Payout,INF174KA1LZ6,,Close Ended Schemes,Income,10.18296927,25-Apr-2023
@@ -11894,26 +11894,26 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 151822,Canara Robeco Mutual Fund,Canara Robeco Multi Cap Fund - Direct Plan - IDCW Option,INF760K01KQ4,INF760K01KP6,Open Ended Schemes,Equity Scheme - Multi Cap Fund,14.1500,07-Aug-2026
 151823,Canara Robeco Mutual Fund,Canara Robeco Multi Cap Fund - Regular Plan - IDCW Option,INF760K01KT8,INF760K01KS0,Open Ended Schemes,Equity Scheme - Multi Cap Fund,13.5400,07-Aug-2026
 151824,Canara Robeco Mutual Fund,Canara Robeco Multi Cap Fund - Direct Plan - Growth Option,INF760K01KO9,,Open Ended Schemes,Equity Scheme - Multi Cap Fund,15.8300,07-Aug-2026
-151833,Bajaj Finserv Mutual Fund,Bajaj Finserv Liquid Fund - Direct Plan - Growth,INF0QA701011,,Open Ended Schemes,Debt Scheme - Liquid Fund,1232.4297,07-Aug-2026
-151834,Bajaj Finserv Mutual Fund,Bajaj Finserv Liquid Fund - Direct Plan - Weekly - IDCW,INF0QA701060,INF0QA701037,Open Ended Schemes,Debt Scheme - Liquid Fund,1035.5365,07-Aug-2026
-151835,Bajaj Finserv Mutual Fund,Bajaj Finserv Liquid Fund - Direct Plan - Daily - IDCW,,INF0QA701029,Open Ended Schemes,Debt Scheme - Liquid Fund,1034.6939,07-Aug-2026
-151836,Bajaj Finserv Mutual Fund,Bajaj Finserv Liquid Fund - Direct Plan - Monthly - IDCW,INF0QA701086,INF0QA701052,Open Ended Schemes,Debt Scheme - Liquid Fund,1039.0239,07-Aug-2026
-151837,Bajaj Finserv Mutual Fund,Bajaj Finserv Liquid Fund - Regular Plan - Growth,INF0QA701094,,Open Ended Schemes,Debt Scheme - Liquid Fund,1225.7178,07-Aug-2026
-151838,Bajaj Finserv Mutual Fund,Bajaj Finserv Liquid Fund - Direct Plan - Fortnightly - IDCW,INF0QA701078,INF0QA701045,Open Ended Schemes,Debt Scheme - Liquid Fund,1036.8308,07-Aug-2026
-151839,Bajaj Finserv Mutual Fund,Bajaj Finserv Liquid Fund - Regular Plan - Daily - IDCW,,INF0QA701136,Open Ended Schemes,Debt Scheme - Liquid Fund,1033.8241,07-Aug-2026
-151840,Bajaj Finserv Mutual Fund,Bajaj Finserv Liquid Fund - Regular Plan - Weekly - IDCW,INF0QA701144,INF0QA701102,Open Ended Schemes,Debt Scheme - Liquid Fund,1034.6334,07-Aug-2026
-151841,Bajaj Finserv Mutual Fund,Bajaj Finserv Liquid Fund - Regular Plan - Fortnightly - IDCW,INF0QA701151,INF0QA701110,Open Ended Schemes,Debt Scheme - Liquid Fund,1035.8910,07-Aug-2026
-151842,Bajaj Finserv Mutual Fund,Bajaj Finserv Liquid Fund - Regular Plan - Monthly - IDCW,INF0QA701169,INF0QA701128,Open Ended Schemes,Debt Scheme - Liquid Fund,1038.0198,07-Aug-2026
-151843,Bajaj Finserv Mutual Fund,Bajaj Finserv Overnight Fund - Direct Plan - Daily - IDCW,,INF0QA701185,Open Ended Schemes,Debt Scheme - Overnight Fund,1033.1412,07-Aug-2026
-151844,Bajaj Finserv Mutual Fund,Bajaj Finserv Overnight Fund - Direct Plan - Weekly - IDCW,INF0QA701227,INF0QA701193,Open Ended Schemes,Debt Scheme - Overnight Fund,1033.7072,07-Aug-2026
-151845,Bajaj Finserv Mutual Fund,Bajaj Finserv Overnight Fund - Direct Plan - Monthly - IDCW,INF0QA701243,INF0QA701219,Open Ended Schemes,Debt Scheme - Overnight Fund,1036.5181,07-Aug-2026
-151846,Bajaj Finserv Mutual Fund,Bajaj Finserv Overnight Fund - Regular Plan - Weekly - IDCW,INF0QA701300,INF0QA701268,Open Ended Schemes,Debt Scheme - Overnight Fund,1033.4371,07-Aug-2026
-151847,Bajaj Finserv Mutual Fund,Bajaj Finserv Overnight Fund - Regular Plan - Fortnightly - IDCW,INF0QA701318,INF0QA701276,Open Ended Schemes,Debt Scheme - Overnight Fund,1034.4708,07-Aug-2026
-151848,Bajaj Finserv Mutual Fund,Bajaj Finserv Overnight Fund - Regular Plan - Monthly - IDCW,INF0QA701326,INF0QA701284,Open Ended Schemes,Debt Scheme - Overnight Fund,1036.2462,07-Aug-2026
-151849,Bajaj Finserv Mutual Fund,Bajaj Finserv Overnight Fund - Direct Plan - Growth,INF0QA701177,,Open Ended Schemes,Debt Scheme - Overnight Fund,1203.4018,07-Aug-2026
-151850,Bajaj Finserv Mutual Fund,Bajaj Finserv Overnight Fund - Direct Plan - Fortnightly - IDCW,INF0QA701235,INF0QA701201,Open Ended Schemes,Debt Scheme - Overnight Fund,1034.7526,07-Aug-2026
-151851,Bajaj Finserv Mutual Fund,Bajaj Finserv Overnight Fund - Regular Plan - Growth,INF0QA701250,,Open Ended Schemes,Debt Scheme - Overnight Fund,1201.5426,07-Aug-2026
-151852,Bajaj Finserv Mutual Fund,Bajaj Finserv Overnight Fund - Regular Plan - Daily - IDCW,,INF0QA701292,Open Ended Schemes,Debt Scheme - Overnight Fund,1032.8859,07-Aug-2026
+151833,Bajaj Finserv Mutual Fund,Bajaj Finserv Liquid Fund - Direct Plan - Growth,INF0QA701011,,Open Ended Schemes,Debt Scheme - Liquid Fund,1232.8341,09-Aug-2026
+151834,Bajaj Finserv Mutual Fund,Bajaj Finserv Liquid Fund - Direct Plan - Weekly - IDCW,INF0QA701060,INF0QA701037,Open Ended Schemes,Debt Scheme - Liquid Fund,1035.8764,09-Aug-2026
+151835,Bajaj Finserv Mutual Fund,Bajaj Finserv Liquid Fund - Direct Plan - Daily - IDCW,,INF0QA701029,Open Ended Schemes,Debt Scheme - Liquid Fund,1034.6939,09-Aug-2026
+151836,Bajaj Finserv Mutual Fund,Bajaj Finserv Liquid Fund - Direct Plan - Monthly - IDCW,INF0QA701086,INF0QA701052,Open Ended Schemes,Debt Scheme - Liquid Fund,1039.3649,09-Aug-2026
+151837,Bajaj Finserv Mutual Fund,Bajaj Finserv Liquid Fund - Regular Plan - Growth,INF0QA701094,,Open Ended Schemes,Debt Scheme - Liquid Fund,1226.1065,09-Aug-2026
+151838,Bajaj Finserv Mutual Fund,Bajaj Finserv Liquid Fund - Direct Plan - Fortnightly - IDCW,INF0QA701078,INF0QA701045,Open Ended Schemes,Debt Scheme - Liquid Fund,1037.1708,09-Aug-2026
+151839,Bajaj Finserv Mutual Fund,Bajaj Finserv Liquid Fund - Regular Plan - Daily - IDCW,,INF0QA701136,Open Ended Schemes,Debt Scheme - Liquid Fund,1033.8241,09-Aug-2026
+151840,Bajaj Finserv Mutual Fund,Bajaj Finserv Liquid Fund - Regular Plan - Weekly - IDCW,INF0QA701144,INF0QA701102,Open Ended Schemes,Debt Scheme - Liquid Fund,1034.9615,09-Aug-2026
+151841,Bajaj Finserv Mutual Fund,Bajaj Finserv Liquid Fund - Regular Plan - Fortnightly - IDCW,INF0QA701151,INF0QA701110,Open Ended Schemes,Debt Scheme - Liquid Fund,1036.2195,09-Aug-2026
+151842,Bajaj Finserv Mutual Fund,Bajaj Finserv Liquid Fund - Regular Plan - Monthly - IDCW,INF0QA701169,INF0QA701128,Open Ended Schemes,Debt Scheme - Liquid Fund,1038.3490,09-Aug-2026
+151843,Bajaj Finserv Mutual Fund,Bajaj Finserv Overnight Fund - Direct Plan - Daily - IDCW,,INF0QA701185,Open Ended Schemes,Debt Scheme - Overnight Fund,1033.1412,09-Aug-2026
+151844,Bajaj Finserv Mutual Fund,Bajaj Finserv Overnight Fund - Direct Plan - Weekly - IDCW,INF0QA701227,INF0QA701193,Open Ended Schemes,Debt Scheme - Overnight Fund,1033.9892,09-Aug-2026
+151845,Bajaj Finserv Mutual Fund,Bajaj Finserv Overnight Fund - Direct Plan - Monthly - IDCW,INF0QA701243,INF0QA701219,Open Ended Schemes,Debt Scheme - Overnight Fund,1036.8013,09-Aug-2026
+151846,Bajaj Finserv Mutual Fund,Bajaj Finserv Overnight Fund - Regular Plan - Weekly - IDCW,INF0QA701300,INF0QA701268,Open Ended Schemes,Debt Scheme - Overnight Fund,1033.7175,09-Aug-2026
+151847,Bajaj Finserv Mutual Fund,Bajaj Finserv Overnight Fund - Regular Plan - Fortnightly - IDCW,INF0QA701318,INF0QA701276,Open Ended Schemes,Debt Scheme - Overnight Fund,1034.7500,09-Aug-2026
+151848,Bajaj Finserv Mutual Fund,Bajaj Finserv Overnight Fund - Regular Plan - Monthly - IDCW,INF0QA701326,INF0QA701284,Open Ended Schemes,Debt Scheme - Overnight Fund,1036.5266,09-Aug-2026
+151849,Bajaj Finserv Mutual Fund,Bajaj Finserv Overnight Fund - Direct Plan - Growth,INF0QA701177,,Open Ended Schemes,Debt Scheme - Overnight Fund,1203.7300,09-Aug-2026
+151850,Bajaj Finserv Mutual Fund,Bajaj Finserv Overnight Fund - Direct Plan - Fortnightly - IDCW,INF0QA701235,INF0QA701201,Open Ended Schemes,Debt Scheme - Overnight Fund,1035.0352,09-Aug-2026
+151851,Bajaj Finserv Mutual Fund,Bajaj Finserv Overnight Fund - Regular Plan - Growth,INF0QA701250,,Open Ended Schemes,Debt Scheme - Overnight Fund,1201.8670,09-Aug-2026
+151852,Bajaj Finserv Mutual Fund,Bajaj Finserv Overnight Fund - Regular Plan - Daily - IDCW,,INF0QA701292,Open Ended Schemes,Debt Scheme - Overnight Fund,1032.8859,09-Aug-2026
 151853,quant Mutual Fund,quant Healthcare Fund - Growth Option - Direct Plan,INF966L01CD0,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,18.6513,07-Aug-2026
 151854,quant Mutual Fund,quant Healthcare Fund - IDCW Option - Direct Plan,INF966L01CE8,INF966L01CF5,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,18.6494,07-Aug-2026
 151855,quant Mutual Fund,quant Healthcare Fund - Growth Option - Regular Plan,INF966L01CG3,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,17.7428,07-Aug-2026
@@ -12278,7 +12278,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 152324,Bandhan Mutual Fund,Bandhan Multi Asset Allocation Fund - Direct Plan - Growth,INF194KB1HM7,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,14.9661,07-Aug-2026
 152325,Bandhan Mutual Fund,Bandhan Multi Asset Allocation Fund - Regular Plan - IDCW,INF194KB1HK1,INF194KB1HL9,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,13.5111,07-Aug-2026
 152326,Bandhan Mutual Fund,Bandhan Multi Asset Allocation Fund - Regular Plan - Growth,INF194KB1HJ3,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,14.4048,07-Aug-2026
-152327,Zerodha Mutual Fund,Zerodha Nifty 1D Rate Liquid ETF - Growth Option,INF0R8F01034,,Open Ended Schemes,Other Scheme - Other  ETFs,115.3545,07-Aug-2026
+152327,Zerodha Mutual Fund,Zerodha Nifty 1D Rate Liquid ETF - Growth Option,INF0R8F01034,,Open Ended Schemes,Other Scheme - Other  ETFs,115.3841,09-Aug-2026
 152328,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Nifty 50 Index Fund - Regular Plan - IDCW option,INF251K01SW5,INF251K01SX3,Open Ended Schemes,Other Scheme - Index Funds,11.4954,07-Aug-2026
 152329,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Nifty 50 Index Fund - Direct Plan - Growth option,INF251K01SY1,,Open Ended Schemes,Other Scheme - Index Funds,11.6076,07-Aug-2026
 152330,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Nifty 50 Index Fund - Direct Plan - IDCW option,INF251K01SZ8,INF251K01TA9,Open Ended Schemes,Other Scheme - Index Funds,11.6076,07-Aug-2026
@@ -12521,7 +12521,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 152635,Groww Mutual Fund,Groww Nifty Non-Cyclical Consumer Index Fund - IDCW,INF666M01IC3,INF666M01ID1,Open Ended Schemes,Index Funds - Equity Funds,10.5641,07-Aug-2026
 152636,Groww Mutual Fund,Groww Nifty Non-Cyclical Consumer Index Fund - Direct Plan - IDCW,INF666M01IF6,INF666M01IG4,Open Ended Schemes,Index Funds - Equity Funds,10.6998,07-Aug-2026
 152637,Groww Mutual Fund,Groww Nifty Non-Cyclical Consumer Index Fund - Direct Plan Growth,INF666M01IE9,,Open Ended Schemes,Index Funds - Equity Funds,10.6999,07-Aug-2026
-152638,Bajaj Finserv Mutual Fund,Bajaj Finserv Nifty 1D Rate Liquid ETF,INF0QA701854,,Open Ended Schemes,Other Scheme - Other  ETFs,1093.5103,07-Aug-2026
+152638,Bajaj Finserv Mutual Fund,Bajaj Finserv Nifty 1D Rate Liquid ETF,INF0QA701854,,Open Ended Schemes,Other Scheme - Other  ETFs,1093.7974,09-Aug-2026
 152639,Bajaj Finserv Mutual Fund,Bajaj Finserv Multi Asset Allocation Fund - Direct Growth,INF0QA701821,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,12.8614,07-Aug-2026
 152640,Bajaj Finserv Mutual Fund,Bajaj Finserv Multi Asset Allocation Fund - Regular IDCW,INF0QA701805,INF0QA701813,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,12.4468,07-Aug-2026
 152641,Bajaj Finserv Mutual Fund,Bajaj Finserv Multi Asset Allocation Fund - Direct IDCW,INF0QA701839,INF0QA701847,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation,12.8614,07-Aug-2026
@@ -12766,7 +12766,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 152888,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond NBFC - Jun 2027 Index Fund - Direct Plan - IDCW Option,INF846K019X7,INF846K011Y2,Open Ended Schemes,Other Scheme - Index Funds,11.5041,07-Aug-2026
 152889,HDFC Mutual Fund,HDFC NIFTY LargeMidcap 250 Index Fund - Growth Option - Direct,INF179KC1IQ4,,Open Ended Schemes,Other Scheme - Index Funds,10.3789,07-Aug-2026
 152890,HDFC Mutual Fund,HDFC NIFTY LargeMidcap 250 Index Fund - Growth Option,INF179KC1IP6,,Open Ended Schemes,Other Scheme - Index Funds,10.2876,07-Aug-2026
-152891,Groww Mutual Fund,Groww Nifty 1D Rate Liquid ETF,INF666M01IP5,,Open Ended Schemes,Exchange Traded Funds,110.2352,07-Aug-2026
+152891,Groww Mutual Fund,Groww Nifty 1D Rate Liquid ETF,INF666M01IP5,,Open Ended Schemes,Exchange Traded Funds,110.2491,08-Aug-2026
 152892,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit risk fund -Defunct -Growth option -Seg-Portfolio 2 (erstwhile BBNPP Medium Duration Fund-Defunct Growth Option Seg.Portfolio1),INF955L01JM9,,Open Ended Schemes,Debt Scheme - Credit Risk Fund,0.0000,07-Aug-2026
 152893,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund-Defunct -Daily IDCW option - seg Portfolio 2 (erstwhile BBNPP Medium Duration fund Defunct Daily IDCW daily option Seg Portfolio 1),,INF955L01JN7,Open Ended Schemes,Debt Scheme - Credit Risk Fund,0.0000,07-Aug-2026
 152894,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk fund -Defunct -Weekly IDCW option -Seg. Portfolio 2 (erstwhile BBNPP Medium Duration Fund Defunct-Weekly IDCW option Seg. Portfolio 1),,INF955L01JO5,Open Ended Schemes,Debt Scheme - Credit Risk Fund,0.0000,07-Aug-2026
@@ -13285,9 +13285,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 153433,SBI Mutual Fund,SBI BSE PSU BANK INDEX FUND- Direct Plan- Income Distribution Cum Capital Withdrawal Option (IDCW),INF200KB1704,INF200KB1696,Open Ended Schemes,Other Scheme - Index Funds,14.0809,07-Aug-2026
 153434,SBI Mutual Fund,SBI BSE PSU BANK INDEX FUND- Regular Plan- Growth,INF200KB1654,,Open Ended Schemes,Other Scheme - Index Funds,13.9895,07-Aug-2026
 153435,SBI Mutual Fund,SBI BSE PSU BANK ETF,INF200KB1712,,Open Ended Schemes,Other Scheme - Other  ETFs,50.7889,07-Aug-2026
-153436,Zerodha Mutual Fund,Zerodha Overnight Fund - Direct Plan - Growth Option,INF0R8F01075,,Open Ended Schemes,Debt Scheme - Overnight Fund,10.7293,07-Aug-2026
-153437,Bajaj Finserv Mutual Fund,Bajaj Finserv Overnight Fund - Direct - Unclaimed less than 3 years IDCW Plan,INF0QA701AE3,,Open Ended Schemes,Debt Scheme - Overnight Fund,1069.5690,07-Aug-2026
-153438,Bajaj Finserv Mutual Fund,Bajaj Finserv Overnight Fund - Direct - Unclaimed less than 3 years Redemption Plan,INF0QA701AF0,,Open Ended Schemes,Debt Scheme - Overnight Fund,1075.5072,07-Aug-2026
+153436,Zerodha Mutual Fund,Zerodha Overnight Fund - Direct Plan - Growth Option,INF0R8F01075,,Open Ended Schemes,Debt Scheme - Overnight Fund,10.7321,09-Aug-2026
+153437,Bajaj Finserv Mutual Fund,Bajaj Finserv Overnight Fund - Direct - Unclaimed less than 3 years IDCW Plan,INF0QA701AE3,,Open Ended Schemes,Debt Scheme - Overnight Fund,1069.9138,09-Aug-2026
+153438,Bajaj Finserv Mutual Fund,Bajaj Finserv Overnight Fund - Direct - Unclaimed less than 3 years Redemption Plan,INF0QA701AF0,,Open Ended Schemes,Debt Scheme - Overnight Fund,1075.8005,09-Aug-2026
 153441,UTI Mutual Fund,UTI Income Plus Arbitrage Active Fund of Fund - Regular Plan - Growth Option,INF789F1AB63,,Open Ended Schemes,Other Scheme - FoF Domestic,10.8168,07-Aug-2026
 153442,UTI Mutual Fund,UTI Income Plus Arbitrage Active Fund of Fund - Direct Plan - Growth Option,INF789F1AB55,,Open Ended Schemes,Other Scheme - FoF Domestic,10.8677,07-Aug-2026
 153443,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil-IBX Financial Services 9-12 Months Debt Index Fund-Direct Growth,INF209KC1498,,Open Ended Schemes,Other Scheme - Index Funds,10.9980,07-Aug-2026
@@ -13362,7 +13362,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 153517,HDFC Mutual Fund,HDFC CRISIL-IBX Financial Services 3-6 Months Debt Index Fund - Direct Growth Plan,INF179KC1JK5,,Open Ended Schemes,Other Scheme - Index Funds,10.9087,07-Aug-2026
 153518,HDFC Mutual Fund,HDFC CRISIL-IBX Financial Services 3-6 Months Debt Index Fund - Regular Growth Plan,INF179KC1JJ7,,Open Ended Schemes,Other Scheme - Index Funds,10.8842,07-Aug-2026
 153519,Mirae Asset Mutual Fund,Mirae Asset Nifty 50 Equal Weight ETF,INF769K01OO2,,Open Ended Schemes,Other Scheme - Other  ETFs,340.4673,07-Aug-2026
-153520,Trust Mutual Fund,TRUSTMF OVERNIGHT FUND - UNCLAIMED REDEMPTION PLAN GROWTH,,,Open Ended Schemes,Debt Scheme - Overnight Fund,1001.0825,07-Aug-2026
+153520,Trust Mutual Fund,TRUSTMF OVERNIGHT FUND - UNCLAIMED REDEMPTION PLAN GROWTH,,,Open Ended Schemes,Debt Scheme - Overnight Fund,1001.3491,09-Aug-2026
 153524,Groww Mutual Fund,Groww Silver ETF,INF666M01OF4,,Open Ended Schemes,Exchange Traded Funds,22.5626,07-Aug-2026
 153525,Groww Mutual Fund,Groww Silver ETF FOF - Direct - Growth,INF666M01KQ9,,Open Ended Schemes,Fund of Funds Scheme,22.0269,07-Aug-2026
 153526,Groww Mutual Fund,Groww Silver ETF FOF - Direct - IDCW,INF666M01KR7,INF666M01KS5,Open Ended Schemes,Fund of Funds Scheme,22.0315,07-Aug-2026
@@ -13417,8 +13417,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 153581,Tata Mutual Fund,Tata Nifty Midcap 150 Index Fund - Direct Plan - Growth Option,INF277KA1DZ9,,Open Ended Schemes,Other Scheme - Index Funds,11.1213,07-Aug-2026
 153582,Tata Mutual Fund,Tata Nifty Midcap 150 Index Fund - Regular Plan - IDCW Payout Option,INF277KA1DY2,,Open Ended Schemes,Other Scheme - Index Funds,11.0011,07-Aug-2026
 153583,Groww Mutual Fund,Groww Nifty 500 Low Volatility 50 ETF,INF666M01LB9,,Open Ended Schemes,Exchange Traded Funds,10.6823,07-Aug-2026
-153585,Kotak Mahindra Mutual Fund,Kotak Liquid Fund - Direct Plan - Weekly - Reinvestment & Payout of Income Distribution cum capital withdrawal option,INF174KA1WL3,INF174KA1WJ7,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1010.7111,07-Aug-2026
-153586,Kotak Mahindra Mutual Fund,Kotak Liquid Fund - Regular Plan - Weekly - Reinvestment & Payout of Income Distribution cum capital withdrawal option,INF174KA1WK5,INF174KA1WM1,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1044.8111,07-Aug-2026
+153585,Kotak Mahindra Mutual Fund,Kotak Liquid Fund - Direct Plan - Weekly - Reinvestment & Payout of Income Distribution cum capital withdrawal option,INF174KA1WL3,INF174KA1WJ7,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1010.8765,08-Aug-2026
+153586,Kotak Mahindra Mutual Fund,Kotak Liquid Fund - Regular Plan - Weekly - Reinvestment & Payout of Income Distribution cum capital withdrawal option,INF174KA1WK5,INF174KA1WM1,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1044.9781,08-Aug-2026
 153588,DSP Mutual Fund,DSP Nifty IT Index Fund - Regular - Growth,INF740KA1WI4,,Open Ended Schemes,Other Scheme - Index Funds,8.2117,07-Aug-2026
 153589,DSP Mutual Fund,DSP Nifty IT Index Fund - Regular - IDCW,INF740KA1WJ2,INF740KA1WK0,Open Ended Schemes,Other Scheme - Index Funds,8.2117,07-Aug-2026
 153590,DSP Mutual Fund,DSP Nifty IT Index Fund - Direct - Growth,INF740KA1WL8,,Open Ended Schemes,Other Scheme - Index Funds,8.2787,07-Aug-2026
@@ -13866,10 +13866,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 154079,Jio BlackRock Mutual Fund,JioBlackRock Short Duration Fund - Direct Plan - Growth Option,INF22M001143,,Open Ended Schemes,Debt Scheme - Short Duration Fund,1035.5341,07-Aug-2026
 154081,Jio BlackRock Mutual Fund,JioBlackRock Low Duration Fund - Direct Plan - Growth Option,INF22M001150,,Open Ended Schemes,Debt Scheme - Low Duration Fund,1036.7821,07-Aug-2026
 154082,Jio BlackRock Mutual Fund,JioBlackRock Sector Rotation Fund - Direct Plan - Growth Option,INF22M001168,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,10.1653,07-Aug-2026
-154083,quant Mutual Fund,quant Overnight Fund - Unclaimed IDCW Greater than 3 years,,,Open Ended Schemes,Debt Scheme - Overnight Fund,10,07-Aug-2026
-154084,quant Mutual Fund,quant Overnight Fund - Unclaimed Redemption Less than 3 years,,,Open Ended Schemes,Debt Scheme - Overnight Fund,10.3181,07-Aug-2026
-154085,quant Mutual Fund,quant Overnight Fund - Unclaimed Redemption Greater than 3 years,,,Open Ended Schemes,Debt Scheme - Overnight Fund,10,07-Aug-2026
-154086,quant Mutual Fund,quant Overnight Fund - Unclaimed IDCW Less than 3 years,,,Open Ended Schemes,Debt Scheme - Overnight Fund,10.3225,07-Aug-2026
+154083,quant Mutual Fund,quant Overnight Fund - Unclaimed IDCW Greater than 3 years,,,Open Ended Schemes,Debt Scheme - Overnight Fund,10,09-Aug-2026
+154084,quant Mutual Fund,quant Overnight Fund - Unclaimed Redemption Less than 3 years,,,Open Ended Schemes,Debt Scheme - Overnight Fund,10.3208,09-Aug-2026
+154085,quant Mutual Fund,quant Overnight Fund - Unclaimed Redemption Greater than 3 years,,,Open Ended Schemes,Debt Scheme - Overnight Fund,10,09-Aug-2026
+154086,quant Mutual Fund,quant Overnight Fund - Unclaimed IDCW Less than 3 years,,,Open Ended Schemes,Debt Scheme - Overnight Fund,10.3252,09-Aug-2026
 154087,DSP Mutual Fund,DSP Nifty Next 50 ETF,INF740KA1XU7,,Open Ended Schemes,Other Scheme - Other  ETFs,75.0862,07-Aug-2026
 154088,DSP Mutual Fund,DSP Nifty 500 Index Fund - Direct - Growth,INF740KA1XY9,,Open Ended Schemes,Other Scheme - Index Funds,9.9004,07-Aug-2026
 154089,DSP Mutual Fund,DSP Nifty 500 Index Fund - Direct - IDCW,INF740KA1XZ6,INF740KA1YA7,Open Ended Schemes,Other Scheme - Index Funds,9.9004,07-Aug-2026
