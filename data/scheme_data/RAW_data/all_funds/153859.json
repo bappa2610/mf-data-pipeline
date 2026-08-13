@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Jio BlackRock Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Flexi Cap Fund",
+        "scheme_category": "Equity Schemes - Flexi Cap Fund",
         "scheme_code": 153859,
         "scheme_name": "JioBlackRock Flexi Cap Fund - Direct Plan - Growth Option",
         "isin_growth": "INF22M001093",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "12-08-2026",
+            "nav": "10.19940"
+        },
         {
             "date": "11-08-2026",
             "nav": "10.16800"

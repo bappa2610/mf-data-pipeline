@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Helios Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Flexi Cap Fund",
+        "scheme_category": "Equity Schemes - Flexi Cap Fund",
         "scheme_code": 152137,
         "scheme_name": "Helios Flexi Cap Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF0R8701020",
         "isin_div_reinvestment": "INF0R8701038"
     },
     "data": [
+        {
+            "date": "12-08-2026",
+            "nav": "15.63000"
+        },
         {
             "date": "11-08-2026",
             "nav": "15.65000"

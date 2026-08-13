@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Jio BlackRock Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Index Funds",
+        "scheme_category": "Index Funds - Equity Funds",
         "scheme_code": 153790,
         "scheme_name": "JioBlackRock Nifty Smallcap 250 Index Fund - Direct Plan - Growth Option",
         "isin_growth": "INF22M001051",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "12-08-2026",
+            "nav": "10.87810"
+        },
         {
             "date": "11-08-2026",
             "nav": "10.90520"

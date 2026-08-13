@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Jio BlackRock Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 154082,
         "scheme_name": "JioBlackRock Sector Rotation Fund - Direct Plan - Growth Option",
         "isin_growth": "INF22M001168",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "12-08-2026",
+            "nav": "10.14460"
+        },
         {
             "date": "11-08-2026",
             "nav": "10.13980"

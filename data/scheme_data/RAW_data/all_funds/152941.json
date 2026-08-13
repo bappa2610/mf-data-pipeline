@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Helios Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Large & Mid Cap Fund",
+        "scheme_category": "Equity Schemes - Large & Mid Cap Fund",
         "scheme_code": 152941,
         "scheme_name": "Helios Large & Mid Cap Fund - Direct Plan - Growth Option",
         "isin_growth": "INF0R8701269",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "12-08-2026",
+            "nav": "11.75000"
+        },
         {
             "date": "11-08-2026",
             "nav": "11.74000"

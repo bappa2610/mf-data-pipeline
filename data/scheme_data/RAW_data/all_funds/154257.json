@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Helios Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Arbitrage Fund",
+        "scheme_category": "Hybrid Schemes - Arbitrage Fund",
         "scheme_code": 154257,
         "scheme_name": "Helios Arbitrage Fund - Direct Growth",
         "isin_growth": "INF0R8701442",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "12-08-2026",
+            "nav": "10.25000"
+        },
         {
             "date": "11-08-2026",
             "nav": "10.24000"

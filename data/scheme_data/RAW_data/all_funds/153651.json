@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Jio BlackRock Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Liquid Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
         "scheme_code": 153651,
         "scheme_name": "JioBlackRock Liquid Fund - Direct Plan - Growth Option",
         "isin_growth": "INF22M001010",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "12-08-2026",
+            "nav": "1071.76870"
+        },
         {
             "date": "11-08-2026",
             "nav": "1071.63320"

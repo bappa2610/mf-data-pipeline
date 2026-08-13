@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Jio BlackRock Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Arbitrage Fund",
+        "scheme_category": "Hybrid Schemes - Arbitrage Fund",
         "scheme_code": 154076,
         "scheme_name": "JioBlackRock Arbitrage Fund - Direct Plan - Growth Option",
         "isin_growth": "INF22M001101",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "12-08-2026",
+            "nav": "10.46340"
+        },
         {
             "date": "11-08-2026",
             "nav": "10.46430"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Jio BlackRock Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Money Market Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Money Market Fund",
         "scheme_code": 153649,
         "scheme_name": "JioBlackRock Money Market Fund - Direct Plan - Growth Option",
         "isin_growth": "INF22M001028",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "12-08-2026",
+            "nav": "1070.80210"
+        },
         {
             "date": "11-08-2026",
             "nav": "1070.60760"

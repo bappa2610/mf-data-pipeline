@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Helios Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Mid Cap Fund",
+        "scheme_category": "Equity Schemes - Mid Cap Fund",
         "scheme_code": 153325,
         "scheme_name": "Helios Mid Cap Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF0R8701301",
         "isin_div_reinvestment": "INF0R8701319"
     },
     "data": [
+        {
+            "date": "12-08-2026",
+            "nav": "13.89000"
+        },
         {
             "date": "11-08-2026",
             "nav": "13.91000"
