@@ -14245,6 +14245,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154511,Kotak Mahindra Mutual Fund,Kotak Corporate Bond Fund - Regular - IDCW Weekly,INF174KA1B93,INF174KA1C19,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
 154513,Kotak Mahindra Mutual Fund,Kotak Savings Fund - Direct - IDCW Weekly,INF174KA1C43,INF174KA1C27,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
 154514,Kotak Mahindra Mutual Fund,Kotak Savings Fund - Regular - IDCW Weekly,INF174KA1C35,INF174KA1C50,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+154517,AlphaGrep Mutual Fund,AlphaGrep Flexi Cap Fund - Regular- IDCW,INF2VOA01129,INF2VOA01111,Open Ended Schemes,Equity Schemes - Flexi Cap Fund
+154518,AlphaGrep Mutual Fund,AlphaGrep Flexi Cap Fund - Direct - Growth,INF2VOA01079,,Open Ended Schemes,Equity Schemes - Flexi Cap Fund
+154519,AlphaGrep Mutual Fund,AlphaGrep Flexi Cap Fund - Regular - Growth,INF2VOA01103,,Open Ended Schemes,Equity Schemes - Flexi Cap Fund
+154520,AlphaGrep Mutual Fund,AlphaGrep Flexi Cap Fund - Direct-IDCW,INF2VOA01095,INF2VOA01087,Open Ended Schemes,Equity Schemes - Flexi Cap Fund
 154521,Abakkus Mutual Fund,Abakkus Liquid Fund - Unclaimed Redemption Less than 3 Years,,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 154523,SBI Mutual Fund,SBI Nifty Midcap 150 Momentum 50 ETF FOF - Regular - Growth,INF200KB1BR1,,Open Ended Schemes,Fund of Funds Scheme
 154524,Edelweiss Mutual Fund,Edelweiss BSE Top 10 Bank ETF,INF754K01XH9,,Open Ended Schemes,Exchange Traded Funds
@@ -14267,6 +14271,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154608,Kotak Mahindra Mutual Fund,Kotak Savings Fund - Direct - IDCW,INF174KA1E41,INF174KA1E25,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
 154609,Kotak Mahindra Mutual Fund,Kotak Corporate Bond Fund - Direct -IDCW,INF174KA1E82,INF174KA1E66,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
 154612,Kotak Mahindra Mutual Fund,Kotak Money Market Fund - Direct - IDCW,INF174KA1F24,INF174KA1F08,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
+154624,Choice Mutual Fund,Choice Overnight Fund -Direct -Unclaimed Less than 3 years Redemption Plan,,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 100027,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Half Yearly Dividend,,,Open Ended Schemes,Income
 100028,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Quaterly Dividend,,,Open Ended Schemes,Income
 100029,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Growth,,,Open Ended Schemes,Income
@@ -36444,17 +36449,12 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154126,Sundaram Asset Management Company Ltd,Sundaram Income Plus Arbitrage Active FoF Fund-Regular-IDCW Reinvestment,INF903JA1ME0,,Open Ended,Other Scheme - FoF Domestic
 154128,Sundaram Asset Management Company Ltd,Sundaram Income Plus Arbitrage Active FoF Fund-Direct-IDCW Reinvestment,INF903JA1MB6,,Open Ended,Other Scheme - FoF Domestic
 154632,Jio BlackRock Asset Management Private Limited,JioBlackRock Large Cap Fund - Regular Plan - Growth Option,INF22M001192,,Open Ended,Equity Schemes - Large Cap Fund
-154624,Choice AMC Private Limited,Choice Overnight Fund -Direct -Unclaimed Less than 3 years Redemption Plan,,,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
 154502,ITI Asset Management Limited,ITI Multi Asset Allocation Fund- Regular Plan- IDCW Option,INF00XX01DQ0,INF00XX01DR8,Open Ended,Hybrid Schemes - Multi Asset Allocation Fund
 154498,ITI Asset Management Limited,ITI Multi Asset Allocation Fund - Direct Plan - Growth Option,INF00XX01DS6,,Open Ended,Hybrid Schemes - Multi Asset Allocation Fund
 154499,ITI Asset Management Limited,ITI Multi Asset Allocation Fund- Direct Plan- IDCW Option,INF00XX01DT4,INF00XX01DU2,Open Ended,Hybrid Schemes - Multi Asset Allocation Fund
 154500,ITI Asset Management Limited,ITI Multi Asset Allocation Fund- Regular Plan- Growth Option,INF00XX01DP2,,Open Ended,Hybrid Schemes - Multi Asset Allocation Fund
 154515,Quantum Asset Management Company Private Limited,Quantum Flexi Cap Fund - Direct Plan Growth Option,INF082J01507,,Open Ended,Equity Schemes - Flexi Cap Fund
 154516,Quantum Asset Management Company Private Limited,Quantum Flexi Cap Fund - Regular Plan Growth Option,INF082J01515,,Open Ended,Equity Schemes - Flexi Cap Fund
-154517,AlphaGrep Investment Management Private Limited,AlphaGrep Flexi Cap Fund - Regular- IDCW,INF2VOA01129,INF2VOA01111,Open Ended,Equity Schemes - Flexi Cap Fund
-154518,AlphaGrep Investment Management Private Limited,AlphaGrep Flexi Cap Fund - Direct - Growth,INF2VOA01079,,Open Ended,Equity Schemes - Flexi Cap Fund
-154519,AlphaGrep Investment Management Private Limited,AlphaGrep Flexi Cap Fund - Regular - Growth,INF2VOA01103,,Open Ended,Equity Schemes - Flexi Cap Fund
-154520,AlphaGrep Investment Management Private Limited,AlphaGrep Flexi Cap Fund - Direct-IDCW,INF2VOA01095,INF2VOA01087,Open Ended,Equity Schemes - Flexi Cap Fund
 154536,Invesco Asset Management (India) Private Limited,Invesco India Nifty Bank ETF,INF205KA1CB9,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
 154537,Invesco Asset Management (India) Private Limited,Invesco India BSE Sensex ETF,INF205KA1CA1,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
 154544,Invesco Asset Management (India) Private Limited,Invesco India Pharma and Healthcare Fund - Regular Fund - IDCW Plan,INF205KA1BV9,INF205KA1BW7,Open Ended,Equity Schemes - Sectoral Fund
