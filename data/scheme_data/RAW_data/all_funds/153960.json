@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Equity Schemes - Value Fund",
         "scheme_code": 153960,
-        "scheme_name": "Axis Multi-Asset Active FoF - Direct Plan - Growth",
+        "scheme_name": "Axis Multi-Asset Omni FoF - Direct Plan - Growth",
         "isin_growth": "INF846KA1366",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "13-08-2026",
+            "nav": "10.95350"
+        },
         {
             "date": "12-08-2026",
             "nav": "10.98430"
