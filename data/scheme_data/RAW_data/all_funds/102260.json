@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Conservative Hybrid Fund",
+        "scheme_category": "Hybrid Schemes - Conservative Hybrid Fund",
         "scheme_code": 102260,
         "scheme_name": "HSBC Conservative Hybrid Fund - Regular Monthly IDCW",
         "isin_growth": "INF336L01107",
         "isin_div_reinvestment": "INF336L01115"
     },
     "data": [
+        {
+            "date": "14-08-2026",
+            "nav": "12.93370"
+        },
         {
             "date": "13-08-2026",
             "nav": "12.93120"

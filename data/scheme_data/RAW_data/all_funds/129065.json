@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Equity Schemes - Value Fund",
         "scheme_code": 129065,
         "scheme_name": "HSBC Aggressive Hybrid Active FOF - Growth",
         "isin_growth": "INF336L01IA9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "14-08-2026",
+            "nav": "43.21730"
+        },
         {
             "date": "13-08-2026",
             "nav": "43.32260"

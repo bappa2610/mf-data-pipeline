@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Equity Schemes - Value Fund",
         "scheme_code": 129201,
         "scheme_name": "HSBC Aggressive Hybrid Active FOF - Dividend Direct",
         "isin_growth": "INF336L01IB7",
         "isin_div_reinvestment": "INF336L01IC5"
     },
     "data": [
+        {
+            "date": "14-08-2026",
+            "nav": "32.99710"
+        },
         {
             "date": "13-08-2026",
             "nav": "33.07640"
