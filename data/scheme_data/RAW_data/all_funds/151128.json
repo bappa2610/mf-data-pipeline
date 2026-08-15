@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
+        "scheme_category": "Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation",
         "scheme_code": 151128,
         "scheme_name": "HSBC Balanced Advantage Fund - Direct IDCW",
         "isin_growth": "INF917K01IM3",
         "isin_div_reinvestment": "INF917K01IL5"
     },
     "data": [
+        {
+            "date": "14-08-2026",
+            "nav": "22.29880"
+        },
         {
             "date": "13-08-2026",
             "nav": "22.34950"

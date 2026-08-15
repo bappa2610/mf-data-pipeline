@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Credit Risk Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Credit Risk Fund",
         "scheme_code": 151041,
         "scheme_name": "HSBC Credit Risk Fund- Regular Plan - Bonus",
         "isin_growth": null,
         "isin_div_reinvestment": "INF917K01CU9"
     },
     "data": [
+        {
+            "date": "14-08-2026",
+            "nav": "33.95210"
+        },
         {
             "date": "13-08-2026",
             "nav": "33.93720"

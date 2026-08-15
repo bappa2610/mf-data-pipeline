@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Arbitrage Fund",
+        "scheme_category": "Hybrid Schemes - Arbitrage Fund",
         "scheme_code": 151140,
         "scheme_name": "HSBC Arbitrage Fund - Regular Monthly IDCW",
         "isin_growth": "INF917K01QN4",
         "isin_div_reinvestment": "INF917K01QM6"
     },
     "data": [
+        {
+            "date": "14-08-2026",
+            "nav": "10.27060"
+        },
         {
             "date": "13-08-2026",
             "nav": "10.26830"

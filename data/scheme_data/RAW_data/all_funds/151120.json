@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
+        "scheme_category": "Hybrid Schemes - Aggressive Hybrid Fund",
         "scheme_code": 151120,
         "scheme_name": "HSBC Aggressive Hybrid Fund - Regular Growth",
         "isin_growth": "INF917K01LB0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "14-08-2026",
+            "nav": "59.88070"
+        },
         {
             "date": "13-08-2026",
             "nav": "59.90540"

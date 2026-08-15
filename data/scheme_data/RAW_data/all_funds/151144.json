@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 151144,
         "scheme_name": "HSBC Business Cycles Fund - Regular Growth",
         "isin_growth": "INF917K01RF8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "14-08-2026",
+            "nav": "44.03280"
+        },
         {
             "date": "13-08-2026",
             "nav": "44.21850"

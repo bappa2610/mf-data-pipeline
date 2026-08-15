@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Corporate Bond Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Corporate Bond Fund",
         "scheme_code": 151000,
         "scheme_name": "HSBC Corporate Bond Fund - Direct Annual IDCW",
         "isin_growth": "INF917K01VZ8",
         "isin_div_reinvestment": "INF917K01VY1"
     },
     "data": [
+        {
+            "date": "14-08-2026",
+            "nav": "11.82270"
+        },
         {
             "date": "13-08-2026",
             "nav": "11.82090"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Corporate Bond Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Corporate Bond Fund",
         "scheme_code": 150993,
         "scheme_name": "HSBC Corporate Bond Fund - Regular Quarterly IDCW",
         "isin_growth": "INF917K01AF4",
         "isin_div_reinvestment": "INF917K01AG2"
     },
     "data": [
+        {
+            "date": "14-08-2026",
+            "nav": "10.91090"
+        },
         {
             "date": "13-08-2026",
             "nav": "10.90920"

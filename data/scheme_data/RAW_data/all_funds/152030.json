@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 152030,
         "scheme_name": "HSBC Consumption Fund - Regular IDCW",
         "isin_growth": "INF336L01RD4",
         "isin_div_reinvestment": "INF336L01RE2"
     },
     "data": [
+        {
+            "date": "14-08-2026",
+            "nav": "15.47100"
+        },
         {
             "date": "13-08-2026",
             "nav": "15.47290"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Arbitrage Fund",
+        "scheme_category": "Hybrid Schemes - Arbitrage Fund",
         "scheme_code": 151134,
         "scheme_name": "HSBC Arbitrage Fund - Regular Growth",
         "isin_growth": "INF917K01QL8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "14-08-2026",
+            "nav": "20.24680"
+        },
         {
             "date": "13-08-2026",
             "nav": "20.24230"
