@@ -2320,8 +2320,8 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 104069,Tata Mutual Fund,Tata Fixed Horizon Fund Series 5 Scheme C - Div,,Close Ended,Income,Income,Other,Other,
 104070,DSP Mutual Fund,DSP BlackRock Fixed Term Plan - Series ID - Dividend,,Close Ended,Income,Income,Other,IDCW,
 104071,DSP Mutual Fund,DSP BlackRock Fixed Term Plan - Series 1D - Growth,,Close Ended,Income,Income,Other,Growth,
-104074,UTI Mutual Fund,UTI Arbitrage Fund - Regular Plan - IDCW,INF789FB1RH4,Open Ended,Hybrid,Arbitrage Fund,Regular,IDCW,
-104075,UTI Mutual Fund,UTI Arbitrage Fund - Regular Plan - Growth Option,INF789FB1RJ0,Open Ended,Hybrid,Arbitrage Fund,Regular,Growth,
+104074,UTI Mutual Fund,UTI Arbitrage Fund - Regular Plan - IDCW,INF789FB1RH4,Open Ended,Hybrids,Arbitrage Fund,Regular,IDCW,
+104075,UTI Mutual Fund,UTI Arbitrage Fund - Regular Plan - Growth Option,INF789FB1RJ0,Open Ended,Hybrids,Arbitrage Fund,Regular,Growth,
 104076,LIC Mutual Fund,LICMF Fixed Maturity Plan Series 7 - Growth Option,,Close Ended,Income,Income,Other,Growth,
 104077,LIC Mutual Fund,LICMF Fixed Maturity Plan Series 7 - Dividend Option,,Close Ended,Income,Income,Other,IDCW,
 104078,Franklin Templeton Mutual Fund,Franklin Templeton Fixed Tenure Fund - Series VI (60 Months Plan) - Growth Plan,,Close Ended,Income,Income,Other,Growth,
@@ -15696,8 +15696,8 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 120792,UTI Mutual Fund,UTI - GILT FUND - Direct Plan - Growth Option,INF789F01TL5,Open Ended,Debt,Gilt Fund,Direct,Growth,
 120793,UTI Mutual Fund,UTI Money Market Fund - Direct Plan - Weekly IDCW,INF789F01XW4,Open Ended,Debt,Money Market Fund,Direct,IDCW,Weekly
 120794,UTI Mutual Fund,UTI Liquid Fund - Direct Plan - Monthly IDCW,INF789F1AD53,Open Ended,Income/Debt Orienteds,Liquid Fund,Direct,IDCW,Monthly
-120795,UTI Mutual Fund,UTI Arbitrage Fund - Direct Plan - Growth Option,INF789FB1RG6,Open Ended,Hybrid,Arbitrage Fund,Direct,Growth,
-120796,UTI Mutual Fund,UTI Arbitrage Fund - Direct Plan - IDCW,INF789FB1RE1,Open Ended,Hybrid,Arbitrage Fund,Direct,IDCW,
+120795,UTI Mutual Fund,UTI Arbitrage Fund - Direct Plan - Growth Option,INF789FB1RG6,Open Ended,Hybrids,Arbitrage Fund,Direct,Growth,
+120796,UTI Mutual Fund,UTI Arbitrage Fund - Direct Plan - IDCW,INF789FB1RE1,Open Ended,Hybrids,Arbitrage Fund,Direct,IDCW,
 120797,Union Mutual Fund,Union KBC Capital Protection Oriented Fund - Series 2 - Direct Plan - Growth Option,,Close Ended,Income,Income,Direct,Growth,
 120798,Nippon India Mutual Fund,Nippon India Yearly Interval Fund - Series 1 - Growth Plan - Growth Option,INF204K01M05,Interval Fund,Income,Income,Other,Growth,
 120799,Nippon India Mutual Fund,Nippon India Yearly Interval Fund - Series 1 - Direct Plan - Growth Plan - Growth Option,INF204K01M39,Interval Fund,Income,Income,Direct,Growth,
@@ -30498,14 +30498,14 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 147284,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 86 - 95 Days Plan E - Direct Plan Cumulative Option,,Close Ended,Income,Income,Direct,Other,
 147285,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 86 - 95 Days Plan E - Direct Plan Dividend Option,,Close Ended,Income,Income,Direct,IDCW,
 147286,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 86 - 95 Days Plan E - Dividend Option,,Close Ended,Income,Income,Other,IDCW,
-147287,HSBC Mutual Fund,HSBC Overnight Fund - Direct Growth,INF336L01OF6,Open Ended,Debt,Overnight Fund,Direct,Growth,
-147288,HSBC Mutual Fund,HSBC Overnight Fund - Regular Weekly IDCW,INF336L01OP5,Open Ended,Debt,Overnight Fund,Regular,IDCW,Weekly
-147289,HSBC Mutual Fund,HSBC Overnight Fund - Regular Daily IDCW,,Open Ended,Debt,Overnight Fund,Regular,IDCW,Daily
-147290,HSBC Mutual Fund,HSBC Overnight Fund - Regular Growth,INF336L01OL4,Open Ended,Debt,Overnight Fund,Regular,Growth,
-147291,HSBC Mutual Fund,HSBC Overnight Fund - Direct Daily IDCW,,Open Ended,Debt,Overnight Fund,Direct,IDCW,Daily
-147296,HSBC Mutual Fund,HSBC Overnight Fund - Direct Weekly IDCW,INF336L01OJ8,Open Ended,Debt,Overnight Fund,Direct,IDCW,Weekly
-147300,HSBC Mutual Fund,HSBC Overnight Fund - Direct Monthly IDCW,INF336L01OK6,Open Ended,Debt,Overnight Fund,Direct,IDCW,Monthly
-147301,HSBC Mutual Fund,HSBC Overnight Fund - Regular Monthly IDCW,INF336L01OQ3,Open Ended,Debt,Overnight Fund,Regular,IDCW,Monthly
+147287,HSBC Mutual Fund,HSBC Overnight Fund - Direct Growth,INF336L01OF6,Open Ended,Income/Debt Orienteds,Overnight Fund,Direct,Growth,
+147288,HSBC Mutual Fund,HSBC Overnight Fund - Regular Weekly IDCW,INF336L01OP5,Open Ended,Income/Debt Orienteds,Overnight Fund,Regular,IDCW,Weekly
+147289,HSBC Mutual Fund,HSBC Overnight Fund - Regular Daily IDCW,,Open Ended,Income/Debt Orienteds,Overnight Fund,Regular,IDCW,Daily
+147290,HSBC Mutual Fund,HSBC Overnight Fund - Regular Growth,INF336L01OL4,Open Ended,Income/Debt Orienteds,Overnight Fund,Regular,Growth,
+147291,HSBC Mutual Fund,HSBC Overnight Fund - Direct Daily IDCW,,Open Ended,Income/Debt Orienteds,Overnight Fund,Direct,IDCW,Daily
+147296,HSBC Mutual Fund,HSBC Overnight Fund - Direct Weekly IDCW,INF336L01OJ8,Open Ended,Income/Debt Orienteds,Overnight Fund,Direct,IDCW,Weekly
+147300,HSBC Mutual Fund,HSBC Overnight Fund - Direct Monthly IDCW,INF336L01OK6,Open Ended,Income/Debt Orienteds,Overnight Fund,Direct,IDCW,Monthly
+147301,HSBC Mutual Fund,HSBC Overnight Fund - Regular Monthly IDCW,INF336L01OQ3,Open Ended,Income/Debt Orienteds,Overnight Fund,Regular,IDCW,Monthly
 147303,DSP Mutual Fund,DSP Quant Fund - Regular Plan - Growth,INF740KA1NN3,Open Ended,Equity,Sectoral/ Thematic,Regular,Growth,
 147304,DSP Mutual Fund,DSP Quant Fund - Direct Plan - IDCW,INF740KA1NR4,Open Ended,Equity,Sectoral/ Thematic,Direct,IDCW,
 147305,DSP Mutual Fund,DSP Quant Fund - Regular Plan - IDCW,INF740KA1NO1,Open Ended,Equity,Sectoral/ Thematic,Regular,IDCW,
@@ -30985,14 +30985,14 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 147904,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 87 - 1174 Days Plan B - Direct Plan Quarterly IDCW Option,INF109KC1H32,Close Ended,Income,Income,Direct,IDCW,Quarterly
 147905,Axis Mutual Fund,Axis Income Plus Arbitrage Omni FOF - Regular Plan - Quarterly IDCW,INF846K01V73,Open Ended,Fund of Funds,Fund of Funds,Regular,IDCW,Quarterly
 147906,Mirae Asset Mutual Fund,Mirae Asset Nifty Next 50 ETF,INF769K01FN2,Open Ended,Other,ETF,Other,Other,
-147907,HSBC Mutual Fund,HSBC Ultra Short Duration Fund - Regular Growth,INF336L01OW1,Open Ended,Debt,Ultra Short Duration Fund,Regular,Growth,
-147908,HSBC Mutual Fund,HSBC Ultra Short Duration Fund - Direct Growth,INF336L01OR1,Open Ended,Debt,Ultra Short Duration Fund,Direct,Growth,
-147909,HSBC Mutual Fund,HSBC Ultra Short Duration Fund - Regular Daily IDCW,,Open Ended,Debt,Ultra Short Duration Fund,Regular,IDCW,Daily
-147910,HSBC Mutual Fund,HSBC Ultra Short Duration Fund - Direct Daily IDCW,,Open Ended,Debt,Ultra Short Duration Fund,Direct,IDCW,Daily
-147911,HSBC Mutual Fund,HSBC Ultra Short Duration Fund - Regular Weekly IDCW,,Open Ended,Debt,Ultra Short Duration Fund,Regular,IDCW,Weekly
-147912,HSBC Mutual Fund,HSBC Ultra Short Duration Fund - Direct Weekly IDCW,,Open Ended,Debt,Ultra Short Duration Fund,Direct,IDCW,Weekly
-147915,HSBC Mutual Fund,HSBC Ultra Short Duration Fund - Direct Monthly IDCW,INF336L01OV3,Open Ended,Debt,Ultra Short Duration Fund,Direct,IDCW,Monthly
-147916,HSBC Mutual Fund,HSBC Ultra Short Duration Fund - Regular Monthly IDCW,INF336L01PA4,Open Ended,Debt,Ultra Short Duration Fund,Regular,IDCW,Monthly
+147907,HSBC Mutual Fund,HSBC Ultra Short Duration Fund - Regular Growth,INF336L01OW1,Open Ended,Income/Debt Orienteds,Ultra Short Term Fund,Regular,Growth,
+147908,HSBC Mutual Fund,HSBC Ultra Short Duration Fund - Direct Growth,INF336L01OR1,Open Ended,Income/Debt Orienteds,Ultra Short Term Fund,Direct,Growth,
+147909,HSBC Mutual Fund,HSBC Ultra Short Duration Fund - Regular Daily IDCW,,Open Ended,Income/Debt Orienteds,Ultra Short Term Fund,Regular,IDCW,Daily
+147910,HSBC Mutual Fund,HSBC Ultra Short Duration Fund - Direct Daily IDCW,,Open Ended,Income/Debt Orienteds,Ultra Short Term Fund,Direct,IDCW,Daily
+147911,HSBC Mutual Fund,HSBC Ultra Short Duration Fund - Regular Weekly IDCW,,Open Ended,Income/Debt Orienteds,Ultra Short Term Fund,Regular,IDCW,Weekly
+147912,HSBC Mutual Fund,HSBC Ultra Short Duration Fund - Direct Weekly IDCW,,Open Ended,Income/Debt Orienteds,Ultra Short Term Fund,Direct,IDCW,Weekly
+147915,HSBC Mutual Fund,HSBC Ultra Short Duration Fund - Direct Monthly IDCW,INF336L01OV3,Open Ended,Income/Debt Orienteds,Ultra Short Term Fund,Direct,IDCW,Monthly
+147916,HSBC Mutual Fund,HSBC Ultra Short Duration Fund - Regular Monthly IDCW,INF336L01PA4,Open Ended,Income/Debt Orienteds,Ultra Short Term Fund,Regular,IDCW,Monthly
 147917,ITI Mutual Fund,ITI Small Cap Fund - Direct Plan - IDCW Option,INF00XX01754,Open Ended,Equity,Small Cap Fund,Direct,IDCW,
 147918,ITI Mutual Fund,ITI Small Cap Fund - Regular Plan - IDCW Option,INF00XX01721,Open Ended,Equity,Small Cap Fund,Regular,IDCW,
 147919,ITI Mutual Fund,ITI Small Cap Fund - Direct Plan - Growth Option,INF00XX01747,Open Ended,Equity,Small Cap Fund,Direct,Growth,
@@ -32877,10 +32877,10 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 150492,Kotak Mahindra Mutual Fund,Kotak Nifty India Consumption ETF,INF174KA1ZF8,Open Ended,Other,ETF,Other,Other,
 150497,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty 200 Quality 30 ETF,INF209KB15K4,Open Ended,Exchange Traded Funds,Exchange Traded Funds,Other,Other,
 150498,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty 200 Momentum 30 ETF,INF209KB14K7,Open Ended,Other,ETF,Other,Other,
-150499,HSBC Mutual Fund,HSBC Overnight Fund - Unclaimed IDCW Below three years,,Open Ended,Debt,Overnight Fund,Other,IDCW,
-150500,HSBC Mutual Fund,HSBC Overnight Fund - Unclaimed Redemption above three years,,Open Ended,Debt,Overnight Fund,Other,Other,
-150501,HSBC Mutual Fund,HSBC Overnight Fund - Unclaimed IDCW Above three years,,Open Ended,Debt,Overnight Fund,Other,IDCW,
-150502,HSBC Mutual Fund,HSBC Overnight Fund - Unclaimed Redemption Below three years,,Open Ended,Debt,Overnight Fund,Other,Other,
+150499,HSBC Mutual Fund,HSBC Overnight Fund - Unclaimed IDCW Below three years,,Open Ended,Income/Debt Orienteds,Overnight Fund,Other,IDCW,
+150500,HSBC Mutual Fund,HSBC Overnight Fund - Unclaimed Redemption above three years,,Open Ended,Income/Debt Orienteds,Overnight Fund,Other,Other,
+150501,HSBC Mutual Fund,HSBC Overnight Fund - Unclaimed IDCW Above three years,,Open Ended,Income/Debt Orienteds,Overnight Fund,Other,IDCW,
+150502,HSBC Mutual Fund,HSBC Overnight Fund - Unclaimed Redemption Below three years,,Open Ended,Income/Debt Orienteds,Overnight Fund,Other,Other,
 150503,Canara Robeco Mutual Fund,Canara Robeco Banking and PSU Debt Fund- Regular Plan- Growth Option,INF760K01KF7,Open Ended,Debt,Banking and PSU Fund,Regular,Growth,
 150504,Canara Robeco Mutual Fund,Canara Robeco Banking and PSU Debt Fund- Regular Plan- IDCW (Payout/ Reinvestment),INF760K01KH3,Open Ended,Debt,Banking and PSU Fund,Regular,IDCW,Reinvestment
 150505,Canara Robeco Mutual Fund,Canara Robeco Banking and PSU Debt Fund- Direct Plan- Growth Option,INF760K01KC4,Open Ended,Debt,Banking and PSU Fund,Direct,Growth,
@@ -33346,15 +33346,15 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 151059,HSBC Mutual Fund,HSBC Equity Savings Fund - Direct Quarterly IDCW,INF917K01GD6,Open Ended,Hybrids,Equity Savings Fund,Direct,IDCW,Quarterly
 151060,HSBC Mutual Fund,HSBC Equity Savings Fund - Direct Growth,INF917K01GE4,Open Ended,Hybrids,Equity Savings Fund,Direct,Growth,
 151061,HSBC Mutual Fund,HSBC Equity Savings Fund - Direct Monthly IDCW,INF917K01E37,Open Ended,Hybrids,Equity Savings Fund,Direct,IDCW,Monthly
-151062,HSBC Mutual Fund,HSBC Short Duration Fund - Bonus,INF917K01CM6,Open Ended,Debt,Short Duration Fund,Other,Bonus,
-151063,HSBC Mutual Fund,HSBC Short Duration Fund - Regular Plan - Monthly IDCW,INF917K01CH6,Open Ended,Debt,Short Duration Fund,Regular,IDCW,Monthly
-151064,HSBC Mutual Fund,HSBC Short Duration Fund - Regular Quarterly IDCW,INF917K01CJ2,Open Ended,Debt,Short Duration Fund,Regular,IDCW,Quarterly
-151065,HSBC Mutual Fund,HSBC Short Duration Fund - Regular Growth,INF917K01CL8,Open Ended,Debt,Short Duration Fund,Regular,Growth,
-151067,HSBC Mutual Fund,HSBC Short Duration Fund - Direct Growth,INF917K01IQ4,Open Ended,Debt,Short Duration Fund,Direct,Growth,
-151068,HSBC Mutual Fund,HSBC Short Duration Fund - Direct Plan - Monthly IDCW,INF917K01IP6,Open Ended,Debt,Short Duration Fund,Direct,IDCW,Monthly
-151069,HSBC Mutual Fund,HSBC Short Duration Fund - Direct Quarterly IDCW,INF917K01IS0,Open Ended,Debt,Short Duration Fund,Direct,IDCW,Quarterly
-151070,HSBC Mutual Fund,HSBC Short Duration Fund - Direct Annual IDCW,INF917K01VR5,Open Ended,Debt,Short Duration Fund,Direct,IDCW,Annual
-151071,HSBC Mutual Fund,HSBC Short Duration Fund - Regular Annual IDCW,INF917K01VT1,Open Ended,Debt,Short Duration Fund,Regular,IDCW,Annual
+151062,HSBC Mutual Fund,HSBC Short Duration Fund - Bonus,INF917K01CM6,Open Ended,Income/Debt Orienteds,Short Term Fund,Other,Bonus,
+151063,HSBC Mutual Fund,HSBC Short Duration Fund - Regular Plan - Monthly IDCW,INF917K01CH6,Open Ended,Income/Debt Orienteds,Short Term Fund,Regular,IDCW,Monthly
+151064,HSBC Mutual Fund,HSBC Short Duration Fund - Regular Quarterly IDCW,INF917K01CJ2,Open Ended,Income/Debt Orienteds,Short Term Fund,Regular,IDCW,Quarterly
+151065,HSBC Mutual Fund,HSBC Short Duration Fund - Regular Growth,INF917K01CL8,Open Ended,Income/Debt Orienteds,Short Term Fund,Regular,Growth,
+151067,HSBC Mutual Fund,HSBC Short Duration Fund - Direct Growth,INF917K01IQ4,Open Ended,Income/Debt Orienteds,Short Term Fund,Direct,Growth,
+151068,HSBC Mutual Fund,HSBC Short Duration Fund - Direct Plan - Monthly IDCW,INF917K01IP6,Open Ended,Income/Debt Orienteds,Short Term Fund,Direct,IDCW,Monthly
+151069,HSBC Mutual Fund,HSBC Short Duration Fund - Direct Quarterly IDCW,INF917K01IS0,Open Ended,Income/Debt Orienteds,Short Term Fund,Direct,IDCW,Quarterly
+151070,HSBC Mutual Fund,HSBC Short Duration Fund - Direct Annual IDCW,INF917K01VR5,Open Ended,Income/Debt Orienteds,Short Term Fund,Direct,IDCW,Annual
+151071,HSBC Mutual Fund,HSBC Short Duration Fund - Regular Annual IDCW,INF917K01VT1,Open Ended,Income/Debt Orienteds,Short Term Fund,Regular,IDCW,Annual
 151076,HSBC Mutual Fund,HSBC ELSS Tax saver Fund - Regular Growth,INF677K01064,Open Ended,Equitys,ELSS- Tax Saver Fund,Regular,Growth,
 151077,HSBC Mutual Fund,HSBC ELSS Tax saver Fund - Regular IDCW Payout,INF677K01072,Open Ended,Equitys,ELSS- Tax Saver Fund,Regular,IDCW,
 151078,HSBC Mutual Fund,HSBC ELSS Tax saver Fund - Direct Growth,INF917K01GP0,Open Ended,Equitys,ELSS- Tax Saver Fund,Direct,Growth,
@@ -33373,10 +33373,10 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 151107,HSBC Mutual Fund,HSBC Banking and PSU Debt Fund - Direct Growth,INF917K01HH5,Open Ended,Income/Debt Orienteds,Banking and PSU Debt Fund,Direct,Growth,
 151108,HSBC Mutual Fund,HSBC Banking and PSU Debt Fund - Direct Daily IDCW,,Open Ended,Income/Debt Orienteds,Banking and PSU Debt Fund,Direct,IDCW,Daily
 151109,HSBC Mutual Fund,HSBC Banking and PSU Debt Fund - Direct Weekly IDCW,,Open Ended,Income/Debt Orienteds,Banking and PSU Debt Fund,Direct,IDCW,Weekly
-151110,HSBC Mutual Fund,HSBC Value Fund - Regular Growth,INF677K01023,Open Ended,Equity,Value Fund,Regular,Growth,
-151111,HSBC Mutual Fund,HSBC Value Fund - Regular IDCW,INF677K01213,Open Ended,Equity,Value Fund,Regular,IDCW,
-151112,HSBC Mutual Fund,HSBC Value Fund - Direct IDCW,INF917K01HC6,Open Ended,Equity,Value Fund,Direct,IDCW,
-151113,HSBC Mutual Fund,HSBC Value Fund - Direct Growth,INF917K01HD4,Open Ended,Equity,Value Fund,Direct,Growth,
+151110,HSBC Mutual Fund,HSBC Value Fund - Regular Growth,INF677K01023,Open Ended,Equitys,Value Fund,Regular,Growth,
+151111,HSBC Mutual Fund,HSBC Value Fund - Regular IDCW,INF677K01213,Open Ended,Equitys,Value Fund,Regular,IDCW,
+151112,HSBC Mutual Fund,HSBC Value Fund - Direct IDCW,INF917K01HC6,Open Ended,Equitys,Value Fund,Direct,IDCW,
+151113,HSBC Mutual Fund,HSBC Value Fund - Direct Growth,INF917K01HD4,Open Ended,Equitys,Value Fund,Direct,Growth,
 151114,HSBC Mutual Fund,HSBC Low Duration Fund - Regular Growth,INF677K01452,Open Ended,Income/Debt Orienteds,Ultra Short to Short Term Fund,Regular,Growth,
 151115,HSBC Mutual Fund,HSBC Low Duration Fund - Regular Monthly IDCW,INF677K01460,Open Ended,Income/Debt Orienteds,Ultra Short to Short Term Fund,Regular,IDCW,Monthly
 151116,HSBC Mutual Fund,HSBC Low Duration Fund - Direct Monthly IDCW,INF917K01E60,Open Ended,Income/Debt Orienteds,Ultra Short to Short Term Fund,Direct,IDCW,Monthly
@@ -33393,10 +33393,10 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 151127,HSBC Mutual Fund,HSBC Balanced Advantage Fund - Regular Growth,INF917K01KY4,Open Ended,Hybrids,Balanced Advantage Fund/ Dynamic Asset Allocation,Regular,Growth,
 151128,HSBC Mutual Fund,HSBC Balanced Advantage Fund - Direct IDCW,INF917K01IM3,Open Ended,Hybrids,Balanced Advantage Fund/ Dynamic Asset Allocation,Direct,IDCW,
 151129,HSBC Mutual Fund,HSBC Balanced Advantage Fund - Direct Growth,INF917K01IN1,Open Ended,Hybrids,Balanced Advantage Fund/ Dynamic Asset Allocation,Direct,Growth,
-151130,HSBC Mutual Fund,HSBC Small Cap Fund - Direct Growth,INF917K01QA1,Open Ended,Equity,Small Cap Fund,Direct,Growth,
-151131,HSBC Mutual Fund,HSBC Small Cap Fund - Regular IDCW,INF917K01QB9,Open Ended,Equity,Small Cap Fund,Regular,IDCW,
-151132,HSBC Mutual Fund,HSBC Small Cap Fund - Direct IDCW,INF917K01PZ0,Open Ended,Equity,Small Cap Fund,Direct,IDCW,
-151133,HSBC Mutual Fund,HSBC Small Cap Fund - Regular Growth,INF917K01QC7,Open Ended,Equity,Small Cap Fund,Regular,Growth,
+151130,HSBC Mutual Fund,HSBC Small Cap Fund - Direct Growth,INF917K01QA1,Open Ended,Equitys,Small Cap Fund,Direct,Growth,
+151131,HSBC Mutual Fund,HSBC Small Cap Fund - Regular IDCW,INF917K01QB9,Open Ended,Equitys,Small Cap Fund,Regular,IDCW,
+151132,HSBC Mutual Fund,HSBC Small Cap Fund - Direct IDCW,INF917K01PZ0,Open Ended,Equitys,Small Cap Fund,Direct,IDCW,
+151133,HSBC Mutual Fund,HSBC Small Cap Fund - Regular Growth,INF917K01QC7,Open Ended,Equitys,Small Cap Fund,Regular,Growth,
 151134,HSBC Mutual Fund,HSBC Arbitrage Fund - Regular Growth,INF917K01QL8,Open Ended,Hybrids,Arbitrage Fund,Regular,Growth,
 151135,HSBC Mutual Fund,HSBC Arbitrage Fund - Direct Monthly IDCW,INF917K01QT1,Open Ended,Hybrids,Arbitrage Fund,Direct,IDCW,Monthly
 151136,HSBC Mutual Fund,HSBC Arbitrage Fund - Direct Quarterly IDCW,INF917K01QV7,Open Ended,Hybrids,Arbitrage Fund,Direct,IDCW,Quarterly
@@ -33413,14 +33413,14 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 151149,HSBC Mutual Fund,HSBC Medium Duration Fund - Regular Growth,INF917K01TH0,Open Ended,Income/Debt Orienteds,Medium Term Fund,Regular,Growth,
 151150,HSBC Mutual Fund,HSBC Medium Duration Fund - Direct Annual IDCW,INF917K01WF8,Open Ended,Income/Debt Orienteds,Medium Term Fund,Direct,IDCW,Annual
 151151,HSBC Mutual Fund,HSBC Medium Duration Fund - Regular Annual IDCW,INF917K01WE1,Open Ended,Income/Debt Orienteds,Medium Term Fund,Regular,IDCW,Annual
-151156,HSBC Mutual Fund,HSBC NIFTY 50 INDEX FUND - Direct IDCW,INF917K01C96,Open Ended,Other,Index Funds,Direct,IDCW,
-151157,HSBC Mutual Fund,HSBC NIFTY 50 INDEX FUND - Direct Growth,INF917K01D12,Open Ended,Other,Index Funds,Direct,Growth,
-151158,HSBC Mutual Fund,HSBC NIFTY 50 INDEX FUND - Regular Growth,INF917K01D38,Open Ended,Other,Index Funds,Regular,Growth,
-151159,HSBC Mutual Fund,HSBC NIFTY 50 INDEX FUND - Regular IDCW,INF917K01D20,Open Ended,Other,Index Funds,Regular,IDCW,
-151160,HSBC Mutual Fund,HSBC NIFTY NEXT 50 INDEX FUND - Direct Growth,INF917K01D79,Open Ended,Other,Index Funds,Direct,Growth,
-151161,HSBC Mutual Fund,HSBC NIFTY NEXT 50 INDEX FUND - Regular IDCW,INF917K01D87,Open Ended,Other,Index Funds,Regular,IDCW,
-151162,HSBC Mutual Fund,HSBC NIFTY NEXT 50 INDEX FUND - Regular Growth,INF917K01D95,Open Ended,Other,Index Funds,Regular,Growth,
-151163,HSBC Mutual Fund,HSBC NIFTY NEXT 50 INDEX FUND - Direct IDCW,INF917K01D53,Open Ended,Other,Index Funds,Direct,IDCW,
+151156,HSBC Mutual Fund,HSBC NIFTY 50 INDEX FUND - Direct IDCW,INF917K01C96,Open Ended,Index Funds,Equity Funds,Direct,IDCW,
+151157,HSBC Mutual Fund,HSBC NIFTY 50 INDEX FUND - Direct Growth,INF917K01D12,Open Ended,Index Funds,Equity Funds,Direct,Growth,
+151158,HSBC Mutual Fund,HSBC NIFTY 50 INDEX FUND - Regular Growth,INF917K01D38,Open Ended,Index Funds,Equity Funds,Regular,Growth,
+151159,HSBC Mutual Fund,HSBC NIFTY 50 INDEX FUND - Regular IDCW,INF917K01D20,Open Ended,Index Funds,Equity Funds,Regular,IDCW,
+151160,HSBC Mutual Fund,HSBC NIFTY NEXT 50 INDEX FUND - Direct Growth,INF917K01D79,Open Ended,Index Funds,Equity Funds,Direct,Growth,
+151161,HSBC Mutual Fund,HSBC NIFTY NEXT 50 INDEX FUND - Regular IDCW,INF917K01D87,Open Ended,Index Funds,Equity Funds,Regular,IDCW,
+151162,HSBC Mutual Fund,HSBC NIFTY NEXT 50 INDEX FUND - Regular Growth,INF917K01D95,Open Ended,Index Funds,Equity Funds,Regular,Growth,
+151163,HSBC Mutual Fund,HSBC NIFTY NEXT 50 INDEX FUND - Direct IDCW,INF917K01D53,Open Ended,Index Funds,Equity Funds,Direct,IDCW,
 151164,360 ONE Mutual Fund,360 ONE ELSS Tax Saver Nifty 50 Index Fund - Regular Plan - Growth,INF579M01AL6,Open Ended,Equity,ELSS,Regular,Growth,
 151165,360 ONE Mutual Fund,360 ONE ELSS Tax Saver Nifty 50 Index Fund - Direct Plan - Growth,INF579M01AN2,Open Ended,Equity,ELSS,Direct,Growth,
 151166,360 ONE Mutual Fund,360 ONE ELSS Tax Saver Nifty 50 Index Fund - Direct Plan - IDCW Payout,INF579M01AO0,Open Ended,Equity,ELSS,Direct,IDCW,
