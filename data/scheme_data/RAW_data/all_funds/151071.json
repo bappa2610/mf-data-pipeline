@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Short Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 151071,
         "scheme_name": "HSBC Short Duration Fund - Regular Annual IDCW",
         "isin_growth": "INF917K01VT1",
         "isin_div_reinvestment": "INF917K01VS3"
     },
     "data": [
+        {
+            "date": "17-08-2026",
+            "nav": "11.67010"
+        },
         {
             "date": "14-08-2026",
             "nav": "11.67590"

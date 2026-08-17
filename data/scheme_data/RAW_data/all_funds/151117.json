@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Low Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short to Short Term Fund",
         "scheme_code": 151117,
         "scheme_name": "HSBC Low Duration Fund - Direct Growth",
         "isin_growth": "INF917K01GM7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "17-08-2026",
+            "nav": "32.55480"
+        },
         {
             "date": "14-08-2026",
             "nav": "32.55300"

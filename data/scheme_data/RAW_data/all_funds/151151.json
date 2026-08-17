@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Medium Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Medium Term Fund",
         "scheme_code": 151151,
         "scheme_name": "HSBC Medium Duration Fund - Regular Annual IDCW",
         "isin_growth": "INF917K01WE1",
         "isin_div_reinvestment": "INF917K01WD3"
     },
     "data": [
+        {
+            "date": "17-08-2026",
+            "nav": "10.62350"
+        },
         {
             "date": "14-08-2026",
             "nav": "10.63450"

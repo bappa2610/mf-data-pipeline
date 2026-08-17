@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Money Market Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Money Market Fund",
         "scheme_code": 151055,
         "scheme_name": "HSBC Money Market Fund - Direct Daily IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF917K01FD8"
     },
     "data": [
+        {
+            "date": "17-08-2026",
+            "nav": "10.85910"
+        },
         {
             "date": "14-08-2026",
             "nav": "10.85910"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Money Market Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Money Market Fund",
         "scheme_code": 151048,
         "scheme_name": "HSBC Money Market Fund - Regular Growth",
         "isin_growth": "INF917K01BC9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "17-08-2026",
+            "nav": "28.33050"
+        },
         {
             "date": "14-08-2026",
             "nav": "28.32150"

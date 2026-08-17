@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Arbitrage Fund",
+        "scheme_category": "Hybrid Schemes - Arbitrage Fund",
         "scheme_code": 148402,
         "scheme_name": "Mirae Asset Arbitrage Fund Direct IDCW",
         "isin_growth": "INF769K01FR3",
         "isin_div_reinvestment": "INF769K01FT9"
     },
     "data": [
+        {
+            "date": "17-08-2026",
+            "nav": "14.47700"
+        },
         {
             "date": "14-08-2026",
             "nav": "14.49000"

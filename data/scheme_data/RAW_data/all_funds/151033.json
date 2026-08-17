@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Mid Cap Fund",
+        "scheme_category": "Equity Schemes - Mid Cap Fund",
         "scheme_code": 151033,
         "scheme_name": "HSBC Midcap Fund - Regular IDCW",
         "isin_growth": "INF917K01239",
         "isin_div_reinvestment": "INF917K01247"
     },
     "data": [
+        {
+            "date": "17-08-2026",
+            "nav": "88.42970"
+        },
         {
             "date": "14-08-2026",
             "nav": "88.17690"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Gilt Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Gilt Fund",
         "scheme_code": 151014,
         "scheme_name": "HSBC Gilt Fund - Direct Growth",
         "isin_growth": "INF917K01FI7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "17-08-2026",
+            "nav": "78.20030"
+        },
         {
             "date": "14-08-2026",
             "nav": "78.39400"

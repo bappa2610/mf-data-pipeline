@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Value Fund",
+        "scheme_category": "Equity Schemes - Value Fund",
         "scheme_code": 151111,
         "scheme_name": "HSBC Value Fund - Regular IDCW",
         "isin_growth": "INF677K01213",
         "isin_div_reinvestment": "INF677K01015"
     },
     "data": [
+        {
+            "date": "17-08-2026",
+            "nav": "50.13480"
+        },
         {
             "date": "14-08-2026",
             "nav": "49.99310"

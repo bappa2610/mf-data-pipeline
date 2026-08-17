@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Equity Savings",
+        "scheme_category": "Hybrid Schemes - Equity Savings Fund",
         "scheme_code": 151058,
         "scheme_name": "HSBC Equity Savings Fund - Regular Growth",
         "isin_growth": "INF917K01AA5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "17-08-2026",
+            "nav": "36.80910"
+        },
         {
             "date": "14-08-2026",
             "nav": "36.84130"

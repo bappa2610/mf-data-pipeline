@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Multi Cap Fund",
+        "scheme_category": "Equity Schemes - Multi Cap Fund",
         "scheme_code": 151290,
         "scheme_name": "HSBC Multi Cap Fund - Direct - Growth",
         "isin_growth": "INF336L01QN5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "17-08-2026",
+            "nav": "21.52850"
+        },
         {
             "date": "14-08-2026",
             "nav": "21.40690"

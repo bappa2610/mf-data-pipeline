@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short Term Fund",
         "scheme_code": 147911,
         "scheme_name": "HSBC Ultra Short Duration Fund - Regular Weekly IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF336L01OY7"
     },
     "data": [
+        {
+            "date": "17-08-2026",
+            "nav": "1042.27600"
+        },
         {
             "date": "14-08-2026",
             "nav": "1041.94730"

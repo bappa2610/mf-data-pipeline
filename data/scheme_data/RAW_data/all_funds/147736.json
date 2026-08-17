@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Overnight Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Overnight Fund",
         "scheme_code": 147736,
         "scheme_name": "Mirae Asset Overnight Fund Direct Plan Growth",
         "isin_growth": "INF769K01FG6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "17-08-2026",
+            "nav": "1408.45070"
+        },
         {
             "date": "16-08-2026",
             "nav": "1408.25800"

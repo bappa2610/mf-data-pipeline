@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Multi Cap Fund",
+        "scheme_category": "Equity Schemes - Multi Cap Fund",
         "scheme_code": 151292,
         "scheme_name": "HSBC Multi Cap Fund - Regular - IDCW",
         "isin_growth": "INF336L01QR6",
         "isin_div_reinvestment": "INF336L01QS4"
     },
     "data": [
+        {
+            "date": "17-08-2026",
+            "nav": "16.89900"
+        },
         {
             "date": "14-08-2026",
             "nav": "16.80530"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Index Funds",
+        "scheme_category": "Index Funds - Debt Funds",
         "scheme_code": 151481,
         "scheme_name": "HSBC CRISIL IBX Gilt June 2027 Index Fund - Regular - IDCW",
         "isin_growth": "INF336L01QX4",
         "isin_div_reinvestment": "INF336L01QY2"
     },
     "data": [
+        {
+            "date": "17-08-2026",
+            "nav": "12.64620"
+        },
         {
             "date": "14-08-2026",
             "nav": "12.64860"

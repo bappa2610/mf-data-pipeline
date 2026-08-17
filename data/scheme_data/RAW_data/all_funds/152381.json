@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
+        "scheme_category": "Hybrid Schemes - Multi Asset Allocation Fund",
         "scheme_code": 152381,
         "scheme_name": "HSBC Multi Asset Allocation Fund - Direct - IDCW",
         "isin_growth": "INF336L01RJ1",
         "isin_div_reinvestment": "INF336L01RK9"
     },
     "data": [
+        {
+            "date": "17-08-2026",
+            "nav": "14.11270"
+        },
         {
             "date": "14-08-2026",
             "nav": "14.09210"

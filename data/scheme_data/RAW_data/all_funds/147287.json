@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Overnight Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Overnight Fund",
         "scheme_code": 147287,
         "scheme_name": "HSBC Overnight Fund - Direct Growth",
         "isin_growth": "INF336L01OF6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "17-08-2026",
+            "nav": "1437.14360"
+        },
         {
             "date": "16-08-2026",
             "nav": "1436.94620"

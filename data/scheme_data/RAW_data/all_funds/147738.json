@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Overnight Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Overnight Fund",
         "scheme_code": 147738,
         "scheme_name": "Mirae Asset Overnight Fund Direct Monthly IDCW",
         "isin_growth": "INF769K01FF8",
         "isin_div_reinvestment": "INF769K01FI2"
     },
     "data": [
+        {
+            "date": "17-08-2026",
+            "nav": "1003.34470"
+        },
         {
             "date": "16-08-2026",
             "nav": "1003.20740"

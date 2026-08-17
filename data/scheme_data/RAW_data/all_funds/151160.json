@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Index Funds",
+        "scheme_category": "Index Funds - Equity Funds",
         "scheme_code": 151160,
         "scheme_name": "HSBC NIFTY NEXT 50 INDEX FUND - Direct Growth",
         "isin_growth": "INF917K01D79",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "17-08-2026",
+            "nav": "32.69680"
+        },
         {
             "date": "14-08-2026",
             "nav": "32.70580"

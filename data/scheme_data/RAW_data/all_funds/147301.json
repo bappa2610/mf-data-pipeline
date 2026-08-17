@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Overnight Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Overnight Fund",
         "scheme_code": 147301,
         "scheme_name": "HSBC Overnight Fund - Regular Monthly IDCW",
         "isin_growth": "INF336L01OQ3",
         "isin_div_reinvestment": "INF336L01OO8"
     },
     "data": [
+        {
+            "date": "17-08-2026",
+            "nav": "1002.86930"
+        },
         {
             "date": "16-08-2026",
             "nav": "1002.73380"

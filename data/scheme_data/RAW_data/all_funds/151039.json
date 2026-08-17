@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Sectoral Fund",
         "scheme_code": 151039,
         "scheme_name": "HSBC Infrastructure Fund - Direct IDCW",
         "isin_growth": "INF917K01E52",
         "isin_div_reinvestment": "INF917K01FU2"
     },
     "data": [
+        {
+            "date": "17-08-2026",
+            "nav": "41.76840"
+        },
         {
             "date": "14-08-2026",
             "nav": "41.63650"

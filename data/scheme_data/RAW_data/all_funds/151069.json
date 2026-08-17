@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Short Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 151069,
         "scheme_name": "HSBC Short Duration Fund - Direct Quarterly IDCW",
         "isin_growth": "INF917K01IS0",
         "isin_div_reinvestment": "INF917K01IR2"
     },
     "data": [
+        {
+            "date": "17-08-2026",
+            "nav": "11.28480"
+        },
         {
             "date": "14-08-2026",
             "nav": "11.29010"

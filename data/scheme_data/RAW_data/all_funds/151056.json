@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Equity Savings",
+        "scheme_category": "Hybrid Schemes - Equity Savings Fund",
         "scheme_code": 151056,
         "scheme_name": "HSBC Equity Savings Fund - Regular Monthly IDCW",
         "isin_growth": "INF917K01965",
         "isin_div_reinvestment": "INF917K01973"
     },
     "data": [
+        {
+            "date": "17-08-2026",
+            "nav": "15.49300"
+        },
         {
             "date": "14-08-2026",
             "nav": "15.50660"

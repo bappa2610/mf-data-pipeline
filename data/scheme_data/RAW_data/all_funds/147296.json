@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Overnight Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Overnight Fund",
         "scheme_code": 147296,
         "scheme_name": "HSBC Overnight Fund - Direct Weekly IDCW",
         "isin_growth": "INF336L01OJ8",
         "isin_div_reinvestment": "INF336L01OH2"
     },
     "data": [
+        {
+            "date": "17-08-2026",
+            "nav": "1000.85880"
+        },
         {
             "date": "16-08-2026",
             "nav": "1000.72120"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Gilt Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Gilt Fund",
         "scheme_code": 151012,
         "scheme_name": "HSBC Gilt Fund - Regular Quarterly IDCW",
         "isin_growth": "INF917K01BN6",
         "isin_div_reinvestment": "INF917K01BO4"
     },
     "data": [
+        {
+            "date": "17-08-2026",
+            "nav": "10.29820"
+        },
         {
             "date": "14-08-2026",
             "nav": "10.32470"
