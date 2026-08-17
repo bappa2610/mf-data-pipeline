@@ -341,8 +341,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 101588,Canara Robeco Mutual Fund,CANARA ROBECO INCOME FUND - REGULAR PLAN - GROWTH OPTION,INF760K01324,,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund
 101591,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Midcap Fund -REGULAR - IDCW,INF209K01355,INF209K01CN6,Open Ended Schemes,Equity Scheme - Mid Cap Fund
 101592,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life MIDCAP Fund-Growth,INF209K01363,,Open Ended Schemes,Equity Scheme - Mid Cap Fund
-101593,HSBC Mutual Fund,HSBC Large Cap Fund - Regular IDCW,INF336L01024,INF336L01032,Open Ended Schemes,Equity Scheme - Large Cap Fund
-101594,HSBC Mutual Fund,HSBC Large Cap Fund - Regular Growth,INF336L01016,,Open Ended Schemes,Equity Scheme - Large Cap Fund
+101593,HSBC Mutual Fund,HSBC Large Cap Fund - Regular IDCW,INF336L01024,INF336L01032,Open Ended Schemes,Equity Schemes - Large Cap Fund
+101594,HSBC Mutual Fund,HSBC Large Cap Fund - Regular Growth,INF336L01016,,Open Ended Schemes,Equity Schemes - Large Cap Fund
 101605,Tata Mutual Fund,Tata Medium Term Fund- Regular Plan - Payout of IDCW option,INF277K01DW2,INF277K01709,Open Ended Schemes,Debt Scheme - Medium Duration Fund
 101609,Tata Mutual Fund,TATA Equity Savings Fund- Regular Plan -Monthly Payout of IDCW option,INF277K01EE8,INF277K01899,Open Ended Schemes,Hybrid Scheme - Equity Savings
 101617,ICICI Prudential Mutual Fund,ICICI Prudential Savings Fund - Weekly IDCW,INF109K01JO1,INF109K01753,Open Ended Schemes,Debt Scheme - Low Duration Fund
@@ -489,8 +489,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 102205,SBI Mutual Fund,SBI Dynamic Bond Fund - REGULAR PLAN - Growth,INF200K01958,,Open Ended Schemes,Debt Scheme - Dynamic Bond
 102206,SBI Mutual Fund,SBI Dynamic Bond Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200K01966,INF200K01974,Open Ended Schemes,Debt Scheme - Dynamic Bond
 102248,ICICI Prudential Mutual Fund,ICICI Prudential Gilt Fund Treasury Plan PF Option - Growth,INF109K01KA8,,Open Ended Schemes,Gilt
-102251,HSBC Mutual Fund,HSBC Flexi Cap Fund - Regular IDCW,INF336L01AE8,INF336L01AD0,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
-102252,HSBC Mutual Fund,HSBC Flexi Cap Fund - Regular Growth,INF336L01AF5,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
+102251,HSBC Mutual Fund,HSBC Flexi Cap Fund - Regular IDCW,INF336L01AE8,INF336L01AD0,Open Ended Schemes,Equity Schemes - Flexi Cap Fund
+102252,HSBC Mutual Fund,HSBC Flexi Cap Fund - Regular Growth,INF336L01AF5,,Open Ended Schemes,Equity Schemes - Flexi Cap Fund
 102260,HSBC Mutual Fund,HSBC Conservative Hybrid Fund - Regular Monthly IDCW,INF336L01107,INF336L01115,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund
 102261,HSBC Mutual Fund,HSBC Conservative Hybrid Fund - Regular Quarterly IDCW,INF336L01123,INF336L01131,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund
 102262,HSBC Mutual Fund,HSBC Conservative Hybrid Fund - Regular Growth,INF336L01099,,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund
@@ -969,8 +969,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 107764,LIC Mutual Fund,LIC MF Infrastructure Fund-Regular Plan-IDCW,INF767K01485,INF767K01493,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 107900,Nippon India Mutual Fund,Reliance Equity Linked Saving Fund - Series I - Dividend Plan,INF204K01ON2,,Close Ended Schemes,ELSS
 107901,Nippon India Mutual Fund,Reliance Equity Linked Saving Fund - Series I - Growth Plan,INF204K01OM4,,Close Ended Schemes,ELSS
-107988,HSBC Mutual Fund,HSBC Global Emerging Markets Fund - Growth,INF336L01446,,Open Ended Schemes,Other Scheme - FoF Overseas
-107989,HSBC Mutual Fund,HSBC Global Emerging Markets Fund - IDCW,INF336L01438,INF336L01420,Open Ended Schemes,Other Scheme - FoF Overseas
+107988,HSBC Mutual Fund,HSBC Global Emerging Markets Fund - Growth,INF336L01446,,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas
+107989,HSBC Mutual Fund,HSBC Global Emerging Markets Fund - IDCW,INF336L01438,INF336L01420,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas
 108166,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Value Fund - Regular - IDCW,INF209K01LE6,INF209K01LG1,Open Ended Schemes,Equity Scheme - Value Fund
 108167,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Value Fund - Growth Option,INF209K01LF3,,Open Ended Schemes,Equity Scheme - Value Fund
 108202,DSP Mutual Fund,DSP Natural Resources And New Energy Fund - Regular - Growth,INF740K01060,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
@@ -1970,14 +1970,14 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 118898,ICICI Prudential Mutual Fund,ICICI Prudential Capital Protection Oriented Fund III - PLAN D - 36 Months - Cumulative,INF109K01I80,,Close Ended Schemes,Income
 118899,ICICI Prudential Mutual Fund,ICICI Prudential Capital Protection Oriented Fund III - PLAN D - 36 Months - Dividend,INF109K01J06,,Close Ended Schemes,Income
 118900,ICICI Prudential Mutual Fund,ICICI Prudential Capital Protection Oriented Fund III - PLAN D - 36 Months - Direct Plan - Cumulative,INF109K01I98,,Close Ended Schemes,Income
-118901,HSBC Mutual Fund,HSBC Liquid Fund - Regular Daily IDCW,,INF336L01BM9,Open Ended Schemes,Debt Scheme - Liquid Fund
-118902,HSBC Mutual Fund,HSBC Liquid Fund - Regular Growth,INF336L01BN7,,Open Ended Schemes,Debt Scheme - Liquid Fund
-118903,HSBC Mutual Fund,HSBC Liquid Fund - Regular Monthly IDCW,INF336L01BP2,INF336L01BO5,Open Ended Schemes,Debt Scheme - Liquid Fund
-118904,HSBC Mutual Fund,HSBC Liquid Fund - Regular Weekly IDCW,INF336L01LJ4,INF336L01BQ0,Open Ended Schemes,Debt Scheme - Liquid Fund
-118906,HSBC Mutual Fund,HSBC Liquid Fund - IDCW,,INF336L01BK3,Open Ended Schemes,Debt Scheme - Liquid Fund
-118907,HSBC Mutual Fund,HSBC Liquid Fund - Growth,INF336L01BL1,,Open Ended Schemes,Debt Scheme - Liquid Fund
-118908,HSBC Mutual Fund,HSBC Liquid Fund - Weekly IDCW,,INF336L01BR8,Open Ended Schemes,Debt Scheme - Liquid Fund
-118909,HSBC Mutual Fund,HSBC Liquid Fund - Institutional Daily IDCW,,INF336L01BS6,Open Ended Schemes,Debt Scheme - Liquid Fund
+118901,HSBC Mutual Fund,HSBC Liquid Fund - Regular Daily IDCW,,INF336L01BM9,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+118902,HSBC Mutual Fund,HSBC Liquid Fund - Regular Growth,INF336L01BN7,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+118903,HSBC Mutual Fund,HSBC Liquid Fund - Regular Monthly IDCW,INF336L01BP2,INF336L01BO5,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+118904,HSBC Mutual Fund,HSBC Liquid Fund - Regular Weekly IDCW,INF336L01LJ4,INF336L01BQ0,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+118906,HSBC Mutual Fund,HSBC Liquid Fund - IDCW,,INF336L01BK3,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+118907,HSBC Mutual Fund,HSBC Liquid Fund - Growth,INF336L01BL1,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+118908,HSBC Mutual Fund,HSBC Liquid Fund - Weekly IDCW,,INF336L01BR8,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+118909,HSBC Mutual Fund,HSBC Liquid Fund - Institutional Daily IDCW,,INF336L01BS6,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 118921,DSP Mutual Fund,DSP Bond Fund - Direct Plan - IDCW - Monthly,INF740K01NA4,INF740K01NC0,Open Ended Schemes,Debt Scheme - Medium Duration Fund
 118922,DSP Mutual Fund,DSP Bond Fund - Direct Plan - IDCW,INF740K01NB2,INF740K01ND8,Open Ended Schemes,Debt Scheme - Medium Duration Fund
 118924,DSP Mutual Fund,DSP Bond Fund - Direct Plan - Growth,INF740K01MZ3,,Open Ended Schemes,Debt Scheme - Medium Duration Fund
@@ -2413,18 +2413,18 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 119958,Tata Mutual Fund,Tata Equity Savings Fund-Direct Plan - Monthly Payout of IDCW Option,INF277K01QI3,INF277K01QJ1,Open Ended Schemes,Hybrid Scheme - Equity Savings
 119959,Tata Mutual Fund,Tata Equity Savings Fund-Direct Plan - Periodic Payout of IDCWS Option,INF277K01QK9,INF277K01QL7,Open Ended Schemes,Hybrid Scheme - Equity Savings
 119960,Tata Mutual Fund,Tata Equity Savings Fund- Direct Plan- Growth Option,INF277K01QH5,,Open Ended Schemes,Hybrid Scheme - Equity Savings
-120029,HSBC Mutual Fund,HSBC Large Cap Fund - Direct IDCW,INF336L01CK1,INF336L01CL9,Open Ended Schemes,Equity Scheme - Large Cap Fund
-120030,HSBC Mutual Fund,HSBC Large Cap Fund - Direct Growth,INF336L01CM7,,Open Ended Schemes,Equity Scheme - Large Cap Fund
+120029,HSBC Mutual Fund,HSBC Large Cap Fund - Direct IDCW,INF336L01CK1,INF336L01CL9,Open Ended Schemes,Equity Schemes - Large Cap Fund
+120030,HSBC Mutual Fund,HSBC Large Cap Fund - Direct Growth,INF336L01CM7,,Open Ended Schemes,Equity Schemes - Large Cap Fund
 120035,HSBC Mutual Fund,HSBC Brazil Fund - Growth Direct,INF336L01BY4,,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas
 120036,HSBC Mutual Fund,HSBC Brazil Fund - IDCW Direct Plan,INF336L01BW8,INF336L01BX6,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas
-120037,HSBC Mutual Fund,HSBC Liquid Fund - Direct Daily IDCW,,INF336L01CB0,Open Ended Schemes,Debt Scheme - Liquid Fund
-120038,HSBC Mutual Fund,HSBC Liquid Fund -  Growth Direct,INF336L01CC8,,Open Ended Schemes,Debt Scheme - Liquid Fund
-120039,HSBC Mutual Fund,HSBC Liquid Fund - Direct Monthly IDCW,INF336L01BZ1,INF336L01CA2,Open Ended Schemes,Debt Scheme - Liquid Fund
-120040,HSBC Mutual Fund,HSBC Liquid Fund - Direct Weekly IDCW,INF336L01LK2,INF336L01CD6,Open Ended Schemes,Debt Scheme - Liquid Fund
-120043,HSBC Mutual Fund,HSBC Global Emerging Market Fund - Growth Direct,INF336L01CJ3,,Open Ended Schemes,Other Scheme - FoF Overseas
-120044,HSBC Mutual Fund,HSBC Global Emerging Markets Fund - IDCW Direct Plan,INF336L01CH7,INF336L01CI5,Open Ended Schemes,Other Scheme - FoF Overseas
-120045,HSBC Mutual Fund,HSBC Flexi Cap Fund - Direct IDCW,INF336L01DF9,INF336L01DG7,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
-120046,HSBC Mutual Fund,HSBC Flexi Cap Fund - Direct Growth,INF336L01DH5,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
+120037,HSBC Mutual Fund,HSBC Liquid Fund - Direct Daily IDCW,,INF336L01CB0,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+120038,HSBC Mutual Fund,HSBC Liquid Fund -  Growth Direct,INF336L01CC8,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+120039,HSBC Mutual Fund,HSBC Liquid Fund - Direct Monthly IDCW,INF336L01BZ1,INF336L01CA2,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+120040,HSBC Mutual Fund,HSBC Liquid Fund - Direct Weekly IDCW,INF336L01LK2,INF336L01CD6,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+120043,HSBC Mutual Fund,HSBC Global Emerging Market Fund - Growth Direct,INF336L01CJ3,,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas
+120044,HSBC Mutual Fund,HSBC Global Emerging Markets Fund - IDCW Direct Plan,INF336L01CH7,INF336L01CI5,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas
+120045,HSBC Mutual Fund,HSBC Flexi Cap Fund - Direct IDCW,INF336L01DF9,INF336L01DG7,Open Ended Schemes,Equity Schemes - Flexi Cap Fund
+120046,HSBC Mutual Fund,HSBC Flexi Cap Fund - Direct Growth,INF336L01DH5,,Open Ended Schemes,Equity Schemes - Flexi Cap Fund
 120059,HSBC Mutual Fund,HSBC Medium to Long Duration Fund - Direct Growth,INF336L01DE2,,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund
 120073,HSBC Mutual Fund,HSBC Conservative Hybrid Fund - Direct Growth,INF336L01DW4,,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund
 120074,HSBC Mutual Fund,HSBC Conservative Hybrid Fund - Direct Monthly IDCW,INF336L01DX2,INF336L01DY0,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund
@@ -4020,10 +4020,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 129192,HSBC Mutual Fund,HSBC Multi Asset Active FOF IDCW,INF336L01IE1,INF336L01IF8,Open Ended Schemes,Other Scheme - FoF Domestic
 129193,HSBC Mutual Fund,HSBC Multi Asset Active FOF - Growth Direct,INF336L01IJ0,,Open Ended Schemes,Other Scheme - FoF Domestic
 129194,HSBC Mutual Fund,HSBC Multi Asset Active FOF Direct Plan IDCW,INF336L01IH4,INF336L01II2,Open Ended Schemes,Other Scheme - FoF Domestic
-129195,HSBC Mutual Fund,HSBC Income Plus Arbitrage Active FOF - Growth,INF336L01IM4,,Open Ended Schemes,Other Scheme - FoF Domestic
-129196,HSBC Mutual Fund,HSBC Income Plus Arbitrage Active FOF IDCW,INF336L01IK8,INF336L01IL6,Open Ended Schemes,Other Scheme - FoF Domestic
-129197,HSBC Mutual Fund,HSBC Income Plus Arbitrage Active FOF - Growth Direct,INF336L01IP7,,Open Ended Schemes,Other Scheme - FoF Domestic
-129198,HSBC Mutual Fund,HSBC Income Plus Arbitrage Active FOF Direct Plan IDCW,INF336L01IN2,INF336L01IO0,Open Ended Schemes,Other Scheme - FoF Domestic
+129195,HSBC Mutual Fund,HSBC Income Plus Arbitrage Active FOF - Growth,INF336L01IM4,,Open Ended Schemes,Fund of Funds Scheme
+129196,HSBC Mutual Fund,HSBC Income Plus Arbitrage Active FOF IDCW,INF336L01IK8,INF336L01IL6,Open Ended Schemes,Fund of Funds Scheme
+129197,HSBC Mutual Fund,HSBC Income Plus Arbitrage Active FOF - Growth Direct,INF336L01IP7,,Open Ended Schemes,Fund of Funds Scheme
+129198,HSBC Mutual Fund,HSBC Income Plus Arbitrage Active FOF Direct Plan IDCW,INF336L01IN2,INF336L01IO0,Open Ended Schemes,Fund of Funds Scheme
 129199,HSBC Mutual Fund,HSBC Aggressive Hybrid Active FOF - Dividend,INF336L01HY1,INF336L01HZ8,Open Ended Schemes,Fund of Funds Scheme
 129200,HSBC Mutual Fund,HSBC Aggressive Hybrid Active FOF - Growth Direct,INF336L01ID3,,Open Ended Schemes,Fund of Funds Scheme
 129201,HSBC Mutual Fund,HSBC Aggressive Hybrid Active FOF - Dividend Direct,INF336L01IB7,INF336L01IC5,Open Ended Schemes,Fund of Funds Scheme
@@ -8853,10 +8853,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 146736,Nippon India Mutual Fund,Reliance Fixed Horizon Fund XLI - Series 2 - Dividend Payout Option,INF204KB1Z23,,Close Ended Schemes,Income
 146737,Nippon India Mutual Fund,Reliance Fixed Horizon Fund XLI - Series 2 - Growth Option,INF204KB1Z15,,Close Ended Schemes,Income
 146738,Nippon India Mutual Fund,Reliance Fixed Horizon Fund XLI - Series 2 - Direct Plan - Growth Option,INF204KB1Z31,,Close Ended Schemes,Income
-146769,HSBC Mutual Fund,HSBC Large & Mid Cap Fund - Regular IDCW,INF336L01NZ6,INF336L01OA7,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund
-146770,HSBC Mutual Fund,HSBC Large & Mid Cap Fund - Direct IDCW,INF336L01NW3,INF336L01NX1,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund
-146771,HSBC Mutual Fund,HSBC Large & Mid Cap Fund - Regular Growth,INF336L01NY9,,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund
-146772,HSBC Mutual Fund,HSBC Large & Mid Cap Fund - Direct Growth,INF336L01NV5,,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund
+146769,HSBC Mutual Fund,HSBC Large & Mid Cap Fund - Regular IDCW,INF336L01NZ6,INF336L01OA7,Open Ended Schemes,Equity Schemes - Large & Mid Cap Fund
+146770,HSBC Mutual Fund,HSBC Large & Mid Cap Fund - Direct IDCW,INF336L01NW3,INF336L01NX1,Open Ended Schemes,Equity Schemes - Large & Mid Cap Fund
+146771,HSBC Mutual Fund,HSBC Large & Mid Cap Fund - Regular Growth,INF336L01NY9,,Open Ended Schemes,Equity Schemes - Large & Mid Cap Fund
+146772,HSBC Mutual Fund,HSBC Large & Mid Cap Fund - Direct Growth,INF336L01NV5,,Open Ended Schemes,Equity Schemes - Large & Mid Cap Fund
 146773,HDFC Mutual Fund,HDFC FMP 1127D March 2019 (1) - IDCW Option - Direct Plan,INF179KC1551,,Close Ended Schemes,Income
 146774,HDFC Mutual Fund,HDFC FMP 1127D March 2019 (1) - Quarterly IDCW Option - Direct Plan,INF179KC1569,,Close Ended Schemes,Income
 146775,HDFC Mutual Fund,HDFC FMP 1127D March 2019 (1) - IDCW Option,INF179KC1585,,Close Ended Schemes,Income
@@ -9741,10 +9741,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 148406,Bank of India Mutual Fund,BANK OF INDIA Flexi Cap Fund Direct Plan -IDCW,INF761K01FE8,INF761K01FG3,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
 148407,Bank of India Mutual Fund,BANK OF INDIA Flexi Cap Fund Regular Plan -IDCW,INF761K01FH1,INF761K01FJ7,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
 148408,Nippon India Mutual Fund,Nippon India ETF Nifty IT,INF204KB15V2,,Open Ended Schemes,Other Scheme - Other  ETFs
-148409,HSBC Mutual Fund,HSBC Focused Fund - Regular Growth,INF336L01PE6,,Open Ended Schemes,Equity Scheme - Focused Fund
-148410,HSBC Mutual Fund,HSBC Focused Fund - Regular IDCW,INF336L01PF3,INF336L01PG1,Open Ended Schemes,Equity Scheme - Focused Fund
-148411,HSBC Mutual Fund,HSBC Focused Fund - Direct Growth,INF336L01PB2,,Open Ended Schemes,Equity Scheme - Focused Fund
-148412,HSBC Mutual Fund,HSBC Focused Fund - Direct IDCW,INF336L01PC0,INF336L01PD8,Open Ended Schemes,Equity Scheme - Focused Fund
+148409,HSBC Mutual Fund,HSBC Focused Fund - Regular Growth,INF336L01PE6,,Open Ended Schemes,Equity Schemes - Focused Fund
+148410,HSBC Mutual Fund,HSBC Focused Fund - Regular IDCW,INF336L01PF3,INF336L01PG1,Open Ended Schemes,Equity Schemes - Focused Fund
+148411,HSBC Mutual Fund,HSBC Focused Fund - Direct Growth,INF336L01PB2,,Open Ended Schemes,Equity Schemes - Focused Fund
+148412,HSBC Mutual Fund,HSBC Focused Fund - Direct IDCW,INF336L01PC0,INF336L01PD8,Open Ended Schemes,Equity Schemes - Focused Fund
 148413,JM Financial Mutual Fund,JM Liquid Fund - Unclaimed Brokerage I.E.F. (Direct) - Growth Plan,,,Open Ended Schemes,Debt Scheme - Liquid Fund
 148414,JM Financial Mutual Fund,JM Liquid Fund - Unclaimed Application Refund Amount I.E.F. (Direct) - Growth Plan,,,Open Ended Schemes,Debt Scheme - Liquid Fund
 148415,JM Financial Mutual Fund,JM Liquid Fund - Withheld Brokerage I.E.F. (Direct) - Growth Plan,,,Open Ended Schemes,Debt Scheme - Liquid Fund
@@ -10740,10 +10740,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 149959,Tata Mutual Fund,Tata Nifty India Digital Exchange Traded Fund,INF277KA1364,,Open Ended Schemes,Other Scheme - Other  ETFs
 149960,Invesco Mutual Fund,Invesco India - Invesco EQQQ Nasdaq-100 ETF Fund of Fund - Regular Plan - Growth,INF205KA1577,,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas
 149961,Invesco Mutual Fund,Invesco India - Invesco EQQQ Nasdaq-100 ETF Fund of Fund - Direct Plan - Growth,INF205KA1585,,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas
-149962,HSBC Mutual Fund,HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Direct - Payout of IDCW,INF336L01QI5,INF336L01QJ3,Open Ended Schemes,Other Scheme - Index Funds
-149963,HSBC Mutual Fund,HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Regular - Growth,INF336L01QK1,,Open Ended Schemes,Other Scheme - Index Funds
-149964,HSBC Mutual Fund,HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Regular - payout of IDCW,INF336L01QL9,INF336L01QM7,Open Ended Schemes,Other Scheme - Index Funds
-149966,HSBC Mutual Fund,HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Direct - Growth,INF336L01QH7,,Open Ended Schemes,Other Scheme - Index Funds
+149962,HSBC Mutual Fund,HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Direct - Payout of IDCW,INF336L01QI5,INF336L01QJ3,Open Ended Schemes,Index Funds - Debt Funds
+149963,HSBC Mutual Fund,HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Regular - Growth,INF336L01QK1,,Open Ended Schemes,Index Funds - Debt Funds
+149964,HSBC Mutual Fund,HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Regular - payout of IDCW,INF336L01QL9,INF336L01QM7,Open Ended Schemes,Index Funds - Debt Funds
+149966,HSBC Mutual Fund,HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Direct - Growth,INF336L01QH7,,Open Ended Schemes,Index Funds - Debt Funds
 149968,DSP Mutual Fund,DSP Nifty SDL Plus G-Sec Jun 2028 30:70 Index Fund - Regular - Growth,INF740KA1QS5,,Open Ended Schemes,Other Scheme - Index Funds
 149969,DSP Mutual Fund,DSP Nifty SDL Plus G-Sec Jun 2028 30:70 Index Fund - Regular - IDCW,INF740KA1QT3,INF740KA1QU1,Open Ended Schemes,Other Scheme - Index Funds
 149970,DSP Mutual Fund,DSP Nifty SDL Plus G-Sec Jun 2028 30:70 Index Fund - Direct - Growth,INF740KA1QV9,,Open Ended Schemes,Other Scheme - Index Funds
@@ -11355,18 +11355,18 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 150998,HSBC Mutual Fund,HSBC Corporate Bond Fund - Direct Quarterly IDCW,INF917K01HP8,INF917K01HO1,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
 151000,HSBC Mutual Fund,HSBC Corporate Bond Fund - Direct Annual IDCW,INF917K01VZ8,INF917K01VY1,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
 151001,HSBC Mutual Fund,HSBC Corporate Bond Fund - Regular Annual IDCW,INF917K01WB7,INF917K01WA9,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
-151012,HSBC Mutual Fund,HSBC Gilt Fund - Regular Quarterly IDCW,INF917K01BN6,INF917K01BO4,Open Ended Schemes,Debt Scheme - Gilt Fund
-151013,HSBC Mutual Fund,HSBC Gilt Fund - Regular Growth,INF917K01BP1,,Open Ended Schemes,Debt Scheme - Gilt Fund
-151014,HSBC Mutual Fund,HSBC Gilt Fund - Direct Growth,INF917K01FI7,,Open Ended Schemes,Debt Scheme - Gilt Fund
-151015,HSBC Mutual Fund,HSBC Gilt Fund - Direct Quarterly IDCW,INF917K01FK3,INF917K01FJ5,Open Ended Schemes,Debt Scheme - Gilt Fund
+151012,HSBC Mutual Fund,HSBC Gilt Fund - Regular Quarterly IDCW,INF917K01BN6,INF917K01BO4,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
+151013,HSBC Mutual Fund,HSBC Gilt Fund - Regular Growth,INF917K01BP1,,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
+151014,HSBC Mutual Fund,HSBC Gilt Fund - Direct Growth,INF917K01FI7,,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
+151015,HSBC Mutual Fund,HSBC Gilt Fund - Direct Quarterly IDCW,INF917K01FK3,INF917K01FJ5,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
 151033,HSBC Mutual Fund,HSBC Midcap Fund - Regular IDCW,INF917K01239,INF917K01247,Open Ended Schemes,Equity Scheme - Mid Cap Fund
 151034,HSBC Mutual Fund,HSBC Midcap Fund - Regular Growth,INF917K01254,,Open Ended Schemes,Equity Scheme - Mid Cap Fund
 151035,HSBC Mutual Fund,HSBC Midcap Fund - Direct IDCW,INF917K01E78,INF917K01FX6,Open Ended Schemes,Equity Scheme - Mid Cap Fund
 151036,HSBC Mutual Fund,HSBC Midcap Fund - Direct Growth,INF917K01FZ1,,Open Ended Schemes,Equity Scheme - Mid Cap Fund
-151037,HSBC Mutual Fund,HSBC Infrastructure Fund - Regular Growth,INF917K01536,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-151038,HSBC Mutual Fund,HSBC Infrastructure Fund - Regular IDCW,INF917K01544,INF917K01551,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-151039,HSBC Mutual Fund,HSBC Infrastructure Fund - Direct IDCW,INF917K01E52,INF917K01FU2,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-151040,HSBC Mutual Fund,HSBC Infrastructure Fund - Direct Growth,INF917K01FW8,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
+151037,HSBC Mutual Fund,HSBC Infrastructure Fund - Regular Growth,INF917K01536,,Open Ended Schemes,Equity Schemes - Sectoral Fund
+151038,HSBC Mutual Fund,HSBC Infrastructure Fund - Regular IDCW,INF917K01544,INF917K01551,Open Ended Schemes,Equity Schemes - Sectoral Fund
+151039,HSBC Mutual Fund,HSBC Infrastructure Fund - Direct IDCW,INF917K01E52,INF917K01FU2,Open Ended Schemes,Equity Schemes - Sectoral Fund
+151040,HSBC Mutual Fund,HSBC Infrastructure Fund - Direct Growth,INF917K01FW8,,Open Ended Schemes,Equity Schemes - Sectoral Fund
 151041,HSBC Mutual Fund,HSBC Credit Risk Fund- Regular Plan - Bonus,,INF917K01CU9,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
 151042,HSBC Mutual Fund,HSBC Credit Risk Fund - Regular IDCW,INF917K01114,INF917K01122,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
 151043,HSBC Mutual Fund,HSBC Credit Risk Fund - Regular Growth,INF917K01130,,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
@@ -11382,12 +11382,12 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 151053,HSBC Mutual Fund,HSBC Money Market Fund - Direct Weekly IDCW,,INF917K01FH9,Open Ended Schemes,Debt Scheme - Money Market Fund
 151054,HSBC Mutual Fund,HSBC Money Market Fund - Direct Growth,INF917K01FE6,,Open Ended Schemes,Debt Scheme - Money Market Fund
 151055,HSBC Mutual Fund,HSBC Money Market Fund - Direct Daily IDCW,,INF917K01FD8,Open Ended Schemes,Debt Scheme - Money Market Fund
-151056,HSBC Mutual Fund,HSBC Equity Savings Fund - Regular Monthly IDCW,INF917K01965,INF917K01973,Open Ended Schemes,Hybrid Scheme - Equity Savings
-151057,HSBC Mutual Fund,HSBC Equity Savings Fund - Regular Quarterly IDCW,INF917K01981,INF917K01999,Open Ended Schemes,Hybrid Scheme - Equity Savings
-151058,HSBC Mutual Fund,HSBC Equity Savings Fund - Regular Growth,INF917K01AA5,,Open Ended Schemes,Hybrid Scheme - Equity Savings
-151059,HSBC Mutual Fund,HSBC Equity Savings Fund - Direct Quarterly IDCW,INF917K01GD6,INF917K01GC8,Open Ended Schemes,Hybrid Scheme - Equity Savings
-151060,HSBC Mutual Fund,HSBC Equity Savings Fund - Direct Growth,INF917K01GE4,,Open Ended Schemes,Hybrid Scheme - Equity Savings
-151061,HSBC Mutual Fund,HSBC Equity Savings Fund - Direct Monthly IDCW,INF917K01E37,INF917K01GA2,Open Ended Schemes,Hybrid Scheme - Equity Savings
+151056,HSBC Mutual Fund,HSBC Equity Savings Fund - Regular Monthly IDCW,INF917K01965,INF917K01973,Open Ended Schemes,Hybrid Schemes - Equity Savings Fund
+151057,HSBC Mutual Fund,HSBC Equity Savings Fund - Regular Quarterly IDCW,INF917K01981,INF917K01999,Open Ended Schemes,Hybrid Schemes - Equity Savings Fund
+151058,HSBC Mutual Fund,HSBC Equity Savings Fund - Regular Growth,INF917K01AA5,,Open Ended Schemes,Hybrid Schemes - Equity Savings Fund
+151059,HSBC Mutual Fund,HSBC Equity Savings Fund - Direct Quarterly IDCW,INF917K01GD6,INF917K01GC8,Open Ended Schemes,Hybrid Schemes - Equity Savings Fund
+151060,HSBC Mutual Fund,HSBC Equity Savings Fund - Direct Growth,INF917K01GE4,,Open Ended Schemes,Hybrid Schemes - Equity Savings Fund
+151061,HSBC Mutual Fund,HSBC Equity Savings Fund - Direct Monthly IDCW,INF917K01E37,INF917K01GA2,Open Ended Schemes,Hybrid Schemes - Equity Savings Fund
 151062,HSBC Mutual Fund,HSBC Short Duration Fund - Bonus,INF917K01CM6,,Open Ended Schemes,Debt Scheme - Short Duration Fund
 151063,HSBC Mutual Fund,HSBC Short Duration Fund -  Regular Plan - Monthly IDCW,INF917K01CH6,INF917K01CI4,Open Ended Schemes,Debt Scheme - Short Duration Fund
 151064,HSBC Mutual Fund,HSBC Short Duration Fund - Regular Quarterly IDCW,INF917K01CJ2,INF917K01CK0,Open Ended Schemes,Debt Scheme - Short Duration Fund
@@ -11397,10 +11397,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 151069,HSBC Mutual Fund,HSBC Short Duration Fund - Direct Quarterly IDCW,INF917K01IS0,INF917K01IR2,Open Ended Schemes,Debt Scheme - Short Duration Fund
 151070,HSBC Mutual Fund,HSBC Short Duration Fund - Direct Annual IDCW,INF917K01VR5,INF917K01VQ7,Open Ended Schemes,Debt Scheme - Short Duration Fund
 151071,HSBC Mutual Fund,HSBC Short Duration Fund - Regular Annual IDCW,INF917K01VT1,INF917K01VS3,Open Ended Schemes,Debt Scheme - Short Duration Fund
-151076,HSBC Mutual Fund,HSBC ELSS Tax saver Fund - Regular Growth,INF677K01064,,Open Ended Schemes,Equity Scheme - ELSS
-151077,HSBC Mutual Fund,HSBC ELSS Tax saver Fund - Regular IDCW Payout,INF677K01072,,Open Ended Schemes,Equity Scheme - ELSS
-151078,HSBC Mutual Fund,HSBC ELSS Tax saver Fund - Direct Growth,INF917K01GP0,,Open Ended Schemes,Equity Scheme - ELSS
-151079,HSBC Mutual Fund,HSBC ELSS Tax saver Fund - Direct IDCW Payout,INF917K01GO3,,Open Ended Schemes,Equity Scheme - ELSS
+151076,HSBC Mutual Fund,HSBC ELSS Tax saver Fund - Regular Growth,INF677K01064,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
+151077,HSBC Mutual Fund,HSBC ELSS Tax saver Fund - Regular IDCW Payout,INF677K01072,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
+151078,HSBC Mutual Fund,HSBC ELSS Tax saver Fund - Direct Growth,INF917K01GP0,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
+151079,HSBC Mutual Fund,HSBC ELSS Tax saver Fund - Direct IDCW Payout,INF917K01GO3,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
 151084,HSBC Mutual Fund,HSBC Dynamic Bond Fund - Regular Growth,INF677K01916,,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
 151085,HSBC Mutual Fund,HSBC Dynamic Bond Fund - Regular Monthly IDCW,INF677K01924,INF677K01932,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
 151086,HSBC Mutual Fund,HSBC Dynamic Bond Fund - Direct Monthly IDCW,INF917K01GZ9,INF917K01GY2,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
@@ -11683,10 +11683,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 151476,SBI Mutual Fund,SBI Dividend Yield Fund - Regular Plan - Growth,INF200KA11W9,,Open Ended Schemes,Equity Scheme - Dividend Yield Fund
 151477,SBI Mutual Fund,SBI Dividend Yield Fund - Regular Plan - Income Distribution cum Capital Withdrawal (IDCW) Option,INF200KA12W7,INF200KA13W5,Open Ended Schemes,Equity Scheme - Dividend Yield Fund
 151478,SBI Mutual Fund,SBI Dividend Yield Fund - Direct Plan - Growth,INF200KA14W3,,Open Ended Schemes,Equity Scheme - Dividend Yield Fund
-151479,HSBC Mutual Fund,HSBC CRISIL IBX Gilt June 2027 Index Fund - Direct - Growth,INF336L01QT2,,Open Ended Schemes,Other Scheme - Index Funds
-151480,HSBC Mutual Fund,HSBC CRISIL IBX Gilt June 2027 Index Fund - Regular - Growth,INF336L01QW6,,Open Ended Schemes,Other Scheme - Index Funds
-151481,HSBC Mutual Fund,HSBC CRISIL IBX Gilt June 2027 Index Fund - Regular - IDCW,INF336L01QX4,INF336L01QY2,Open Ended Schemes,Other Scheme - Index Funds
-151482,HSBC Mutual Fund,HSBC CRISIL IBX Gilt June 2027 Index Fund - Direct - IDCW,INF336L01QU0,INF336L01QV8,Open Ended Schemes,Other Scheme - Index Funds
+151479,HSBC Mutual Fund,HSBC CRISIL IBX Gilt June 2027 Index Fund - Direct - Growth,INF336L01QT2,,Open Ended Schemes,Index Funds - Debt Funds
+151480,HSBC Mutual Fund,HSBC CRISIL IBX Gilt June 2027 Index Fund - Regular - Growth,INF336L01QW6,,Open Ended Schemes,Index Funds - Debt Funds
+151481,HSBC Mutual Fund,HSBC CRISIL IBX Gilt June 2027 Index Fund - Regular - IDCW,INF336L01QX4,INF336L01QY2,Open Ended Schemes,Index Funds - Debt Funds
+151482,HSBC Mutual Fund,HSBC CRISIL IBX Gilt June 2027 Index Fund - Direct - IDCW,INF336L01QU0,INF336L01QV8,Open Ended Schemes,Index Funds - Debt Funds
 151483,UTI Mutual Fund,UTI Fixed Term Income Fund Series XXXVI - I (1574 Days) - Regular Plan - Growth Option,INF789F1AXN2,,Close Ended Schemes,Income
 151484,UTI Mutual Fund,UTI Fixed Term Income Fund Series XXXVI - I (1574 Days) - Direct Plan - Payout of IDCW Option,INF789F1AXO0,,Close Ended Schemes,Income
 151485,UTI Mutual Fund,UTI Fixed Term Income Fund Series XXXVI - I (1574 Days) - Direct Plan - Growth Option,INF789F1AXP7,,Close Ended Schemes,Income
@@ -12704,10 +12704,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 152826,Franklin Templeton Mutual Fund,Franklin India Ultra Short Duration Fund - IDCW,INF090I01XK6,INF090I01XO8,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
 152827,Franklin Templeton Mutual Fund,Franklin India Ultra Short Duration Fund - Direct - IDCW,INF090I01XM2,INF090I01XN0,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
 152828,Franklin Templeton Mutual Fund,Franklin India Ultra Short Duration Fund - Growth,INF090I01XJ8,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
-152829,HSBC Mutual Fund,HSBC India Export Opportunities Fund - Direct Growth,INF336L01RO1,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-152830,HSBC Mutual Fund,HSBC India Export Opportunities Fund - Regular Growth,INF336L01RL7,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-152831,HSBC Mutual Fund,HSBC India Export Opportunities Fund - Direct IDCW,INF336L01RP8,INF336L01RQ6,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-152832,HSBC Mutual Fund,HSBC India Export Opportunities Fund - Regular IDCW,INF336L01RM5,INF336L01RN3,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
+152829,HSBC Mutual Fund,HSBC India Export Opportunities Fund - Direct Growth,INF336L01RO1,,Open Ended Schemes,Equity Schemes - Thematic Fund
+152830,HSBC Mutual Fund,HSBC India Export Opportunities Fund - Regular Growth,INF336L01RL7,,Open Ended Schemes,Equity Schemes - Thematic Fund
+152831,HSBC Mutual Fund,HSBC India Export Opportunities Fund - Direct IDCW,INF336L01RP8,INF336L01RQ6,Open Ended Schemes,Equity Schemes - Thematic Fund
+152832,HSBC Mutual Fund,HSBC India Export Opportunities Fund - Regular IDCW,INF336L01RM5,INF336L01RN3,Open Ended Schemes,Equity Schemes - Thematic Fund
 152833,Tata Mutual Fund,Tata Nifty200 Alpha 30 Index Fund - Direct - IDCW Reinvestment,,INF277KA1CK3,Open Ended Schemes,Other Scheme - Index Funds
 152834,Tata Mutual Fund,Tata Nifty200 Alpha 30 Index Fund - Regular -Growth,INF277KA1CF3,,Open Ended Schemes,Other Scheme - Index Funds
 152835,Tata Mutual Fund,Tata Nifty200 Alpha 30 Index Fund - Regular - IDCW Payout,INF277KA1CG1,,Open Ended Schemes,Other Scheme - Index Funds
@@ -13124,10 +13124,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153263,ITI Mutual Fund,ITI Bharat Consumption Fund - Regular Plan Plan - Growth,INF00XX01DD8,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 153264,HDFC Mutual Fund,HDFC Nifty100 Quality 30 Index Fund - Direct Plan,INF179KC1JF5,,Open Ended Schemes,Other Scheme - Index Funds
 153265,HDFC Mutual Fund,HDFC Nifty100 Quality 30 Index Fund - Regular Plan,INF179KC1JE8,,Open Ended Schemes,Other Scheme - Index Funds
-153266,HSBC Mutual Fund,HSBC Financial Services Fund - Direct Growth,INF336L01RU8,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-153267,HSBC Mutual Fund,HSBC Financial Services Fund - Regular Growth,INF336L01RR4,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-153268,HSBC Mutual Fund,HSBC Financial Services Fund - Regular IDCW,INF336L01RT0,INF336L01RS2,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-153269,HSBC Mutual Fund,HSBC Financial Services Fund - Direct IDCW,INF336L01RW4,INF336L01RV6,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
+153266,HSBC Mutual Fund,HSBC Financial Services Fund - Direct Growth,INF336L01RU8,,Open Ended Schemes,Equity Schemes - Thematic Fund
+153267,HSBC Mutual Fund,HSBC Financial Services Fund - Regular Growth,INF336L01RR4,,Open Ended Schemes,Equity Schemes - Thematic Fund
+153268,HSBC Mutual Fund,HSBC Financial Services Fund - Regular IDCW,INF336L01RT0,INF336L01RS2,Open Ended Schemes,Equity Schemes - Thematic Fund
+153269,HSBC Mutual Fund,HSBC Financial Services Fund - Direct IDCW,INF336L01RW4,INF336L01RV6,Open Ended Schemes,Equity Schemes - Thematic Fund
 153270,UTI Mutual Fund,UTI Nifty India Manufacturing Index Fund - Direct Plan - Growth Option,INF789F1AB48,,Open Ended Schemes,Other Scheme - Index Funds
 153271,UTI Mutual Fund,UTI Nifty India Manufacturing Index Fund - Regular Plan - Growth Option,INF789F1AB30,,Open Ended Schemes,Other Scheme - Index Funds
 153272,UTI Mutual Fund,UTI Nifty Midsmallcap 400 Momentum Quality 100 Index Fund - Direct Plan - Growth Option,INF789F1AB22,,Open Ended Schemes,Other Scheme - Index Funds
@@ -34735,8 +34735,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 101302,DSP Asset Managers Private Limited,DSP Merrill Lynch Short Term Fund--,,,Open Ended,Debt Scheme - Short Duration Fund
 101590,Canara Robeco Asset Management Company Limited,CANINCOME-AUTOMATIC REPURCHASE PLAN,,,Open Ended,Debt Scheme - Medium to Long Duration Fund
 120292,ICICI Prudential Asset Management Company Limited,ICICI Prudential Blended Plan B - Direct Plan -  Daily Dividend Option - I,,,Open Ended,Hybrid Scheme - Multi Asset Allocation
-101683,HSBC Asset Management (India) Private Ltd.,HSBC Income Fund - Investment Plan-Dividend-Payout,,,Open Ended,Debt Scheme - Medium to Long Duration Fund
-101684,HSBC Asset Management (India) Private Ltd.,HSBC Income Fund - Investment Plan-Dividend-Reinvestment,,,Open Ended,Debt Scheme - Medium to Long Duration Fund
+101683,HSBC Asset Management (India) Private Ltd.,HSBC Income Fund - Investment Plan-Dividend-Payout,,,Open Ended,Income/Debt Oriented Schemes - Medium to Long Term Fund
+101684,HSBC Asset Management (India) Private Ltd.,HSBC Income Fund - Investment Plan-Dividend-Reinvestment,,,Open Ended,Income/Debt Oriented Schemes - Medium to Long Term Fund
 101595,HSBC Asset Management (India) Private Ltd.,HSBC Income Fund - Short Term Plan-Dividend-Payout,,,Open Ended,Debt Scheme - Short Duration Fund
 101596,HSBC Asset Management (India) Private Ltd.,HSBC Income Fund - Short Term Plan-Dividend-Reinvestment,,,Open Ended,Debt Scheme - Short Duration Fund
 101689,HSBC Asset Management (India) Private Ltd.,HSBC Cash Fund-Growth-Dividend Option,,,Open Ended,Income/Debt Oriented Schemes - Liquid Fund
