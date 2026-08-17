@@ -359,8 +359,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 101667,Nippon India Mutual Fund,NIPPON INDIA SHORT DURATION FUND - MONTHLY IDCW Option,INF204K01FM2,INF204K01FN0,Open Ended Schemes,Debt Scheme - Short Duration Fund,11.5667,14-Aug-2026
 101669,Nippon India Mutual Fund,NIPPON INDIA SHORT DURATION FUND - QUARTERLY IDCW OPTION,INF204K01FO8,INF204K01FP5,Open Ended Schemes,Debt Scheme - Short Duration Fund,15.0369,14-Aug-2026
 101672,Tata Mutual Fund,Tata Value Fund - Regular Plan -Growth Option,INF277K01451,,Open Ended Schemes,Equity Scheme - Value Fund,354.0740,14-Aug-2026
-101685,HSBC Mutual Fund,HSBC Medium to Long Duration Fund - Regular Growth,INF336L01776,,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund,44.0322,14-Aug-2026
-101686,HSBC Mutual Fund,HSBC Medium to Long Duration Fund - Regular Quarterly IDCW,INF336L01784,INF336L01792,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund,10.7321,14-Aug-2026
+101685,HSBC Mutual Fund,HSBC Medium to Long Duration Fund - Regular Growth,INF336L01776,,Open Ended Schemes,Income/Debt Oriented Schemes - Medium to Long Term Fund,44.0322,14-Aug-2026
+101686,HSBC Mutual Fund,HSBC Medium to Long Duration Fund - Regular Quarterly IDCW,INF336L01784,INF336L01792,Open Ended Schemes,Income/Debt Oriented Schemes - Medium to Long Term Fund,10.7321,14-Aug-2026
 101703,Tata Mutual Fund,Tata Medium Term Fund -Regular Plan - Growth Option,INF277K01717,,Open Ended Schemes,Debt Scheme - Medium Duration Fund,29.7872,23-Sep-2022
 101705,ICICI Prudential Mutual Fund,ICICI Prudential BSE Sensex ETF,INF346A01034,,Open Ended Schemes,Other Scheme - Other  ETFs,897.7888,14-Aug-2026
 101706,ICICI Prudential Mutual Fund,ICICI Prudential Multicap Fund - IDCW,INF109K01FK7,INF109K01621,Open Ended Schemes,Equity Scheme - Multi Cap Fund,35.06,14-Aug-2026
@@ -2425,14 +2425,14 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 120044,HSBC Mutual Fund,HSBC Global Emerging Markets Fund - IDCW Direct Plan,INF336L01CH7,INF336L01CI5,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas,30.0069,14-Aug-2026
 120045,HSBC Mutual Fund,HSBC Flexi Cap Fund - Direct IDCW,INF336L01DF9,INF336L01DG7,Open Ended Schemes,Equity Schemes - Flexi Cap Fund,48.2886,14-Aug-2026
 120046,HSBC Mutual Fund,HSBC Flexi Cap Fund - Direct Growth,INF336L01DH5,,Open Ended Schemes,Equity Schemes - Flexi Cap Fund,265.1068,14-Aug-2026
-120059,HSBC Mutual Fund,HSBC Medium to Long Duration Fund - Direct Growth,INF336L01DE2,,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund,49.2573,14-Aug-2026
+120059,HSBC Mutual Fund,HSBC Medium to Long Duration Fund - Direct Growth,INF336L01DE2,,Open Ended Schemes,Income/Debt Oriented Schemes - Medium to Long Term Fund,49.2573,14-Aug-2026
 120073,HSBC Mutual Fund,HSBC Conservative Hybrid Fund - Direct Growth,INF336L01DW4,,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund,72.4279,14-Aug-2026
 120074,HSBC Mutual Fund,HSBC Conservative Hybrid Fund - Direct Monthly IDCW,INF336L01DX2,INF336L01DY0,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund,17.4461,14-Aug-2026
 120075,HSBC Mutual Fund,HSBC Conservative Hybrid Fund - Direct Quarterly IDCW,INF336L01DZ7,INF336L01EA8,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund,15.1096,14-Aug-2026
 120084,PGIM India Mutual Fund,PGIM India Dynamic Bond Fund - Direct Plan-Growth Option,INF663L01AD7,,Open Ended Schemes,Debt Scheme - Dynamic Bond,3134.0353,14-Aug-2026
 120085,PGIM India Mutual Fund,PGIM India Dynamic Bond Fund - Direct Plan-Monthly Dividend Option,INF663L01AF2,INF663L01AE5,Open Ended Schemes,Debt Scheme - Dynamic Bond,1564.4811,05-Mar-2021
 120086,PGIM India Mutual Fund,PGIM India Dynamic Bond Fund - Direct Plan-Quarterly Dividend Option,INF663L01AI6,INF663L01AH8,Open Ended Schemes,Debt Scheme - Dynamic Bond,1172.0145,14-Aug-2026
-120101,HSBC Mutual Fund,HSBC Medium to Long Duration Fund - Direct Quarterly IDCW,INF336L01EO9,INF336L01EP6,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund,10.5788,14-Aug-2026
+120101,HSBC Mutual Fund,HSBC Medium to Long Duration Fund - Direct Quarterly IDCW,INF336L01EO9,INF336L01EP6,Open Ended Schemes,Income/Debt Oriented Schemes - Medium to Long Term Fund,10.5788,14-Aug-2026
 120136,SBI Mutual Fund,SBI Constant Maturity 10 Year Gilt Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200K01SI1,INF200K01SJ9,Open Ended Schemes,Debt Scheme - Gilt Fund with 10 year constant duration,22.7762,14-Aug-2026
 120137,SBI Mutual Fund,SBI CONSTANT MATURITY 10 YEAR GILT FUND - DIRECT PLAN - GROWTH,INF200K01SK7,,Open Ended Schemes,Debt Scheme - Gilt Fund with 10 year constant duration,70.0194,14-Aug-2026
 120152,Kotak Mahindra Mutual Fund,Kotak Large Cap  Fund - Growth - Direct,INF174K01KW6,,Open Ended Schemes,Equity Scheme - Large Cap Fund,669.475,14-Aug-2026
@@ -4016,10 +4016,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 129188,Invesco Mutual Fund,Invesco India - Invesco Global Equity Income Fund of Fund - Direct Plan - Growth,INF205K01B49,,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas,43.6124,14-Aug-2026
 129189,Invesco Mutual Fund,Invesco India - Invesco Global Equity Income Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment),INF205K01B23,INF205K01B31,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas,39.1957,14-Aug-2026
 129190,Invesco Mutual Fund,Invesco India - Invesco Global Equity Income Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment),INF205K01B56,INF205K01B64,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas,43.0836,14-Aug-2026
-129191,HSBC Mutual Fund,HSBC Multi Asset Active FOF - Growth,INF336L01IG6,,Open Ended Schemes,Other Scheme - FoF Domestic,42.2146,14-Aug-2026
-129192,HSBC Mutual Fund,HSBC Multi Asset Active FOF IDCW,INF336L01IE1,INF336L01IF8,Open Ended Schemes,Other Scheme - FoF Domestic,30.8055,14-Aug-2026
-129193,HSBC Mutual Fund,HSBC Multi Asset Active FOF - Growth Direct,INF336L01IJ0,,Open Ended Schemes,Other Scheme - FoF Domestic,45.0586,14-Aug-2026
-129194,HSBC Mutual Fund,HSBC Multi Asset Active FOF Direct Plan IDCW,INF336L01IH4,INF336L01II2,Open Ended Schemes,Other Scheme - FoF Domestic,21.643,14-Aug-2026
+129191,HSBC Mutual Fund,HSBC Multi Asset Active FOF - Growth,INF336L01IG6,,Open Ended Schemes,Fund of Funds Scheme,42.2146,14-Aug-2026
+129192,HSBC Mutual Fund,HSBC Multi Asset Active FOF IDCW,INF336L01IE1,INF336L01IF8,Open Ended Schemes,Fund of Funds Scheme,30.8055,14-Aug-2026
+129193,HSBC Mutual Fund,HSBC Multi Asset Active FOF - Growth Direct,INF336L01IJ0,,Open Ended Schemes,Fund of Funds Scheme,45.0586,14-Aug-2026
+129194,HSBC Mutual Fund,HSBC Multi Asset Active FOF Direct Plan IDCW,INF336L01IH4,INF336L01II2,Open Ended Schemes,Fund of Funds Scheme,21.643,14-Aug-2026
 129195,HSBC Mutual Fund,HSBC Income Plus Arbitrage Active FOF - Growth,INF336L01IM4,,Open Ended Schemes,Fund of Funds Scheme,22.7108,14-Aug-2026
 129196,HSBC Mutual Fund,HSBC Income Plus Arbitrage Active FOF IDCW,INF336L01IK8,INF336L01IL6,Open Ended Schemes,Fund of Funds Scheme,16.3678,14-Aug-2026
 129197,HSBC Mutual Fund,HSBC Income Plus Arbitrage Active FOF - Growth Direct,INF336L01IP7,,Open Ended Schemes,Fund of Funds Scheme,24.1649,14-Aug-2026
@@ -9316,14 +9316,14 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 147733,Mahindra Manulife Mutual Fund,Mahindra Manulife Ultra Short Duration Fund - Direct Plan - Daily IDCW,,INF174V01895,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund,1260.3311,14-Aug-2026
 147734,Mahindra Manulife Mutual Fund,Mahindra Manulife Ultra Short Duration Fund - Regular Plan - Growth,INF174V01853,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund,1473.0245,14-Aug-2026
 147735,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty Bank ETF,INF209KB17D5,,Open Ended Schemes,Exchange Traded Funds,59.0300,14-Aug-2026
-147736,Mirae Asset Mutual Fund,Mirae Asset Overnight Fund Direct Plan Growth,INF769K01FG6,,Open Ended Schemes,Debt Scheme - Overnight Fund,1408.2580,16-Aug-2026
-147737,Mirae Asset Mutual Fund,Mirae Asset Overnight Fund Direct Daily IDCW,,INF769K01FJ0,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.0243,16-Aug-2026
-147738,Mirae Asset Mutual Fund,Mirae Asset Overnight Fund Direct Monthly IDCW,INF769K01FF8,INF769K01FI2,Open Ended Schemes,Debt Scheme - Overnight Fund,1003.2074,16-Aug-2026
-147739,Mirae Asset Mutual Fund,Mirae Asset Overnight Fund Regular Plan Growth,INF769K01FE1,,Open Ended Schemes,Debt Scheme - Overnight Fund,1399.5433,16-Aug-2026
-147740,Mirae Asset Mutual Fund,Mirae Asset Overnight Fund Direct Weekly IDCW,,INF769K01FK8,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.5664,16-Aug-2026
-147741,Mirae Asset Mutual Fund,Mirae Asset Overnight Fund Regular Weekly IDCW,,INF769K01FM4,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.5699,16-Aug-2026
-147742,Mirae Asset Mutual Fund,Mirae Asset Overnight Fund Regular Monthly IDCW,INF769K01FD3,INF769K01FH4,Open Ended Schemes,Debt Scheme - Overnight Fund,1003.1656,16-Aug-2026
-147743,Mirae Asset Mutual Fund,Mirae Asset Overnight Fund Regular Daily  IDCW,,INF769K01FL6,Open Ended Schemes,Debt Scheme - Overnight Fund,1000.0067,16-Aug-2026
+147736,Mirae Asset Mutual Fund,Mirae Asset Overnight Fund Direct Plan Growth,INF769K01FG6,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1408.2580,16-Aug-2026
+147737,Mirae Asset Mutual Fund,Mirae Asset Overnight Fund Direct Daily IDCW,,INF769K01FJ0,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1000.0243,16-Aug-2026
+147738,Mirae Asset Mutual Fund,Mirae Asset Overnight Fund Direct Monthly IDCW,INF769K01FF8,INF769K01FI2,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1003.2074,16-Aug-2026
+147739,Mirae Asset Mutual Fund,Mirae Asset Overnight Fund Regular Plan Growth,INF769K01FE1,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1399.5433,16-Aug-2026
+147740,Mirae Asset Mutual Fund,Mirae Asset Overnight Fund Direct Weekly IDCW,,INF769K01FK8,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1000.5664,16-Aug-2026
+147741,Mirae Asset Mutual Fund,Mirae Asset Overnight Fund Regular Weekly IDCW,,INF769K01FM4,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1000.5699,16-Aug-2026
+147742,Mirae Asset Mutual Fund,Mirae Asset Overnight Fund Regular Monthly IDCW,INF769K01FD3,INF769K01FH4,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1003.1656,16-Aug-2026
+147743,Mirae Asset Mutual Fund,Mirae Asset Overnight Fund Regular Daily  IDCW,,INF769K01FL6,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund,1000.0067,16-Aug-2026
 147748,Union Mutual Fund,Union Large & Midcap Fund - Regular Plan - Growth Option,INF582M01GD4,,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund,27.59,14-Aug-2026
 147749,Union Mutual Fund,Union Large & Midcap Fund - Regular Plan - IDCW Option,INF582M01GG7,INF582M01GF9,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund,27.59,14-Aug-2026
 147750,Union Mutual Fund,Union Large & Midcap Fund - Direct Plan - Growth Option,INF582M01GA0,,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund,29.97,14-Aug-2026
@@ -9732,10 +9732,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 148397,IL&FS Mutual Fund (IDF),IL&FS Infrastructure Debt Fund Series 2A - Growth - Direct,INF613Q01140,,Close Ended Schemes,Income,1979043.4256,30-Jun-2026
 148398,IL&FS Mutual Fund (IDF),IL&FS Infrastructure Debt Fund Series 2B - Growth - Direct,INF613Q01157,,Close Ended Schemes,Income,2510326.4049,30-Jun-2026
 148399,IL&FS Mutual Fund (IDF),IL&FS Infrastructure Debt Fund Series 2C - Growth - Direct,INF613Q01165,,Close Ended Schemes,Income,2472409.3435,30-Jun-2026
-148400,Mirae Asset Mutual Fund,Mirae Asset Arbitrage Fund Regular Growth,INF769K01FP7,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,13.863,14-Aug-2026
-148401,Mirae Asset Mutual Fund,Mirae Asset Arbitrage Fund Direct Growth,INF769K01FS1,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,14.510,14-Aug-2026
-148402,Mirae Asset Mutual Fund,Mirae Asset Arbitrage Fund Direct IDCW,INF769K01FR3,INF769K01FT9,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,14.490,14-Aug-2026
-148403,Mirae Asset Mutual Fund,Mirae Asset Arbitrage Fund Regular IDCW,INF769K01FO0,INF769K01FQ5,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,13.863,14-Aug-2026
+148400,Mirae Asset Mutual Fund,Mirae Asset Arbitrage Fund Regular Growth,INF769K01FP7,,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund,13.863,14-Aug-2026
+148401,Mirae Asset Mutual Fund,Mirae Asset Arbitrage Fund Direct Growth,INF769K01FS1,,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund,14.510,14-Aug-2026
+148402,Mirae Asset Mutual Fund,Mirae Asset Arbitrage Fund Direct IDCW,INF769K01FR3,INF769K01FT9,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund,14.490,14-Aug-2026
+148403,Mirae Asset Mutual Fund,Mirae Asset Arbitrage Fund Regular IDCW,INF769K01FO0,INF769K01FQ5,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund,13.863,14-Aug-2026
 148404,Bank of India Mutual Fund,BANK OF INDIA Flexi Cap Fund Direct Plan -Growth,INF761K01FF5,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,42.57,14-Aug-2026
 148405,Bank of India Mutual Fund,BANK OF INDIA Flexi Cap Fund Regular Plan -Growth,INF761K01FI9,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,38.72,14-Aug-2026
 148406,Bank of India Mutual Fund,BANK OF INDIA Flexi Cap Fund Direct Plan -IDCW,INF761K01FE8,INF761K01FG3,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,36.38,14-Aug-2026
@@ -10275,8 +10275,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 149173,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Regular Plan -Income Distribution Capital Withdrawal Option (IDCW),INF200KA1Z56,,Close Ended Schemes,Income,13.2591,14-Aug-2026
 149174,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Direct Plan - Growth,INF200KA1Z64,,Close Ended Schemes,Income,13.3658,14-Aug-2026
 149175,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Direct Plan - Income Distribution Capital Withdrawal Option (IDCW),INF200KA1Z72,,Close Ended Schemes,Income,13.3658,14-Aug-2026
-149180,HDFC Mutual Fund,HDFC Developed World Overseas Equity Passive FOF - Direct Plan - Growth Option,INF179KC1BO4,,Open Ended Schemes,Other Scheme - FoF Overseas,22.343,13-Aug-2026
-149181,HDFC Mutual Fund,HDFC Developed World Overseas Equity Passive FOF - Growth Option,INF179KC1BP1,,Open Ended Schemes,Other Scheme - FoF Overseas,21.846,13-Aug-2026
+149180,HDFC Mutual Fund,HDFC Developed World Overseas Equity Passive FOF - Direct Plan - Growth Option,INF179KC1BO4,,Open Ended Schemes,Other Scheme - FoF Overseas,22.412,14-Aug-2026
+149181,HDFC Mutual Fund,HDFC Developed World Overseas Equity Passive FOF - Growth Option,INF179KC1BP1,,Open Ended Schemes,Other Scheme - FoF Overseas,21.913,14-Aug-2026
 149182,Kotak Mahindra Mutual Fund,Kotak Multicap Fund-Regular Plan-Growth,INF174KA1HS9,,Open Ended Schemes,Equity Scheme - Multi Cap Fund,20.379,14-Aug-2026
 149183,Kotak Mahindra Mutual Fund,Kotak Multicap Fund- Regular Plan -IDCW Option,INF174KA1HT7,INF174KA1HU5,Open Ended Schemes,Equity Scheme - Multi Cap Fund,18.729,14-Aug-2026
 149185,Kotak Mahindra Mutual Fund,Kotak Multicap Fund-Direct Plan-Growth,INF174KA1HV3,,Open Ended Schemes,Equity Scheme - Multi Cap Fund,21.828,14-Aug-2026
@@ -11359,10 +11359,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 151013,HSBC Mutual Fund,HSBC Gilt Fund - Regular Growth,INF917K01BP1,,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund,67.5271,14-Aug-2026
 151014,HSBC Mutual Fund,HSBC Gilt Fund - Direct Growth,INF917K01FI7,,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund,78.394,14-Aug-2026
 151015,HSBC Mutual Fund,HSBC Gilt Fund - Direct Quarterly IDCW,INF917K01FK3,INF917K01FJ5,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund,12.1032,14-Aug-2026
-151033,HSBC Mutual Fund,HSBC Midcap Fund - Regular IDCW,INF917K01239,INF917K01247,Open Ended Schemes,Equity Scheme - Mid Cap Fund,88.1769,14-Aug-2026
-151034,HSBC Mutual Fund,HSBC Midcap Fund - Regular Growth,INF917K01254,,Open Ended Schemes,Equity Scheme - Mid Cap Fund,469.7187,14-Aug-2026
-151035,HSBC Mutual Fund,HSBC Midcap Fund - Direct IDCW,INF917K01E78,INF917K01FX6,Open Ended Schemes,Equity Scheme - Mid Cap Fund,102.4803,14-Aug-2026
-151036,HSBC Mutual Fund,HSBC Midcap Fund - Direct Growth,INF917K01FZ1,,Open Ended Schemes,Equity Scheme - Mid Cap Fund,536.9368,14-Aug-2026
+151033,HSBC Mutual Fund,HSBC Midcap Fund - Regular IDCW,INF917K01239,INF917K01247,Open Ended Schemes,Equity Schemes - Mid Cap Fund,88.1769,14-Aug-2026
+151034,HSBC Mutual Fund,HSBC Midcap Fund - Regular Growth,INF917K01254,,Open Ended Schemes,Equity Schemes - Mid Cap Fund,469.7187,14-Aug-2026
+151035,HSBC Mutual Fund,HSBC Midcap Fund - Direct IDCW,INF917K01E78,INF917K01FX6,Open Ended Schemes,Equity Schemes - Mid Cap Fund,102.4803,14-Aug-2026
+151036,HSBC Mutual Fund,HSBC Midcap Fund - Direct Growth,INF917K01FZ1,,Open Ended Schemes,Equity Schemes - Mid Cap Fund,536.9368,14-Aug-2026
 151037,HSBC Mutual Fund,HSBC Infrastructure Fund - Regular Growth,INF917K01536,,Open Ended Schemes,Equity Schemes - Sectoral Fund,51.0852,14-Aug-2026
 151038,HSBC Mutual Fund,HSBC Infrastructure Fund - Regular IDCW,INF917K01544,INF917K01551,Open Ended Schemes,Equity Schemes - Sectoral Fund,37.0134,14-Aug-2026
 151039,HSBC Mutual Fund,HSBC Infrastructure Fund - Direct IDCW,INF917K01E52,INF917K01FU2,Open Ended Schemes,Equity Schemes - Sectoral Fund,41.6365,14-Aug-2026
@@ -11374,14 +11374,14 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 151045,HSBC Mutual Fund,HSBC Credit Risk Fund - Direct Growth,INF917K01UH8,,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund,37.6891,14-Aug-2026
 151046,HSBC Mutual Fund,HSBC Credit Risk Fund - Regular Annual IDCW,INF917K01UN6,INF917K01UM8,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund,12.5101,14-Aug-2026
 151047,HSBC Mutual Fund,HSBC Credit Risk Fund - Direct Annual IDCW,INF917K01UL0,INF917K01UK2,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund,13.6697,14-Aug-2026
-151048,HSBC Mutual Fund,HSBC Money Market Fund - Regular Growth,INF917K01BC9,,Open Ended Schemes,Debt Scheme - Money Market Fund,28.3215,14-Aug-2026
-151049,HSBC Mutual Fund,HSBC Money Market Fund - Regular Daily IDCW,,INF917K01AY5,Open Ended Schemes,Debt Scheme - Money Market Fund,10.8591,14-Aug-2026
-151050,HSBC Mutual Fund,HSBC Money Market Fund - Regular Weekly IDCW,,INF917K01AZ2,Open Ended Schemes,Debt Scheme - Money Market Fund,13.1006,14-Aug-2026
-151051,HSBC Mutual Fund,HSBC Money Market Fund - Regular Monthly IDCW,INF917K01BB1,INF917K01BA3,Open Ended Schemes,Debt Scheme - Money Market Fund,11.5881,14-Aug-2026
-151052,HSBC Mutual Fund,HSBC Money Market Fund - Direct Monthly IDCW,INF917K01E86,INF917K01FF3,Open Ended Schemes,Debt Scheme - Money Market Fund,12.2414,14-Aug-2026
-151053,HSBC Mutual Fund,HSBC Money Market Fund - Direct Weekly IDCW,,INF917K01FH9,Open Ended Schemes,Debt Scheme - Money Market Fund,13.1877,14-Aug-2026
-151054,HSBC Mutual Fund,HSBC Money Market Fund - Direct Growth,INF917K01FE6,,Open Ended Schemes,Debt Scheme - Money Market Fund,29.767,14-Aug-2026
-151055,HSBC Mutual Fund,HSBC Money Market Fund - Direct Daily IDCW,,INF917K01FD8,Open Ended Schemes,Debt Scheme - Money Market Fund,10.8591,14-Aug-2026
+151048,HSBC Mutual Fund,HSBC Money Market Fund - Regular Growth,INF917K01BC9,,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund,28.3215,14-Aug-2026
+151049,HSBC Mutual Fund,HSBC Money Market Fund - Regular Daily IDCW,,INF917K01AY5,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund,10.8591,14-Aug-2026
+151050,HSBC Mutual Fund,HSBC Money Market Fund - Regular Weekly IDCW,,INF917K01AZ2,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund,13.1006,14-Aug-2026
+151051,HSBC Mutual Fund,HSBC Money Market Fund - Regular Monthly IDCW,INF917K01BB1,INF917K01BA3,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund,11.5881,14-Aug-2026
+151052,HSBC Mutual Fund,HSBC Money Market Fund - Direct Monthly IDCW,INF917K01E86,INF917K01FF3,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund,12.2414,14-Aug-2026
+151053,HSBC Mutual Fund,HSBC Money Market Fund - Direct Weekly IDCW,,INF917K01FH9,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund,13.1877,14-Aug-2026
+151054,HSBC Mutual Fund,HSBC Money Market Fund - Direct Growth,INF917K01FE6,,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund,29.767,14-Aug-2026
+151055,HSBC Mutual Fund,HSBC Money Market Fund - Direct Daily IDCW,,INF917K01FD8,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund,10.8591,14-Aug-2026
 151056,HSBC Mutual Fund,HSBC Equity Savings Fund - Regular Monthly IDCW,INF917K01965,INF917K01973,Open Ended Schemes,Hybrid Schemes - Equity Savings Fund,15.5066,14-Aug-2026
 151057,HSBC Mutual Fund,HSBC Equity Savings Fund - Regular Quarterly IDCW,INF917K01981,INF917K01999,Open Ended Schemes,Hybrid Schemes - Equity Savings Fund,16.5291,14-Aug-2026
 151058,HSBC Mutual Fund,HSBC Equity Savings Fund - Regular Growth,INF917K01AA5,,Open Ended Schemes,Hybrid Schemes - Equity Savings Fund,36.8413,14-Aug-2026
@@ -11419,12 +11419,12 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 151111,HSBC Mutual Fund,HSBC Value Fund - Regular IDCW,INF677K01213,INF677K01015,Open Ended Schemes,Equity Scheme - Value Fund,49.9931,14-Aug-2026
 151112,HSBC Mutual Fund,HSBC Value Fund - Direct IDCW,INF917K01HC6,INF917K01HB8,Open Ended Schemes,Equity Scheme - Value Fund,64.3866,14-Aug-2026
 151113,HSBC Mutual Fund,HSBC Value Fund - Direct Growth,INF917K01HD4,,Open Ended Schemes,Equity Scheme - Value Fund,130.108,14-Aug-2026
-151114,HSBC Mutual Fund,HSBC Low Duration Fund - Regular Growth,INF677K01452,,Open Ended Schemes,Debt Scheme - Low Duration Fund,30.6981,14-Aug-2026
-151115,HSBC Mutual Fund,HSBC Low Duration Fund - Regular Monthly IDCW,INF677K01460,INF677K01478,Open Ended Schemes,Debt Scheme - Low Duration Fund,10.3811,14-Aug-2026
-151116,HSBC Mutual Fund,HSBC Low Duration Fund - Direct Monthly IDCW,INF917K01E60,INF917K01GK1,Open Ended Schemes,Debt Scheme - Low Duration Fund,11.0967,14-Aug-2026
-151117,HSBC Mutual Fund,HSBC Low Duration Fund - Direct Growth,INF917K01GM7,,Open Ended Schemes,Debt Scheme - Low Duration Fund,32.553,14-Aug-2026
-151118,HSBC Mutual Fund,HSBC Low Duration Fund - Direct Annual IDCW,INF917K01VV7,INF917K01VU9,Open Ended Schemes,Debt Scheme - Low Duration Fund,10.5932,14-Aug-2026
-151119,HSBC Mutual Fund,HSBC Low Duration Fund - Regular Annual IDCW,INF917K01VX3,INF917K01VW5,Open Ended Schemes,Debt Scheme - Low Duration Fund,10.4013,14-Aug-2026
+151114,HSBC Mutual Fund,HSBC Low Duration Fund - Regular Growth,INF677K01452,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund,30.6981,14-Aug-2026
+151115,HSBC Mutual Fund,HSBC Low Duration Fund - Regular Monthly IDCW,INF677K01460,INF677K01478,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund,10.3811,14-Aug-2026
+151116,HSBC Mutual Fund,HSBC Low Duration Fund - Direct Monthly IDCW,INF917K01E60,INF917K01GK1,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund,11.0967,14-Aug-2026
+151117,HSBC Mutual Fund,HSBC Low Duration Fund - Direct Growth,INF917K01GM7,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund,32.553,14-Aug-2026
+151118,HSBC Mutual Fund,HSBC Low Duration Fund - Direct Annual IDCW,INF917K01VV7,INF917K01VU9,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund,10.5932,14-Aug-2026
+151119,HSBC Mutual Fund,HSBC Low Duration Fund - Regular Annual IDCW,INF917K01VX3,INF917K01VW5,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund,10.4013,14-Aug-2026
 151120,HSBC Mutual Fund,HSBC Aggressive Hybrid Fund - Regular Growth,INF917K01LB0,,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund,59.8807,14-Aug-2026
 151121,HSBC Mutual Fund,HSBC Aggressive Hybrid Fund - Regular IDCW,INF917K01KZ1,INF917K01LA2,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund,28.2488,14-Aug-2026
 151122,HSBC Mutual Fund,HSBC Aggressive Hybrid Fund - Direct Growth,INF917K01LE4,,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund,68.8003,14-Aug-2026
@@ -11449,12 +11449,12 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 151143,HSBC Mutual Fund,HSBC Business Cycles Fund - Regular IDCW,INF917K01RH4,INF917K01RG6,Open Ended Schemes,Equity Schemes - Thematic Fund,25.5193,14-Aug-2026
 151144,HSBC Mutual Fund,HSBC Business Cycles Fund - Regular Growth,INF917K01RF8,,Open Ended Schemes,Equity Schemes - Thematic Fund,44.0328,14-Aug-2026
 151145,HSBC Mutual Fund,HSBC Business Cycles Fund - Direct IDCW,INF917K01RK8,INF917K01RJ0,Open Ended Schemes,Equity Schemes - Thematic Fund,28.2893,14-Aug-2026
-151146,HSBC Mutual Fund,HSBC Medium Duration Fund - Direct Growth,INF917K01TK4,,Open Ended Schemes,Debt Scheme - Medium Duration Fund,23.9629,14-Aug-2026
-151147,HSBC Mutual Fund,HSBC Medium Duration Fund - Regular IDCW,INF917K01TJ6,INF917K01TI8,Open Ended Schemes,Debt Scheme - Medium Duration Fund,10.6439,14-Aug-2026
-151148,HSBC Mutual Fund,HSBC Medium Duration Fund - Direct IDCW,INF917K01TM0,INF917K01TL2,Open Ended Schemes,Debt Scheme - Medium Duration Fund,11.5934,14-Aug-2026
-151149,HSBC Mutual Fund,HSBC Medium Duration Fund - Regular Growth,INF917K01TH0,,Open Ended Schemes,Debt Scheme - Medium Duration Fund,21.7945,14-Aug-2026
-151150,HSBC Mutual Fund,HSBC Medium Duration Fund - Direct Annual IDCW,INF917K01WF8,INF917K01WC5,Open Ended Schemes,Debt Scheme - Medium Duration Fund,11.7426,14-Aug-2026
-151151,HSBC Mutual Fund,HSBC Medium Duration Fund - Regular Annual IDCW,INF917K01WE1,INF917K01WD3,Open Ended Schemes,Debt Scheme - Medium Duration Fund,10.6345,14-Aug-2026
+151146,HSBC Mutual Fund,HSBC Medium Duration Fund - Direct Growth,INF917K01TK4,,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund,23.9629,14-Aug-2026
+151147,HSBC Mutual Fund,HSBC Medium Duration Fund - Regular IDCW,INF917K01TJ6,INF917K01TI8,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund,10.6439,14-Aug-2026
+151148,HSBC Mutual Fund,HSBC Medium Duration Fund - Direct IDCW,INF917K01TM0,INF917K01TL2,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund,11.5934,14-Aug-2026
+151149,HSBC Mutual Fund,HSBC Medium Duration Fund - Regular Growth,INF917K01TH0,,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund,21.7945,14-Aug-2026
+151150,HSBC Mutual Fund,HSBC Medium Duration Fund - Direct Annual IDCW,INF917K01WF8,INF917K01WC5,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund,11.7426,14-Aug-2026
+151151,HSBC Mutual Fund,HSBC Medium Duration Fund - Regular Annual IDCW,INF917K01WE1,INF917K01WD3,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund,10.6345,14-Aug-2026
 151156,HSBC Mutual Fund,HSBC NIFTY 50 INDEX FUND - Direct IDCW,INF917K01C96,INF917K01D04,Open Ended Schemes,Other Scheme - Index Funds,28.8633,14-Aug-2026
 151157,HSBC Mutual Fund,HSBC NIFTY 50 INDEX FUND - Direct Growth,INF917K01D12,,Open Ended Schemes,Other Scheme - Index Funds,28.8633,14-Aug-2026
 151158,HSBC Mutual Fund,HSBC NIFTY 50 INDEX FUND - Regular Growth,INF917K01D38,,Open Ended Schemes,Other Scheme - Index Funds,28.3303,14-Aug-2026
@@ -11953,7 +11953,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 151905,Union Mutual Fund,Union Innovation & Opportunities Fund - Direct Plan - Growth Option,INF582M01JE6,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,16.87,14-Aug-2026
 151906,Union Mutual Fund,Union Innovation & Opportunities Fund - Regular Plan - IDCW Option,INF582M01JB2,INF582M01JC0,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,16.16,14-Aug-2026
 151907,ICICI Prudential Mutual Fund,ICICI Prudential Nifty 200 Quality 30 ETF,INF109KC18V5,,Open Ended Schemes,Other Scheme - Other  ETFs,21.7130,14-Aug-2026
-151908,Mirae Asset Mutual Fund,Mirae Asset Nifty 1D Rate Liquid ETF-IDCW,,INF769K01KS1,Open Ended Schemes,Other Scheme - Other  ETFs,1000.0000,16-Aug-2026
+151908,Mirae Asset Mutual Fund,Mirae Asset Nifty 1D Rate Liquid ETF-IDCW,,INF769K01KS1,Open Ended Schemes,Exchange Traded Funds,1000.0000,16-Aug-2026
 151909,Kotak Mahindra Mutual Fund,Kotak Nifty Financial Services Ex-Bank Index Fund - Regular Plan - Growth option,INF174KA1OO4,,Open Ended Schemes,Other Scheme - Index Funds,16.69,14-Aug-2026
 151910,Kotak Mahindra Mutual Fund,Kotak Nifty Financial Services Ex-Bank Index Fund - Regular Plan - IDCW option,INF174KA1OP1,INF174KA1OQ9,Open Ended Schemes,Other Scheme - Index Funds,16.69,14-Aug-2026
 151911,Kotak Mahindra Mutual Fund,Kotak Nifty Financial Services Ex-Bank Index Fund - Direct Plan - Growth option,INF174KA1OR7,,Open Ended Schemes,Other Scheme - Index Funds,16.964,14-Aug-2026
@@ -12907,7 +12907,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 153042,Franklin Templeton Mutual Fund,Franklin India Arbitrage Fund - Growth,INF090I01XP5,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,11.1169,14-Aug-2026
 153043,Franklin Templeton Mutual Fund,Franklin India Arbitrage Fund - Direct - Growth,INF090I01XS9,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,11.2565,14-Aug-2026
 153044,Franklin Templeton Mutual Fund,Franklin India Arbitrage Fund - IDCW,INF090I01XR1,INF090I01XQ3,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,11.1169,14-Aug-2026
-153045,Mirae Asset Mutual Fund,Mirae Asset Nifty 1D Rate Liquid ETF - Growth,INF769K01MY5,,Open Ended Schemes,Other Scheme - Other  ETFs,1099.0704,16-Aug-2026
+153045,Mirae Asset Mutual Fund,Mirae Asset Nifty 1D Rate Liquid ETF - Growth,INF769K01MY5,,Open Ended Schemes,Exchange Traded Funds,1099.0704,16-Aug-2026
 153046,Invesco Mutual Fund,Invesco India Multi Asset Allocation Fund - Regular Plan - Growth,INF205KA1999,,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund,12.63,14-Aug-2026
 153047,Invesco Mutual Fund,Invesco India Multi Asset Allocation Fund - Direct Plan - Growth,INF205KA1AC1,,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund,12.91,14-Aug-2026
 153048,Invesco Mutual Fund,Invesco India Multi Asset Allocation Fund - Regular Plan - IDCW,INF205KA1AA5,INF205KA1AB3,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund,12.64,14-Aug-2026
