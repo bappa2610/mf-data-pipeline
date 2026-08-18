@@ -874,8 +874,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 106365,UTI Mutual Fund,UTI FIIF Quarterly Interval Plan III - Regular Plan - IDCW,INF789F01GI8,INF789F01GJ6,Close Ended Schemes,Income,10.0759,11-May-2022
 106366,UTI Mutual Fund,UTI Fixed  Income Interval Fund ( Quarterly Interval Plan - III) -Regular Plan - Growth Option,INF789F01GK4,,Close Ended Schemes,Income,27.902,11-May-2022
 106367,UTI Mutual Fund,UTI Fixed  Income Interval Fund ( Quarterly Interval Plan -III) - Inst Dividend Plan,INF789F01GL2,INF789F01GM0,Close Ended Schemes,Income,10.065,10-Dec-2020
-106369,Sundaram Mutual Fund,Sundaram Global Brand Theme-Equity Active FOF - Regular IDCW,INF903J01EY9,INF903J01EZ6,Open Ended Schemes,Other Scheme - FoF Overseas,35.7692,14-Aug-2026
-106370,Sundaram Mutual Fund,Sundaram Global Brand Theme-Equity Active FOF - Regular Growth,INF903J01EX1,,Open Ended Schemes,Other Scheme - FoF Overseas,44.2478,14-Aug-2026
+106369,Sundaram Mutual Fund,Sundaram Global Brand Theme-Equity Active FOF - Regular IDCW,INF903J01EY9,INF903J01EZ6,Open Ended Schemes,Other Scheme - FoF Overseas,35.4883,17-Aug-2026
+106370,Sundaram Mutual Fund,Sundaram Global Brand Theme-Equity Active FOF - Regular Growth,INF903J01EX1,,Open Ended Schemes,Other Scheme - FoF Overseas,43.9004,17-Aug-2026
 106383,UTI Mutual Fund,UTI Short Duration Fund - Discontinued Regular Option - Dividend Sub Option,INF789F01AH3,INF789F01AI1,Open Ended Schemes,Debt Scheme - Short Duration Fund,25.1071,17-Aug-2026
 106384,UTI Mutual Fund,UTI Short Duration Fund - Discontinued Regular Option -Growth Sub Option,INF789F01AJ9,,Open Ended Schemes,Debt Scheme - Short Duration Fund,47.4931,17-Aug-2026
 106425,UTI Mutual Fund,UTI India Consumer Fund - Regular Plan - Growth Option,INF789F01CE6,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,59.6759,17-Aug-2026
@@ -959,11 +959,11 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 107578,Mirae Asset Mutual Fund,Mirae Asset Large Cap Fund - Growth Plan,INF769K01010,,Open Ended Schemes,Equity Schemes - Large Cap Fund,113.556,17-Aug-2026
 107579,Mirae Asset Mutual Fund,Mirae Asset Large Cap Fund Regular IDCW,INF769K01036,INF769K01028,Open Ended Schemes,Equity Schemes - Large Cap Fund,29.086,17-Aug-2026
 107693,Quantum Mutual Fund,Quantum Gold ETF,INF082J01408,,Open Ended Schemes,Other Scheme - Gold ETF,126.6559,17-Aug-2026
-107700,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Regular Plan - Daily IDCW,,INF769K01986,Open Ended Schemes,Debt Scheme - Low Duration Fund,1005.1646,17-Aug-2026
-107701,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Regular Plan - Weekly IDCW,,INF769K01994,Open Ended Schemes,Debt Scheme - Low Duration Fund,1107.3186,17-Aug-2026
-107702,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Regular Plan - Quarterly IDCW,INF769K01978,INF769K01AB8,Open Ended Schemes,Debt Scheme - Low Duration Fund,1007.0834,17-Aug-2026
-107704,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Regular Plan - Monthly IDCW,INF769K01960,INF769K01AA0,Open Ended Schemes,Debt Scheme - Low Duration Fund,1092.6102,17-Aug-2026
-107705,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Regular Plan - Growth,INF769K01937,,Open Ended Schemes,Debt Scheme - Low Duration Fund,2413.0423,17-Aug-2026
+107700,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Regular Plan - Daily IDCW,,INF769K01986,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund,1005.1646,17-Aug-2026
+107701,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Regular Plan - Weekly IDCW,,INF769K01994,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund,1107.3186,17-Aug-2026
+107702,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Regular Plan - Quarterly IDCW,INF769K01978,INF769K01AB8,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund,1007.0834,17-Aug-2026
+107704,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Regular Plan - Monthly IDCW,INF769K01960,INF769K01AA0,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund,1092.6102,17-Aug-2026
+107705,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Regular Plan - Growth,INF769K01937,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund,2413.0423,17-Aug-2026
 107745,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life ELSS Tax Saver Fund - Growth Option,INF209K01108,,Open Ended Schemes,Equity Scheme - ELSS,62.58,17-Aug-2026
 107763,LIC Mutual Fund,LIC MF Infrastructure Fund-Regular Plan-Growth,INF767K01501,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,55.583,17-Aug-2026
 107764,LIC Mutual Fund,LIC MF Infrastructure Fund-Regular Plan-IDCW,INF767K01485,INF767K01493,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,55.5845,17-Aug-2026
@@ -1940,11 +1940,11 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 118835,Mirae Asset Mutual Fund,Mirae Asset Large & Midcap Fund - Direct Plan - IDCW,INF769K01BJ9,INF769K01BK7,Open Ended Schemes,Equity Schemes - Large & Mid Cap Fund,84.708,17-Aug-2026
 118837,Mirae Asset Mutual Fund,Mirae Asset Great Consumer Fund - Direct Plan - Growth,INF769K01BL5,,Open Ended Schemes,Equity Schemes - Thematic Fund,115.111,17-Aug-2026
 118838,Mirae Asset Mutual Fund,Mirae Asset Great Consumer Fund Direct IDCW,INF769K01BM3,INF769K01BN1,Open Ended Schemes,Equity Schemes - Thematic Fund,69.115,17-Aug-2026
-118840,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Direct Plan - Growth,INF769K01BO9,,Open Ended Schemes,Debt Scheme - Low Duration Fund,2646.7111,17-Aug-2026
-118841,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Direct Plan - Monthly IDCW,INF769K01BP6,INF769K01BT8,Open Ended Schemes,Debt Scheme - Low Duration Fund,1165.9225,17-Aug-2026
-118842,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Direct Plan - Quarterly IDCW,INF769K01BQ4,INF769K01BU6,Open Ended Schemes,Debt Scheme - Low Duration Fund,1007.6830,17-Aug-2026
-118843,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Direct Plan - Daily IDCW,,INF769K01BR2,Open Ended Schemes,Debt Scheme - Low Duration Fund,1208.9337,17-Aug-2026
-118844,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Direct Plan - Weekly IDCW,,INF769K01BS0,Open Ended Schemes,Debt Scheme - Low Duration Fund,1455.4116,17-Aug-2026
+118840,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Direct Plan - Growth,INF769K01BO9,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund,2646.7111,17-Aug-2026
+118841,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Direct Plan - Monthly IDCW,INF769K01BP6,INF769K01BT8,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund,1165.9225,17-Aug-2026
+118842,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Direct Plan - Quarterly IDCW,INF769K01BQ4,INF769K01BU6,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund,1007.6830,17-Aug-2026
+118843,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Direct Plan - Daily IDCW,,INF769K01BR2,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund,1208.9337,17-Aug-2026
+118844,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Direct Plan - Weekly IDCW,,INF769K01BS0,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund,1455.4116,17-Aug-2026
 118859,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Direct Plan - Growth,INF769K01CM1,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,2985.5826,17-Aug-2026
 118860,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Direct Plan - Monthly IDCW,INF769K01CN9,INF769K01CQ2,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1139.5040,17-Aug-2026
 118861,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Direct Plan - Daily IDCW,,INF769K01CO7,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1075.8332,17-Aug-2026
@@ -2258,8 +2258,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 119596,Sundaram Mutual Fund,Sundaram Financial Services Opportunities Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW),INF903J01MZ9,INF903J01NA0,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,34.0298,17-Aug-2026
 119597,Sundaram Mutual Fund,Sundaram Financial Services Opportunities Fund Direct Plan - Growth,INF903J01NB8,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,124.7888,17-Aug-2026
 119598,SBI Mutual Fund,SBI Large Cap FUND-DIRECT PLAN -GROWTH,INF200K01QX4,,Open Ended Schemes,Equity Scheme - Large Cap Fund,105.1793,17-Aug-2026
-119601,Sundaram Mutual Fund,Sundaram Global Brand Theme-Equity Active FOF - Direct IDCW,INF903J01NZ7,INF903J01OA8,Open Ended Schemes,Other Scheme - FoF Overseas,41.0722,14-Aug-2026
-119602,Sundaram Mutual Fund,Sundaram Global Brand Theme-Equity Active FOF - Direct Growth,INF903J01OB6,,Open Ended Schemes,Other Scheme - FoF Overseas,48.9398,14-Aug-2026
+119601,Sundaram Mutual Fund,Sundaram Global Brand Theme-Equity Active FOF - Direct IDCW,INF903J01NZ7,INF903J01OA8,Open Ended Schemes,Other Scheme - FoF Overseas,40.7528,17-Aug-2026
+119602,Sundaram Mutual Fund,Sundaram Global Brand Theme-Equity Active FOF - Direct Growth,INF903J01OB6,,Open Ended Schemes,Other Scheme - FoF Overseas,48.5591,17-Aug-2026
 119604,SBI Mutual Fund,SBI Equity Hybrid Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200K01RW4,INF200K01RX2,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund,103.7994,17-Aug-2026
 119605,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Government Securities Fund - Growth - Direct Plan,INF209K01XP7,,Open Ended Schemes,Debt Scheme - Gilt Fund,89.4829,17-Aug-2026
 119606,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Govenment Securities Fund -DIRECT - Quarterly IDCW,INF209KA1LC4,INF209K01XR3,Open Ended Schemes,Debt Scheme - Gilt Fund,11.7175,17-Aug-2026
@@ -9137,7 +9137,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 147442,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund - Unclaimed Dividend - Greater than 3 years,,,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0000,17-Aug-2026
 147443,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund - Unclaimed Redemption - Greater than 3 years,,,Open Ended Schemes,Debt Scheme - Liquid Fund,10.0000,17-Aug-2026
 147444,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund - Unclaimed Redemption - Upto 3 years,,,Open Ended Schemes,Debt Scheme - Liquid Fund,14.2159,17-Aug-2026
-147445,Mirae Asset Mutual Fund,Mirae Asset Midcap Fund- Direct Growth Option,INF769K01FA9,,Open Ended Schemes,Equity Scheme - Mid Cap Fund,44.417,17-Aug-2026
+147445,Mirae Asset Mutual Fund,Mirae Asset Midcap Fund- Direct Growth Option,INF769K01FA9,,Open Ended Schemes,Equity Schemes - Mid Cap Fund,44.417,17-Aug-2026
 147446,Mahindra Manulife Mutual Fund,Mahindra Manulife Aggressive Hybrid Fund - Direct Plan -Growth,INF174V01788,,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund,30.8267,17-Aug-2026
 147447,Mahindra Manulife Mutual Fund,Mahindra Manulife Aggressive Hybrid Fund - Regular Plan - Growth,INF174V01754,,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund,27.2194,17-Aug-2026
 147448,Mahindra Manulife Mutual Fund,Mahindra Manulife Aggressive Hybrid Fund - Direct Plan - Monthly IDCW,INF174V01804,INF174V01796,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund,21.1403,17-Aug-2026
@@ -9160,9 +9160,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 147473,Kotak Mahindra Mutual Fund,Kotak Focused Fund- Direct Plan- Growth option,INF174KA1EN7,,Open Ended Schemes,Equity Scheme - Focused Fund,31.181,17-Aug-2026
 147475,Kotak Mahindra Mutual Fund,Kotak Focused Fund-Direct Plan- Income Distribution cum capital withdrawal option,INF174KA1EP2,INF174KA1EO5,Open Ended Schemes,Equity Scheme - Focused Fund,31.183,17-Aug-2026
 147477,Kotak Mahindra Mutual Fund,Kotak Focused Fund- Regular plan _ Growth Option,INF174KA1EK3,,Open Ended Schemes,Equity Scheme - Focused Fund,27.966,17-Aug-2026
-147478,Mirae Asset Mutual Fund,Mirae Asset Midcap Fund Direct IDCW,INF769K01EZ9,INF769K01FC5,Open Ended Schemes,Equity Scheme - Mid Cap Fund,29.190,17-Aug-2026
-147479,Mirae Asset Mutual Fund,Mirae Asset Midcap Fund - Regular Plan-Growth Option,INF769K01EY2,,Open Ended Schemes,Equity Scheme - Mid Cap Fund,40.588,17-Aug-2026
-147480,Mirae Asset Mutual Fund,Mirae Asset Midcap Fund Regular IDCW,INF769K01EX4,INF769K01FB7,Open Ended Schemes,Equity Scheme - Mid Cap Fund,26.506,17-Aug-2026
+147478,Mirae Asset Mutual Fund,Mirae Asset Midcap Fund Direct IDCW,INF769K01EZ9,INF769K01FC5,Open Ended Schemes,Equity Schemes - Mid Cap Fund,29.190,17-Aug-2026
+147479,Mirae Asset Mutual Fund,Mirae Asset Midcap Fund - Regular Plan-Growth,INF769K01EY2,,Open Ended Schemes,Equity Schemes - Mid Cap Fund,40.588,17-Aug-2026
+147480,Mirae Asset Mutual Fund,Mirae Asset Midcap Fund Regular IDCW,INF769K01EX4,INF769K01FB7,Open Ended Schemes,Equity Schemes - Mid Cap Fund,26.506,17-Aug-2026
 147481,PPFAS Mutual Fund,Parag Parikh ELSS Tax Saver Fund- Direct Growth,INF879O01100,,Open Ended Schemes,Equity Scheme - ELSS,32.0237,17-Aug-2026
 147482,PPFAS Mutual Fund,Parag Parikh ELSS Tax Saver Fund- Regular Growth,INF879O01092,,Open Ended Schemes,Equity Scheme - ELSS,29.4424,17-Aug-2026
 147483,ICICI Prudential Mutual Fund,ICICI Prudential Nifty Bank ETF,INF109KC15I8,,Open Ended Schemes,Other Scheme - Other  ETFs,59.1328,17-Aug-2026
@@ -10227,10 +10227,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 149105,Mirae Asset Mutual Fund,Mirae Asset Nifty Financial Services ETF,INF769K01HI8,,Open Ended Schemes,Other Scheme - Other  ETFs,27.2801,17-Aug-2026
 149106,HDFC Mutual Fund,HDFC NIFTY50 Equal weight Index Fund - Growth Option,INF179KC1BN6,,Open Ended Schemes,Other Scheme - Index Funds,18.38,17-Aug-2026
 149107,HDFC Mutual Fund,HDFC NIFTY50 Equal weight Index Fund - Direct Plan - Growth Option,INF179KC1BM8,,Open Ended Schemes,Other Scheme - Index Funds,18.8566,17-Aug-2026
-149112,Mirae Asset Mutual Fund,Mirae Asset Money Market Fund Direct Growth,INF769K01HN8,,Open Ended Schemes,Debt Scheme - Money Market Fund,1374.4755,17-Aug-2026
-149113,Mirae Asset Mutual Fund,Mirae Asset Money Market Fund Direct IDCW,INF769K01HM0,INF769K01HO6,Open Ended Schemes,Debt Scheme - Money Market Fund,1372.2153,17-Aug-2026
-149114,Mirae Asset Mutual Fund,Mirae Asset Money Market Fund Regular IDCW,INF769K01HJ6,INF769K01HL2,Open Ended Schemes,Debt Scheme - Money Market Fund,1350.3831,17-Aug-2026
-149115,Mirae Asset Mutual Fund,Mirae Asset Money Market Fund Regular Growth,INF769K01HK4,,Open Ended Schemes,Debt Scheme - Money Market Fund,1350.3927,17-Aug-2026
+149112,Mirae Asset Mutual Fund,Mirae Asset Money Market Fund Direct Growth,INF769K01HN8,,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund,1374.4755,17-Aug-2026
+149113,Mirae Asset Mutual Fund,Mirae Asset Money Market Fund Direct IDCW,INF769K01HM0,INF769K01HO6,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund,1372.2153,17-Aug-2026
+149114,Mirae Asset Mutual Fund,Mirae Asset Money Market Fund Regular IDCW,INF769K01HJ6,INF769K01HL2,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund,1350.3831,17-Aug-2026
+149115,Mirae Asset Mutual Fund,Mirae Asset Money Market Fund Regular Growth,INF769K01HK4,,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund,1350.3927,17-Aug-2026
 149116,Union Mutual Fund,Union Money Market Fund - Regular Plan -  Growth Option,INF582M01HO9,,Open Ended Schemes,Debt Scheme - Money Market Fund,1317.3880,17-Aug-2026
 149117,Union Mutual Fund,Union Money Market Fund - Direct Plan -  Growth Option,INF582M01HG5,,Open Ended Schemes,Debt Scheme - Money Market Fund,1364.3210,17-Aug-2026
 149118,Union Mutual Fund,Union Money Market Fund - Regular Plan - Daily IDCW Option,,INF582M01HP6,Open Ended Schemes,Debt Scheme - Money Market Fund,1003.2031,17-Aug-2026
@@ -14207,7 +14207,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 154459,Axis Mutual Fund,Axis Nifty50 Equal Weight Index Fund-Regular Plan- Growth Option,INF846KA1556,,Open Ended Schemes,Other Scheme - Index Funds,10.1872,17-Aug-2026
 154460,Axis Mutual Fund,Axis Nifty50 Equal Weight Index Fund-Direct Plan- Growth Option,INF846KA1564,,Open Ended Schemes,Other Scheme - Index Funds,10.1932,17-Aug-2026
 154461,Edelweiss Mutual Fund,Edelweiss Nifty Metal ETF,INF754K01XG1,,Open Ended Schemes,Exchange Traded Funds,13.0918,17-Aug-2026
-154462,Mirae Asset Mutual Fund,Mirae Asset Money Market Fund - Direct Plan - Weekly IDCW,,INF769K01RA4,Open Ended Schemes,Debt Scheme - Money Market Fund,1364.7411,17-Aug-2026
+154462,Mirae Asset Mutual Fund,Mirae Asset Money Market Fund - Direct Plan - Weekly IDCW,,INF769K01RA4,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund,1364.7411,17-Aug-2026
 154466,UTI Mutual Fund,UTI Nifty 1D Rate Liquid ETF - Growth,INF789F1AG68,,Open Ended Schemes,Exchange Traded Funds,1004.5027,17-Aug-2026
 154467,SBI Mutual Fund,SBI Crisil - IBX SDL Index - June 2034 Index Fund - Direct Plan - Growth,INF200KB1BO8,,Open Ended Schemes,Index Funds - Debt Funds,10.0686,17-Aug-2026
 154468,SBI Mutual Fund,SBI Crisil - IBX SDL Index - June 2034 Index Fund - Regular Plan - Growth,INF200KB1BL4,,Open Ended Schemes,Index Funds - Debt Funds,10.0667,17-Aug-2026
