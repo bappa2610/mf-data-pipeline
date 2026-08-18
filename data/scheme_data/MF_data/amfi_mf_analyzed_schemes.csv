@@ -5439,8 +5439,8 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 107575,Invesco Mutual Fund,Religare FMP-14M-Sr-III - Institutional Dividend Reinvestment,,Close Ended,Income,Income,Institutional,IDCW,Reinvestment
 107576,Invesco Mutual Fund,Religare FMP-14M-Sr-III - Institutional Growth,,Close Ended,Income,Income,Institutional,Growth,
 107577,Invesco Mutual Fund,Religare FMP-14M-Sr-III - Retail Dividend Reinvestment,,Close Ended,Income,Income,Retail,IDCW,Reinvestment
-107578,Mirae Asset Mutual Fund,Mirae Asset Large Cap Fund - Growth Plan,INF769K01010,Open Ended,Equitys,Large Cap Fund,Other,Growth,
-107579,Mirae Asset Mutual Fund,Mirae Asset Large Cap Fund Regular IDCW,INF769K01036,Open Ended,Equitys,Large Cap Fund,Regular,IDCW,
+107578,Mirae Asset Mutual Fund,Mirae Asset Large Cap Fund - Regular Plan - Growth,INF769K01010,Open Ended,Equitys,Large Cap Fund,Regular,Growth,
+107579,Mirae Asset Mutual Fund,Mirae Asset Large Cap Fund - Regular Plan - IDCW,INF769K01036,Open Ended,Equitys,Large Cap Fund,Regular,IDCW,
 107580,Deutsche Mutual Fund,DWS FIXED TERM FUND SERIES 45 Inst Gr,,Close Ended,Income,Income,Other,Other,
 107581,Deutsche Mutual Fund,DWS FIXED TERM FUND SERIES 45 Reg Div,,Close Ended,Income,Income,Other,Other,
 107583,Deutsche Mutual Fund,DWS FIXED TERM FUND SERIES 45 Reg Gr,,Close Ended,Income,Income,Other,Other,
@@ -8657,7 +8657,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 111644,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Regular Plan - Weekly IDCW,INF769K01PC4,Open Ended,Income/Debt Orienteds,Liquid Fund,Regular,IDCW,Weekly
 111645,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Regular Plan - Monthly IDCW,INF769K01838,Open Ended,Income/Debt Orienteds,Liquid Fund,Regular,IDCW,Monthly
 111646,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Regular Plan - Growth,INF769K01788,Open Ended,Income/Debt Orienteds,Liquid Fund,Regular,Growth,
-111647,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Regular - Daily IDCW,,Open Ended,Income/Debt Orienteds,Liquid Fund,Regular,IDCW,Daily
+111647,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Regular Plan - Daily IDCW,,Open Ended,Income/Debt Orienteds,Liquid Fund,Regular,IDCW,Daily
 111648,Mirae Asset Mutual Fund,Mirae Asset Cash Management Fund - Bonus,,Open Ended,Income,Income,Other,Bonus,
 111665,ICICI Prudential Mutual Fund,ICICI Prudential S.M.A.R.T.(Structured Methodology Aiming at Returns over Tenure) Fund-Series B- 15 Months-Retail Growth,,Close Ended,Income,Income,Retail,Growth,
 111667,ICICI Prudential Mutual Fund,ICICI Prudential S.M.A.R.T.(Structured Methodology Aiming at Returns over Tenure) Fund-Series B- 15 Months- Retail Dividend,,Close Ended,Income,Income,Retail,IDCW,
@@ -10741,7 +10741,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 114927,Reliance Mutual Fund,Reliance Fixed Horizon Fund - XVIII - Series 7 - Growth Option,,Close Ended,Income,Income,Other,Growth,
 114928,Reliance Mutual Fund,Reliance Fixed Horizon Fund - XVIII - Series 7 - Dividend Payout Option,,Close Ended,Income,Income,Other,IDCW,
 114929,ICICI Prudential Mutual Fund,ICICI Prudential Interval Fund II Quarterly Interval Plan D - Quarterly Dividend Payout,INF109K01NO3,Open Ended,Income,Income,Other,IDCW,Quarterly
-114930,Mirae Asset Mutual Fund,Mirae Asset Great Consumer Fund Regular IDCW,INF769K01150,Open Ended,Equitys,Thematic Fund,Regular,IDCW,
+114930,Mirae Asset Mutual Fund,Mirae Asset Great Consumer Fund - Regular Plan - IDCW,INF769K01150,Open Ended,Equitys,Thematic Fund,Regular,IDCW,
 114931,Mirae Asset Mutual Fund,Mirae Asset Great Consumer Fund - Regular Plan - Growth,INF769K01135,Open Ended,Equitys,Thematic Fund,Regular,Growth,
 114932,Tata Mutual Fund,TFMP Series 31 Scheme C- Periodic Dividend Payout Option,,Close Ended,Income,Income,Other,IDCW,
 114933,Tata Mutual Fund,TFMP Series 31 Scheme C- Growth Option,,Close Ended,Income,Income,Other,Growth,
@@ -13872,7 +13872,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 118822,Indiabulls Mutual Fund,Indiabulls Gilt Fund - Indirect Plan - Fortnightly Dividend Option,,Open Ended,Debt,Gilt Fund,Direct,IDCW,Fortnightly
 118823,Indiabulls Mutual Fund,Indiabulls Gilt Fund - Indirect Plan - Monthly Dividend Option,,Open Ended,Debt,Gilt Fund,Direct,IDCW,Monthly
 118825,Mirae Asset Mutual Fund,Mirae Asset Large Cap Fund - Direct Plan - Growth,INF769K01AX2,Open Ended,Equitys,Large Cap Fund,Direct,Growth,
-118826,Mirae Asset Mutual Fund,Mirae Asset Large Cap Fund Direct IDCW,INF769K01AY0,Open Ended,Equitys,Large Cap Fund,Direct,IDCW,
+118826,Mirae Asset Mutual Fund,Mirae Asset Large Cap Fund - Direct Plan - IDCW,INF769K01AY0,Open Ended,Equitys,Large Cap Fund,Direct,IDCW,
 118828,Mirae Asset Mutual Fund,Mirae Asset Global Commodity Stocks - Direct Plan - Growth,,Open Ended,Income,Income,Direct,Growth,
 118829,Mirae Asset Mutual Fund,Mirae Asset Global Commodity Stocks - Direct Plan - Dividend,,Open Ended,Income,Income,Direct,IDCW,
 118831,Mirae Asset Mutual Fund,Mirae Asset China Advantage Fund - Direct Plan - Growth,,Open Ended,Income,Income,Direct,Growth,
@@ -13880,7 +13880,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 118834,Mirae Asset Mutual Fund,Mirae Asset Large & Midcap Fund - Direct Plan - Growth,INF769K01BI1,Open Ended,Equitys,Large & Mid Cap Fund,Direct,Growth,
 118835,Mirae Asset Mutual Fund,Mirae Asset Large & Midcap Fund - Direct Plan - IDCW,INF769K01BJ9,Open Ended,Equitys,Large & Mid Cap Fund,Direct,IDCW,
 118837,Mirae Asset Mutual Fund,Mirae Asset Great Consumer Fund - Direct Plan - Growth,INF769K01BL5,Open Ended,Equitys,Thematic Fund,Direct,Growth,
-118838,Mirae Asset Mutual Fund,Mirae Asset Great Consumer Fund Direct IDCW,INF769K01BM3,Open Ended,Equitys,Thematic Fund,Direct,IDCW,
+118838,Mirae Asset Mutual Fund,Mirae Asset Great Consumer Fund - Direct Plan - IDCW,INF769K01BM3,Open Ended,Equitys,Thematic Fund,Direct,IDCW,
 118840,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Direct Plan - Growth,INF769K01BO9,Open Ended,Income/Debt Orienteds,Ultra Short to Short Term Fund,Direct,Growth,
 118841,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Direct Plan - Monthly IDCW,INF769K01BP6,Open Ended,Income/Debt Orienteds,Ultra Short to Short Term Fund,Direct,IDCW,Monthly
 118842,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Direct Plan - Quarterly IDCW,INF769K01BQ4,Open Ended,Income/Debt Orienteds,Ultra Short to Short Term Fund,Direct,IDCW,Quarterly
@@ -27972,10 +27972,10 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 143780,Franklin Templeton Mutual Fund,Franklin India Fixed Maturity Plans - Series 3 Plan F (1098 days) - Growth Direct,,Close Ended,Income,Income,Direct,Growth,
 143781,Franklin Templeton Mutual Fund,Franklin India Fixed Maturity Plans Series 3- Plan F (1098 days)- Quarterly Dividend,,Close Ended,Income,Income,Other,IDCW,Quarterly
 143782,Franklin Templeton Mutual Fund,Franklin India Fixed Maturity Plans - Series 3 - Plan F 1098 days - IDCW,,Close Ended,Income,Income,Other,IDCW,
-143783,Mirae Asset Mutual Fund,Mirae Asset Healthcare Fund Direct Growth,INF769K01ED6,Open Ended,Equitys,Thematic Fund,Direct,Growth,
-143784,Mirae Asset Mutual Fund,Mirae Asset Healthcare Fund Direct IDCW,INF769K01EE4,Open Ended,Equitys,Thematic Fund,Direct,IDCW,
-143785,Mirae Asset Mutual Fund,Mirae Asset Healthcare Fund -Regular Growth,INF769K01EA2,Open Ended,Equitys,Thematic Fund,Regular,Growth,
-143786,Mirae Asset Mutual Fund,Mirae Asset Healthcare Fund Regular IDCW,INF769K01EB0,Open Ended,Equitys,Thematic Fund,Regular,IDCW,
+143783,Mirae Asset Mutual Fund,Mirae Asset Healthcare Fund - Direct Plan - Growth,INF769K01ED6,Open Ended,Equitys,Thematic Fund,Direct,Growth,
+143784,Mirae Asset Mutual Fund,Mirae Asset Healthcare Fund - Direct Plan - IDCW,INF769K01EE4,Open Ended,Equitys,Thematic Fund,Direct,IDCW,
+143785,Mirae Asset Mutual Fund,Mirae Asset Healthcare Fund - Regular Plan - Growth,INF769K01EA2,Open Ended,Equitys,Thematic Fund,Regular,Growth,
+143786,Mirae Asset Mutual Fund,Mirae Asset Healthcare Fund - Regular Plan - IDCW,INF769K01EB0,Open Ended,Equitys,Thematic Fund,Regular,IDCW,
 143787,Navi Mutual Fund,Navi Flexi Cap Fund - Regular Plan - Growth,INF959L01EE9,Open Ended,Equity,Flexi Cap Fund,Regular,Growth,
 143788,Navi Mutual Fund,NAVI FLEXI CAP FUND - REGULAR PLAN QUARTERLY IDCW PAYOUT,INF959L01EJ8,Open Ended,Equity,Flexi Cap Fund,Regular,IDCW,Quarterly
 143789,Navi Mutual Fund,NAVI FLEXI CAP FUND - REGULAR PLAN NORMAL IDCW PAYOUT,INF959L01EF6,Open Ended,Equity,Flexi Cap Fund,Regular,IDCW,
@@ -30624,7 +30624,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 147442,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund - Unclaimed Dividend - Greater than 3 years,,Open Ended,Debt,Liquid Fund,Other,IDCW,
 147443,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund - Unclaimed Redemption - Greater than 3 years,,Open Ended,Debt,Liquid Fund,Other,Other,
 147444,Motilal Oswal Mutual Fund,Motilal Oswal Liquid Fund - Unclaimed Redemption - Upto 3 years,,Open Ended,Debt,Liquid Fund,Other,Other,
-147445,Mirae Asset Mutual Fund,Mirae Asset Midcap Fund- Direct Growth Option,INF769K01FA9,Open Ended,Equitys,Mid Cap Fund,Direct,Growth,
+147445,Mirae Asset Mutual Fund,Mirae Asset Midcap Fund - Direct Plan - Growth,INF769K01FA9,Open Ended,Equitys,Mid Cap Fund,Direct,Growth,
 147446,Mahindra Manulife Mutual Fund,Mahindra Manulife Aggressive Hybrid Fund - Direct Plan -Growth,INF174V01788,Open Ended,Hybrids,Aggressive Hybrid Fund,Direct,Growth,
 147447,Mahindra Manulife Mutual Fund,Mahindra Manulife Aggressive Hybrid Fund - Regular Plan - Growth,INF174V01754,Open Ended,Hybrids,Aggressive Hybrid Fund,Regular,Growth,
 147448,Mahindra Manulife Mutual Fund,Mahindra Manulife Aggressive Hybrid Fund - Direct Plan - Monthly IDCW,INF174V01804,Open Ended,Hybrids,Aggressive Hybrid Fund,Direct,IDCW,Monthly
@@ -30651,9 +30651,9 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 147473,Kotak Mahindra Mutual Fund,Kotak Focused Fund- Direct Plan- Growth option,INF174KA1EN7,Open Ended,Equity,Focused Fund,Direct,Growth,
 147475,Kotak Mahindra Mutual Fund,Kotak Focused Fund-Direct Plan- Income Distribution cum capital withdrawal option,INF174KA1EP2,Open Ended,Equity,Focused Fund,Direct,IDCW,
 147477,Kotak Mahindra Mutual Fund,Kotak Focused Fund- Regular plan _ Growth Option,INF174KA1EK3,Open Ended,Equity,Focused Fund,Regular,Growth,
-147478,Mirae Asset Mutual Fund,Mirae Asset Midcap Fund Direct IDCW,INF769K01EZ9,Open Ended,Equitys,Mid Cap Fund,Direct,IDCW,
-147479,Mirae Asset Mutual Fund,Mirae Asset Midcap Fund - Regular Plan-Growth,INF769K01EY2,Open Ended,Equitys,Mid Cap Fund,Regular,Growth,
-147480,Mirae Asset Mutual Fund,Mirae Asset Midcap Fund Regular IDCW,INF769K01EX4,Open Ended,Equitys,Mid Cap Fund,Regular,IDCW,
+147478,Mirae Asset Mutual Fund,Mirae Asset Midcap Fund - Direct Plan - IDCW,INF769K01EZ9,Open Ended,Equitys,Mid Cap Fund,Direct,IDCW,
+147479,Mirae Asset Mutual Fund,Mirae Asset Midcap Fund - Regular Plan - Growth,INF769K01EY2,Open Ended,Equitys,Mid Cap Fund,Regular,Growth,
+147480,Mirae Asset Mutual Fund,Mirae Asset Midcap Fund - Regular Plan - IDCW,INF769K01EX4,Open Ended,Equitys,Mid Cap Fund,Regular,IDCW,
 147481,PPFAS Mutual Fund,Parag Parikh ELSS Tax Saver Fund- Direct Growth,INF879O01100,Open Ended,Equity,ELSS,Direct,Growth,
 147482,PPFAS Mutual Fund,Parag Parikh ELSS Tax Saver Fund- Regular Growth,INF879O01092,Open Ended,Equity,ELSS,Regular,Growth,
 147483,ICICI Prudential Mutual Fund,ICICI Prudential Nifty Bank ETF,INF109KC15I8,Open Ended,Other,ETF,Other,Other,
@@ -30849,14 +30849,14 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 147733,Mahindra Manulife Mutual Fund,Mahindra Manulife Ultra Short Duration Fund - Direct Plan - Daily IDCW,,Open Ended,Debt,Ultra Short Duration Fund,Direct,IDCW,Daily
 147734,Mahindra Manulife Mutual Fund,Mahindra Manulife Ultra Short Duration Fund - Regular Plan - Growth,INF174V01853,Open Ended,Debt,Ultra Short Duration Fund,Regular,Growth,
 147735,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty Bank ETF,INF209KB17D5,Open Ended,Exchange Traded Funds,Exchange Traded Funds,Other,Other,
-147736,Mirae Asset Mutual Fund,Mirae Asset Overnight Fund Direct Plan Growth,INF769K01FG6,Open Ended,Income/Debt Orienteds,Overnight Fund,Direct,Growth,
-147737,Mirae Asset Mutual Fund,Mirae Asset Overnight Fund Direct Daily IDCW,,Open Ended,Income/Debt Orienteds,Overnight Fund,Direct,IDCW,Daily
-147738,Mirae Asset Mutual Fund,Mirae Asset Overnight Fund Direct Monthly IDCW,INF769K01FF8,Open Ended,Income/Debt Orienteds,Overnight Fund,Direct,IDCW,Monthly
-147739,Mirae Asset Mutual Fund,Mirae Asset Overnight Fund Regular Plan Growth,INF769K01FE1,Open Ended,Income/Debt Orienteds,Overnight Fund,Regular,Growth,
-147740,Mirae Asset Mutual Fund,Mirae Asset Overnight Fund Direct Weekly IDCW,,Open Ended,Income/Debt Orienteds,Overnight Fund,Direct,IDCW,Weekly
-147741,Mirae Asset Mutual Fund,Mirae Asset Overnight Fund Regular Weekly IDCW,,Open Ended,Income/Debt Orienteds,Overnight Fund,Regular,IDCW,Weekly
-147742,Mirae Asset Mutual Fund,Mirae Asset Overnight Fund Regular Monthly IDCW,INF769K01FD3,Open Ended,Income/Debt Orienteds,Overnight Fund,Regular,IDCW,Monthly
-147743,Mirae Asset Mutual Fund,Mirae Asset Overnight Fund Regular Daily IDCW,,Open Ended,Income/Debt Orienteds,Overnight Fund,Regular,IDCW,Daily
+147736,Mirae Asset Mutual Fund,Mirae Asset Overnight Fund - Direct Plan - Growth,INF769K01FG6,Open Ended,Income/Debt Orienteds,Overnight Fund,Direct,Growth,
+147737,Mirae Asset Mutual Fund,Mirae Asset Overnight Fund - Direct Plan - Daily IDCW,,Open Ended,Income/Debt Orienteds,Overnight Fund,Direct,IDCW,Daily
+147738,Mirae Asset Mutual Fund,Mirae Asset Overnight Fund - Direct Plan - Monthly IDCW,INF769K01FF8,Open Ended,Income/Debt Orienteds,Overnight Fund,Direct,IDCW,Monthly
+147739,Mirae Asset Mutual Fund,Mirae Asset Overnight Fund - Regular Plan - Growth,INF769K01FE1,Open Ended,Income/Debt Orienteds,Overnight Fund,Regular,Growth,
+147740,Mirae Asset Mutual Fund,Mirae Asset Overnight Fund - Direct Plan - Weekly IDCW,,Open Ended,Income/Debt Orienteds,Overnight Fund,Direct,IDCW,Weekly
+147741,Mirae Asset Mutual Fund,Mirae Asset Overnight Fund - Regular Plan - Weekly IDCW,,Open Ended,Income/Debt Orienteds,Overnight Fund,Regular,IDCW,Weekly
+147742,Mirae Asset Mutual Fund,Mirae Asset Overnight Fund - Regular Plan - Monthly IDCW,INF769K01FD3,Open Ended,Income/Debt Orienteds,Overnight Fund,Regular,IDCW,Monthly
+147743,Mirae Asset Mutual Fund,Mirae Asset Overnight Fund - Regular Plan - Daily IDCW,,Open Ended,Income/Debt Orienteds,Overnight Fund,Regular,IDCW,Daily
 147748,Union Mutual Fund,Union Large & Midcap Fund - Regular Plan - Growth Option,INF582M01GD4,Open Ended,Equity,Large & Mid Cap Fund,Regular,Growth,
 147749,Union Mutual Fund,Union Large & Midcap Fund - Regular Plan - IDCW Option,INF582M01GG7,Open Ended,Equity,Large & Mid Cap Fund,Regular,IDCW,
 147750,Union Mutual Fund,Union Large & Midcap Fund - Direct Plan - Growth Option,INF582M01GA0,Open Ended,Equity,Large & Mid Cap Fund,Direct,Growth,
@@ -31542,10 +31542,10 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 148522,Principal Mutual Fund,Principal Large Cap Fund - Regular Income Distribution CUM Capital Withdrawal Option,,Open Ended,Equity,Large Cap Fund,Regular,IDCW,
 148524,Principal Mutual Fund,Principal Large Cap Fund - Direct Growth,,Open Ended,Equity,Large Cap Fund,Direct,Growth,
 148525,Principal Mutual Fund,Principal Large Cap Fund - Direct Income Distribution CUM Capital Withdrawal Option,,Open Ended,Equity,Large Cap Fund,Direct,IDCW,
-148529,Mirae Asset Mutual Fund,Mirae Asset Ultra Short Duration Fund Direct Growth,INF769K01GK6,Open Ended,Debt,Ultra Short Duration Fund,Direct,Growth,
-148530,Mirae Asset Mutual Fund,Mirae Asset Ultra Short Duration Fund Regular Growth,INF769K01GH2,Open Ended,Debt,Ultra Short Duration Fund,Regular,Growth,
-148531,Mirae Asset Mutual Fund,Mirae Asset Ultra Short Duration Fund Regular IDCW,INF769K01GG4,Open Ended,Debt,Ultra Short Duration Fund,Regular,IDCW,
-148532,Mirae Asset Mutual Fund,Mirae Asset Ultra Short Duration Fund Direct IDCW,INF769K01GJ8,Open Ended,Debt,Ultra Short Duration Fund,Direct,IDCW,
+148529,Mirae Asset Mutual Fund,Mirae Asset Ultra Short Duration Fund - Direct Plan - Growth,INF769K01GK6,Open Ended,Income/Debt Orienteds,Ultra Short Term Fund,Direct,Growth,
+148530,Mirae Asset Mutual Fund,Mirae Asset Ultra Short Duration Fund - Regular Plan - Growth,INF769K01GH2,Open Ended,Income/Debt Orienteds,Ultra Short Term Fund,Regular,Growth,
+148531,Mirae Asset Mutual Fund,Mirae Asset Ultra Short Duration Fund - Regular Plan - IDCW,INF769K01GG4,Open Ended,Income/Debt Orienteds,Ultra Short Term Fund,Regular,IDCW,
+148532,Mirae Asset Mutual Fund,Mirae Asset Ultra Short Duration Fund - Direct Plan - IDCW,INF769K01GJ8,Open Ended,Income/Debt Orienteds,Ultra Short Term Fund,Direct,IDCW,
 148533,ITI Mutual Fund,ITI Banking & PSU Debt Fund - Regular Plan - IDCW Option,INF00XX01846,Open Ended,Debt,Banking and PSU Fund,Regular,IDCW,
 148534,ITI Mutual Fund,ITI Banking & PSU Debt Fund - Direct Plan - Growth Option,INF00XX01861,Open Ended,Debt,Banking and PSU Fund,Direct,Growth,
 148535,ITI Mutual Fund,ITI Banking & PSU Debt Fund - Regular Plan - Growth Option,INF00XX01838,Open Ended,Debt,Banking and PSU Fund,Regular,Growth,
@@ -31576,10 +31576,10 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 148569,Mahindra Manulife Mutual Fund,Mahindra Manulife Focused Fund - Direct Plan - IDCW,INF174V01AI3,Open Ended,Equitys,Focused Fund,Direct,IDCW,
 148571,Mahindra Manulife Mutual Fund,Mahindra Manulife Focused Fund - Regular Plan - Growth,INF174V01AD4,Open Ended,Equitys,Focused Fund,Regular,Growth,
 148572,Mirae Asset Mutual Fund,Mirae Asset Nifty 100 ESG Sector Leaders ETF,INF769K01GS9,Open Ended,Other,ETF,Other,Other,
-148573,Mirae Asset Mutual Fund,Mirae Asset Nifty 100 ESG Sector Leaders Fund of Fund Regular IDCW,INF769K01GM2,Open Ended,Other,FoF Domestic,Regular,IDCW,
-148574,Mirae Asset Mutual Fund,Mirae Asset Nifty 100 ESG Sector Leaders Fund of Fund Direct Growth,INF769K01GQ3,Open Ended,Other,FoF Domestic,Direct,Growth,
-148575,Mirae Asset Mutual Fund,Mirae Asset Nifty 100 ESG Sector Leaders Fund of Fund Direct IDCW,INF769K01GP5,Open Ended,Other,FoF Domestic,Direct,IDCW,
-148576,Mirae Asset Mutual Fund,Mirae Asset Nifty 100 ESG Sector Leaders Fund of Fund Regular Growth,INF769K01GN0,Open Ended,Other,FoF Domestic,Regular,Growth,
+148573,Mirae Asset Mutual Fund,Mirae Asset Nifty 100 ESG Sector Leaders Fund of Fund - Regular Plan - IDCW,INF769K01GM2,Open Ended,Fund of Funds,Fund of Funds,Regular,IDCW,
+148574,Mirae Asset Mutual Fund,Mirae Asset Nifty 100 ESG Sector Leaders Fund of Fund - Direct Plan - Growth,INF769K01GQ3,Open Ended,Fund of Funds,Fund of Funds,Direct,Growth,
+148575,Mirae Asset Mutual Fund,Mirae Asset Nifty 100 ESG Sector Leaders Fund of Fund - Direct Plan - IDCW,INF769K01GP5,Open Ended,Fund of Funds,Fund of Funds,Direct,IDCW,
+148576,Mirae Asset Mutual Fund,Mirae Asset Nifty 100 ESG Sector Leaders Fund of Fund - Regular Plan - Growth,INF769K01GN0,Open Ended,Fund of Funds,Fund of Funds,Regular,Growth,
 148585,Nippon India Mutual Fund,Nippon India ETF Nifty CPSE Bond Plus SDL Sep2024 50:50,,Open Ended,Other,ETF,Other,Other,
 148586,Nippon Life India Asset Management Limited,Nippon India Fixed Horizon Fund - XLII - Series 7 - Regular Plan - Growth Option,,Close Ended,Income,Income,Regular,Growth,
 148587,Nippon Life India Asset Management Limited,Nippon India Fixed Horizon Fund XLII - Series 7 - Regular Plan - Dividend Payout Option,,Close Ended,Income,Income,Regular,IDCW,
@@ -31840,9 +31840,9 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 148924,quant Mutual Fund,quant Quantamental Fund - IDCW Option - Direct Plan,INF966L01AL7,Open Ended,Equity,Sectoral/ Thematic,Direct,IDCW,
 148925,quant Mutual Fund,quant Quantamental Fund - Growth Option - Direct Plan,INF966L01AK9,Open Ended,Equity,Sectoral/ Thematic,Direct,Growth,
 148926,Axis Mutual Fund,Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF,INF846K01Z04,Open Ended,Other,ETF,Other,Other,
-148927,Mirae Asset Mutual Fund,Mirae Asset NYSE FANG + ETF,INF769K01HF4,Open Ended,Other,ETF,Other,Other,
-148928,Mirae Asset Mutual Fund,Mirae Asset NYSE FANG + ETF Fund of Fund Direct Growth,INF769K01HH0,Open Ended,Other,FoF Domestic,Direct,Growth,
-148929,Mirae Asset Mutual Fund,Mirae Asset NYSE FANG + ETF Fund of Fund Regular Growth,INF769K01HG2,Open Ended,Other,FoF Domestic,Regular,Growth,
+148927,Mirae Asset Mutual Fund,Mirae Asset NYSE FANG + ETF,INF769K01HF4,Open Ended,Exchange Traded Funds,Exchange Traded Funds,Other,Other,
+148928,Mirae Asset Mutual Fund,Mirae Asset NYSE FANG + ETF Fund of Fund - Direct Plan - Growth,INF769K01HH0,Open Ended,Fund of Funds,Fund of Funds,Direct,Growth,
+148929,Mirae Asset Mutual Fund,Mirae Asset NYSE FANG + ETF Fund of Fund - Regular Plan - Growth,INF769K01HG2,Open Ended,Fund of Funds,Fund of Funds,Regular,Growth,
 148934,Axis Mutual Fund,Axis NIFTY Healthcare ETF,INF846K01Z12,Open Ended,Other,ETF,Other,Other,
 148943,SBI Mutual Fund,SBI Nifty Next 50 Index Fund - Regular Plan - Growth,INF200KA1V76,Open Ended,Other,Index Funds,Regular,Growth,
 148944,SBI Mutual Fund,SBI Nifty Next 50 Index Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1V84,Open Ended,Other,Index Funds,Regular,IDCW,
@@ -31995,10 +31995,10 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 149105,Mirae Asset Mutual Fund,Mirae Asset Nifty Financial Services ETF,INF769K01HI8,Open Ended,Other,ETF,Other,Other,
 149106,HDFC Mutual Fund,HDFC NIFTY50 Equal weight Index Fund - Growth Option,INF179KC1BN6,Open Ended,Other,Index Funds,Other,Growth,
 149107,HDFC Mutual Fund,HDFC NIFTY50 Equal weight Index Fund - Direct Plan - Growth Option,INF179KC1BM8,Open Ended,Other,Index Funds,Direct,Growth,
-149112,Mirae Asset Mutual Fund,Mirae Asset Money Market Fund Direct Growth,INF769K01HN8,Open Ended,Income/Debt Orienteds,Money Market Fund,Direct,Growth,
-149113,Mirae Asset Mutual Fund,Mirae Asset Money Market Fund Direct IDCW,INF769K01HM0,Open Ended,Income/Debt Orienteds,Money Market Fund,Direct,IDCW,
-149114,Mirae Asset Mutual Fund,Mirae Asset Money Market Fund Regular IDCW,INF769K01HJ6,Open Ended,Income/Debt Orienteds,Money Market Fund,Regular,IDCW,
-149115,Mirae Asset Mutual Fund,Mirae Asset Money Market Fund Regular Growth,INF769K01HK4,Open Ended,Income/Debt Orienteds,Money Market Fund,Regular,Growth,
+149112,Mirae Asset Mutual Fund,Mirae Asset Money Market Fund - Direct Plan - Growth,INF769K01HN8,Open Ended,Income/Debt Orienteds,Money Market Fund,Direct,Growth,
+149113,Mirae Asset Mutual Fund,Mirae Asset Money Market Fund - Direct Plan - IDCW,INF769K01HM0,Open Ended,Income/Debt Orienteds,Money Market Fund,Direct,IDCW,
+149114,Mirae Asset Mutual Fund,Mirae Asset Money Market Fund - Regular Plan - IDCW,INF769K01HJ6,Open Ended,Income/Debt Orienteds,Money Market Fund,Regular,IDCW,
+149115,Mirae Asset Mutual Fund,Mirae Asset Money Market Fund - Regular Plan - Growth,INF769K01HK4,Open Ended,Income/Debt Orienteds,Money Market Fund,Regular,Growth,
 149116,Union Mutual Fund,Union Money Market Fund - Regular Plan - Growth Option,INF582M01HO9,Open Ended,Debt,Money Market Fund,Regular,Growth,
 149117,Union Mutual Fund,Union Money Market Fund - Direct Plan - Growth Option,INF582M01HG5,Open Ended,Debt,Money Market Fund,Direct,Growth,
 149118,Union Mutual Fund,Union Money Market Fund - Regular Plan - Daily IDCW Option,,Open Ended,Debt,Money Market Fund,Regular,IDCW,Daily
@@ -32049,8 +32049,8 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 149167,Axis Mutual Fund,Axis Value Fund - Regular Plan - Growth,INF846K013C4,Open Ended,Equity,Value Fund,Regular,Growth,
 149168,Axis Mutual Fund,Axis Value Fund - Direct Plan - IDCW,INF846K011C8,Open Ended,Equity,Value Fund,Direct,IDCW,
 149169,Mirae Asset Mutual Fund,Mirae Asset S&P 500 Top 50 ETF,INF769K01HP3,Open Ended,Other,ETF,Other,Other,
-149170,Mirae Asset Mutual Fund,Mirae Asset S&P 500 Top 50 ETF Fund of Fund Direct Growth,INF769K01HR9,Open Ended,Other,FoF Domestic,Direct,Growth,
-149171,Mirae Asset Mutual Fund,Mirae Asset S&P 500 Top 50 ETF Fund of Fund Regular Growth,INF769K01HQ1,Open Ended,Other,FoF Domestic,Regular,Growth,
+149170,Mirae Asset Mutual Fund,Mirae Asset S&P 500 Top 50 ETF Fund of Fund - Direct Plan - Growth,INF769K01HR9,Open Ended,Fund of Funds,Fund of Funds,Direct,Growth,
+149171,Mirae Asset Mutual Fund,Mirae Asset S&P 500 Top 50 ETF Fund of Fund - Regular Plan - Growth,INF769K01HQ1,Open Ended,Fund of Funds,Fund of Funds,Regular,Growth,
 149172,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Regular Plan - Growth,INF200KA1Z49,Close Ended,Income,Income,Regular,Growth,
 149173,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Regular Plan -Income Distribution Capital Withdrawal Option (IDCW),INF200KA1Z56,Close Ended,Income,Income,Regular,IDCW,
 149174,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Direct Plan - Growth,INF200KA1Z64,Close Ended,Income,Income,Direct,Growth,
@@ -32232,8 +32232,8 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 149377,Axis Mutual Fund,Axis Fixed Term Plan Series 109 (111 Days) - Regular Plan - Quarterly IDCW,,Close Ended,Income,Income,Regular,IDCW,Quarterly
 149378,Axis Mutual Fund,Axis Fixed Term Plan Series 109 (111 Days) - Regular Plan - Growth Option,,Close Ended,Income,Income,Regular,Growth,
 149379,Mirae Asset Mutual Fund,Mirae Asset Hang Seng TECH ETF,INF769K01HS7,Open Ended,Other,ETF,Other,Other,
-149380,Mirae Asset Mutual Fund,Mirae Asset Hang Seng TECH ETF Fund of Fund Regular Plan - Growth Option,INF769K01HT5,Open Ended,Other,FoF Domestic,Regular,Growth,
-149381,Mirae Asset Mutual Fund,Mirae AssetHang Seng TECH ETF Fund of Fund Direct Plan - Growth Option,INF769K01HU3,Open Ended,Other,FoF Domestic,Direct,Growth,
+149380,Mirae Asset Mutual Fund,Mirae Asset Hang Seng TECH ETF Fund of Fund - Regular Plan - Growth,INF769K01HT5,Open Ended,Fund of Funds,Fund of Funds,Regular,Growth,
+149381,Mirae Asset Mutual Fund,Mirae Asset Hang Seng TECH ETF Fund of Fund - Direct Plan - Growth,INF769K01HU3,Open Ended,Fund of Funds,Fund of Funds,Direct,Growth,
 149382,Axis Mutual Fund,Axis Multicap Fund - Regular Plan - Growth,INF846K016E3,Open Ended,Equity,Multi Cap Fund,Regular,Growth,
 149383,Axis Mutual Fund,Axis Multicap Fund - Direct Growth,INF846K013E0,Open Ended,Equity,Multi Cap Fund,Direct,Growth,
 149384,Axis Mutual Fund,Axis Multicap Fund - Direct Plan - IDCW,INF846K014E8,Open Ended,Equity,Multi Cap Fund,Direct,IDCW,
@@ -32448,10 +32448,10 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 149783,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Silver ETF FOF-Regular Growth,INF209KB13F9,Open Ended,Fund of Funds,Fund of Funds,Regular,Growth,
 149784,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Silver ETF FOF-Regular IDCW,INF209KB14F7,Open Ended,Fund of Funds,Fund of Funds,Regular,IDCW,
 149786,Mirae Asset Mutual Fund,Mirae Asset Nifty India Manufacturing ETF,INF769K01IB1,Open Ended,Other,ETF,Other,Other,
-149787,Mirae Asset Mutual Fund,Mirae Asset Nifty India Manufacturing ETF FOF - Direct Plan- IDCW,INF769K01HY5,Open Ended,Other,FoF Domestic,Direct,IDCW,
-149788,Mirae Asset Mutual Fund,Mirae Asset Nifty India Manufacturing ETF FOF - Regular Plan - Growth,INF769K01HW9,Open Ended,Other,FoF Domestic,Regular,Growth,
-149789,Mirae Asset Mutual Fund,Mirae Asset Nifty India Manufacturing ETF FOF - Regular Plan - IDCW,INF769K01HV1,Open Ended,Other,FoF Domestic,Regular,IDCW,
-149790,Mirae Asset Mutual Fund,Mirae Asset Nifty India Manufacturing ETF FOF - Direct Plan - Growth,INF769K01HZ2,Open Ended,Other,FoF Domestic,Direct,Growth,
+149787,Mirae Asset Mutual Fund,Mirae Asset Nifty India Manufacturing ETF FOF - Direct Plan - IDCW,INF769K01HY5,Open Ended,Fund of Funds,Fund of Funds,Direct,IDCW,
+149788,Mirae Asset Mutual Fund,Mirae Asset Nifty India Manufacturing ETF FOF - Regular Plan - Growth,INF769K01HW9,Open Ended,Fund of Funds,Fund of Funds,Regular,Growth,
+149789,Mirae Asset Mutual Fund,Mirae Asset Nifty India Manufacturing ETF FOF - Regular Plan - IDCW,INF769K01HV1,Open Ended,Fund of Funds,Fund of Funds,Regular,IDCW,
+149790,Mirae Asset Mutual Fund,Mirae Asset Nifty India Manufacturing ETF FOF - Direct Plan - Growth,INF769K01HZ2,Open Ended,Fund of Funds,Fund of Funds,Direct,Growth,
 149791,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty SDL Apr 2027 Index Fund-Regular-IDCW Payout,INF209KB10F5,Open Ended,Other,Index Funds,Regular,IDCW,
 149792,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty SDL Apr 2027 Index Fund-Regular Growth,INF209KB19E9,Open Ended,Other,Index Funds,Regular,Growth,
 149793,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty SDL Apr 2027 Index Fund-Direct IDCW Payout,INF209KB12F1,Open Ended,Other,Index Funds,Direct,IDCW,
@@ -32772,10 +32772,10 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 150355,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil IBX 60:40 SDL+AAA PSU-APR 2025 Index Fund-Direct IDCW,INF209KB14I1,Open Ended,Other,Index Funds,Direct,IDCW,
 150356,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil IBX 60:40 SDL+AAA PSU-APR 2025 Index Fund-Regular IDCW,INF209KB12I5,Open Ended,Other,Index Funds,Regular,IDCW,
 150357,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil IBX 60:40 SDL+AAA PSU-APR 2025 Index Fund-Direct Growth,INF209KB13I3,Open Ended,Other,Index Funds,Direct,Growth,
-150358,Mirae Asset Mutual Fund,Mirae Asset Nifty SDL Jun 2027 Index Fund -Direct Plan - Growth,INF769K01IH8,Open Ended,Other,Index Funds,Direct,Growth,
-150359,Mirae Asset Mutual Fund,Mirae Asset Nifty SDL Jun 2027 Index Fund - Direct Plan - IDCW,INF769K01IG0,Open Ended,Other,Index Funds,Direct,IDCW,
-150360,Mirae Asset Mutual Fund,Mirae Asset Nifty SDL Jun 2027 Index Fund - Regular Plan - Growth,INF769K01IE5,Open Ended,Other,Index Funds,Regular,Growth,
-150361,Mirae Asset Mutual Fund,Mirae Asset Nifty SDL Jun 2027 Index Fund - Regular Plan - IDCW,INF769K01ID7,Open Ended,Other,Index Funds,Regular,IDCW,
+150358,Mirae Asset Mutual Fund,Mirae Asset Nifty SDL Jun 2027 Index Fund - Direct Plan - Growth,INF769K01IH8,Open Ended,Index Funds,Debt Funds,Direct,Growth,
+150359,Mirae Asset Mutual Fund,Mirae Asset Nifty SDL Jun 2027 Index Fund - Direct Plan - IDCW,INF769K01IG0,Open Ended,Index Funds,Debt Funds,Direct,IDCW,
+150360,Mirae Asset Mutual Fund,Mirae Asset Nifty SDL Jun 2027 Index Fund - Regular Plan - Growth,INF769K01IE5,Open Ended,Index Funds,Debt Funds,Regular,Growth,
+150361,Mirae Asset Mutual Fund,Mirae Asset Nifty SDL Jun 2027 Index Fund - Regular Plan - IDCW,INF769K01ID7,Open Ended,Index Funds,Debt Funds,Regular,IDCW,
 150366,NJ Mutual Fund,NJ Arbitrage Fund - Regular Plan - Growth Option,INF0J8L01057,Open Ended,Hybrids,Arbitrage Fund,Regular,Growth,
 150367,NJ Mutual Fund,NJ Arbitrage Fund - Direct Plan - Growth Option,INF0J8L01065,Open Ended,Hybrids,Arbitrage Fund,Direct,Growth,
 150368,NJ Mutual Fund,NJ Overnight Fund - Regular Plan - Growth Option,INF0J8L01073,Open Ended,Income/Debt Orienteds,Overnight Fund,Regular,Growth,
@@ -33822,11 +33822,11 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 151684,Kotak Mahindra Asset Management Company Limited.,Kotak FMP Series 310 - Direct Plan - IDCW Payout Option,INF174KA1NP3,Close Ended,Income,Income,Direct,IDCW,
 151685,Kotak Mahindra Mutual Fund,Kotak FMP Series 310 - Regular Plan - IDCW Payout option,INF174KA1NN8,Close Ended,Income,Income,Regular,IDCW,
 151686,Kotak Mahindra Mutual Fund,Kotak FMP Series 310 - Direct Plan - Growth Option,INF174KA1NO6,Close Ended,Income,Income,Direct,Growth,
-151691,Mirae Asset Mutual Fund,Mirae Asset Nifty SDL June 2028 Index Fund - Direct Plan - Growth,INF769K01JZ8,Open Ended,Other,Index Funds,Direct,Growth,
-151692,Mirae Asset Mutual Fund,Mirae Asset Nifty SDL June 2028 Index Fund - Direct Plan - IDCW,INF769K01JY1,Open Ended,Other,Index Funds,Direct,IDCW,
-151693,Mirae Asset Mutual Fund,Mirae Asset Nifty SDL June 2028 Index Fund - Regular Plan - IDCW,INF769K01JV7,Open Ended,Other,Index Funds,Regular,IDCW,
-151694,Mirae Asset Mutual Fund,Mirae Asset Nifty SDL June 2028 Index Fund -Regular Plan - Growth,INF769K01JW5,Open Ended,Other,Index Funds,Regular,Growth,
-151695,Mirae Asset Mutual Fund,Mirae Asset Nifty 8-13 yr Gsec ETF,INF769K01KF8,Open Ended,Other,ETF,Other,Other,
+151691,Mirae Asset Mutual Fund,Mirae Asset Nifty SDL June 2028 Index Fund - Direct Plan - Growth,INF769K01JZ8,Open Ended,Index Funds,Debt Funds,Direct,Growth,
+151692,Mirae Asset Mutual Fund,Mirae Asset Nifty SDL June 2028 Index Fund - Direct Plan - IDCW,INF769K01JY1,Open Ended,Index Funds,Debt Funds,Direct,IDCW,
+151693,Mirae Asset Mutual Fund,Mirae Asset Nifty SDL June 2028 Index Fund - Regular Plan - IDCW,INF769K01JV7,Open Ended,Index Funds,Debt Funds,Regular,IDCW,
+151694,Mirae Asset Mutual Fund,Mirae Asset Nifty SDL June 2028 Index Fund - Regular Plan - Growth,INF769K01JW5,Open Ended,Index Funds,Debt Funds,Regular,Growth,
+151695,Mirae Asset Mutual Fund,Mirae Asset Nifty 8-13 yr G-Sec ETF,INF769K01KF8,Open Ended,Exchange Traded Funds,Exchange Traded Funds,Other,Other,
 151700,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series UJ (1110 days) - Direct Plan - Growth Option,INF209KB13V6,Close Ended,Income,Income,Direct,Growth,
 151701,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series UJ (1110 days) - Regular Plan - Payout of IDCW Option,INF209KB12V8,Close Ended,Income,Income,Regular,IDCW,
 151702,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series UJ (1110 days) - Direct Plan - Payout of IDCW Option,INF209KB14V4,Close Ended,Income,Income,Direct,IDCW,
