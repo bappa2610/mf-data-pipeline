@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Equity Schemes - Value Fund",
         "scheme_code": 149381,
-        "scheme_name": "Mirae AssetHang Seng TECH ETF Fund of Fund Direct Plan - Growth Option",
+        "scheme_name": "Mirae Asset Hang Seng TECH ETF Fund of Fund - Direct Plan - Growth",
         "isin_growth": "INF769K01HU3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "18-08-2026",
+            "nav": "11.97600"
+        },
         {
             "date": "17-08-2026",
             "nav": "12.05900"

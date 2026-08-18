@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
+        "scheme_category": "Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation",
         "scheme_code": 150474,
-        "scheme_name": "Mirae Asset Balanced Advantage Fund Regular Plan IDCW",
+        "scheme_name": "Mirae Asset Balanced Advantage Fund - Regular Plan - IDCW",
         "isin_growth": "INF769K01IJ4",
         "isin_div_reinvestment": "INF769K01IL0"
     },
     "data": [
+        {
+            "date": "18-08-2026",
+            "nav": "13.60800"
+        },
         {
             "date": "17-08-2026",
             "nav": "13.62300"

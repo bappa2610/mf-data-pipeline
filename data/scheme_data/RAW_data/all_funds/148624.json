@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 148624,
-        "scheme_name": "Mirae Asset Banking and Financial Services Fund Direct  IDCW",
+        "scheme_name": "Mirae Asset Banking and Financial Services Fund - Direct Plan - IDCW",
         "isin_growth": "INF769K01GW1",
         "isin_div_reinvestment": "INF769K01GY7"
     },
     "data": [
+        {
+            "date": "18-08-2026",
+            "nav": "23.40500"
+        },
         {
             "date": "17-08-2026",
             "nav": "23.39900"

@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 143785,
-        "scheme_name": "Mirae Asset Healthcare Fund -Regular Growth",
+        "scheme_name": "Mirae Asset Healthcare Fund - Regular Plan - Growth",
         "isin_growth": "INF769K01EA2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "18-08-2026",
+            "nav": "45.56700"
+        },
         {
             "date": "17-08-2026",
             "nav": "45.40600"

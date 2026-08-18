@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Schemes - Arbitrage Fund",
         "scheme_code": 148403,
-        "scheme_name": "Mirae Asset Arbitrage Fund Regular IDCW",
+        "scheme_name": "Mirae Asset Arbitrage Fund - Regular Plan - IDCW",
         "isin_growth": "INF769K01FO0",
         "isin_div_reinvestment": "INF769K01FQ5"
     },
     "data": [
+        {
+            "date": "18-08-2026",
+            "nav": "13.86400"
+        },
         {
             "date": "17-08-2026",
             "nav": "13.84900"

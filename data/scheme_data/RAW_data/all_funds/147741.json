@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Overnight Fund",
         "scheme_code": 147741,
-        "scheme_name": "Mirae Asset Overnight Fund Regular Weekly IDCW",
+        "scheme_name": "Mirae Asset Overnight Fund - Regular Plan - Weekly IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF769K01FM4"
     },
     "data": [
+        {
+            "date": "18-08-2026",
+            "nav": "1000.83910"
+        },
         {
             "date": "17-08-2026",
             "nav": "1000.70510"

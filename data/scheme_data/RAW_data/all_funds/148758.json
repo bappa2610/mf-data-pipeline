@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Corporate Bond Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Corporate Bond Fund",
         "scheme_code": 148758,
-        "scheme_name": "Mirae Asset Corporate Bond Fund Regular IDCW",
+        "scheme_name": "Mirae Asset Corporate Bond Fund - Regular Plan - IDCW",
         "isin_growth": "INF769K01GZ4",
         "isin_div_reinvestment": "INF769K01HB3"
     },
     "data": [
+        {
+            "date": "18-08-2026",
+            "nav": "13.53050"
+        },
         {
             "date": "17-08-2026",
             "nav": "13.53660"

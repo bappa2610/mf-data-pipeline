@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Index Funds",
+        "scheme_category": "Index Funds - Debt Funds",
         "scheme_code": 150359,
         "scheme_name": "Mirae Asset Nifty SDL Jun 2027 Index Fund - Direct Plan - IDCW",
         "isin_growth": "INF769K01IG0",
         "isin_div_reinvestment": "INF769K01II6"
     },
     "data": [
+        {
+            "date": "18-08-2026",
+            "nav": "13.23090"
+        },
         {
             "date": "17-08-2026",
             "nav": "13.23110"

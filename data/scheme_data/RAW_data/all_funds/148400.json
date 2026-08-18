@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Schemes - Arbitrage Fund",
         "scheme_code": 148400,
-        "scheme_name": "Mirae Asset Arbitrage Fund Regular Growth",
+        "scheme_name": "Mirae Asset Arbitrage Fund - Regular Plan - Growth",
         "isin_growth": "INF769K01FP7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "18-08-2026",
+            "nav": "13.86500"
+        },
         {
             "date": "17-08-2026",
             "nav": "13.85000"

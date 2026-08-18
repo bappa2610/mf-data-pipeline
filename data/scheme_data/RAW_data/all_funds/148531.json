@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short Term Fund",
         "scheme_code": 148531,
-        "scheme_name": "Mirae Asset Ultra Short Duration Fund Regular IDCW",
+        "scheme_name": "Mirae Asset Ultra Short Duration Fund - Regular Plan - IDCW",
         "isin_growth": "INF769K01GG4",
         "isin_div_reinvestment": "INF769K01GI0"
     },
     "data": [
+        {
+            "date": "18-08-2026",
+            "nav": "1404.60360"
+        },
         {
             "date": "17-08-2026",
             "nav": "1404.54910"

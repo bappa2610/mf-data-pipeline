@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Mid Cap Fund",
+        "scheme_category": "Equity Schemes - Mid Cap Fund",
         "scheme_code": 147478,
-        "scheme_name": "Mirae Asset Midcap Fund Direct IDCW",
+        "scheme_name": "Mirae Asset Midcap Fund - Direct Plan - IDCW",
         "isin_growth": "INF769K01EZ9",
         "isin_div_reinvestment": "INF769K01FC5"
     },
     "data": [
+        {
+            "date": "18-08-2026",
+            "nav": "29.14600"
+        },
         {
             "date": "17-08-2026",
             "nav": "29.19000"

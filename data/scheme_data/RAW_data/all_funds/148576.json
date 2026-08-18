@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Equity Schemes - Value Fund",
         "scheme_code": 148576,
-        "scheme_name": "Mirae Asset Nifty 100 ESG Sector Leaders Fund of Fund Regular Growth",
+        "scheme_name": "Mirae Asset Nifty 100 ESG Sector Leaders Fund of Fund - Regular Plan - Growth",
         "isin_growth": "INF769K01GN0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "18-08-2026",
+            "nav": "18.12700"
+        },
         {
             "date": "17-08-2026",
             "nav": "18.18300"

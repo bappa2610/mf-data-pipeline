@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 143786,
-        "scheme_name": "Mirae Asset Healthcare Fund Regular IDCW",
+        "scheme_name": "Mirae Asset Healthcare Fund - Regular Plan - IDCW",
         "isin_growth": "INF769K01EB0",
         "isin_div_reinvestment": "INF769K01EC8"
     },
     "data": [
+        {
+            "date": "18-08-2026",
+            "nav": "26.82500"
+        },
         {
             "date": "17-08-2026",
             "nav": "26.73000"

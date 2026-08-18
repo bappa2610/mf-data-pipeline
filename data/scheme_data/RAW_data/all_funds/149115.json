@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Money Market Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Money Market Fund",
         "scheme_code": 149115,
-        "scheme_name": "Mirae Asset Money Market Fund Regular Growth",
+        "scheme_name": "Mirae Asset Money Market Fund - Regular Plan - Growth",
         "isin_growth": "INF769K01HK4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "18-08-2026",
+            "nav": "1350.55380"
+        },
         {
             "date": "17-08-2026",
             "nav": "1350.39270"

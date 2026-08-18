@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Overnight Fund",
         "scheme_code": 147737,
-        "scheme_name": "Mirae Asset Overnight Fund Direct Daily IDCW",
+        "scheme_name": "Mirae Asset Overnight Fund - Direct Plan - Daily IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF769K01FJ0"
     },
     "data": [
+        {
+            "date": "18-08-2026",
+            "nav": "1000.02430"
+        },
         {
             "date": "17-08-2026",
             "nav": "1000.02430"

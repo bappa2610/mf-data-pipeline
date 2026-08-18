@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Dynamic Bond",
+        "scheme_category": "Income/Debt Oriented Schemes - Dynamic Term Fund",
         "scheme_code": 140770,
-        "scheme_name": "Mirae Asset Dynamic Bond Fund Direct IDCW",
+        "scheme_name": "Mirae Asset Dynamic Bond Fund - Direct Plan - IDCW",
         "isin_growth": "INF769K01DS6",
         "isin_div_reinvestment": "INF769K01DT4"
     },
     "data": [
+        {
+            "date": "18-08-2026",
+            "nav": "18.86720"
+        },
         {
             "date": "17-08-2026",
             "nav": "18.88870"

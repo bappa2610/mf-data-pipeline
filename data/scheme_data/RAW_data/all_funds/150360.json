@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Index Funds",
+        "scheme_category": "Index Funds - Debt Funds",
         "scheme_code": 150360,
         "scheme_name": "Mirae Asset Nifty SDL Jun 2027 Index Fund - Regular Plan - Growth",
         "isin_growth": "INF769K01IE5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "18-08-2026",
+            "nav": "13.13690"
+        },
         {
             "date": "17-08-2026",
             "nav": "13.13720"
