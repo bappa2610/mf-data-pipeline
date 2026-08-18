@@ -718,7 +718,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 104514,quant Mutual Fund,quant Large & Mid Cap Fund - IDCW Option - Regular Plan,INF966L01325,INF966L01333,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund,77.3096,17-Aug-2026
 104523,SBI Mutual Fund,SBI ESG Exclusionary Strategy Fund - Regular Plan - Growth,INF200K01214,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,242.5428,17-Aug-2026
 104559,Canara Robeco Mutual Fund,CANARA ROBECO SAVINGS FUND - REGULAR PLAN - DAILY IDCW (Reinvestment),,INF760K01803,Open Ended Schemes,Debt Scheme - Low Duration Fund,10.2600,17-Aug-2026
-104635,Invesco Mutual Fund,Invesco India ELSS Tax Saver Fund - Regular Plan - IDCW Payout,INF205K01296,INF205K01288,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund,24.92,17-Aug-2026
+104635,Invesco Mutual Fund,Invesco India ELSS Tax Saver Fund - Regular Plan - IDCW Payout,INF205K01296,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund,24.92,17-Aug-2026
 104636,Invesco Mutual Fund,Invesco India ELSS Tax Saver Fund - Regular Plan - Growth,INF205K01270,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund,127.32,17-Aug-2026
 104637,Nippon India Mutual Fund,Nippon India Focused Fund -Growth Plan -Growth Option,INF204K01GE7,,Open Ended Schemes,Equity Scheme - Focused Fund,124.5534,17-Aug-2026
 104638,Nippon India Mutual Fund,NIPPON INDIA FOCUSED  FUND - IDCW OPTION,INF204K01GF4,INF204K01GG2,Open Ended Schemes,Equity Scheme - Focused Fund,33.3453,17-Aug-2026
@@ -956,8 +956,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 107477,Invesco Mutual Fund,Invesco India Gilt Fund - Regular Plan - Growth,INF205K01SR1,,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund,2936.3393,17-Aug-2026
 107524,HDFC Mutual Fund,HDFC Infrastructure Fund - Growth Plan,INF179K01GF8,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,47.287,17-Aug-2026
 107525,HDFC Mutual Fund,HDFC Infrastructure Fund - IDCW Plan,INF179K01GE1,INF179K01GG6,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,20.28,17-Aug-2026
-107578,Mirae Asset Mutual Fund,Mirae Asset Large Cap Fund - Growth Plan,INF769K01010,,Open Ended Schemes,Equity Scheme - Large Cap Fund,113.556,17-Aug-2026
-107579,Mirae Asset Mutual Fund,Mirae Asset Large Cap Fund Regular IDCW,INF769K01036,INF769K01028,Open Ended Schemes,Equity Scheme - Large Cap Fund,29.086,17-Aug-2026
+107578,Mirae Asset Mutual Fund,Mirae Asset Large Cap Fund - Growth Plan,INF769K01010,,Open Ended Schemes,Equity Schemes - Large Cap Fund,113.556,17-Aug-2026
+107579,Mirae Asset Mutual Fund,Mirae Asset Large Cap Fund Regular IDCW,INF769K01036,INF769K01028,Open Ended Schemes,Equity Schemes - Large Cap Fund,29.086,17-Aug-2026
 107693,Quantum Mutual Fund,Quantum Gold ETF,INF082J01408,,Open Ended Schemes,Other Scheme - Gold ETF,126.6559,17-Aug-2026
 107700,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Regular Plan - Daily IDCW,,INF769K01986,Open Ended Schemes,Debt Scheme - Low Duration Fund,1005.1646,17-Aug-2026
 107701,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Regular Plan - Weekly IDCW,,INF769K01994,Open Ended Schemes,Debt Scheme - Low Duration Fund,1107.3186,17-Aug-2026
@@ -1166,10 +1166,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 111639,Edelweiss Mutual Fund,Edelweiss ELSS Tax Saver Fund - Regular Plan - IDCW Option,INF754K01525,INF754K01541,Open Ended Schemes,Equity Scheme - ELSS,31.57,17-Aug-2026
 111640,Taurus Mutual Fund,Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option,INF044D01955,INF044D01963,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,114.43,17-Aug-2026
 111642,Taurus Mutual Fund,Taurus Mid Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option,INF044D01781,INF044D01799,Open Ended Schemes,Equity Scheme - Mid Cap Fund,114.06,17-Aug-2026
-111644,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Regular Plan - Weekly IDCW,INF769K01PC4,INF769K01812,Open Ended Schemes,Debt Scheme - Liquid Fund,1153.5464,17-Aug-2026
-111645,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Regular Plan - Monthly IDCW,INF769K01838,INF769K01820,Open Ended Schemes,Debt Scheme - Liquid Fund,1157.1537,17-Aug-2026
-111646,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Regular Plan - Growth,INF769K01788,,Open Ended Schemes,Debt Scheme - Liquid Fund,2931.4080,17-Aug-2026
-111647,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Regular - Daily IDCW,,INF769K01804,Open Ended Schemes,Debt Scheme - Liquid Fund,1066.4347,17-Aug-2026
+111644,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Regular Plan - Weekly IDCW,INF769K01PC4,INF769K01812,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1153.5464,17-Aug-2026
+111645,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Regular Plan - Monthly IDCW,INF769K01838,INF769K01820,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1157.1537,17-Aug-2026
+111646,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Regular Plan - Growth,INF769K01788,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,2931.4080,17-Aug-2026
+111647,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Regular - Daily IDCW,,INF769K01804,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1066.4347,17-Aug-2026
 111675,LIC Mutual Fund,LIC MF Low Duration Fund-Regular Plan-Weekly IDCW,INF767K01AP2,INF767K01AQ0,Open Ended Schemes,Debt Scheme - Low Duration Fund,14.4957,17-Aug-2026
 111676,LIC Mutual Fund,LIC MF Low Duration Fund-Regular Plan-Daily IDCW,INF767K01AK3,INF767K01AL1,Open Ended Schemes,Debt Scheme - Low Duration Fund,11.1581,17-Aug-2026
 111704,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas LIQUID FUND - Regular Plan - GROWTH OPTION,INF955L01484,,Open Ended Schemes,Debt Scheme - Liquid Fund,3214.7281,17-Aug-2026
@@ -1349,8 +1349,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 112925,Axis Mutual Fund,Axis Conservative Hybrid Fund - Regular Plan - Quarterly IDCW,INF846K01701,INF846K01719,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund,10.4781,17-Aug-2026
 112926,Axis Mutual Fund,Axis Conservative Hybrid Fund - Regular Plan - Half Yearly IDCW,INF846K01727,INF846K01735,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund,12.8527,17-Aug-2026
 112927,Axis Mutual Fund,Axis Conservative Hybrid Fund - Regular Plan - Annual IDCW,INF846K01743,INF846K01750,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund,13.8187,17-Aug-2026
-112931,Mirae Asset Mutual Fund,Mirae Asset Large & Midcap Fund - Regular Plan - IDCW,INF769K01127,INF769K01119,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund,48.881,17-Aug-2026
-112932,Mirae Asset Mutual Fund,Mirae Asset Large & Midcap Fund - Regular Plan - Growth,INF769K01101,,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund,158.924,17-Aug-2026
+112931,Mirae Asset Mutual Fund,Mirae Asset Large & Midcap Fund - Regular Plan - IDCW,INF769K01127,INF769K01119,Open Ended Schemes,Equity Schemes - Large & Mid Cap Fund,48.881,17-Aug-2026
+112932,Mirae Asset Mutual Fund,Mirae Asset Large & Midcap Fund - Regular Plan - Growth,INF769K01101,,Open Ended Schemes,Equity Schemes - Large & Mid Cap Fund,158.924,17-Aug-2026
 112936,Nippon India Mutual Fund,Nippon India Aggressive Hybrid Fund - Growth Plan,INF204K01FW1,,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund,108.6372,17-Aug-2026
 112937,Nippon India Mutual Fund,NIPPON INDIA AGGRESSIVE HYBRID FUND - IDCW Option,INF204K01FX9,INF204K01FY7,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund,27.1451,17-Aug-2026
 112938,Nippon India Mutual Fund,Nippon India Credit Risk Fund  - Growth Plan,INF204K01FQ3,,Open Ended Schemes,Debt Scheme - Credit Risk Fund,38.0419,17-Aug-2026
@@ -1444,7 +1444,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 114859,Kotak Mahindra Mutual Fund,Kotak Debt Hybrid - Growth,INF174K01393,,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund,60.2832,17-Aug-2026
 114929,ICICI Prudential Mutual Fund,ICICI Prudential Interval Fund II Quarterly Interval Plan D - Quarterly Dividend Payout,INF109K01NO3,,Open Ended Schemes,Income,10.2309,11-Sep-2012
 114930,Mirae Asset Mutual Fund,Mirae Asset Great Consumer Fund Regular IDCW,INF769K01150,INF769K01143,Open Ended Schemes,Equity Schemes - Thematic Fund,26.651,17-Aug-2026
-114931,Mirae Asset Mutual Fund,Mirae Asset Great Consumer Fund - Regular Plan - Growth option,INF769K01135,,Open Ended Schemes,Equity Schemes - Thematic Fund,95.126,17-Aug-2026
+114931,Mirae Asset Mutual Fund,Mirae Asset Great Consumer Fund - Regular Plan - Growth,INF769K01135,,Open Ended Schemes,Equity Schemes - Thematic Fund,95.126,17-Aug-2026
 114984,Motilal Oswal Mutual Fund,Motilal Oswal Nasdaq 100 ETF (MOFN100),INF247L01AP3,,Open Ended Schemes,Other Scheme - Other  ETFs,280.3199,17-Aug-2026
 115022,ICICI Prudential Mutual Fund,ICICI Prudential Interval Fund Quarterly Interval Plan - II Retail Quarterly Dividend Payout,INF109K01ME6,,Open Ended Schemes,Income,10.2340,20-Sep-2012
 115068,Axis Mutual Fund,Axis Dynamic Bond Fund - Regular Plan - Growth Option,INF846K01917,,Open Ended Schemes,Debt Scheme - Dynamic Bond,31.6798,17-Aug-2026
@@ -1934,10 +1934,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 118811,Nippon India Mutual Fund,NIPPON INDIA CORPORATE BOND FUND - DIRECT Plan - QUARTERLY IDCW Option,INF204K01C72,INF204K01C80,Open Ended Schemes,Debt Scheme - Corporate Bond Fund,12.2691,17-Aug-2026
 118812,Nippon India Mutual Fund,NIPPON INDIA CORPORATE BOND FUND - DIRECT Plan - WEEKLY IDCW Option,INF204K01C31,INF204K01C49,Open Ended Schemes,Debt Scheme - Corporate Bond Fund,17.1004,17-Aug-2026
 118814,Nippon India Mutual Fund,Nippon India Corporate Bond Fund - Direct Plan Growth Plan - Growth Option,INF204K01C15,,Open Ended Schemes,Debt Scheme - Corporate Bond Fund,67.3365,17-Aug-2026
-118825,Mirae Asset Mutual Fund,Mirae Asset Large Cap Fund - Direct Plan - Growth,INF769K01AX2,,Open Ended Schemes,Equity Scheme - Large Cap Fund,129.343,17-Aug-2026
-118826,Mirae Asset Mutual Fund,Mirae Asset Large Cap Fund Direct IDCW,INF769K01AY0,INF769K01AZ7,Open Ended Schemes,Equity Scheme - Large Cap Fund,67.516,17-Aug-2026
-118834,Mirae Asset Mutual Fund,Mirae Asset Large & Midcap Fund - Direct Plan - Growth,INF769K01BI1,,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund,180.647,17-Aug-2026
-118835,Mirae Asset Mutual Fund,Mirae Asset Large & Midcap Fund - Direct Plan - IDCW,INF769K01BJ9,INF769K01BK7,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund,84.708,17-Aug-2026
+118825,Mirae Asset Mutual Fund,Mirae Asset Large Cap Fund - Direct Plan - Growth,INF769K01AX2,,Open Ended Schemes,Equity Schemes - Large Cap Fund,129.343,17-Aug-2026
+118826,Mirae Asset Mutual Fund,Mirae Asset Large Cap Fund Direct IDCW,INF769K01AY0,INF769K01AZ7,Open Ended Schemes,Equity Schemes - Large Cap Fund,67.516,17-Aug-2026
+118834,Mirae Asset Mutual Fund,Mirae Asset Large & Midcap Fund - Direct Plan - Growth,INF769K01BI1,,Open Ended Schemes,Equity Schemes - Large & Mid Cap Fund,180.647,17-Aug-2026
+118835,Mirae Asset Mutual Fund,Mirae Asset Large & Midcap Fund - Direct Plan - IDCW,INF769K01BJ9,INF769K01BK7,Open Ended Schemes,Equity Schemes - Large & Mid Cap Fund,84.708,17-Aug-2026
 118837,Mirae Asset Mutual Fund,Mirae Asset Great Consumer Fund - Direct Plan - Growth,INF769K01BL5,,Open Ended Schemes,Equity Schemes - Thematic Fund,115.111,17-Aug-2026
 118838,Mirae Asset Mutual Fund,Mirae Asset Great Consumer Fund Direct IDCW,INF769K01BM3,INF769K01BN1,Open Ended Schemes,Equity Schemes - Thematic Fund,69.115,17-Aug-2026
 118840,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Direct Plan - Growth,INF769K01BO9,,Open Ended Schemes,Debt Scheme - Low Duration Fund,2646.7111,17-Aug-2026
@@ -1945,10 +1945,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 118842,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Direct Plan - Quarterly IDCW,INF769K01BQ4,INF769K01BU6,Open Ended Schemes,Debt Scheme - Low Duration Fund,1007.6830,17-Aug-2026
 118843,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Direct Plan - Daily IDCW,,INF769K01BR2,Open Ended Schemes,Debt Scheme - Low Duration Fund,1208.9337,17-Aug-2026
 118844,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Direct Plan - Weekly IDCW,,INF769K01BS0,Open Ended Schemes,Debt Scheme - Low Duration Fund,1455.4116,17-Aug-2026
-118859,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Direct Plan - Growth,INF769K01CM1,,Open Ended Schemes,Debt Scheme - Liquid Fund,2985.5826,17-Aug-2026
-118860,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Direct Plan -Monthly IDCW,INF769K01CN9,INF769K01CQ2,Open Ended Schemes,Debt Scheme - Liquid Fund,1139.5040,17-Aug-2026
-118861,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Direct Plan -Daily IDCW,,INF769K01CO7,Open Ended Schemes,Debt Scheme - Liquid Fund,1075.8332,17-Aug-2026
-118862,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Direct Plan - Weekly IDCW,INF769K01PD2,INF769K01CP4,Open Ended Schemes,Debt Scheme - Liquid Fund,1217.2718,17-Aug-2026
+118859,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Direct Plan - Growth,INF769K01CM1,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,2985.5826,17-Aug-2026
+118860,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Direct Plan - Monthly IDCW,INF769K01CN9,INF769K01CQ2,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1139.5040,17-Aug-2026
+118861,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Direct Plan - Daily IDCW,,INF769K01CO7,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1075.8332,17-Aug-2026
+118862,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Direct Plan - Weekly IDCW,INF769K01PD2,INF769K01CP4,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,1217.2718,17-Aug-2026
 118866,Taurus Mutual Fund,Taurus ELSS Tax Saver Fund - Direct Plan - Growth,INF044D01CG6,INF044D01AA3,Open Ended Schemes,Equity Scheme - ELSS,200.39,17-Aug-2026
 118867,Taurus Mutual Fund,Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option,INF044D01CH4,INF044D01CI2,Open Ended Schemes,Equity Scheme - ELSS,92.36,17-Aug-2026
 118868,Taurus Mutual Fund,Taurus Banking & Financial Services Fund - Direct Plan - Growth,INF044D01CN2,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,59.69,17-Aug-2026
@@ -2559,7 +2559,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 120412,Invesco Mutual Fund,Invesco India Multicap Fund - Direct Plan - IDCW (Payout / Reinvestment),INF205K01MQ6,INF205K01MR4,Open Ended Schemes,Equity Schemes - Multi Cap Fund,144.25,17-Aug-2026
 120413,Invesco Mutual Fund,Invesco India Multicap Fund - Direct Plan - Growth Option,INF205K01MS2,,Open Ended Schemes,Equity Schemes - Multi Cap Fund,159.41,17-Aug-2026
 120416,Invesco Mutual Fund,Invesco India ELSS Tax Saver Fund - Direct Plan - Growth,INF205K01NT8,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund,152.42,17-Aug-2026
-120417,Invesco Mutual Fund,Invesco India ELSS Tax Saver Fund - Direct Plan - IDCW Payout,INF205K01NR2,INF205K01NS0,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund,33.13,17-Aug-2026
+120417,Invesco Mutual Fund,Invesco India ELSS Tax Saver Fund - Direct Plan - IDCW Payout,INF205K01NR2,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund,33.13,17-Aug-2026
 120423,ICICI Prudential Mutual Fund,ICICI Prudential Floating Interest Fund - Direct Plan - Daily IDCW,,INF109K01P24,Open Ended Schemes,Debt Scheme - Floater Fund,100.2779,17-Aug-2026
 120424,ICICI Prudential Mutual Fund,ICICI Prudential Floating Interest Fund - Direct Plan - Weekly IDCW,INF109K01P73,INF109K01P81,Open Ended Schemes,Debt Scheme - Floater Fund,102.3248,17-Aug-2026
 120425,ICICI Prudential Mutual Fund,ICICI Prudential Floating Interest Fund - Direct Plan - Growth,INF109K01P57,,Open Ended Schemes,Debt Scheme - Floater Fund,501.5795,17-Aug-2026
@@ -9305,10 +9305,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 147716,ITI Mutual Fund,ITI Overnight Fund - Regular Plan - Fortnightly IDCW Option,INF00XX01531,INF00XX01507,Open Ended Schemes,Debt Scheme - Overnight Fund,1001.8077,17-Aug-2026
 147717,ITI Mutual Fund,ITI Overnight Fund - Direct Plan - Monthly IDCW Option,INF00XX01630,INF00XX01606,Open Ended Schemes,Debt Scheme - Overnight Fund,1003.8525,17-Aug-2026
 147718,ITI Mutual Fund,ITI Overnight Fund - Regular Plan - Monthly IDCW Option,INF00XX01549,INF00XX01515,Open Ended Schemes,Debt Scheme - Overnight Fund,1002.9645,17-Aug-2026
-147724,Kotak Mahindra Mutual Fund,Kotak Pioneer Fund- Regular Plan- Growth Option,INF174KA1EW8,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,35.727,14-Aug-2026
-147725,Kotak Mahindra Mutual Fund,Kotak Pioneer Fund-Direct Plan-Reinvestment of Income Distribution cum capital withdrawal option,INF174KA1EX6,INF174KA1EY4,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,39.677,14-Aug-2026
-147727,Kotak Mahindra Mutual Fund,Kotak Pioneer Fund- Direct Plan- Growth Option,INF174KA1EZ1,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,39.683,14-Aug-2026
-147728,Kotak Mahindra Mutual Fund,Kotak Pioneer Fund- Regular Plan- Reinvestment of Income Distribution cum capital withdrawal option,INF174KA1EU2,INF174KA1EV0,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,35.743,14-Aug-2026
+147724,Kotak Mahindra Mutual Fund,Kotak Pioneer Fund- Regular Plan- Growth Option,INF174KA1EW8,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,35.73,17-Aug-2026
+147725,Kotak Mahindra Mutual Fund,Kotak Pioneer Fund-Direct Plan-Reinvestment of Income Distribution cum capital withdrawal option,INF174KA1EX6,INF174KA1EY4,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,39.685,17-Aug-2026
+147727,Kotak Mahindra Mutual Fund,Kotak Pioneer Fund- Direct Plan- Growth Option,INF174KA1EZ1,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,39.69,17-Aug-2026
+147728,Kotak Mahindra Mutual Fund,Kotak Pioneer Fund- Regular Plan- Reinvestment of Income Distribution cum capital withdrawal option,INF174KA1EU2,INF174KA1EV0,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,35.746,17-Aug-2026
 147729,Mahindra Manulife Mutual Fund,Mahindra Manulife Ultra Short Duration Fund - Regular Plan - Daily IDCW,,INF174V01861,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund,1111.4668,17-Aug-2026
 147730,Mahindra Manulife Mutual Fund,Mahindra Manulife Ultra Short Duration Fund - Regular Plan - Weekly IDCW,,INF174V01879,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund,1000.4510,17-Aug-2026
 147731,Mahindra Manulife Mutual Fund,Mahindra Manulife Ultra Short Duration Fund - Direct Plan -Growth,INF174V01887,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund,1516.4487,17-Aug-2026
@@ -10181,10 +10181,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 149053,Axis Mutual Fund,Axis Floater Fund - Regular Plan - Monthly IDCW,INF846K016B9,INF846K015B1,Open Ended Schemes,Debt Scheme - Floater Fund,1014.9211,17-Aug-2026
 149054,Axis Mutual Fund,Axis Floater Fund - Regular Plan - Daily IDCW,,INF846K019B3,Open Ended Schemes,Debt Scheme - Floater Fund,1016.5386,17-Aug-2026
 149055,Axis Mutual Fund,Axis Floater Fund - Direct Plan - Annual IDCW,INF846K016A1,INF846K015A3,Open Ended Schemes,Debt Scheme - Floater Fund,1390.7920,17-Aug-2026
-149056,Kotak Mahindra Mutual Fund,Kotak Global Innovation Overseas Equity Omni FOF - Regular Plan-Growth,INF174KA1HD1,,Open Ended Schemes,Other Scheme - FoF Overseas,15.3033,14-Aug-2026
-149058,Kotak Mahindra Mutual Fund,Kotak Global Innovation Overseas Equity Omni FOF - Regular Plan -IDCW Option,INF174KA1HE9,INF174KA1HF6,Open Ended Schemes,Other Scheme - FoF Overseas,15.3037,14-Aug-2026
-149059,Kotak Mahindra Mutual Fund,Kotak Global Innovation Overseas Equity Omni FOF- Direct Plan -Growth,INF174KA1HG4,,Open Ended Schemes,Other Scheme - FoF Overseas,16.2428,14-Aug-2026
-149060,Kotak Mahindra Mutual Fund,Kotak Global Innovation Overseas Equity Omni FOF- Direct Plan - IDCW Option,INF174KA1HH2,INF174KA1HI0,Open Ended Schemes,Other Scheme - FoF Overseas,16.2404,14-Aug-2026
+149056,Kotak Mahindra Mutual Fund,Kotak Global Innovation Overseas Equity Omni FOF - Regular Plan-Growth,INF174KA1HD1,,Open Ended Schemes,Other Scheme - FoF Overseas,15.3455,17-Aug-2026
+149058,Kotak Mahindra Mutual Fund,Kotak Global Innovation Overseas Equity Omni FOF - Regular Plan -IDCW Option,INF174KA1HE9,INF174KA1HF6,Open Ended Schemes,Other Scheme - FoF Overseas,15.346,17-Aug-2026
+149059,Kotak Mahindra Mutual Fund,Kotak Global Innovation Overseas Equity Omni FOF- Direct Plan -Growth,INF174KA1HG4,,Open Ended Schemes,Other Scheme - FoF Overseas,16.2889,17-Aug-2026
+149060,Kotak Mahindra Mutual Fund,Kotak Global Innovation Overseas Equity Omni FOF- Direct Plan - IDCW Option,INF174KA1HH2,INF174KA1HI0,Open Ended Schemes,Other Scheme - FoF Overseas,16.2865,17-Aug-2026
 149062,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series TJ (1838 days) - Direct Plan - Growth Option,INF209KB16A3,,Close Ended Schemes,Income,13.6352,27-Jul-2026
 149063,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series TJ (1838 days) - Direct Plan - Payout of IDCW Option,INF209KB17A1,,Close Ended Schemes,Income,13.6371,27-Jul-2026
 149064,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series TJ (1838 days) - Regular Plan - Growth Option,INF209KB14A8,,Close Ended Schemes,Income,13.5720,27-Jul-2026
@@ -10275,8 +10275,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 149173,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Regular Plan -Income Distribution Capital Withdrawal Option (IDCW),INF200KA1Z56,,Close Ended Schemes,Income,13.2647,17-Aug-2026
 149174,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Direct Plan - Growth,INF200KA1Z64,,Close Ended Schemes,Income,13.3716,17-Aug-2026
 149175,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Direct Plan - Income Distribution Capital Withdrawal Option (IDCW),INF200KA1Z72,,Close Ended Schemes,Income,13.3716,17-Aug-2026
-149180,HDFC Mutual Fund,HDFC Developed World Overseas Equity Passive FOF - Direct Plan - Growth Option,INF179KC1BO4,,Open Ended Schemes,Other Scheme - FoF Overseas,22.412,14-Aug-2026
-149181,HDFC Mutual Fund,HDFC Developed World Overseas Equity Passive FOF - Growth Option,INF179KC1BP1,,Open Ended Schemes,Other Scheme - FoF Overseas,21.913,14-Aug-2026
+149180,HDFC Mutual Fund,HDFC Developed World Overseas Equity Passive FOF - Direct Plan - Growth Option,INF179KC1BO4,,Open Ended Schemes,Other Scheme - FoF Overseas,22.381,17-Aug-2026
+149181,HDFC Mutual Fund,HDFC Developed World Overseas Equity Passive FOF - Growth Option,INF179KC1BP1,,Open Ended Schemes,Other Scheme - FoF Overseas,21.882,17-Aug-2026
 149182,Kotak Mahindra Mutual Fund,Kotak Multicap Fund-Regular Plan-Growth,INF174KA1HS9,,Open Ended Schemes,Equity Scheme - Multi Cap Fund,20.325,17-Aug-2026
 149183,Kotak Mahindra Mutual Fund,Kotak Multicap Fund- Regular Plan -IDCW Option,INF174KA1HT7,INF174KA1HU5,Open Ended Schemes,Equity Scheme - Multi Cap Fund,18.68,17-Aug-2026
 149185,Kotak Mahindra Mutual Fund,Kotak Multicap Fund-Direct Plan-Growth,INF174KA1HV3,,Open Ended Schemes,Equity Scheme - Multi Cap Fund,21.773,17-Aug-2026
