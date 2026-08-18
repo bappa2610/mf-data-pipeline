@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Liquid Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
         "scheme_code": 118902,
         "scheme_name": "HSBC Liquid Fund - Regular Growth",
         "isin_growth": "INF336L01BN7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "17-08-2026",
+            "nav": "2788.86180"
+        },
         {
             "date": "16-08-2026",
             "nav": "2788.44210"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Flexi Cap Fund",
+        "scheme_category": "Equity Schemes - Flexi Cap Fund",
         "scheme_code": 102252,
         "scheme_name": "HSBC Flexi Cap Fund - Regular Growth",
         "isin_growth": "INF336L01AF5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "17-08-2026",
+            "nav": "235.99100"
+        },
         {
             "date": "14-08-2026",
             "nav": "235.74740"

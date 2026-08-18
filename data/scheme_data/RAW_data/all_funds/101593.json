@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Large Cap Fund",
+        "scheme_category": "Equity Schemes - Large Cap Fund",
         "scheme_code": 101593,
         "scheme_name": "HSBC Large Cap Fund - Regular IDCW",
         "isin_growth": "INF336L01024",
         "isin_div_reinvestment": "INF336L01032"
     },
     "data": [
+        {
+            "date": "17-08-2026",
+            "nav": "42.86750"
+        },
         {
             "date": "14-08-2026",
             "nav": "42.96870"

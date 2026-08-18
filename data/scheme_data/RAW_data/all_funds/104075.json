@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Arbitrage Fund",
+        "scheme_category": "Hybrid Schemes - Arbitrage Fund",
         "scheme_code": 104075,
         "scheme_name": "UTI Arbitrage Fund - Regular Plan - Growth Option",
         "isin_growth": "INF789FB1RJ0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "17-08-2026",
+            "nav": "37.37710"
+        },
         {
             "date": "14-08-2026",
             "nav": "37.40020"

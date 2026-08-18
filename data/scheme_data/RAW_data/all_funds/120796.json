@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Arbitrage Fund",
+        "scheme_category": "Hybrid Schemes - Arbitrage Fund",
         "scheme_code": 120796,
         "scheme_name": "UTI Arbitrage Fund - Direct Plan - IDCW",
         "isin_growth": "INF789FB1RE1",
         "isin_div_reinvestment": "INF789FB1RF8"
     },
     "data": [
+        {
+            "date": "17-08-2026",
+            "nav": "23.40570"
+        },
         {
             "date": "14-08-2026",
             "nav": "23.41910"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Large Cap Fund",
+        "scheme_category": "Equity Schemes - Large Cap Fund",
         "scheme_code": 120030,
         "scheme_name": "HSBC Large Cap Fund - Direct Growth",
         "isin_growth": "INF336L01CM7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "17-08-2026",
+            "nav": "542.47790"
+        },
         {
             "date": "14-08-2026",
             "nav": "543.71780"

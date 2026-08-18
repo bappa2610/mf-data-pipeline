@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Liquid Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
         "scheme_code": 118909,
         "scheme_name": "HSBC Liquid Fund - Institutional Daily IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF336L01BS6"
     },
     "data": [
+        {
+            "date": "17-08-2026",
+            "nav": "1562.82620"
+        },
         {
             "date": "16-08-2026",
             "nav": "1562.82620"
