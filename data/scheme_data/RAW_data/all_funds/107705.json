@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Low Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short to Short Term Fund",
         "scheme_code": 107705,
         "scheme_name": "Mirae Asset Low Duration Fund - Regular Plan - Growth",
         "isin_growth": "INF769K01937",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "18-08-2026",
+            "nav": "2412.86900"
+        },
         {
             "date": "17-08-2026",
             "nav": "2413.04230"

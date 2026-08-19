@@ -6,9 +6,13 @@
         "scheme_code": 120417,
         "scheme_name": "Invesco India ELSS Tax Saver Fund - Direct Plan - IDCW Payout",
         "isin_growth": "INF205K01NR2",
-        "isin_div_reinvestment": "INF205K01NS0"
+        "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "18-08-2026",
+            "nav": "33.17000"
+        },
         {
             "date": "17-08-2026",
             "nav": "33.13000"

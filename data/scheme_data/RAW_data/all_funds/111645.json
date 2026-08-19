@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Liquid Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
         "scheme_code": 111645,
         "scheme_name": "Mirae Asset Liquid Fund - Regular Plan - Monthly IDCW",
         "isin_growth": "INF769K01838",
         "isin_div_reinvestment": "INF769K01820"
     },
     "data": [
+        {
+            "date": "18-08-2026",
+            "nav": "1157.31710"
+        },
         {
             "date": "17-08-2026",
             "nav": "1157.15370"

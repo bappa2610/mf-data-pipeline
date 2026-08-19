@@ -6,9 +6,13 @@
         "scheme_code": 104635,
         "scheme_name": "Invesco India ELSS Tax Saver Fund - Regular Plan - IDCW Payout",
         "isin_growth": "INF205K01296",
-        "isin_div_reinvestment": "INF205K01288"
+        "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "18-08-2026",
+            "nav": "24.94000"
+        },
         {
             "date": "17-08-2026",
             "nav": "24.92000"

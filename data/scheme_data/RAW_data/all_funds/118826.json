@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Large Cap Fund",
+        "scheme_category": "Equity Schemes - Large Cap Fund",
         "scheme_code": 118826,
-        "scheme_name": "Mirae Asset Large Cap Fund Direct IDCW",
+        "scheme_name": "Mirae Asset Large Cap Fund - Direct Plan - IDCW",
         "isin_growth": "INF769K01AY0",
         "isin_div_reinvestment": "INF769K01AZ7"
     },
     "data": [
+        {
+            "date": "18-08-2026",
+            "nav": "67.15000"
+        },
         {
             "date": "17-08-2026",
             "nav": "67.51600"

@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 114930,
-        "scheme_name": "Mirae Asset Great Consumer Fund Regular IDCW",
+        "scheme_name": "Mirae Asset Great Consumer Fund - Regular Plan - IDCW",
         "isin_growth": "INF769K01150",
         "isin_div_reinvestment": "INF769K01143"
     },
     "data": [
+        {
+            "date": "18-08-2026",
+            "nav": "26.57300"
+        },
         {
             "date": "17-08-2026",
             "nav": "26.65100"
