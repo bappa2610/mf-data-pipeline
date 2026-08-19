@@ -506,8 +506,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 102394,UTI Mutual Fund,UTI - Mid Cap Fund,INF789F01810,,Open Ended Schemes,Equity Scheme - Mid Cap Fund
 102395,UTI Mutual Fund,UTI - Infrastructure Fund,INF789F01752,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 102396,UTI Mutual Fund,UTI - Infrastructure Fund,INF789F01737,INF789F01745,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-102397,UTI Mutual Fund,UTI - Transportation and Logistics Fund,INF789F01273,INF789F01281,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-102398,UTI Mutual Fund,UTI - Transportation and Logistics Fund,INF789F01299,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
+102397,UTI Mutual Fund,UTI - Transportation and Logistics Fund,INF789F01273,INF789F01281,Open Ended Schemes,Equity Schemes - Thematic Fund
+102398,UTI Mutual Fund,UTI - Transportation and Logistics Fund,INF789F01299,,Open Ended Schemes,Equity Schemes - Thematic Fund
 102401,UTI Mutual Fund,UTI - Banking and Financial Services Fund,INF789F01372,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 102402,UTI Mutual Fund,UTI - Banking and Financial Services Fund,INF789F01356,INF789F01364,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 102414,SBI Mutual Fund,SBI CONTRA FUND,INF200K01362,,Open Ended Schemes,Equity Scheme - Contra Fund
@@ -2809,8 +2809,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 120727,UTI Mutual Fund,UTI - Mid Cap Fund,INF789F01TY8,INF789F01TZ5,Open Ended Schemes,Equity Scheme - Mid Cap Fund
 120728,UTI Mutual Fund,UTI - Infrastructure Fund,INF789F01TU6,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 120729,UTI Mutual Fund,UTI - Infrastructure Fund,INF789F01TS0,INF789F01TT8,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-120730,UTI Mutual Fund,UTI - Transportation and Logistics Fund,INF789F01SF9,INF789F01SG7,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-120731,UTI Mutual Fund,UTI - Transportation and Logistics Fund,INF789F01SH5,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
+120730,UTI Mutual Fund,UTI - Transportation and Logistics Fund,INF789F01SF9,INF789F01SG7,Open Ended Schemes,Equity Schemes - Thematic Fund
+120731,UTI Mutual Fund,UTI - Transportation and Logistics Fund,INF789F01SH5,,Open Ended Schemes,Equity Schemes - Thematic Fund
 120732,UTI Mutual Fund,UTI - Banking and Financial Services Fund,INF789F01SL7,INF789F01SM5,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 120733,UTI Mutual Fund,UTI - Banking and Financial Services Fund,INF789F01SN3,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 120734,UTI Mutual Fund,UTI Low Duration Fund,INF789F01XL7,INF789F01XM5,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
@@ -14011,10 +14011,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154237,SBI Mutual Fund,SBI Nifty Midcap 150 Momentum 50 ETF,INF200KB1AJ0,,Open Ended Schemes,Other Scheme - Other  ETFs
 154238,Motilal Oswal Mutual Fund,Motilal Oswal Multi Factor Passive Fund of Funds,INF247L01GU0,,Open Ended Schemes,Other Scheme - FoF Domestic
 154239,Motilal Oswal Mutual Fund,Motilal Oswal Multi Factor Passive Fund of Funds,INF247L01GT2,,Open Ended Schemes,Other Scheme - FoF Domestic
-154240,Axis Mutual Fund,Axis Fixed Maturity Plan - Series 129 (108 Days),INF846KA1440,,Close Ended Schemes,Income
-154241,Axis Mutual Fund,Axis Fixed Maturity Plan - Series 129 (108 Days),INF846KA1432,,Close Ended Schemes,Income
-154242,Axis Mutual Fund,Axis Fixed Maturity Plan - Series 129 (108 Days),INF846KA1457,,Close Ended Schemes,Income
-154243,Axis Mutual Fund,Axis Fixed Maturity Plan - Series 129 (108 Days),INF846KA1465,,Close Ended Schemes,Income
+154240,Axis Mutual Fund,Axis Fixed Maturity Plan - Series 129 (108 Days),INF846KA1440,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
+154241,Axis Mutual Fund,Axis Fixed Maturity Plan - Series 129 (108 Days),INF846KA1432,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
+154242,Axis Mutual Fund,Axis Fixed Maturity Plan - Series 129 (108 Days),INF846KA1457,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
+154243,Axis Mutual Fund,Axis Fixed Maturity Plan - Series 129 (108 Days),INF846KA1465,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
 154244,LIC Mutual Fund,LIC MF Technology Fund,INF767K01SJ7,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 154245,LIC Mutual Fund,LIC MF Technology Fund,INF767K01SL3,INF767K01SK5,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 154246,LIC Mutual Fund,LIC MF Technology Fund,INF767K01SI9,INF767K01SH1,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
@@ -14061,10 +14061,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154287,Kotak Mahindra Mutual Fund,Kotak Quality Overseas Equity Omni FOF,INF174KA1ZI2,,Open Ended Schemes,Other Scheme - FoF Overseas
 154288,Kotak Mahindra Mutual Fund,Kotak Quality Overseas Equity Omni FOF,INF174KA1ZJ0,INF174KA1ZK8,Open Ended Schemes,Other Scheme - FoF Overseas
 154289,Kotak Mahindra Mutual Fund,Kotak Quality Overseas Equity Omni FOF,INF174KA1ZM4,INF174KA1ZN2,Open Ended Schemes,Other Scheme - FoF Overseas
-154290,Axis Mutual Fund,Axis Fixed Maturity Plan - Series 130 (92 Days),INF846KA1473,,Close Ended Schemes,Income
-154291,Axis Mutual Fund,Axis Fixed Maturity Plan - Series 130 (92 Days),INF846KA1499,,Close Ended Schemes,Income
-154292,Axis Mutual Fund,Axis Fixed Maturity Plan - Series 130 (92 Days),INF846KA1481,,Close Ended Schemes,Income
-154293,Axis Mutual Fund,Axis Fixed Maturity Plan - Series 130 (92 Days),INF846KA1507,,Close Ended Schemes,Income
+154290,Axis Mutual Fund,Axis Fixed Maturity Plan - Series 130 (92 Days),INF846KA1473,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
+154291,Axis Mutual Fund,Axis Fixed Maturity Plan - Series 130 (92 Days),INF846KA1499,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
+154292,Axis Mutual Fund,Axis Fixed Maturity Plan - Series 130 (92 Days),INF846KA1481,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
+154293,Axis Mutual Fund,Axis Fixed Maturity Plan - Series 130 (92 Days),INF846KA1507,,Close Ended Schemes,Income/Debt Oriented Schemes - Fixed Term Plan
 154294,HSBC Mutual Fund,HSBC Gold ETF,INF336L01RX2,,Open Ended Schemes,Other Scheme - Gold ETF
 154295,HSBC Mutual Fund,HSBC Gold ETF Fund of Fund,INF336L01SB6,,Open Ended Schemes,Fund of Funds Scheme
 154296,HSBC Mutual Fund,HSBC Gold ETF Fund of Fund,INF336L01SA8,INF336L01RZ7,Open Ended Schemes,Fund of Funds Scheme
