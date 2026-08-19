@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Overseas",
+        "scheme_category": "Overseas Fund of Funds - Fund of Funds investing overseas",
         "scheme_code": 150597,
         "scheme_name": "Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Direct Plan- Growth",
         "isin_growth": "INF769K01IS5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "18-08-2026",
+            "nav": "35.13400"
+        },
         {
             "date": "17-08-2026",
             "nav": "35.92900"

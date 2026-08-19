@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Other  ETFs",
+        "scheme_category": "Equity Schemes - Value Fund",
         "scheme_code": 148927,
         "scheme_name": "Mirae Asset NYSE FANG + ETF",
         "isin_growth": "INF769K01HF4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "18-08-2026",
+            "nav": "171.16750"
+        },
         {
             "date": "17-08-2026",
             "nav": "173.36280"
