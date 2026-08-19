@@ -2596,7 +2596,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 104626,ING Mutual Fund,ING OptiMix Equity Multi-Manager FoF Scheme-Dividend,,,Close Ended Schemes,Income
 104633,DSP Mutual Fund,DSP BlackRock Fixed Term Plan-Series 1F-Growth,,,Close Ended Schemes,Income
 104634,DSP Mutual Fund,DSP BlackRock Fixed Term Plan-Series 1F-Dividend,,,Close Ended Schemes,Income
-104635,Invesco Mutual Fund,Invesco India ELSS Tax Saver Fund - Regular Plan - IDCW Payout,INF205K01296,INF205K01288,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
+104635,Invesco Mutual Fund,Invesco India ELSS Tax Saver Fund - Regular Plan - IDCW Payout,INF205K01296,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
 104636,Invesco Mutual Fund,Invesco India ELSS Tax Saver Fund - Regular Plan - Growth,INF205K01270,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
 104637,Nippon India Mutual Fund,Nippon India Focused Fund -Growth Plan -Growth Option,INF204K01GE7,,Open Ended Schemes,Equity Scheme - Focused Fund
 104638,Nippon India Mutual Fund,NIPPON INDIA FOCUSED  FUND - IDCW OPTION,INF204K01GF4,INF204K01GG2,Open Ended Schemes,Equity Scheme - Focused Fund
@@ -5232,8 +5232,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 107575,Invesco Mutual Fund,Religare FMP-14M-Sr-III - Institutional Dividend Reinvestment,,,Close Ended Schemes,Income
 107576,Invesco Mutual Fund,Religare FMP-14M-Sr-III - Institutional Growth,,,Close Ended Schemes,Income
 107577,Invesco Mutual Fund,Religare FMP-14M-Sr-III - Retail Dividend Reinvestment,,,Close Ended Schemes,Income
-107578,Mirae Asset Mutual Fund,Mirae Asset Large Cap Fund - Growth Plan,INF769K01010,,Open Ended Schemes,Equity Scheme - Large Cap Fund
-107579,Mirae Asset Mutual Fund,Mirae Asset Large Cap Fund Regular IDCW,INF769K01036,INF769K01028,Open Ended Schemes,Equity Scheme - Large Cap Fund
+107578,Mirae Asset Mutual Fund,Mirae Asset Large Cap Fund - Regular Plan - Growth,INF769K01010,,Open Ended Schemes,Equity Schemes - Large Cap Fund
+107579,Mirae Asset Mutual Fund,Mirae Asset Large Cap Fund - Regular Plan - IDCW,INF769K01036,INF769K01028,Open Ended Schemes,Equity Schemes - Large Cap Fund
 107580,Deutsche Mutual Fund,DWS FIXED TERM FUND SERIES 45 Inst Gr,,,Close Ended Schemes,Income
 107581,Deutsche Mutual Fund,DWS FIXED TERM FUND SERIES 45 Reg Div,,,Close Ended Schemes,Income
 107583,Deutsche Mutual Fund,DWS FIXED TERM FUND SERIES 45 Reg Gr,,,Close Ended Schemes,Income
@@ -5340,11 +5340,11 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 107697,Mirae Asset Mutual Fund,Mirae Asset Savings Fund-Regular Plan- Monthly Dividend,,,143611;-;INF192K01DU7;JM Low Duration Fund,Direct
 107698,Mirae Asset Mutual Fund,Mirae Asset Savings Fund-Regular Plan- Daily Dividend,,,Open Ended Schemes,Debt Scheme - Low Duration Fund
 107699,Mirae Asset Mutual Fund,Mirae Asset Savings Fund-Regular Plan- Quarterly Dividend,,,143611;-;INF192K01DU7;JM Low Duration Fund,Direct
-107700,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Regular Plan - Daily IDCW,,INF769K01986,Open Ended Schemes,Debt Scheme - Low Duration Fund
-107701,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Regular Plan - Weekly IDCW,,INF769K01994,Open Ended Schemes,Debt Scheme - Low Duration Fund
-107702,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Regular Plan - Quarterly IDCW,INF769K01978,INF769K01AB8,Open Ended Schemes,Debt Scheme - Low Duration Fund
-107704,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Regular Plan - Monthly IDCW,INF769K01960,INF769K01AA0,Open Ended Schemes,Debt Scheme - Low Duration Fund
-107705,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Regular Plan - Growth,INF769K01937,,Open Ended Schemes,Debt Scheme - Low Duration Fund
+107700,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Regular Plan - Daily IDCW,,INF769K01986,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+107701,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Regular Plan - Weekly IDCW,,INF769K01994,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+107702,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Regular Plan - Quarterly IDCW,INF769K01978,INF769K01AB8,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+107704,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Regular Plan - Monthly IDCW,INF769K01960,INF769K01AA0,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+107705,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Regular Plan - Growth,INF769K01937,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 107706,Mirae Asset Mutual Fund,Mirae Asset Savings Bond Fund-Regular Super Savings Plan- Growth,,,Open Ended Schemes,Income
 107709,Mirae Asset Mutual Fund,Mirae Asset Savings Fund-Regular Super Savings Plan- Weekly Dividend,,,Open Ended Schemes,Income
 107710,Mirae Asset Mutual Fund,Mirae Asset Savings Fund-Regular Super Savings Plan- Monthly Dividend,,,Open Ended Schemes,Income
@@ -8437,10 +8437,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 111639,Edelweiss Mutual Fund,Edelweiss ELSS Tax Saver Fund - Regular Plan - IDCW Option,INF754K01525,INF754K01541,Open Ended Schemes,Equity Scheme - ELSS
 111640,Taurus Mutual Fund,Taurus Flexi Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option,INF044D01955,INF044D01963,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
 111642,Taurus Mutual Fund,Taurus Mid Cap Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option,INF044D01781,INF044D01799,Open Ended Schemes,Equity Scheme - Mid Cap Fund
-111644,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Regular Plan - Weekly IDCW,INF769K01PC4,INF769K01812,Open Ended Schemes,Debt Scheme - Liquid Fund
-111645,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Regular Plan - Monthly IDCW,INF769K01838,INF769K01820,Open Ended Schemes,Debt Scheme - Liquid Fund
-111646,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Regular Plan - Growth,INF769K01788,,Open Ended Schemes,Debt Scheme - Liquid Fund
-111647,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Regular - Daily IDCW,,INF769K01804,Open Ended Schemes,Debt Scheme - Liquid Fund
+111644,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Regular Plan - Weekly IDCW,INF769K01PC4,INF769K01812,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+111645,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Regular Plan - Monthly IDCW,INF769K01838,INF769K01820,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+111646,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Regular Plan - Growth,INF769K01788,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+111647,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Regular Plan - Daily IDCW,,INF769K01804,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 111648,Mirae Asset Mutual Fund,Mirae Asset Cash Management Fund - Bonus,,,Open Ended Schemes,Income
 111665,ICICI Prudential Mutual Fund,ICICI Prudential S.M.A.R.T.(Structured Methodology Aiming at Returns over Tenure) Fund-Series B- 15 Months-Retail Growth,,,Close Ended Schemes,Income
 111667,ICICI Prudential Mutual Fund,ICICI Prudential S.M.A.R.T.(Structured Methodology Aiming at Returns over Tenure) Fund-Series B- 15 Months- Retail Dividend,,,Close Ended Schemes,Income
@@ -9339,8 +9339,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 112928,Tata Mutual Fund,Tata Gilt Mid Term Fund -Regular Plan- Growth,,,Open Ended Schemes,Income
 112929,Tata Mutual Fund,Tata Gilt Mid Term Fund - Regular Plan -Periodic Dividend,,,Open Ended Schemes,Income
 112930,Tata Mutual Fund,Tata Gilt Mid Term Fund -Regular Plan- Quarterly Dividend,,,Open Ended Schemes,Income
-112931,Mirae Asset Mutual Fund,Mirae Asset Large & Midcap Fund - Regular Plan - IDCW,INF769K01127,INF769K01119,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund
-112932,Mirae Asset Mutual Fund,Mirae Asset Large & Midcap Fund - Regular Plan - Growth,INF769K01101,,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund
+112931,Mirae Asset Mutual Fund,Mirae Asset Large & Midcap Fund - Regular Plan - IDCW,INF769K01127,INF769K01119,Open Ended Schemes,Equity Schemes - Large & Mid Cap Fund
+112932,Mirae Asset Mutual Fund,Mirae Asset Large & Midcap Fund - Regular Plan - Growth,INF769K01101,,Open Ended Schemes,Equity Schemes - Large & Mid Cap Fund
 112934,IDFC Mutual Fund,IDFC Capital Protection Oriented Fund - Series II-Dividend,,,Close Ended Schemes,Income
 112935,IDFC Mutual Fund,IDFC Capital Protection Oriented Fund - Series II-Growth,,,Close Ended Schemes,Income
 112936,Nippon India Mutual Fund,Nippon India Aggressive Hybrid Fund - Growth Plan,INF204K01FW1,,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
@@ -10527,8 +10527,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 114927,Reliance Mutual Fund,Reliance Fixed Horizon Fund - XVIII - Series 7 - Growth Option,,,Close Ended Schemes,Income
 114928,Reliance Mutual Fund,Reliance Fixed Horizon Fund - XVIII - Series 7 - Dividend Payout Option,,,Close Ended Schemes,Income
 114929,ICICI Prudential Mutual Fund,ICICI Prudential Interval Fund II Quarterly Interval Plan D - Quarterly Dividend Payout,,,Open Ended Schemes,Income
-114930,Mirae Asset Mutual Fund,Mirae Asset Great Consumer Fund Regular IDCW,INF769K01150,INF769K01143,Open Ended Schemes,Equity Schemes - Thematic Fund
-114931,Mirae Asset Mutual Fund,Mirae Asset Great Consumer Fund - Regular Plan - Growth option,INF769K01135,,Open Ended Schemes,Equity Schemes - Thematic Fund
+114930,Mirae Asset Mutual Fund,Mirae Asset Great Consumer Fund - Regular Plan - IDCW,INF769K01150,INF769K01143,Open Ended Schemes,Equity Schemes - Thematic Fund
+114931,Mirae Asset Mutual Fund,Mirae Asset Great Consumer Fund - Regular Plan - Growth,INF769K01135,,Open Ended Schemes,Equity Schemes - Thematic Fund
 114932,Tata Mutual Fund,TFMP Series 31 Scheme C- Periodic Dividend Payout Option,,,Close Ended Schemes,Income
 114933,Tata Mutual Fund,TFMP Series 31 Scheme C- Growth Option,,,Close Ended Schemes,Income
 114934,Baroda Pioneer Mutual Fund,Baroda Pioneer 380 Day Fixed Maturity plan - Series 1 - Dividend Option,,,Close Ended Schemes,Income
@@ -13831,30 +13831,30 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 118821,Indiabulls Mutual Fund,Indiabulls Gilt Fund - Indirect Plan - Weekly Dividend Option,,,Open Ended Schemes,Debt Scheme - Gilt Fund
 118822,Indiabulls Mutual Fund,Indiabulls Gilt Fund - Indirect Plan - Fortnightly Dividend Option,,,Open Ended Schemes,Debt Scheme - Gilt Fund
 118823,Indiabulls Mutual Fund,Indiabulls Gilt Fund - Indirect Plan - Monthly Dividend Option,,,Open Ended Schemes,Debt Scheme - Gilt Fund
-118825,Mirae Asset Mutual Fund,Mirae Asset Large Cap Fund - Direct Plan - Growth,INF769K01AX2,,Open Ended Schemes,Equity Scheme - Large Cap Fund
-118826,Mirae Asset Mutual Fund,Mirae Asset Large Cap Fund Direct IDCW,INF769K01AY0,INF769K01AZ7,Open Ended Schemes,Equity Scheme - Large Cap Fund
+118825,Mirae Asset Mutual Fund,Mirae Asset Large Cap Fund - Direct Plan - Growth,INF769K01AX2,,Open Ended Schemes,Equity Schemes - Large Cap Fund
+118826,Mirae Asset Mutual Fund,Mirae Asset Large Cap Fund - Direct Plan - IDCW,INF769K01AY0,INF769K01AZ7,Open Ended Schemes,Equity Schemes - Large Cap Fund
 118828,Mirae Asset Mutual Fund,Mirae Asset Global Commodity Stocks - Direct Plan - Growth,,,Open Ended Schemes,Income
 118829,Mirae Asset Mutual Fund,Mirae Asset Global Commodity Stocks - Direct Plan - Dividend,,,Open Ended Schemes,Income
 118831,Mirae Asset Mutual Fund,Mirae Asset China Advantage Fund - Direct Plan - Growth,,,Open Ended Schemes,Income
 118832,Mirae Asset Mutual Fund,Mirae Asset China Advantage Fund - Direct Plan - Dividend,,,Open Ended Schemes,Income
-118834,Mirae Asset Mutual Fund,Mirae Asset Large & Midcap Fund - Direct Plan - Growth,INF769K01BI1,,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund
-118835,Mirae Asset Mutual Fund,Mirae Asset Large & Midcap Fund - Direct Plan - IDCW,INF769K01BJ9,INF769K01BK7,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund
+118834,Mirae Asset Mutual Fund,Mirae Asset Large & Midcap Fund - Direct Plan - Growth,INF769K01BI1,,Open Ended Schemes,Equity Schemes - Large & Mid Cap Fund
+118835,Mirae Asset Mutual Fund,Mirae Asset Large & Midcap Fund - Direct Plan - IDCW,INF769K01BJ9,INF769K01BK7,Open Ended Schemes,Equity Schemes - Large & Mid Cap Fund
 118837,Mirae Asset Mutual Fund,Mirae Asset Great Consumer Fund - Direct Plan - Growth,INF769K01BL5,,Open Ended Schemes,Equity Schemes - Thematic Fund
-118838,Mirae Asset Mutual Fund,Mirae Asset Great Consumer Fund Direct IDCW,INF769K01BM3,INF769K01BN1,Open Ended Schemes,Equity Schemes - Thematic Fund
-118840,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Direct Plan - Growth,INF769K01BO9,,Open Ended Schemes,Debt Scheme - Low Duration Fund
-118841,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Direct Plan - Monthly IDCW,INF769K01BP6,INF769K01BT8,Open Ended Schemes,Debt Scheme - Low Duration Fund
-118842,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Direct Plan - Quarterly IDCW,INF769K01BQ4,INF769K01BU6,Open Ended Schemes,Debt Scheme - Low Duration Fund
-118843,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Direct Plan - Daily IDCW,,INF769K01BR2,Open Ended Schemes,Debt Scheme - Low Duration Fund
-118844,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Direct Plan - Weekly IDCW,,INF769K01BS0,Open Ended Schemes,Debt Scheme - Low Duration Fund
+118838,Mirae Asset Mutual Fund,Mirae Asset Great Consumer Fund - Direct Plan - IDCW,INF769K01BM3,INF769K01BN1,Open Ended Schemes,Equity Schemes - Thematic Fund
+118840,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Direct Plan - Growth,INF769K01BO9,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+118841,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Direct Plan - Monthly IDCW,INF769K01BP6,INF769K01BT8,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+118842,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Direct Plan - Quarterly IDCW,INF769K01BQ4,INF769K01BU6,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+118843,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Direct Plan - Daily IDCW,,INF769K01BR2,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+118844,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund - Direct Plan - Weekly IDCW,,INF769K01BS0,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 118847,Mirae Asset Mutual Fund,Mirae Asset Short Term Bond Fund - Direct Plan - Growth,,,Open Ended Schemes,Income
 118848,Mirae Asset Mutual Fund,Mirae Asset Short Term Bond Fund - Direct Plan - Monthly Dividend,,,Open Ended Schemes,Income
 118849,Mirae Asset Mutual Fund,Mirae Asset Short Term Bond Fund - Direct Plan - Quarterly Dividend,,,Open Ended Schemes,Income
 118850,Mirae Asset Mutual Fund,Mirae Asset Short Term Bond Fund - Direct Plan - Weekly Dividend,,,Open Ended Schemes,Income
 118857,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Direct Plan - Growth,,,Open Ended Schemes,Income
-118859,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Direct Plan - Growth,INF769K01CM1,,Open Ended Schemes,Debt Scheme - Liquid Fund
-118860,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Direct Plan -Monthly IDCW,INF769K01CN9,INF769K01CQ2,Open Ended Schemes,Debt Scheme - Liquid Fund
-118861,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Direct Plan -Daily IDCW,,INF769K01CO7,Open Ended Schemes,Debt Scheme - Liquid Fund
-118862,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Direct Plan - Weekly IDCW,INF769K01PD2,INF769K01CP4,Open Ended Schemes,Debt Scheme - Liquid Fund
+118859,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Direct Plan - Growth,INF769K01CM1,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+118860,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Direct Plan - Monthly IDCW,INF769K01CN9,INF769K01CQ2,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+118861,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Direct Plan - Daily IDCW,,INF769K01CO7,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+118862,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund - Direct Plan - Weekly IDCW,INF769K01PD2,INF769K01CP4,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 118864,DSP Mutual Fund,DSP BlackRock Dual Advantage Fund - Series 11 - 36M - Regular Plan - Growth Option (Maturity Date 04-Apr-2016),,,Close Ended Schemes,Income
 118865,DSP Mutual Fund,DSP BlackRock Dual Advantage Fund - Series 11 - 36M - Regular Plan - Dividend Payout Option (Maturity Date 04-Apr-2016),,,Close Ended Schemes,Income
 118866,Taurus Mutual Fund,Taurus ELSS Tax Saver Fund - Direct Plan - Growth,INF044D01CG6,INF044D01AA3,Open Ended Schemes,Equity Scheme - ELSS
@@ -15303,7 +15303,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 120414,JM Financial Mutual Fund,JM Floater Short Term Fund (Direct) - Daily Dividend Option,,,Open Ended Schemes,Liquid
 120415,JM Financial Mutual Fund,JM Floater Short Term Fund (Direct) - Growth Option,,,Open Ended Schemes,Liquid
 120416,Invesco Mutual Fund,Invesco India ELSS Tax Saver Fund - Direct Plan - Growth,INF205K01NT8,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
-120417,Invesco Mutual Fund,Invesco India ELSS Tax Saver Fund - Direct Plan - IDCW Payout,INF205K01NR2,INF205K01NS0,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
+120417,Invesco Mutual Fund,Invesco India ELSS Tax Saver Fund - Direct Plan - IDCW Payout,INF205K01NR2,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
 120419,JM Financial Mutual Fund,JM G-Sec Fund - (Direct) Bonus Option - Principal Units,,,Open Ended Schemes,Debt Scheme - Gilt Fund
 120420,JM Financial Mutual Fund,JM G-Sec Fund - (Direct) - Quarterly Dividend Option,,,Open Ended Schemes,Debt Scheme - Gilt Fund
 120421,JM Financial Mutual Fund,JM G-Sec Fund - (Direct) - Growth Option,,,Open Ended Schemes,Debt Scheme - Gilt Fund
@@ -37767,3 +37767,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154614,Bajaj Finserv Mutual Fund,Bajaj Finserv Money Market Fund-Direct Plan-Weekly-IDCW,INF0QA701CK6,,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
 154624,Choice Mutual Fund,Choice Overnight Fund -Direct -Unclaimed Less than 3 years Redemption Plan,,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 154626,Mirae Asset Mutual Fund,Mirae Asset BSE LargeMid (60:40) Stable Dividend 50 ETF,INF769K01RK3,,Open Ended Schemes,Equity Schemes - Value Fund
+154632,Jio BlackRock Mutual Fund,JioBlackRock Large Cap Fund - Regular Plan - Growth Option,INF22M001192,,Open Ended Schemes,Equity Schemes - Large Cap Fund
+154633,Jio BlackRock Mutual Fund,JioBlackRock Nifty 50 Index Fund - Regular Plan - Growth Option,INF22M001200,,Open Ended Schemes,Index Funds - Equity Funds
+154641,Jio BlackRock Mutual Fund,JioBlackRock Flexi Cap Fund - Regular Plan - Growth Option,INF22M001325,,Open Ended Schemes,Equity Schemes - Flexi Cap Fund
