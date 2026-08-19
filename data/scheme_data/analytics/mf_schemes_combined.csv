@@ -542,12 +542,12 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 102534,UTI Mutual Fund,UTI Conservative Hybrid Fund,INF789F01877,INF789F01885,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund
 102535,UTI Mutual Fund,UTI Conservative Hybrid Fund,INF789F01893,,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund
 102536,UTI Mutual Fund,UTI Conservative Hybrid Fund,INF789F01901,INF789F01919,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund
-102538,UTI Mutual Fund,UTI Low Duration Fund,INF789F01OK8,INF789F01OL6,Open Ended Schemes,Debt Scheme - Low Duration Fund
-102539,UTI Mutual Fund,UTI Low Duration Fund,INF789F01OM4,,Open Ended Schemes,Debt Scheme - Low Duration Fund
-102540,UTI Mutual Fund,UTI Low Duration Fund,INF789F01331,,Open Ended Schemes,Debt Scheme - Low Duration Fund
-102541,UTI Mutual Fund,UTI Low Duration Fund,INF789F01OO0,INF789F01OP7,Open Ended Schemes,Debt Scheme - Low Duration Fund
-102544,UTI Mutual Fund,UTI Low Duration Fund,INF789F01OT9,,Open Ended Schemes,Debt Scheme - Low Duration Fund
-102545,UTI Mutual Fund,UTI Low Duration Fund,INF789F01OS1,,Open Ended Schemes,Debt Scheme - Low Duration Fund
+102538,UTI Mutual Fund,UTI Low Duration Fund,INF789F01OK8,INF789F01OL6,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+102539,UTI Mutual Fund,UTI Low Duration Fund,INF789F01OM4,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+102540,UTI Mutual Fund,UTI Low Duration Fund,INF789F01331,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+102541,UTI Mutual Fund,UTI Low Duration Fund,INF789F01OO0,INF789F01OP7,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+102544,UTI Mutual Fund,UTI Low Duration Fund,INF789F01OT9,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+102545,UTI Mutual Fund,UTI Low Duration Fund,INF789F01OS1,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 102573,Kotak Mahindra Mutual Fund,Kotak Multi Asset Omni FOF,INF174K01484,INF174K01476,Open Ended Schemes,Other Scheme - FoF Domestic
 102574,Kotak Mahindra Mutual Fund,Kotak Multi Asset Omni FOF,INF174K01468,,Open Ended Schemes,Other Scheme - FoF Domestic
 102591,Kotak Mahindra Mutual Fund,Kotak Savings Fund,INF174K01FD6,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
@@ -769,19 +769,19 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 105546,HDFC Mutual Fund,HDFC Low Duration Fund,INF179K01509,INF179K01517,Open Ended Schemes,Debt Scheme - Low Duration Fund
 105547,HDFC Mutual Fund,HDFC Low Duration Fund,,INF179K01541,Open Ended Schemes,Debt Scheme - Low Duration Fund
 105548,HDFC Mutual Fund,HDFC Low Duration Fund,,INF179K01434,Open Ended Schemes,Debt Scheme - Low Duration Fund
-105578,UTI Mutual Fund,UTI Low Duration Fund,,INF789F01349,Open Ended Schemes,Debt Scheme - Low Duration Fund
+105578,UTI Mutual Fund,UTI Low Duration Fund,,INF789F01349,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 105603,Invesco Mutual Fund,Invesco India Arbitrage Fund,INF205K01122,,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund
 105604,Invesco Mutual Fund,Invesco India Arbitrage Fund,INF205K01148,INF205K01130,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund
-105605,UTI Mutual Fund,UTI Low Duration Fund,,INF789F01ON2,Open Ended Schemes,Debt Scheme - Low Duration Fund
-105627,UTI Mutual Fund,UTI Low Duration Fund,INF789F01PB4,INF789F01PC2,Open Ended Schemes,Debt Scheme - Low Duration Fund
+105605,UTI Mutual Fund,UTI Low Duration Fund,,INF789F01ON2,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+105627,UTI Mutual Fund,UTI Low Duration Fund,INF789F01PB4,INF789F01PC2,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 105628,SBI Mutual Fund,SBI ELSS Tax Saver Fund,INF200K01495,,Open Ended Schemes,Equity Scheme - ELSS
 105637,JM Financial Mutual Fund,JM Dynamic Bond Fund,,INF192K01676,Open Ended Schemes,Debt Scheme - Dynamic Bond
 105638,JM Financial Mutual Fund,JM Dynamic Bond Fund,,INF192K01718,Open Ended Schemes,Debt Scheme - Dynamic Bond
 105639,JM Financial Mutual Fund,JM Dynamic Bond Fund,,INF192K01668,Open Ended Schemes,Debt Scheme - Dynamic Bond
 105650,ICICI Prudential Mutual Fund,ICICI Prudential Interval Fund - Monthly Interval Plan - I,INF109K01ON3,,Open Ended Schemes,Income
 105651,ICICI Prudential Mutual Fund,ICICI Prudential Interval Fund - Monthly Interval Plan - I,INF109K01OM5,,Open Ended Schemes,Income
-105658,UTI Mutual Fund,UTI Low Duration Fund,INF789F01OU7,INF789F01OV5,Open Ended Schemes,Debt Scheme - Low Duration Fund
-105659,UTI Mutual Fund,UTI Low Duration Fund,INF789F01PA6,,Open Ended Schemes,Debt Scheme - Low Duration Fund
+105658,UTI Mutual Fund,UTI Low Duration Fund,INF789F01OU7,INF789F01OV5,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+105659,UTI Mutual Fund,UTI Low Duration Fund,INF789F01PA6,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 105660,Nippon India Mutual Fund,Nippon India Interval Fund Annual Interval Fund Series-I,INF204K01ED4,INF204K01EE2,Interval Fund Schemes,Income
 105661,Nippon India Mutual Fund,Nippon India Interval Fund Annual Interval Fund Series-I,INF204K01DZ9,,Interval Fund Schemes,Income
 105662,Nippon India Mutual Fund,Nippon India Interval Fund Annual Interval Fund Series-I,INF204K01EA0,INF204K01EB8,Interval Fund Schemes,Income
@@ -789,7 +789,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 105667,DSP Mutual Fund,DSP Strategic Bond Fund,INF740K01GM3,INF740K01GL5,Open Ended Schemes,Debt Scheme - Dynamic Bond
 105668,DSP Mutual Fund,DSP Strategic Bond Fund,INF740K01GO9,INF740K01GN1,Open Ended Schemes,Debt Scheme - Dynamic Bond
 105669,DSP Mutual Fund,DSP Strategic Bond Fund,INF740K01GK7,,Open Ended Schemes,Debt Scheme - Dynamic Bond
-105670,UTI Mutual Fund,UTI Low Duration Fund,INF789F01OY9,INF789F01OZ6,Open Ended Schemes,Debt Scheme - Low Duration Fund
+105670,UTI Mutual Fund,UTI Low Duration Fund,INF789F01OY9,INF789F01OZ6,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 105689,Nippon India Mutual Fund,Nippon India Interval Fund-Quarterly Interval Fund Serie-II,INF204K01DN5,,Interval Fund Schemes,Income
 105691,Nippon India Mutual Fund,Nippon India Interval Fund-Quarterly Interval Fund Serie-II,INF204K01DR6,INF204K01DS4,Interval Fund Schemes,Income
 105692,Nippon India Mutual Fund,Nippon India Interval Fund-Quarterly Interval Fund Serie-II,INF204K01DO3,INF204K01DP0,Interval Fund Schemes,Income
@@ -1476,7 +1476,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 115402,Union Mutual Fund,Union Liquid Fund,,INF582M01039,Open Ended Schemes,Debt Scheme - Liquid Fund
 115458,Invesco Mutual Fund,Invesco India Low Duration Fund,INF205K01IG5,INF205K01IF7,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 115464,Tata Mutual Fund,Tata Treasury Advantage Fund,INF277K01MC5,INF277K01ME1,Open Ended Schemes,Debt Scheme - Low Duration Fund
-115483,UTI Mutual Fund,UTI Low Duration Fund,INF789F01OW3,INF789F01OX1,Open Ended Schemes,Debt Scheme - Low Duration Fund
+115483,UTI Mutual Fund,UTI Low Duration Fund,INF789F01OW3,INF789F01OX1,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 115489,Bandhan Mutual Fund,BANDHAN LIQUID Fund,INF194K01WC1,INF194K01WB3,Open Ended Schemes,Debt Scheme - Liquid Fund
 115505,ICICI Prudential Mutual Fund,ICICI Prudential Liquid Fund -,INF109K01VU3,INF109K01VT5,Open Ended Schemes,Debt Scheme - Liquid Fund
 115510,ICICI Prudential Mutual Fund,ICICI Prudential Floating Interest Fund,INF109K01WQ9,INF109K01WP1,Open Ended Schemes,Debt Scheme - Floater Fund
@@ -2813,12 +2813,12 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 120731,UTI Mutual Fund,UTI - Transportation and Logistics Fund,INF789F01SH5,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 120732,UTI Mutual Fund,UTI - Banking and Financial Services Fund,INF789F01SL7,INF789F01SM5,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 120733,UTI Mutual Fund,UTI - Banking and Financial Services Fund,INF789F01SN3,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-120734,UTI Mutual Fund,UTI Low Duration Fund,INF789F01XL7,INF789F01XM5,Open Ended Schemes,Debt Scheme - Low Duration Fund
-120735,UTI Mutual Fund,UTI Low Duration Fund,INF789F01XI3,,Open Ended Schemes,Debt Scheme - Low Duration Fund
-120736,UTI Mutual Fund,UTI Low Duration Fund,INF789F01XJ1,INF789F01XK9,Open Ended Schemes,Debt Scheme - Low Duration Fund
-120737,UTI Mutual Fund,UTI Low Duration Fund,,INF789F01XE2,Open Ended Schemes,Debt Scheme - Low Duration Fund
-120738,UTI Mutual Fund,UTI Low Duration Fund,INF789F01XH5,,Open Ended Schemes,Debt Scheme - Low Duration Fund
-120739,UTI Mutual Fund,UTI Low Duration Fund,INF789F01XN3,INF789F01XO1,Open Ended Schemes,Debt Scheme - Low Duration Fund
+120734,UTI Mutual Fund,UTI Low Duration Fund,INF789F01XL7,INF789F01XM5,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+120735,UTI Mutual Fund,UTI Low Duration Fund,INF789F01XI3,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+120736,UTI Mutual Fund,UTI Low Duration Fund,INF789F01XJ1,INF789F01XK9,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+120737,UTI Mutual Fund,UTI Low Duration Fund,,INF789F01XE2,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+120738,UTI Mutual Fund,UTI Low Duration Fund,INF789F01XH5,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+120739,UTI Mutual Fund,UTI Low Duration Fund,INF789F01XN3,INF789F01XO1,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 120743,ICICI Prudential Mutual Fund,ICICI Prudential Long Term Bond Fund,INF109K017L8,,Open Ended Schemes,Debt Scheme - Long Duration Fund
 120744,UTI Mutual Fund,UTI Ultra Short Duration Fund,INF789F01TG5,INF789F01TH3,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
 120745,UTI Mutual Fund,UTI Ultra Short Duration Fund,INF789FB1S63,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
@@ -4677,10 +4677,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 133112,ICICI Prudential Mutual Fund,ICICI Prudential Multiple Yield Fund - Series 8 - 1822 Days - Plan D,INF109KA18J4,,Close Ended Schemes,Income
 133113,ICICI Prudential Mutual Fund,ICICI Prudential Multiple Yield Fund - Series 8 - 1822 Days - Plan D,INF109KA19J2,,Close Ended Schemes,Income
 133122,Kotak Mahindra Mutual Fund,Kotak Nifty Bank ETF,INF174KA1ZB7,,Open Ended Schemes,Other Scheme - Other  ETFs
-133127,UTI Mutual Fund,UTI Low Duration Fund,INF789FA1O44,INF789FA1O51,Open Ended Schemes,Debt Scheme - Low Duration Fund
+133127,UTI Mutual Fund,UTI Low Duration Fund,INF789FA1O44,INF789FA1O51,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 133128,ICICI Prudential Mutual Fund,ICICI Prudential Growth Fund - Series 5,INF109KA13K3,,Close Ended Schemes,Growth
 133129,ICICI Prudential Mutual Fund,ICICI Prudential Growth Fund - Series 5,INF109KA12K5,,Close Ended Schemes,Growth
-133130,UTI Mutual Fund,UTI Low Duration Fund,INF789FA1N86,INF789FA1N94,Open Ended Schemes,Debt Scheme - Low Duration Fund
+133130,UTI Mutual Fund,UTI Low Duration Fund,INF789FA1N86,INF789FA1N94,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 133131,Nippon India Mutual Fund,Reliance Capital Builder Fund II- Series A,INF204KA1YL3,,Close Ended Schemes,Growth
 133132,Nippon India Mutual Fund,Reliance Capital Builder Fund II- Series A,INF204KA1YK5,,Close Ended Schemes,Growth
 133133,Nippon India Mutual Fund,Reliance Capital Builder Fund II- Series A,INF204KA1YJ7,,Close Ended Schemes,Growth
@@ -4781,7 +4781,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 133458,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 76 - 1100 Days Plan G,INF109KA15S1,,Close Ended Schemes,Income
 133467,ICICI Prudential Mutual Fund,ICICI Prudential Growth Fund - Series 8,INF109KA10S2,,Close Ended Schemes,Growth
 133468,ICICI Prudential Mutual Fund,ICICI Prudential Growth Fund - Series 8,INF109KA19R5,,Close Ended Schemes,Growth
-133469,UTI Mutual Fund,UTI Low Duration Fund,INF789FA1O28,INF789FA1O36,Open Ended Schemes,Debt Scheme - Low Duration Fund
+133469,UTI Mutual Fund,UTI Low Duration Fund,INF789FA1O28,INF789FA1O36,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 133470,Nippon India Mutual Fund,Reliance Fixed Horizon Fund XXVIII- Series 4,INF204KA1A81,,Close Ended Schemes,Income
 133471,Nippon India Mutual Fund,Reliance Fixed Horizon Fund XXVIII- Series 4,INF204KA1B15,,Close Ended Schemes,Income
 133472,Nippon India Mutual Fund,Reliance Fixed Horizon Fund XXVIII- Series 4,INF204KA1B07,,Close Ended Schemes,Income
@@ -4837,7 +4837,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 133710,LIC Mutual Fund,LIC MF Large & Mid Cap Fund,INF767K01NE9,,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund
 133711,LIC Mutual Fund,LIC MF Large & Mid Cap Fund,INF767K01NB5,,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund
 133712,LIC Mutual Fund,LIC MF Large & Mid Cap Fund,INF767K01NA7,INF767K01NC3,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund
-133733,UTI Mutual Fund,UTI Low Duration Fund,INF789FA1N45,INF789FA1N52,Open Ended Schemes,Debt Scheme - Low Duration Fund
+133733,UTI Mutual Fund,UTI Low Duration Fund,INF789FA1N45,INF789FA1N52,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 133770,Kotak Mahindra Mutual Fund,Kotak Corporate Bond Fund,,,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
 133771,Kotak Mahindra Mutual Fund,Kotak Corporate Bond Fund,INF178L01897,,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
 133772,Kotak Mahindra Mutual Fund,Kotak Corporate Bond Fund,INF178L01921,,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
@@ -5203,7 +5203,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 135180,ICICI Prudential Mutual Fund,ICICI Prudential Capital Protection Oriented Fund VIII - PLAN H - 1105 Days,INF109KB1LA8,,Close Ended Schemes,Income
 135181,ICICI Prudential Mutual Fund,ICICI Prudential Capital Protection Oriented Fund VIII - PLAN H - 1105 Days,INF109KB1LB6,,Close Ended Schemes,Income
 135182,ICICI Prudential Mutual Fund,ICICI Prudential Capital Protection Oriented Fund VIII - PLAN H - 1105 Days,INF109KB1LC4,,Close Ended Schemes,Income
-135191,UTI Mutual Fund,UTI Low Duration Fund,INF789FA1O02,INF789FA1O10,Open Ended Schemes,Debt Scheme - Low Duration Fund
+135191,UTI Mutual Fund,UTI Low Duration Fund,INF789FA1O02,INF789FA1O10,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 135192,ICICI Prudential Mutual Fund,ICICI Prudential Capital Protection Oriented Fund VIII - PLAN I - 1290 Days,INF109KB1LN1,,Close Ended Schemes,Income
 135193,ICICI Prudential Mutual Fund,ICICI Prudential Capital Protection Oriented Fund VIII - PLAN I - 1290 Days,INF109KB1LM3,,Close Ended Schemes,Income
 135194,ICICI Prudential Mutual Fund,ICICI Prudential Capital Protection Oriented Fund VIII - PLAN I - 1290 Days,INF109KB1LO9,,Close Ended Schemes,Income
@@ -5554,7 +5554,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 136328,Nippon India Mutual Fund,Reliance Fixed Horizon Fund XXX- Series 9,INF204KA10Y9,,Close Ended Schemes,Income
 136329,Nippon India Mutual Fund,Reliance Fixed Horizon Fund XXX- Series 9,INF204KA11Y7,,Close Ended Schemes,Income
 136330,Nippon India Mutual Fund,Reliance Fixed Horizon Fund XXX- Series 9,INF204KA12Y5,,Close Ended Schemes,Income
-136345,UTI Mutual Fund,UTI Low Duration Fund,INF789FA1N60,INF789FA1N78,Open Ended Schemes,Debt Scheme - Low Duration Fund
+136345,UTI Mutual Fund,UTI Low Duration Fund,INF789FA1N60,INF789FA1N78,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 136362,Kotak Mahindra Mutual Fund,Kotak FMP Series 190,INF174K014E0,,Close Ended Schemes,Income
 136363,Kotak Mahindra Mutual Fund,Kotak FMP Series 190,INF174K012E4,,Close Ended Schemes,Income
 136364,Kotak Mahindra Mutual Fund,Kotak FMP Series 190,INF174K013E2,,Close Ended Schemes,Income
@@ -6931,7 +6931,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 141955,Nippon India Mutual Fund,Nippon India Fixed Horizon Fund XXXV- Series 7,INF204KB1SA7,,Close Ended Schemes,Income
 141956,Nippon India Mutual Fund,Nippon India Fixed Horizon Fund XXXV- Series 7,INF204KB1SC3,,Close Ended Schemes,Income
 141957,ICICI Prudential Mutual Fund,BHARAT 22 ETF,INF109KB15Y7,,Open Ended Schemes,Other Scheme - Other  ETFs
-141958,UTI Mutual Fund,UTI Low Duration Fund,INF789F01XF9,INF789F01XG7,Open Ended Schemes,Debt Scheme - Low Duration Fund
+141958,UTI Mutual Fund,UTI Low Duration Fund,INF789F01XF9,INF789F01XG7,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 141987,UTI Mutual Fund,UTI - Focussed Equity Fund - Series V (1102 Days),INF789FC1X23,,Close Ended Schemes,Growth
 141988,UTI Mutual Fund,UTI - Focussed Equity Fund - Series V (1102 Days),INF789FC1X15,,Close Ended Schemes,Growth
 141989,UTI Mutual Fund,UTI - Focussed Equity Fund - Series V (1102 Days),INF789FC1W99,,Close Ended Schemes,Growth
@@ -34790,7 +34790,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 102488,UTI Asset Mgmt. Co. Ltd.,UTI - BOND ADVANTAGE FUND-GROWTH,,,Close Ended,Liquid
 102489,UTI Asset Mgmt. Co. Ltd.,UTI - BOND ADVANTAGE FUND-INSTITUTIONAL,,,Close Ended,Liquid
 102490,UTI Asset Mgmt. Co. Ltd.,UTI - BOND ADVANTAGE FUND-QUARTERLY DIVIDEND,,,Close Ended,Liquid
-102542,UTI Asset Mgmt. Co. Ltd.,UTI - BOND ADVANTAGE-INSTITUTIONAL-ANNUAL DIVIDEND,,,Open Ended,Debt Scheme - Low Duration Fund
+102542,UTI Asset Mgmt. Co. Ltd.,UTI - BOND ADVANTAGE-INSTITUTIONAL-ANNUAL DIVIDEND,,,Open Ended,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 102548,Nippon Life India Asset Management Limited,Reliance Fixed Term Scheme-Series-X-Monthly Plan-Growth Option,,,Close Ended,Growth
 102549,Nippon Life India Asset Management Limited,Reliance Fixed Term Scheme-Series-X-Monthly Plan-Dividend Option,,,Close Ended,Growth
 102550,Nippon Life India Asset Management Limited,Reliance Fixed Term Scheme-Series-V-Quarterly Plan-Growth Option,,,Close Ended,Growth
