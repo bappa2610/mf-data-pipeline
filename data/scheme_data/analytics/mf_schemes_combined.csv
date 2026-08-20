@@ -14257,10 +14257,13 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154527,SBI Mutual Fund,SBI Nifty Midcap 150 Momentum 50 ETF FOF,INF200KB1BV3,INF200KB1BW1,Open Ended Schemes,Fund of Funds Scheme
 154528,DSP Mutual Fund,DSP BSE MidSmall Private Banks ETF,INF740KA1ZH9,,Open Ended Schemes,Exchange Traded Funds
 154535,Edelweiss Mutual Fund,Edelweiss BSE LargeMid (60:40) Stable dividend 50 ETF,INF754K01XI7,,Open Ended Schemes,Exchange Traded Funds
+154536,Invesco Mutual Fund,Invesco India Nifty Bank ETF,INF205KA1CB9,,Open Ended Schemes,Exchange Traded Funds
+154537,Invesco Mutual Fund,Invesco India BSE Sensex ETF,INF205KA1CA1,,Open Ended Schemes,Exchange Traded Funds
 154538,Franklin Templeton Mutual Fund,Franklin India Short Term Fund,INF090I01YX7,INF090I01YY5,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 154539,Franklin Templeton Mutual Fund,Franklin India Short Term Fund,INF090I01YU3,INF090I01YV1,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 154540,Franklin Templeton Mutual Fund,Franklin India Short Term Fund,INF090I01YT5,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 154541,Franklin Templeton Mutual Fund,Franklin India Short Term Fund,INF090I01YW9,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+154550,Jio BlackRock Mutual Fund,JioBlackRock Nifty 50 ETF,INF22M001184,,Open Ended Schemes,Exchange Traded Funds
 154551,Motilal Oswal Mutual Fund,Motilal Oswal Nifty Metal ETF,,,Open Ended Schemes,Exchange Traded Funds
 154552,Motilal Oswal Mutual Fund,Motilal Oswal Nifty Oil & Gas ETF,,,Open Ended Schemes,Exchange Traded Funds
 154565,AlphaGrep Mutual Fund,ALPHAGREP LIQUID OMNI FOF,INF2VOA01137,,Open Ended Schemes,Fund of Funds Scheme
@@ -14274,6 +14277,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154612,Kotak Mahindra Mutual Fund,Kotak Money Market Fund,INF174KA1F24,INF174KA1F08,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
 154613,Bajaj Finserv Mutual Fund,Bajaj Finserv Money Market Fund,INF0QA701CJ8,,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
 154614,Bajaj Finserv Mutual Fund,Bajaj Finserv Money Market Fund,INF0QA701CK6,,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
+154619,Zerodha Mutual Fund,Zerodha Arbitrage Fund,INF0R8F01232,,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund
 154624,Choice Mutual Fund,Choice Overnight Fund,,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 154626,Mirae Asset Mutual Fund,Mirae Asset BSE LargeMid (60:40) Stable Dividend 50 ETF,INF769K01RK3,,Open Ended Schemes,Exchange Traded Funds
 154632,Jio BlackRock Mutual Fund,JioBlackRock Large Cap Fund,INF22M001192,,Open Ended Schemes,Equity Schemes - Large Cap Fund
@@ -14281,6 +14285,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154634,Jio BlackRock Mutual Fund,JioBlackRock Nifty Smallcap 250 Index Fund,INF22M001218,,Open Ended Schemes,Index Funds - Equity Funds
 154637,Jio BlackRock Mutual Fund,JioBlackRock Sector Rotation Fund,INF22M001242,,Open Ended Schemes,Equity Schemes - Thematic Fund
 154641,Jio BlackRock Mutual Fund,JioBlackRock Flexi Cap Fund,INF22M001325,,Open Ended Schemes,Equity Schemes - Flexi Cap Fund
+154642,Jio BlackRock Mutual Fund,JioBlackRock Nifty 8-13 yr G-Sec Index Fund,INF22M001333,,Open Ended Schemes,Index Funds - Debt Funds
 154643,Jio BlackRock Mutual Fund,JioBlackRock Nifty Midcap 150 Index Fund,INF22M001341,,Open Ended Schemes,Index Funds - Equity Funds
 100027,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Half Yearly Dividend,,,Open Ended Schemes,Income
 100028,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Quaterly Dividend,,,Open Ended Schemes,Income
@@ -36444,7 +36449,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154650,Jio BlackRock Asset Management Private Limited,JioBlackRock Liquid Fund - Regular Plan - Daily IDCW Reinvestment Option,INF22M001275,,Open Ended,Income/Debt Oriented Schemes - Liquid Fund
 154656,Jio BlackRock Asset Management Private Limited,JioBlackRock Liquid Fund - Regular Plan - Weekly IDCW Option,INF22M001283,INF22M001291,Open Ended,Income/Debt Oriented Schemes - Liquid Fund
 154644,Jio BlackRock Asset Management Private Limited,JioBlackRock Nifty Next 50 Index Fund - Regular Plan - Growth Option,INF22M001358,,Open Ended,Index Funds - Equity Funds
-154642,Jio BlackRock Asset Management Private Limited,JioBlackRock Nifty 8-13 yr G-Sec Index Fund - Regular Plan - Growth Option,INF22M001333,,Open Ended,Index Funds - Debt Funds
 154522,Abakkus Investment Managers Private Limited,Abakkus Liquid Fund - Unclaimed IDCW Less than 3 Years,,,Open Ended,Income/Debt Oriented Schemes - Liquid Fund
 154638,Jio BlackRock Asset Management Private Limited,JioBlackRock Arbitrage Fund - Regular Plan - Growth Option,INF22M001259,,Open Ended,Hybrid Schemes - Arbitrage Fund
 154635,Jio BlackRock Asset Management Private Limited,JioBlackRock Short Duration Fund - Regular Plan - Growth Option,INF22M001226,,Open Ended,Income/Debt Oriented Schemes - Short Term Fund
@@ -36459,8 +36463,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154500,ITI Asset Management Limited,ITI Multi Asset Allocation Fund- Regular Plan- Growth Option,INF00XX01DP2,,Open Ended,Hybrid Schemes - Multi Asset Allocation Fund
 154515,Quantum Asset Management Company Private Limited,Quantum Flexi Cap Fund - Direct Plan Growth Option,INF082J01507,,Open Ended,Equity Schemes - Flexi Cap Fund
 154516,Quantum Asset Management Company Private Limited,Quantum Flexi Cap Fund - Regular Plan Growth Option,INF082J01515,,Open Ended,Equity Schemes - Flexi Cap Fund
-154536,Invesco Asset Management (India) Private Limited,Invesco India Nifty Bank ETF,INF205KA1CB9,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
-154537,Invesco Asset Management (India) Private Limited,Invesco India BSE Sensex ETF,INF205KA1CA1,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
 154544,Invesco Asset Management (India) Private Limited,Invesco India Pharma and Healthcare Fund - Regular Fund - IDCW Plan,INF205KA1BV9,INF205KA1BW7,Open Ended,Equity Schemes - Sectoral Fund
 154545,Invesco Asset Management (India) Private Limited,Invesco India Pharma and Healthcare Fund - Regular Plan - Growth,INF205KA1BU1,,Open Ended,Equity Schemes - Sectoral Fund
 154546,Invesco Asset Management (India) Private Limited,Invesco India Pharma and Healthcare Fund - Direct Plan - IDCW Plan,INF205KA1BY3,INF205KA1BZ0,Open Ended,Equity Schemes - Sectoral Fund
@@ -36469,7 +36471,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154549,Edelweiss Asset Management Limited,Edelweiss Nifty REITs & Realty Index Fund - Direct IDCW,INF754K01XK3,INF754K01XL1,Open Ended,Index Funds - Equity Funds
 154559,Edelweiss Asset Management Limited,Edelweiss REITs & Realty Index Fund - Regular IDCW Payout,INF754K01XO5,INF754K01XP2,Open Ended,Index Funds - Equity Funds
 154561,Edelweiss Asset Management Limited,Edelweiss REITs & Realty Index Fund - Regular Growth,INF754K01XN7,,Open Ended,Index Funds - Equity Funds
-154550,Jio BlackRock Asset Management Private Limited,JioBlackRock Nifty 50 ETF,INF22M001184,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
 154553,WhiteOak Capital Asset Management Limited,WhiteOak Capital Dividend Yield Fund Regular Plan Growth,INF03VN01AI2,,Open Ended,Equity Schemes - Dividend Yield Fund
 154554,WhiteOak Capital Asset Management Limited,WhiteOak Capital Dividend Yield Fund Direct Plan IDCW,INF03VN01AJ0,INF03VN01AK8,Open Ended,Equity Schemes - Dividend Yield Fund
 154555,WhiteOak Capital Asset Management Limited,WhiteOak Capital Dividend Yield Fund Regular Plan IDCW,INF03VN01AL6,INF03VN01AM4,Open Ended,Equity Schemes - Dividend Yield Fund
@@ -36509,7 +36510,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154616,SBI Funds Management Limited,SBI Balance Hybrid Fund - Regular Plan - IDCW,,,Open Ended,Hybrid Schemes - Balanced Hybrid Fund
 154617,SBI Funds Management Limited,SBI Balance Hybrid Fund - Direct Plan - IDCW,,,Open Ended,Hybrid Schemes - Balanced Hybrid Fund
 154618,SBI Funds Management Limited,SBI Balance Hybrid Fund - Direct Plan - Growth,,,Open Ended,Hybrid Schemes - Balanced Hybrid Fund
-154619,Zerodha Asset Management Private Limited,Zerodha Arbitrage Fund - Direct - Growth,INF0R8F01232,,Open Ended,Hybrid Schemes - Arbitrage Fund
 154622,Edelweiss Asset Management Limited,Edelweiss Ultra Short Term Fund Regular Growth Plan,INF754K01XV0,,Open Ended,Income/Debt Oriented Schemes - Ultra Short Term Fund
 154623,Edelweiss Asset Management Limited,Edelweiss Ultra Short Term Fund Direct IDCW Plan,INF754K01XS6,INF754K01XT4,Open Ended,Income/Debt Oriented Schemes - Ultra Short Term Fund
 154620,Edelweiss Asset Management Limited,Edelweiss Ultra Short Term Fund Regular IDCW Plan,INF754K01XW8,INF754K01XX6,Open Ended,Income/Debt Oriented Schemes - Ultra Short Term Fund
