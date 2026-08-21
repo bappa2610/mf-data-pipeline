@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Flexi Cap Fund",
         "scheme_code": 148406,
-        "scheme_name": "BANK OF INDIA Flexi Cap Fund Direct Plan -IDCW",
+        "scheme_name": "BANK OF INDIA FLEXI CAP FUND - Direct Plan - IDCW",
         "isin_growth": "INF761K01FE8",
         "isin_div_reinvestment": "INF761K01FG3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "36.46000"
+        },
         {
             "date": "18-08-2026",
             "nav": "36.46000"

@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Corporate Bond Fund",
         "scheme_code": 150238,
-        "scheme_name": "BARODA BNP PARIBAS Corporate Bond Fund - Direct Plan - Monthly IDCW Option",
+        "scheme_name": "BARODA BNP PARIBAS CORPORATE BOND FUND - Direct Plan - Monthly IDCW Option",
         "isin_growth": "INF251K01GQ2",
         "isin_div_reinvestment": "INF251K01GR0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.60340"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.61010"

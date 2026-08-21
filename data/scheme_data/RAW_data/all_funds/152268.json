@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 152268,
-        "scheme_name": "Aditya Birla Sun Life Crisil IBX Gilt Apr 2033 Index Fund-Regular Growth",
+        "scheme_name": "Aditya Birla Sun Life Crisil IBX Gilt April 2033 Index Fund - Regular Plan - GROWTH",
         "isin_growth": "INF209KB17Y1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.20280"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.23740"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.23150"

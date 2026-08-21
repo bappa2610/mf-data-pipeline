@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Long Duration Fund",
         "scheme_code": 151205,
-        "scheme_name": "Axis Long Duration Fund - Direct Plan - Annual IDCW",
+        "scheme_name": "Axis Long Duration Fund - Direct Plan - Annual IDCW Option",
         "isin_growth": "INF846K017M4",
         "isin_div_reinvestment": "INF846K019M0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1263.78650"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1269.14540"
+        },
         {
             "date": "18-08-2026",
             "nav": "1268.28670"

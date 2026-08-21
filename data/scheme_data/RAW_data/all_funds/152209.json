@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 152209,
-        "scheme_name": "DSP Banking & Financial Services Fund - Regular - IDCW",
+        "scheme_name": "DSP Banking & Financial Services Fund - Regular Plan - IDCW",
         "isin_growth": "INF740KA1TO8",
         "isin_div_reinvestment": "INF740KA1TP5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.88700"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.77200"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.81200"

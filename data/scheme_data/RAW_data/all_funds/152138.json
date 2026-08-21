@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Flexi Cap Fund",
         "scheme_code": 152138,
-        "scheme_name": "Helios Flexi Cap Fund - Direct Plan - IDCW Option",
+        "scheme_name": "Helios Flexi Cap Fund - Direct Plan - IDCW",
         "isin_growth": "INF0R8701053",
         "isin_div_reinvestment": "INF0R8701061"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "16.29000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "16.17000"
+        },
         {
             "date": "18-08-2026",
             "nav": "16.22000"

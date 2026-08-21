@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "HDFC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Schemes - Value Fund",
+        "scheme_category": "Exchange Traded Funds (ETFs) - Equity ETF",
         "scheme_code": 154504,
         "scheme_name": "HDFC Nifty Metal ETF - Growth Option",
         "isin_growth": null,
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "130.51600"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "130.14730"
+        },
         {
             "date": "18-08-2026",
             "nav": "130.16910"

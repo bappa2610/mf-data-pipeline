@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 154349,
-        "scheme_name": "Axis Nifty Capital Markets Index Fund- Regular Plan",
+        "scheme_name": "Axis Nifty Capital Markets Index Fund - Regular Plan",
         "isin_growth": "INF846KA1531",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "9.63240"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "9.50330"
+        },
         {
             "date": "18-08-2026",
             "nav": "9.48290"

@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Money Market Fund",
         "scheme_code": 148162,
-        "scheme_name": "PGIM India Money Market Fund - Direct Plan - Daily Dividend Option",
+        "scheme_name": "PGIM India Money Market Fund - Direct Plan - Direct IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF663L01U16"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1009.99680"
+        },
         {
             "date": "18-08-2026",
             "nav": "1010.42940"

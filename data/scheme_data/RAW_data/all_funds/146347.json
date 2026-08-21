@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Solution Oriented Scheme - Retirement Fund",
         "scheme_code": 146347,
-        "scheme_name": "ICICI Prudential Retirement Fund - Pure Equity - IDCW Option",
+        "scheme_name": "ICICI Prudential Retirement Fund Pure Equity Plan - Regular Plan - IDCW",
         "isin_growth": "INF109KC1TR4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "35.76000"
+        },
         {
             "date": "18-08-2026",
             "nav": "35.71000"

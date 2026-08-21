@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 151365,
-        "scheme_name": "Edelweiss CRISIL IBX 50:50 Gilt Plus SDL Short Duration Index fund - Direct Plan - Growth",
+        "scheme_name": "Edelweiss CRISIL IBX 50:50 Gilt Plus SDL Short Duration Index Fund - Direct Plan - Growth",
         "isin_growth": "INF754K01RK5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.91020"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.92420"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.92050"

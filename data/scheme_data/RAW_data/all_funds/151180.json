@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 151180,
-        "scheme_name": "HDFC Nifty G-Sec Jun 2027 Index Fund - Growth Option",
+        "scheme_name": "HDFC Nifty G-Sec Jun 2027 Index Fund - Regular Plan - Growth Option\t",
         "isin_growth": "INF179KC1EK6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.91820"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.91820"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.91640"

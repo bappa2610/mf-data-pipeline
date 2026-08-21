@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Aditya Birla Sun Life Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Schemes - Value Fund",
+        "scheme_category": "Exchange Traded Funds (ETFs) - Equity ETF",
         "scheme_code": 149779,
         "scheme_name": "Aditya Birla Sun Life Silver ETF",
         "isin_growth": "INF209KB19F6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "235.65130"
+        },
         {
             "date": "18-08-2026",
             "nav": "231.30040"

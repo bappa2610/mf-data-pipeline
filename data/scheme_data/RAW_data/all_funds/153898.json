@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 153898,
-        "scheme_name": "THE WEALTH COMPANY ETHICAL FUND DIRECT IDCW",
+        "scheme_name": "THE WEALTH COMPANY ETHICAL FUND - Direct Plan - IDCW",
         "isin_growth": "INF2F0001206",
         "isin_div_reinvestment": "INF2F0001198"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.04670"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "9.99690"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.03000"

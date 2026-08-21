@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Small Cap Fund",
         "scheme_code": 151130,
-        "scheme_name": "HSBC Small Cap Fund - Direct Growth",
+        "scheme_name": "HSBC Small Cap Fund",
         "isin_growth": "INF917K01QA1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "102.05170"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "101.51830"
+        },
         {
             "date": "18-08-2026",
             "nav": "101.97970"

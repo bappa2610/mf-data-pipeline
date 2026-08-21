@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Money Market Fund",
         "scheme_code": 153294,
-        "scheme_name": "Bank of India Money Market Fund - Direct - Growth",
+        "scheme_name": "Bank of India Money Market Fund - Direct Plan - Growth",
         "isin_growth": "INF761K01GO5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.13420"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.13970"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.13780"

@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 148922,
-        "scheme_name": "quant Quantamental Fund - IDCW Option - Regular Plan",
+        "scheme_name": "quant Quantamental Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF966L01AI3",
         "isin_div_reinvestment": "INF966L01AJ1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "24.89220"
+        },
         {
             "date": "18-08-2026",
             "nav": "24.88670"

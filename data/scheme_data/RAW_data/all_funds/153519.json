@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Other  ETFs",
+        "scheme_category": "Exchange Traded Funds (ETFs) - Equity ETF",
         "scheme_code": 153519,
-        "scheme_name": "Mirae Asset Nifty 50 Equal Weight ETF",
+        "scheme_name": "Mirae Asset Nifty50 Equal Weight ETF",
         "isin_growth": "INF769K01OO2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "334.75340"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "333.00730"
+        },
         {
             "date": "18-08-2026",
             "nav": "333.64100"

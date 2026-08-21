@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Value Fund",
         "scheme_code": 152018,
-        "scheme_name": "LIC MF Value Fund-Direct Plan-Growth",
+        "scheme_name": "LIC MF Value Fund - Direct Plan - Growth",
         "isin_growth": "INF397L01KU5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "31.65580"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "31.66380"
+        },
         {
             "date": "18-08-2026",
             "nav": "31.78490"

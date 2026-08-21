@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)",
         "scheme_code": 150715,
-        "scheme_name": "UTI Gold ETF Fund of Fund - Regular Plan - Growth Opton",
+        "scheme_name": "UTI Gold ETF Fund of Fund - Regular Plan - Growth",
         "isin_growth": "INF789F1AWA1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "29.49310"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "28.78550"
+        },
         {
             "date": "18-08-2026",
             "nav": "28.94330"

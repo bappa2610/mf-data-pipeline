@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Flexi Cap Fund",
         "scheme_code": 151918,
-        "scheme_name": "NJ Flexi Cap Fund - Direct Plan - IDCW Option",
+        "scheme_name": "NJ Flexi Cap Fund - Direct Plan - IDCW Payout Option",
         "isin_growth": "INF0J8L01164",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.92000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.83000"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.88000"

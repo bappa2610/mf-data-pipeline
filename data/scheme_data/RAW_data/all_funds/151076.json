@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - ELSS- Tax Saver Fund",
         "scheme_code": 151076,
-        "scheme_name": "HSBC ELSS Tax saver Fund - Regular Growth",
+        "scheme_name": "HSBC ELSS Tax saver Fund - Regular Plan - Growth",
         "isin_growth": "INF677K01064",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "144.35610"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "143.33550"
+        },
         {
             "date": "18-08-2026",
             "nav": "143.42380"

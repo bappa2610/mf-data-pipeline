@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Overnight Fund",
         "scheme_code": 145827,
-        "scheme_name": "NIPPON INDIA OVERNIGHT FUND - MONTHLY IDCW Option",
+        "scheme_name": "Nippon India Overnight Fund - Regular Plan - MONTHLY IDCW Option",
         "isin_growth": "INF204KB1Q99",
         "isin_div_reinvestment": "INF204KB1R07"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "100.44210"
+        },
         {
             "date": "18-08-2026",
             "nav": "100.41480"

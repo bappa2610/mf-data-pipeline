@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Dividend Yield Fund",
         "scheme_code": 152020,
-        "scheme_name": "LIC MF Dividend Yield Fund-Regular Plan-IDCW",
+        "scheme_name": "LIC MF Dividend Yield Fund - Regular Plan - IDCW",
         "isin_growth": "INF397L01KV3",
         "isin_div_reinvestment": "INF397L01KW1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "33.06620"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "32.95240"
+        },
         {
             "date": "18-08-2026",
             "nav": "33.10860"

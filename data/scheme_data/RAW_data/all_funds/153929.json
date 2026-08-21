@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 153929,
-        "scheme_name": "Bandhan Silver ETF",
+        "scheme_name": "Bandhan Silver ETF - Regular Plan - Growth",
         "isin_growth": "INF194KB1KI9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "236.41910"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "227.51760"
+        },
         {
             "date": "18-08-2026",
             "nav": "232.15580"

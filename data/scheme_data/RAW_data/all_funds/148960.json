@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Conservative Hybrid Fund",
         "scheme_code": 148960,
-        "scheme_name": "Parag Parikh Conservative Hybrid Fund - Regular Plan - Monthly IDCW",
+        "scheme_name": "Parag Parikh Conservative Hybrid Fund - Regular Plan - Monthly IDCW Payout",
         "isin_growth": "INF879O01191",
         "isin_div_reinvestment": "INF879O01183"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.79210"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.81180"

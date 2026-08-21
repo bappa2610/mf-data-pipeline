@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 153538,
-        "scheme_name": "Baroda BNP Paribas Income Plus Arbitrage Active FOF Regular IDCW Payout",
+        "scheme_name": "Baroda BNP Paribas Income Plus Arbitrage Active Fund of Funds - Regular Plan - IDCW Option",
         "isin_growth": "INF251K01UX9",
         "isin_div_reinvestment": "INF251K01US9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.71770"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.72750"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.72080"

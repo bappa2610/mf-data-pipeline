@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 152255,
-        "scheme_name": "quant Commodities Fund - Growth Option - Direct Plan",
+        "scheme_name": "quant Commodities Fund - Direct Plan - Growth Option",
         "isin_growth": "INF966L01DF3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.26490"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "15.25210"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.34690"

@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Arbitrage Fund",
         "scheme_code": 145895,
-        "scheme_name": "LIC MF Arbitrage Fund-Direct Plan-Growth",
+        "scheme_name": "LIC MF Arbitrage Fund - Direct Plan - Growth",
         "isin_growth": "INF767K01PP0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.52020"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.51070"

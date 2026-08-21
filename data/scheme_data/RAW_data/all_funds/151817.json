@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 151817,
-        "scheme_name": "BANDHAN FINANCIAL SERVICES FUND - DIRECT PLAN - IDCW",
+        "scheme_name": "BANDHAN FINANCIAL SERVICES FUND - Direct Plan - IDCW",
         "isin_growth": "INF194KB1GC0",
         "isin_div_reinvestment": "INF194KB1GD8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.85800"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.72200"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.76300"

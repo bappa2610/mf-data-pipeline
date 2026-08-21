@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 152058,
-        "scheme_name": "HDFC Technology Fund - Growth Option",
+        "scheme_name": "HDFC Technology Fund - Regular Plan - Growth Option",
         "isin_growth": "INF179KC1HF9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.95100"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.88500"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.81700"

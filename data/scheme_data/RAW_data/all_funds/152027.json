@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 152027,
-        "scheme_name": "HSBC Consumption Fund - Regular Growth",
+        "scheme_name": "HSBC Consumption Fund - Regular Plan - Growth",
         "isin_growth": "INF336L01RC6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.62130"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "15.50950"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.53020"

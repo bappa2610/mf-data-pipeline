@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 149287,
-        "scheme_name": "HDFC NIFTY Next 50 Index Fund - Growth Option",
+        "scheme_name": "HDFC NIFTY Next 50 index Fund - Regular Plan - Growth Option",
         "isin_growth": "INF179KC1BR7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "17.21010"
+        },
         {
             "date": "18-08-2026",
             "nav": "17.23720"

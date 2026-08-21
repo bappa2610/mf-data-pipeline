@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 153593,
-        "scheme_name": "DSP Nifty Healthcare Index Fund - Direct - IDCW",
+        "scheme_name": "DSP Nifty Healthcare Index Fund - Direct Plan - IDCW",
         "isin_growth": "INF740KA1WG8",
         "isin_div_reinvestment": "INF740KA1WH6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.72300"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.68590"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.72210"

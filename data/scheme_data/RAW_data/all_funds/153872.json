@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Flexi Cap Fund",
         "scheme_code": 153872,
-        "scheme_name": "THE WEALTH COMPANY FLEXI CAP FUND - DIRECT GROWTH",
+        "scheme_name": "The Wealth Company Flexi Cap Fund - Direct Plan - Growth",
         "isin_growth": "INF2F0001040",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.21370"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.17670"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.22110"

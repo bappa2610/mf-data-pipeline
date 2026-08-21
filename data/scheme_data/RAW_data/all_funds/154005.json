@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 154005,
-        "scheme_name": "Mahindra Manulife Income Plus Arbitrage Active FOF - Regular - IDCW",
+        "scheme_name": "Mahindra Manulife Income Plus Arbitrage Active FOF - Regular Plan - IDCW",
         "isin_growth": "INF174V01CS8",
         "isin_div_reinvestment": "INF174V01CT6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.41430"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.42640"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.42210"

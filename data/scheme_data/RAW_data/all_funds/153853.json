@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 153853,
-        "scheme_name": "Tata Nifty Next 50 Index Fund - Direct Plan IDCW Reinvestment Option",
+        "scheme_name": "Tata Nifty Next 50 Index Fund - Direct Plan - IDCW Reinvestment Option",
         "isin_growth": null,
         "isin_div_reinvestment": "INF277KA1EK9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.94850"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.90510"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.96540"

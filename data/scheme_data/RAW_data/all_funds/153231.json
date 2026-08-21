@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Index Funds - Equity Funds",
         "scheme_code": 153231,
-        "scheme_name": "Groww Nifty India Railways PSU Index Fund - Direct Plan - IDCW",
+        "scheme_name": "Groww Nifty India Railways PSU Index Fund - Direct Plan - Income Distribution cum capital withdrawal",
         "isin_growth": "INF666M01JL2",
         "isin_div_reinvestment": "INF666M01JM0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "7.84950"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "7.79010"
+        },
         {
             "date": "18-08-2026",
             "nav": "7.84210"

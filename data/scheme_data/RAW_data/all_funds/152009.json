@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Focused Fund",
         "scheme_code": 152009,
-        "scheme_name": "LIC MF Focused Fund-Regular Plan-Growth",
+        "scheme_name": "LIC MF Focused Fund - Regular Plan - Growth",
         "isin_growth": "INF397L01KE9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "22.35100"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "22.38750"
+        },
         {
             "date": "18-08-2026",
             "nav": "22.42850"

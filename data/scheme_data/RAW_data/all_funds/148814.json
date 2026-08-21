@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Index Funds - Equity Funds",
         "scheme_code": 148814,
-        "scheme_name": "Aditya Birla Sun Life Nifty Smallcap 50 Index Fund-Direct - Payout of IDCW",
+        "scheme_name": "Aditya Birla Sun Life Nifty Smallcap 50 Index Fund - Direct Plan - IDCW",
         "isin_growth": "INF209KB1W25",
         "isin_div_reinvestment": "INF209KB1W33"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "24.25970"
+        },
         {
             "date": "18-08-2026",
             "nav": "24.23950"

@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - ELSS",
         "scheme_code": 145819,
-        "scheme_name": "Shriram ELSS Tax Saver Fund - Direct Growth",
+        "scheme_name": "Shriram ELSS Tax Saver Fund - Direct Plan - Growth",
         "isin_growth": "INF680P01158",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "23.99480"
+        },
         {
             "date": "18-08-2026",
             "nav": "23.93820"

@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Dividend Yield Fund",
         "scheme_code": 148610,
-        "scheme_name": "HDFC Dividend Yield Fund - Growth Plan",
+        "scheme_name": "HDFC DIVIDEND YIELD FUND - Regular Plan - Growth Option",
         "isin_growth": "INF179KC1AR9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "25.09800"
+        },
         {
             "date": "18-08-2026",
             "nav": "25.06400"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 152754,
-        "scheme_name": "Kotak BSE PSU Index Fund - Direct Plan - IDCW Payout and Reinvestment",
+        "scheme_name": "kotak BSE PSU Index Fund - Direct Plan - IDCW Payout and Reinvestment",
         "isin_growth": "INF174KA1SM9",
         "isin_div_reinvestment": "INF174KA1SN7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "9.43100"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "9.42000"
+        },
         {
             "date": "18-08-2026",
             "nav": "9.49900"

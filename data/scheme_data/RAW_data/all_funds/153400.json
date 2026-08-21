@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 153400,
-        "scheme_name": "KOTAK NIFTY MIDCAP 150 INDEX FUND-REGULAR PLAN-IDCW PAYOUT AND REINVESTMENT",
+        "scheme_name": "Kotak Nifty Midcap 150 Index Fund - Regular Plan - IDCW PAYOUT AND REINVESTMENT",
         "isin_growth": "INF174KA1VU6",
         "isin_div_reinvestment": "INF174KA1VV4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.94700"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.90500"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.93500"

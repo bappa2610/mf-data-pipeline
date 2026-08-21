@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Overseas",
         "scheme_code": 151549,
-        "scheme_name": "Bandhan US Treasury Bond 0-1 year specific Debt Passive FOF - DIRECT PLAN - IDCW",
+        "scheme_name": "Bandhan US Treasury Bond 0-1 year specific Debt Passive FOF - Direct Plan - IDCW",
         "isin_growth": "INF194KB1FW0",
         "isin_div_reinvestment": "INF194KB1GA4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.43670"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.44770"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.43840"

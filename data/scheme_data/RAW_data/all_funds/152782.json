@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large Cap Fund",
         "scheme_code": 152782,
-        "scheme_name": "BAJAJ FINSERV LARGE CAP FUND - REGULAR PLAN - IDCW",
+        "scheme_name": "BAJAJ FINSERV LARGE CAP FUND - Regular Plan - IDCW",
         "isin_growth": "INF0QA701870",
         "isin_div_reinvestment": "INF0QA701888"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.23300"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.18000"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.21100"

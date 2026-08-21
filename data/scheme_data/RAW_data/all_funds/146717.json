@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Solution Oriented Scheme - Retirement Fund",
         "scheme_code": 146717,
-        "scheme_name": "ICICI Prudential Retirement Fund - Hybrid Conservative - Growth Option",
+        "scheme_name": "ICICI Prudential Retirement Fund Hybrid Conservative Plan - Regular Plan - Growth",
         "isin_growth": "INF109KC1TY0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "18.47260"
+        },
         {
             "date": "18-08-2026",
             "nav": "18.48540"

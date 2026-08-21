@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 154148,
-        "scheme_name": "Kotak Nifty200 Value 30 Index Fund - Regular - Growth",
+        "scheme_name": "Kotak Nifty200 Value 30 Index Fund - Regular Plan - Growth",
         "isin_growth": "INF174KA1YS4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "9.59400"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "9.59500"
+        },
         {
             "date": "18-08-2026",
             "nav": "9.63800"

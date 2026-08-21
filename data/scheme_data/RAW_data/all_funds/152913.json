@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 152913,
-        "scheme_name": "Kotak MNC Fund-Regular Plan- Growth",
+        "scheme_name": "Kotak MNC Fund - Regular Plan - Growth",
         "isin_growth": "INF174KA1TJ3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.64600"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.64800"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.74200"

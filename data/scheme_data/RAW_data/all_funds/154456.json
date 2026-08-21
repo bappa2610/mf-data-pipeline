@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Value Fund",
         "scheme_code": 154456,
-        "scheme_name": "NJ Value Fund - Direct Growth",
+        "scheme_name": "NJ Value Fund - Direct Plan - Growth Option",
         "isin_growth": "INF0J8L01214",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "9.86000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "9.83000"
+        },
         {
             "date": "18-08-2026",
             "nav": "9.87000"

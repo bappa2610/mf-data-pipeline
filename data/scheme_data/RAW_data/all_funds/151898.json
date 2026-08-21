@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Flexi Cap Fund",
         "scheme_code": 151898,
-        "scheme_name": "Bajaj Finserv Flexi Cap Fund -Regular Plan-Growth",
+        "scheme_name": "Bajaj Finserv Flexi Cap Fund - Regular Plan - Growth",
         "isin_growth": "INF0QA701383",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.85900"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "15.78900"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.90000"

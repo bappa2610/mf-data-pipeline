@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 148556,
-        "scheme_name": "Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund - Direct Plan - IDCW Option",
+        "scheme_name": "Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund - Direct Plan - IDCW",
         "isin_growth": "INF754K01LW3",
         "isin_div_reinvestment": "INF754K01LX1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "22.87570"
+        },
         {
             "date": "18-08-2026",
             "nav": "22.76730"

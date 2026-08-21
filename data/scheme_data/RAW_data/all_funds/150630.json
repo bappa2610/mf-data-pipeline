@@ -1,14 +1,18 @@
 {
     "meta": {
         "fund_house": "Nippon India Mutual Fund",
-        "scheme_type": "IL&FS Mutual Fund",
-        "scheme_category": "IDF",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
         "scheme_code": 150630,
-        "scheme_name": "Nippon India Fixed Maturity Plan-XLIV-Series 1-Regular Plan-Payout of IDCW",
+        "scheme_name": "Nippon India Fixed Maturity Plan - XLIV - Series 1 - Regular Plan - IDCW Option",
         "isin_growth": "INF204KC1626",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.28510"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.28390"

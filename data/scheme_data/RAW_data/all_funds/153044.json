@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Arbitrage Fund",
         "scheme_code": 153044,
-        "scheme_name": "Franklin India Arbitrage Fund - IDCW",
+        "scheme_name": "Franklin India Arbitrage Fund - Regular Plan - IDCW",
         "isin_growth": "INF090I01XR1",
         "isin_div_reinvestment": "INF090I01XQ3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.12900"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.13570"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.12030"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 153956,
-        "scheme_name": "ANGEL ONE NIFTY TOTAL MARKET MOMENTUM QUALITY 50 INDEX FUND - DIRECT GROWTH",
+        "scheme_name": "ANGEL ONE NIFTY TOTAL MARKET MOMENTUM QUALITY 50 INDEX FUND - Direct Plan - Growth",
         "isin_growth": "INF1J2R01122",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "21-08-2026",
+            "nav": "10.33680"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.32020"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.43290"

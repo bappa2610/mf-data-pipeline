@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Index Funds - Equity Funds",
         "scheme_code": 154283,
-        "scheme_name": "Groww Nifty PSU Bank Index Fund Direct IDCW",
+        "scheme_name": "Groww Nifty PSU Bank Index Fund - Direct Plan - Income Distribution cum capital withdrawal",
         "isin_growth": "INF666M01OI8",
         "isin_div_reinvestment": "INF666M01OJ6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.25810"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.25960"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.26110"

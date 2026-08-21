@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 153664,
-        "scheme_name": "SBI Nifty200 Momentum 30 Index Fund- Regular Plan- Income Distribution Cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI Nifty200 Momentum 30 Index Fund - Regular Plan - IDCW",
         "isin_growth": "INF200KB1852",
         "isin_div_reinvestment": "INF200KB1860"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "9.76340"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "9.72520"
+        },
         {
             "date": "18-08-2026",
             "nav": "9.83230"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 152779,
-        "scheme_name": "HDFC NIFTY500 Multicap 50:25:25 index Fund - Regular Plan",
+        "scheme_name": "HDFC NIFTY500 Multicap 50:25:25 Index Fund - Regular Plan - Growth Option",
         "isin_growth": "INF179KC1IN1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.16520"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.11170"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.15260"

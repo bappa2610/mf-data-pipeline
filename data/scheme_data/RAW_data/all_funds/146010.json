@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
         "scheme_code": 146010,
-        "scheme_name": "Tata Balanced Advantage Fund-Direct Plan-Growth",
+        "scheme_name": "Tata Balanced Advantage Fund - Direct Plan - Growth Option",
         "isin_growth": "INF277K013S8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "23.79010"
+        },
         {
             "date": "18-08-2026",
             "nav": "23.79900"

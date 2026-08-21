@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Medium to Long Duration Fund",
         "scheme_code": 151986,
-        "scheme_name": "LIC MF Medium to Long Duration Fund-Regular Plan-Quarterly IDCW",
+        "scheme_name": "LIC MF Medium to Long Duration Fund - Regular Plan - Quarterly IDCW",
         "isin_growth": "INF397L01FU5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "16.35940"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "16.39880"
+        },
         {
             "date": "18-08-2026",
             "nav": "16.39710"

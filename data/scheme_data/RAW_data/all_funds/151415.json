@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Flexi Cap Fund",
+        "scheme_category": "Equity Schemes - Flexi Cap Fund",
         "scheme_code": 151415,
         "scheme_name": "Mirae Asset Flexi Cap Fund - Regular Plan - IDCW",
         "isin_growth": "INF769K01JF0",
         "isin_div_reinvestment": "INF769K01JH6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "16.32200"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "16.21400"
+        },
         {
             "date": "18-08-2026",
             "nav": "16.29900"

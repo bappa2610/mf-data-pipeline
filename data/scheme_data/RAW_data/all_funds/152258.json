@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 152258,
-        "scheme_name": "quant Commodities Fund - IDCW Option - Regular Plan",
+        "scheme_name": "quant Commodities Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF966L01DD8",
         "isin_div_reinvestment": "INF966L01DE6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "14.66640"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "14.65470"
+        },
         {
             "date": "18-08-2026",
             "nav": "14.74640"

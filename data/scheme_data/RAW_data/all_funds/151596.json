@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Index Funds - Debt Funds",
         "scheme_code": 151596,
-        "scheme_name": "Invesco India Nifty G-sec Sep 2032 Index Fund - Direct Plan - IDCW Payout",
+        "scheme_name": "Invesco India Nifty G-sec Sep 2032 Index Fund - Direct Plan - IDCW",
         "isin_growth": "INF205KA1825",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1301.78130"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1305.18890"
+        },
         {
             "date": "18-08-2026",
             "nav": "1304.48040"

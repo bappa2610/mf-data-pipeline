@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 152070,
-        "scheme_name": "quant Teck Fund - Growth Option - Regular Plan",
+        "scheme_name": "quant Teck Fund - Regular Plan - Growth Option",
         "isin_growth": "INF966L01CQ2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.26870"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.25720"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.21080"

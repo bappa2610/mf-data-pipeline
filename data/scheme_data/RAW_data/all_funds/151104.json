@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Banking and PSU Debt Fund",
         "scheme_code": 151104,
-        "scheme_name": "HSBC Banking and PSU Debt Fund - Regular Growth",
+        "scheme_name": "HSBC Banking and PSU Debt Fund - Regular Plan - Growth",
         "isin_growth": "INF677K01AE7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "25.72990"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "25.77370"
+        },
         {
             "date": "18-08-2026",
             "nav": "25.76530"

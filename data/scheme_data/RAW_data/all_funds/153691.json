@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 153691,
-        "scheme_name": "Nippon India MNC Fund- Regular Plan-Growth Option",
+        "scheme_name": "Nippon India MNC Fund - Regular Plan - Growth Option",
         "isin_growth": "INF204KC1FO4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.97450"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.91600"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.98130"

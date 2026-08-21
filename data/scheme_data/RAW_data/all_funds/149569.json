@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - ELSS",
         "scheme_code": 149569,
-        "scheme_name": "Sundaram ELSS Tax Saver Fund Regular Growth",
+        "scheme_name": "Sundaram ELSS Tax Saver Fund - Regular Plan - GROWTH",
         "isin_growth": "INF173K01361",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "502.93210"
+        },
         {
             "date": "18-08-2026",
             "nav": "501.11790"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Long Duration Fund",
         "scheme_code": 152518,
-        "scheme_name": "Bandhan Long Duration Fund - Regular Plan - Growth",
+        "scheme_name": "BANDHAN LONG DURATION FUND - Regular Plan - Growth",
         "isin_growth": "INF194KB1HV8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.39230"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.44200"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.44460"

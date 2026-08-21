@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Focused Fund",
         "scheme_code": 152008,
-        "scheme_name": "LIC MF Focused Fund-Direct Plan-IDCW",
+        "scheme_name": "LIC MF Focused Fund - Direct Plan - IDCW",
         "isin_growth": "INF397L01JX1",
         "isin_div_reinvestment": "INF397L01JY9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "24.82480"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "24.86450"
+        },
         {
             "date": "18-08-2026",
             "nav": "24.90920"

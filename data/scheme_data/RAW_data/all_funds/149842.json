@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 149842,
-        "scheme_name": "Kotak Manufacture in India Fund - Direct Plan IDCW Option",
+        "scheme_name": "Kotak Manufacture in India Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF174KA1IG2",
         "isin_div_reinvestment": "INF174KA1IH0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "24.11500"
+        },
         {
             "date": "18-08-2026",
             "nav": "24.20000"

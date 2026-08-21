@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 150823,
-        "scheme_name": "Kotak Income Plus Arbitrage Omni FOF-Direct Plan-IDCW",
+        "scheme_name": "Kotak Income Plus Arbitrage Omni FOF - Direct Plan - IDCW",
         "isin_growth": "INF174KA1KK0",
         "isin_div_reinvestment": "INF174KA1KL8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.21570"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.23420"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.22660"

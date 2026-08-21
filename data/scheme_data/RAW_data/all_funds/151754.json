@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Value Fund",
         "scheme_code": 151754,
-        "scheme_name": "Baroda BNP Paribas Value Fund - Regular Plan - IDCW option",
+        "scheme_name": "Baroda BNP Paribas Value Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF251K01SB9",
         "isin_div_reinvestment": "INF251K01SC7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.57350"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.52590"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.59360"

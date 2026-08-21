@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Multi Cap Fund",
         "scheme_code": 152740,
-        "scheme_name": "Franklin India Multi Cap Fund - IDCW",
+        "scheme_name": "Franklin India Multi Cap Fund - Regular Plan - IDCW",
         "isin_growth": "INF090I01WY9",
         "isin_div_reinvestment": "INF090I01WZ6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.10300"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.05340"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.10610"

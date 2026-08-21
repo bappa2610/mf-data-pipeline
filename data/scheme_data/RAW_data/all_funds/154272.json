@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 154272,
-        "scheme_name": "Nippon India CRISIL-IBX Financial Services 3-6 Months Debt Index Fund- Direct Plan-IDCW Option",
+        "scheme_name": "Nippon India CRISIL-IBX Financial Services 3-6 Months Debt Index Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF204KC1GY1",
         "isin_div_reinvestment": "INF204KC1GZ8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.34470"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.34640"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.34480"

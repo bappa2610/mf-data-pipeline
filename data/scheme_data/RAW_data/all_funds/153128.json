@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 153128,
-        "scheme_name": "Edelweiss CRISIL IBX AAA Financial Services - Jan 2028 Index Fund - Direct - IDCW - Payout",
+        "scheme_name": "Edelweiss CRISIL IBX AAA Financial Services Bond - Jan 2028 Index Fund - Direct Plan - IDCW",
         "isin_growth": "INF754K01TQ8",
         "isin_div_reinvestment": "INF754K01TR6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.84800"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.85300"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.84900"

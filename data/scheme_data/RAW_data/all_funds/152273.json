@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Sectoral Fund",
         "scheme_code": 152273,
-        "scheme_name": "Groww Banking & Financial Services Fund-IDCW",
+        "scheme_name": "Groww Banking & Financial Services Fund - Direct Plan - Income Distribution cum capital withdrawal",
         "isin_growth": "INF666M01HT9",
         "isin_div_reinvestment": "INF666M01HU7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.73070"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.56960"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.60640"

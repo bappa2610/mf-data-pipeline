@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 153449,
-        "scheme_name": "Kotak Energy Opportunities Fund-Regular-Growth",
+        "scheme_name": "Kotak Energy Opportunities Fund - Regular Plan - Growth",
         "isin_growth": "INF174KA1WA6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.60700"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.57500"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.67100"

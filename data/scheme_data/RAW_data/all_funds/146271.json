@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 146271,
-        "scheme_name": "Nippon India ETF Nifty Midcap 150",
+        "scheme_name": "Nippon India ETF Nifty Midcap 150 - Direct Plan",
         "isin_growth": "INF204KB1V68",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "241.85620"
+        },
         {
             "date": "18-08-2026",
             "nav": "241.66370"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Small Cap Fund",
+        "scheme_category": "Equity Schemes - Small Cap Fund",
         "scheme_code": 148617,
-        "scheme_name": "UTI Small Cap Fund - Regular Plan - Growth Option",
+        "scheme_name": "UTI Small Cap Fund - Regular Plan - Growth",
         "isin_growth": "INF789F1AUO6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "27.87210"
+        },
         {
             "date": "18-08-2026",
             "nav": "27.89660"

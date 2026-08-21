@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Groww Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Schemes - Value Fund",
+        "scheme_category": "Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)",
         "scheme_code": 154164,
-        "scheme_name": "Groww Nifty PSE ETF FOF Direct Growth",
+        "scheme_name": "Groww Nifty PSE ETF FOF - Direct Plan - Growth",
         "isin_growth": "INF666M01NR1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "9.39940"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "9.45730"
+        },
         {
             "date": "18-08-2026",
             "nav": "9.50930"

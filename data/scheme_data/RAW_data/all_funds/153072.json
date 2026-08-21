@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 153072,
-        "scheme_name": "BAJAJ FINSERV CONSUMPTION FUND - REGULAR - GROWTH",
+        "scheme_name": "Bajaj Finserv Consumption Fund - Regular Plan - Growth",
         "isin_growth": "INF0QA701979",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "9.54600"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "9.43200"
+        },
         {
             "date": "18-08-2026",
             "nav": "9.43100"

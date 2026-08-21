@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Overnight Fund",
         "scheme_code": 154415,
-        "scheme_name": "Choice Overnight Fund - Growth Option - Regular Plan",
+        "scheme_name": "Choice Overnight Fund - Regular Plan - Growth",
         "isin_growth": "INF2KCX01095",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "21-08-2026",
+            "nav": "100.66380"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "100.63740"
+        },
         {
             "date": "18-08-2026",
             "nav": "100.62430"

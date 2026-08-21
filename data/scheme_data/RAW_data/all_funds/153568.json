@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 153568,
-        "scheme_name": "Nippon India BSE Sensex Next 30 Index Fund -Regular Plan- IDCW Payout",
+        "scheme_name": "Nippon India BSE Sensex Next 30 Index Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF204KC1FB1",
         "isin_div_reinvestment": "INF204KC1FC9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.16350"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.10720"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.16330"

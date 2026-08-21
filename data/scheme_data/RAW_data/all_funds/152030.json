@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 152030,
-        "scheme_name": "HSBC Consumption Fund - Regular IDCW",
+        "scheme_name": "HSBC Consumption Fund - Regular Plan - IDCW",
         "isin_growth": "INF336L01RD4",
         "isin_div_reinvestment": "INF336L01RE2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.62130"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "15.50960"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.53020"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 152765,
-        "scheme_name": "KOTAK NIFTY MIDCAP 50 INDEX FUND-REGULAR PLAN-GROWTH",
+        "scheme_name": "Kotak Nifty Midcap 50 Index Fund - Regular Plan - GROWTH",
         "isin_growth": "INF174KA1SO5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.12700"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.07900"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.07700"

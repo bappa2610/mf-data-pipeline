@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 148381,
-        "scheme_name": "Motilal Oswal S&P 500 Index Fund - Direct Plan Growth",
+        "scheme_name": "Motilal Oswal S&P 500 Index Fund",
         "isin_growth": "INF247L01AG2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "33.74660"
+        },
         {
             "date": "18-08-2026",
             "nav": "33.95600"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Corporate Bond Fund",
         "scheme_code": 154609,
-        "scheme_name": "Kotak Corporate Bond Fund - Direct -IDCW",
+        "scheme_name": "Kotak Corporate Bond Fund - Direct Plan - IDCW",
         "isin_growth": "INF174KA1E82",
         "isin_div_reinvestment": "INF174KA1E66"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "998.95970"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1000.67880"
+        },
         {
             "date": "18-08-2026",
             "nav": "1000.47950"

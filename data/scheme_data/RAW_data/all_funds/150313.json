@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Index Funds",
+        "scheme_category": "Index Funds - Equity Funds",
         "scheme_code": 150313,
-        "scheme_name": "UTI Nifty Midcap 150 Quality 50 Index Fund - Direct Plan - Growth Option",
+        "scheme_name": "UTI Nifty Midcap 150 Quality 50 Index Fund - Direct Plan - Growth",
         "isin_growth": "INF789F1AVH8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "14.73310"
+        },
         {
             "date": "18-08-2026",
             "nav": "14.68770"

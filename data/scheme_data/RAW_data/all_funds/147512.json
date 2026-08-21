@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Overnight Fund",
         "scheme_code": 147512,
-        "scheme_name": "LIC MF Overnight Fund-Regular Plan-IDCW",
+        "scheme_name": "LIC MF Overnight Fund - Regular Plan - IDCW",
         "isin_growth": "INF767K01PZ9",
         "isin_div_reinvestment": "INF767K01QA0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1249.04640"
+        },
         {
             "date": "18-08-2026",
             "nav": "1248.70510"

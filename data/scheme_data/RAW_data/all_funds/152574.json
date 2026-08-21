@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 152574,
-        "scheme_name": "Tata Nifty Financial Services Index Fund - Regular Plan - Growth",
+        "scheme_name": "Tata Nifty Financial Services Index Fund - Regular Plan - Growth Option",
         "isin_growth": "INF277KA1AX0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.15590"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.06780"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.11220"

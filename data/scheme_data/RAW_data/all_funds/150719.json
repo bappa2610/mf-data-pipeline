@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 150719,
-        "scheme_name": "BANDHAN TRANSPORTATION AND LOGISTICS FUND - IDCW - DIRECT PLAN",
+        "scheme_name": "BANDHAN TRANSPORTATION AND LOGISTICS FUND - Direct Plan - IDCW",
         "isin_growth": "INF194KB1EC5",
         "isin_div_reinvestment": "INF194KB1ED3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "22.56300"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "22.42000"
+        },
         {
             "date": "18-08-2026",
             "nav": "22.43000"

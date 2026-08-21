@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 153269,
-        "scheme_name": "HSBC Financial Services Fund - Direct IDCW",
+        "scheme_name": "HSBC Financial Services fund - Direct Plan - IDCW",
         "isin_growth": "INF336L01RW4",
         "isin_div_reinvestment": "INF336L01RV6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.04010"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.89650"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.87350"

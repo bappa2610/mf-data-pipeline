@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Short Duration Fund",
         "scheme_code": 150542,
-        "scheme_name": "JM Short Duration Fund (Regular) - Growth",
+        "scheme_name": "JM Short Duration Fund - Regular Plan - Growth Option",
         "isin_growth": "INF192K01MM5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.70870"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.72330"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.72010"

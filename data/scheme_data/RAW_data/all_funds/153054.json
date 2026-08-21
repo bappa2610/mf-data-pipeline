@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 153054,
-        "scheme_name": "Tata India Innovation Fund- Regular IDCW payout",
+        "scheme_name": "Tata India Innovation Fund - Regular Plan - IDCW Payout Option",
         "isin_growth": "INF277KA1CT4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.26780"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.21730"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.24840"

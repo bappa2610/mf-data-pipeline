@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Equity Savings",
         "scheme_code": 153758,
-        "scheme_name": "BAJAJ FINSERV EQUITY SAVINGS FUND - DIRECT - GROWTH",
+        "scheme_name": "Bajaj Finserv Equity Savings Fund - Direct Plan - Growth",
         "isin_growth": "INF0QA701BT9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.56300"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.55900"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.55700"

@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Solution Oriented Scheme - Retirement Fund",
         "scheme_code": 147825,
-        "scheme_name": "Axis Retirement Fund - Aggressive Plan - Direct Growth",
+        "scheme_name": "Axis Retirement Fund - Aggressive Plan - Direct Plan - Growth Option",
         "isin_growth": "INF846K01S86",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "20.63000"
+        },
         {
             "date": "18-08-2026",
             "nav": "20.60000"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 152423,
-        "scheme_name": "Axis BSE Sensex Index Fund - Regular Plan - IDCW",
+        "scheme_name": "Axis BSE Sensex Index Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF846K010V0",
         "isin_div_reinvestment": "INF846K011V8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.76790"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.68100"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.72640"

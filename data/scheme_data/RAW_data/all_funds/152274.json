@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Sectoral Fund",
         "scheme_code": 152274,
-        "scheme_name": "Groww Banking & Financial Services Fund - Regular - Growth",
+        "scheme_name": "Groww Banking & Financial Services Fund - Regular Plan - Growth",
         "isin_growth": "INF666M01HP7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.07620"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.92350"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.95920"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 151784,
-        "scheme_name": "Axis Nifty IT Index Fund - Regular Plan - IDCW",
+        "scheme_name": "Axis Nifty IT Index Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF846K011S4",
         "isin_div_reinvestment": "INF846K012S2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.56390"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.48150"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.40630"

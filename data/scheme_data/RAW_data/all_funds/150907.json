@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 150907,
-        "scheme_name": "Nippon India Nifty G-Sec Sep 2027 Maturity Index Fund-Direct Plan-IDCW Option",
+        "scheme_name": "Nippon India Nifty G-Sec Sep 2027 Maturity Index Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF204KC1899",
         "isin_div_reinvestment": "INF204KC1907"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.95960"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.96000"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.95850"

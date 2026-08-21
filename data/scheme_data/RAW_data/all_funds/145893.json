@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Arbitrage Fund",
         "scheme_code": 145893,
-        "scheme_name": "LIC MF Arbitrage Fund-Regular Plan-Weekly IDCW",
+        "scheme_name": "LIC MF Arbitrage Fund - Regular Plan - Weekly IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF767K01PM7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "14.30600"
+        },
         {
             "date": "18-08-2026",
             "nav": "14.29770"

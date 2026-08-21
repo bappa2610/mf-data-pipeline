@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Dynamic Bond",
         "scheme_code": 148308,
-        "scheme_name": "Franklin India Dynamic Accrual Fund - Segregated Portfolio 3 (9.50% Yes Bank Ltd CO 23Dec21) - Direct Growth Plan",
+        "scheme_name": "Franklin India Dynamic Accrual Fund (No. of segregated portfolios- 3) - Direct Plan - Growth",
         "isin_growth": "INF090I01WD3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "0.00000"
+        },
         {
             "date": "18-08-2026",
             "nav": "0.00000"

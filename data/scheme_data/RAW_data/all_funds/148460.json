@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
         "scheme_code": 148460,
-        "scheme_name": "NIPPON INDIA MULTI ASSET ALLOCATION FUND - IDCW Option",
+        "scheme_name": "Nippon India Multi Asset Allocation Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF204KB17V8",
         "isin_div_reinvestment": "INF204KB18V6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "24.23980"
+        },
         {
             "date": "18-08-2026",
             "nav": "24.10400"

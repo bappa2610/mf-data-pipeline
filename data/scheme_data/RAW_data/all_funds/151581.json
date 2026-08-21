@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 151581,
-        "scheme_name": "ICICI Prudential Innovation Fund - IDCW",
+        "scheme_name": "ICICI Prudential Innovation Fund - Regular Plan - IDCW",
         "isin_growth": "INF109KC10T6",
         "isin_div_reinvestment": "INF109KC11T4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "16.71000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "16.58000"
+        },
         {
             "date": "18-08-2026",
             "nav": "16.64000"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 153014,
-        "scheme_name": "SBI Nifty India Consumption Index Fund- Direct Plan- IDCW Payout",
+        "scheme_name": "SBI Nifty India Consumption Index Fund - Direct Plan - IDCW",
         "isin_growth": "INF200KB1456",
         "isin_div_reinvestment": "INF200KB1464"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.54690"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.47670"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.49250"

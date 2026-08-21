@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
         "scheme_code": 149715,
-        "scheme_name": "Sundaram Balanced Advantage Fund (Formerly Known as Principal Balanced Advantage Fund) - Growth Option",
+        "scheme_name": "Sundaram Balanced Advantage Fund (Formerly Known as Principal Balanced Advantage Fund) - Regular Plan - GROWTH",
         "isin_growth": "INF173K01585",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "35.80440"
+        },
         {
             "date": "18-08-2026",
             "nav": "35.71700"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Other  ETFs",
+        "scheme_category": "Exchange Traded Funds (ETFs) - Equity ETF",
         "scheme_code": 148173,
-        "scheme_name": "UTI Nifty Bank ETF",
+        "scheme_name": "UTI Nifty Bank ETF - Direct Plan - Growth",
         "isin_growth": "INF789F1AUV1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "59.56190"
+        },
         {
             "date": "18-08-2026",
             "nav": "59.32100"

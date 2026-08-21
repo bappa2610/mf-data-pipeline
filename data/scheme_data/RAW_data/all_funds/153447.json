@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 153447,
-        "scheme_name": "Kotak Energy Opportunities Fund-Direct-Growth",
+        "scheme_name": "Kotak Energy Opportunities Fund - Direct Plan - Growth",
         "isin_growth": "INF174KA1VX0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.82200"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.78900"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.88700"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Index Funds - Equity Funds",
         "scheme_code": 153709,
-        "scheme_name": "Groww Nifty 50 Index Fund Direct IDCW",
+        "scheme_name": "Groww Nifty 50 Index Fund - Direct Plan - Income Distribution cum capital withdrawal",
         "isin_growth": "INF666M01KU1",
         "isin_div_reinvestment": "INF666M01KV9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "9.72520"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "9.66380"
+        },
         {
             "date": "18-08-2026",
             "nav": "9.69460"

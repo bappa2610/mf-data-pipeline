@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 154130,
-        "scheme_name": "Bandhan Gold ETF FOF-Regular-Growth",
+        "scheme_name": "Bandhan Gold ETF FOF - Regular Plan - Growth",
         "isin_growth": "INF194KB1KK5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.15210"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "9.90990"
+        },
         {
             "date": "18-08-2026",
             "nav": "9.97670"

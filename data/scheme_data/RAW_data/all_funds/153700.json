@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Overnight Fund",
         "scheme_code": 153700,
-        "scheme_name": "360 ONE Overnight Fund - Regular Plan - Growth",
+        "scheme_name": "360 ONE Overnight Fund - Regular Plan - GROWTH Option",
         "isin_growth": "INF579M01BD1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1059.25160"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1059.11020"
+        },
         {
             "date": "18-08-2026",
             "nav": "1058.97030"

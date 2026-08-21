@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Overnight Fund",
         "scheme_code": 153021,
-        "scheme_name": "Samco Overnight Fund - Unclaimed Redemption Upto 3 years",
+        "scheme_name": "Samco Overnight Fund",
         "isin_growth": null,
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1096.74370"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1096.60590"
+        },
         {
             "date": "18-08-2026",
             "nav": "1096.46540"

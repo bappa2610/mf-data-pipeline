@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Dynamic Term Fund",
         "scheme_code": 149027,
-        "scheme_name": "ITI Dynamic Term Fund - Regular Plan - Annually IDCWOption",
+        "scheme_name": "ITI Dynamic Term Fund - Regular Plan - Annually IDCW Option",
         "isin_growth": "INF00XX01BB6",
         "isin_div_reinvestment": "INF00XX01AX2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.82050"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.83570"

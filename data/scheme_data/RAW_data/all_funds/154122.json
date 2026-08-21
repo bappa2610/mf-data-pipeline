@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 154122,
-        "scheme_name": "Mahindra Manulife Innovation Opportunities Fund - Direct - IDCW",
+        "scheme_name": "Mahindra Manulife Innovation Opportunities Fund - Direct Plan - IDCW",
         "isin_growth": "INF174V01DC0",
         "isin_div_reinvestment": "INF174V01DB2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.31050"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.25180"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.31590"

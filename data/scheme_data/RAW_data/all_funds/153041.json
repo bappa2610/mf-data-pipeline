@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Arbitrage Fund",
         "scheme_code": 153041,
-        "scheme_name": "Franklin India Arbitrage Fund - Direct - IDCW",
+        "scheme_name": "Franklin India Arbitrage Fund - Direct Plan - IDCW",
         "isin_growth": "INF090I01XU5",
         "isin_div_reinvestment": "INF090I01XT7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.27010"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.27660"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.26080"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 152871,
-        "scheme_name": "Kotak Nifty India Tourism Index Fund-Regular Plan-IDCW Option",
+        "scheme_name": "Kotak Nifty India Tourism Index Fund - Regular Plan - IDCW",
         "isin_growth": "INF174KA1TD6",
         "isin_div_reinvestment": "INF174KA1TE4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "8.58000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "8.54100"
+        },
         {
             "date": "18-08-2026",
             "nav": "8.53400"

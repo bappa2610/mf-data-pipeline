@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 152775,
-        "scheme_name": "SBI Innovative Opportunities Fund - Regular Plan - Income Distribution Cum Capital Withdrawal Option",
+        "scheme_name": "SBI Innovative Opportunities Fund - Regular Plan - IDCW",
         "isin_growth": "INF200KB1308",
         "isin_div_reinvestment": "INF200KB1316"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.72580"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.59750"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.53280"

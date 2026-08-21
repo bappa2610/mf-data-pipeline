@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Schemes - Arbitrage Fund",
         "scheme_code": 151134,
-        "scheme_name": "HSBC Arbitrage Fund - Regular Growth",
+        "scheme_name": "HSBC Arbitrage Fund - Regular Plan - Growth",
         "isin_growth": "INF917K01QL8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "20.26290"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "20.28000"
+        },
         {
             "date": "18-08-2026",
             "nav": "20.24630"

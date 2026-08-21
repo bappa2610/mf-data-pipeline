@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
         "scheme_code": 152467,
-        "scheme_name": "Parag Parikh Dynamic Asset Allocation Fund - Regular Plan - Monthly IDCW Reinvestment",
+        "scheme_name": "Parag Parikh Dynamic Asset Allocation Fund",
         "isin_growth": null,
         "isin_div_reinvestment": "INF879O01258"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.03740"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.04000"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.05510"

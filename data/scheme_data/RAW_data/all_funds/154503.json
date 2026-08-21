@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "ICICI Prudential Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Schemes - Value Fund",
+        "scheme_category": "Exchange Traded Funds (ETFs) - Other ETF",
         "scheme_code": 154503,
         "scheme_name": "ICICI Prudential BSE Insurance ETF",
         "isin_growth": "INF109K1A567",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.47770"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "15.41650"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.44410"

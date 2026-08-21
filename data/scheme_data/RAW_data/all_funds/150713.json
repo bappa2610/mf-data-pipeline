@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 150713,
-        "scheme_name": "SBI CRISIL IBX SDL Index - September 2027 Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI CRISIL IBX SDL Index - September 2027 Fund - Direct Plan - IDCW",
         "isin_growth": "INF200KA15R0",
         "isin_div_reinvestment": "INF200KA16R8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.26900"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.26840"

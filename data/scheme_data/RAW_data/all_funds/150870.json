@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 150870,
-        "scheme_name": "BANDHAN CRISIL IBX 90:10 SDL PLUS GILT - NOV 2026 INDEX FUND - REGULAR IDCW",
+        "scheme_name": "BANDHAN CRISIL IBX 90:10 SDL PLUS GILT - NOV 2026 INDEX FUND - Regular Plan - IDCW",
         "isin_growth": "INF194KB1EX1",
         "isin_div_reinvestment": "INF194KB1EY9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.46470"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.46360"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.46190"

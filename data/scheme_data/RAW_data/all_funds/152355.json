@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Other  ETFs",
+        "scheme_category": "Exchange Traded Funds (ETFs) - Equity ETF",
         "scheme_code": 152355,
-        "scheme_name": "UTI Nifty IT ETF",
+        "scheme_name": "UTI Nifty IT ETF - Direct Plan - Growth",
         "isin_growth": "INF789F1AZD8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "322.80590"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "320.28800"
+        },
         {
             "date": "18-08-2026",
             "nav": "317.98370"

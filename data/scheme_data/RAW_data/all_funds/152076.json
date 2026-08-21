@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Balanced Hybrid Fund",
         "scheme_code": 152076,
-        "scheme_name": "360 ONE Balanced Hybrid Fund- Direct Plan - Growth",
+        "scheme_name": "360 ONE Balanced Hybrid Fund - Direct Plan - GROWTH Option",
         "isin_growth": "INF579M01AY9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.88570"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.84460"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.85990"

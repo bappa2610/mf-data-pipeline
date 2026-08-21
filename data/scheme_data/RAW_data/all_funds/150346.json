@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Flexi Cap Fund",
         "scheme_code": 150346,
-        "scheme_name": "WhiteOak Capital Flexi Cap Fund Direct Plan-Growth",
+        "scheme_name": "WhiteOak Capital Flexi Cap Fund - Direct Plan - Growth Option",
         "isin_growth": "INF03VN01530",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "19.44900"
+        },
         {
             "date": "18-08-2026",
             "nav": "19.39200"

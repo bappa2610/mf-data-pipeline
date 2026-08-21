@@ -4,11 +4,15 @@
         "scheme_type": "Close Ended Schemes",
         "scheme_category": "Income",
         "scheme_code": 146800,
-        "scheme_name": "ICICI Prudential Fixed Maturity Plan - Series 85 - 10 Years Plan I - Quarterly IDCW Option",
+        "scheme_name": "ICICI Prudential Fixed Maturity Plan - Series 85 - 10 Years Plan I",
         "isin_growth": "INF109KC1VR0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "17.53570"
+        },
         {
             "date": "18-08-2026",
             "nav": "17.54100"

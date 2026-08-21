@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 153885,
-        "scheme_name": "THE WEALTH COMPANY LIQUID FUND REGULAR WEEKLY IDCW",
+        "scheme_name": "The Wealth Company Liquid Fund - Regular Plan - Weekly IDCW",
         "isin_growth": "INF2F0001180",
         "isin_div_reinvestment": "INF2F0001172"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1002.36280"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1002.28250"
+        },
         {
             "date": "18-08-2026",
             "nav": "1002.11880"

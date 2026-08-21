@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Index Funds",
+        "scheme_category": "Index Funds - Debt Funds",
         "scheme_code": 153635,
         "scheme_name": "Mirae Asset CRISIL-IBX Financial Services 9-12 Months Debt Index Fund - Direct Plan - IDCW",
         "isin_growth": "INF769K01OU9",
         "isin_div_reinvestment": "INF769K01OT1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.73220"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.73790"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.73560"

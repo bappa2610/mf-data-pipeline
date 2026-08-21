@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Long Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Long Term Fund",
         "scheme_code": 153107,
         "scheme_name": "Mirae Asset Long Duration Fund - Regular Plan - Growth",
         "isin_growth": "INF769K01MZ2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.50330"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.55880"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.56270"

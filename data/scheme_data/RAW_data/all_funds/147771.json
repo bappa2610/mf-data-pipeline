@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
         "scheme_code": 147771,
-        "scheme_name": "LIC MF Ultra Short Duration Fund-Direct Plan-Daily IDCW",
+        "scheme_name": "LIC MF Ultra Short Duration Fund - Direct Plan - Daily IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF767K01QP8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1101.84850"
+        },
         {
             "date": "18-08-2026",
             "nav": "1102.13170"

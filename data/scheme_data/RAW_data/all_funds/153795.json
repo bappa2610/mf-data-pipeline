@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 153795,
-        "scheme_name": "Baroda BNP Paribas Gold ETF Fund of Funds Direct Growth",
+        "scheme_name": "Baroda BNP Paribas Gold ETF Fund of Fund - Direct Plan - Growth Option",
         "isin_growth": "INF251K01VF4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.52970"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "15.11960"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.19140"

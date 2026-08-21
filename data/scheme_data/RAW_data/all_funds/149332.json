@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 149332,
-        "scheme_name": "ICICI Prudential BSE 500 ETF FOF - IDCW",
+        "scheme_name": "ICICI Prudential BSE 500 ETF FOF - Regular Plan - IDCW",
         "isin_growth": "INF109KC1V75",
         "isin_div_reinvestment": "INF109KC1V83"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.81900"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.84330"

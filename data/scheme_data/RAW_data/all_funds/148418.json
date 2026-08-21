@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Banking and PSU Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Banking and PSU Debt Fund",
         "scheme_code": 148418,
-        "scheme_name": "Mirae Asset Banking and PSU Fund - Regular plan - IDCW",
+        "scheme_name": "Mirae Asset Banking and PSU Fund - Regular Plan - IDCW",
         "isin_growth": "INF769K01FU7",
         "isin_div_reinvestment": "INF769K01FW3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.64810"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.66690"

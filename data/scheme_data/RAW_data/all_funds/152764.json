@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Groww Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Schemes - Value Fund",
+        "scheme_category": "Exchange Traded Funds (ETFs) - Other ETF",
         "scheme_code": 152764,
-        "scheme_name": "GROWW NIFTY EV & NEW AGE AUTOMOTIVE ETF",
+        "scheme_name": "Groww Nifty EV & New Age Automotive ETF",
         "isin_growth": "INF666M01IH2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "33.80920"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "33.77880"
+        },
         {
             "date": "18-08-2026",
             "nav": "34.03020"

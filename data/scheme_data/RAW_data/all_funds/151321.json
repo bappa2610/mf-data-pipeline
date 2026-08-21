@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Corporate Bond Fund",
         "scheme_code": 151321,
-        "scheme_name": "TRUSTMF CORPORATE BOND FUND-DIRECT PLAN-MONTHLY IDCW",
+        "scheme_name": "TRUSTMF CORPORATE BOND FUND - Direct Plan - Monthly IDCW",
         "isin_growth": "INF0GCD01586",
         "isin_div_reinvestment": "INF0GCD01578"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1188.56400"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1190.20460"
+        },
         {
             "date": "18-08-2026",
             "nav": "1189.88010"

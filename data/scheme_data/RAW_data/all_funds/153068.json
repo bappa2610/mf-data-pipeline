@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 153068,
-        "scheme_name": "ICICI Prudential Equity Minimum Variance Fund - IDCW",
+        "scheme_name": "ICICI Prudential Equity Minimum Variance Fund - Regular Plan - IDCW",
         "isin_growth": "INF109KC19X9",
         "isin_div_reinvestment": "INF109KC18X1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.57000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.50000"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.53000"

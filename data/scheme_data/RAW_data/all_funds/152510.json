@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation",
         "scheme_code": 152510,
-        "scheme_name": "Helios Balanced Advantage Fund- Regular Plan-IDCW Option",
+        "scheme_name": "Helios Balanced Advantage Fund - Regular Plan - IDCW",
         "isin_growth": "INF0R8701129",
         "isin_div_reinvestment": "INF0R8701137"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.56000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.49000"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.51000"

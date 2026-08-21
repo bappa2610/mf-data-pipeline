@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 153864,
-        "scheme_name": "ICICI Prudential Conglomerate Fund - IDCW",
+        "scheme_name": "ICICI Prudential Conglomerate Fund - Regular Plan - IDCW",
         "isin_growth": "INF109K1A419",
         "isin_div_reinvestment": "INF109K1A401"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.55000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.49000"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.55000"

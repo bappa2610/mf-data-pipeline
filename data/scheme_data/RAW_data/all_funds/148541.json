@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 148541,
-        "scheme_name": "SBI Nifty Private Bank ETF",
+        "scheme_name": "SBI Nifty Private Bank ETF - Regular Plan - IDCW",
         "isin_growth": "INF200KA1S22",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "280.85680"
+        },
         {
             "date": "18-08-2026",
             "nav": "278.80330"

@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Overnight Fund",
         "scheme_code": 146978,
-        "scheme_name": "TATA Overnight Fund Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option   ",
+        "scheme_name": "Tata Overnight Fund - Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option",
         "isin_growth": null,
         "isin_div_reinvestment": "INF277K019T3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1000.00020"
+        },
         {
             "date": "18-08-2026",
             "nav": "1000.00010"

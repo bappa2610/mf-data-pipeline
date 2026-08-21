@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 152813,
-        "scheme_name": "DSP Nifty Top 10 Equal Weight Index Fund - Regular - Growth",
+        "scheme_name": "DSP Nifty Top 10 Equal Weight Index Fund - Regular Plan - Growth",
         "isin_growth": "INF740KA1UP3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "8.90500"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "8.82090"
+        },
         {
             "date": "18-08-2026",
             "nav": "8.85000"

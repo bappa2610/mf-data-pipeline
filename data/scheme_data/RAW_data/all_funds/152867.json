@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 152867,
-        "scheme_name": "Kotak CRISIL-IBX AAA Financial Services Index Sep-2027 Fund-REGULAR PLAN-IDCW",
+        "scheme_name": "Kotak CRISIL-IBX AAA Financial Services Index-Sep 2027 Fund - Regular Plan - IDCW",
         "isin_growth": "INF174KA1SX6",
         "isin_div_reinvestment": "INF174KA1SY4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.50620"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.51070"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.50790"

@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 150467,
-        "scheme_name": "ICICI Prudential Nifty IT Index Fund - IDCW",
+        "scheme_name": "ICICI Prudential Nifty IT Index Fund - Regular Plan - IDCW",
         "isin_growth": "INF109KC11E6",
         "isin_div_reinvestment": "INF109KC12E4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.67130"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.51220"

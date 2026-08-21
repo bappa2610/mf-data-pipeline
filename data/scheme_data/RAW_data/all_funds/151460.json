@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 151460,
-        "scheme_name": "HDFC MNC Fund - IDCW Option - Direct Plan",
+        "scheme_name": "HDFC MNC Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF179KC1FD8",
         "isin_div_reinvestment": "INF179KC1FE6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "14.88200"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "14.85100"
+        },
         {
             "date": "18-08-2026",
             "nav": "14.94400"

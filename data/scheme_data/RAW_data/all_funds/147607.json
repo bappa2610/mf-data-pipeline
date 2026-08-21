@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Overnight Fund",
         "scheme_code": 147607,
-        "scheme_name": "PGIM India Overnight Fund - Regular Plan - Weekly Dividend Option",
+        "scheme_name": "PGIM India Overnight Fund - Regular Plan - Regular IDCW",
         "isin_growth": "INF663L01T50",
         "isin_div_reinvestment": "INF663L01T68"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1007.57720"
+        },
         {
             "date": "18-08-2026",
             "nav": "1007.30750"

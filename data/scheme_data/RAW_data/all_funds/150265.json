@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Focused Fund",
         "scheme_code": 150265,
-        "scheme_name": "BARODA BNP PARIBAS Focused Fund - Direct Plan - IDCW Option",
+        "scheme_name": "Baroda BNP Paribas Focused Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF251K01PO8",
         "isin_div_reinvestment": "INF251K01PP5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "16.32920"
+        },
         {
             "date": "18-08-2026",
             "nav": "16.27920"

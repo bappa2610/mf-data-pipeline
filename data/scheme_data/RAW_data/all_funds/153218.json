@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 153218,
-        "scheme_name": "DSP BSE SENSEX Next 30 Index Fund - Direct - IDCW",
+        "scheme_name": "DSP BSE SENSEX Next 30 Index Fund - Direct Plan - IDCW",
         "isin_growth": "INF740KA1VC9",
         "isin_div_reinvestment": "INF740KA1VD7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.46750"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.40450"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.46700"

@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Index Funds",
+        "scheme_category": "Index Funds - Equity Funds",
         "scheme_code": 154197,
-        "scheme_name": "UTI Nifty500 Shariah Index Fund - Direct Plan Growth Option",
+        "scheme_name": "UTI Nifty500 Shariah Index Fund - Direct Plan - Growth",
         "isin_growth": "INF789F1AD04",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.25470"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.21590"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.24870"

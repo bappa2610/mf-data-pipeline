@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Overnight Fund",
         "scheme_code": 149827,
-        "scheme_name": "JM Overnight Fund - (Direct) - Unclaimed IDCW I.E.F. - Growth Plan",
+        "scheme_name": "JM Overnight Fund - Direct Plan - Unclaimed IDCW I.E.F - Growth Plan",
         "isin_growth": "INF192K01ML7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1073.99360"
+        },
         {
             "date": "18-08-2026",
             "nav": "1073.99360"

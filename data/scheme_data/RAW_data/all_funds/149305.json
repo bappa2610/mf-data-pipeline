@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Multi Cap Fund",
         "scheme_code": 149305,
-        "scheme_name": "BANDHAN MULTI CAP FUND - GROWTH - REGULAR PLAN",
+        "scheme_name": "BANDHAN MULTI CAP FUND - Regular Plan - Growth",
         "isin_growth": "INF194KB1CI6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "17.72500"
+        },
         {
             "date": "18-08-2026",
             "nav": "17.69800"

@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Flexi Cap Fund",
         "scheme_code": 150348,
-        "scheme_name": "WhiteOak Capital Flexi Cap Fund Regular Plan IDCW",
+        "scheme_name": "WhiteOak Capital Flexi Cap Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF03VN01522",
         "isin_div_reinvestment": "INF03VN01514"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "18.34600"
+        },
         {
             "date": "18-08-2026",
             "nav": "18.29300"

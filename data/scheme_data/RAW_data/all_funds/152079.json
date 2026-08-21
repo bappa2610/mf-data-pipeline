@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Arbitrage Fund",
         "scheme_code": 152079,
-        "scheme_name": "Bajaj Finserv Arbitrage Fund-Regular Plan-IDCW",
+        "scheme_name": "Bajaj Finserv Arbitrage Fund - Regular Plan - IDCW",
         "isin_growth": "INF0QA701508",
         "isin_div_reinvestment": "INF0QA701516"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.96500"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.97500"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.95500"

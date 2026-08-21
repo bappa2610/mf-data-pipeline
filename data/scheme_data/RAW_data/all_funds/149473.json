@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 149473,
-        "scheme_name": "SBI CPSE Bond Plus SDL Sep 2026 50:50 Index Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI CPSE Bond Plus SDL Sep 2026 50:50 Index Fund - Regular Plan - IDCW",
         "isin_growth": "INF200KA11D9",
         "isin_div_reinvestment": "INF200KA12D7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.08870"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.08430"

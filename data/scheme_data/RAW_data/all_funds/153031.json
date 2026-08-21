@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 153031,
-        "scheme_name": "Aditya Birla Sun Life Crisil-IBX AAA Financial Services Index-Sep 2027 Fund-Direct IDCW Payout",
+        "scheme_name": "Aditya Birla Sun Life Crisil-IBX AAA Financial Services Index-Sep 2027 Fund - Direct Plan - IDCW Payout",
         "isin_growth": "INF209KC1308",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.37960"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.38540"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.38350"

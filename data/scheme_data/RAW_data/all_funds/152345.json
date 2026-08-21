@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
+        "scheme_category": "Hybrid Schemes - Multi Asset Allocation Fund",
         "scheme_code": 152345,
         "scheme_name": "Mirae Asset Multi Asset Allocation Fund - Direct Plan - IDCW",
         "isin_growth": "INF769K01LA7",
         "isin_div_reinvestment": "INF769K01LB5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "14.27000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "14.18000"
+        },
         {
             "date": "18-08-2026",
             "nav": "14.22600"

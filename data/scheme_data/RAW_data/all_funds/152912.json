@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 152912,
-        "scheme_name": "KotaK MNC Fund-Regular Plan-IDCW OPTION",
+        "scheme_name": "Kotak MNC Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF174KA1TK1",
         "isin_div_reinvestment": "INF174KA1TL9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.64600"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.64800"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.74200"

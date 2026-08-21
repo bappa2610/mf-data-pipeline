@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 151913,
-        "scheme_name": "quant Manufacturing Fund - Growth Option - Regular Plan",
+        "scheme_name": "quant Manufacturing Fund - Regular Plan - Growth Option",
         "isin_growth": "INF966L01CN9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "16.69650"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "16.63360"
+        },
         {
             "date": "18-08-2026",
             "nav": "16.68920"

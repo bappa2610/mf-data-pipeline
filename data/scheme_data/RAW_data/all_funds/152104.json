@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Solution Oriented Scheme - Retirement Fund",
         "scheme_code": 152104,
-        "scheme_name": "Bandhan Retirement Fund - Direct Plan - IDCW",
+        "scheme_name": "BANDHAN RETIREMENT FUND - Direct Plan - IDCW",
         "isin_growth": "INF194KB1GV0",
         "isin_div_reinvestment": "INF194KB1GW8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.32700"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.30500"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.35500"

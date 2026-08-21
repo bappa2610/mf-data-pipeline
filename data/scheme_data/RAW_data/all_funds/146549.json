@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Large Cap Fund",
         "scheme_code": 146549,
-        "scheme_name": "Mahindra Manulife Large Cap Fund - Direct Plan -Growth",
+        "scheme_name": "Mahindra Manulife Large Cap Fund - Direct Plan - Growth",
         "isin_growth": "INF174V01721",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "25.58600"
+        },
         {
             "date": "18-08-2026",
             "nav": "25.54490"

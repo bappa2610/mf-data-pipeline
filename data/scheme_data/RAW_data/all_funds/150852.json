@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 150852,
-        "scheme_name": "Axis Nifty SDL September 2026 Debt Index Fund - Direct Plan - IDCW",
+        "scheme_name": "Axis Nifty SDL September 2026 Debt Index Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF846K019K4",
         "isin_div_reinvestment": "INF846K010L1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.99340"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.99170"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.98960"

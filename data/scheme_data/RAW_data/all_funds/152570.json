@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 152570,
-        "scheme_name": "Tata Nifty Realty Index Fund - Direct Plan - Growth",
+        "scheme_name": "Tata Nifty Realty Index Fund - Direct Plan - Growth Option",
         "isin_growth": "INF277KA1AO9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "9.33210"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "9.20230"
+        },
         {
             "date": "18-08-2026",
             "nav": "9.20690"

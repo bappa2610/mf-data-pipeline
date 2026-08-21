@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Overnight Fund",
         "scheme_code": 147459,
-        "scheme_name": "Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment)",
+        "scheme_name": "Groww Overnight Fund - Regular Plan - Monthly - Income Distribution cum capital withdrawal",
         "isin_growth": "INF666M01GZ8",
         "isin_div_reinvestment": "INF666M01HA9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1003.66760"
+        },
         {
             "date": "18-08-2026",
             "nav": "1003.41080"

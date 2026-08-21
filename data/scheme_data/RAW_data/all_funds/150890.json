@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 150890,
-        "scheme_name": "BANDHAN CRISIL IBX 90:10 SDL PLUS GILT SEP27 INDEX FUND - REGULAR GROWTH",
+        "scheme_name": "BANDHAN CRISIL IBX 90:10 SDL PLUS GILT - SEPTEMBER 2027 INDEX FUND - Regular Plan - Growth",
         "isin_growth": "INF194KB1FC2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.03020"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.03360"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.02970"

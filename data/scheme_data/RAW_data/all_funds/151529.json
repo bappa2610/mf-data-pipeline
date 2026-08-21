@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Long Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Long Term Fund",
         "scheme_code": 151529,
-        "scheme_name": "UTI Long Duration Fund - Regular Plan - Half Yearly IDCW Option",
+        "scheme_name": "UTI Long Duration Fund - Regular Plan - Half yearly IDCW",
         "isin_growth": "INF789F1AXV5",
         "isin_div_reinvestment": "INF789F1AXW3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.00850"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.06370"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.06820"

@@ -4,11 +4,19 @@
         "scheme_type": "Close Ended Schemes",
         "scheme_category": "Income",
         "scheme_code": 151449,
-        "scheme_name": "DSP FMP Series - 270 - 1172 Days - Direct - Growth",
+        "scheme_name": "DSP FMP Series - 270 - 1172 Days",
         "isin_growth": "INF740KA1YR1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.81160"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.82100"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.81430"

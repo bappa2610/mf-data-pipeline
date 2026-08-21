@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Low Duration Fund",
         "scheme_code": 154202,
-        "scheme_name": "Bajaj Finserv Low Duration Fund - Direct - IDCW",
+        "scheme_name": "Bajaj Finserv Low Duration Fund - Direct Plan - IDCW",
         "isin_growth": "INF0QA701CG4",
         "isin_div_reinvestment": "INF0QA701CH2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1032.51390"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1033.17700"
+        },
         {
             "date": "18-08-2026",
             "nav": "1032.80410"

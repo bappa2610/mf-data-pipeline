@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
         "scheme_code": 151712,
-        "scheme_name": "quant Dynamic Asset Allocation Fund - IDCW Option - Direct Plan",
+        "scheme_name": "quant Dynamic Asset Allocation Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF966L01BM3",
         "isin_div_reinvestment": "INF966L01BN1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "17.13220"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "17.15610"
+        },
         {
             "date": "18-08-2026",
             "nav": "17.23390"

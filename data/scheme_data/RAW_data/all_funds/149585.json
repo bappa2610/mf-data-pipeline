@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Short Duration Fund",
         "scheme_code": 149585,
-        "scheme_name": "Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund)- Growth Plan",
+        "scheme_name": "Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund) - Regular Plan - GROWTH",
         "isin_growth": "INF173K01BA3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "47.02250"
+        },
         {
             "date": "18-08-2026",
             "nav": "47.06330"

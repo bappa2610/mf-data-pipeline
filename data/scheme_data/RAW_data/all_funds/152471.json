@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 152471,
-        "scheme_name": "Baroda BNP Paribas Innovation Fund Direct plan - IDCW Option",
+        "scheme_name": "Baroda BNP Paribas Innovation Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF251K01TF8",
         "isin_div_reinvestment": "INF251K01TG6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "14.35630"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "14.25350"
+        },
         {
             "date": "18-08-2026",
             "nav": "14.34040"

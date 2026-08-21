@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 153884,
-        "scheme_name": "THE WEALTH COMPANY LIQUID FUND DIRECT MONTHLY IDCW",
+        "scheme_name": "The Wealth Company Liquid Fund - Direct Plan - Monthly IDCW",
         "isin_growth": "INF2F0001107",
         "isin_div_reinvestment": "INF2F0001099"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1006.34740"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1006.26200"
+        },
         {
             "date": "18-08-2026",
             "nav": "1006.09270"

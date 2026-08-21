@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Arbitrage Fund",
         "scheme_code": 153186,
-        "scheme_name": "Motilal Oswal Arbitrage Fund-Regular Plan-IDCW",
+        "scheme_name": "Motilal Oswal Arbitrage Fund",
         "isin_growth": "INF247L01EH2",
         "isin_div_reinvestment": "INF247L01EI0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.89740"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.89680"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.89000"

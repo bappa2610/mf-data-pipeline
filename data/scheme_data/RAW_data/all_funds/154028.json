@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Groww Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Schemes - Value Fund",
+        "scheme_category": "Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)",
         "scheme_code": 154028,
-        "scheme_name": "Groww Multi Asset Omni FOF Direct Growth",
+        "scheme_name": "Groww Multi Asset Omni FOF - Direct Plan - Growth",
         "isin_growth": "INF666M01NC3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.58990"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.50020"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.55270"

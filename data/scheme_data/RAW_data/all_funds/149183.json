@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Multi Cap Fund",
         "scheme_code": 149183,
-        "scheme_name": "Kotak Multicap Fund- Regular Plan -IDCW Option",
+        "scheme_name": "Kotak Multicap Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF174KA1HT7",
         "isin_div_reinvestment": "INF174KA1HU5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "18.66200"
+        },
         {
             "date": "18-08-2026",
             "nav": "18.66400"

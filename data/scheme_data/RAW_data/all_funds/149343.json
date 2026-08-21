@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 149343,
-        "scheme_name": "Edelweiss NIFTY Large Midcap 250 Index Fund - Direct Plan Growth",
+        "scheme_name": "Edelweiss NIFTY Large Midcap 250 Index Fund - Direct Plan - Growth",
         "isin_growth": "INF754K01NR9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "17.62270"
+        },
         {
             "date": "18-08-2026",
             "nav": "17.59350"

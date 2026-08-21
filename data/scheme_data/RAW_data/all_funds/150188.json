@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large Cap Fund",
         "scheme_code": 150188,
-        "scheme_name": "BARODA BNP PARIBAS LARGE CAP Fund - Direct Plan - IDCW Option",
+        "scheme_name": "BARODA BNP PARIBAS LARGE CAP FUND - Direct Plan - IDCW Option",
         "isin_growth": "INF251K01HL1",
         "isin_div_reinvestment": "INF251K01HM9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "26.67850"
+        },
         {
             "date": "18-08-2026",
             "nav": "26.64150"

@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Groww Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Schemes - Value Fund",
+        "scheme_category": "Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)",
         "scheme_code": 153747,
-        "scheme_name": "Groww BSE Power ETF FOF Regular IDCW",
+        "scheme_name": "Groww BSE Power ETF FOF - Regular Plan - Income Distribution cum capital withdrawal",
         "isin_growth": "INF666M01LR5",
         "isin_div_reinvestment": "INF666M01LS3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.47490"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.42480"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.57670"

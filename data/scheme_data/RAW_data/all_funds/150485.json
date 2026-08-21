@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Long Duration Fund",
         "scheme_code": 150485,
-        "scheme_name": "Aditya Birla Sun Life Long Duration Fund-Direct IDCW Payout",
+        "scheme_name": "Aditya Birla Sun Life Long Duration Fund - Direct Plan - IDCW",
         "isin_growth": "INF209KB18J0",
         "isin_div_reinvestment": "INF209KB19J8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.02590"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.05650"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.05390"

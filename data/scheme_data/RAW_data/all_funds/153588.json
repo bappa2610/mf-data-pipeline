@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 153588,
-        "scheme_name": "DSP Nifty IT Index Fund - Regular - Growth",
+        "scheme_name": "DSP Nifty IT Index Fund - Regular Plan - Growth",
         "isin_growth": "INF740KA1WI4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "7.98190"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "7.91970"
+        },
         {
             "date": "18-08-2026",
             "nav": "7.86290"

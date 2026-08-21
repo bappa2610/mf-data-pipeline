@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 145969,
-        "scheme_name": "WhiteOak Capital Liquid Fund- Direct plan-Daily Reinvestment of Income Distribution cum capital withdrawal option (IDCW)",
+        "scheme_name": "WhiteOak Capital Liquid Fund - Direct Plan - Daily IDCW Reinvestment Option",
         "isin_growth": null,
         "isin_div_reinvestment": "INF03VN01019"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1001.90250"
+        },
         {
             "date": "18-08-2026",
             "nav": "1001.90250"

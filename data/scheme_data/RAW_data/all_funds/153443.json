@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 153443,
-        "scheme_name": "Aditya Birla Sun Life Crisil-IBX Financial Services 9-12 Months Debt Index Fund-Direct Growth",
+        "scheme_name": "Aditya Birla Sun Life Crisil-IBX Financial Services 9-12 Months Debt Index Fund - Direct Plan - GROWTH",
         "isin_growth": "INF209KC1498",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.01800"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.02370"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.02160"

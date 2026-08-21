@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 152057,
-        "scheme_name": "HDFC Technology Fund - IDCW Option",
+        "scheme_name": "HDFC Technology Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF179KC1HG7",
         "isin_div_reinvestment": "INF179KC1HH5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.95100"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.88500"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.81700"

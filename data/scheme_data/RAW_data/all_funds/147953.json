@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Overnight Fund",
         "scheme_code": 147953,
-        "scheme_name": "BANK OF INDIA Overnight Fund Regular Plan- Daily IDCW",
+        "scheme_name": "BANK OF INDIA OVERNIGHT FUND - Regular Plan - Daily IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF761K01FA6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1000.00020"
+        },
         {
             "date": "18-08-2026",
             "nav": "1000.00000"

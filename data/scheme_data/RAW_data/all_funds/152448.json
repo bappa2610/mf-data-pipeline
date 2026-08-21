@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 152448,
-        "scheme_name": "Canara Robeco Manufacturing Fund -Regular Plan - IDWC Option",
+        "scheme_name": "Canara Robeco Manufacturing Fund - Regular Plan - IDWC Option",
         "isin_growth": "INF760K01KW2",
         "isin_div_reinvestment": "INF760K01KV4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "14.22000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "14.20000"
+        },
         {
             "date": "18-08-2026",
             "nav": "14.31000"

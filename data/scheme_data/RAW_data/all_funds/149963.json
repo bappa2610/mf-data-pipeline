@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Index Funds - Debt Funds",
         "scheme_code": 149963,
-        "scheme_name": "HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Regular - Growth",
+        "scheme_name": "HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Regular Plan - Growth",
         "isin_growth": "INF336L01QK1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.23380"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.24180"

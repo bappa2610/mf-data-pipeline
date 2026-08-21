@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Small Cap Fund",
         "scheme_code": 152003,
-        "scheme_name": "LIC MF Small Cap Fund-Regular Plan-Growth",
+        "scheme_name": "LIC MF Small Cap Fund - Regular Plan - Growth",
         "isin_growth": "INF397L01JW3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "35.10910"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "34.85380"
+        },
         {
             "date": "18-08-2026",
             "nav": "34.94810"

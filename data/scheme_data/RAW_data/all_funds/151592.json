@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Index Funds - Debt Funds",
         "scheme_code": 151592,
-        "scheme_name": "Invesco India Nifty G-sec Jul 2027 Index Fund - Direct Plan - IDCW Payout",
+        "scheme_name": "Invesco India Nifty G-sec Jul 2027 Index Fund - Direct Plan - IDCW",
         "isin_growth": "INF205KA1783",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1275.83020"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1275.81800"
+        },
         {
             "date": "18-08-2026",
             "nav": "1275.63100"

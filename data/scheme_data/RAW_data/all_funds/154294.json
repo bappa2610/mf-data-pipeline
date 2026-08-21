@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Gold ETF",
         "scheme_code": 154294,
-        "scheme_name": "HSBC Gold ETF",
+        "scheme_name": "HSBC Gold ETF - Direct Plan - Growth",
         "isin_growth": "INF336L01RX2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "135.45220"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "132.45870"
+        },
         {
             "date": "18-08-2026",
             "nav": "132.95290"

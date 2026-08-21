@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 149256,
-        "scheme_name": "Edelweiss Nifty 100 Quality 30 Index Fund Regular Plan Growth",
+        "scheme_name": "Edelweiss Nifty 100 Quality 30 Index Fund - Regular Plan - Growth",
         "isin_growth": "INF754K01NF4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "14.57440"
+        },
         {
             "date": "18-08-2026",
             "nav": "14.52820"

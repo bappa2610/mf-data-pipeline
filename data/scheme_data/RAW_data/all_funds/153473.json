@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 153473,
-        "scheme_name": "Nippon India Nifty 500 Low Volatility 50 Index Fund - Direct Plan - IDCW Plan",
+        "scheme_name": "Nippon India Nifty 500 Low Volatility 50 Index Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF204KC1ER0",
         "isin_div_reinvestment": "INF204KC1ES8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.85440"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.80460"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.83660"

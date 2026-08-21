@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Invesco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Schemes - Value Fund",
+        "scheme_category": "Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)",
         "scheme_code": 153696,
-        "scheme_name": "Invesco India Income Plus Arbitrage Active Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment)",
+        "scheme_name": "Invesco India Income Plus Arbitrage Active Fund of Fund - Regular Plan - IDCW",
         "isin_growth": "INF205KA1AY5",
         "isin_div_reinvestment": "INF205KA1AZ2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1057.32610"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1059.03250"
+        },
         {
             "date": "18-08-2026",
             "nav": "1058.44660"

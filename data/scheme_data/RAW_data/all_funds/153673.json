@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 153673,
-        "scheme_name": "Mahindra Manulife Banking & Financial Services Fund - Regular - IDCW",
+        "scheme_name": "MahindraManulife Banking & Financial Services Fund - Regular Plan - IDCW",
         "isin_growth": "INF174V01CN9",
         "isin_div_reinvestment": "INF174V01CM1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.91130"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.79540"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.82300"

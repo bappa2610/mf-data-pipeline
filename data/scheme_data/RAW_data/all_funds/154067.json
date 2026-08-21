@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 154067,
-        "scheme_name": "Tata BSE Multicap Consumption 50:30:20 Index Fund - Regular Plan IDCW Reinvestment Option",
+        "scheme_name": "Tata BSE Multicap Consumption 50:30:20 Index Fund - Regular Plan - IDCW Reinvestment Option",
         "isin_growth": null,
         "isin_div_reinvestment": "INF277KA1EN3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.01150"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "9.93430"
+        },
         {
             "date": "18-08-2026",
             "nav": "9.96700"

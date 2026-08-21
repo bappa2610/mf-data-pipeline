@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 146228,
-        "scheme_name": "Motilal Oswal Liquid Fund Direct - IDCW Reinvestment",
+        "scheme_name": "Motilal Oswal Liquid Fund",
         "isin_growth": null,
         "isin_div_reinvestment": "INF247L01742"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.00770"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.00770"

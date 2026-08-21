@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 150331,
-        "scheme_name": "Tata Nifty SDL Plus AAA PSU Bond Dec 6040 Index Fund -Regular Plan-IDCW Payout",
+        "scheme_name": "Tata Nifty SDL Plus AAA PSU Bond Dec 2027 60 40 Index Fund - Regular Plan - IDCW Payout Option",
         "isin_growth": "INF277KA1414",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.20080"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.20300"

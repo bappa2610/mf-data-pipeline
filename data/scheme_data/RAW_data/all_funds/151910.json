@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 151910,
-        "scheme_name": "Kotak Nifty Financial Services Ex-Bank Index Fund - Regular Plan - IDCW option",
+        "scheme_name": "Kotak Nifty Financial Services Ex-Bank Index Fund - Regular Plan - IDCW",
         "isin_growth": "INF174KA1OP1",
         "isin_div_reinvestment": "INF174KA1OQ9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "16.75400"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "16.60700"
+        },
         {
             "date": "18-08-2026",
             "nav": "16.63800"

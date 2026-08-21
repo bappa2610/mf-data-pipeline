@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 154150,
-        "scheme_name": "Kotak Services Fund - Direct - IDCW",
+        "scheme_name": "Kotak Services Fund - Direct Plan - IDCW",
         "isin_growth": "INF174KA1YW6",
         "isin_div_reinvestment": "INF174KA1YX4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.66100"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.60400"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.55100"

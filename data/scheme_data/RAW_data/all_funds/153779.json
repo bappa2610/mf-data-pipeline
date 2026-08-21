@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 153779,
-        "scheme_name": "Edelweiss Multi Asset Omni Fund of Fund- Regular Plan - Growth",
+        "scheme_name": "Edelweiss Multi Asset Omni Fund of Fund - Regular Plan - Growth",
         "isin_growth": "INF754K01VR2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.71580"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.59120"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.65890"

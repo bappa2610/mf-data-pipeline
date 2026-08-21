@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
         "scheme_code": 147404,
-        "scheme_name": "Shriram Balanced Advantage Fund - Regular-IDCW",
+        "scheme_name": "Shriram Balanced Advantage Fund - Regular Plan - IDCW",
         "isin_growth": "INF680P01182",
         "isin_div_reinvestment": "INF680P01190"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "16.77850"
+        },
         {
             "date": "18-08-2026",
             "nav": "16.71980"

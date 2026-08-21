@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 153486,
-        "scheme_name": "DSP Silver ETF Fund of Fund - Regular - Growth",
+        "scheme_name": "DSP Silver ETF Fund of Fund - Regular Plan - Growth",
         "isin_growth": "INF740KA1VW7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "24.38050"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "23.40170"
+        },
         {
             "date": "18-08-2026",
             "nav": "23.97750"

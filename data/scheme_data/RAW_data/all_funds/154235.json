@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Arbitrage Fund",
         "scheme_code": 154235,
-        "scheme_name": "Capitalmind Arbitrage Fund-Regular-IDCW",
+        "scheme_name": "Capitalmind Arbitrage Fund - Regular Plan - IDCW",
         "isin_growth": "INF226401158",
         "isin_div_reinvestment": "INF226401166"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.23210"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.23160"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.21950"

@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Floater Fund",
         "scheme_code": 149046,
-        "scheme_name": "Axis Floater Fund - Regular Plan - Quarterly IDCW",
+        "scheme_name": "Axis Floater Fund - Regular Plan - Quarterly IDCW Option",
         "isin_growth": "INF846K018B5",
         "isin_div_reinvestment": "INF846K017B7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1323.21940"
+        },
         {
             "date": "18-08-2026",
             "nav": "1324.18620"

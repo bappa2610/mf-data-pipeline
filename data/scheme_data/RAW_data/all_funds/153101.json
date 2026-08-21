@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Long Duration Fund",
         "scheme_code": 153101,
-        "scheme_name": "Franklin India Long Duration Fund - IDCW",
+        "scheme_name": "Franklin India Long Duration Fund - Regular Plan - IDCW",
         "isin_growth": "INF090I01XX9",
         "isin_div_reinvestment": "INF090I01XW1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.55700"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.58850"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.58570"

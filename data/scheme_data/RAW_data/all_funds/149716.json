@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
         "scheme_code": 149716,
-        "scheme_name": "Sundaram Balanced Advantage Fund (Formerly Known as Principal Balanced Advantage Fund) - Monthly Income Distribution CUM Capital Withdrawal Option",
+        "scheme_name": "Sundaram Balanced Advantage Fund (Formerly Known as Principal Balanced Advantage Fund) - Regular Plan - Monthly IDCW (Income Distribution CUM Capital Withdrawal)",
         "isin_growth": "INF173K01551",
         "isin_div_reinvestment": "INF173K01569"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "14.37490"
+        },
         {
             "date": "18-08-2026",
             "nav": "14.33980"

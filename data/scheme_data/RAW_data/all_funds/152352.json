@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large Cap Fund",
         "scheme_code": 152352,
-        "scheme_name": "Motilal Oswal Large Cap Regular Plan Growth",
+        "scheme_name": "Motilal Oswal Large Cap Fund",
         "isin_growth": "INF247L01CB9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.81480"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.71420"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.71250"

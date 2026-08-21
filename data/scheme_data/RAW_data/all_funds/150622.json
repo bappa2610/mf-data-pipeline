@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 150622,
-        "scheme_name": "Kotak Business Cycle Fund-Regular Plan-IDCW option",
+        "scheme_name": "Kotak Business Cycle Fund - Regular Plan - IDCW option",
         "isin_growth": "INF174KA1JL0",
         "isin_div_reinvestment": "INF174KA1JM8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "16.35000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "16.21800"
+        },
         {
             "date": "18-08-2026",
             "nav": "16.24400"

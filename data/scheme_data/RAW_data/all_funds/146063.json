@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Overnight Fund",
         "scheme_code": 146063,
-        "scheme_name": "DSP Overnight Fund - Regular Plan - IDCW - Weekly",
+        "scheme_name": "DSP Overnight Fund - Regular Plan - Weekly IDCW",
         "isin_growth": "INF740KA1OV4",
         "isin_div_reinvestment": "INF740KA1OW2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1000.98830"
+        },
         {
             "date": "18-08-2026",
             "nav": "1002.18680"

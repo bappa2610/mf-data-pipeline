@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 153666,
-        "scheme_name": "Sundaram Multi-Factor Fund - Direct - IDCW Reinvestment",
+        "scheme_name": "Sundaram Multi-Factor Fund - Direct Plan - IDCW (Income Distribution CUM Capital Withdrawal)",
         "isin_growth": null,
         "isin_div_reinvestment": "INF903JA1LT0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "9.99130"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "9.94260"
+        },
         {
             "date": "18-08-2026",
             "nav": "9.98810"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 153569,
-        "scheme_name": "Nippon India BSE Sensex Next 30 ETF",
+        "scheme_name": "Nippon India BSE Sensex Next 30 ETF - Direct Plan",
         "isin_growth": "INF204KC1EZ3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "43.37830"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "43.15970"
+        },
         {
             "date": "18-08-2026",
             "nav": "43.37650"

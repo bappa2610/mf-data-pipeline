@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Groww Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Schemes - Value Fund",
+        "scheme_category": "Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)",
         "scheme_code": 153456,
-        "scheme_name": "Groww Nifty 500 Momentum 50 ETF FOF - Regular Plan- Growth",
+        "scheme_name": "Groww Nifty 500 Momentum 50 ETF FOF - Regular Plan - Growth",
         "isin_growth": "INF666M01KC9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.76360"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.76370"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.86210"

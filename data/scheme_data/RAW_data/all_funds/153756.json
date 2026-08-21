@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 153756,
-        "scheme_name": "Kotak Active Momentum Fund - Regular Plan - IDCW - Payout & Reinvestment",
+        "scheme_name": "Kotak Active Momentum Fund - Regular Plan - Growth",
         "isin_growth": "INF174KA1XE6",
         "isin_div_reinvestment": "INF174KA1XF3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.14700"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.15400"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.21600"

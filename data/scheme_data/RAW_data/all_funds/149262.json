@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Aditya Birla Sun Life Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Schemes - Value Fund",
+        "scheme_category": "Exchange Traded Funds (ETFs) - Equity ETF",
         "scheme_code": 149262,
         "scheme_name": "Aditya Birla Sun Life Nifty Healthcare ETF",
         "isin_growth": "INF209KB10C2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "16.94870"
+        },
         {
             "date": "18-08-2026",
             "nav": "16.94740"

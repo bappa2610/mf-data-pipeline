@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 152603,
-        "scheme_name": "HDFC Manufacturing fund - IDCW - Direct Plan",
+        "scheme_name": "HDFC Manufacturing Fund - Direct Plan - IDCW",
         "isin_growth": "INF179KC1IJ9",
         "isin_div_reinvestment": "INF179KC1IK7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.34400"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.30400"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.35500"

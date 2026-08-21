@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 153375,
-        "scheme_name": "Kotak CRISIL-IBX Financial Services 3-6 Months Debt Index Fund-Regular-Growth",
+        "scheme_name": "Kotak CRISIL-IBX Financial Services 3-6 Months Debt Index Fund - Regular Plan - Growth",
         "isin_growth": "INF174KA1VN1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.01280"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.01480"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.01320"

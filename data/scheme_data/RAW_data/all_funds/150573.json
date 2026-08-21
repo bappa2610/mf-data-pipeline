@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Flexi Cap Fund",
         "scheme_code": 150573,
-        "scheme_name": "Sundaram Flexicap Fund Direct Plan IDCW Payout",
+        "scheme_name": "Sundaram Flexicap Fund - Direct Plan - IDCW (Income Distribution CUM Capital Withdrawal)",
         "isin_growth": "INF903JA1LF9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.79580"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.68750"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.74810"

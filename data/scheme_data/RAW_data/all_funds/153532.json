@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 153532,
-        "scheme_name": "MOTILAL OSWAL NIFTY 50 EQUAL WEIGHT ETF",
+        "scheme_name": "Motilal Oswal Nifty 50 Equal Weight ETF",
         "isin_growth": "INF247L01FC0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "33.57330"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "33.39840"
+        },
         {
             "date": "18-08-2026",
             "nav": "33.46220"

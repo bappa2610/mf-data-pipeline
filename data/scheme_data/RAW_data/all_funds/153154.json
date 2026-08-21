@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 153154,
-        "scheme_name": "SBI Quant Fund- Direct Plan- Growth",
+        "scheme_name": "SBI Quant Fund - Direct Plan - Growth",
         "isin_growth": "INF200KB1506",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.02350"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "9.97380"
+        },
         {
             "date": "18-08-2026",
             "nav": "9.99270"

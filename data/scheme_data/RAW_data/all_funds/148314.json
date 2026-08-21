@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Short Duration Fund",
         "scheme_code": 148314,
-        "scheme_name": "Franklin India Short Term Income Plan - Segregated Portfolio 3 (9.50% Yes Bank Ltd CO 23Dec21) - Institutional Plan Growth Option",
+        "scheme_name": "Franklin India Short-Term Income Plan (no. of segregated portfolios- 3) - Regular Plan - Institutional Plan Growth",
         "isin_growth": "INF090I01VR5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "0.00000"
+        },
         {
             "date": "18-08-2026",
             "nav": "0.00000"

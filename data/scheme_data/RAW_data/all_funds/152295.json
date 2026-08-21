@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 152295,
-        "scheme_name": "Tata Silver ETF Fund of Fund Direct Plan IDCW Reinvestment Option",
+        "scheme_name": "Tata Silver ETF Fund of Fund - Direct Plan - IDCW Reinvestment Option",
         "isin_growth": null,
         "isin_div_reinvestment": "INF277KA1950"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "30.92450"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "29.65690"
+        },
         {
             "date": "18-08-2026",
             "nav": "30.37230"

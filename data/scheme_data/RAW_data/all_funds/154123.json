@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 154123,
-        "scheme_name": "Sundaram Income Plus Arbitrage Active FoF Fund-Direct-Growth",
+        "scheme_name": "Sundaram Income Plus Arbitrage Active FoF - Direct Plan - GROWTH",
         "isin_growth": "INF903JA1LZ7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.37450"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.38380"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.38150"

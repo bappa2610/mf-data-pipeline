@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 153508,
-        "scheme_name": "Bajaj Finserv Nifty 50 Index Fund - Regular - Growth",
+        "scheme_name": "Bajaj Finserv Nifty 50 Index Fund - Regular Plan - Growth",
         "isin_growth": "INF0QA701AY1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "9.81750"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "9.75560"
+        },
         {
             "date": "18-08-2026",
             "nav": "9.78690"

@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Large & Mid Cap Fund",
         "scheme_code": 146770,
-        "scheme_name": "HSBC Large & Mid Cap Fund - Direct IDCW",
+        "scheme_name": "HSBC Large & Mid Cap Fund - Direct Plan - IDCW",
         "isin_growth": "INF336L01NW3",
         "isin_div_reinvestment": "INF336L01NX1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "23.21860"
+        },
         {
             "date": "18-08-2026",
             "nav": "23.11080"

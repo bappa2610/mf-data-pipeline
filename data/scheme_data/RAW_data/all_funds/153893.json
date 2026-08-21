@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Arbitrage Fund",
         "scheme_code": 153893,
-        "scheme_name": "THE WEALTH COMPANY ARBITRAGE FUND DIRECT IDCW",
+        "scheme_name": "The Wealth Company Arbitrage Fund - Direct Plan - IDCW",
         "isin_growth": "INF2F0001263",
         "isin_div_reinvestment": "INF2F0001255"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.54160"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.55410"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.54070"

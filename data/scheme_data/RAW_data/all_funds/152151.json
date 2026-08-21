@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Overnight Fund",
         "scheme_code": 152151,
-        "scheme_name": "Helios Overnight Fund - Direct Plan - Daily IDCW Option",
+        "scheme_name": "Helios Overnight Fund - Direct Plan - Daily IDCW",
         "isin_growth": "INF0R8701087",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1000.00000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1000.00000"
+        },
         {
             "date": "18-08-2026",
             "nav": "1000.00000"

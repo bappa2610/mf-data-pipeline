@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Arbitrage Fund",
         "scheme_code": 153043,
-        "scheme_name": "Franklin India Arbitrage Fund - Direct - Growth",
+        "scheme_name": "Franklin India Arbitrage Fund - Direct Plan - Growth",
         "isin_growth": "INF090I01XS9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.27010"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.27660"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.26080"

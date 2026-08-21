@@ -4,11 +4,15 @@
         "scheme_type": "Close Ended Schemes",
         "scheme_category": "Income",
         "scheme_code": 146695,
-        "scheme_name": "BANDHAN Fixed Term Plan Series 179 REGULAR PLAN-GROWTH (3652 days)",
+        "scheme_name": "BANDHAN FIXED TERM PLAN SERIES - 179 (3652 DAYS) - Regular Plan - Growth",
         "isin_growth": "INF194KB1736",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "17.83440"
+        },
         {
             "date": "18-08-2026",
             "nav": "17.83940"

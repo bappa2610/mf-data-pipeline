@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 149251,
-        "scheme_name": "Edelweiss Nifty 50 Index Fund Direct Plan IDCW",
+        "scheme_name": "Edelweiss Nifty 50 Index Fund - Direct Plan - IDCW",
         "isin_growth": "INF754K01NC1",
         "isin_div_reinvestment": "INF754K01ND9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "14.17700"
+        },
         {
             "date": "18-08-2026",
             "nav": "14.13220"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 152735,
-        "scheme_name": "SBI Silver ETF Fund of Fund- Direct Plan - Growth",
+        "scheme_name": "SBI Silver ETF Fund of Fund - Direct Plan - Growth",
         "isin_growth": "INF200KB1233",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "25.13760"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "24.15440"
+        },
         {
             "date": "18-08-2026",
             "nav": "24.74290"

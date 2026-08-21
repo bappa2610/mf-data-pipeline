@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Index Funds - Equity Funds",
         "scheme_code": 152126,
-        "scheme_name": "Groww Nifty Total Market Index Fund - Regular Plan - IDCW",
+        "scheme_name": "Groww Nifty Total Market Index Fund - Regular Plan - Income Distribution cum capital withdrawal",
         "isin_growth": "INF666M01HK8",
         "isin_div_reinvestment": "INF666M01HL6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.91930"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.84480"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.89760"

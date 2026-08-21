@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 153936,
-        "scheme_name": "Bajaj Finserv Banking and Financial Services Fund - Regular - IDCW",
+        "scheme_name": "Bajaj Finserv Banking and Financial Services Fund - Regular Plan - IDCW",
         "isin_growth": "INF0QA701BX1",
         "isin_div_reinvestment": "INF0QA701BY9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "9.92000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "9.85400"
+        },
         {
             "date": "18-08-2026",
             "nav": "9.89500"

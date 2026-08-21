@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large Cap Fund",
         "scheme_code": 148981,
-        "scheme_name": "BANK OF INDIA Large Cap Fund Direct Plan IDCW",
+        "scheme_name": "BANK OF INDIA LARGE CAP FUND - Direct Plan - IDCW",
         "isin_growth": "INF761K01FK5",
         "isin_div_reinvestment": "INF761K01FM1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "18.11000"
+        },
         {
             "date": "18-08-2026",
             "nav": "18.03000"

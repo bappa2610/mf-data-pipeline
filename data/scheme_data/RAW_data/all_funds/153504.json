@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Gilt Fund",
         "scheme_code": 153504,
-        "scheme_name": "Groww Gilt Fund - Regular - IDCW",
+        "scheme_name": "Groww Gilt Fund - Regular Plan - Income Distribution cum capital withdrawal",
         "isin_growth": "INF666M01KO4",
         "isin_div_reinvestment": "INF666M01KP1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "9.92110"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "9.93510"
+        },
         {
             "date": "18-08-2026",
             "nav": "9.93290"

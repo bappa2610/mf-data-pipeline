@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Credit Risk Fund",
         "scheme_code": 152897,
-        "scheme_name": "Baroda BNP Paribas Credit Risk fund -Direct -Monthly IDCW option -Seg. Portfolio 2 (erstwhile BBNPP Medium Duration Fund Direct-Monthly IDCW option Seg. Portfolio 1)",
+        "scheme_name": "Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios) - Direct Plan - Monthly IDCW Option",
         "isin_growth": null,
         "isin_div_reinvestment": "INF955L01JJ5"
     },
     "data": [
+        {
+            "date": "19-08-2026",
+            "nav": "0.00000"
+        },
         {
             "date": "18-08-2026",
             "nav": "0.00000"

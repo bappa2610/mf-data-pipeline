@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Money Market Fund",
         "scheme_code": 148158,
-        "scheme_name": "PGIM India Money Market Fund - Regular Plan - Weekly Dividend Option",
+        "scheme_name": "PGIM India Money Market Fund - Regular Plan - Regular IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF663L01U40"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1001.98580"
+        },
         {
             "date": "18-08-2026",
             "nav": "1002.20860"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 154249,
-        "scheme_name": "Canara Robeco Banking and Financials Services Fund - Regular Plan - IDCW",
+        "scheme_name": "Canara Robeco Banking and Financial Services Fund - Regular Plan - IDCW",
         "isin_growth": "INF760K01LO7",
         "isin_div_reinvestment": "INF760K01LQ2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.09000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.00000"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.01000"

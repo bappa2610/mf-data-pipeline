@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 149157,
-        "scheme_name": "ICICI Prudential Nifty Alpha Low - Volatility 30 ETF FOF - Growth",
+        "scheme_name": "ICICI Prudential Nifty Alpha Low - Volatility 30 ETF FOF - Regular Plan - Growth",
         "isin_growth": "INF109KC1R55",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.05470"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.07630"

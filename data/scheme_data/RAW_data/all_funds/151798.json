@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Flexi Cap Fund",
         "scheme_code": 151798,
-        "scheme_name": "360 ONE FLEXICAP FUND-DIRECT PLAN- IDCW",
+        "scheme_name": "360 ONE Flexicap Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF579M01AT9",
         "isin_div_reinvestment": "INF579M01AU7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "17.28330"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "17.18470"
+        },
         {
             "date": "18-08-2026",
             "nav": "17.17230"

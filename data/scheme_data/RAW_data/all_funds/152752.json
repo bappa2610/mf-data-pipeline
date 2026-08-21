@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 152752,
-        "scheme_name": "Kotak BSE PSU Index Fund - Regular Plan - Growth",
+        "scheme_name": "kotak BSE PSU Index Fund - Regular Plan - Growth",
         "isin_growth": "INF174KA1SI7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "9.30600"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "9.29600"
+        },
         {
             "date": "18-08-2026",
             "nav": "9.37400"

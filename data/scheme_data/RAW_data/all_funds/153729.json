@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Mid Cap Fund",
         "scheme_code": 153729,
-        "scheme_name": "Bank of India Mid Cap Fund - Direct Plan IDCW",
+        "scheme_name": "Bank of India Mid Cap Fund - Direct Plan - IDCW",
         "isin_growth": "INF761K01GZ1",
         "isin_div_reinvestment": "INF761K01HA2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.72000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.65000"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.71000"

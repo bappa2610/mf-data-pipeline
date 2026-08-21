@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Money Market Fund",
         "scheme_code": 150514,
-        "scheme_name": "TRUSTMF MONEY MARKET FUND-DIRECT PLAN-MONTHLY IDCW",
+        "scheme_name": "TRUSTMF Money Market Fund - Direct Plan - Monthly IDCW",
         "isin_growth": "INF0GCD01529",
         "isin_div_reinvestment": "INF0GCD01511"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1166.80560"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1167.23630"
+        },
         {
             "date": "18-08-2026",
             "nav": "1167.02590"

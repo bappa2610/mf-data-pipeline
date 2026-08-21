@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Mid Cap Fund",
         "scheme_code": 154115,
-        "scheme_name": "Samco Mid Cap Fund - Regular Plan",
+        "scheme_name": "Samco Mid Cap Fund - Regular Plan - Growth",
         "isin_growth": "INF0K1H01321",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.00000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "9.97000"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.06000"

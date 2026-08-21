@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Mid Cap Fund",
         "scheme_code": 151036,
-        "scheme_name": "HSBC Midcap Fund - Direct Growth",
+        "scheme_name": "HSBC Midcap Fund - Direct Plan - Growth",
         "isin_growth": "INF917K01FZ1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "542.10600"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "537.82060"
+        },
         {
             "date": "18-08-2026",
             "nav": "539.91810"

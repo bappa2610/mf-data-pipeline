@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Floater Fund",
         "scheme_code": 148718,
-        "scheme_name": "BANDHAN FLOATER FUND  - REGULAR PLAN ANNUAL IDCW",
+        "scheme_name": "BANDHAN FLOATER FUND - Regular Plan - Annual IDCW",
         "isin_growth": "INF194KB1AY7",
         "isin_div_reinvestment": "INF194KB1AZ4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.46370"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.47840"

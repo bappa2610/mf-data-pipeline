@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 154089,
-        "scheme_name": "DSP Nifty 500 Index Fund - Direct - IDCW",
+        "scheme_name": "DSP Nifty 500 Index Fund - Direct Plan - IDCW",
         "isin_growth": "INF740KA1XZ6",
         "isin_div_reinvestment": "INF740KA1YA7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "9.81910"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "9.76640"
+        },
         {
             "date": "18-08-2026",
             "nav": "9.80210"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 152429,
-        "scheme_name": "HDFC NIFTY200 Momentum 30 Index Fund - Regular Plan",
+        "scheme_name": "HDFC NIFTY200 Momentum 30 Index Fund - Regular Plan - Growth Option",
         "isin_growth": "INF179KC1IB6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.22780"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.18780"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.30010"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
         "scheme_code": 151745,
-        "scheme_name": "WhiteOak Capital Multi Asset Allocation Fund Direct Plan Growth",
+        "scheme_name": "WhiteOak Capital Multi Asset Allocation Fund - Direct Plan - Growth Option",
         "isin_growth": "INF03VN01761",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "16.87500"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "16.81800"
+        },
         {
             "date": "18-08-2026",
             "nav": "16.80900"

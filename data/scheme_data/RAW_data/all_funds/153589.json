@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 153589,
-        "scheme_name": "DSP Nifty IT Index Fund - Regular - IDCW",
+        "scheme_name": "DSP Nifty IT Index Fund - Regular Plan - IDCW",
         "isin_growth": "INF740KA1WJ2",
         "isin_div_reinvestment": "INF740KA1WK0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "7.98190"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "7.91970"
+        },
         {
             "date": "18-08-2026",
             "nav": "7.86290"

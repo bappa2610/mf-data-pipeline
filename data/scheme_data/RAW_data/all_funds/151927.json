@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 151927,
-        "scheme_name": "LIC MF Liquid Fund-Regular Plan-Weekly IDCW",
+        "scheme_name": "LIC MF Liquid Fund - Regular Plan - Weekly IDCW",
         "isin_growth": "INF397L01950",
         "isin_div_reinvestment": "INF397L01943"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1002.44150"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1002.32480"
+        },
         {
             "date": "18-08-2026",
             "nav": "1003.29930"

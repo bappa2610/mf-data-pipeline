@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 154539,
-        "scheme_name": "Franklin India Short Term Fund- IDCW",
-        "isin_growth": null,
-        "isin_div_reinvestment": null
+        "scheme_name": "Franklin India Short Term Fund - Regular Plan - IDCW",
+        "isin_growth": "INF090I01YU3",
+        "isin_div_reinvestment": "INF090I01YV1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.00890"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.01070"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.00940"

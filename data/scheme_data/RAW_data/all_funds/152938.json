@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Small Cap Fund",
         "scheme_code": 152938,
-        "scheme_name": "TRUSTMF SMALL CAP FUND -REGULAR PLAN- IDCW",
+        "scheme_name": "TRUSTMF SMALL CAP FUND - Regular Plan - IDCW",
         "isin_growth": "INF0GCD01792",
         "isin_div_reinvestment": "INF0GCD01784"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.45000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.39000"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.44000"

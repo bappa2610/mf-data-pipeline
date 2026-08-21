@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Flexi Cap Fund",
         "scheme_code": 152582,
-        "scheme_name": "TRUSTMF Flexi Cap Fund-Regular Plan- Growth",
+        "scheme_name": "TRUSTMF Flexi Cap Fund - Regular Plan - Growth",
         "isin_growth": "INF0GCD01719",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.51000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.43000"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.46000"

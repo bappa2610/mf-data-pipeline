@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
         "scheme_code": 147314,
-        "scheme_name": "WhiteOak Capital Ultra Short Duration Fund- Regular plan-Monthly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW)",
+        "scheme_name": "WhiteOak Capital Ultra Short Duration Fund - Regular Plan - Monthly IDCW Payout / Reinvestment Option",
         "isin_growth": "INF03VN01290",
         "isin_div_reinvestment": "INF03VN01308"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1004.37710"
+        },
         {
             "date": "18-08-2026",
             "nav": "1004.61660"

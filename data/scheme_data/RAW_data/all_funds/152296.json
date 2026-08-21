@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 152296,
-        "scheme_name": "Tata Silver ETF Fund of Fund Regular Plan IDCW Payout Option",
+        "scheme_name": "Tata Silver ETF Fund of Fund - Regular Plan - IDCW Payout Option",
         "isin_growth": "INF277KA1935",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "30.54400"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "29.29220"
+        },
         {
             "date": "18-08-2026",
             "nav": "29.99920"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
         "scheme_code": 154000,
-        "scheme_name": "The Wealth Company Multi Asset Allocation Fund - Direct IDCW",
+        "scheme_name": "The Wealth Company Multi Asset Allocation Fund - Direct Plan - IDCW",
         "isin_growth": "INF2F0001354",
         "isin_div_reinvestment": "INF2F0001362"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.05910"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.97930"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.01250"

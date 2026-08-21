@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Conservative Hybrid Fund",
         "scheme_code": 150208,
-        "scheme_name": "BARODA BNP PARIBAS Conservative Hybrid Fund - Direct Plan - Quarterly IDCW Option",
+        "scheme_name": "BARODA BNP PARIBAS CONSERVATIVE HYBRID FUND - Direct Plan - Quarterly IDCW Option",
         "isin_growth": "INF251K01HU2",
         "isin_div_reinvestment": "INF251K01HV0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.80010"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.80660"

@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Groww Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Schemes - Value Fund",
+        "scheme_category": "Exchange Traded Funds (ETFs) - Other ETF",
         "scheme_code": 153940,
         "scheme_name": "Groww Nifty Midcap 150 ETF",
         "isin_growth": "INF666M01MV5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "234.55830"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "233.72850"
+        },
         {
             "date": "18-08-2026",
             "nav": "234.30870"

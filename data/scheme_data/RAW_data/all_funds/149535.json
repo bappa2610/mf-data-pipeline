@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
         "scheme_code": 149535,
-        "scheme_name": "Sundaram Ultra Short Duration Fund (Formerly Known as Principal Ultra Short Term Fund)-Growth Option",
+        "scheme_name": "Sundaram Ultra Short Duration Fund (Formerly Known as Principal Ultra Short Term Fund) - Regular Plan - GROWTH",
         "isin_growth": "INF173K01CU9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "2847.78410"
+        },
         {
             "date": "18-08-2026",
             "nav": "2848.22880"

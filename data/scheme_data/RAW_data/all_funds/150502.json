@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Overnight Fund",
         "scheme_code": 150502,
-        "scheme_name": "HSBC Overnight Fund - Unclaimed Redemption Below three years",
+        "scheme_name": "HSBC Overnight Fund",
         "isin_growth": null,
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1275.99640"
+        },
         {
             "date": "18-08-2026",
             "nav": "1275.64680"

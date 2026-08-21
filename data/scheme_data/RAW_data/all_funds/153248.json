@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
         "scheme_code": 153248,
-        "scheme_name": "LIC MF Multi Asset Allocation Fund-Regular Plan-Growth",
+        "scheme_name": "LIC MF Multi Asset Allocation Fund - Regular Plan - Growth",
         "isin_growth": "INF767K01RW2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.38670"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.30800"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.35030"

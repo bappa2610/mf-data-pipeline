@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Corporate Bond Fund",
         "scheme_code": 146210,
-        "scheme_name": "SBI Corporate Bond Fund - Regular Plan - Quarterly Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI Corporate Bond Fund - Regular Plan - IDCW",
         "isin_growth": "INF200KA1YP8",
         "isin_div_reinvestment": "INF200KA1YQ6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.96940"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.98860"

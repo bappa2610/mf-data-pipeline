@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Money Market Fund",
         "scheme_code": 154614,
-        "scheme_name": "Bajaj Finserv Money Market Fund-Direct Plan-Weekly-IDCW",
+        "scheme_name": "Bajaj Finserv Money Market Fund - Direct Plan - Weekly-IDCW",
         "isin_growth": "INF0QA701CK6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1042.77770"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1043.27250"
+        },
         {
             "date": "18-08-2026",
             "nav": "1043.06430"

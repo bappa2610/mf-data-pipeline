@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Money Market Fund",
         "scheme_code": 147576,
-        "scheme_name": "Axis Money Market Fund - Direct Plan - Annual IDCW",
+        "scheme_name": "Axis Money Market Fund - Direct Plan - Annual IDCW Option",
         "isin_growth": "INF846K01Q96",
         "isin_div_reinvestment": "INF846K01Q88"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1317.40000"
+        },
         {
             "date": "18-08-2026",
             "nav": "1317.68720"

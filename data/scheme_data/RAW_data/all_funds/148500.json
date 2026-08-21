@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)",
         "scheme_code": 148500,
         "scheme_name": "Mirae Asset Diversified Equity Allocator Passive FOF - Direct Plan - Growth",
         "isin_growth": "INF769K01GE9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "25.53600"
+        },
         {
             "date": "18-08-2026",
             "nav": "25.52900"

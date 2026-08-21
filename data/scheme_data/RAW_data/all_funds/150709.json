@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 150709,
-        "scheme_name": "SBI CRISIL IBX Gilt Index - April 2029 Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI CRISIL IBX Gilt Index - April 2029 Fund - Regular Plan - IDCW",
         "isin_growth": "INF200KA16Q0",
         "isin_div_reinvestment": "INF200KA17Q8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.27380"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.29100"

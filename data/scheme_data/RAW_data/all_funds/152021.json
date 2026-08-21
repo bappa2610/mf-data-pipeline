@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Dividend Yield Fund",
         "scheme_code": 152021,
-        "scheme_name": "LIC MF Dividend Yield Fund-Direct Plan-IDCW",
+        "scheme_name": "LIC MF Dividend Yield Fund - Direct Plan - IDCW",
         "isin_growth": "INF397L01KZ4",
         "isin_div_reinvestment": "INF397L01LA5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "36.45940"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "36.33250"
+        },
         {
             "date": "18-08-2026",
             "nav": "36.50320"

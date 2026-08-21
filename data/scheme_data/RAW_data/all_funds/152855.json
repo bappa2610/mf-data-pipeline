@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 152855,
-        "scheme_name": "Bandhan Nifty Midcap 150 Index Fund-Direct Plan-Growth",
+        "scheme_name": "Bandhan Nifty Midcap 150 Index Fund - Direct Plan - Growth",
         "isin_growth": "INF194KB1IT0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.64990"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.61220"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.63890"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 152797,
-        "scheme_name": "Motilal Oswal Business Cycle Fund - Direct Plan- IDCW",
+        "scheme_name": "Motilal Oswal Business Cycle Fund",
         "isin_growth": "INF247L01DH4",
         "isin_div_reinvestment": "INF247L01DI2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.04690"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.95830"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.91150"

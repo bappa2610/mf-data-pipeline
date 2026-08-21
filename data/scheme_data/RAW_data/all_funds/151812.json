@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Multi Cap Fund",
+        "scheme_category": "Equity Schemes - Multi Cap Fund",
         "scheme_code": 151812,
         "scheme_name": "Mirae Asset Multicap Fund - Regular Plan - Growth",
         "isin_growth": "INF769K01KH4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "14.90700"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "14.81200"
+        },
         {
             "date": "18-08-2026",
             "nav": "14.85900"

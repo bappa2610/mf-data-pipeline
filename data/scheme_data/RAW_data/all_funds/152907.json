@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 152907,
-        "scheme_name": "SBI Nifty 500 Index Fund- Regular Plan- Income Distribution Cum Capital Withdrawal (IDCW)",
+        "scheme_name": "SBI Nifty 500 Index Fund - Regular Plan - IDCW",
         "isin_growth": "INF200KB1365",
         "isin_div_reinvestment": "INF200KB1373"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "9.72250"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "9.67040"
+        },
         {
             "date": "18-08-2026",
             "nav": "9.70610"

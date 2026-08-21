@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Multi Cap Fund",
         "scheme_code": 149365,
-        "scheme_name": "HDFC Multi Cap Fund - IDCW Option",
+        "scheme_name": "HDFC Multi Cap Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF179KC1BW7",
         "isin_div_reinvestment": "INF179KC1BX5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "17.29700"
+        },
         {
             "date": "18-08-2026",
             "nav": "17.23300"

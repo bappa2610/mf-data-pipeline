@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 152795,
-        "scheme_name": "Motilal Oswal Business Cycle Fund-Regular Plan-IDCW",
+        "scheme_name": "Motilal Oswal Business Cycle Fund",
         "isin_growth": "INF247L01DE1",
         "isin_div_reinvestment": "INF247L01DF8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.70400"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.61810"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.57290"

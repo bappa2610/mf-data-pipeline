@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Overseas",
         "scheme_code": 152139,
-        "scheme_name": "Aditya Birla Sun Life US Treasury 1-3 Year Bond ETFs Fund Of Funds-Direct IDCW Payout",
+        "scheme_name": "Aditya Birla Sun Life US Treasury 1-3 Year Bond ETFs Passive FOF - Direct Plan - IDCW",
         "isin_growth": "INF209KB17W5",
         "isin_div_reinvestment": "INF209KB18W3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.93790"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.94450"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.93170"

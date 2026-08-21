@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 152918,
-        "scheme_name": "Kotak Nifty Midcap 150 Momentum 50 Index Fund-Regular Plan-Growth",
+        "scheme_name": "Kotak Nifty Midcap 150 Momentum 50 Index Fund - Regular Plan - Growth",
         "isin_growth": "INF174KA1TP0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "9.53300"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "9.50900"
+        },
         {
             "date": "18-08-2026",
             "nav": "9.58100"

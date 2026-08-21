@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
         "scheme_code": 151307,
-        "scheme_name": "Aditya Birla Sun Life Multi Asset Allocation Fund-Direct Growth",
+        "scheme_name": "Aditya Birla Sun Life Multi Asset Allocation Fund - Direct Plan - GROWTH",
         "isin_growth": "INF209KB15R9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "18.12870"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "17.97930"
+        },
         {
             "date": "18-08-2026",
             "nav": "18.02700"

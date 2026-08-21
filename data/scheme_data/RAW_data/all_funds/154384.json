@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Groww Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Schemes - Value Fund",
+        "scheme_category": "Exchange Traded Funds (ETFs) - Other ETF",
         "scheme_code": 154384,
         "scheme_name": "Groww Nifty Smallcap 250 Momentum Quality 100 ETF",
         "isin_growth": "INF666M01PG9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "48.61180"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "48.61060"
+        },
         {
             "date": "18-08-2026",
             "nav": "48.90440"

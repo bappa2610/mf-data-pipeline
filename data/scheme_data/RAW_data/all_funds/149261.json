@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
         "scheme_code": 149261,
-        "scheme_name": "LIC MF Balanced Advantage Fund-Direct Plan-Growth",
+        "scheme_name": "LIC MF Balanced Advantage Fund - Direct Plan - Growth",
         "isin_growth": "INF767K01QY0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.21730"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.20420"

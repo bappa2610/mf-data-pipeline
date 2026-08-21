@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 153802,
-        "scheme_name": "DSP Nifty500 Flexicap Quality 30 Index Fund - Regular - Growth",
+        "scheme_name": "DSP Nifty500 Flexicap Quality 30 Index Fund - Regular Plan - Growth",
         "isin_growth": "INF740KA1WO2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "9.85710"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "9.81400"
+        },
         {
             "date": "18-08-2026",
             "nav": "9.82180"

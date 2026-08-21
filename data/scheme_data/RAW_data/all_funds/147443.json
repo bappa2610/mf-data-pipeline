@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 147443,
-        "scheme_name": "Motilal Oswal Liquid Fund - Unclaimed Redemption - Greater than 3 years",
+        "scheme_name": "Motilal Oswal Liquid Fund",
         "isin_growth": null,
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.00000"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.00000"

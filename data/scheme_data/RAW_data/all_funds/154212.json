@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
         "scheme_code": 154212,
-        "scheme_name": "Capitalmind Multi Asset Allocation Fund-Direct-IDCW",
+        "scheme_name": "Capitalmind Multi Asset Allocation Fund - Direct Plan - IDCW",
         "isin_growth": "INF226401067",
         "isin_div_reinvestment": "INF226401075"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.10340"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.05130"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.07580"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 151752,
-        "scheme_name": "Samco Active Momentum Fund - Regular Plan - Growth Option",
+        "scheme_name": "Samco Active Momentum Fund - Regular Plan - Growth",
         "isin_growth": "INF0K1H01073",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "14.90000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "14.87000"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.04000"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 152189,
-        "scheme_name": "quant Momentum Fund - Growth Option - Direct Plan",
+        "scheme_name": "quant Momentum Fund - Direct Plan - Growth Option",
         "isin_growth": "INF966L01CZ3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.77240"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "15.72670"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.78830"

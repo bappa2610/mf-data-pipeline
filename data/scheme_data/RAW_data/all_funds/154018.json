@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 154018,
-        "scheme_name": "DSP Nifty Smallcap 250 Index Fund - Direct - Growth",
+        "scheme_name": "DSP Nifty Smallcap 250 Index Fund - Direct Plan - Growth",
         "isin_growth": "INF740KA1XH4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.28010"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.21500"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.28550"

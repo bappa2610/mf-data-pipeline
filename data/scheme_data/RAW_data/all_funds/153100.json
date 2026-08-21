@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Multi Cap Fund",
         "scheme_code": 153100,
-        "scheme_name": "Groww Multicap Fund - Regular - Growth",
+        "scheme_name": "Groww Multicap Fund - Regular Plan - Growth",
         "isin_growth": "INF666M01JG2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.21900"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.15430"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.20160"

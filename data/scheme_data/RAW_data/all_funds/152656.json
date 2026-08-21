@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 152656,
-        "scheme_name": "SBI Automotive Opportunities Fund - Regular Plan - Income Distribution Cum Capital Withdrawal Option",
+        "scheme_name": "SBI Automotive Opportunities Fund - Regular Plan - IDCW",
         "isin_growth": "INF200KB1167",
         "isin_div_reinvestment": "INF200KB1175"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.78360"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.72490"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.73840"

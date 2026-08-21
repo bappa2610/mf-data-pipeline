@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Overseas Fund of Funds - Fund of Funds investing overseas",
         "scheme_code": 148615,
-        "scheme_name": "Invesco India - Invesco Global Consumer Trends Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment)",
+        "scheme_name": "Invesco India - Invesco Global Consumer Trends Fund of Fund - Direct Plan - IDCW",
         "isin_growth": "INF205KA1262",
         "isin_div_reinvestment": "INF205KA1288"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.23980"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.84730"

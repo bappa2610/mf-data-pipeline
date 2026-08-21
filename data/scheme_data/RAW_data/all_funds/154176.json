@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 154176,
-        "scheme_name": "SBI Quality Fund - Regular Plan - Income Distribution Cum Capital Withdrawal",
+        "scheme_name": "SBI Quality Fund - Regular Plan - IDCW",
         "isin_growth": "INF200KB1AE1",
         "isin_div_reinvestment": "INF200KB1AF8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.96630"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.89480"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.90660"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Money Market Fund",
         "scheme_code": 150511,
-        "scheme_name": "TRUSTMF MONEY MARKET FUND-REGULAR PLAN-GROWTH",
+        "scheme_name": "TRUSTMF Money Market Fund - Regular Plan - Growth",
         "isin_growth": "INF0GCD01479",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1305.67050"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1306.16350"
+        },
         {
             "date": "18-08-2026",
             "nav": "1305.93920"

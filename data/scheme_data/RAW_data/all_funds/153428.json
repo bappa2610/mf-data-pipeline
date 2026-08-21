@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Arbitrage Fund",
         "scheme_code": 153428,
-        "scheme_name": "quant Arbitrage Fund - Growth Option - Regular Plan",
+        "scheme_name": "quant Arbitrage Fund - Regular Plan - Growth Option",
         "isin_growth": "INF966L01DZ1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.94630"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.95750"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.94030"

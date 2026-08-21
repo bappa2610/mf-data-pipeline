@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 153152,
-        "scheme_name": "SBI Quant Fund- Regular Plan- Income Distribution Cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI Quant Fund - Regular Plan - IDCW",
         "isin_growth": "INF200KB1480",
         "isin_div_reinvestment": "INF200KB1498"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "9.83780"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "9.78920"
+        },
         {
             "date": "18-08-2026",
             "nav": "9.80810"

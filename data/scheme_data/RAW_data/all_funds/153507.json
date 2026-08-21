@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 153507,
-        "scheme_name": "Bajaj Finserv Nifty 50 Index Fund - Regular - IDCW",
+        "scheme_name": "Bajaj Finserv Nifty 50 Index Fund - Regular Plan - IDCW",
         "isin_growth": "INF0QA701BJ0",
         "isin_div_reinvestment": "INF0QA701AZ8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "9.81750"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "9.75560"
+        },
         {
             "date": "18-08-2026",
             "nav": "9.78690"

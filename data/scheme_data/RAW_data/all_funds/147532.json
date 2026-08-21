@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Overnight Fund",
         "scheme_code": 147532,
-        "scheme_name": "CANARA ROBECO OVERNIGHT FUND - DIRECT PLAN - DAILY IDCW (Reinvestment)",
+        "scheme_name": "Canara Robeco Overnight Fund - Direct Plan - DAILY IDCW (Reinvestment)",
         "isin_growth": null,
         "isin_div_reinvestment": "INF760K01JN3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1001.00120"
+        },
         {
             "date": "18-08-2026",
             "nav": "1001.00120"

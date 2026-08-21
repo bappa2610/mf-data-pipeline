@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 153860,
-        "scheme_name": "HDFC Diversified Equity All Cap Active FOF - Direct Plan - Growth Plan",
+        "scheme_name": "HDFC Diversified Equity All Cap Active FOF - Direct Plan - Growth Option",
         "isin_growth": "INF179KC1JU4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.32530"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.27470"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.29570"

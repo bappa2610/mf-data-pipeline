@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Overseas",
         "scheme_code": 149099,
-        "scheme_name": "Bandhan US specific Equity Active FOF - IDCW - DIRECT PLAN",
+        "scheme_name": "Bandhan US specific Equity Active FOF - Direct Plan - IDCW",
         "isin_growth": "INF194KB1CG0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "20.42300"
+        },
         {
             "date": "18-08-2026",
             "nav": "20.61900"

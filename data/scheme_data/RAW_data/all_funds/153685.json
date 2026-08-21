@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 153685,
-        "scheme_name": "ICICI Prudential Active Momentum Fund - Growth",
+        "scheme_name": "ICICI Prudential Active Momentum Fund - Regular Plan - Growth",
         "isin_growth": "INF109K1A377",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.06000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.02000"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.07000"

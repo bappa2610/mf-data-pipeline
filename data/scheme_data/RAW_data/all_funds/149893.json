@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 149893,
-        "scheme_name": "Navi Nifty Midcap 150 Index Fund Regular Plan- Growth",
+        "scheme_name": "Navi Nifty Midcap 150 Index Fund",
         "isin_growth": "INF959L01FY4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "21.34250"
+        },
         {
             "date": "18-08-2026",
             "nav": "21.32140"

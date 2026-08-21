@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Index Funds - Equity Funds",
         "scheme_code": 151158,
-        "scheme_name": "HSBC NIFTY 50 INDEX FUND - Regular Growth",
+        "scheme_name": "HSBC NIFTY 50 Index Fund - Regular Plan - Growth",
         "isin_growth": "INF917K01D38",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "28.17300"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "27.99490"
+        },
         {
             "date": "18-08-2026",
             "nav": "28.08410"

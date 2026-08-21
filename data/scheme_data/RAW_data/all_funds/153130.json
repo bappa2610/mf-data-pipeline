@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 153130,
-        "scheme_name": "Edelweiss CRISIL IBX AAA Financial Services - Jan 2028 Index Fund - Regular - Growth",
+        "scheme_name": "Edelweiss CRISIL IBX AAA Financial Services Bond - Jan 2028 Index Fund - Regular Plan - Growth",
         "isin_growth": "INF754K01TT2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.30900"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.31400"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.31000"

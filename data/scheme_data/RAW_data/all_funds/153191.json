@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Other  ETFs",
+        "scheme_category": "Exchange Traded Funds (ETFs) - Equity ETF",
         "scheme_code": 153191,
         "scheme_name": "Mirae Asset Nifty India New Age Consumption ETF",
         "isin_growth": "INF769K01NS5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.32140"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.21140"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.19010"

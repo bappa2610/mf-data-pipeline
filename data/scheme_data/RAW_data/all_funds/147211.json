@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Overnight Fund",
         "scheme_code": 147211,
-        "scheme_name": "Franklin India Overnight Fund - Direct Weekly Dividend Plan - Weekly - IDCW",
+        "scheme_name": "Franklin India Overnight Fund - Direct Plan - Weekly IDCW",
         "isin_growth": "INF090I01SR1",
         "isin_div_reinvestment": "INF090I01SQ3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1000.54870"
+        },
         {
             "date": "18-08-2026",
             "nav": "1000.27370"

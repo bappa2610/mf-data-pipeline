@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 152921,
-        "scheme_name": "LIC MF Manufacturing Fund-Direct Plan-IDCW",
+        "scheme_name": "LIC MF Manufacturing Fund - Direct Plan - IDCW",
         "isin_growth": "INF767K01RT8",
         "isin_div_reinvestment": "INF767K01RS0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.96730"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.96180"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.01360"

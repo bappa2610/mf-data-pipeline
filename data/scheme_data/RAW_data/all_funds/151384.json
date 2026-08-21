@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 151384,
-        "scheme_name": "Kotak Banking & Financial Services Fund - Direct Plan - Growth",
+        "scheme_name": "Kotak Banking and Financial Services Fund - Direct Plan - Growth",
         "isin_growth": "INF174KA1MD1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "17.24100"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "17.13300"
+        },
         {
             "date": "18-08-2026",
             "nav": "17.19600"

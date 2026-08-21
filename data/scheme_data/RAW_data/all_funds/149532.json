@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Focused Fund",
         "scheme_code": 149532,
-        "scheme_name": "Sundaram Focused Fund (Formerly Known as Principal Focused Multicap Fund)-Growth Option",
+        "scheme_name": "Sundaram Focused Fund (Formerly Known as Principal Focused Multicap Fund) - Regular Plan - GROWTH",
         "isin_growth": "INF173K01189",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "169.81680"
+        },
         {
             "date": "18-08-2026",
             "nav": "169.22910"

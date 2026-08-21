@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Equity Savings",
         "scheme_code": 147495,
-        "scheme_name": "Baroda BNP Paribas Equity Savings Fund - Regular Plan - IDCW",
+        "scheme_name": "Baroda BNP Paribas Equity Savings Fund - Regular Plan - IDCW Option",
         "isin_growth": null,
         "isin_div_reinvestment": "INF955L01IK5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.05050"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.04300"

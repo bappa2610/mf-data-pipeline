@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 154206,
-        "scheme_name": "ANGEL ONE SILVER ETF FOF -DIRECT GROWTH",
+        "scheme_name": "ANGEL ONE SILVER ETF FOF - Direct Plan - Growth",
         "isin_growth": "INF1J2R01155",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "21-08-2026",
+            "nav": "8.39910"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "7.86670"
+        },
         {
             "date": "18-08-2026",
             "nav": "8.02980"

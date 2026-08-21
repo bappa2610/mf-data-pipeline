@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Arbitrage Fund",
         "scheme_code": 153429,
-        "scheme_name": "quant Arbitrage Fund - IDCW Option - Regular Plan",
+        "scheme_name": "quant Arbitrage Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF966L01EA2",
         "isin_div_reinvestment": "INF966L01EB0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.94660"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.95780"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.94060"

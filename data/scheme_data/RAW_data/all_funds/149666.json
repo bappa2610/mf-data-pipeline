@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Multi Cap Fund",
         "scheme_code": 149666,
-        "scheme_name": "Sundaram Multi Cap Fund (Formerly Known as Principal Multi Cap Growth Fund)- Income Distribution CUM Capital Withdrawal Option (IDCW)",
+        "scheme_name": "Sundaram Multi Cap Fund (Formerly Known as Principal Multi Cap Growth Fund) - Regular Plan - IDCW (Income Distribution CUM Capital Withdrawal)",
         "isin_growth": "INF173K01957",
         "isin_div_reinvestment": "INF173K01965"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "65.27790"
+        },
         {
             "date": "18-08-2026",
             "nav": "64.89340"

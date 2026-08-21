@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 153354,
-        "scheme_name": "KOTAK NIFTY COMMODITIES INDEX FUND-DIRECT-IDCW-PAYOUT & REINVESTMENT",
+        "scheme_name": "Kotak Nifty Commodities Index Fund - Direct Plan - IDCW-PAYOUT & REINVESTMENT",
         "isin_growth": "INF174KA1VF7",
         "isin_div_reinvestment": "INF174KA1VG5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.25500"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.22000"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.29500"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 154160,
-        "scheme_name": "ITI Business Cycle Fund- Regular Plan- IDCW",
+        "scheme_name": "ITI Business Cycle Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF00XX01DK3",
         "isin_div_reinvestment": "INF00XX01DL1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.56680"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.52690"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.56380"

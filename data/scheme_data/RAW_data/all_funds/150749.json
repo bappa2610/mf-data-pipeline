@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Overseas",
         "scheme_code": 150749,
-        "scheme_name": "Axis NASDAQ 100 US Specific Equity Passive FOF - Direct Plan - IDCW",
+        "scheme_name": "Axis NASDAQ 100 US Specific Equity Passive FOF - Direct Plan - IDCW Option",
         "isin_growth": "INF846K013K7",
         "isin_div_reinvestment": "INF846K014K5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "29.61030"
+        },
         {
             "date": "18-08-2026",
             "nav": "29.89840"

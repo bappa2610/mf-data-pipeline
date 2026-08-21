@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Schemes - Equity Savings Fund",
         "scheme_code": 151057,
-        "scheme_name": "HSBC Equity Savings Fund - Regular Quarterly IDCW",
+        "scheme_name": "HSBC Equity Savings Fund - Regular Plan - Quarterly IDCW",
         "isin_growth": "INF917K01981",
         "isin_div_reinvestment": "INF917K01999"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "16.55240"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "16.52410"
+        },
         {
             "date": "18-08-2026",
             "nav": "16.51610"

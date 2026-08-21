@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 153501,
-        "scheme_name": "SBI Income Plus Arbitrage Active FOF- Direct Plan- Income Distribution Cum Capital Withdrawal Option",
+        "scheme_name": "SBI Income Plus Arbitrage Active FOF - Direct Plan - IDCW",
         "isin_growth": "INF200KB1761",
         "isin_div_reinvestment": "INF200KB1779"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.74200"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.75440"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.74660"

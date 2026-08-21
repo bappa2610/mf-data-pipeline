@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 152068,
-        "scheme_name": "quant Teck Fund - IDCW Option - Direct Plan",
+        "scheme_name": "quant Teck Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF966L01CU4",
         "isin_div_reinvestment": "INF966L01CV2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.80120"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.78860"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.73960"

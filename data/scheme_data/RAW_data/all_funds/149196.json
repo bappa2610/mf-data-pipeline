@@ -1,14 +1,18 @@
 {
     "meta": {
         "fund_house": "SBI Mutual Fund",
-        "scheme_type": "IL&FS Mutual Fund",
-        "scheme_category": "IDF",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
         "scheme_code": 149196,
-        "scheme_name": "SBI Fixed Maturity Plan (FMP) - Series 51 (1846 Days) - Regular Plan - Income Distribution Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI Fixed Maturity Plan (FMP) - Series 51 (1846 Days) - Regular Plan - IDCW",
         "isin_growth": "INF200KA1Z98",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.28090"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.27740"

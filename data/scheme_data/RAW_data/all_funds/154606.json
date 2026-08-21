@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
         "scheme_code": 154606,
-        "scheme_name": "Kotak Liquid Fund - Direct - IDCW",
+        "scheme_name": "Kotak Liquid Fund - Direct Plan - IDCW",
         "isin_growth": "INF174KA1E09",
         "isin_div_reinvestment": "INF174KA1D83"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1001.76130"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1001.64220"
+        },
         {
             "date": "18-08-2026",
             "nav": "1001.46870"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 153056,
-        "scheme_name": "Tata India Innovation Fund- Direct IDCW Reinvestment",
+        "scheme_name": "Tata India Innovation Fund - Direct Plan - IDCW Reinvestment Option",
         "isin_growth": null,
         "isin_div_reinvestment": "INF277KA1CV0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.53810"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.48590"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.51740"

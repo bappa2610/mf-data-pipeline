@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 151367,
-        "scheme_name": "Axis Business Cycles Fund - Regular Plan - IDCW",
+        "scheme_name": "Axis Business Cycles Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF846K010O5",
         "isin_div_reinvestment": "INF846K011O3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "16.14000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "16.04000"
+        },
         {
             "date": "18-08-2026",
             "nav": "16.08000"

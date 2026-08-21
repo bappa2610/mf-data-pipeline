@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 152835,
-        "scheme_name": "Tata Nifty200 Alpha 30 Index Fund - Regular - IDCW Payout",
+        "scheme_name": "Tata Nifty200 Alpha 30 Index Fund - Regular Plan - IDCW Payout Option",
         "isin_growth": "INF277KA1CG1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "8.96300"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "8.90150"
+        },
         {
             "date": "18-08-2026",
             "nav": "8.99650"

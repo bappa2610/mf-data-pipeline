@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 153280,
-        "scheme_name": "Shriram Unclaimed Redemption Liquid Fund",
+        "scheme_name": "Shriram Liquid Fund - Direct Plan",
         "isin_growth": null,
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1102.18550"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1102.04660"
+        },
         {
             "date": "18-08-2026",
             "nav": "1101.87060"

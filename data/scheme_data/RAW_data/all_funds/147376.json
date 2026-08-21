@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Money Market Fund",
         "scheme_code": 147376,
-        "scheme_name": "Baroda BNP Paribas Money Market Fund - Regular Plan - Monthly IDCW",
+        "scheme_name": "Baroda BNP Paribas Money Market Fund - Regular Plan - Monthly IDCW Option",
         "isin_growth": "INF955L01IB4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1017.11460"
+        },
         {
             "date": "18-08-2026",
             "nav": "1017.34040"

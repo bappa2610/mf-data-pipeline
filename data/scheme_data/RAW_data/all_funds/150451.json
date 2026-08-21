@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 150451,
-        "scheme_name": "ICICI Prudential Nifty 200 Momentum 30 Index Fund - IDCW",
+        "scheme_name": "ICICI Prudential Nifty 200 Momentum 30 Index Fund - Regular Plan - IDCW",
         "isin_growth": "INF109KC19C3",
         "isin_div_reinvestment": "INF109KC10D0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "16.39050"
+        },
         {
             "date": "18-08-2026",
             "nav": "16.50610"

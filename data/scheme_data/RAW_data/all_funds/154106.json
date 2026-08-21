@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 154106,
-        "scheme_name": "Edelweiss Financial Services Fund - Regular Plan - IDCW Option",
+        "scheme_name": "Edelweiss Financial Services Fund - Regular Plan - IDCW",
         "isin_growth": "INF754K01WM1",
         "isin_div_reinvestment": "INF754K01WN9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "9.54790"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "9.48510"
+        },
         {
             "date": "18-08-2026",
             "nav": "9.51300"

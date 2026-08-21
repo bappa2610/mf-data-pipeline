@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Equity Savings",
         "scheme_code": 153770,
-        "scheme_name": "BAJAJ FINSERV EQUITY SAVINGS FUND -  DIRECT - IDCW",
+        "scheme_name": "Bajaj Finserv Equity Savings Fund - Direct Plan - IDCW",
         "isin_growth": "INF0QA701BU7",
         "isin_div_reinvestment": "INF0QA701BV5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.56300"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.55900"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.55700"

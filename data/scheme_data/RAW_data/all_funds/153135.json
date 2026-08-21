@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 153135,
-        "scheme_name": "Tata BSE Select Business Groups Index Fund - Direct IDCW Reinvestment",
+        "scheme_name": "Tata BSE Select Business Groups Index Fund - Direct Plan - IDCW Reinvestment Option",
         "isin_growth": null,
         "isin_div_reinvestment": "INF277KA1DB0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.42370"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.37440"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.43060"

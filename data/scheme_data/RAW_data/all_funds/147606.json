@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Overnight Fund",
         "scheme_code": 147606,
-        "scheme_name": "PGIM India Overnight Fund - Direct Plan - Growth Option",
+        "scheme_name": "PGIM India Overnight Fund - Direct Plan - Direct Growth",
         "isin_growth": "INF663L01T01",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1415.89210"
+        },
         {
             "date": "18-08-2026",
             "nav": "1415.51140"

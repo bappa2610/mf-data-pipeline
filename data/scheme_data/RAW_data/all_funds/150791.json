@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Index Funds",
+        "scheme_category": "Index Funds - Debt Funds",
         "scheme_code": 150791,
         "scheme_name": "Mirae Asset CRISIL IBX Gilt Index - April 2033 Index Fund - Regular Plan - IDCW",
         "isin_growth": "INF769K01IT3",
         "isin_div_reinvestment": "INF769K01IV9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.38790"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.42420"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.41610"

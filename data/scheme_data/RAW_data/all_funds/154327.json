@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 154327,
-        "scheme_name": "Axis Nifty India Defence Index Fund - Regular Plan - Growth",
+        "scheme_name": "Axis Nifty India Defence Index Fund - Regular Plan - Growth\t Option",
         "isin_growth": "INF846KA1515",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.84280"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.86250"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.02720"

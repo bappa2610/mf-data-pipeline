@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 148837,
-        "scheme_name": "TRUSTMF Liquid Fund-Direct Plan-Weekly Income Distribution cum Capital Withdrawal",
+        "scheme_name": "TRUSTMF Liquid Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal",
         "isin_growth": "INF0GCD01271",
         "isin_div_reinvestment": "INF0GCD01289"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1248.20080"
+        },
         {
             "date": "18-08-2026",
             "nav": "1247.83640"

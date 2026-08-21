@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Multi Cap Fund",
         "scheme_code": 149182,
-        "scheme_name": "Kotak Multicap Fund-Regular Plan-Growth",
+        "scheme_name": "Kotak Multicap Fund - Regular Plan - Growth",
         "isin_growth": "INF174KA1HS9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "20.30600"
+        },
         {
             "date": "18-08-2026",
             "nav": "20.30800"

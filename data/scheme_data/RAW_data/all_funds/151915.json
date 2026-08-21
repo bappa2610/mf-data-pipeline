@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 151915,
-        "scheme_name": "quant Manufacturing Fund - IDCW Option - Regular Plan",
+        "scheme_name": "quant Manufacturing Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF966L01CO7",
         "isin_div_reinvestment": "INF966L01CP4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "16.82380"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "16.76050"
+        },
         {
             "date": "18-08-2026",
             "nav": "16.81650"

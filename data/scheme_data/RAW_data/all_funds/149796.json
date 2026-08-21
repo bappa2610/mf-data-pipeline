@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Overnight Fund",
         "scheme_code": 149796,
-        "scheme_name": "TRUST MF OVERNIGHT FUND-DIRECT PLAN-DAILY IDCW REINVESTMENT",
+        "scheme_name": "TRUSTMF Overnight Fund - Direct Plan - Daily IDCW Reinvestment",
         "isin_growth": null,
         "isin_div_reinvestment": "INF0GCD01461"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1270.87150"
+        },
         {
             "date": "18-08-2026",
             "nav": "1270.53010"

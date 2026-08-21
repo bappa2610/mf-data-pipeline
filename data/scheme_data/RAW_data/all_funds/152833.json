@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 152833,
-        "scheme_name": "Tata Nifty200 Alpha 30 Index Fund - Direct - IDCW Reinvestment",
+        "scheme_name": "Tata Nifty200 Alpha 30 Index Fund - Direct Plan - IDCW Reinvestment Option",
         "isin_growth": null,
         "isin_div_reinvestment": "INF277KA1CK3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "9.07950"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "9.01710"
+        },
         {
             "date": "18-08-2026",
             "nav": "9.11310"

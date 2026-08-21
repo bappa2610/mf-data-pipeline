@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 152667,
-        "scheme_name": "Zerodha Nifty 100 ETF",
+        "scheme_name": "Zerodha Nifty 100 ETF - Direct Plan",
         "isin_growth": "INF0R8F01067",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.67550"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.61260"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.65100"

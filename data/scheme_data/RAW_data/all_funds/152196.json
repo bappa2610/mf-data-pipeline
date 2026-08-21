@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
         "scheme_code": 152196,
-        "scheme_name": "Bajaj Finserv Balanced Advantage Fund-Regular Plan-Growth",
+        "scheme_name": "Bajaj Finserv Balanced Advantage Fund - Regular Plan - Growth",
         "isin_growth": "INF0QA701680",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.86400"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.81700"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.83300"

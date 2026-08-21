@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Banking and PSU Fund",
         "scheme_code": 152163,
-        "scheme_name": "Bajaj Finserv Banking and PSU Fund- Direct Plan- IDCW",
+        "scheme_name": "Bajaj Finserv Banking and PSU Fund - Direct Plan - IDCW",
         "isin_growth": "INF0QA701615",
         "isin_div_reinvestment": "INF0QA701623"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.21420"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.23300"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.22600"

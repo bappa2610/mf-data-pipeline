@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Overnight Fund",
         "scheme_code": 146140,
-        "scheme_name": "Kotak Overnight Fund-Direct Plan- Daily Reinvestment of Income Distribution cum capital withdrawal option",
+        "scheme_name": "Kotak Overnight Fund - Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option",
         "isin_growth": null,
         "isin_div_reinvestment": "INF174KA1BE2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1003.60550"
+        },
         {
             "date": "18-08-2026",
             "nav": "1003.60550"

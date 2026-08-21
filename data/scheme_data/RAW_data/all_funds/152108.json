@@ -4,11 +4,23 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Small Cap Fund",
         "scheme_code": 152108,
-        "scheme_name": "QUANTUM SMALL CAP FUND - REGULAR PLAN GROWTH OPTION",
+        "scheme_name": "QUANTUM SMALL CAP FUND - Regular Plan - Growth Option",
         "isin_growth": "INF082J01440",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "21-08-2026",
+            "nav": "13.74000"
+        },
+        {
+            "date": "20-08-2026",
+            "nav": "13.72000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.61000"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.69000"

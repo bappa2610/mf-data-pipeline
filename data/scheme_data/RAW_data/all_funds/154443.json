@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Schemes - Multi Asset Allocation Fund",
         "scheme_code": 154443,
-        "scheme_name": "ALPHAGREP MULTI ASSET ALLOCATION FUND-DIRECT-IDCW",
+        "scheme_name": "AlphaGrep Multi Asset Allocation Fund - Direct Plan - IDCW",
         "isin_growth": "INF2VOA01038",
         "isin_div_reinvestment": "INF2VOA01020"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.32910"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.23950"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.25170"

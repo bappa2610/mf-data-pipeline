@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Small Cap Fund",
         "scheme_code": 153909,
-        "scheme_name": "Helios Small Cap Fund - Regular Plan - Growth Option",
+        "scheme_name": "Helios Small Cap Fund - Regular Plan - Growth",
         "isin_growth": "INF0R8701350",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.48000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.42000"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.47000"

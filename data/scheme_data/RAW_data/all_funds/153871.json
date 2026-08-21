@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Flexi Cap Fund",
         "scheme_code": 153871,
-        "scheme_name": "THE WEALTH COMPANY FLEXI CAP FUND - REGULAR IDCW",
+        "scheme_name": "The Wealth Company Flexi Cap Fund - Regular Plan - IDCW",
         "isin_growth": "INF2F0001024",
         "isin_div_reinvestment": "INF2F0001032"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.04040"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.00460"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.04880"

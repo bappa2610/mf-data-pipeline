@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Groww Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Schemes - Value Fund",
+        "scheme_category": "Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)",
         "scheme_code": 153004,
-        "scheme_name": "Groww Gold ETF FOF - DIRECT - IDCW",
+        "scheme_name": "Groww Gold ETF FOF - Direct Plan - Income Distribution cum capital withdrawal",
         "isin_growth": "INF666M01IY7",
         "isin_div_reinvestment": "INF666M01IZ4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "19.08840"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "18.62880"
+        },
         {
             "date": "18-08-2026",
             "nav": "18.75290"

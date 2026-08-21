@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Floater Fund",
         "scheme_code": 149048,
-        "scheme_name": "Axis Floater Fund - Regular Plan - Growth",
+        "scheme_name": "Axis Floater Fund - Regular Plan - Growth Option",
         "isin_growth": "INF846K012B8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1401.74470"
+        },
         {
             "date": "18-08-2026",
             "nav": "1402.76880"

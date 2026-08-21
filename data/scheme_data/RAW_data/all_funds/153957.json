@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 153957,
-        "scheme_name": "ANGEL ONE NIFTY TOTAL MARKET MOMENTUM QUALITY 50 ETF",
+        "scheme_name": "ANGEL ONE NIFTY TOTAL MARKET MOMENTUM QUALITY 50 ETF - Direct Plan",
         "isin_growth": "INF1J2R01148",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "21-08-2026",
+            "nav": "10.34410"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.32750"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.44000"

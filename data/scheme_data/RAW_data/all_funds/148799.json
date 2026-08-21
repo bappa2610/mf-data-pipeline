@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 148799,
-        "scheme_name": "Axis IT ETF",
+        "scheme_name": "Axis NIFTY IT ETF",
         "isin_growth": "INF846K01Y96",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "338.23320"
+        },
         {
             "date": "18-08-2026",
             "nav": "333.17010"

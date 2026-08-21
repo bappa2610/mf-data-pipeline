@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Solution Oriented Scheme - Retirement Fund",
         "scheme_code": 146930,
-        "scheme_name": "Aditya Birla Sun Life Retirement Fund-The 40s Plan-Direct Plan-Growth",
+        "scheme_name": "Aditya Birla Sun Life Retirement Fund-The 40s Plan - Direct Plan - GROWTH",
         "isin_growth": "INF209KB1I80",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "21.95900"
+        },
         {
             "date": "18-08-2026",
             "nav": "21.85700"

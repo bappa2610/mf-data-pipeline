@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 151759,
-        "scheme_name": "quant Business Cycle Fund - IDCW Option - Direct Plan",
+        "scheme_name": "quant Business Cycle Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF966L01BS0",
         "isin_div_reinvestment": "INF966L01BT8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "17.14540"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "17.04960"
+        },
         {
             "date": "18-08-2026",
             "nav": "17.15250"

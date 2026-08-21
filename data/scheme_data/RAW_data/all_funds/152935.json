@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 152935,
-        "scheme_name": "ICICI Prudential Nifty200 Value 30 Index Fund - IDCW",
+        "scheme_name": "ICICI Prudential Nifty200 Value 30 Index Fund - Regular Plan - IDCW",
         "isin_growth": "INF109KC12X4",
         "isin_div_reinvestment": "INF109KC11X6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.88230"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.88350"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.93260"

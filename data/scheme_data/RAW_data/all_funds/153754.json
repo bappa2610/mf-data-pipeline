@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 153754,
-        "scheme_name": "Kotak Active Momentum Fund - Direct Plan - IDCW - Payout and Reinvestment",
+        "scheme_name": "Kotak Active Momentum Fund - Direct Plan - Dividend Reinvestment Option",
         "isin_growth": "INF174KA1XB2",
         "isin_div_reinvestment": "INF174KA1XC0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.30000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.30700"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.36900"

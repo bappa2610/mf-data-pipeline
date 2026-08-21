@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 154191,
-        "scheme_name": "Baroda BNP Paribas Best-in-Class Strategy Fund - Regular - IDCW Payout Option",
+        "scheme_name": "Baroda BNP Paribas ESG Best-in-Class Strategy Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF251K01VN8",
         "isin_div_reinvestment": "INF251K01VO6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.64720"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.58830"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.62310"

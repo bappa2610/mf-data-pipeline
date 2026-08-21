@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 150619,
-        "scheme_name": "HDFC NIFTY 50 VALUE 20 ETF - Growth Option",
+        "scheme_name": "HDFC NIFTY50 VALUE 20 ETF - Growth Option",
         "isin_growth": "INF179KC1DK8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "125.75500"
+        },
         {
             "date": "18-08-2026",
             "nav": "125.63380"

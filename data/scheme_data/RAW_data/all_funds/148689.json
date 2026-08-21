@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Solution Oriented Scheme - Retirement Fund",
         "scheme_code": 148689,
-        "scheme_name": "SBI Retirement Benefit Fund - Conservative Plan - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI Retirement Benefit Fund - Conservative Plan - Direct Plan - IDCW",
         "isin_growth": "INF200KA1T47",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.06970"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.08070"

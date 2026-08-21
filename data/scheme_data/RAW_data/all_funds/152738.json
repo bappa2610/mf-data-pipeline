@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Multi Cap Fund",
         "scheme_code": 152738,
-        "scheme_name": "Franklin India Multi Cap Fund - Growth",
+        "scheme_name": "Franklin India Multi Cap Fund - Regular Plan - Growth",
         "isin_growth": "INF090I01WX1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.10300"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.05340"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.10610"

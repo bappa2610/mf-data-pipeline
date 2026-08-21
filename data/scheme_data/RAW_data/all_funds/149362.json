@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Corporate Bond Fund",
         "scheme_code": 149362,
-        "scheme_name": "Tata Corporate Bond Fund-Direct Plan-IDCW Quarterly Payout",
+        "scheme_name": "Tata Corporate Bond Fund - Direct Plan - IDCW Quarterly Payout Option",
         "isin_growth": "INF277KA1257",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.42530"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.44600"

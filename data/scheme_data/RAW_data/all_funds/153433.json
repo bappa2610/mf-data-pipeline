@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 153433,
-        "scheme_name": "SBI BSE PSU BANK INDEX FUND- Direct Plan- Income Distribution Cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI BSE PSU BANK INDEX FUND - Direct Plan - IDCW",
         "isin_growth": "INF200KB1704",
         "isin_div_reinvestment": "INF200KB1696"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.83860"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.81730"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.86770"

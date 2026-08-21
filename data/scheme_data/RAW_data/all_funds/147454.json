@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Overnight Fund",
         "scheme_code": 147454,
-        "scheme_name": "Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Regular Plan- Growth Option",
+        "scheme_name": "Groww Overnight Fund - Regular Plan - Growth",
         "isin_growth": "INF666M01GT1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1405.50320"
+        },
         {
             "date": "18-08-2026",
             "nav": "1405.14340"

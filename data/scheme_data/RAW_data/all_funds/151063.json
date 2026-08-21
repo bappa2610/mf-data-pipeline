@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 151063,
-        "scheme_name": "HSBC Short Duration Fund -  Regular Plan - Monthly IDCW",
+        "scheme_name": "HSBC Short Duration Fund",
         "isin_growth": "INF917K01CH6",
         "isin_div_reinvestment": "INF917K01CI4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.06590"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.08200"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.07960"

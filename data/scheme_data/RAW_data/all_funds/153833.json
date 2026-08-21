@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 153833,
-        "scheme_name": "SBI Dynamic Asset Allocation Active FoF- Direct Plan- Income Cum Distribution Capital Withdrawal Option",
+        "scheme_name": "SBI Dynamic Asset Allocation Active FoF - Direct Plan - IDCW",
         "isin_growth": "INF200KB1AB7",
         "isin_div_reinvestment": "INF200KB1AC5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.44840"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.43070"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.44970"

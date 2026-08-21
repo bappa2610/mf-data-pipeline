@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 153435,
-        "scheme_name": "SBI BSE PSU BANK ETF",
+        "scheme_name": "SBI BSE PSU BANK ETF - Regular Plan - IDCW",
         "isin_growth": "INF200KB1712",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "49.91790"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "49.84110"
+        },
         {
             "date": "18-08-2026",
             "nav": "50.02310"

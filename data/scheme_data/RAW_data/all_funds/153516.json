@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Multi Cap Fund",
+        "scheme_category": "Equity Schemes - Multi Cap Fund",
         "scheme_code": 153516,
-        "scheme_name": "UTI Multi Cap Fund - Regular Plan - Growth Option",
+        "scheme_name": "UTI Multi Cap Fund - Regular Plan - Growth",
         "isin_growth": "INF789F1AB71",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.77470"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.70210"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.74230"

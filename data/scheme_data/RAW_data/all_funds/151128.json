@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation",
         "scheme_code": 151128,
-        "scheme_name": "HSBC Balanced Advantage Fund - Direct IDCW",
+        "scheme_name": "HSBC Balanced Advantage Fund - Direct Plan - IDCW",
         "isin_growth": "INF917K01IM3",
         "isin_div_reinvestment": "INF917K01IL5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "22.27530"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "22.20860"
+        },
         {
             "date": "18-08-2026",
             "nav": "22.23090"

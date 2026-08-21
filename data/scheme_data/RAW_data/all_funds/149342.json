@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 149342,
-        "scheme_name": "Edelweiss NIFTY Large Midcap 250 Index Fund - Regular Plan Payout",
+        "scheme_name": "Edelweiss NIFTY Large Midcap 250 Index Fund - Regular Plan - Payout",
         "isin_growth": "INF754K01NO6",
         "isin_div_reinvestment": "INF754K01NP3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "16.06590"
+        },
         {
             "date": "18-08-2026",
             "nav": "16.03990"

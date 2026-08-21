@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Low Duration Fund",
         "scheme_code": 150167,
-        "scheme_name": "BARODA BNP PARIBAS LOW DURATION FUND - Regular Plan - MONTHLY IDCW OPTION",
+        "scheme_name": "BARODA BNP PARIBAS LOW DURATION FUND - Regular Plan - Monthly IDCW Option",
         "isin_growth": "INF251K01DU1",
         "isin_div_reinvestment": "INF251K01DV9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.27120"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.27430"

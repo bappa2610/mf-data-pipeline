@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Overnight Fund",
         "scheme_code": 147196,
-        "scheme_name": "Baroda BNP Paribas Overnight Fund - Direct Plan - Growth",
+        "scheme_name": "Baroda BNP Paribas Overnight Fund - Direct Plan - Growth Option",
         "isin_growth": "INF955L01HV4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1443.19380"
+        },
         {
             "date": "18-08-2026",
             "nav": "1442.79820"

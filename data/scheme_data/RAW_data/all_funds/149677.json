@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Equity Savings",
         "scheme_code": 149677,
-        "scheme_name": "Sundaram Equity Savings Fund (Formerly Known as  Principal Equity Savings Fund) - Direct Plan - Income Distribution CUM Capital Withdrawal Option (IDCW)",
+        "scheme_name": "Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund) - Direct Plan - IDCW (Income Distribution CUM Capital Withdrawal)",
         "isin_growth": "INF173K01HC6",
         "isin_div_reinvestment": "INF173K01HD4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.74830"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.71620"

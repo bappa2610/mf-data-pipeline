@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Focused Fund",
         "scheme_code": 147475,
-        "scheme_name": "Kotak Focused Fund-Direct Plan- Income Distribution cum capital withdrawal option",
+        "scheme_name": "Kotak Focused Fund - Direct Plan - Income Distribution cum capital withdrawal option",
         "isin_growth": "INF174KA1EP2",
         "isin_div_reinvestment": "INF174KA1EO5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "31.11000"
+        },
         {
             "date": "18-08-2026",
             "nav": "31.06300"

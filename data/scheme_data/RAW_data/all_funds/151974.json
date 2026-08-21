@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 151974,
-        "scheme_name": "LIC MF Gold ETF Fund of Fund-Direct Plan-Growth",
+        "scheme_name": "LIC MF Gold ETF Fund of Fund - Direct Plan - Growth",
         "isin_growth": "INF397L01BU4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "42.22320"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "41.38020"
+        },
         {
             "date": "18-08-2026",
             "nav": "41.54640"

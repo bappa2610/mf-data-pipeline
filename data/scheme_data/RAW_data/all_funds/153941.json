@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 153941,
-        "scheme_name": "Franklin India Multi-Factor Fund- IDCW",
+        "scheme_name": "Franklin India Multi-Factor Fund - Regular Plan - IDCW",
         "isin_growth": "INF090I01YP3",
         "isin_div_reinvestment": "INF090I01YO6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "9.57380"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "9.53660"
+        },
         {
             "date": "18-08-2026",
             "nav": "9.56690"

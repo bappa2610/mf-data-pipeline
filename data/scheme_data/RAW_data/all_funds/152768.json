@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 152768,
-        "scheme_name": "KOTAK NIFTY MIDCAP 50 INDEX FUND-DIRECT PLAN-IDCW PAYOUT AND REINVESTMENT",
+        "scheme_name": "Kotak Nifty Midcap 50 Index Fund - Direct Plan - IDCW PAYOUT AND REINVESTMENT",
         "isin_growth": "INF174KA1SS6",
         "isin_div_reinvestment": "INF174KA1ST4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.26500"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.21600"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.21400"

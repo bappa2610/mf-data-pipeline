@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 151303,
-        "scheme_name": "Tata Nifty G SEc Dec 2026 Index Fund-Regular Plan-IDCW Reinvestment",
+        "scheme_name": "Tata Nifty G-Sec Dec 2026 Index Fund - Regular Plan - IDCW Reinvestment Option",
         "isin_growth": null,
         "isin_div_reinvestment": "INF277KA1836"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.67520"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.67410"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.67210"

@@ -1,14 +1,18 @@
 {
     "meta": {
         "fund_house": "SBI Mutual Fund",
-        "scheme_type": "IL&FS Mutual Fund",
-        "scheme_category": "IDF",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
         "scheme_code": 149307,
         "scheme_name": "SBI Fixed Maturity Plan (FMP) - Series 54 (1842 Days) - Direct Plan - Growth",
         "isin_growth": "INF200KA12B1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.35260"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.34890"

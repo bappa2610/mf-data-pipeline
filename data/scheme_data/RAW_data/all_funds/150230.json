@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Corporate Bond Fund",
         "scheme_code": 150230,
-        "scheme_name": "BARODA BNP PARIBAS Corporate Bond Fund - Defunct Plan - Annual-IDCW Option",
+        "scheme_name": "BARODA BNP PARIBAS CORPORATE BOND FUND - Annual IDCW Option",
         "isin_growth": "INF251K01EN4",
         "isin_div_reinvestment": "INF251K01EO2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.25520"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.26310"

@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
         "scheme_code": 147770,
-        "scheme_name": "LIC MF Ultra Short Duration Fund-Regular Plan-Growth",
+        "scheme_name": "LIC MF Ultra Short Duration Fund - Regular Plan - Growth",
         "isin_growth": "INF767K01QO1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1408.97730"
+        },
         {
             "date": "18-08-2026",
             "nav": "1409.22170"

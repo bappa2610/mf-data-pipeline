@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 154454,
-        "scheme_name": "NJ Momentum Fund - Direct IDCW",
+        "scheme_name": "NJ Momentum Fund - Direct Plan - IDCW Payout Option",
         "isin_growth": "INF0J8L01180",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.14000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.10000"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.15000"

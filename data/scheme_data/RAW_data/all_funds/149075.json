@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Short Duration Fund",
         "scheme_code": 149075,
-        "scheme_name": "TRUSTMF Short Duration Fund-Regular Plan-Quarterly Income Distribution Cum Capital Withdrawal",
+        "scheme_name": "TRUSTMF Short Duration Fund - Regular Plan - Quarterly Income Distribution Cum Capital Withdrawal",
         "isin_growth": "INF0GCD01354",
         "isin_div_reinvestment": "INF0GCD01362"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1148.53700"
+        },
         {
             "date": "18-08-2026",
             "nav": "1149.13320"

@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 149469,
-        "scheme_name": "Axis Nifty Next 50 Index Fund - Direct Plan - IDCW",
+        "scheme_name": "Axis Nifty Next 50 Index Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF846K010F3",
         "isin_div_reinvestment": "INF846K011F1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "17.49750"
+        },
         {
             "date": "18-08-2026",
             "nav": "17.52450"

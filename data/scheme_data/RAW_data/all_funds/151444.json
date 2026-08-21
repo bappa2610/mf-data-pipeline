@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Multi Cap Fund",
         "scheme_code": 151444,
-        "scheme_name": "Bank of India Multi Cap Fund Direct Plan - IDCW",
+        "scheme_name": "BANK OF INDIA MULTI CAP FUND - Direct Plan - IDCW",
         "isin_growth": "INF761K01FQ2",
         "isin_div_reinvestment": "INF761K01FS8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "20.79000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "20.69000"
+        },
         {
             "date": "18-08-2026",
             "nav": "20.79000"

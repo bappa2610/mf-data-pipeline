@@ -4,11 +4,23 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Flexi Cap Fund",
         "scheme_code": 154227,
-        "scheme_name": "Old Bridge Flexi Cap Fund Regular IDCW",
+        "scheme_name": "Old Bridge Flexi Cap Fund - Regular Plan - Regular IDCW",
         "isin_growth": "INF0S5R01174",
         "isin_div_reinvestment": "INF0S5R01182"
     },
     "data": [
+        {
+            "date": "21-08-2026",
+            "nav": "11.53000"
+        },
+        {
+            "date": "20-08-2026",
+            "nav": "11.53000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.39000"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.43000"

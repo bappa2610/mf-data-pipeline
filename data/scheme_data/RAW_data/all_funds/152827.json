@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
         "scheme_code": 152827,
-        "scheme_name": "Franklin India Ultra Short Duration Fund - Direct - IDCW",
+        "scheme_name": "Franklin India Ultra Short Duration Fund - Direct Plan - IDCW",
         "isin_growth": "INF090I01XM2",
         "isin_div_reinvestment": "INF090I01XN0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.80410"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.80770"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.80560"

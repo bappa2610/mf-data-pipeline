@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Dividend Yield Fund",
         "scheme_code": 151475,
-        "scheme_name": "SBI Dividend Yield Fund - Direct Plan - Income Distribution cum Capital Withdrawal (IDCW) Option",
+        "scheme_name": "SBI Dividend Yield Fund - Direct Plan - IDCW",
         "isin_growth": "INF200KA15W0",
         "isin_div_reinvestment": "INF200KA16W8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "16.42130"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "16.35090"
+        },
         {
             "date": "18-08-2026",
             "nav": "16.36120"

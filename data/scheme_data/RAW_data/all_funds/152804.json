@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 152804,
-        "scheme_name": "Axis Consumption Fund Regular Plan - Growth",
+        "scheme_name": "Axis Consumption Fund - Regular Plan - Growth Option",
         "isin_growth": "INF846K010X6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "9.51000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "9.45000"
+        },
         {
             "date": "18-08-2026",
             "nav": "9.47000"

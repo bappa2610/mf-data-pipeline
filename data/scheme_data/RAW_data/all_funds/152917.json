@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 152917,
-        "scheme_name": "Kotak Nifty Midcap 150 Momentum 50 Index Fund-Direct Plan-IDCW option",
+        "scheme_name": "Kotak Nifty Midcap 150 Momentum 50 Index Fund - Direct Plan - IDCW",
         "isin_growth": "INF174KA1TN5",
         "isin_div_reinvestment": "INF174KA1TO3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "9.64900"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "9.62400"
+        },
         {
             "date": "18-08-2026",
             "nav": "9.69700"

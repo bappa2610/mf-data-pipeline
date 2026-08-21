@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Money Market Fund",
         "scheme_code": 154507,
-        "scheme_name": "Kotak Money Market Fund - Direct - IDCW Weekly",
+        "scheme_name": "Kotak Money Market Fund - Direct Plan - IDCW Weekly",
         "isin_growth": "INF174KA1B28",
         "isin_div_reinvestment": "INF174KA1B02"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1002.05470"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1002.47730"
+        },
         {
             "date": "18-08-2026",
             "nav": "1002.30060"

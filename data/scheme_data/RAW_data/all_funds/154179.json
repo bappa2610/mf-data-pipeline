@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 154179,
-        "scheme_name": "HDFC Nifty India Consumption Index Fund - Direct Growth Plan",
+        "scheme_name": "HDFC Nifty India Consumption Index Fund - Direct Plan - Growth Option",
         "isin_growth": "INF179KC1KA4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.16210"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.09410"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.10930"

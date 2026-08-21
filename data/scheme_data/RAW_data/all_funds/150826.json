@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 150826,
-        "scheme_name": "Nippon India Nifty SDL Plus G-Sec - Jun 2028 Maturity 70:30 Index Fund-Direct Plan-IDCW Option",
+        "scheme_name": "Nippon India Nifty SDL Plus G-Sec - Jun 2028 Maturity 70:30 Index Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF204KC1758",
         "isin_div_reinvestment": "INF204KC1766"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.13610"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.14410"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.14260"

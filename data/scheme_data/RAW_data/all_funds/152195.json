@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
         "scheme_code": 152195,
-        "scheme_name": "Bajaj Finserv Balanced Advantage Fund-Direct Plan-IDCW",
+        "scheme_name": "Bajaj Finserv Balanced Advantage Fund - Direct Plan - IDCW",
         "isin_growth": "INF0QA701664",
         "isin_div_reinvestment": "INF0QA701672"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.36700"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.31700"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.33400"

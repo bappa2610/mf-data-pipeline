@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Overnight Fund",
         "scheme_code": 147838,
-        "scheme_name": "JM Overnight Fund (Direct) - Daily IDCW",
+        "scheme_name": "JM Overnight Fund - Direct Plan - Daily IDCW Option",
         "isin_growth": null,
         "isin_div_reinvestment": "INF192K01LY2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1000.00000"
+        },
         {
             "date": "18-08-2026",
             "nav": "1000.00000"

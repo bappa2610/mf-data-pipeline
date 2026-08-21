@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Dividend Yield Fund",
         "scheme_code": 148608,
-        "scheme_name": "HDFC Dividend Yield Fund - IDCW Option Direct Plan",
+        "scheme_name": "HDFC DIVIDEND YIELD FUND - Direct Plan - IDCW Option",
         "isin_growth": "INF179KC1AP3",
         "isin_div_reinvestment": "INF179KC1AQ1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "21.96800"
+        },
         {
             "date": "18-08-2026",
             "nav": "21.93800"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 152420,
-        "scheme_name": "SBI Energy Opportunities Fund - Direct Plan - Income Distribution Cum Capital Withdrawal Option",
+        "scheme_name": "SBI Energy Opportunities Fund - Direct Plan - IDCW",
         "isin_growth": "INF200KB1134",
         "isin_div_reinvestment": "INF200KB1142"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.35810"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.35270"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.47500"

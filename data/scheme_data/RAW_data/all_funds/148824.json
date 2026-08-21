@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 148824,
-        "scheme_name": "ICICI Prudential Nifty 100 Low Volatility 30 ETF FOF - IDCW",
+        "scheme_name": "ICICI Prudential Nifty 100 Low Volatility 30 ETF FOF - Regular Plan - IDCW",
         "isin_growth": "INF109KC1P73",
         "isin_div_reinvestment": "INF109KC1P65"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "18.22160"
+        },
         {
             "date": "18-08-2026",
             "nav": "18.22210"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 154264,
-        "scheme_name": "HDFC INCOME PLUS ARBITRAGE OMNI FOF - IDCW OPTION - REGULAR PLAN",
+        "scheme_name": "HDFC INCOME PLUS ARBITRAGE OMNI FOF - Regular Plan - IDCW OPTION",
         "isin_growth": "INF179KC1KC0",
         "isin_div_reinvestment": "INF179KC1KD8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.35200"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.36510"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.35610"

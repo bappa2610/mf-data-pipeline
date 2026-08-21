@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 153205,
-        "scheme_name": "UTI Quant Fund - Regular Plan - Growth Option",
+        "scheme_name": "UTI Quant Fund - Regular Plan - Growth",
         "isin_growth": "INF789F1AA80",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.53020"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.45520"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.48700"

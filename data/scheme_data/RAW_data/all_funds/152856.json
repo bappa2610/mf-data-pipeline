@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 152856,
-        "scheme_name": "Bandhan Nifty Midcap 150 Index Fund-Regular Plan-Growth",
+        "scheme_name": "Bandhan Nifty Midcap 150 Index Fund - Regular Plan - Growth",
         "isin_growth": "INF194KB1IU8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.50620"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.46910"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.49570"

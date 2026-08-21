@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 153313,
-        "scheme_name": "Kotak CRISIL - IBX AAA Bond Financial Services Index Dec 2026 Fund - Direct - Growth",
+        "scheme_name": "Kotak CRISIL- IBX AAA Bond Financial Services Index - Dec 2026 Fund - Direct Plan - Growth",
         "isin_growth": "INF174KA1UX2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.15260"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.15430"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.15250"

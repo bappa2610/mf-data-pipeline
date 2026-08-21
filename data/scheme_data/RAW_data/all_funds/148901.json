@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 148901,
-        "scheme_name": "HDFC Multi-Asset Active FOF - Growth Option",
+        "scheme_name": "HDFC Multi-Asset Active FOF - Regular Plan - Growth Option",
         "isin_growth": "INF179KC1BD7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "19.83600"
+        },
         {
             "date": "18-08-2026",
             "nav": "19.76000"

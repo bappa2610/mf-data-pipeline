@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 151434,
-        "scheme_name": "AXIS CRISIL IBX 50:50 Gilt Plus SDL September 2027 Index Fund- REGULAR PLAN-IDCW",
+        "scheme_name": "Axis Crisil IBX 50:50 Gilt Plus SDL September 2027 Index Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF846K016O2",
         "isin_div_reinvestment": "INF846K017O0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.84090"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.84180"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.83950"

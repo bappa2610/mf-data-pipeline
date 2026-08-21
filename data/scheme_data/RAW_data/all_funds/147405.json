@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
         "scheme_code": 147405,
-        "scheme_name": "Shriram Balanced Advantage Fund - Regular Growth",
+        "scheme_name": "Shriram Balanced Advantage Fund - Regular Plan - Growth",
         "isin_growth": "INF680P01174",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "16.75540"
+        },
         {
             "date": "18-08-2026",
             "nav": "16.69680"

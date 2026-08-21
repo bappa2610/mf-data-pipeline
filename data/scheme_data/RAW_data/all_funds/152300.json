@@ -4,11 +4,23 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 152300,
-        "scheme_name": "Quantum Liquid Fund - Unclaimed Redemption Plan Below 3 years",
+        "scheme_name": "Quantum Liquid Fund",
         "isin_growth": null,
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "21-08-2026",
+            "nav": "11.34690"
+        },
+        {
+            "date": "20-08-2026",
+            "nav": "11.34540"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.34450"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.34270"

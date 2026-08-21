@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 148408,
-        "scheme_name": "Nippon India ETF Nifty IT",
+        "scheme_name": "Nippon India ETF Nifty IT - Direct Plan",
         "isin_growth": "INF204KB15V2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "34.10040"
+        },
         {
             "date": "18-08-2026",
             "nav": "33.58990"

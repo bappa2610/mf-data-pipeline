@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 153011,
-        "scheme_name": "Zerodha Gold ETF FoF-Direct Plan - Growth Option",
+        "scheme_name": "Zerodha Gold ETF FoF - Direct Plan - Growth Option",
         "isin_growth": "INF0R8F01083",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "20.38900"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "19.86620"
+        },
         {
             "date": "18-08-2026",
             "nav": "19.98250"

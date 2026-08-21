@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 149875,
-        "scheme_name": "Axis CRISIL IBX SDL May 2027 Index Fund - Regular Plan - IDCW",
+        "scheme_name": "Axis CRISIL IBX SDL May 2027 Index Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF846K011H7",
         "isin_div_reinvestment": "INF846K012H5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.13330"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.13130"

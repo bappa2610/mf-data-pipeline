@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Gilt Fund",
         "scheme_code": 151015,
-        "scheme_name": "HSBC Gilt Fund - Direct Quarterly IDCW",
+        "scheme_name": "HSBC Gilt Fund - Direct Plan - Quarterly IDCW",
         "isin_growth": "INF917K01FK3",
         "isin_div_reinvestment": "INF917K01FJ5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.01220"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.05600"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.05930"

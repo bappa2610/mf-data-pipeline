@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Arbitrage Fund",
         "scheme_code": 150255,
-        "scheme_name": "BARODA BNP PARIBAS ARBITRAGE FUND DIRECT PLAN MONTHLY IDCW Option",
+        "scheme_name": "BARODA BNP PARIBAS ARBITRAGE FUND - Direct Plan - Monthly IDCW Option",
         "isin_growth": "INF251K01PF6",
         "isin_div_reinvestment": "INF251K01PE9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.80850"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.80530"

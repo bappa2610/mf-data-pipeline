@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 153719,
-        "scheme_name": "SBI Nifty100 Low Volatility 30 Index Fund-Direct  Plan- Income Cum Distribution Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI Nifty100 Low Volatility 30 Index Fund - Direct Plan - IDCW",
         "isin_growth": "INF200KB1944",
         "isin_div_reinvestment": "INF200KB1951"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.30430"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.24950"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.26300"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 153950,
-        "scheme_name": "LIC MF Consumption Fund-Regular Plan-Growth",
+        "scheme_name": "LIC MF Consumption Fund - Regular Plan - Growth",
         "isin_growth": "INF767K01SA6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "9.93140"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "9.89820"
+        },
         {
             "date": "18-08-2026",
             "nav": "9.90680"

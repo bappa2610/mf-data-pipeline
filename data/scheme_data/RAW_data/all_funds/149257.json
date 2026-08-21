@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 149257,
-        "scheme_name": "Edelweiss Nifty 100 Quality 30 Index Fund Regular Plan IDCW",
+        "scheme_name": "Edelweiss Nifty 100 Quality 30 Index Fund - Regular Plan - IDCW",
         "isin_growth": "INF754K01NG2",
         "isin_div_reinvestment": "INF754K01NH0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "14.57340"
+        },
         {
             "date": "18-08-2026",
             "nav": "14.52720"

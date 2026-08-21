@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)",
         "scheme_code": 153818,
         "scheme_name": "Mirae Asset Multi Factor Passive FOF - Regular Plan - Growth",
         "isin_growth": "INF769K01PE0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.85300"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.80200"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.87300"

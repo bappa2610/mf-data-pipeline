@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 150590,
-        "scheme_name": "BANDHAN NIFTY200 MOMENTUM 30 INDEX FUND - IDCW - DIRECT PLAN",
+        "scheme_name": "BANDHAN NIFTY200 MOMENTUM 30 INDEX FUND - Direct Plan - IDCW",
         "isin_growth": "INF194KB1DQ7",
         "isin_div_reinvestment": "INF194KB1DR5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.75430"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.86500"

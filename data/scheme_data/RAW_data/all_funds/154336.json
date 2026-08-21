@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Contra Fund",
         "scheme_code": 154336,
-        "scheme_name": "Motilal Oswal Contra Fund \u2013 Direct \u2013 IDCW",
+        "scheme_name": "Motilal Oswal Contra Fund",
         "isin_growth": "INF247L01GX4",
         "isin_div_reinvestment": "INF247L01GY2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.47160"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.41440"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.47440"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
         "scheme_code": 152785,
-        "scheme_name": "Union Multi Asset Allocation Fund- Regular Plan - IDCW Option",
+        "scheme_name": "Union Multi Asset Allocation Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF582M01JV0",
         "isin_div_reinvestment": "INF582M01JW8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.36000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.26000"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.32000"

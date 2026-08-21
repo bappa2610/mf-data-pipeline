@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 150430,
-        "scheme_name": "DSP Nifty Midcap 150 Quality 50 Index Fund - Regular - IDCW",
+        "scheme_name": "DSP Nifty Midcap 150 Quality 50 Index Fund - Regular Plan - IDCW",
         "isin_growth": "INF740KA1QZ0",
         "isin_div_reinvestment": "INF740KA1RA1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.30060"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.26040"

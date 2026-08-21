@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 151426,
-        "scheme_name": "Aditya Birla Sun Life CRISIL IBX SDL Jun 2032 INDEX FUND - Regular IDCW Payout",
+        "scheme_name": "Aditya Birla Sun Life CRISIL IBX SDL Jun 2032 Index Fund - Regular Plan - IDCW Payout",
         "isin_growth": "INF209KB13S2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.93730"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.97510"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.97960"

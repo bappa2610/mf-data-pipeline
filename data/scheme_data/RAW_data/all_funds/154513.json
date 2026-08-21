@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Ultra Short Term Fund",
         "scheme_code": 154513,
-        "scheme_name": "Kotak Savings Fund - Direct - IDCW Weekly",
+        "scheme_name": "Kotak Savings Fund - Direct Plan - IDCW Weekly",
         "isin_growth": "INF174KA1C43",
         "isin_div_reinvestment": "INF174KA1C27"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.00980"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.01330"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.01250"

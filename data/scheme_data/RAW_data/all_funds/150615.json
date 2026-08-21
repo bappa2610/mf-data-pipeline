@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 150615,
-        "scheme_name": "Axis Silver Fund of Fund- Direct Plan-Growth Option",
+        "scheme_name": "Axis Silver Fund of Fund - Direct Plan - Growth Option",
         "isin_growth": "INF846K015J4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "40.40630"
+        },
         {
             "date": "18-08-2026",
             "nav": "39.76720"

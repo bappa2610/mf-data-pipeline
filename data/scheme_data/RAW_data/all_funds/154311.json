@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 154311,
-        "scheme_name": "Edelweiss Nifty LargeMidcap250 Plus 8-13 yr G-Sec 70-30 Index Fund Direct Plan Monthly IDCW",
+        "scheme_name": "Edelweiss Nifty LargeMidcap250 Plus 8-13yr G-Sec 70:30 Index Fund - Direct Plan - Monthly IDCW",
         "isin_growth": "INF754K01WS8",
         "isin_div_reinvestment": "INF754K01WT6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.93470"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.90750"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.93070"

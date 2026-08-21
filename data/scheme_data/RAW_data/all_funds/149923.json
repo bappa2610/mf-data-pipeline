@@ -4,11 +4,15 @@
         "scheme_type": "Close Ended Schemes",
         "scheme_category": "Income",
         "scheme_code": 149923,
-        "scheme_name": "HDFC FMP 1861D March 2022 - Quarterly Dividend Option - Direct Plan",
+        "scheme_name": "HDFC FMP 1861D March 2022 - Direct Plan - Quarterly Dividend Option",
         "isin_growth": "INF179KC1CE3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.09780"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.09670"

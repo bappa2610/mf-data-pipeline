@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Overnight Fund",
         "scheme_code": 147516,
-        "scheme_name": "LIC MF Overnight Fund-Direct Plan-Daily IDCW",
+        "scheme_name": "LIC MF Overnight Fund - Direct Plan - Daily IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF767K01QG7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1123.42810"
+        },
         {
             "date": "18-08-2026",
             "nav": "1123.11890"

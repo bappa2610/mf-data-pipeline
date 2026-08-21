@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Multi Cap Fund",
+        "scheme_category": "Equity Schemes - Multi Cap Fund",
         "scheme_code": 151813,
         "scheme_name": "Mirae Asset Multicap Fund - Regular Plan - IDCW",
         "isin_growth": "INF769K01KI2",
         "isin_div_reinvestment": "INF769K01KJ0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "14.89600"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "14.80100"
+        },
         {
             "date": "18-08-2026",
             "nav": "14.84700"

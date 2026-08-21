@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 151209,
-        "scheme_name": "ICICI Prudential Nifty SDL Sep 2026 Index Fund - Annual IDCW",
+        "scheme_name": "ICICI Prudential Nifty SDL Sep 2026 Index Fund - Regular Plan - Annual IDCW",
         "isin_growth": "INF109KC11P2",
         "isin_div_reinvestment": "INF109KC12P0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.78610"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.78460"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.78260"

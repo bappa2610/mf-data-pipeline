@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Index Funds - Equity Funds",
         "scheme_code": 152636,
-        "scheme_name": "Groww Nifty Non-Cyclical Consumer Index Fund - Direct Plan - IDCW",
+        "scheme_name": "Groww Nifty Non-Cyclical Consumer Index Fund - Direct Plan - Income Distribution cum capital withdrawal",
         "isin_growth": "INF666M01IF6",
         "isin_div_reinvestment": "INF666M01IG4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.58060"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.49880"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.50660"

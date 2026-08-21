@@ -4,11 +4,23 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 153656,
-        "scheme_name": "Zerodha Silver ETF FoF - Direct Growth",
+        "scheme_name": "Zerodha Silver ETF FoF - Direct Plan - Growth Option",
         "isin_growth": "INF0R8F01109",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "21-08-2026",
+            "nav": "22.20700"
+        },
+        {
+            "date": "20-08-2026",
+            "nav": "21.49660"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "20.65990"
+        },
         {
             "date": "18-08-2026",
             "nav": "21.14570"

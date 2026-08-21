@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 148461,
-        "scheme_name": "HDFC NIFTY Bank ETF - GROWTH",
+        "scheme_name": "HDFC NIFTY BANK ETF - Growth Option",
         "isin_growth": "INF179KC1HY0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "59.27640"
+        },
         {
             "date": "18-08-2026",
             "nav": "59.03660"

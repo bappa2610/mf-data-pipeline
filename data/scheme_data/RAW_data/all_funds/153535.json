@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 153535,
-        "scheme_name": "MOTILAL OSWAL NIFTY NEXT 50 ETF",
+        "scheme_name": "Motilal Oswal Nifty Next 50 ETF",
         "isin_growth": "INF247L01FD8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "74.14210"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "73.84860"
+        },
         {
             "date": "18-08-2026",
             "nav": "74.25650"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Index Funds - Equity Funds",
         "scheme_code": 153798,
-        "scheme_name": "Groww Nifty Next 50 Index Fund Regular Growth",
+        "scheme_name": "Groww Nifty Next 50 Index Fund - Regular Plan - Growth",
         "isin_growth": "INF666M01LW5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.92030"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.87730"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.93740"

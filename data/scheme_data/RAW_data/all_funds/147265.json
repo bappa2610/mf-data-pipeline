@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Floater Fund",
         "scheme_code": 147265,
-        "scheme_name": "KOTAK FLOATING RATE FUND-REGULAR PLAN-STANDARD Reinvestment of Income Distribution cum capital withdrawal option",
+        "scheme_name": "KOTAK FLOATING RATE FUND - Regular Plan - STANDARD Reinvestment of Income Distribution cum capital withdrawal option",
         "isin_growth": null,
         "isin_div_reinvestment": "INF174KA1EB2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1441.70560"
+        },
         {
             "date": "18-08-2026",
             "nav": "1443.66470"

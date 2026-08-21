@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Multi Cap Fund",
         "scheme_code": 151289,
-        "scheme_name": "HSBC Multi Cap Fund - Regular - Growth",
+        "scheme_name": "HSBC Multi Cap Fund - Regular Plan - Growth",
         "isin_growth": "INF336L01QQ8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "20.55480"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "20.48600"
+        },
         {
             "date": "18-08-2026",
             "nav": "20.57490"

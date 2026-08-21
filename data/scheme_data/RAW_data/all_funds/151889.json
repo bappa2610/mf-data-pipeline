@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Money Market Fund",
         "scheme_code": 151889,
-        "scheme_name": "Bajaj Finserv Money Market Fund-Direct Plan-Growth",
+        "scheme_name": "Bajaj Finserv Money Market Fund - Direct Plan - Growth",
         "isin_growth": "INF0QA701334",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1249.44900"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1250.04060"
+        },
         {
             "date": "18-08-2026",
             "nav": "1249.78700"

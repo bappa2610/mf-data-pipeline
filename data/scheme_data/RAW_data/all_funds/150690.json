@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 150690,
-        "scheme_name": "Aditya Birla Sun Life Multi-Asset Passive FOF-Regular Growth",
+        "scheme_name": "Aditya Birla Sun Life Multi-Asset Passive FOF - Regular Plan - GROWTH",
         "isin_growth": "INF209KB12M7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "17.80760"
+        },
         {
             "date": "18-08-2026",
             "nav": "17.76830"

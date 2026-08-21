@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Mid Cap Fund",
         "scheme_code": 153325,
-        "scheme_name": "Helios Mid Cap Fund - Regular Plan - IDCW Option",
+        "scheme_name": "Helios Mid Cap Fund - Regular Plan - IDCW",
         "isin_growth": "INF0R8701301",
         "isin_div_reinvestment": "INF0R8701319"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "14.01000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.90000"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.93000"

@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 148746,
-        "scheme_name": "Kotak Nifty Next 50 Index Fund - Direct Plan -Payout of Income Distribution cum capital withdrawal option",
+        "scheme_name": "Kotak Nifty Next 50 Index Fund - Direct Plan - Payout of Income Distribution cum capital withdrawal option",
         "isin_growth": "INF174KA1FZ8",
         "isin_div_reinvestment": "INF174KA1GB7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "21.77270"
+        },
         {
             "date": "18-08-2026",
             "nav": "21.80610"

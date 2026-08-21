@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Multi Cap Fund",
         "scheme_code": 149304,
-        "scheme_name": "BANDHAN MULTI CAP FUND - IDCW - DIRECT PLAN",
+        "scheme_name": "BANDHAN MULTI CAP FUND - Direct Plan - IDCW",
         "isin_growth": "INF194KB1CM8",
         "isin_div_reinvestment": "INF194KB1CN6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "16.77800"
+        },
         {
             "date": "18-08-2026",
             "nav": "16.75100"

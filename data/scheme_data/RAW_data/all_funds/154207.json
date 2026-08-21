@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 154207,
-        "scheme_name": "ANGEL ONE SILVER ETF FOF -REGULAR GROWTH",
+        "scheme_name": "ANGEL ONE SILVER ETF FOF - Regular Plan - Growth",
         "isin_growth": "INF1J2R01163",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "21-08-2026",
+            "nav": "8.37920"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "7.84820"
+        },
         {
             "date": "18-08-2026",
             "nav": "8.01100"

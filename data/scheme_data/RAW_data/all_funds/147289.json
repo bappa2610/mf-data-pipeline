@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Overnight Fund",
         "scheme_code": 147289,
-        "scheme_name": "HSBC Overnight Fund - Regular Daily IDCW",
+        "scheme_name": "HSBC Overnight Fund - Regular Plan - Daily IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF336L01OM2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1000.01490"
+        },
         {
             "date": "18-08-2026",
             "nav": "1000.01490"

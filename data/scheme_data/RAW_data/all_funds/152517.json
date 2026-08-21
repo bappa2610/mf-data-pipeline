@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Long Duration Fund",
         "scheme_code": 152517,
-        "scheme_name": "Bandhan Long Duration Fund - Regular Plan - IDCW",
+        "scheme_name": "BANDHAN LONG DURATION FUND - Regular Plan - IDCW",
         "isin_growth": "INF194KB1HW6",
         "isin_div_reinvestment": "INF194KB1HX4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.40200"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.44740"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.44980"

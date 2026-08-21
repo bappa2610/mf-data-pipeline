@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Corporate Bond Fund",
         "scheme_code": 150992,
-        "scheme_name": "HSBC Corporate Bond Fund - Regular Growth",
+        "scheme_name": "HSBC Corporate Bond Fund - Regular Plan - Growth",
         "isin_growth": "INF917K01AH0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "77.77620"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "77.87140"
+        },
         {
             "date": "18-08-2026",
             "nav": "77.83330"

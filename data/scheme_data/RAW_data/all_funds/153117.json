@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 153117,
-        "scheme_name": "Kotak Transportation & Logistics Fund-Direct -IDCW-PAYOUT & REINVESTMENT",
+        "scheme_name": "Kotak Transportation & Logistics Fund - Direct Plan - IDCW-PAYOUT & REINVESTMENT",
         "isin_growth": "INF174KA1TT2",
         "isin_div_reinvestment": "INF174KA1TU0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.52300"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.50700"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.43300"

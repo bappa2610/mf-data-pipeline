@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Long Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Long Term Fund",
         "scheme_code": 153106,
         "scheme_name": "Mirae Asset Long Duration Fund - Direct Plan - IDCW",
         "isin_growth": "INF769K01ND7",
         "isin_div_reinvestment": "INF769K01NF2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.58860"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.64440"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.64820"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 151787,
-        "scheme_name": "Axis Nifty IT Index Fund - Regular Plan - Growth",
+        "scheme_name": "Axis Nifty IT Index Fund - Regular Plan - Growth Option",
         "isin_growth": "INF846K010S6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.56370"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.48140"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.40610"

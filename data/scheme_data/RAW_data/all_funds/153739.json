@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Flexi Cap Fund",
         "scheme_code": 153739,
-        "scheme_name": "CAPITALMIND FLEXI CAP FUND REGULAR GROWTH",
+        "scheme_name": "Capitalmind Flexi Cap Fund - Regular Plan - Growth",
         "isin_growth": "INF226401026",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.23320"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.20430"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.20870"

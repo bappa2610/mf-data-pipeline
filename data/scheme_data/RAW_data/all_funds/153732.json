@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
         "scheme_code": 153732,
-        "scheme_name": "Franklin India Multi Asset Allocation Fund- Direct- IDCW",
+        "scheme_name": "Franklin India Multi Asset Allocation Fund - Direct Plan - IDCW",
         "isin_growth": "INF090I01YJ6",
         "isin_div_reinvestment": "INF090I01YI8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.41060"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.33580"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.37370"

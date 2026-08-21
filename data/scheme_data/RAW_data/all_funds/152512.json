@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation",
         "scheme_code": 152512,
-        "scheme_name": "Helios Balanced Advantage Fund- Regular Plan- Growth Option",
+        "scheme_name": "Helios Balanced Advantage Fund - Regular Plan - Growth",
         "isin_growth": "INF0R8701111",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.63000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.56000"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.58000"

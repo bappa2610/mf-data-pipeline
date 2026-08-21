@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Other  ETFs",
+        "scheme_category": "Exchange Traded Funds (ETFs) - Equity ETF",
         "scheme_code": 147906,
         "scheme_name": "Mirae Asset Nifty Next 50 ETF",
         "isin_growth": "INF769K01FN2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "766.58780"
+        },
         {
             "date": "18-08-2026",
             "nav": "767.75040"

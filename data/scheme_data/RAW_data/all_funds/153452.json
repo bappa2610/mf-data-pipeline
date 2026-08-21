@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Groww Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Schemes - Value Fund",
+        "scheme_category": "Exchange Traded Funds (ETFs) - Other ETF",
         "scheme_code": 153452,
         "scheme_name": "Groww Nifty 500 Momentum 50 ETF",
         "isin_growth": "INF666M01KJ4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.93560"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.88990"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.01970"

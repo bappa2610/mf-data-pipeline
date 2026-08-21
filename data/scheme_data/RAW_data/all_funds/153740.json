@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Index Funds - Equity Funds",
         "scheme_code": 153740,
-        "scheme_name": "Aditya Birla Sun Life BSE 500 Quality 50 Index Fund - Direct Growth",
+        "scheme_name": "Aditya Birla Sun Life BSE 500 Quality 50 Index Fund - Direct Plan - GROWTH",
         "isin_growth": "INF209KC1613",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.03230"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.94490"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.01070"

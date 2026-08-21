@@ -4,11 +4,15 @@
         "scheme_type": "Close Ended Schemes",
         "scheme_category": "Income",
         "scheme_code": 150001,
-        "scheme_name": "HDFC FMP 1876D March 2022 - Growth Option",
+        "scheme_name": "HDFC FMP 1876D March 2022 - Regular Plan - Growth Option",
         "isin_growth": "INF179KC1CR5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.20160"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.20040"

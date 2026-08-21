@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Small Cap Fund",
         "scheme_code": 146194,
-        "scheme_name": "Edelweiss Small Cap Fund - Regular Plan - IDCW Option",
+        "scheme_name": "Edelweiss Small Cap Fund - Regular Plan - IDCW",
         "isin_growth": "INF754K01JK2",
         "isin_div_reinvestment": "INF754K01JL0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "42.28300"
+        },
         {
             "date": "18-08-2026",
             "nav": "42.30100"

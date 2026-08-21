@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 152190,
-        "scheme_name": "quant Momentum Fund - Growth Option - Regular Plan",
+        "scheme_name": "quant Momentum Fund - Regular Plan - Growth Option",
         "isin_growth": "INF966L01CW0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.22890"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "15.18530"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.24520"

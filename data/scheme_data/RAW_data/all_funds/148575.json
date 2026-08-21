@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Schemes - Value Fund",
+        "scheme_category": "Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)",
         "scheme_code": 148575,
         "scheme_name": "Mirae Asset Nifty 100 ESG Sector Leaders Fund of Fund - Direct Plan - IDCW",
         "isin_growth": "INF769K01GP5",
         "isin_div_reinvestment": "INF769K01GR1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "18.48900"
+        },
         {
             "date": "18-08-2026",
             "nav": "18.49800"

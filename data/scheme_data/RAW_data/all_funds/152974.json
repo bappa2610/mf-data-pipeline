@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Index Funds",
+        "scheme_category": "Index Funds - Equity Funds",
         "scheme_code": 152974,
         "scheme_name": "Mirae Asset Nifty 50 Index Fund - Regular Plan - Growth",
         "isin_growth": "INF769K01MO6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "9.99900"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "9.93590"
+        },
         {
             "date": "18-08-2026",
             "nav": "9.96770"

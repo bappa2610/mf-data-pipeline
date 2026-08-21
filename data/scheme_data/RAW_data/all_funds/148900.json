@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 148900,
-        "scheme_name": "HDFC Multi-Asset Active FOF - IDCW Option",
+        "scheme_name": "HDFC Multi-Asset Active FOF - Regular Plan - IDCW Option",
         "isin_growth": "INF179KC1BE5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "19.83600"
+        },
         {
             "date": "18-08-2026",
             "nav": "19.76000"

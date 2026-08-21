@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Gilt Fund with 10 year constant duration",
+        "scheme_category": "Income/Debt Oriented Schemes - 10-year Constant Maturity Gilt Fund",
         "scheme_code": 150415,
-        "scheme_name": "UTI Gilt Fund with 10 year Constant Duration - Direct Plan - Half Yearly IDCW Option",
+        "scheme_name": "UTI Gilt Fund with 10 year Constant Duration - Direct Plan - Half yearly IDCW",
         "isin_growth": "INF789F1AVU1",
         "isin_div_reinvestment": "INF789F1AVV9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.28060"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.31150"

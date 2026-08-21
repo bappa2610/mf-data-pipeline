@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Index Funds",
+        "scheme_category": "Index Funds - Equity Funds",
         "scheme_code": 153272,
-        "scheme_name": "UTI Nifty Midsmallcap 400 Momentum Quality 100 Index Fund - Direct Plan - Growth Option",
+        "scheme_name": "UTI Nifty Midsmallcap 400 Momentum Quality 100 Index Fund - Direct Plan - Growth",
         "isin_growth": "INF789F1AB22",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.90110"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.86570"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.93670"

@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Groww Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Schemes - Value Fund",
+        "scheme_category": "Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)",
         "scheme_code": 153917,
-        "scheme_name": "Groww Nifty Capital Markets ETF FOF Direct IDCW",
+        "scheme_name": "Groww Nifty Capital Markets ETF FOF - Direct Plan - Income Distribution cum capital withdrawal",
         "isin_growth": "INF666M01MH4",
         "isin_div_reinvestment": "INF666M01MI2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.56910"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.40720"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.37730"

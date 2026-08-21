@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 154370,
-        "scheme_name": "SBI CRISIL-IBX 10:90 GILT + SDL INDEX DEC 2029 INDEX FUND - DIRECT - GROWTH",
+        "scheme_name": "SBI CRISIL-IBX 10:90 Gilt + SDL Index - Dec 2029 Index Fund - Direct Plan - Growth",
         "isin_growth": "INF200KB1BI0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.29650"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.30590"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.29750"

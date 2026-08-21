@@ -4,11 +4,15 @@
         "scheme_type": "Close Ended Schemes",
         "scheme_category": "Income",
         "scheme_code": 149191,
-        "scheme_name": "DSP FMP Series - 264 - 60M - 17D - Direct - IDCW",
+        "scheme_name": "DSP FMP Series - 264 - 60M - 17D",
         "isin_growth": "INF740KA1QI6",
         "isin_div_reinvestment": "INF740KA1QJ4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.40710"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.40310"

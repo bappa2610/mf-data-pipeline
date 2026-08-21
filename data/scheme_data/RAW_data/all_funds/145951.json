@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Short Duration Fund",
         "scheme_code": 145951,
-        "scheme_name": "LIC MF Short Duration Fund-Regular Plan-IDCW",
+        "scheme_name": "LIC MF Short Duration Fund - Regular Plan - IDCW",
         "isin_growth": "INF767K01PU0",
         "isin_div_reinvestment": "INF767K01PV8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.42300"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.44200"

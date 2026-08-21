@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Flexi Cap Fund",
         "scheme_code": 151380,
-        "scheme_name": "ITI Flexi Cap Fund- Direct Plan- IDCW",
+        "scheme_name": "ITI Flexi Cap Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF00XX01CP4",
         "isin_div_reinvestment": "INF00XX01CQ2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "20.65030"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "20.45960"
+        },
         {
             "date": "18-08-2026",
             "nav": "20.51030"

@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 149860,
-        "scheme_name": "ICICI Prudential Nifty Bank Index Fund - IDCW",
+        "scheme_name": "ICICI Prudential Nifty Bank Index Fund - Regular Plan - IDCW",
         "isin_growth": "INF109KC1Z97",
         "isin_div_reinvestment": "INF109KC10A6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "16.13310"
+        },
         {
             "date": "18-08-2026",
             "nav": "16.06840"

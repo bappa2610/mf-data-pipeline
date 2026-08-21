@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Floater Fund",
         "scheme_code": 149035,
-        "scheme_name": "Tata Floating Rate Fund-Regular Plan-IDCW Monthly Dividend Reinvestment",
+        "scheme_name": "Tata Floating Rate Fund - Regular Plan - IDCW Monthly Dividend Reinvestment Option",
         "isin_growth": null,
         "isin_div_reinvestment": "INF277KA1141"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.63430"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.64370"

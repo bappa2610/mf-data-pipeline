@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Focused Fund",
         "scheme_code": 152358,
-        "scheme_name": "Old Bridge Focused Fund - Direct Growth",
+        "scheme_name": "Old Bridge Focused Fund - Direct Plan - Direct Growth",
         "isin_growth": "INF0S5R01042",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "14.25000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "14.15000"
+        },
         {
             "date": "18-08-2026",
             "nav": "14.19000"

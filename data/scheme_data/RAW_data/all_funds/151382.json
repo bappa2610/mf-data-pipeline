@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 151382,
-        "scheme_name": "Kotak Banking & Financial Services Fund - Regular Plan - IDCW Payout",
+        "scheme_name": "Kotak Banking and Financial Services Fund - Regular Plan - IDCW Payout",
         "isin_growth": "INF174KA1MB5",
         "isin_div_reinvestment": "INF174KA1MC3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "16.33800"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "16.23700"
+        },
         {
             "date": "18-08-2026",
             "nav": "16.29700"

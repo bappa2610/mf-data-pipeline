@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 152788,
-        "scheme_name": "Bank of India Business Cycle Fund - Direct Plan - Dividend",
+        "scheme_name": "Bank of India Business Cycle Fund - Direct Plan - IDCW",
         "isin_growth": "INF761K01GG1",
         "isin_div_reinvestment": "INF761K01GH9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.00000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "9.95000"
+        },
         {
             "date": "18-08-2026",
             "nav": "9.99000"

@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 147623,
-        "scheme_name": "Motilal Oswal Nifty Smallcap 250 Index Fund- Direct Plan",
+        "scheme_name": "Motilal Oswal Nifty Smallcap 250 Index Fund",
         "isin_growth": "INF247L01932",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "41.11270"
+        },
         {
             "date": "18-08-2026",
             "nav": "41.13130"

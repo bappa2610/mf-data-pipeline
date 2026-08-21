@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 149759,
-        "scheme_name": "Nippon India Silver ETF FOF-Regular Plan- Growth Option",
+        "scheme_name": "Nippon India Silver ETF FOF - Regular Plan - Growth Option",
         "isin_growth": "INF204KC1345",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "35.31850"
+        },
         {
             "date": "18-08-2026",
             "nav": "34.72230"

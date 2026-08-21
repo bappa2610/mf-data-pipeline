@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Multi Cap Fund",
         "scheme_code": 149366,
-        "scheme_name": "HDFC Multi Cap Fund - Growth Option",
+        "scheme_name": "HDFC Multi Cap Fund - Regular Plan - Growth Option",
         "isin_growth": "INF179KC1BV9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "19.09300"
+        },
         {
             "date": "18-08-2026",
             "nav": "19.02300"

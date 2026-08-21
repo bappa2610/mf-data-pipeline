@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 153285,
-        "scheme_name": "Kotak BSE Sensex Index Fund - Regular - IDCW",
+        "scheme_name": "Kotak BSE Sensex Index Fund - Regular Plan - IDCW",
         "isin_growth": "INF174KA1UT0",
         "isin_div_reinvestment": "INF174KA1UU8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.34000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.25600"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.30000"

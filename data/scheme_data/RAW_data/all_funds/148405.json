@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Flexi Cap Fund",
         "scheme_code": 148405,
-        "scheme_name": "BANK OF INDIA Flexi Cap Fund Regular Plan -Growth",
+        "scheme_name": "BANK OF INDIA FLEXI CAP FUND - Regular Plan - Growth",
         "isin_growth": "INF761K01FI9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "38.79000"
+        },
         {
             "date": "18-08-2026",
             "nav": "38.79000"

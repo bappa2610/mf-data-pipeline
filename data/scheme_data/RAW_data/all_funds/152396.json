@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
         "scheme_code": 152396,
-        "scheme_name": "Bank of India Multi Asset Allocation Fund-Direct Plan-Growth",
+        "scheme_name": "Bank of India Multi Asset Allocation Fund - Direct Plan - Growth",
         "isin_growth": "INF761K01FZ3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.27230"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.15540"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.18890"

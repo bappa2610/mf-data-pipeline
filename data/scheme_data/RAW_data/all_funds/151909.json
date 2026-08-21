@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 151909,
-        "scheme_name": "Kotak Nifty Financial Services Ex-Bank Index Fund - Regular Plan - Growth option",
+        "scheme_name": "Kotak Nifty Financial Services Ex-Bank Index Fund - Regular Plan - Growth",
         "isin_growth": "INF174KA1OO4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "16.75400"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "16.60600"
+        },
         {
             "date": "18-08-2026",
             "nav": "16.63800"

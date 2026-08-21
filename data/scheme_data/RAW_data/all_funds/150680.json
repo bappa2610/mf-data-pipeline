@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 150680,
-        "scheme_name": "SBI CRISIL IBX Gilt Index - June 2036 Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI CRISIL IBX Gilt Index - June 2036 Fund - Regular Plan - IDCW",
         "isin_growth": "INF200KA10Q3",
         "isin_div_reinvestment": "INF200KA11Q1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.46600"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.49080"

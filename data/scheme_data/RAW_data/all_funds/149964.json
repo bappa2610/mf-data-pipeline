@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Index Funds - Debt Funds",
         "scheme_code": 149964,
-        "scheme_name": "HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Regular - payout of IDCW",
+        "scheme_name": "HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Regular Plan - IDCW Payout",
         "isin_growth": "INF336L01QL9",
         "isin_div_reinvestment": "INF336L01QM7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.23370"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.24170"

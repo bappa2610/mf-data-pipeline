@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 152416,
-        "scheme_name": "quant PSU Fund - IDCW Option - Direct Plan",
+        "scheme_name": "quant PSU Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF966L01DU2",
         "isin_div_reinvestment": "INF966L01DV0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.87330"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.83730"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.90540"

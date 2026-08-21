@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
         "scheme_code": 153999,
-        "scheme_name": "The Wealth Company Multi Asset Allocation Fund - Direct Growth",
+        "scheme_name": "The Wealth Company Multi Asset Allocation Fund - Direct Plan - Growth",
         "isin_growth": "INF2F0001347",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.06080"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.98090"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.01420"

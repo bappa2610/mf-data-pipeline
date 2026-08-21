@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
         "scheme_code": 151310,
-        "scheme_name": "Aditya Birla Sun Life Multi Asset Allocation Fund-Regular IDCW",
+        "scheme_name": "Aditya Birla Sun Life Multi Asset Allocation Fund - Regular Plan - IDCW",
         "isin_growth": "INF209KB13R4",
         "isin_div_reinvestment": "INF209KB14R2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "14.52950"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "14.41020"
+        },
         {
             "date": "18-08-2026",
             "nav": "14.44890"

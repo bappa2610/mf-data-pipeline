@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
         "scheme_code": 153990,
-        "scheme_name": "PGIM India Multi Asset Allocation Fund - Direct Plan - IDCW Option",
+        "scheme_name": "PGIM India Multi Asset Allocation Fund - Direct Plan - Direct IDCW",
         "isin_growth": "INF663L011A1",
         "isin_div_reinvestment": "INF663L012A9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.84000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.75000"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.79000"

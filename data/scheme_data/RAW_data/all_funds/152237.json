@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Small Cap Fund",
         "scheme_code": 152237,
-        "scheme_name": "Motilal Oswal Small Cap Fund - Direct - Growth",
+        "scheme_name": "Motilal Oswal Small Cap Fund",
         "isin_growth": "INF247L01BY3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "17.64800"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "17.55520"
+        },
         {
             "date": "18-08-2026",
             "nav": "17.62940"

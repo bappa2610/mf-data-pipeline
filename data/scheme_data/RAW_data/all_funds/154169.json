@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Other  ETFs",
+        "scheme_category": "Exchange Traded Funds (ETFs) - Equity ETF",
         "scheme_code": 154169,
         "scheme_name": "Mirae Asset Nifty 500 Healthcare ETF",
         "isin_growth": "INF769K01QA6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "21.51430"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "21.46350"
+        },
         {
             "date": "18-08-2026",
             "nav": "21.57420"

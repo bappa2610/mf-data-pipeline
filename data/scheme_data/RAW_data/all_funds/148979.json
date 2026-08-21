@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 148979,
-        "scheme_name": "Kotak Nifty 50 Index Fund - Regular Plan-IDCW Payout",
+        "scheme_name": "Kotak Nifty 50 Index Fund - Regular Plan - IDCW Payout",
         "isin_growth": "INF174KA1GY9",
         "isin_div_reinvestment": "INF174KA1GZ6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.86200"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.81200"

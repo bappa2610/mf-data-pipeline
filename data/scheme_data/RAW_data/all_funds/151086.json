@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Dynamic Term Fund",
         "scheme_code": 151086,
-        "scheme_name": "HSBC Dynamic Bond Fund - Direct Monthly IDCW",
+        "scheme_name": "HSBC Dynamic Bond Fund - Direct Plan - Monthly IDCW",
         "isin_growth": "INF917K01GZ9",
         "isin_div_reinvestment": "INF917K01GY2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.70790"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.74250"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.74020"

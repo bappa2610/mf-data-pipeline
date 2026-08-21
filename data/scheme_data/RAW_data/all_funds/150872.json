@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 150872,
-        "scheme_name": "BANDHAN CRISIL IBX 90:10 SDL PLUS GILT APRIL 2032 INDEX FUND - DIRECT IDCW",
+        "scheme_name": "BANDHAN CRISIL IBX 90:10 SDL PLUS GILT - APRIL 2032 INDEX FUND - Direct Plan - IDCW",
         "isin_growth": "INF194KB1EO0",
         "isin_div_reinvestment": "INF194KB1EP7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.87200"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.90420"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.90700"

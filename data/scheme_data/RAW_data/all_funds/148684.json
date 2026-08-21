@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Solution Oriented Scheme - Retirement Fund",
         "scheme_code": 148684,
-        "scheme_name": "SBI Retirement Benefit Fund - Aggressive Hybrid Plan - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI Retirement Benefit Fund - Aggressive Hybrid Plan - Regular Plan - IDCW",
         "isin_growth": "INF200KA1S89",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "19.88460"
+        },
         {
             "date": "18-08-2026",
             "nav": "19.77390"

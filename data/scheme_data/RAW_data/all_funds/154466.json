@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Schemes - Value Fund",
+        "scheme_category": "Exchange Traded Funds (ETFs) - Debt ETF",
         "scheme_code": 154466,
-        "scheme_name": "UTI Nifty 1D Rate Liquid ETF - Growth",
+        "scheme_name": "UTI Nifty 1D Rate Liquid ETF - Growth - Direct Plan - Growth",
         "isin_growth": "INF789F1AG68",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1004.89680"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1004.76430"
+        },
         {
             "date": "18-08-2026",
             "nav": "1004.63370"

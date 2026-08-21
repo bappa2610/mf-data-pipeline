@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Equity Savings",
         "scheme_code": 153706,
-        "scheme_name": "quant Equity Savings Fund - IDCW Option - Direct Plan",
+        "scheme_name": "quant Equity Savings Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF966L01ED6",
         "isin_div_reinvestment": "INF966L01EE4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.83930"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.85290"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.84810"

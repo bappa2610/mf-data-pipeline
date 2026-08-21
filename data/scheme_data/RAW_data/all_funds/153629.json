@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large & Mid Cap Fund",
         "scheme_code": 153629,
-        "scheme_name": "JM Large & Mid Cap Fund (Direct) - Growth Option",
+        "scheme_name": "JM Large & Mid Cap Fund - Direct Plan - Growth Option",
         "isin_growth": "INF192K01NK7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.03270"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.95570"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.97700"

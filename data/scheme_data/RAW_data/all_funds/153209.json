@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Gilt Fund",
         "scheme_code": 153209,
-        "scheme_name": "Bajaj Finserv Gilt Fund - Regular - IDCW",
+        "scheme_name": "Bajaj Finserv Gilt Fund - Regular Plan - IDCW",
         "isin_growth": "INF0QA701AN4",
         "isin_div_reinvestment": "INF0QA701AO2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1062.38290"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1065.07960"
+        },
         {
             "date": "18-08-2026",
             "nav": "1065.31820"

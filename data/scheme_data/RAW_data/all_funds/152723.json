@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 152723,
-        "scheme_name": "Edelweiss Business Cycle Fund - Direct Plan - IDCW Option",
+        "scheme_name": "Edelweiss Business Cycle Fund - Direct Plan - IDCW",
         "isin_growth": "INF754K01TB0",
         "isin_div_reinvestment": "INF754K01TC8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "9.43390"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "9.39320"
+        },
         {
             "date": "18-08-2026",
             "nav": "9.43060"

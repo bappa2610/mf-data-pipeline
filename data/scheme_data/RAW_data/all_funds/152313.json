@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
         "scheme_code": 152313,
-        "scheme_name": "Sundaram Multi Asset Allocation Fund Regular Plan IDCW Reinvestment",
+        "scheme_name": "Sundaram Multi Asset Allocation Fund - Regular Plan - IDCW (Income Distribution CUM Capital Withdrawal)",
         "isin_growth": null,
         "isin_div_reinvestment": "INF903JA1LJ1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.59290"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.46840"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.50120"

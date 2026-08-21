@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Other  ETFs",
+        "scheme_category": "Exchange Traded Funds (ETFs) - Equity ETF",
         "scheme_code": 153945,
         "scheme_name": "Mirae Asset Nifty Energy ETF",
         "isin_growth": "INF769K01PR2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "38.38100"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "38.35370"
+        },
         {
             "date": "18-08-2026",
             "nav": "38.81040"

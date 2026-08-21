@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)",
         "scheme_code": 153812,
         "scheme_name": "Mirae Asset Gold Silver Passive FoF - Direct Plan - Growth",
         "isin_growth": "INF769K01PM3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "17.34000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "16.83000"
+        },
         {
             "date": "18-08-2026",
             "nav": "17.04000"

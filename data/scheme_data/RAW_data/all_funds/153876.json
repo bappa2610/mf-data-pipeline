@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 153876,
-        "scheme_name": "Kotak CRISIL-IBX Financial Services 9 to 12 Months Debt Index Fund - Direct - IDCW",
+        "scheme_name": "Kotak CRISIL-IBX Financial Services 9 to 12 Months Debt Index Fund - Direct Plan - IDCW",
         "isin_growth": "INF174KA1XN7",
         "isin_div_reinvestment": "INF174KA1XO5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.57640"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.58160"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.57930"

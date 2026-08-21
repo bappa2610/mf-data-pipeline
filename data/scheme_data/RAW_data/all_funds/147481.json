@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - ELSS",
         "scheme_code": 147481,
-        "scheme_name": "Parag Parikh ELSS Tax Saver Fund- Direct Growth",
+        "scheme_name": "Parag Parikh ELSS Tax Saver Fund - Direct Plan - Growth",
         "isin_growth": "INF879O01100",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "31.89130"
+        },
         {
             "date": "18-08-2026",
             "nav": "31.80340"

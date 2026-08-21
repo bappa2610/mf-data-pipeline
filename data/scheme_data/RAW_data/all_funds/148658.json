@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
         "scheme_code": 148658,
-        "scheme_name": "PGIM India Balanced Advantage Fund -  Direct Plan - Growth Option",
+        "scheme_name": "PGIM India Balanced Advantage Fund - Direct Plan - Direct Growth",
         "isin_growth": "INF663L01V49",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "16.75000"
+        },
         {
             "date": "18-08-2026",
             "nav": "16.74000"

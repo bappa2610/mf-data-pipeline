@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Solution Oriented Scheme - Retirement Fund",
         "scheme_code": 146937,
-        "scheme_name": "Aditya Birla Sun Life Retirement Fund-The 50s Plan- Direct - Payout of IDCW",
+        "scheme_name": "Aditya Birla Sun Life Retirement Fund-The 50s Plan - Direct Plan - IDCW",
         "isin_growth": "INF209KB1J55",
         "isin_div_reinvestment": "INF209KB1J63"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.75300"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.77410"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 151372,
-        "scheme_name": "DSP Nifty SDL Plus G-Sec Sep 2027 50:50 Index Fund - Regular - IDCW",
+        "scheme_name": "DSP Nifty SDL Plus G-Sec Sep 2027 50:50 Index Fund - Regular Plan - IDCW",
         "isin_growth": "INF740KA1SF8",
         "isin_div_reinvestment": "INF740KA1SG6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.88470"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.88730"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.88480"

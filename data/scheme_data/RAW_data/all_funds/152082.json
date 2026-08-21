@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 152082,
-        "scheme_name": "HDFC Pharma and Healthcare Fund - Growth Option - Direct Plan",
+        "scheme_name": "HDFC Pharma and Healthcare Fund - Direct Plan - Growth Option",
         "isin_growth": "INF179KC1HO1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "22.09900"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "22.11100"
+        },
         {
             "date": "18-08-2026",
             "nav": "22.30000"

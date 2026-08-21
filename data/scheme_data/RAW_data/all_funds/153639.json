@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)",
         "scheme_code": 153639,
         "scheme_name": "Mirae Asset Income plus Arbitrage Active FOF - Direct Plan - IDCW",
         "isin_growth": "INF769K01PA8",
         "isin_div_reinvestment": "INF769K01OZ8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.64800"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.67100"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.66500"

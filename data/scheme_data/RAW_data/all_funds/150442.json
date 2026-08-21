@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large Cap Fund",
         "scheme_code": 150442,
-        "scheme_name": "quant Large Cap Fund - IDCW Option - Regular Plan",
+        "scheme_name": "quant Large Cap Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF966L01AX2",
         "isin_div_reinvestment": "INF966L01AY0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.79120"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.78370"

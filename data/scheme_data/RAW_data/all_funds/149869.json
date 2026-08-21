@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 149869,
-        "scheme_name": "HDFC NIFTY 100 Index Fund - Growth Option",
+        "scheme_name": "HDFC NIFTY 100 Index Fund - Regular Plan - Growth Option",
         "isin_growth": "INF179KC1BZ0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "14.84130"
+        },
         {
             "date": "18-08-2026",
             "nav": "14.80800"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 152579,
-        "scheme_name": "Tata Nifty Financial Services Index Fund - Direct Plan - IDCW Payout",
+        "scheme_name": "Tata Nifty Financial Services Index Fund - Direct Plan - IDCW Payout Option",
         "isin_growth": "INF277KA1BB4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.34240"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.25280"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.29760"

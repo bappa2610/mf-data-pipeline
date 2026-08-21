@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 152890,
-        "scheme_name": "HDFC NIFTY LargeMidcap 250 Index Fund - Growth Option",
+        "scheme_name": "HDFC NIFTY LargeMidcap 250 Index Fund - Regular Plan - Growth Option",
         "isin_growth": "INF179KC1IP6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.22870"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.18070"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.21200"

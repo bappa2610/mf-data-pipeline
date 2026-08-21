@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 149041,
-        "scheme_name": "SBI Nifty Consumption ETF",
+        "scheme_name": "SBI Nifty Consumption ETF - Regular Plan - IDCW",
         "isin_growth": "INF200KA1X17",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "124.77310"
+        },
         {
             "date": "18-08-2026",
             "nav": "124.12580"

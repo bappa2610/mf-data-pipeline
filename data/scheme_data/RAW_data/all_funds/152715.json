@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Other  ETFs",
+        "scheme_category": "Exchange Traded Funds (ETFs) - Equity ETF",
         "scheme_code": 152715,
         "scheme_name": "Mirae Asset Nifty EV and New Age Automotive ETF",
         "isin_growth": "INF769K01LQ3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "33.93960"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "33.90880"
+        },
         {
             "date": "18-08-2026",
             "nav": "34.16080"

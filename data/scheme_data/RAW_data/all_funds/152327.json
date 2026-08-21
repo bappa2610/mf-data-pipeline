@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 152327,
-        "scheme_name": "Zerodha Nifty 1D Rate Liquid ETF - Growth Option",
+        "scheme_name": "Zerodha Nifty 1D Rate Liquid ETF - Direct Plan - Growth Option",
         "isin_growth": "INF0R8F01034",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "115.54940"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "115.53450"
+        },
         {
             "date": "18-08-2026",
             "nav": "115.51980"

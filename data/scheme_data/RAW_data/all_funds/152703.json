@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 152703,
-        "scheme_name": "Kotak Special Opportunities Fund - Regular Plan - Growth Option",
+        "scheme_name": "Kotak Special Opportunities Fund - Regular Plan - Growth",
         "isin_growth": "INF174KA1SC0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.32300"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.28200"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.33800"

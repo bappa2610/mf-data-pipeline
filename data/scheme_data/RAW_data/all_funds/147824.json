@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Solution Oriented Scheme - Retirement Fund",
         "scheme_code": 147824,
-        "scheme_name": "Axis Retirement Fund - Aggressive Plan - Regular Plan - IDCW",
+        "scheme_name": "Axis Retirement Fund - Aggressive Plan - Regular Plan - IDCW Option",
         "isin_growth": "INF846K01T10",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "17.21000"
+        },
         {
             "date": "18-08-2026",
             "nav": "17.19000"

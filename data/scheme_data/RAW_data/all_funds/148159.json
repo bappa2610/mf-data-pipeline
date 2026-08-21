@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Money Market Fund",
         "scheme_code": 148159,
-        "scheme_name": "PGIM India Money Market Fund - Regular Plan - Growth Option",
+        "scheme_name": "PGIM India Money Market Fund - Regular Plan - Regular Growth",
         "isin_growth": "INF663L01U24",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1421.31710"
+        },
         {
             "date": "18-08-2026",
             "nav": "1421.63310"

@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Overnight Fund",
         "scheme_code": 146963,
-        "scheme_name": "Sundaram Overnight Fund Direct Plan - Growth",
+        "scheme_name": "Sundaram Overnight Fund - Direct Plan - GROWTH",
         "isin_growth": "INF903JA1HG5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1459.11670"
+        },
         {
             "date": "18-08-2026",
             "nav": "1458.71770"

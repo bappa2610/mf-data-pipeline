@@ -1,14 +1,22 @@
 {
     "meta": {
         "fund_house": "UTI Mutual Fund",
-        "scheme_type": "IL&FS Mutual Fund",
-        "scheme_category": "IDF",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income/Debt Oriented Schemes - Fixed Term Plan",
         "scheme_code": 151484,
-        "scheme_name": "UTI Fixed Term Income Fund Series XXXVI - I (1574 Days) - Direct Plan - Payout of IDCW Option",
+        "scheme_name": "UTI Fixed Term Income Fund Series XXXVI - I (1574 Days) - Direct Plan - IDCW",
         "isin_growth": "INF789F1AXO0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.45790"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.46040"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.45960"

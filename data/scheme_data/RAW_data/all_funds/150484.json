@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Long Duration Fund",
         "scheme_code": 150484,
-        "scheme_name": "Aditya Birla Sun Life Long Duration Fund-Direct Growth",
+        "scheme_name": "Aditya Birla Sun Life Long Duration Fund - Direct Plan - GROWTH",
         "isin_growth": "INF209KB17J2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.50510"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.54250"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.53930"

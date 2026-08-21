@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Other  ETFs",
+        "scheme_category": "Exchange Traded Funds (ETFs) - Equity ETF",
         "scheme_code": 146388,
-        "scheme_name": "UTI - BSE Sensex Next 50 Exchange Traded Fund",
+        "scheme_name": "UTI - BSE Sensex Next 50 Exchange Traded Fund - Direct Plan - Growth",
         "isin_growth": "INF789F1AUU3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "96.46750"
+        },
         {
             "date": "18-08-2026",
             "nav": "96.23140"

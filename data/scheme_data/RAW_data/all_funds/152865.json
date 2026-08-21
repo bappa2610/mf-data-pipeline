@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Index Funds",
+        "scheme_category": "Index Funds - Equity Funds",
         "scheme_code": 152865,
-        "scheme_name": "UTI Nifty Private Bank Index Fund - Regular Plan - Growth Option",
+        "scheme_name": "UTI Nifty Private Bank Index Fund - Regular Plan - Growth",
         "isin_growth": "INF789F1AZI7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.10320"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.01480"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.02980"

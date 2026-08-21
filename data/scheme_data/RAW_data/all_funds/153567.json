@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 153567,
-        "scheme_name": "Nippon India BSE Sensex Next 30 Index Fund- Direct Plan- Growth Option",
+        "scheme_name": "Nippon India BSE Sensex Next 30 Index Fund - Direct Plan - Growth Option",
         "isin_growth": "INF204KC1FD7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.20640"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.14990"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.20600"

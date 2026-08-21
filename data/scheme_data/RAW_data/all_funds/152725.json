@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 152725,
-        "scheme_name": "SBI Silver ETF",
+        "scheme_name": "SBI Silver ETF - Regular Plan - Growth",
         "isin_growth": "INF200KB1217",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "231.19630"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "222.33800"
+        },
         {
             "date": "18-08-2026",
             "nav": "226.95190"

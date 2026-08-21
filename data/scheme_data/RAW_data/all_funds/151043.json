@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Credit Risk Fund",
         "scheme_code": 151043,
-        "scheme_name": "HSBC Credit Risk Fund - Regular Growth",
+        "scheme_name": "HSBC Credit Risk Fund - Regular Plan - Growth",
         "isin_growth": "INF917K01130",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "34.47180"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "34.50910"
+        },
         {
             "date": "18-08-2026",
             "nav": "34.49780"

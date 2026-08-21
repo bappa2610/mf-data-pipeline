@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Low Duration Fund",
         "scheme_code": 150160,
-        "scheme_name": "BARODA BNP PARIBAS LOW DURATION Fund-Defunct Plan-Growth Option",
+        "scheme_name": "BARODA BNP PARIBAS LOW DURATION FUND - Growth Option",
         "isin_growth": "INF251K01DL0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "42.80690"
+        },
         {
             "date": "18-08-2026",
             "nav": "42.81970"

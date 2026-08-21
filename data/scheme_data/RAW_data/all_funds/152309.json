@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Multi Cap Fund",
         "scheme_code": 152309,
-        "scheme_name": "DSP Multicap Fund - Direct - IDCW",
+        "scheme_name": "DSP Multicap Fund - Direct Plan - IDCW",
         "isin_growth": "INF740KA1UD9",
         "isin_div_reinvestment": "INF740KA1UE7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.90600"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.81400"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.85800"

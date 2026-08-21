@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Long Duration Fund",
         "scheme_code": 151311,
-        "scheme_name": "HDFC Long Duration Debt Fund - IDCW Option",
+        "scheme_name": "HDFC Long Duration Debt Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF179KC1EX9",
         "isin_div_reinvestment": "INF179KC1EY7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.77960"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.83030"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.82990"

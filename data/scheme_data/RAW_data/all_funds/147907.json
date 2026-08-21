@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Ultra Short Term Fund",
         "scheme_code": 147907,
-        "scheme_name": "HSBC Ultra Short Duration Fund - Regular Growth",
+        "scheme_name": "HSBC Ultra Short Duration Fund",
         "isin_growth": "INF336L01OW1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1452.87470"
+        },
         {
             "date": "18-08-2026",
             "nav": "1453.27420"

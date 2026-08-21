@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Solution Oriented Scheme - Retirement Fund",
         "scheme_code": 146720,
-        "scheme_name": "ICICI Prudential Retirement Fund - Hybrid Aggressive - Direct Plan - IDCW Option",
+        "scheme_name": "ICICI Prudential Retirement Fund Hybrid Aggressive Plan - Direct Plan - IDCW",
         "isin_growth": "INF109KC1TX2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "32.07000"
+        },
         {
             "date": "18-08-2026",
             "nav": "32.02000"

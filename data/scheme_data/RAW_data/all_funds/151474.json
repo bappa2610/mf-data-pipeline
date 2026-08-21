@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - ELSS",
         "scheme_code": 151474,
-        "scheme_name": "NAVI ELSS TAX SAVER NIFTY 50 INDEX FUND - REGULAR PLAN IDCW PAYOUT",
+        "scheme_name": "NAVI ELSS TAX SAVER NIFTY50 INDEX FUND - Regular Plan - IDCW PAYOUT",
         "isin_growth": "INF959L01GU0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "14.33560"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "14.24530"
+        },
         {
             "date": "18-08-2026",
             "nav": "14.29090"

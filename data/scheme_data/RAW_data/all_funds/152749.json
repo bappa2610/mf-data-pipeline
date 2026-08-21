@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 152749,
-        "scheme_name": "SBI Nifty50 Equal Weight ETF",
+        "scheme_name": "SBI Nifty50 Equal Weight ETF - Regular Plan - IDCW",
         "isin_growth": "INF200KB1282",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "33.64270"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "33.46750"
+        },
         {
             "date": "18-08-2026",
             "nav": "33.53150"

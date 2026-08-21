@@ -1,14 +1,22 @@
 {
     "meta": {
         "fund_house": "UTI Mutual Fund",
-        "scheme_type": "IL&FS Mutual Fund",
-        "scheme_category": "IDF",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income/Debt Oriented Schemes - Fixed Term Plan",
         "scheme_code": 151485,
-        "scheme_name": "UTI Fixed Term Income Fund Series XXXVI - I (1574 Days) - Direct Plan - Growth Option",
+        "scheme_name": "UTI Fixed Term Income Fund Series XXXVI - I (1574 Days) - Direct Plan - Growth",
         "isin_growth": "INF789F1AXP7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.02630"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.02900"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.02810"

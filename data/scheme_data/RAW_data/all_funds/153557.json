@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 153557,
-        "scheme_name": "SBI Nifty200 Quality 30 Index Fund- Direct Plan- Income Distribution Cum Capital Withdrawal Option",
+        "scheme_name": "SBI Nifty200 Quality 30 Index Fund - Direct Plan - IDCW",
         "isin_growth": "INF200KB1829",
         "isin_div_reinvestment": "INF200KB1837"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.20960"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.13370"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.16110"

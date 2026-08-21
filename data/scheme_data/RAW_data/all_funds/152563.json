@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 152563,
-        "scheme_name": "Tata Nifty MidSmall Healthcare Index Fund - Regular Plan - IDCW Reinvestment",
+        "scheme_name": "Tata Nifty MidSmall Healthcare Index Fund - Regular Plan - IDCW Reinvestment Option",
         "isin_growth": null,
         "isin_div_reinvestment": "INF277KA1BF5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.02180"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "14.98190"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.11520"

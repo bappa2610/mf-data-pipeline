@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Banking and PSU Debt Fund",
         "scheme_code": 151103,
-        "scheme_name": "HSBC Banking and PSU Debt Fund - Regular Weekly IDCW",
+        "scheme_name": "HSBC Banking and PSU Debt Fund - Regular Plan - Weekly IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF917K01HM5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.29790"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.31540"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.31200"

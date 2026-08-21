@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Schemes - Value Fund",
+        "scheme_category": "Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)",
         "scheme_code": 149789,
-        "scheme_name": "Mirae Asset Nifty India Manufacturing ETF FOF - Regular Plan - IDCW",
+        "scheme_name": "Mirae Asset Nifty India Manufacturing ETF Fund of Fund - Regular Plan - IDCW",
         "isin_growth": "INF769K01HV1",
         "isin_div_reinvestment": "INF769K01HX7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "20.76100"
+        },
         {
             "date": "18-08-2026",
             "nav": "20.88800"

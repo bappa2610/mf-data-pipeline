@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 149897,
-        "scheme_name": "Axis Nifty Smallcap 50 Index Fund - Regular Plan - IDCW",
+        "scheme_name": "Axis Nifty Smallcap 50 Index Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF846K017H4",
         "isin_div_reinvestment": "INF846K018H2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "20.41520"
+        },
         {
             "date": "18-08-2026",
             "nav": "20.39890"

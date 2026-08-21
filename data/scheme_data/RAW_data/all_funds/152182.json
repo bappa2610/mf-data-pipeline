@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 152182,
-        "scheme_name": "DSP Gold ETF Fund of Fund - Regular - Growth",
+        "scheme_name": "DSP Gold ETF Fund of Fund - Regular Plan - Growth",
         "isin_growth": "INF740KA1TH2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "24.31470"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "23.72680"
+        },
         {
             "date": "18-08-2026",
             "nav": "23.83930"

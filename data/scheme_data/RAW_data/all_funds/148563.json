@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 148563,
-        "scheme_name": "quant ESG Integration Strategy Fund - IDCW Option - Direct Plan",
+        "scheme_name": "quant ESG Integration Strategy Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF966L01AE2",
         "isin_div_reinvestment": "INF966L01AG7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "42.47220"
+        },
         {
             "date": "18-08-2026",
             "nav": "42.43360"

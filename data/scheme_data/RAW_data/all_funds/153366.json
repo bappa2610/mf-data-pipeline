@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 153366,
-        "scheme_name": "Motilal Oswal Active Momentum Fund - Regular- IDCW",
+        "scheme_name": "Motilal Oswal Active Momentum Fund",
         "isin_growth": "INF247L01ET7",
         "isin_div_reinvestment": "INF247L01EU5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "14.09720"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "14.05520"
+        },
         {
             "date": "18-08-2026",
             "nav": "14.21450"

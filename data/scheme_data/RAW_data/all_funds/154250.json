@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 154250,
-        "scheme_name": "Canara Robeco Banking and Financials Services Fund - Direct Plan - Growth",
+        "scheme_name": "Canara Robeco Banking and Financial Services Fund - Direct Plan - Growth",
         "isin_growth": "INF760K01LN9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.17000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.08000"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.09000"

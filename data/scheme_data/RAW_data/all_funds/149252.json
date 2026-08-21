@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 149252,
-        "scheme_name": "Edelweiss Nifty 50 Index Fund Regular Plan Growth",
+        "scheme_name": "Edelweiss Nifty 50 Index Fund - Regular Plan - Growth",
         "isin_growth": "INF754K01MX9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.87010"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.82650"

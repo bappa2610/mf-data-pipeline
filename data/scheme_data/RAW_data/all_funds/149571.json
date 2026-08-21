@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - ELSS",
         "scheme_code": 149571,
-        "scheme_name": "Sundaram ELSS Tax Saver Fund Direct Plan - Income Distribution CUM Capital Withdrawal Option (IDCW)",
+        "scheme_name": "Sundaram ELSS Tax Saver Fund - Direct Plan - IDCW (Income Distribution CUM Capital Withdrawal)",
         "isin_growth": "INF173K01NN1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "517.99920"
+        },
         {
             "date": "18-08-2026",
             "nav": "516.11570"

@@ -1,14 +1,18 @@
 {
     "meta": {
         "fund_house": "Nippon India Mutual Fund",
-        "scheme_type": "IL&FS Mutual Fund",
-        "scheme_category": "IDF",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
         "scheme_code": 147095,
-        "scheme_name": "NIPPON INDIA FIXED MATURITY  PLAN - XLI - SERIES 8 - DIRECT Plan - IDCW Option",
+        "scheme_name": "Nippon India Fixed Maturity Plan - XLI - Series 8 - Direct Plan - IDCW Option",
         "isin_growth": "INF204KB18B8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "17.80720"
+        },
         {
             "date": "18-08-2026",
             "nav": "17.81130"

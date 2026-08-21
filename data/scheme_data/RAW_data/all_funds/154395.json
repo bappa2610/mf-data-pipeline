@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Overnight Fund",
         "scheme_code": 154395,
-        "scheme_name": "Shriram Overnight Fund- Direct Daily IDCW",
+        "scheme_name": "Shriram Overnight Fund - Direct Plan - Daily IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF680P01513"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1000.00000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1000.01910"
+        },
         {
             "date": "18-08-2026",
             "nav": "1000.01910"

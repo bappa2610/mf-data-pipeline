@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 150626,
-        "scheme_name": "Kotak Business Cycle Fund-Regular Plan--Growth",
+        "scheme_name": "Kotak Business Cycle Fund - Regular Plan - Growth",
         "isin_growth": "INF174KA1JK2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "17.59100"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "17.44900"
+        },
         {
             "date": "18-08-2026",
             "nav": "17.47600"

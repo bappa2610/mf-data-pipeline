@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 152536,
-        "scheme_name": "Navi NiftyIT Index Fund - Regular Plan -Growth",
+        "scheme_name": "Navi NiftyIT Index Fund - Regular Plan - Growth",
         "isin_growth": "INF959L01HL7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "8.99710"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "8.92710"
+        },
         {
             "date": "18-08-2026",
             "nav": "8.86300"

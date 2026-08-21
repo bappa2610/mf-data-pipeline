@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 152034,
-        "scheme_name": "Nippon India Innovation Fund-Regular Plan-Growth Option",
+        "scheme_name": "Nippon India Innovation Fund - Regular Plan - Growth Option",
         "isin_growth": "INF204KC1BL9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.31670"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "15.21010"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.22300"

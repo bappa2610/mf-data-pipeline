@@ -4,11 +4,19 @@
         "scheme_type": "Close Ended Schemes",
         "scheme_category": "Income",
         "scheme_code": 151564,
-        "scheme_name": "HDFC FMP 1269D March 2023 - Growth Option",
+        "scheme_name": "HDFC FMP 1269D March 2023 - Regular Plan - Growth Option",
         "isin_growth": null,
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.55970"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.55800"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.55630"

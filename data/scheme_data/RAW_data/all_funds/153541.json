@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 153541,
-        "scheme_name": "Baroda BNP Paribas Income Plus Arbitrage Active FOF Regular Growth",
+        "scheme_name": "Baroda BNP Paribas Income Plus Arbitrage Active Fund of Funds - Regular Plan - Growth Option",
         "isin_growth": "INF251K01UR1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.71770"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.72750"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.72080"

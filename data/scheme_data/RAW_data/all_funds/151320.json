@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Corporate Bond Fund",
         "scheme_code": 151320,
-        "scheme_name": "TRUSTMF CORPORATE BOND FUND-DIRECT PLAN-GROWTH",
+        "scheme_name": "TRUSTMF CORPORATE BOND FUND - Direct Plan - Growth",
         "isin_growth": "INF0GCD01560",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1274.71700"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1276.47660"
+        },
         {
             "date": "18-08-2026",
             "nav": "1276.12850"

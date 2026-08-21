@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 150689,
-        "scheme_name": "Aditya Birla Sun Life Multi-Asset Passive FOF-Direct IDCW",
+        "scheme_name": "Aditya Birla Sun Life Multi-Asset Passive FOF - Direct Plan - IDCW",
         "isin_growth": "INF209KB16M8",
         "isin_div_reinvestment": "INF209KB17M6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "18.03240"
+        },
         {
             "date": "18-08-2026",
             "nav": "17.99220"

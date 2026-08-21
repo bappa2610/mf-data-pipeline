@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Overnight Fund",
         "scheme_code": 149989,
-        "scheme_name": "Baroda BNP Paribas Overnight Fund - Plan C - Unclaimed Redemption - Up to 3 years",
+        "scheme_name": "Baroda BNP Paribas Overnight Fund - Redemption Up to 3 Yrs",
         "isin_growth": null,
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1294.84250"
+        },
         {
             "date": "18-08-2026",
             "nav": "1294.48760"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 153140,
-        "scheme_name": "Bank of India Consumption Fund - Regular - Growth",
+        "scheme_name": "Bank of India Consumption Fund - Regular Plan - Growth",
         "isin_growth": "INF761K01GL1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.37000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.26000"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.28000"

@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Multi Cap Fund",
         "scheme_code": 149887,
-        "scheme_name": "SBI Multicap Fund- Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI MultiCap Fund - Direct Plan - IDCW",
         "isin_growth": "INF200KA19E0",
         "isin_div_reinvestment": "INF200KA10F6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "18.19180"
+        },
         {
             "date": "18-08-2026",
             "nav": "18.07970"

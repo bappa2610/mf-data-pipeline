@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 150801,
-        "scheme_name": "HDFC NIFTY IT ETF - Growth option",
+        "scheme_name": "HDFC NIFTY IT ETF - Growth Option",
         "isin_growth": "INF179KC1IA8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "32.79830"
+        },
         {
             "date": "18-08-2026",
             "nav": "32.30730"

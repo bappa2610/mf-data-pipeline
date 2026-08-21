@@ -4,11 +4,15 @@
         "scheme_type": "Close Ended Schemes",
         "scheme_category": "Income",
         "scheme_code": 149922,
-        "scheme_name": "HDFC FMP 1861D March 2022 - Growth Option",
+        "scheme_name": "HDFC FMP 1861D March 2022 - Regular Plan - Growth Option",
         "isin_growth": "INF179KC1CF0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.23820"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.23700"

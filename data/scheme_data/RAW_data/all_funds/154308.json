@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 154308,
-        "scheme_name": "HDFC CRISIL-IBX Financial Services 9-12 Months Debt Index Fund - Direct Growth Plan",
+        "scheme_name": "HDFC CRISIL-IBX Financial Services 9-12 Months Debt Index Fund - Direct Plan - Growth Option",
         "isin_growth": "INF179KC1KI7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.31930"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.32560"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.32330"

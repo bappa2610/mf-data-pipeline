@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Dividend Yield Fund",
         "scheme_code": 152022,
-        "scheme_name": "LIC MF Dividend Yield Fund-Direct Plan-Growth",
+        "scheme_name": "LIC MF Dividend Yield Fund - Direct Plan - Growth",
         "isin_growth": "INF397L01LC1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "36.47870"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "36.35170"
+        },
         {
             "date": "18-08-2026",
             "nav": "36.52250"

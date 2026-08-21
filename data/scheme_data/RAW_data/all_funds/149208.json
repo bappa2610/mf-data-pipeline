@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 149208,
-        "scheme_name": "ICICI Prudential Nifty PSU Bond Plus SDL Sep 2027 40:60 Index Fund - Growth",
+        "scheme_name": "ICICI Prudential Nifty PSU Bond Plus SDL Sep 2027 40:60 Index Fund - Regular Plan - Growth",
         "isin_growth": "INF109KC1S13",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.24000"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.24240"

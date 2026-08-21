@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 153942,
-        "scheme_name": "Franklin India Multi-Factor Fund- Direct- Growth",
+        "scheme_name": "Franklin India Multi-Factor Fund - Direct Plan - Growth",
         "isin_growth": "INF090I01YQ1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "9.68660"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "9.64850"
+        },
         {
             "date": "18-08-2026",
             "nav": "9.67880"

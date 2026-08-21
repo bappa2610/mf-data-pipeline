@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 150308,
-        "scheme_name": "ICICI PRUDENTIAL HOUSING OPPORTUNITIES FUND - Growth",
+        "scheme_name": "ICICI PRUDENTIAL HOUSING OPPORTUNITIES FUND - Regular Plan - Growth",
         "isin_growth": "INF109KC17B9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "17.45000"
+        },
         {
             "date": "18-08-2026",
             "nav": "17.40000"

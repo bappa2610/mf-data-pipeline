@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 148976,
-        "scheme_name": "Kotak Nifty 50 Index Fund - Direct Plan-IDCW Payout",
+        "scheme_name": "Kotak Nifty 50 Index Fund - Direct Plan - IDCW Payout",
         "isin_growth": "INF174KA1HB5",
         "isin_div_reinvestment": "INF174KA1HC3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "16.11200"
+        },
         {
             "date": "18-08-2026",
             "nav": "16.06100"

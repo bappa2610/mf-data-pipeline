@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 151411,
-        "scheme_name": "BANDHAN CRISIL IBX GILT APRIL 2032 INDEX FUND - DIRECT IDCW",
+        "scheme_name": "BANDHAN CRISIL IBX GILT APRIL 2032 INDEX FUND - Direct Plan - IDCW",
         "isin_growth": "INF194KB1FG3",
         "isin_div_reinvestment": "INF194KB1FH1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.16360"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.19340"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.18760"

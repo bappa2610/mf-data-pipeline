@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Equity Savings",
         "scheme_code": 151949,
-        "scheme_name": "LIC MF Equity Savings Fund-Regular Plan-Monthly IDCW",
+        "scheme_name": "LIC MF Equity Savings Fund - Regular Plan - Monthly IDCW",
         "isin_growth": "INF397L01257",
         "isin_div_reinvestment": "INF397L01265"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "22.44230"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "22.40180"
+        },
         {
             "date": "18-08-2026",
             "nav": "22.42020"

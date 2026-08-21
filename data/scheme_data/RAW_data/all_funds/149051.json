@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Floater Fund",
         "scheme_code": 149051,
-        "scheme_name": "Axis Floater Fund - Direct Plan - Monthly IDCW",
+        "scheme_name": "Axis Floater Fund - Direct Plan - Monthly IDCW Option",
         "isin_growth": "INF846K018A7",
         "isin_div_reinvestment": "INF846K017A9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1014.36750"
+        },
         {
             "date": "18-08-2026",
             "nav": "1015.09160"

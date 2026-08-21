@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 146641,
-        "scheme_name": "SBI Equity Minimum Variance Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI Equity Minimum Variance Fund - Regular Plan - IDCW",
         "isin_growth": "INF200KA1A55",
         "isin_div_reinvestment": "INF200KA1A63"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "23.90070"
+        },
         {
             "date": "18-08-2026",
             "nav": "23.86350"

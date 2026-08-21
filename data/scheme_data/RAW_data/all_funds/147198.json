@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Overnight Fund",
         "scheme_code": 147198,
-        "scheme_name": "Baroda BNP Paribas Overnight Fund - Regular Plan - Weekly IDCW",
+        "scheme_name": "Baroda BNP Paribas Overnight Fund - Regular Plan - Weekly IDCW Option",
         "isin_growth": null,
         "isin_div_reinvestment": "INF955L01HU6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1000.86740"
+        },
         {
             "date": "18-08-2026",
             "nav": "1000.59500"

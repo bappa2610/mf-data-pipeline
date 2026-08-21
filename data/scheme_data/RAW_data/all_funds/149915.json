@@ -1,14 +1,18 @@
 {
     "meta": {
         "fund_house": "Nippon India Mutual Fund",
-        "scheme_type": "IL&FS Mutual Fund",
-        "scheme_category": "IDF",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
         "scheme_code": 149915,
-        "scheme_name": "Nippon India Fixed Maturity Plan-XLIII-Series 5- Regular Plan-Growth Option",
+        "scheme_name": "Nippon India Fixed Maturity Plan - XLIII - Series 5 - Regular Plan - Growth Option",
         "isin_growth": "INF204KC1451",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.42950"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.43990"

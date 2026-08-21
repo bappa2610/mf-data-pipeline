@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Floater Fund",
         "scheme_code": 148705,
-        "scheme_name": "BANDHAN FLOATER FUND  - REGULAR PLAN GROWTH",
+        "scheme_name": "BANDHAN FLOATER FUND - Regular Plan - Growth",
         "isin_growth": "INF194KB1AP5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.81020"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.82960"

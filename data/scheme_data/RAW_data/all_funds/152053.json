@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
         "scheme_code": 152053,
-        "scheme_name": "DSP Multi Asset Allocation Fund - Regular - Growth",
+        "scheme_name": "DSP Multi Asset Allocation Fund - Regular Plan - Growth",
         "isin_growth": "INF740KA1TB5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "16.42630"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "16.32270"
+        },
         {
             "date": "18-08-2026",
             "nav": "16.37620"

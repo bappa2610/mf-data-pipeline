@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 152990,
-        "scheme_name": "Bandhan Nifty 500 Value 50 Index Fund Direct Plan - Growth",
+        "scheme_name": "Bandhan Nifty 500 Value 50 Index Fund - Direct Plan - Growth",
         "isin_growth": "INF194KB1IW4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.29420"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.28020"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.32710"

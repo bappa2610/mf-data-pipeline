@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Schemes - Arbitrage Fund",
         "scheme_code": 154323,
-        "scheme_name": "Groww Arbitrage Fund Direct IDCW",
+        "scheme_name": "Groww Arbitrage Fund - Direct Plan - Income Distribution cum capital withdrawal",
         "isin_growth": "INF666M01OO6",
         "isin_div_reinvestment": "INF666M01OP3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.19730"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.20130"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.19190"

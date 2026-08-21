@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large Cap Fund",
         "scheme_code": 153238,
-        "scheme_name": "Samco Large Cap Fund - Regular Plan - Growth Option",
+        "scheme_name": "Samco Large Cap Fund - Regular Plan - Growth",
         "isin_growth": "INF0K1H01263",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "8.95000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "8.92000"
+        },
         {
             "date": "18-08-2026",
             "nav": "9.00000"

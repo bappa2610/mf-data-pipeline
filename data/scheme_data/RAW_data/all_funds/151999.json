@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Mid Cap Fund",
         "scheme_code": 151999,
-        "scheme_name": "LIC MF Mid Cap Fund-Direct Plan-IDCW",
+        "scheme_name": "LIC MF Mid Cap Fund - Direct Plan - IDCW",
         "isin_growth": "INF397L01JH4",
         "isin_div_reinvestment": "INF397L01JI2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "33.61420"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "33.54380"
+        },
         {
             "date": "18-08-2026",
             "nav": "33.64470"

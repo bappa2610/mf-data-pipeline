@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Index Funds - Equity Funds",
         "scheme_code": 153079,
-        "scheme_name": "Aditya Birla Sun Life BSE India Infrastructure Index Fund-Regular IDCW Payout",
+        "scheme_name": "Aditya Birla Sun Life BSE India Infrastructure Index Fund - Regular Plan - IDCW-Payout",
         "isin_growth": "INF209KC1365",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "9.03130"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "9.00380"
+        },
         {
             "date": "18-08-2026",
             "nav": "9.07700"

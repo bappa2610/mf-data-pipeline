@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Overnight Fund",
         "scheme_code": 147287,
-        "scheme_name": "HSBC Overnight Fund - Direct Growth",
+        "scheme_name": "HSBC Overnight Fund - Direct Plan - Growth",
         "isin_growth": "INF336L01OF6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1437.73310"
+        },
         {
             "date": "18-08-2026",
             "nav": "1437.33910"

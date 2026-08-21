@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Schemes - Aggressive Hybrid Fund",
         "scheme_code": 151125,
-        "scheme_name": "HSBC Aggressive Hybrid Fund - Direct Annual IDCW",
+        "scheme_name": "HSBC Aggressive Hybrid Fund - Direct Plan - Annual IDCW",
         "isin_growth": "INF917K01TY5",
         "isin_div_reinvestment": "INF917K01TX7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "19.88440"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "19.78020"
+        },
         {
             "date": "18-08-2026",
             "nav": "19.83570"

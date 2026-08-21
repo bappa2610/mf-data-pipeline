@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 150722,
-        "scheme_name": "Edelweiss CRISIL IBX 50:50 Gilt Plus SDL April 2037 Index Fund - Direct Plan - IDCW Option",
+        "scheme_name": "Edelweiss CRISIL IBX 50:50 Gilt Plus SDL April 2037 Index Fund - Direct Plan - IDCW",
         "isin_growth": "INF754K01PG7",
         "isin_div_reinvestment": "INF754K01PH5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.52470"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.54310"

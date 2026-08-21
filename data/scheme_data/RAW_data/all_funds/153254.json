@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 153254,
-        "scheme_name": "Edelweiss Consumption Fund - Direct - IDCW - Payout",
+        "scheme_name": "Edelweiss Consumption Fund - Direct Plan - IDCW Payout",
         "isin_growth": "INF754K01TZ9",
         "isin_div_reinvestment": "INF754K01UA0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.60600"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.53190"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.55560"

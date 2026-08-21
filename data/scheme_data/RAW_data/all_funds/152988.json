@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 152988,
-        "scheme_name": "Edelweiss Nifty500 Multicap Momentum Quality 50 Index Fund - Regular - Growth",
+        "scheme_name": "Edelweiss Nifty500 Multicap Momentum Quality 50 Index Fund - Regular Plan - Growth",
         "isin_growth": "INF754K01TJ3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "9.08700"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "9.04630"
+        },
         {
             "date": "18-08-2026",
             "nav": "9.13940"

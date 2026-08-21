@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
         "scheme_code": 154422,
-        "scheme_name": "JM Multi Asset Allocation Fund (Regular) - IDCW",
+        "scheme_name": "JM Multi Asset Allocation Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF192K01NV4",
         "isin_div_reinvestment": "INF192K01NU6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.45800"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.38220"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.39400"

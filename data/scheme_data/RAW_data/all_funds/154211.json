@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Mid Cap Fund",
         "scheme_code": 154211,
-        "scheme_name": "TRUSTMF MID CAP FUND -REGULAR-GROWTH",
+        "scheme_name": "TRUSTMF MID CAP FUND - Regular Plan - Growth",
         "isin_growth": "INF0GCD01883",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.40000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.32000"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.35000"

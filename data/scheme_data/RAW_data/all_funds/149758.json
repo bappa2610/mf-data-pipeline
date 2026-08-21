@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 149758,
-        "scheme_name": "Nippon India Silver ETF",
+        "scheme_name": "Nippon India Silver ETF - Direct Plan",
         "isin_growth": "INF204KC1402",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "225.67810"
+        },
         {
             "date": "18-08-2026",
             "nav": "221.52180"

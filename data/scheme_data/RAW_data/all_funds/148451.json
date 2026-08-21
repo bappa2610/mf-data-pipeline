@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 148451,
-        "scheme_name": "BHARAT Bond FOF - April 2031 - Regular Plan - IDCW Option",
+        "scheme_name": "BHARAT Bond FOF- April 2031 - Regular Plan - IDCW",
         "isin_growth": "INF754K01LM4",
         "isin_div_reinvestment": "INF754K01LN2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "14.37170"
+        },
         {
             "date": "18-08-2026",
             "nav": "14.35770"

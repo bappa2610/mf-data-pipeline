@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Schemes - Arbitrage Fund",
         "scheme_code": 154259,
-        "scheme_name": "Helios Arbitrage Fund - Direct IDCW",
+        "scheme_name": "Helios Arbitrage Fund - Direct Plan - IDCW",
         "isin_growth": "INF0R8701459",
         "isin_div_reinvestment": "INF0R8701467"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.24000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.25000"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.24000"

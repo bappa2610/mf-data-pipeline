@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Money Market Fund",
         "scheme_code": 153301,
-        "scheme_name": "Bank of India Money Market Fund - Regular - Weekly IDCW",
+        "scheme_name": "Bank of India Money Market Fund - Regular Plan - Weekly IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF761K01GU2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.04770"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.05280"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.05120"

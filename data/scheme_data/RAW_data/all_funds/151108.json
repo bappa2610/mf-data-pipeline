@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Banking and PSU Debt Fund",
         "scheme_code": 151108,
-        "scheme_name": "HSBC Banking and PSU Debt Fund - Direct Daily IDCW",
+        "scheme_name": "HSBC Banking and PSU Debt Fund - Direct Plan - Daily IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF917K01HL7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.16170"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.18060"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.17690"

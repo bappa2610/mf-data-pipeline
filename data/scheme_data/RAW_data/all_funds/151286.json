@@ -1,14 +1,22 @@
 {
     "meta": {
         "fund_house": "Kotak Mahindra Mutual Fund",
-        "scheme_type": "IL&FS Mutual Fund",
-        "scheme_category": "IDF",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income",
         "scheme_code": 151286,
-        "scheme_name": "Kotak FMP Series 304-Direct Plan-Growth Option",
+        "scheme_name": "Kotak FMP Series 304 - Direct Plan - Growth Option",
         "isin_growth": "INF174KA1LP7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.32540"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.36000"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.35200"

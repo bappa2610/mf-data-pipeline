@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Arbitrage Fund",
         "scheme_code": 153804,
-        "scheme_name": "TRUSTMF ARBITRAGE FUND -DIRECT PLAN-GROWTH",
+        "scheme_name": "TRUSTMF ARBITRAGE FUND - Direct Plan - Growth",
         "isin_growth": "INF0GCD01859",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.62180"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.63320"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.61680"

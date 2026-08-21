@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 151142,
-        "scheme_name": "HSBC Business Cycles Fund - Direct Growth",
+        "scheme_name": "HSBC Business Cycles Fund - Direct Plan - Growth",
         "isin_growth": "INF917K01RI2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "49.42440"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "49.04950"
+        },
         {
             "date": "18-08-2026",
             "nav": "49.06840"

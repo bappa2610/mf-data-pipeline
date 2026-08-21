@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Money Market Fund",
         "scheme_code": 154144,
-        "scheme_name": "Shriram Money Market Fund - Direct Plan Growth Option",
+        "scheme_name": "Shriram Money Market Fund - Direct Plan - Growth",
         "isin_growth": "INF680P01471",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1037.85930"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1038.04600"
+        },
         {
             "date": "18-08-2026",
             "nav": "1037.85720"

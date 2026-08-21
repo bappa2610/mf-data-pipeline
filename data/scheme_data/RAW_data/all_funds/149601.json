@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
         "scheme_code": 149601,
-        "scheme_name": "Sundaram Aggressive Hybrid Fund (Formerly Known as Principal Hybrid Equity Fund)- Direct Plan - Growth Option",
+        "scheme_name": "Sundaram Aggressive Hybrid Fund (Formerly Known as Principal Hybrid Equity Fund) - Direct Plan - GROWTH",
         "isin_growth": "INF173K01FE6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "189.03580"
+        },
         {
             "date": "18-08-2026",
             "nav": "188.50470"

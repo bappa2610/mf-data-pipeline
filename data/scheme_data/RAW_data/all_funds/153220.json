@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 153220,
-        "scheme_name": "Kotak Nifty SmallCap 250 Index Fund - Direct - IDCW",
+        "scheme_name": "Kotak Nifty SmallCap 250 Index Fund - Direct Plan - IDCW",
         "isin_growth": "INF174KA1UL7",
         "isin_div_reinvestment": "INF174KA1UM5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.92500"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.85500"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.93000"

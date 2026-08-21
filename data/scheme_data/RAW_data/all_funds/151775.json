@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Focused Fund",
         "scheme_code": 151775,
-        "scheme_name": "ITI Focused Fund - Regular Plan - IDCW",
+        "scheme_name": "ITI Focused Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF00XX01CW0",
         "isin_div_reinvestment": "INF00XX01CR0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.63180"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "15.51040"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.65250"

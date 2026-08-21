@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Tata Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Schemes - Value Fund",
+        "scheme_category": "Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)",
         "scheme_code": 154408,
-        "scheme_name": "Tata Multi Sector Passive FOF Direct Plan IDCW Reinvestment Option",
+        "scheme_name": "Tata Multi Sector Passive FOF - Direct Plan - IDCW Reinvestment Option",
         "isin_growth": null,
         "isin_div_reinvestment": "INF277KA1EW4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.02200"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "9.97340"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.03520"

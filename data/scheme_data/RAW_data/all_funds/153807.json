@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 153807,
-        "scheme_name": "Nippon India Nifty India Manufacturing Index - Direct Plan- IDCW Option",
+        "scheme_name": "Nippon India Nifty India Manufacturing Index Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF204KC1GM6",
         "isin_div_reinvestment": "INF204KC1GN4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.53900"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.51280"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.56750"

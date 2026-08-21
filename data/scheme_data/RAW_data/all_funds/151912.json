@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 151912,
-        "scheme_name": "Kotak Nifty Financial Services Ex-Bank Index Fund - Direct Plan - IDCW option",
+        "scheme_name": "Kotak Nifty Financial Services Ex-Bank Index Fund - Direct Plan - IDCW",
         "isin_growth": "INF174KA1OS5",
         "isin_div_reinvestment": "INF174KA1OT3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "17.03100"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "16.88000"
+        },
         {
             "date": "18-08-2026",
             "nav": "16.91200"

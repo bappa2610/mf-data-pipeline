@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
         "scheme_code": 150479,
-        "scheme_name": "Franklin India Balanced Advantage Fund- IDCW- Direct",
+        "scheme_name": "Franklin India Balanced Advantage Fund - Direct Plan - IDCW",
         "isin_growth": "INF090I01WR3",
         "isin_div_reinvestment": "INF090I01WS1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.92050"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.89250"

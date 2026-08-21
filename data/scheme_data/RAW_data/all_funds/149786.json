@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Other  ETFs",
+        "scheme_category": "Exchange Traded Funds (ETFs) - Equity ETF",
         "scheme_code": 149786,
         "scheme_name": "Mirae Asset Nifty India Manufacturing ETF",
         "isin_growth": "INF769K01IB1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "168.12260"
+        },
         {
             "date": "18-08-2026",
             "nav": "168.54110"

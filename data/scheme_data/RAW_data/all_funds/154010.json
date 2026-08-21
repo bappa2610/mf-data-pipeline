@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 154010,
-        "scheme_name": "Capitalmind Liquid Fund - Regular-Growth",
+        "scheme_name": "Capitalmind Liquid Fund - Regular Plan - Growth",
         "isin_growth": "INF226401042",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1047.47750"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1047.38050"
+        },
         {
             "date": "18-08-2026",
             "nav": "1047.19300"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 153605,
-        "scheme_name": "Baroda BNP Paribas Health and Wellness Fund Direct IDCWPayout",
+        "scheme_name": "Baroda BNP Paribas Health and Wellness Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF251K01VB3",
         "isin_div_reinvestment": "INF251K01VC1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.91460"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.92700"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.96730"

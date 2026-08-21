@@ -4,11 +4,19 @@
         "scheme_type": "Close Ended Schemes",
         "scheme_category": "Income",
         "scheme_code": 151864,
-        "scheme_name": "HDFC Charity Fund for Cancer Cure - IDCW Option - Direct Plan - 75% IDCW Donation Option",
+        "scheme_name": "HDFC  Charity Fund for Cancer Cure - Direct Plan - 75% IDCW Donation Option",
         "isin_growth": "INF179KC1HB8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.16960"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.16840"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.16660"

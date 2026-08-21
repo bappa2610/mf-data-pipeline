@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large & Mid Cap Fund",
         "scheme_code": 152384,
-        "scheme_name": "PGIM India Large and Midcap Fund - Direct Plan - IDCW option",
+        "scheme_name": "PGIM India Large and Midcap Fund - Direct Plan - Direct IDCW",
         "isin_growth": "INF663L01Y20",
         "isin_div_reinvestment": "INF663L01Y38"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.23000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.17000"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.22000"

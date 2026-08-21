@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large & Mid Cap Fund",
         "scheme_code": 153628,
-        "scheme_name": "JM Large & Mid Cap Fund (Regular) - IDCW",
+        "scheme_name": "JM Large & Mid Cap Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF192K01NO9",
         "isin_div_reinvestment": "INF192K01NN1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.83230"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.75720"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.77850"

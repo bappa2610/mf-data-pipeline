@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 148843,
-        "scheme_name": "TRUSTMF Liquid Fund-Regular Plan-Monthly Income Distribution cum Capital Withdrawal",
+        "scheme_name": "TRUSTMF Liquid Fund - Regular Plan - Monthly Income Distribution cum Capital Withdrawal",
         "isin_growth": "INF0GCD01248",
         "isin_div_reinvestment": "INF0GCD01230"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1211.77620"
+        },
         {
             "date": "18-08-2026",
             "nav": "1211.43250"

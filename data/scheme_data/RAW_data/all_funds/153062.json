@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 153062,
-        "scheme_name": "Nippon India Nifty Realty Index Fund-Regular Plan- IDCW Option",
+        "scheme_name": "Nippon India Nifty Realty Index Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF204KC1DW2",
         "isin_div_reinvestment": "INF204KC1DX0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "8.34370"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "8.22810"
+        },
         {
             "date": "18-08-2026",
             "nav": "8.23230"

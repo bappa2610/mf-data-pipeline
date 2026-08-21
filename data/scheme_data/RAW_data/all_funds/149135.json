@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
         "scheme_code": 149135,
-        "scheme_name": "SBI Balanced Advantage Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI Balanced Advantage Fund - Direct Plan - IDCW",
         "isin_growth": "INF200KA1Y81",
         "isin_div_reinvestment": "INF200KA1Y99"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "16.68590"
+        },
         {
             "date": "18-08-2026",
             "nav": "16.68870"

@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 149841,
-        "scheme_name": "Kotak Manufacture in India Fund - Direct Plan Growth",
+        "scheme_name": "Kotak Manufacture in India Fund - Direct Plan - Growth",
         "isin_growth": "INF174KA1IF4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "24.11500"
+        },
         {
             "date": "18-08-2026",
             "nav": "24.20000"

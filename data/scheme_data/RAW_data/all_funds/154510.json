@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 154510,
-        "scheme_name": "Kotak Bond Short Term Fund - Direct - IDCW Weekly",
+        "scheme_name": "Kotak Bond Short Term Fund - Direct Plan - IDCW Weekly",
         "isin_growth": "INF174KA1B69",
         "isin_div_reinvestment": "INF174KA1B44"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.00130"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.01530"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.01380"

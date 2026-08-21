@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
         "scheme_code": 150481,
-        "scheme_name": "Franklin India Balanced Advantage Fund- Growth- Direct",
+        "scheme_name": "Franklin India Balanced Advantage Fund - Direct Plan - Growth",
         "isin_growth": "INF090I01WQ5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.59470"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.56340"

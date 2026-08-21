@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 153253,
-        "scheme_name": "SBI Nifty Bank Index Fund-Regular Plan- Growth",
+        "scheme_name": "SBI Nifty Bank Index Fund - Regular Plan - Growth",
         "isin_growth": "INF200KB1530",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.46340"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.41250"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.41730"

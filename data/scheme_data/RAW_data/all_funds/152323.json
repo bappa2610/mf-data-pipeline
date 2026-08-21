@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
         "scheme_code": 152323,
-        "scheme_name": "Bandhan Multi Asset Allocation Fund - Direct Plan - IDCW",
+        "scheme_name": "BANDHAN MULTI ASSET ALLOCATION FUND - Direct Plan - IDCW",
         "isin_growth": "INF194KB1HN5",
         "isin_div_reinvestment": "INF194KB1HO3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "14.07750"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.98130"
+        },
         {
             "date": "18-08-2026",
             "nav": "14.02900"

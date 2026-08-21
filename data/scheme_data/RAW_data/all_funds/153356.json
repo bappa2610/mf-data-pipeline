@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Equity Savings",
         "scheme_code": 153356,
-        "scheme_name": "WhiteOak Capital Equity Savings Fund Regular Plan Growth",
+        "scheme_name": "WhiteOak Capital Equity Savings Fund - Regular Plan - Growth Option",
         "isin_growth": "INF03VN01AC5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.58300"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.57500"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.57100"

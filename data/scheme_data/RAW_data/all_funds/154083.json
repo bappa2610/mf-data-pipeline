@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Overnight Fund",
         "scheme_code": 154083,
-        "scheme_name": "quant Overnight Fund - Unclaimed IDCW Greater than 3 years",
+        "scheme_name": "quant Overnight Fund - Direct Plan - Unclaimed IDCW Greater than 3 years",
         "isin_growth": null,
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.00000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.00000"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.00000"

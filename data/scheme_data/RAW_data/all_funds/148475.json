@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large & Mid Cap Fund",
         "scheme_code": 148475,
-        "scheme_name": "Baroda BNP Paribas Large and Mid Cap Fund-Direct Plan-IDCW Option",
+        "scheme_name": "Baroda BNP Paribas Large and Mid Cap fund - Direct Plan - IDCW Option",
         "isin_growth": "INF955L01JV0",
         "isin_div_reinvestment": "INF955L01JW8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "21.43180"
+        },
         {
             "date": "18-08-2026",
             "nav": "21.42200"

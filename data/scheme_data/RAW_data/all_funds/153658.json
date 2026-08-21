@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 153658,
-        "scheme_name": "KOTAK NIFTY 200 QUALITY 30 INDEX FUND - DIRECT PLAN - IDCW - PAYOUT AND REINVESTMENT",
+        "scheme_name": "KOTAK NIFTY 200 QUALITY 30 INDEX FUND - Direct Plan - IDCW - PAYOUT AND REINVESTMENT",
         "isin_growth": "INF174KA1WO7",
         "isin_div_reinvestment": "INF174KA1WP4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.08600"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.01200"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.03900"

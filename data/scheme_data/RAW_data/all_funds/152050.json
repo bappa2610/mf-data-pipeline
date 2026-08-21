@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Other  ETFs",
+        "scheme_category": "Exchange Traded Funds (ETFs) - Equity ETF",
         "scheme_code": 152050,
-        "scheme_name": "UTI Nifty Midcap 150 Exchange Traded Fund",
+        "scheme_name": "UTI Nifty Midcap 150 Exchange Traded Fund - Direct Plan - Growth",
         "isin_growth": "INF789F1AYX9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "236.45040"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "235.61140"
+        },
         {
             "date": "18-08-2026",
             "nav": "236.20190"

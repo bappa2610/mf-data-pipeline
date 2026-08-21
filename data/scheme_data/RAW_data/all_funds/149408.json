@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Overnight Fund",
         "scheme_code": 149408,
-        "scheme_name": "ICICI Prudential Overnight fund - Direct Plan - Unclaimed IDCW Transitory Scheme",
+        "scheme_name": "ICICI Prudential Overnight Fund - Direct Plan - Unclaimed IDCW Transitory Scheme\t",
         "isin_growth": "INF109KC16H8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1306.27020"
+        },
         {
             "date": "18-08-2026",
             "nav": "1305.91300"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 152922,
-        "scheme_name": "LIC MF Manufacturing Fund-Regular Plan-Growth",
+        "scheme_name": "LIC MF Manufacturing Fund - Regular Plan - Growth",
         "isin_growth": "INF767K01RO9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.61900"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.61410"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.66480"

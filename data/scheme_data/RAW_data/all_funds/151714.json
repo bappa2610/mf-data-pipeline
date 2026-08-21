@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
         "scheme_code": 151714,
-        "scheme_name": "quant Dynamic Asset Allocation Fund - Growth Option - Regular Plan",
+        "scheme_name": "quant Dynamic Asset Allocation Fund - Regular Plan - Growth Option",
         "isin_growth": "INF966L01BO9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "16.29390"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "16.31720"
+        },
         {
             "date": "18-08-2026",
             "nav": "16.39190"

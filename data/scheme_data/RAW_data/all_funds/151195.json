@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Overnight Fund",
         "scheme_code": 151195,
-        "scheme_name": "quant Overnight Fund - Growth Option - Regular Plan",
+        "scheme_name": "quant Overnight Fund - Regular Plan - Growth Option",
         "isin_growth": "INF966L01BC4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.50220"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.50060"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.49900"

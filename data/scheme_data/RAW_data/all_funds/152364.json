@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 152364,
-        "scheme_name": "ICICI Prudential Nifty50 Value 20 Index Fund - IDCW",
+        "scheme_name": "ICICI Prudential Nifty50 Value 20 Index Fund - Regular Plan - IDCW",
         "isin_growth": "INF109KC10U4",
         "isin_div_reinvestment": "INF109KC11U2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.02030"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "9.96930"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.01130"

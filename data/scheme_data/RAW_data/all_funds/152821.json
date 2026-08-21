@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large & Mid Cap Fund",
         "scheme_code": 152821,
-        "scheme_name": "ITI Large & Midcap Fund - Direct Plan - Growth",
+        "scheme_name": "ITI Large & Mid Cap Fund - Direct Plan - Growth Option",
         "isin_growth": "INF00XX01DA4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.35130"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.27870"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.32840"

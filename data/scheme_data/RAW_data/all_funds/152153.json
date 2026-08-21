@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Overnight Fund",
         "scheme_code": 152153,
-        "scheme_name": "Helios Overnight Fund - Regular Plan - Growth Option",
+        "scheme_name": "Helios Overnight Fund - Regular Plan - Growth",
         "isin_growth": "INF0R8701095",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1176.24780"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1176.09330"
+        },
         {
             "date": "18-08-2026",
             "nav": "1175.93960"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 154375,
-        "scheme_name": "SBI NIFTY G-SEC JUL 2031 INDEX FUND - DIRECT - IDCW",
+        "scheme_name": "SBI Nifty G-sec Jul 2031 Index Fund - Direct Plan - IDCW",
         "isin_growth": "INF200KB1BD1",
         "isin_div_reinvestment": "INF200KB1BE9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.29620"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.33320"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.32850"

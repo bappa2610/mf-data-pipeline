@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Equity Savings",
         "scheme_code": 149674,
-        "scheme_name": "Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund) - Growth Option",
+        "scheme_name": "Sundaram Equity Savings Fund (Formerly Known as Principal Equity Savings Fund) - Regular Plan - GROWTH",
         "isin_growth": "INF173K01213",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "71.93910"
+        },
         {
             "date": "18-08-2026",
             "nav": "71.79840"

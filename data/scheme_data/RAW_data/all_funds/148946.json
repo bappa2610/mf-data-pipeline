@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 148946,
-        "scheme_name": "SBI Nifty Next 50 Index Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI Nifty Next 50 Index Fund - Direct Plan - IDCW",
         "isin_growth": "INF200KA1W18",
         "isin_div_reinvestment": "INF200KA1W26"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "20.60660"
+        },
         {
             "date": "18-08-2026",
             "nav": "20.63860"

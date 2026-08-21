@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Mid Cap Fund",
         "scheme_code": 150812,
-        "scheme_name": "JM Midcap Fund (Regular) - Growth",
+        "scheme_name": "JM Midcap Fund - Regular Plan - Growth Option",
         "isin_growth": "INF192K01MS2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "21.56110"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "21.42450"
+        },
         {
             "date": "18-08-2026",
             "nav": "21.52160"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 151298,
-        "scheme_name": "Axis CRISIL IBX 50:50 Gilt Plus SDL June 2028 Index Fund - Regular Plan - IDCW",
+        "scheme_name": "Axis CRISIL IBX 50:50 Gilt Plus SDL June 2028 Index Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF846K014N9",
         "isin_div_reinvestment": "INF846K015N6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.85450"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.86650"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.86480"

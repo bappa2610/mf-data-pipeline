@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Index Funds - Equity Funds",
         "scheme_code": 148809,
-        "scheme_name": "Aditya Birla Sun Life Nifty Midcap 150 Index Fund - Direct - Payout of IDCW",
+        "scheme_name": "Aditya Birla Sun Life Nifty Midcap 150 Index Fund - Direct Plan - IDCW Payout",
         "isin_growth": "INF209KB1W82",
         "isin_div_reinvestment": "INF209KB1W90"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "26.46460"
+        },
         {
             "date": "18-08-2026",
             "nav": "26.43720"

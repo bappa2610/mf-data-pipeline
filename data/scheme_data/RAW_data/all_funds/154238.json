@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 154238,
-        "scheme_name": "Motilal Oswal Multi Factor Passive Fund of Funds - Regular",
+        "scheme_name": "Motilal Oswal Multi Factor Passive Fund of Funds",
         "isin_growth": "INF247L01GU0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.39940"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.36460"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.41760"

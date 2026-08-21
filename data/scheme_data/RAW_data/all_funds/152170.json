@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 152170,
-        "scheme_name": "Kotak Consumption Fund - Regular plan - Growth Option",
+        "scheme_name": "Kotak Consumption Fund - Regular Plan - Growth Option",
         "isin_growth": "INF174KA1PM5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "14.45800"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "14.31700"
+        },
         {
             "date": "18-08-2026",
             "nav": "14.36000"

@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Credit Risk Fund",
         "scheme_code": 148241,
-        "scheme_name": "UTI - Credit Risk Fund (Segregated - 06032020) - Direct Plan - Flexi Dividend Option",
+        "scheme_name": "UTI - Credit Risk Fund (Segregated - 06032020)",
         "isin_growth": "INF789F1ARK0",
         "isin_div_reinvestment": "INF789F1ARL8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "0.00000"
+        },
         {
             "date": "18-08-2026",
             "nav": "0.00000"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 152328,
-        "scheme_name": "Baroda BNP Paribas Nifty 50 Index Fund - Regular Plan - IDCW option",
+        "scheme_name": "Baroda BNP Paribas Nifty 50 Index Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF251K01SW5",
         "isin_div_reinvestment": "INF251K01SX3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.33610"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.26460"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.30030"

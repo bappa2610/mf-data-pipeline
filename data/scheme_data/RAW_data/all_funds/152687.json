@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 152687,
-        "scheme_name": "Aditya Birla Sun Life Quant Fund - Regular IDCW Payout",
+        "scheme_name": "Aditya Birla Sun Life Quant Fund - Regular Plan - IDCW",
         "isin_growth": "INF209KC1100",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.28000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.27000"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.31000"

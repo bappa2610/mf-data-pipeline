@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 152843,
-        "scheme_name": "Bandhan BSE Healthcare Index Fund Regular Plan - Growth",
+        "scheme_name": "Bandhan BSE Healthcare Index Fund - Regular Plan - Growth",
         "isin_growth": "INF194KB1IR4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.53330"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.50570"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.55650"

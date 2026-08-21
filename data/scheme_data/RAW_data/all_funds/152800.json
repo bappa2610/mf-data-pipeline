@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Index Funds - Equity Funds",
         "scheme_code": 152800,
-        "scheme_name": "Aditya Birla Sun Life Nifty India Defence Index Fund-Regular-Growth",
+        "scheme_name": "Aditya Birla Sun Life Nifty India Defence Index Fund - Regular Plan - GROWTH",
         "isin_growth": "INF209KC1159",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.83250"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.85740"
+        },
         {
             "date": "18-08-2026",
             "nav": "14.06770"

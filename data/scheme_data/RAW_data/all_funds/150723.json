@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 150723,
-        "scheme_name": "Kotak Nifty SDL Plus AAA PSU Bond Jul 2028 60:40 Index Fund Regular Plan - Growth",
+        "scheme_name": "Kotak Nifty SDL Plus AAA PSU Bond Jul 2028 60 - 40 Index Fund - Regular Plan - Growth",
         "isin_growth": "INF174KA1JQ9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.16830"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.17540"

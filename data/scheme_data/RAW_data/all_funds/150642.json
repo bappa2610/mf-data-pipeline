@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 150642,
-        "scheme_name": "Motilal Oswal Gold and Silver Passive Fund of Funds(Direct Plan)",
+        "scheme_name": "Motilal Oswal Gold and Silver Passive Fund of Funds",
         "isin_growth": "INF247L01BM8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "31.66790"
+        },
         {
             "date": "18-08-2026",
             "nav": "31.14150"

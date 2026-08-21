@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 152287,
-        "scheme_name": "Tata Gold ETF Fund of Fund Direct Plan Growth Option",
+        "scheme_name": "Tata Gold ETF Fund of Fund - Direct Plan - Growth Option",
         "isin_growth": "INF277KA1869",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "23.89570"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "23.34310"
+        },
         {
             "date": "18-08-2026",
             "nav": "23.46920"

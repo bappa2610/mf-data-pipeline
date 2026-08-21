@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 150846,
-        "scheme_name": "HDFC Nifty G-Sec July 2031 Index Fund - Growth Option",
+        "scheme_name": "HDFC Nifty G-Sec July 2031 Index Fund - Regular Plan - Growth Option",
         "isin_growth": "INF179KC1EI0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.31070"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.35920"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.35300"

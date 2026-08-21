@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Corporate Bond Fund",
         "scheme_code": 151001,
-        "scheme_name": "HSBC Corporate Bond Fund - Regular Annual IDCW",
+        "scheme_name": "HSBC Corporate Bond Fund - Regular Plan - Annual IDCW",
         "isin_growth": "INF917K01WB7",
         "isin_div_reinvestment": "INF917K01WA9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.51270"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.52680"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.52120"

@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Money Market Fund",
         "scheme_code": 149116,
-        "scheme_name": "Union Money Market Fund - Regular Plan -  Growth Option",
+        "scheme_name": "Union Money Market Fund - Regular Plan - Growth Option",
         "isin_growth": "INF582M01HO9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1317.13120"
+        },
         {
             "date": "18-08-2026",
             "nav": "1317.55400"

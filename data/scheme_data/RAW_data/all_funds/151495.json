@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 151495,
-        "scheme_name": "HDFC Nifty G-Sec Apr 2029 Index Fund - Growth Option - Direct Plan",
+        "scheme_name": "HDFC Nifty G-Sec Apr 2029 Index Fund - Direct Plan - Growth Option",
         "isin_growth": "INF179KC1FQ0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.03260"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.05110"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.04870"

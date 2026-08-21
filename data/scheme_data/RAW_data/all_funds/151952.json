@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Equity Savings",
         "scheme_code": 151952,
-        "scheme_name": "LIC MF Equity Savings Fund-Direct Plan-Growth",
+        "scheme_name": "LIC MF Equity Savings Fund - Direct Plan - Growth",
         "isin_growth": "INF397L01AZ5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "32.81410"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "32.75400"
+        },
         {
             "date": "18-08-2026",
             "nav": "32.78020"

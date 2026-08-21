@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 153841,
-        "scheme_name": "Edelweiss Nifty LargeMidcap 250 ETF - Growth",
+        "scheme_name": "Edelweiss Nifty LargeMidcap 250 ETF",
         "isin_growth": "INF754K01VV4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "16.79950"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "16.72080"
+        },
         {
             "date": "18-08-2026",
             "nav": "16.77240"

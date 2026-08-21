@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - ELSS",
         "scheme_code": 150159,
-        "scheme_name": "BARODA BNP PARIBAS ELSS Tax Saver Fund - Direct Plan - Growth Option",
+        "scheme_name": "Baroda BNP Paribas ELSS Tax Saver Fund - Direct Plan - Growth Option",
         "isin_growth": "INF251K01HF3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "116.92180"
+        },
         {
             "date": "18-08-2026",
             "nav": "116.82360"

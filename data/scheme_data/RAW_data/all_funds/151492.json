@@ -4,11 +4,19 @@
         "scheme_type": "Close Ended Schemes",
         "scheme_category": "Income",
         "scheme_code": 151492,
-        "scheme_name": "ICICI Prudential Fixed Maturity Plan - Series 88 - 1303 Days Plan S - Direct Plan - IDCW",
+        "scheme_name": "ICICI Prudential Fixed Maturity Plan - Series 88 - 1303 Days Plan S",
         "isin_growth": "INF109KC15R9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.80350"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.80180"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.79970"

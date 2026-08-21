@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Balanced Hybrid Fund",
         "scheme_code": 152074,
-        "scheme_name": "360 ONE Balanced Hyrbrid fund - Regular Plan - IDCW",
+        "scheme_name": "360 ONE Balanced Hybrid Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF579M01AW3",
         "isin_div_reinvestment": "INF579M01AX1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.29380"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.25500"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.27030"

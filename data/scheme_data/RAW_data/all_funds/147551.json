@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Overnight Fund",
         "scheme_code": 147551,
-        "scheme_name": "Edelweiss Overnight Fund - Direct Plan - Annual - IDCW Option",
+        "scheme_name": "Edelweiss Overnight Fund - Direct Plan - Annual IDCW",
         "isin_growth": "INF754K01KD5",
         "isin_div_reinvestment": "INF754K01KC7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1351.42680"
+        },
         {
             "date": "18-08-2026",
             "nav": "1351.02840"

@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Dividend Yield Fund",
         "scheme_code": 149699,
-        "scheme_name": "Sundaram Dividend Yield Fund (Formerly Known as Principal Dividend Yield Fund)- Direct Plan - Income Distribution CUM Capital Withdrawal Option",
+        "scheme_name": "Sundaram Dividend Yield Fund (Formerly Known as Principal Dividend Yield Fund) - Direct Plan - IDCW (Income Distribution CUM Capital Withdrawal)",
         "isin_growth": "INF173K01ES9",
         "isin_div_reinvestment": "INF173K01ET7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "60.81580"
+        },
         {
             "date": "18-08-2026",
             "nav": "60.86200"

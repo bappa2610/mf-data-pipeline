@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Schemes - Multi Asset Allocation Fund",
         "scheme_code": 152380,
-        "scheme_name": "HSBC Multi Asset Allocation Fund - Direct - Growth",
+        "scheme_name": "HSBC Multi Asset Allocation Fund - Direct Plan - Growth",
         "isin_growth": "INF336L01RI3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "14.57770"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "14.45180"
+        },
         {
             "date": "18-08-2026",
             "nav": "14.45260"

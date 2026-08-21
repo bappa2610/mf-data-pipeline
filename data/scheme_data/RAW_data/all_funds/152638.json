@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 152638,
-        "scheme_name": "Bajaj Finserv Nifty 1D Rate Liquid ETF",
+        "scheme_name": "Bajaj Finserv Nifty 1D Rate Liquid ETF - Growth",
         "isin_growth": "INF0QA701854",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1095.32980"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1095.19090"
+        },
         {
             "date": "18-08-2026",
             "nav": "1095.04820"

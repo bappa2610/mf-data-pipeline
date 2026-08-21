@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 152981,
-        "scheme_name": "Edelweiss Nifty500 Multicap Momentum Quality 50 ETF - Growth",
+        "scheme_name": "Edelweiss Nifty500 Multicap Momentum Quality 50 ETF",
         "isin_growth": "INF754K01TF1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "42.01260"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "41.82370"
+        },
         {
             "date": "18-08-2026",
             "nav": "42.25350"

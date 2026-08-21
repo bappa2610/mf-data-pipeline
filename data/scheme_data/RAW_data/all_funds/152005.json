@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Small Cap Fund",
         "scheme_code": 152005,
-        "scheme_name": "LIC MF Small Cap Fund-Direct Plan-IDCW",
+        "scheme_name": "LIC MF Small Cap Fund - Direct Plan - IDCW",
         "isin_growth": "INF397L01JP7",
         "isin_div_reinvestment": "INF397L01JQ5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "39.87390"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "39.58250"
+        },
         {
             "date": "18-08-2026",
             "nav": "39.68810"

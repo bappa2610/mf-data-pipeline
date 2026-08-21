@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 152243,
-        "scheme_name": "DSP Nifty Smallcap250 Quality 50 Index Fund - Direct - Growth",
+        "scheme_name": "DSP Nifty Smallcap250 Quality 50 Index Fund - Direct Plan - Growth",
         "isin_growth": "INF740KA1TW1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.35230"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.35000"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.40910"

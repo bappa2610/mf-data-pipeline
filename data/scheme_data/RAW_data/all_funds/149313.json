@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Overnight Fund",
         "scheme_code": 149313,
-        "scheme_name": "Unclaimed IDCW - Beyond 3 years (Invested in DSP Overnight Fund)",
+        "scheme_name": "DSP Overnight Fund",
         "isin_growth": null,
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.00000"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.00000"

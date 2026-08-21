@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 153335,
-        "scheme_name": "Edelweiss CRISIL IBX AAA Bond NBFC HFC Jun 2027 Index Fund - Direct Plan - Growth Option",
+        "scheme_name": "Edelweiss CRISIL IBX AAA Bond NBFC HFC Jun 2027 Index Fund - Direct Plan - Growth",
         "isin_growth": "INF754K01UG7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.18550"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.19360"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.19210"

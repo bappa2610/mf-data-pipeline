@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
         "scheme_code": 152395,
-        "scheme_name": "Bank of India Multi Asset Allocation Fund-Regular Plan-IDCW",
+        "scheme_name": "Bank of India Multi Asset Allocation Fund - Regular Plan - IDCW",
         "isin_growth": "INF761K01FX8",
         "isin_div_reinvestment": "INF761K01FY6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.93510"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.82160"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.85460"

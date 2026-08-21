@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Floater Fund",
         "scheme_code": 148549,
-        "scheme_name": "SBI Floating Rate DEBT Fund - Direct Plan - Quarterly Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI Floating Rate Debt Fund - Direct Plan - IDCW",
         "isin_growth": "INF200KA1R98",
         "isin_div_reinvestment": "INF200KA1S06"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "14.46050"
+        },
         {
             "date": "18-08-2026",
             "nav": "14.46550"

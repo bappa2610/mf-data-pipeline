@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 153485,
-        "scheme_name": "Motilal Oswal Infrastructure Fund-Regular-IDCW",
+        "scheme_name": "Motilal Oswal Infrastructure Fund",
         "isin_growth": "INF247L01FA4",
         "isin_div_reinvestment": "INF247L01FB2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.18000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.15260"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.24910"

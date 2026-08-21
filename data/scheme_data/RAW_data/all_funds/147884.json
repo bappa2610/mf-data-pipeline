@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Overnight Fund",
         "scheme_code": 147884,
-        "scheme_name": "Invesco India Overnight Fund - Direct Plan - Daily IDCW (Reinvestment)",
+        "scheme_name": "Invesco India Overnight Fund - Direct Plan - Daily IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF205KA1122"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1000.53030"
+        },
         {
             "date": "18-08-2026",
             "nav": "1000.53030"

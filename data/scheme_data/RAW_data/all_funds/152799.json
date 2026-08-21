@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Index Funds - Equity Funds",
         "scheme_code": 152799,
-        "scheme_name": "Aditya Birla Sun Life Nifty India Defence Index Fund-Direct IDCW Payout",
+        "scheme_name": "Aditya Birla Sun Life Nifty India Defence Index Fund - Direct Plan - IDCW Payout",
         "isin_growth": "INF209KC1191",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "14.03380"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "14.05880"
+        },
         {
             "date": "18-08-2026",
             "nav": "14.27180"

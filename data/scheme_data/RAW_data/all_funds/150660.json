@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Multi Cap Fund",
         "scheme_code": 150660,
-        "scheme_name": "LIC MF Multi Cap Fund-Direct Plan-IDCW",
+        "scheme_name": "LIC MF Multi Cap Fund - Direct Plan - IDCW",
         "isin_growth": "INF767K01RL5",
         "isin_div_reinvestment": "INF767K01RM3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "19.92090"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "19.83800"
+        },
         {
             "date": "18-08-2026",
             "nav": "19.84400"

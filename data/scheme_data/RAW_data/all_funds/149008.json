@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 149008,
-        "scheme_name": "Nippon India Nifty Pharma ETF",
+        "scheme_name": "Nippon India Nifty Pharma ETF - Direct Plan",
         "isin_growth": "INF204KC1089",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "27.16750"
+        },
         {
             "date": "18-08-2026",
             "nav": "27.11220"

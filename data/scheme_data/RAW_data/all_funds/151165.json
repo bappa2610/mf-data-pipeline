@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - ELSS",
         "scheme_code": 151165,
-        "scheme_name": "360 ONE ELSS Tax Saver Nifty 50 Index Fund - Direct Plan - Growth",
+        "scheme_name": "360 ONE ELSS Tax Saver Nifty 50 Index Fund - Direct Plan - GROWTH Option",
         "isin_growth": "INF579M01AN2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.78670"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.69990"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.74330"

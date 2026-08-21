@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 152561,
-        "scheme_name": "Tata Nifty Auto Index Fund - Regular Plan - IDCW Payout",
+        "scheme_name": "Tata Nifty Auto Index Fund - Regular Plan - IDCW Payout Option",
         "isin_growth": "INF277KA1AS0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.17460"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.12290"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.15880"

@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 149448,
-        "scheme_name": "Navi Nifty Next 50 Index Fund- Regular Plan- Growth",
+        "scheme_name": "Navi Nifty Next 50 Index Fund - Regular Plan - Growth",
         "isin_growth": "INF959L01FS6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "17.24290"
+        },
         {
             "date": "18-08-2026",
             "nav": "17.27030"

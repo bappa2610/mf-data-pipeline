@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Overnight Fund",
         "scheme_code": 154624,
-        "scheme_name": "Choice Overnight Fund -Direct -Unclaimed Less than 3 years Redemption Plan",
+        "scheme_name": "Choice Overnight Fund - Direct Plan - Unclaimed Less than 3 years Redemption",
         "isin_growth": null,
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "21-08-2026",
+            "nav": "100.12340"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "100.09620"
+        },
         {
             "date": "18-08-2026",
             "nav": "100.08270"

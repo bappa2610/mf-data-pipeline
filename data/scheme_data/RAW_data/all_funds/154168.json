@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 154168,
-        "scheme_name": "DSP Multi Asset Omni Fund of Funds - Regular - IDCW",
+        "scheme_name": "DSP Multi Asset Omni Fund of Funds - Regular Plan - IDCW",
         "isin_growth": "INF740KA1YC3",
         "isin_div_reinvestment": "INF740KA1YD1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.19370"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.14980"

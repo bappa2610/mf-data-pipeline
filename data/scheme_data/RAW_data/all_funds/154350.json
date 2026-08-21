@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Index Funds - Equity Funds",
         "scheme_code": 154350,
-        "scheme_name": "Groww Nifty Private Bank Index Fund Regular Growth",
+        "scheme_name": "Groww Nifty Private Bank Index Fund - Regular Plan - Growth",
         "isin_growth": "INF666M01OX7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.21630"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.12720"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.14240"
