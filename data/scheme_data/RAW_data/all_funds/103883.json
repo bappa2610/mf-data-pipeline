@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - ELSS",
         "scheme_code": 103883,
-        "scheme_name": "SBI ELSS Tax Saver Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI ELSS Tax Saver Fund - Regular Plan - IDCW",
         "isin_growth": "INF200K01479",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "87.91290"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "87.42900"
+        },
         {
             "date": "18-08-2026",
             "nav": "87.82980"

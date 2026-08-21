@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
         "scheme_code": 104492,
-        "scheme_name": "Invesco India Liquid Fund - Monthly IDCW (Payout / Reinvestment)",
+        "scheme_name": "Invesco India Liquid Fund - Regular Plan - Monthly IDCW",
         "isin_growth": "INF205K01HQ6",
         "isin_div_reinvestment": "INF205K01HP8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1006.86450"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1006.75080"
+        },
         {
             "date": "18-08-2026",
             "nav": "1006.57970"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Flexi Cap Fund",
         "scheme_code": 144548,
-        "scheme_name": "Tata Flexi Cap Fund -Regular Plan-Growth",
+        "scheme_name": "Tata Flexi Cap Fund - Regular Plan - Growth Option",
         "isin_growth": "INF277K019K2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "23.82170"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "23.67820"
+        },
         {
             "date": "18-08-2026",
             "nav": "23.75750"

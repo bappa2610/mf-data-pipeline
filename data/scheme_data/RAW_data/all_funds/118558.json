@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 118558,
-        "scheme_name": "Franklin Asian Equity Fund - Direct - IDCW ",
+        "scheme_name": "Franklin Asian Equity Fund - Direct Plan - IDCW",
         "isin_growth": "INF090I01IX0",
         "isin_div_reinvestment": "INF090I01IY8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "23.07350"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "22.73120"
+        },
         {
             "date": "18-08-2026",
             "nav": "23.05020"

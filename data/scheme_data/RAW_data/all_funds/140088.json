@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Gold ETF",
         "scheme_code": 140088,
-        "scheme_name": "Nippon India ETF Gold BeES",
+        "scheme_name": "Nippon India ETF Gold BeES - Direct Plan",
         "isin_growth": "INF204KB17I5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "128.78470"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "125.90330"
+        },
         {
             "date": "18-08-2026",
             "nav": "126.37980"

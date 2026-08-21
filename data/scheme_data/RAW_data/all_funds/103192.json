@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Low Duration Fund",
         "scheme_code": 103192,
-        "scheme_name": "Aditya Birla Sun Life Low Duration Fund -Regular- Growth Plan",
+        "scheme_name": "Aditya Birla Sun Life Low Duration Fund - Regular Plan - GROWTH",
         "isin_growth": "INF209K01LQ0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "698.74410"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "699.22910"
+        },
         {
             "date": "18-08-2026",
             "nav": "699.13390"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Floater Fund",
         "scheme_code": 111545,
-        "scheme_name": "ICICI Prudential Floating Interest Fund - Weekly IDCW",
+        "scheme_name": "ICICI Prudential Floating Interest Fund - Regular Plan - Weekly IDCW",
         "isin_growth": "INF109K01EN4",
         "isin_div_reinvestment": "INF109K01AY9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "102.14410"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "102.26140"
+        },
         {
             "date": "18-08-2026",
             "nav": "102.23890"

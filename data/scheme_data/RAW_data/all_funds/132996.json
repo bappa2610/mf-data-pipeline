@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Equity Savings",
         "scheme_code": 132996,
-        "scheme_name": "Aditya Birla Sun Life Equity Savings Fund - Direct - IDCW",
+        "scheme_name": "Aditya Birla Sun Life Equity Savings Fund - Direct Plan - IDCW",
         "isin_growth": "INF209KA1TQ7",
         "isin_div_reinvestment": "INF209KA1TR5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.61000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "15.60000"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.59000"

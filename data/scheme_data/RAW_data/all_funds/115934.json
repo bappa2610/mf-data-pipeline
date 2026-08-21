@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 115934,
-        "scheme_name": "HDFC Gold ETF Fund of Fund - Growth Option",
+        "scheme_name": "HDFC Gold ETF Fund of Fund - Regular Plan - Growth Option",
         "isin_growth": "INF179K01LC5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "46.23260"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "45.19080"
+        },
         {
             "date": "18-08-2026",
             "nav": "45.41380"

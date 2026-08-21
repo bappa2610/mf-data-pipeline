@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Short Duration Fund",
         "scheme_code": 119223,
-        "scheme_name": "DSP Short Term Fund - Direct Plan - IDCW - Weekly",
+        "scheme_name": "DSP Short Term Fund - Direct Plan - Weekly IDCW",
         "isin_growth": "INF740KA1PD9",
         "isin_div_reinvestment": "INF740KA1PE7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.16230"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.17890"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.17670"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 109349,
-        "scheme_name": "CANARA ROBECO LIQUID FUND - REGULAR PLAN - DAILY IDCW (Reinvestment)",
+        "scheme_name": "Canara Robeco Liquid Fund - Regular Plan - DAILY IDCW (Reinvestment)",
         "isin_growth": null,
         "isin_div_reinvestment": "INF760K01CU3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1005.50000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1005.50000"
+        },
         {
             "date": "18-08-2026",
             "nav": "1005.50000"

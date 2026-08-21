@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 120781,
-        "scheme_name": "UTI India Consumer Fund - Direct Plan - IDCW",
+        "scheme_name": "UTI - India Consumer Fund - Direct Plan - IDCW",
         "isin_growth": "INF789F01VG1",
         "isin_div_reinvestment": "INF789F01VH9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "57.36950"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "56.99970"
+        },
         {
             "date": "18-08-2026",
             "nav": "57.01860"

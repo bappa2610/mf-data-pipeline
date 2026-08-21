@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Credit Risk Fund",
         "scheme_code": 119792,
-        "scheme_name": "SBI Credit Risk Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI CREDIT RISK FUND - Direct Plan - IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF200K01SS0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "17.15640"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "17.18300"
+        },
         {
             "date": "18-08-2026",
             "nav": "17.16790"

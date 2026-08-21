@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Short Duration Fund",
         "scheme_code": 113048,
-        "scheme_name": "HDFC Short Term  Debt Fund - Fortnightly IDCW Option",
+        "scheme_name": "HDFC Short Term Debt Fund - Regular Plan - Fortnightly IDCW Option",
         "isin_growth": "INF179K01CV4",
         "isin_div_reinvestment": "INF179K01CW2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.17820"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.19470"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.19310"

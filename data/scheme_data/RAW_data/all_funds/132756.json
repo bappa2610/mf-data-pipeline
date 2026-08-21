@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - ELSS",
         "scheme_code": 132756,
-        "scheme_name": "Tata ELSS Fund-Growth-Direct Plan",
+        "scheme_name": "Tata ELSS Fund - Direct Plan - Growth Option",
         "isin_growth": "INF277K01I86",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "55.54620"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "55.31720"
+        },
         {
             "date": "18-08-2026",
             "nav": "55.47550"

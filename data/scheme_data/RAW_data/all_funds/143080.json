@@ -4,11 +4,19 @@
         "scheme_type": "Close Ended Schemes",
         "scheme_category": "ELSS",
         "scheme_code": 143080,
-        "scheme_name": "Sundaram Long Term Tax Advantage Fund Series IV Direct Plan - Payout of Income Distribution cum Capital Withdrawal (IDCW)",
+        "scheme_name": "Sundaram Long Term Tax Advantage Fund Series IV",
         "isin_growth": "INF903JA1DA7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "35.22020"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "34.93200"
+        },
         {
             "date": "18-08-2026",
             "nav": "35.24550"

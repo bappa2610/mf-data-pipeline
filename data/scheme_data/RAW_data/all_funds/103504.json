@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large Cap Fund",
         "scheme_code": 103504,
-        "scheme_name": "SBI Large Cap FUND-REGULAR PLAN GROWTH",
+        "scheme_name": "SBI Large Cap Fund - Regular Plan - Growth",
         "isin_growth": "INF200K01180",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "94.01540"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "93.60110"
+        },
         {
             "date": "18-08-2026",
             "nav": "93.87790"

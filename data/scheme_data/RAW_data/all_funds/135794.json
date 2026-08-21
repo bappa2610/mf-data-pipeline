@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 135794,
-        "scheme_name": "Tata Banking And Financial Services Fund-Regular Plan-Growth",
+        "scheme_name": "Tata Banking & Financial Services Fund - Regular Plan - Growth Option",
         "isin_growth": "INF277K01Y86",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "44.59340"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "44.16870"
+        },
         {
             "date": "18-08-2026",
             "nav": "44.22650"

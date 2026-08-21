@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 119730,
-        "scheme_name": "SBI Consumption Opportunities Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI CONSUMPTION OPPORTUNITIES FUND - Direct Plan - IDCW",
         "isin_growth": "INF200K01RK9",
         "isin_div_reinvestment": "INF200K01RL7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "236.20000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "234.56670"
+        },
         {
             "date": "18-08-2026",
             "nav": "235.85670"

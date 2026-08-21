@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Dynamic Bond",
         "scheme_code": 122720,
-        "scheme_name": "360 ONE Dynamic Bond Fund Regular Plan Half Yearly Dividend",
+        "scheme_name": "360 ONE Dynamic Bond Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF579M01225",
         "isin_div_reinvestment": "INF579M01258"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "23.37270"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "23.41490"
+        },
         {
             "date": "18-08-2026",
             "nav": "23.41790"

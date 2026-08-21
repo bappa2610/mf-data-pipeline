@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Multi Cap Fund",
         "scheme_code": 100630,
-        "scheme_name": "quant Multi Cap Fund-IDCW Option - Regular Plan",
+        "scheme_name": "Quant Multi Cap Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF966L01218",
         "isin_div_reinvestment": "INF966L01226"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "75.28970"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "75.10200"
+        },
         {
             "date": "18-08-2026",
             "nav": "75.41680"

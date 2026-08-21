@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large & Mid Cap Fund",
         "scheme_code": 100349,
-        "scheme_name": "ICICI Prudential Large & Mid Cap Fund - Growth",
+        "scheme_name": "ICICI Prudential Large & Mid Cap Fund - Regular Plan - Growth",
         "isin_growth": "INF109K01431",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1061.63000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1055.66000"
+        },
         {
             "date": "18-08-2026",
             "nav": "1059.47000"

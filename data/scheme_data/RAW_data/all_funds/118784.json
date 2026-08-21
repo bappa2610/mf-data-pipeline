@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Value Fund",
         "scheme_code": 118784,
-        "scheme_name": "Nippon India Value Fund - Direct Plan Growth Plan",
+        "scheme_name": "Nippon India Value Fund - Direct Plan - Growth Option",
         "isin_growth": "INF204K01K49",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "249.81100"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "247.79310"
+        },
         {
             "date": "18-08-2026",
             "nav": "248.63450"

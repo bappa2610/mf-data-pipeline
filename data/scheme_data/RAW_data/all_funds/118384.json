@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Money Market Fund",
         "scheme_code": 118384,
-        "scheme_name": "Bandhan Money Market Fund -Direct Plan-Growth",
+        "scheme_name": "Bandhan Money  Market Fund - Direct Plan - Growth",
         "isin_growth": "INF194K01M80",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "47.01740"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "47.03920"
+        },
         {
             "date": "18-08-2026",
             "nav": "47.03010"

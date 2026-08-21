@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Medium to Long Duration Fund",
         "scheme_code": 108763,
-        "scheme_name": "Bandhan Medium to Long Duration Fund - Regular Plan - Half-yearly IDCW",
+        "scheme_name": "Bandhan Medium to Long Duration Fund - Regular Plan - Half Yearly IDCW",
         "isin_growth": "INF194K01IQ0",
         "isin_div_reinvestment": "INF194K01IP2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.21050"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.25130"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.25570"

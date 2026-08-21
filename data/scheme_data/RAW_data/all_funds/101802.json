@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Floater Fund",
         "scheme_code": 101802,
-        "scheme_name": "ICICI Prudential Floating Interest Fund - Growth",
+        "scheme_name": "ICICI Prudential Floating Interest Fund - Regular Plan - Growth",
         "isin_growth": "INF109K01AX1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "455.60570"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "456.12910"
+        },
         {
             "date": "18-08-2026",
             "nav": "456.02860"

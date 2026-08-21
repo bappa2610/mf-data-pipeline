@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 103228,
-        "scheme_name": "quant Liquid Fund - Monthly IDCW Option - Regular Plan",
+        "scheme_name": "Quant Liquid Fund - Regular Plan - Monthly IDCW Option",
         "isin_growth": "INF966L01291",
         "isin_div_reinvestment": "INF966L01309"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.20180"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "15.20130"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.19930"

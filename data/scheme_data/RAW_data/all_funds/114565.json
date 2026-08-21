@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Mid Cap Fund",
         "scheme_code": 114565,
-        "scheme_name": "Axis Midcap Fund - Regular Plan - IDCW",
+        "scheme_name": "Axis Midcap Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF846K01867",
         "isin_div_reinvestment": "INF846K01875"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "41.98000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "41.84000"
+        },
         {
             "date": "18-08-2026",
             "nav": "41.98000"

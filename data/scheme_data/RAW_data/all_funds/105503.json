@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Mid Cap Fund",
         "scheme_code": 105503,
-        "scheme_name": "Invesco India Midcap Fund - Regular Plan - Growth Option",
+        "scheme_name": "Invesco India Midcap Fund - Regular Plan - Growth",
         "isin_growth": "INF205K01BC9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "200.16000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "198.86000"
+        },
         {
             "date": "18-08-2026",
             "nav": "199.73000"

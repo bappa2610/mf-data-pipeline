@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - ELSS",
         "scheme_code": 119723,
-        "scheme_name": "SBI ELSS Tax Saver FUND - DIRECT PLAN -GROWTH",
+        "scheme_name": "SBI ELSS Tax Saver Fund - Direct Plan - Growth",
         "isin_growth": "INF200K01UM9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "471.84670"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "469.24200"
+        },
         {
             "date": "18-08-2026",
             "nav": "471.38530"

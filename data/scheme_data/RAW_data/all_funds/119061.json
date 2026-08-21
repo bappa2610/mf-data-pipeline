@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
         "scheme_code": 119061,
-        "scheme_name": "HDFC Hybrid Equity Fund - IDCW Option - Direct Plan",
+        "scheme_name": "HDFC Hybrid Equity Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF179K01XX6",
         "isin_div_reinvestment": "INF179K01XY4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "17.82000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "17.76300"
+        },
         {
             "date": "18-08-2026",
             "nav": "17.79900"

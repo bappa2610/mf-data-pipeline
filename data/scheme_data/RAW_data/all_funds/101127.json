@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Solution Oriented Scheme - Children\u2019s Fund",
         "scheme_code": 101127,
-        "scheme_name": "ICICI Prudential Children's Fund - Regular Plan",
+        "scheme_name": "ICICI Prudential Children's Fund - Regular Plan - Growth",
         "isin_growth": "INF109K01605",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "330.15000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "329.38000"
+        },
         {
             "date": "18-08-2026",
             "nav": "330.50000"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 120703,
-        "scheme_name": "ICICI Prudential Diversified Debt Strategy Active FOF - Direct Plan -  IDCW",
+        "scheme_name": "ICICI Prudential Diversified Debt Strategy Active FOF - Direct Plan - IDCW",
         "isin_growth": "INF109K01X57",
         "isin_div_reinvestment": "INF109K01X65"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "43.99090"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "44.07360"
+        },
         {
             "date": "18-08-2026",
             "nav": "44.06390"

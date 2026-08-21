@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
         "scheme_code": 119062,
-        "scheme_name": "HDFC Hybrid Equity Fund - Growth Option - Direct Plan",
+        "scheme_name": "HDFC Hybrid Equity Fund - Direct Plan - Growth Option",
         "isin_growth": "INF179K01XZ1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "125.38700"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "124.98500"
+        },
         {
             "date": "18-08-2026",
             "nav": "125.24200"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Banking and PSU Fund",
         "scheme_code": 119553,
-        "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund  - Direct - Quarterly IDCW",
+        "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund - Direct Plan - QUARTERLY IDCW Payout",
         "isin_growth": "INF209K01YO8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "105.02980"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "105.19530"
+        },
         {
             "date": "18-08-2026",
             "nav": "105.16370"

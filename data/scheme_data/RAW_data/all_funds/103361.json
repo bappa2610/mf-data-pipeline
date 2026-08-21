@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Small Cap Fund",
         "scheme_code": 103361,
-        "scheme_name": "Franklin India Small Cap Fund - IDCW",
+        "scheme_name": "Franklin India Small Cap Fund - Regular Plan - IDCW",
         "isin_growth": "INF090I01544",
         "isin_div_reinvestment": "INF090I01551"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "45.43350"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "45.10690"
+        },
         {
             "date": "18-08-2026",
             "nav": "45.38080"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
         "scheme_code": 131666,
-        "scheme_name": "Aditya Birla Sun Life Balanced Advantage Fund - Regular Plan - Growth Option",
+        "scheme_name": "Aditya Birla Sun Life Balanced Advantage Fund - Regular Plan - GROWTH",
         "isin_growth": "INF084M01AB8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "114.68000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "114.13000"
+        },
         {
             "date": "18-08-2026",
             "nav": "114.26000"

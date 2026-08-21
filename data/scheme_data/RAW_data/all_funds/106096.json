@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 106096,
-        "scheme_name": "SBI INFRASTRUCTURE FUND -  REGULAR PLAN - GROWTH",
+        "scheme_name": "SBI INFRASTRUCTURE FUND - Regular Plan - Growth",
         "isin_growth": "INF200K01CT2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "50.69090"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "50.53480"
+        },
         {
             "date": "18-08-2026",
             "nav": "50.98030"

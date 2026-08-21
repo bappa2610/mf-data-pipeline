@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Gilt Fund",
         "scheme_code": 138472,
-        "scheme_name": "PGIM India Gilt Fund - Direct Plan - Growth",
+        "scheme_name": "PGIM India Gilt Fund - Direct Plan - Direct Growth",
         "isin_growth": "INF223J01ND7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "33.67720"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "33.76630"
+        },
         {
             "date": "18-08-2026",
             "nav": "33.76360"

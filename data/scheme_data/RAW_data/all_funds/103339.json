@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - ELSS",
         "scheme_code": 103339,
-        "scheme_name": "Kotak ELSS Tax Saver Fund-Growth",
+        "scheme_name": "Kotak ELSS Tax Saver Fund - Regular Plan - Growth",
         "isin_growth": "INF174K01369",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "118.53600"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "117.89600"
+        },
         {
             "date": "18-08-2026",
             "nav": "118.36100"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Short Duration Fund",
         "scheme_code": 111589,
-        "scheme_name": "BANK OF INDIA Short Term Income Fund-Regular Plan- Monthly IDCW",
+        "scheme_name": "BANK OF INDIA SHORT TERM INCOME FUND - Regular Plan - Monthly IDCW",
         "isin_growth": "INF761K01595",
         "isin_div_reinvestment": "INF761K01587"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "14.54820"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "14.56430"
+        },
         {
             "date": "18-08-2026",
             "nav": "14.56090"

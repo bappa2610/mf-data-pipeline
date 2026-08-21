@@ -4,11 +4,19 @@
         "scheme_type": "Close Ended Schemes",
         "scheme_category": "ELSS",
         "scheme_code": 144309,
-        "scheme_name": "BANK OF INDIA Midcap Tax Fund Series 2 Direct Plan IDCW",
+        "scheme_name": "BANK OF INDIA MID CAP TAX FUND Series 2 - Direct Plan - IDCW",
         "isin_growth": "INF761K01EK8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "36.34000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "36.16000"
+        },
         {
             "date": "18-08-2026",
             "nav": "36.16000"

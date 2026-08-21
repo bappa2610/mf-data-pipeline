@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Conservative Hybrid Fund",
         "scheme_code": 102172,
-        "scheme_name": "Nippon India Conservative Hybrid  Fund-Growth Plan",
+        "scheme_name": "Nippon India Conservative Hybrid Fund (Existing number of Segregated Portfolios - 1) - Regular Plan - Growth Option",
         "isin_growth": "INF204K01FD1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "62.24390"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "62.27020"
+        },
         {
             "date": "18-08-2026",
             "nav": "62.26060"

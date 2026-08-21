@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Overseas Fund of Funds - Fund of Funds investing overseas",
         "scheme_code": 126352,
-        "scheme_name": "Invesco India - Invesco Pan European Equity Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment)",
+        "scheme_name": "Invesco India - Invesco Pan European Equity Fund of Fund - Direct Plan - IDCW",
         "isin_growth": "INF205K01A32",
         "isin_div_reinvestment": "INF205K01A40"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "30.12870"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "30.08700"
+        },
         {
             "date": "18-08-2026",
             "nav": "30.15160"

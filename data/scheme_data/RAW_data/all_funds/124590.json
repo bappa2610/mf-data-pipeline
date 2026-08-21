@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Floater Fund",
         "scheme_code": 124590,
-        "scheme_name": "NIPPON INDIA FLOATER FUND - DIRECT Plan - IDCW Option",
+        "scheme_name": "Nippon India Floater Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF204KA1DU8",
         "isin_div_reinvestment": "INF204KA1DV6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "22.70830"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "22.73850"
+        },
         {
             "date": "18-08-2026",
             "nav": "22.73750"

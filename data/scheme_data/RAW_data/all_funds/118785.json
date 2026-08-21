@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 118785,
-        "scheme_name": "Nippon India Index Fund - BSE Sensex Plan - Direct Plan Growth Plan - Bonus Option",
+        "scheme_name": "Nippon India Index Fund - BSE Sensex Plan - Direct Plan - Bonus Option",
         "isin_growth": "INF204K01K56",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "42.20600"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "41.86460"
+        },
         {
             "date": "18-08-2026",
             "nav": "42.04200"

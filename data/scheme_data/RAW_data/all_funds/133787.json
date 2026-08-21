@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Corporate Bond Fund",
         "scheme_code": 133787,
-        "scheme_name": "Kotak Corporate Bond Fund- Regular Plan-Monthly Dividend Option",
+        "scheme_name": "Kotak Corporate Bond Fund - Regular Plan - Monthly Dividend Option",
         "isin_growth": "INF178L01BQ6",
         "isin_div_reinvestment": "INF178L01BP8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1305.94210"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1308.20140"
+        },
         {
             "date": "18-08-2026",
             "nav": "1307.95270"

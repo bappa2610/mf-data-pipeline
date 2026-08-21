@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 103167,
-        "scheme_name": "Aditya Birla Sun Life Digital India Fund -Regular - IDCW",
+        "scheme_name": "Aditya Birla Sun Life Digital India Fund - Regular Plan - IDCW Payout",
         "isin_growth": "INF209K01132",
         "isin_div_reinvestment": "INF209K01CD7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "36.73000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "36.41000"
+        },
         {
             "date": "18-08-2026",
             "nav": "36.23000"

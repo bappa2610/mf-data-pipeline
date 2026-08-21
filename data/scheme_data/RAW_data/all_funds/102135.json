@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 102135,
-        "scheme_name": "ICICI Prudential Aggressive Hybrid Active FOF - Growth",
+        "scheme_name": "ICICI Prudential Aggressive Hybrid Active FOF - Regular Plan - Growth",
         "isin_growth": "INF109K01852",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "229.33110"
+        },
         {
             "date": "18-08-2026",
             "nav": "228.21120"

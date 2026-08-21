@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
         "scheme_code": 143493,
-        "scheme_name": "Nippon India Ultra Short Duration Fund- Growth Option",
+        "scheme_name": "Nippon India Ultra Short Duration Fund - Regular Plan - Growth Option",
         "isin_growth": "INF204K01UE8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "4313.83860"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "4315.38950"
+        },
         {
             "date": "18-08-2026",
             "nav": "4314.75120"

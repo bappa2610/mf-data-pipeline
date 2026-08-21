@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Arbitrage Fund",
         "scheme_code": 145724,
-        "scheme_name": "Tata Arbitrage Fund-Direct Plan-Growth",
+        "scheme_name": "Tata Arbitrage Fund - Direct Plan - Growth Option",
         "isin_growth": "INF277K017Q3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "16.26990"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "16.27980"
+        },
         {
             "date": "18-08-2026",
             "nav": "16.25960"

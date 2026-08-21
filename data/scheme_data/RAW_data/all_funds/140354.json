@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Flexi Cap Fund",
         "scheme_code": 140354,
-        "scheme_name": "Edelweiss Flexi Cap Fund - Direct Plan - IDCW Option",
+        "scheme_name": "Edelweiss Flexi Cap Fund - Direct Plan - IDCW",
         "isin_growth": "INF843K01KL9",
         "isin_div_reinvestment": "INF843K01KM7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "37.71800"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "37.51500"
+        },
         {
             "date": "18-08-2026",
             "nav": "37.64900"

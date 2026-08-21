@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
         "scheme_code": 120037,
-        "scheme_name": "HSBC Liquid Fund - Direct Daily IDCW",
+        "scheme_name": "HSBC Liquid Fund - Direct Plan - Daily IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF336L01CB0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1001.57600"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1001.57600"
+        },
         {
             "date": "18-08-2026",
             "nav": "1001.57600"

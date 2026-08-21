@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
         "scheme_code": 111970,
-        "scheme_name": "BANK OF INDIA Ultra Short Duration Fund- Regular Plan- Daily IDCW",
+        "scheme_name": "BANK OF INDIA ULTRA SHORT DURATION FUND - Regular Plan - Daily IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF761K01CW7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1004.60380"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1005.00000"
+        },
         {
             "date": "18-08-2026",
             "nav": "1005.00000"

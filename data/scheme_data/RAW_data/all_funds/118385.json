@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Money Market Fund",
         "scheme_code": 118385,
-        "scheme_name": "Bandhan Money Market Fund -Direct Plan-Monthly IDCW",
+        "scheme_name": "Bandhan Money  Market Fund - Direct Plan - Monthly IDCW",
         "isin_growth": "INF194K01N22",
         "isin_div_reinvestment": "INF194K01N14"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.22770"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.23250"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.23050"

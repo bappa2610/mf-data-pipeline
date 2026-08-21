@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Medium to Long Duration Fund",
         "scheme_code": 100385,
-        "scheme_name": "NIPPON INDIA MEDIUM TO LONG DURATION  FUND - HALF YEARLY IDCW Option",
+        "scheme_name": "Nippon India Medium to Long Duration Fund - Regular Plan - HALF YEARLY - IDCW Option",
         "isin_growth": "INF204K01CR8",
         "isin_div_reinvestment": "INF204K01CS6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.82130"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.84610"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.84620"

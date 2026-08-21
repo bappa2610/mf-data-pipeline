@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 103150,
-        "scheme_name": "ICICI Prudential Infrastructure Fund - IDCW",
+        "scheme_name": "ICICI Prudential Infrastructure Fund - Regular Plan - IDCW",
         "isin_growth": "INF109K01FB6",
         "isin_div_reinvestment": "INF109K01AT9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "28.68000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "28.51000"
+        },
         {
             "date": "18-08-2026",
             "nav": "28.72000"

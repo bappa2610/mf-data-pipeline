@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Mid Cap Fund",
         "scheme_code": 142110,
-        "scheme_name": "Mahindra Manulife Mid Cap Fund - Direct Plan -Growth",
+        "scheme_name": "Mahindra Manulife Mid Cap Fund - Direct Plan - Growth",
         "isin_growth": "INF174V01507",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "42.81610"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "42.59860"
+        },
         {
             "date": "18-08-2026",
             "nav": "42.80220"

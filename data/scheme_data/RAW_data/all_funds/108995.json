@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Equity Savings",
         "scheme_code": 108995,
-        "scheme_name": "BANDHAN Equity Savings Fund - Regular Plan - Growth",
+        "scheme_name": "BANDHAN EQUITY SAVINGS FUND - Regular Plan - Growth",
         "isin_growth": "INF194K01581",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "32.60600"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "32.59600"
+        },
         {
             "date": "18-08-2026",
             "nav": "32.58600"

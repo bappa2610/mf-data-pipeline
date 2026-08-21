@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 119781,
-        "scheme_name": "Kotak Gold Fund Growth - Direct",
+        "scheme_name": "Kotak Gold Fund - Direct Plan - Growth",
         "isin_growth": "INF174K01MP6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "63.06110"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "61.45470"
+        },
         {
             "date": "18-08-2026",
             "nav": "61.75400"

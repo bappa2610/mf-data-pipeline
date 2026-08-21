@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 120783,
-        "scheme_name": "UTI Healthcare Fund - Direct Plan - IDCW",
+        "scheme_name": "UTI - Healthcare Fund - Direct Plan - IDCW",
         "isin_growth": "INF789F01TM3",
         "isin_div_reinvestment": "INF789F01TN1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "299.43860"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "299.81110"
+        },
         {
             "date": "18-08-2026",
             "nav": "300.24700"

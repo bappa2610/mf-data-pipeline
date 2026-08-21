@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 103034,
-        "scheme_name": "SBI MNC FUND - REGULAR PLAN -GROWTH",
+        "scheme_name": "SBI MNC FUND - Regular Plan - Growth",
         "isin_growth": "INF200K01271",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "414.51990"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "413.37330"
+        },
         {
             "date": "18-08-2026",
             "nav": "416.06430"

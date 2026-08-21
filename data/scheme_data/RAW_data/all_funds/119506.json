@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Dividend Yield Fund",
         "scheme_code": 119506,
-        "scheme_name": "Aditya Birla Sun Life Dividend Yield Fund -DIRECT - IDCW",
+        "scheme_name": "Aditya Birla Sun Life Dividend Yield Fund - Direct Plan - IDCW Payout",
         "isin_growth": "INF209K01Q55",
         "isin_div_reinvestment": "INF209K01WB9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "47.45000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "47.11000"
+        },
         {
             "date": "18-08-2026",
             "nav": "47.27000"

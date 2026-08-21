@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Solution Oriented Scheme - Children\u2019s Fund",
         "scheme_code": 135760,
-        "scheme_name": "Axis Children's Fund - Lock in - Regular Plan - IDCW",
+        "scheme_name": "Axis Children's Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF846K01WK9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "24.59520"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "24.49870"
+        },
         {
             "date": "18-08-2026",
             "nav": "24.55850"

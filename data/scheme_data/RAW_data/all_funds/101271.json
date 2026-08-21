@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Solution Oriented Scheme - Children\u2019s Fund",
         "scheme_code": 101271,
-        "scheme_name": "LIC MF Children's Fund-Regular Plan-Growth",
+        "scheme_name": "LIC MF Children's Fund - Regular Plan - Growth",
         "isin_growth": "INF767K01048",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "35.23070"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "35.03030"
+        },
         {
             "date": "18-08-2026",
             "nav": "35.19190"

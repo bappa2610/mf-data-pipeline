@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Floater Fund",
         "scheme_code": 122643,
-        "scheme_name": "Aditya Birla Sun Life Floating Rate Fund-Regular - DAILY IDCW",
+        "scheme_name": "Aditya Birla Sun Life Floating Rate Fund - Regular Plan - Daily IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF209KA1LN1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "100.13860"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "100.19980"
+        },
         {
             "date": "18-08-2026",
             "nav": "100.19980"

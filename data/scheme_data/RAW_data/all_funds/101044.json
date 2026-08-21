@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Floater Fund",
         "scheme_code": 101044,
-        "scheme_name": "Franklin India Floating Rate Fund - IDCW ",
+        "scheme_name": "Franklin India Floating Rate Fund - Regular Plan - Daily IDCW",
         "isin_growth": "INF090I01LN5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.16070"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.16810"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.16810"

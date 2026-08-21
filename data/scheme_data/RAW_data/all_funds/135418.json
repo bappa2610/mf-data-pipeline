@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Credit Risk Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Credit Risk Fund",
         "scheme_code": 135418,
-        "scheme_name": "UTI Credit Risk Fund - Direct Plan - Half-Yearly IDCW",
+        "scheme_name": "UTI - Credit Risk Fund. - Direct Plan - Half yearly IDCW",
         "isin_growth": "INF789FA1W02",
         "isin_div_reinvestment": "INF789FA1W10"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.26020"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.27870"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.27100"

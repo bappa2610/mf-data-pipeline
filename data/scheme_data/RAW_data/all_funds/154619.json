@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "fund_house": "Zerodha Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Hybrid Schemes - Arbitrage Fund",
+        "scheme_code": 154619,
+        "scheme_name": "Zerodha Arbitrage Fund - Direct Plan - Growth Option",
+        "isin_growth": "INF0R8F01232",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "21-08-2026",
+            "nav": "10.01180"
+        },
+        {
+            "date": "20-08-2026",
+            "nav": "10.00070"
+        }
+    ],
+    "status": "SUCCESS"
+}

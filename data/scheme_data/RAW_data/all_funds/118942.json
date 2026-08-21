@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Low Duration Fund",
         "scheme_code": 118942,
-        "scheme_name": "HDFC Low Duration  Fund - Direct Plan - Growth",
+        "scheme_name": "HDFC Low Duration Fund - Direct Plan - Growth Option",
         "isin_growth": "INF179K01VF7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "67.31090"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "67.34910"
+        },
         {
             "date": "18-08-2026",
             "nav": "67.34010"

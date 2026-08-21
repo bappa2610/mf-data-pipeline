@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
         "scheme_code": 139529,
-        "scheme_name": "BANK OF INDIA MID & SMALL CAP EQUITY & DEBT FUND - REGULAR  PLAN  GROWTH",
+        "scheme_name": "BANK OF INDIA MID & SMALL CAP EQUITY & DEBT FUND - Regular Plan - Growth",
         "isin_growth": "INF761K01DP9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "43.08000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "42.83000"
+        },
         {
             "date": "18-08-2026",
             "nav": "43.01000"

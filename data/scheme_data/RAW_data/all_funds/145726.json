@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Arbitrage Fund",
         "scheme_code": 145726,
-        "scheme_name": "TATA Arbitrage Fund Regular Plan - Monthly Reinvestment of Income Distribution cum capital withdrawal option ",
+        "scheme_name": "Tata Arbitrage Fund - Regular Plan - Monthly Reinvestment of Income Distribution cum capital withdrawal option",
         "isin_growth": null,
         "isin_div_reinvestment": "INF277K010R6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "14.65520"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "14.66440"
+        },
         {
             "date": "18-08-2026",
             "nav": "14.64650"

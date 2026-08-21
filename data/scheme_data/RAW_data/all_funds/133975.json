@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Short Duration Fund",
         "scheme_code": 133975,
-        "scheme_name": "Tata Short Term Bond Fund- Regular Plan - Periodic Payout of IDCW Option",
+        "scheme_name": "Tata Short Term Bond Fund - Regular Plan - Periodic Payout of IDCW Option",
         "isin_growth": "INF277K01P12",
         "isin_div_reinvestment": "INF277K01P20"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "26.75550"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "26.79060"
+        },
         {
             "date": "18-08-2026",
             "nav": "26.78330"

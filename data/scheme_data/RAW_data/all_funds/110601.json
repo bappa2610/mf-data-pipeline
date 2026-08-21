@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large & Mid Cap Fund",
         "scheme_code": 110601,
-        "scheme_name": "BANK OF INDIA Large & Mid Cap Fund Eco Plan-Bonus",
+        "scheme_name": "BANK OF INDIA LARGE & MID CAP FUND - Bonus",
         "isin_growth": "INF761K01017",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "103.88000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "103.35000"
+        },
         {
             "date": "18-08-2026",
             "nav": "103.62000"

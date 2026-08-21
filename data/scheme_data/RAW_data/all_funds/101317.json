@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
         "scheme_code": 101317,
-        "scheme_name": "Aditya Birla Sun Life Savings Fund - Growth - Regular Plan",
+        "scheme_name": "Aditya Birla Sun Life Savings Fund - Regular Plan - GROWTH",
         "isin_growth": "INF209K01LZ1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "588.83030"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "589.01580"
+        },
         {
             "date": "18-08-2026",
             "nav": "588.94170"

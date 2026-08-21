@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Corporate Bond Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Corporate Bond Fund",
         "scheme_code": 144337,
-        "scheme_name": "UTI Corporate Bond Fund - Regular Plan - Annual IDCW",
+        "scheme_name": "UTI - Corporate Bond Fund - Regular Plan - Annual IDCW",
         "isin_growth": "INF789F1A496",
         "isin_div_reinvestment": "INF789F1A504"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.50210"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.52240"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.52180"

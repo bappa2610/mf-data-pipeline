@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Schemes - Arbitrage Fund",
         "scheme_code": 105604,
-        "scheme_name": "Invesco India Arbitrage Fund - Regular Plan - IDCW (Payout / Reinvestment)",
+        "scheme_name": "Invesco India Arbitrage Fund - Regular Plan - IDCW",
         "isin_growth": "INF205K01148",
         "isin_div_reinvestment": "INF205K01130"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "18.19310"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "18.20870"
+        },
         {
             "date": "18-08-2026",
             "nav": "18.18690"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large Cap Fund",
         "scheme_code": 119018,
-        "scheme_name": "HDFC Large Cap Fund - Growth Option - Direct Plan",
+        "scheme_name": "HDFC Large Cap Fund - Direct Plan - Growth Option",
         "isin_growth": "INF179K01YV8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1244.63100"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1237.97800"
+        },
         {
             "date": "18-08-2026",
             "nav": "1239.60900"

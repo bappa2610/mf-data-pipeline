@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Low Duration Fund",
         "scheme_code": 118369,
-        "scheme_name": "BANDHAN Low Duration Fund-Direct Plan-Quarterly IDCW",
+        "scheme_name": "BANDHAN LOW DURATION FUND - Direct Plan - Quarterly IDCW",
         "isin_growth": "INF194K01K58",
         "isin_div_reinvestment": "INF194K01K66"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.19430"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.20140"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.19970"

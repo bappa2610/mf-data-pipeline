@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Banking and PSU Fund",
         "scheme_code": 129009,
-        "scheme_name": "Franklin India Banking and PSU Debt Fund - Direct - IDCW ",
+        "scheme_name": "Franklin India Banking & PSU Debt Fund - Direct Plan - IDCW",
         "isin_growth": "INF090I01KS6",
         "isin_div_reinvestment": "INF090I01KT4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.59110"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.60010"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.59810"

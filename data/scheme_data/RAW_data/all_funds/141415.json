@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large & Mid Cap Fund",
         "scheme_code": 141415,
-        "scheme_name": "Navi Large & Midcap Fund - Direct Half Yearly IDCW Payout",
+        "scheme_name": "Navi Large & Midcap Fund - Direct Plan - Half Yearly IDCW Payout",
         "isin_growth": "INF959L01CP9",
         "isin_div_reinvestment": "INF959L01CQ7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "44.79970"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "44.59720"
+        },
         {
             "date": "18-08-2026",
             "nav": "44.62740"

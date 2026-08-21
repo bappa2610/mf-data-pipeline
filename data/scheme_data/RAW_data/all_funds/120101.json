@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Medium to Long Term Fund",
         "scheme_code": 120101,
-        "scheme_name": "HSBC Medium to Long Duration Fund - Direct Quarterly IDCW",
+        "scheme_name": "HSBC Medium to Long Duration Fund - Direct Plan - Quarterly IDCW",
         "isin_growth": "INF336L01EO9",
         "isin_div_reinvestment": "INF336L01EP6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.51550"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.54520"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.54280"

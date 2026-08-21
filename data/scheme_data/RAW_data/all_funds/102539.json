@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Low Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short to Short Term Fund",
         "scheme_code": 102539,
-        "scheme_name": "UTI Low Duration Fund - Discontinued Bonus Option",
+        "scheme_name": "UTI Low Duration Fund - Regular Plan - Discontinued Bonus",
         "isin_growth": "INF789F01OM4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "4486.30490"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "4488.84280"
+        },
         {
             "date": "18-08-2026",
             "nav": "4488.05910"

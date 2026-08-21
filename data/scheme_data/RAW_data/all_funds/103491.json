@@ -4,11 +4,23 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Value Fund",
         "scheme_code": 103491,
-        "scheme_name": "Quantum Value Fund - Direct Plan IDCW",
+        "scheme_name": "Quantum Value Fund - Direct Plan - IDCW",
         "isin_growth": "INF082J01044",
         "isin_div_reinvestment": "INF082J01051"
     },
     "data": [
+        {
+            "date": "21-08-2026",
+            "nav": "126.50000"
+        },
+        {
+            "date": "20-08-2026",
+            "nav": "126.38000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "125.44000"
+        },
         {
             "date": "18-08-2026",
             "nav": "125.81000"

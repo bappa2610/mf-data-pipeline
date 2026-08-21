@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Conservative Hybrid Fund",
         "scheme_code": 118311,
-        "scheme_name": "CANARA ROBECO CONSERVATIVE HYBRID FUND - DIRECT PLAN - MONTHLY IDCW (Payout/Reinvestment)",
+        "scheme_name": "Canara Robeco Conservative Hybrid Fund - Direct Plan - MONTHLY IDCW (Payout/Reinvestment)",
         "isin_growth": "INF760K01FZ5",
         "isin_div_reinvestment": "INF760K01GA6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "16.15930"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "16.14260"
+        },
         {
             "date": "18-08-2026",
             "nav": "16.15480"

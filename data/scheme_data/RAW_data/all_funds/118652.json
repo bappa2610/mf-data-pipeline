@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Multi Cap Fund",
         "scheme_code": 118652,
-        "scheme_name": "NIPPON INDIA MULTI CAP FUND - DIRECT Plan - IDCW Option",
+        "scheme_name": "Nippon India Multi Cap Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF204K01XD4",
         "isin_div_reinvestment": "INF204K01XE2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "87.33930"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "86.79520"
+        },
         {
             "date": "18-08-2026",
             "nav": "87.19940"

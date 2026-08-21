@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Gilt Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Gilt Fund",
         "scheme_code": 102510,
-        "scheme_name": "UTI - GILT FUND - Regular Plan - Growth Option",
+        "scheme_name": "UTI - Gilt Fund - Regular Plan - Growth",
         "isin_growth": "INF789F01661",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "65.95060"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "66.12150"
+        },
         {
             "date": "18-08-2026",
             "nav": "66.14140"

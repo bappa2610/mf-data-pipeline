@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Solution Oriented Scheme - Children\u2019s Fund",
         "scheme_code": 120285,
-        "scheme_name": "LIC MF Children's Fund-Direct Plan-Growth",
+        "scheme_name": "LIC MF Children's Fund - Direct Plan - Growth",
         "isin_growth": "INF767K01FB1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "39.62960"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "39.40340"
+        },
         {
             "date": "18-08-2026",
             "nav": "39.58440"

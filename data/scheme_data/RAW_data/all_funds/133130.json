@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Low Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short to Short Term Fund",
         "scheme_code": 133130,
         "scheme_name": "UTI Low Duration Fund - Regular Plan - Flexi IDCW",
         "isin_growth": "INF789FA1N86",
         "isin_div_reinvestment": "INF789FA1N94"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1447.31450"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1448.13320"
+        },
         {
             "date": "18-08-2026",
             "nav": "1447.88030"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Long Duration Fund",
         "scheme_code": 143710,
-        "scheme_name": "NIPPON INDIA NIVESH LAKSHYA LONG DURATION FUND LONG DURATION - HALF YEARLY IDCW Option",
+        "scheme_name": "Nippon India Nivesh Lakshya Long Duration Fund - Regular Plan - HALF YEARLY - IDCW Option",
         "isin_growth": "INF204KB1ZI5",
         "isin_div_reinvestment": "INF204KB1ZJ3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.52800"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.57060"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.57340"

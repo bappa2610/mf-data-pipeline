@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
         "scheme_code": 120377,
-        "scheme_name": "ICICI Prudential Balanced Advantage Fund - Direct Plan -  Growth",
+        "scheme_name": "ICICI Prudential Balanced Advantage Fund - Direct Plan - Growth",
         "isin_growth": "INF109K012B0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "89.83000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "89.50000"
+        },
         {
             "date": "18-08-2026",
             "nav": "89.59000"

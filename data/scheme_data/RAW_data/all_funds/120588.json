@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 120588,
-        "scheme_name": "ICICI Prudential FMCG Fund - Direct Plan -  IDCW",
+        "scheme_name": "ICICI Prudential FMCG Fund - Direct Plan - IDCW",
         "isin_growth": "INF109K01Y98",
         "isin_div_reinvestment": "INF109K01Z06"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "149.85000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "148.80000"
+        },
         {
             "date": "18-08-2026",
             "nav": "149.32000"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Banking and PSU Fund",
         "scheme_code": 119552,
-        "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - MONTHLY IDCW",
+        "scheme_name": "Aditya Birla Sun Life Banking & PSU Debt Fund - Direct Plan - MONTHLY DCW Payout",
         "isin_growth": "INF209K01YM2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "117.30950"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "117.49450"
+        },
         {
             "date": "18-08-2026",
             "nav": "117.45910"

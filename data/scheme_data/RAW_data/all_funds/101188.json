@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Gilt Fund",
         "scheme_code": 101188,
-        "scheme_name": "Baroda BNP Paribas GILT FUND - Regular Plan - IDCW Option",
+        "scheme_name": "BARODA BNP PARIBAS GILT FUND - Regular Plan - IDCW Option",
         "isin_growth": "INF955L01435",
         "isin_div_reinvestment": "INF955L01443"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "26.14370"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "26.21700"
+        },
         {
             "date": "18-08-2026",
             "nav": "26.21880"

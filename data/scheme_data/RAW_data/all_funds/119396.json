@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Medium to Long Duration Fund",
         "scheme_code": 119396,
-        "scheme_name": "BANK OF INDIA Conservative Hybrid Fund-Direct Plan-Annual IDCW",
+        "scheme_name": "BANK OF INDIA CONSERVATIVE HYBRID FUND - Direct Plan - Annual IDCW",
         "isin_growth": "INF761K01793",
         "isin_div_reinvestment": "INF761K01801"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "17.41150"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "17.36290"
+        },
         {
             "date": "18-08-2026",
             "nav": "17.38200"

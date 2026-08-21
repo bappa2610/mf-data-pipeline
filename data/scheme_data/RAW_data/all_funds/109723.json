@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Gilt Fund",
         "scheme_code": 109723,
-        "scheme_name": "NIPPON INDIA GILT  FUND - MONTHLY IDCW Option",
+        "scheme_name": "Nippon India Gilt Fund - Regular Plan - MONTHLY IDCW Option",
         "isin_growth": "INF204K01BV2",
         "isin_div_reinvestment": "INF204K01BW0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.77030"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.80470"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.80170"

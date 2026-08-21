@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Value Fund",
         "scheme_code": 112218,
-        "scheme_name": "Tata Value Fund - Regular Plan - Payout of IDCW-Option A(5%)",
+        "scheme_name": "Tata Value Fund - Regular Plan - Payout of IDCW Option",
         "isin_growth": "INF277K01DI1",
         "isin_div_reinvestment": "INF277K01436"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "132.06570"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "130.58140"
+        },
         {
             "date": "18-08-2026",
             "nav": "131.19940"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Credit Risk Fund",
         "scheme_code": 119086,
-        "scheme_name": "DSP Credit Risk Fund - Direct Plan - IDCW - Weekly",
+        "scheme_name": "DSP Credit Risk Fund - Direct Plan - Weekly IDCW",
         "isin_growth": "INF740KA1NY0",
         "isin_div_reinvestment": "INF740KA1NZ7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.10810"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.12100"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.11920"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 101746,
-        "scheme_name": "Tata S&P BSE Sensex Index Fund -Regular Plan",
+        "scheme_name": "Tata BSE Sensex Index Fund - Regular Plan",
         "isin_growth": "INF277K01758",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "195.68690"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "194.10670"
+        },
         {
             "date": "18-08-2026",
             "nav": "194.93100"

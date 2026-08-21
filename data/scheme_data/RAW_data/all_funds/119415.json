@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 119415,
-        "scheme_name": "Baroda BNP Paribas LIQUID FUND - DIRECT PLAN - GROWTH OPTION",
+        "scheme_name": "BARODA BNP PARIBAS LIQUID FUND - Direct Plan - Growth Option",
         "isin_growth": "INF955L01AL0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "3260.73090"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "3260.33040"
+        },
         {
             "date": "18-08-2026",
             "nav": "3259.76530"

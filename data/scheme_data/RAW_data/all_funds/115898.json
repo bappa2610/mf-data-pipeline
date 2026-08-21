@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 115898,
-        "scheme_name": "Axis Gold Fund - Regular Plan - IDCW",
+        "scheme_name": "Axis Gold Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF846K01AM1",
         "isin_div_reinvestment": "INF846K01AN9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "45.06330"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "43.97050"
+        },
         {
             "date": "18-08-2026",
             "nav": "44.23160"

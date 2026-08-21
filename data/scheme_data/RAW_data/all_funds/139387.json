@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
         "scheme_code": 139387,
-        "scheme_name": "Invesco India Liquid Fund - Unclaimed Redemption Plan - Below 3 years",
+        "scheme_name": "Invesco India Liquid Fund - Direct Plan - Growth",
         "isin_growth": null,
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1840.22720"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1840.01570"
+        },
         {
             "date": "18-08-2026",
             "nav": "1839.69960"

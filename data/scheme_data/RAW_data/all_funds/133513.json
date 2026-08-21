@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 133513,
-        "scheme_name": "Aditya Birla Sun Life Manufacturing Equity Fund - Regular Plan - Growth",
+        "scheme_name": "Aditya Birla Sun Life Manufacturing Equity Fund - Regular Plan - GROWTH",
         "isin_growth": "INF209KA1YH6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "40.39000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "40.23000"
+        },
         {
             "date": "18-08-2026",
             "nav": "40.47000"

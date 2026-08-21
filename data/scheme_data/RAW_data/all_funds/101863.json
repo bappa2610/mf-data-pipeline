@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 101863,
-        "scheme_name": "Nippon India Banking & Financial Services Fund-Growth Plan-Bonus Option",
+        "scheme_name": "Nippon India Banking & Financial Services Fund - Regular Plan - Bonus Option",
         "isin_growth": "INF204K01919",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "648.17890"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "642.23300"
+        },
         {
             "date": "18-08-2026",
             "nav": "644.37880"

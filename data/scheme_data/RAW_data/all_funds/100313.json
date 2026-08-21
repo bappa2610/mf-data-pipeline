@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Flexi Cap Fund",
         "scheme_code": 100313,
-        "scheme_name": "LIC MF Flexi Cap Fund-Regular Plan-Growth",
+        "scheme_name": "LIC MF Flexi Cap Fund - Regular Plan - Growth",
         "isin_growth": "INF767K01071",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "109.37440"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "108.53480"
+        },
         {
             "date": "18-08-2026",
             "nav": "109.07380"

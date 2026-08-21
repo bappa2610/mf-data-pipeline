@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Focused Fund",
         "scheme_code": 120488,
-        "scheme_name": "JM Focused Fund (Direct)  - Growth Option",
+        "scheme_name": "JM Focused Fund - Direct Plan - Growth Option",
         "isin_growth": "INF192K01BW7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "24.80140"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "24.54680"
+        },
         {
             "date": "18-08-2026",
             "nav": "24.55690"

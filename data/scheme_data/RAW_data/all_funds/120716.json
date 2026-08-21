@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 120716,
-        "scheme_name": "UTI Nifty 50 Index Fund - Growth Option- Direct",
+        "scheme_name": "UTI Nifty 50 Index Fund - Direct Plan - Growth",
         "isin_growth": "INF789F01XA0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "170.63140"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "169.55110"
+        },
         {
             "date": "18-08-2026",
             "nav": "170.09220"

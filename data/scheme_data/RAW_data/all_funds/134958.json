@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large Cap Fund",
         "scheme_code": 134958,
-        "scheme_name": "JM Large Cap Fund (Direct) - Annual IDCW",
+        "scheme_name": "JM Large Cap Fund - Direct Plan - Annual IDCW Option",
         "isin_growth": "INF192K01JU4",
         "isin_div_reinvestment": "INF192K01JV2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "74.82770"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "74.33400"
+        },
         {
             "date": "18-08-2026",
             "nav": "74.52440"

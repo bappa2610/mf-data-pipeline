@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Low Duration Fund",
         "scheme_code": 111746,
-        "scheme_name": "Nippon India Low Duration Fund -Growth Plan -Bonus Option",
+        "scheme_name": "Nippon India Low Duration Fund - Regular Plan - Bonus Option",
         "isin_growth": "INF204K01EW4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "2322.99850"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "2324.48940"
+        },
         {
             "date": "18-08-2026",
             "nav": "2324.24360"

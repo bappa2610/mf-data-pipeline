@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Dynamic Bond",
         "scheme_code": 120433,
-        "scheme_name": "JM Dynamic Bond Fund (Direct) - Weekly IDCW",
+        "scheme_name": "JM Dynamic Bond Fund - Direct Plan - Weekly IDCW Option",
         "isin_growth": null,
         "isin_div_reinvestment": "INF192K01DA9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.53610"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.55230"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.55040"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Equity Savings",
         "scheme_code": 134598,
-        "scheme_name": "NIPPON INDIA EQUITY SAVINGS FUND - MONTHLY IDCW Option",
+        "scheme_name": "Nippon India Equity Savings Fund (Existing number of Segregated Portfolios - 2) - Regular Plan - MONTHLY IDCW Option",
         "isin_growth": "INF204KA1W51",
         "isin_div_reinvestment": "INF204KA1W69"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.91470"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.89620"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.91080"

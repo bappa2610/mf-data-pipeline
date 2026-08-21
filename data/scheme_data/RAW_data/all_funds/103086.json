@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Value Fund",
         "scheme_code": 103086,
-        "scheme_name": "NIPPON INDIA VALUE FUND - IDCW Option",
+        "scheme_name": "Nippon India Value Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF204K01GC1",
         "isin_div_reinvestment": "INF204K01GD9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "42.02560"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "41.68690"
+        },
         {
             "date": "18-08-2026",
             "nav": "41.82930"

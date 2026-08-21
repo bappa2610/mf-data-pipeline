@@ -4,11 +4,19 @@
         "scheme_type": "Close Ended Schemes",
         "scheme_category": "ELSS",
         "scheme_code": 141951,
-        "scheme_name": "BANK OF INDIA Mid Cap Tax Fund Series 1 Regular Plan IDCW",
+        "scheme_name": "BANK OF INDIA MID CAP TAX FUND SERIES 1 - Regular Plan - IDCW",
         "isin_growth": "INF761K01DV7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "30.11000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "30.04000"
+        },
         {
             "date": "18-08-2026",
             "nav": "30.16000"

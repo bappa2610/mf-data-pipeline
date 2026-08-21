@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Credit Risk Fund",
         "scheme_code": 128050,
-        "scheme_name": "HDFC Credit Risk Debt Fund - Quarterly IDCW - Direct Plan",
+        "scheme_name": "HDFC Credit Risk Debt Fund - Direct Plan - Quarterly IDCW",
         "isin_growth": "INF179KA1GA4",
         "isin_div_reinvestment": "INF179KA1GB2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.92050"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.93910"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.93320"

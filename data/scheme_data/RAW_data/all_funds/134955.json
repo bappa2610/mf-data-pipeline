@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large Cap Fund",
         "scheme_code": 134955,
-        "scheme_name": "JM Large Cap Fund (Regular) - Half Yearly IDCW",
+        "scheme_name": "JM Large Cap Fund - Regular Plan - Half Yearly IDCW Option",
         "isin_growth": "INF192K01JP4",
         "isin_div_reinvestment": "INF192K01JQ2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "25.59610"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "25.42830"
+        },
         {
             "date": "18-08-2026",
             "nav": "25.49440"

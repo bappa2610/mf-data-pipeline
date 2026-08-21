@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Gilt Fund",
         "scheme_code": 131395,
-        "scheme_name": "Bandhan Gilt Fund - Regular Plan B - Periodic IDCW",
+        "scheme_name": "Bandhan Gilt   Fund - Regular Plan - Periodic IDCW",
         "isin_growth": "INF194KA1RW6",
         "isin_div_reinvestment": "INF194KA1RX4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "17.62320"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "17.71850"
+        },
         {
             "date": "18-08-2026",
             "nav": "17.73210"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Flexi Cap Fund",
         "scheme_code": 118955,
-        "scheme_name": "HDFC Flexi Cap Fund - Growth Option - Direct Plan",
+        "scheme_name": "HDFC Flexi Cap Fund - Direct Plan - Growth Option",
         "isin_growth": "INF179K01UT0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "2292.77000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "2277.52600"
+        },
         {
             "date": "18-08-2026",
             "nav": "2281.78000"

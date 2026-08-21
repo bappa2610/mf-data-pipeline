@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Corporate Bond Fund",
         "scheme_code": 133792,
-        "scheme_name": "Kotak Corporate Bond Fund- Direct Plan- Monthly Payout of Income Distribution cum capital withdrawal option",
+        "scheme_name": "Kotak Corporate Bond Fund - Direct Plan - Monthly Payout of Income Distribution cum capital withdrawal option",
         "isin_growth": "INF178L01BZ7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1069.34130"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1071.18170"
+        },
         {
             "date": "18-08-2026",
             "nav": "1070.96830"

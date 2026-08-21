@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Floater Fund",
         "scheme_code": 102673,
-        "scheme_name": "Nippon India Floater Fund - Growth Plan-Growth Option",
+        "scheme_name": "Nippon India Floater Fund - Regular Plan - Growth Option",
         "isin_growth": "INF204K01CG1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "48.21130"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "48.27590"
+        },
         {
             "date": "18-08-2026",
             "nav": "48.27400"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Money Market Fund",
         "scheme_code": 112635,
-        "scheme_name": "UTI Money Market Fund - Regular Plan - Weekly IDCW",
+        "scheme_name": "UTI - Money Market Fund - Regular Plan - Weekly IDCW",
         "isin_growth": "INF789F01PY6",
         "isin_div_reinvestment": "INF789F01PZ3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1103.42720"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1103.88880"
+        },
         {
             "date": "18-08-2026",
             "nav": "1103.69190"

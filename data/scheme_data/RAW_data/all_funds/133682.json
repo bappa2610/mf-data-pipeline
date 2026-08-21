@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Equity Savings",
         "scheme_code": 133682,
-        "scheme_name": "BANDHAN Equity Savings Fund - Regular Plan -Annual IDCW",
+        "scheme_name": "BANDHAN EQUITY SAVINGS FUND - Regular Plan - Annual IDCW",
         "isin_growth": "INF194KA1XX2",
         "isin_div_reinvestment": "INF194KA1XY0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.63900"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.63500"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.63100"

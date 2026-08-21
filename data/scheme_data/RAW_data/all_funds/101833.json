@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 101833,
-        "scheme_name": "Tata Ethical Fund- Regular Plan - Payout of IDCW Option",
+        "scheme_name": "Tata Ethical Fund - Regular Plan - Payout of IDCW Option",
         "isin_growth": "INF277K01EH1",
         "isin_div_reinvestment": "INF277K01949"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "143.79550"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "143.21020"
+        },
         {
             "date": "18-08-2026",
             "nav": "143.51580"

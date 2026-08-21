@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Short Duration Fund",
         "scheme_code": 106229,
-        "scheme_name": "SBI Short Horizon Debt Fund - Short Term Fund - Retail Dividend - Monthly Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI SHORT TERM DEBT FUND - Regular Plan - IDCW",
         "isin_growth": "INF200K01IC5",
         "isin_div_reinvestment": "INF200K01ID3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "17.67000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "17.70030"
+        },
         {
             "date": "18-08-2026",
             "nav": "17.69770"

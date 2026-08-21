@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Schemes - Conservative Hybrid Fund",
         "scheme_code": 120075,
-        "scheme_name": "HSBC Conservative Hybrid Fund - Direct Quarterly IDCW",
+        "scheme_name": "HSBC Conservative Hybrid Fund - Direct Plan - Quarterly IDCW",
         "isin_growth": "INF336L01DZ7",
         "isin_div_reinvestment": "INF336L01EA8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.04310"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "15.06380"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.07940"

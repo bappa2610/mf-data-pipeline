@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Invesco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Schemes - Value Fund",
+        "scheme_category": "Exchange Traded Funds (ETFs) - Equity ETF",
         "scheme_code": 115284,
-        "scheme_name": "Invesco India Nifty 50 Exchange Traded Fund",
+        "scheme_name": "Invesco India Nifty 50 Exchange Traded Fund - Regular Plan - Growth",
         "isin_growth": "INF205KA1CC7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "278.13200"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "276.37440"
+        },
         {
             "date": "18-08-2026",
             "nav": "277.25240"

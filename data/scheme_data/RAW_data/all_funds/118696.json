@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 118696,
-        "scheme_name": "NIPPON INDIA LIQUID FUND - DIRECT Plan - MONTHLY IDCW OPTION",
+        "scheme_name": "Nippon India Liquid Fund - Direct Plan - MONTHLY IDCW OPTION",
         "isin_growth": "INF204K01ZI8",
         "isin_div_reinvestment": "INF204K01ZJ6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1593.89050"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1593.71330"
+        },
         {
             "date": "18-08-2026",
             "nav": "1593.43470"

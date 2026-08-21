@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Money Market Fund",
         "scheme_code": 119094,
-        "scheme_name": "HDFC Money Market Fund - Weekly IDCW Option -Direct Plan",
+        "scheme_name": "HDFC Money Market Fund - Direct Plan - Weekly IDCW Option",
         "isin_growth": "INF179KB1IA9",
         "isin_div_reinvestment": "INF179KB1IB7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1062.32900"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1062.79790"
+        },
         {
             "date": "18-08-2026",
             "nav": "1062.59590"

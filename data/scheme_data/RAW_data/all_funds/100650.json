@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large Cap Fund",
         "scheme_code": 100650,
-        "scheme_name": "UTI Large Cap Fund - Regular Plan - IDCW",
+        "scheme_name": "UTI - Large Cap Fund - Regular Plan - IDCW",
         "isin_growth": "INF189A01038",
         "isin_div_reinvestment": "INF789F01950"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "52.81080"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "52.46060"
+        },
         {
             "date": "18-08-2026",
             "nav": "52.57050"

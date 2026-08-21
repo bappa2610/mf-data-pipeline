@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Money Market Fund",
         "scheme_code": 103633,
-        "scheme_name": "ICICI Prudential Money Market Fund Option - Growth",
+        "scheme_name": "ICICI Prudential Money Market Fund - Cash Option - Regular Plan - Growth",
         "isin_growth": "INF109K01TX1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "407.70380"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "407.86830"
+        },
         {
             "date": "18-08-2026",
             "nav": "407.79120"

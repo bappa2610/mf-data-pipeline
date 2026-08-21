@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 112093,
-        "scheme_name": "Franklin Build India Fund - IDCW ",
+        "scheme_name": "Franklin Build India Fund - Regular Plan - IDCW",
         "isin_growth": "INF090I01AC1",
         "isin_div_reinvestment": "INF090I01AD9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "40.90380"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "40.84640"
+        },
         {
             "date": "18-08-2026",
             "nav": "41.14870"

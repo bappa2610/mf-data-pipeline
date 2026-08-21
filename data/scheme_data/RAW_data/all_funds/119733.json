@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 119733,
-        "scheme_name": "SBI PSU Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI PSU FUND - Direct Plan - IDCW",
         "isin_growth": "INF200K01UW8",
         "isin_div_reinvestment": "INF200K01UX6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "38.16740"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "38.07970"
+        },
         {
             "date": "18-08-2026",
             "nav": "38.24230"

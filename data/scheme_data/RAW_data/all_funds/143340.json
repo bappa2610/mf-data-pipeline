@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Index Funds",
+        "scheme_category": "Index Funds - Equity Funds",
         "scheme_code": 143340,
-        "scheme_name": "UTI Nifty Next 50 Index Fund - Regular Plan - Growth Option",
+        "scheme_name": "UTI - Nifty Next 50 Index Fund - Regular Plan - Growth",
         "isin_growth": "INF789FC11T3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "26.47910"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "26.37450"
+        },
         {
             "date": "18-08-2026",
             "nav": "26.52030"

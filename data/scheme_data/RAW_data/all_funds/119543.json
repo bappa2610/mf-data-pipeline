@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - ELSS",
         "scheme_code": 119543,
-        "scheme_name": "Aditya Birla Sun Life ELSS Tax Saver Fund-DIRECT - IDCW",
+        "scheme_name": "Aditya Birla Sun Life ELSS Tax Saver Fund - Direct Plan - IDCW",
         "isin_growth": "INF209K01P23",
         "isin_div_reinvestment": "INF209K01UM0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "443.12000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "439.49000"
+        },
         {
             "date": "18-08-2026",
             "nav": "441.38000"

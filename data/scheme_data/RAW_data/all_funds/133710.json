@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large & Mid Cap Fund",
         "scheme_code": 133710,
-        "scheme_name": "LIC MF Large & Mid Cap Fund-Direct Plan-Growth",
+        "scheme_name": "LIC MF Large & Mid Cap Fund - Direct Plan - Growth",
         "isin_growth": "INF767K01NE9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "46.38140"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "46.09560"
+        },
         {
             "date": "18-08-2026",
             "nav": "46.18840"

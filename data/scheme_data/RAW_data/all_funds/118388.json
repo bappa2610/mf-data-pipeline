@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Gilt Fund with 10 year constant duration",
         "scheme_code": 118388,
-        "scheme_name": "Bandhan Gilt Fund with 10 year constant duration Fund - Direct Plan - Quarterly IDCW",
+        "scheme_name": "Bandhan Gilt Fund   with 10 year constant duration Fund - Direct Plan - Quarterly IDCW",
         "isin_growth": "INF194K01P87",
         "isin_div_reinvestment": "INF194K01P79"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.93000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.96080"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.95930"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large Cap Fund",
         "scheme_code": 119527,
-        "scheme_name": "Aditya Birla Sun Life Large Cap Fund-DIRECT - IDCW",
+        "scheme_name": "Aditya Birla Sun Life Large Cap Fund",
         "isin_growth": "INF209K01YX9",
         "isin_div_reinvestment": "INF209K01YW1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "94.36000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "93.63000"
+        },
         {
             "date": "18-08-2026",
             "nav": "93.84000"

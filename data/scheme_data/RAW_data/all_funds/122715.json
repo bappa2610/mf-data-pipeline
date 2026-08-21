@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Dynamic Bond",
         "scheme_code": 122715,
-        "scheme_name": "360 ONE Dynamic Bond Fund Direct Plan Growth",
+        "scheme_name": "360 ONE Dynamic Bond Fund - Direct Plan - GROWTH Option",
         "isin_growth": "INF579M01266",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "25.62550"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "25.67160"
+        },
         {
             "date": "18-08-2026",
             "nav": "25.67470"

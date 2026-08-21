@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Small Cap Fund",
         "scheme_code": 119589,
-        "scheme_name": "Sundaram Small Cap Fund Direct Plan - Growth",
+        "scheme_name": "Sundaram Small Cap Fund - Direct Plan - GROWTH",
         "isin_growth": "INF903J01NK9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "336.92030"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "333.11330"
+        },
         {
             "date": "18-08-2026",
             "nav": "334.52400"

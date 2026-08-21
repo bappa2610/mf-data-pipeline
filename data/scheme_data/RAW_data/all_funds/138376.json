@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Equity Savings",
         "scheme_code": 138376,
-        "scheme_name": "PGIM India Equity Savings Fund - Direct Plan - Growth",
+        "scheme_name": "PGIM India Equity Savings Fund - Direct Plan - Direct Growth",
         "isin_growth": "INF223J01QD0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "58.63180"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "58.63470"
+        },
         {
             "date": "18-08-2026",
             "nav": "58.62070"

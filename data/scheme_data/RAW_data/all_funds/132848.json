@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Corporate Bond Fund",
         "scheme_code": 132848,
-        "scheme_name": "HDFC Corporate Bond Fund - IDCW Option",
+        "scheme_name": "HDFC Corporate Bond Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF179KA1D33",
         "isin_div_reinvestment": "INF179KA1D25"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "20.83870"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "20.88410"
+        },
         {
             "date": "18-08-2026",
             "nav": "20.87990"

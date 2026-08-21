@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Flexi Cap Fund",
         "scheme_code": 115290,
-        "scheme_name": "Union Flexi Cap Fund - IDCW Option",
+        "scheme_name": "Union Flexi Cap Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF582M01120",
         "isin_div_reinvestment": "INF582M01112"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "29.67000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "29.52000"
+        },
         {
             "date": "18-08-2026",
             "nav": "29.62000"

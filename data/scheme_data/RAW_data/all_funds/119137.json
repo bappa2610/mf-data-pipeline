@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
         "scheme_code": 119137,
-        "scheme_name": "Groww Liquid Fund (formerly known as Indiabulls Liquid Fund)- Direct Plan- Weekly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment)",
+        "scheme_name": "Groww Liquid Fund - Direct Plan - Weekly - Income Distribution cum capital withdrawal",
         "isin_growth": "INF666M01527",
         "isin_div_reinvestment": "INF666M01477"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1002.20090"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1002.09190"
+        },
         {
             "date": "18-08-2026",
             "nav": "1001.91920"

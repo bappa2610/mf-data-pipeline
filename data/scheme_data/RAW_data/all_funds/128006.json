@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Medium Duration Fund",
         "scheme_code": 128006,
-        "scheme_name": "Kotak Medium Term Fund - Direct Growth",
+        "scheme_name": "Kotak Medium Term Fund - Direct Plan - Growth",
         "isin_growth": "INF174K01VQ5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "27.53760"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "27.58890"
+        },
         {
             "date": "18-08-2026",
             "nav": "27.58730"

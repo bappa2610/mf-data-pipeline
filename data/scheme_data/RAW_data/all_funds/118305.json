@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 118305,
-        "scheme_name": "CANARA ROBECO LIQUID FUND - DIRECT PLAN - GROWTH OPTION",
+        "scheme_name": "Canara Robeco Liquid Fund - Direct Plan - GROWTH OPTION",
         "isin_growth": "INF760K01FU6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "3391.16870"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "3390.66860"
+        },
         {
             "date": "18-08-2026",
             "nav": "3390.06120"

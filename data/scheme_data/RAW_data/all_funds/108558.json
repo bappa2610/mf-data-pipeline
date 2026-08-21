@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Gilt Fund",
         "scheme_code": 108558,
-        "scheme_name": "Bandhan Gilt Fund - Regular - Plan B - Half Yearly IDCW",
+        "scheme_name": "Bandhan Gilt Fund - Regular Plan - Half Yearly IDCW",
         "isin_growth": "INF194K01EB1",
         "isin_div_reinvestment": "INF194K01EA3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.69330"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.75650"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.76550"

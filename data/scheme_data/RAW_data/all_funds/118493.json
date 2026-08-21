@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Value Fund",
         "scheme_code": 118493,
-        "scheme_name": "Templeton India Value Fund - Direct - IDCW ",
+        "scheme_name": "Templeton India Value Fund - Direct Plan - IDCW",
         "isin_growth": "INF090I01GW6",
         "isin_div_reinvestment": "INF090I01GX4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "106.42130"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "105.59220"
+        },
         {
             "date": "18-08-2026",
             "nav": "106.13930"

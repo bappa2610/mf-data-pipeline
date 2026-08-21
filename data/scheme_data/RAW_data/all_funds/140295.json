@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Overseas",
         "scheme_code": 140295,
-        "scheme_name": "Edelweiss Europe Dynamic Equity Offshore Fund - Growth Option - Regular Plan",
+        "scheme_name": "Edelweiss Europe Dynamic Equity Offshore Fund - Regular Plan - Growth",
         "isin_growth": "INF843K01GJ1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "31.67550"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "31.67430"
+        },
         {
             "date": "18-08-2026",
             "nav": "31.81520"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 118758,
-        "scheme_name": "Nippon India Pharma Fund - Direct Plan Growth Plan - Bonus Option",
+        "scheme_name": "Nippon India Pharma Fund - Direct Plan - Bonus Option",
         "isin_growth": "INF204K01I27",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "642.28980"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "641.53640"
+        },
         {
             "date": "18-08-2026",
             "nav": "643.34320"

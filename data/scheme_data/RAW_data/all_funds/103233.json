@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large & Mid Cap Fund",
         "scheme_code": 103233,
-        "scheme_name": "Kotak Large & Midcap Fund - IDCW-Regular",
+        "scheme_name": "Kotak Large & Midcap Fund - Regular Plan - IDCW",
         "isin_growth": "INF174K01203",
         "isin_div_reinvestment": "INF174K01195"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "62.17300"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "61.94700"
+        },
         {
             "date": "18-08-2026",
             "nav": "62.11900"

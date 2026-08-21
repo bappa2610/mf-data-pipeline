@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Banking and PSU Fund",
         "scheme_code": 119626,
-        "scheme_name": "Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking and PSU Debt Fund) Direct Plan - Income Distribution cum Capital Withdrawal (IDCW)",
+        "scheme_name": "Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking & PSU Debt Fund) - Direct Plan - IDCW (Income Distribution CUM Capital Withdrawal)",
         "isin_growth": "INF903J01PB3",
         "isin_div_reinvestment": "INF903J01PE7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.55930"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.57420"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.57040"

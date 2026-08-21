@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 103389,
-        "scheme_name": "CANARA ROBECO INFRASTRUCTURE FUND - REGULAR PLAN - IDCW (Payout/Reinvestment)",
+        "scheme_name": "Canara Robeco Infrastructure - Regular Plan - IDCW (Payout/Reinvestment)",
         "isin_growth": "INF760K01258",
         "isin_div_reinvestment": "INF760K01266"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "64.95000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "64.74000"
+        },
         {
             "date": "18-08-2026",
             "nav": "65.27000"

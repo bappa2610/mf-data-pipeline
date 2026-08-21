@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Low Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short to Short Term Fund",
         "scheme_code": 105605,
         "scheme_name": "UTI Low Duration Fund - Regular Plan - Daily IDCW (Reinvestment)",
         "isin_growth": null,
         "isin_div_reinvestment": "INF789F01ON2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1466.63840"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1467.46800"
+        },
         {
             "date": "18-08-2026",
             "nav": "1467.21180"

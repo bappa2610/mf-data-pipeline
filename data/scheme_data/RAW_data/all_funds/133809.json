@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Low Duration Fund",
         "scheme_code": 133809,
-        "scheme_name": "Kotak Low Duration Fund- Regular Plan-Standard Income Distribution cum capital withdrawal option",
+        "scheme_name": "Kotak Low Duration Fund - Regular Plan - Standard Income Distribution cum capital withdrawal option",
         "isin_growth": "INF178L01210",
         "isin_div_reinvestment": "INF178L01228"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1274.39550"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1275.33020"
+        },
         {
             "date": "18-08-2026",
             "nav": "1275.12880"

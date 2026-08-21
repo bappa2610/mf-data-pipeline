@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Value Fund",
         "scheme_code": 119659,
-        "scheme_name": "Aditya Birla Sun Life Value Fund - Growth - Direct Plan",
+        "scheme_name": "Aditya Birla Sun Life Value Fund",
         "isin_growth": "INF209K01WQ7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "157.28150"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "156.19000"
+        },
         {
             "date": "18-08-2026",
             "nav": "156.60000"

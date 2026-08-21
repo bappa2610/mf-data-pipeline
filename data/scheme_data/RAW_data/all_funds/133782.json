@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Corporate Bond Fund",
         "scheme_code": 133782,
-        "scheme_name": "Kotak Corporate Bond Fund- Regular Plan-Growth Option",
+        "scheme_name": "Kotak Corporate Bond Fund - Regular Plan - Growth Option",
         "isin_growth": "INF178L01BO1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "4008.88250"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "4015.81790"
+        },
         {
             "date": "18-08-2026",
             "nav": "4015.05440"

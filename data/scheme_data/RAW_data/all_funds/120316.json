@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Low Duration Fund",
         "scheme_code": 120316,
-        "scheme_name": "LIC MF Low Duration Fund-Direct Plan-Daily IDCW",
+        "scheme_name": "LIC MF Low Duration Fund - Direct Plan - Daily IDCW",
         "isin_growth": "INF767K01FL0",
         "isin_div_reinvestment": "INF767K01FN6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.04390"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.05000"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.04990"

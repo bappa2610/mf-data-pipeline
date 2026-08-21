@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
         "scheme_code": 119130,
-        "scheme_name": "HDFC Multi-Asset Fund - IDCW Option - Direct Plan",
+        "scheme_name": "HDFC Multi-Asset Allocation Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF179K01XU2",
         "isin_div_reinvestment": "INF179K01XV0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "21.85800"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "21.71500"
+        },
         {
             "date": "18-08-2026",
             "nav": "21.77600"

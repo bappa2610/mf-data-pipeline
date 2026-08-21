@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 140089,
-        "scheme_name": "Nippon India ETF Nifty PSU Bank BeES",
+        "scheme_name": "Nippon India ETF Nifty PSU Bank BeES - Direct Plan",
         "isin_growth": "INF204KB16I7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "96.28840"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "96.30060"
+        },
         {
             "date": "18-08-2026",
             "nav": "96.31150"

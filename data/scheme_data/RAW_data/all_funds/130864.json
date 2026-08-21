@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 130864,
-        "scheme_name": "NIPPON INDIA - JAPAN EQUITY FUND - DIRECT Plan - IDCW Option",
+        "scheme_name": "Nippon India Japan Equity Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF204KA1SM3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "31.51050"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "31.14250"
+        },
         {
             "date": "18-08-2026",
             "nav": "32.08490"

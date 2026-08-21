@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Large Cap Fund",
         "scheme_code": 120393,
-        "scheme_name": "Invesco India Largecap Fund - Direct Plan - IDCW (Payout / Reinvestment)",
+        "scheme_name": "Invesco India Largecap Fund - Direct Plan - IDCW",
         "isin_growth": "INF205K01KZ1",
         "isin_div_reinvestment": "INF205K01LA2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "36.21000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "35.98000"
+        },
         {
             "date": "18-08-2026",
             "nav": "35.99000"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Arbitrage Fund",
         "scheme_code": 113346,
-        "scheme_name": "NIPPON INDIA ARBITRAGE FUND - IDCW Option",
+        "scheme_name": "Nippon India Arbitrage Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF204K01IZ8",
         "isin_div_reinvestment": "INF204K01JA9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "16.97370"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "16.98280"
+        },
         {
             "date": "18-08-2026",
             "nav": "16.96030"

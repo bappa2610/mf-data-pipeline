@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
         "scheme_code": 144173,
-        "scheme_name": "BANDHAN ULTRA SHORT DURATION FUND - DIRECT PLAN GROWTH",
+        "scheme_name": "BANDHAN ULTRA SHORT DURATION FUND - Direct Plan - Growth",
         "isin_growth": "INF194KA16R3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "16.55400"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "16.56120"
+        },
         {
             "date": "18-08-2026",
             "nav": "16.55860"

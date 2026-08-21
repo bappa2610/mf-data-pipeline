@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 119710,
-        "scheme_name": "SBI MNC Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI MNC FUND - Direct Plan - IDCW",
         "isin_growth": "INF200K01SL5",
         "isin_div_reinvestment": "INF200K01SM3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "164.20190"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "163.74500"
+        },
         {
             "date": "18-08-2026",
             "nav": "164.80810"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Medium to Long Duration Fund",
         "scheme_code": 111713,
-        "scheme_name": "BANK OF INDIA Conservative Hybrid Fund-Regular Plan-Quarterly IDCW",
+        "scheme_name": "BANK OF INDIA CONSERVATIVE HYBRID FUND - Regular Plan - Quarterly IDCW",
         "isin_growth": "INF761K01504",
         "isin_div_reinvestment": "INF761K01496"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "18.86320"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "18.81120"
+        },
         {
             "date": "18-08-2026",
             "nav": "18.83240"

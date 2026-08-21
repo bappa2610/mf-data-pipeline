@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - ELSS",
         "scheme_code": 118801,
-        "scheme_name": "NIPPON INDIA ELSS TAX SAVER FUND - DIRECT Plan - IDCW Option",
+        "scheme_name": "Nippon India ELSS Tax Saver Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF204K01L30",
         "isin_div_reinvestment": "INF204K01L48"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "46.05300"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "45.95650"
+        },
         {
             "date": "18-08-2026",
             "nav": "46.10840"

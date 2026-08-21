@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
         "scheme_code": 143497,
-        "scheme_name": "NIPPON INDIA ULTRA SHORT DURATION FUND - DIRECT Plan - MONTHLY IDCW Option",
+        "scheme_name": "Nippon India Ultra Short Duration Fund - Direct Plan - MONTHLY IDCW Option",
         "isin_growth": "INF204K01YI1",
         "isin_div_reinvestment": "INF204K01YJ9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1037.15210"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1037.50450"
+        },
         {
             "date": "18-08-2026",
             "nav": "1037.33060"

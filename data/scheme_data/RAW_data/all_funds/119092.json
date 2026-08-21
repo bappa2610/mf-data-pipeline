@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Money Market Fund",
         "scheme_code": 119092,
-        "scheme_name": "HDFC Money Market Fund - Growth Option - Direct Plan",
+        "scheme_name": "HDFC Money Market Fund - Direct Plan - Growth Option",
         "isin_growth": "INF179KB1HU9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "6275.03330"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "6277.80330"
+        },
         {
             "date": "18-08-2026",
             "nav": "6276.61010"

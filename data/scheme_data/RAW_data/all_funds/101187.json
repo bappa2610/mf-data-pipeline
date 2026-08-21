@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Gilt Fund",
         "scheme_code": 101187,
-        "scheme_name": "Baroda BNP Paribas GILT FUND - Regular Plan - Growth Option",
+        "scheme_name": "BARODA BNP PARIBAS GILT FUND - Regular Plan - Growth Option",
         "isin_growth": "INF955L01450",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "44.04640"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "44.16990"
+        },
         {
             "date": "18-08-2026",
             "nav": "44.17290"

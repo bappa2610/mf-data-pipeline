@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Equity Savings",
         "scheme_code": 119129,
-        "scheme_name": "HDFC Equity Savings Fund - IDCW Option - Direct Plan",
+        "scheme_name": "HDFC Equity Savings Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF179K01XR8",
         "isin_div_reinvestment": "INF179K01XS6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.16100"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "15.14000"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.14700"

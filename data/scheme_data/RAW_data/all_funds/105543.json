@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Low Duration Fund",
         "scheme_code": 105543,
-        "scheme_name": "HDFC Low Duration  Fund - Monthly IDCW",
+        "scheme_name": "HDFC Low Duration Fund - Regular Plan - Monthly IDCW",
         "isin_growth": "INF179K01459",
         "isin_div_reinvestment": "INF179K01467"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.17530"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.18120"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.18000"

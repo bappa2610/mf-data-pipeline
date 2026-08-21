@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large Cap Fund",
         "scheme_code": 113221,
-        "scheme_name": "CANARA ROBECO LARGE CAP FUND - REGULAR PLAN - GROWTH OPTION",
+        "scheme_name": "Canara Robeco Large Cap Fund - Regular Plan - GROWTH OPTION",
         "isin_growth": "INF760K01AR3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "62.54000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "62.12000"
+        },
         {
             "date": "18-08-2026",
             "nav": "62.29000"

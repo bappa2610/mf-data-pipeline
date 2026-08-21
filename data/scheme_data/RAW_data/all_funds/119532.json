@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Corporate Bond Fund",
         "scheme_code": 119532,
-        "scheme_name": "Aditya Birla Sun Life Corporate Bond Fund -DIRECT - MONTHLY IDCW",
+        "scheme_name": "Aditya Birla Sun Life Corporate Bond Fund - Direct Plan - Monthly IDCW Re-investment",
         "isin_growth": "INF209K01N90",
         "isin_div_reinvestment": "INF209KA1KU8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.82470"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.85180"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.84810"

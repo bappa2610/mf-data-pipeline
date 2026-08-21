@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Floater Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Floating Interest Rates Fund",
         "scheme_code": 145289,
-        "scheme_name": "UTI Floater Fund - Regular Plan - Annual IDCW",
+        "scheme_name": "UTI - Floater Fund - Regular Plan - Annual IDCW",
         "isin_growth": "INF789F1ACR7",
         "isin_div_reinvestment": "INF789F1ACS5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1516.77030"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1517.36090"
+        },
         {
             "date": "18-08-2026",
             "nav": "1517.32190"

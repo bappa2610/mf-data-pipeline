@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Arbitrage Fund",
         "scheme_code": 105967,
-        "scheme_name": "Kotak Arbitrage Fund - Regular Plan - IDCW - Payout & Re-investment of Income Distribution cum capital withdrawal option",
+        "scheme_name": "Kotak Arbitrage Fund - Regular Plan - IDCW - Payout & Re-investment of Income Distribution cum capital withdrawal optio",
         "isin_growth": "INF174K01328",
         "isin_div_reinvestment": "INF174K01310"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.75610"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.76580"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.75060"

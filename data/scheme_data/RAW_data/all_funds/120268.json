@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large Cap Fund",
         "scheme_code": 120268,
-        "scheme_name": "LIC MF Large Cap Fund-Direct Plan-IDCW",
+        "scheme_name": "LIC MF Large Cap Fund - Direct Plan - IDCW",
         "isin_growth": "INF767K01EI9",
         "isin_div_reinvestment": "INF767K01EK5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "39.46900"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "39.22650"
+        },
         {
             "date": "18-08-2026",
             "nav": "39.34770"

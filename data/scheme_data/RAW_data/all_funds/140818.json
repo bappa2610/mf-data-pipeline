@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Value Fund",
         "scheme_code": 140818,
-        "scheme_name": "Groww Value Fund (formerly known as Indiabulls Value Fund)- Regular Plan- Quarterly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment)",
+        "scheme_name": "Groww Value Fund - Regular Plan - Quarterly - Income Distribution cum capital withdrawal",
         "isin_growth": "INF666M01DG5",
         "isin_div_reinvestment": "INF666M01DH3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "20.91130"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "20.83420"
+        },
         {
             "date": "18-08-2026",
             "nav": "20.94500"

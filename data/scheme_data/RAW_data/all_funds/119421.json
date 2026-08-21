@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Money Market Fund",
         "scheme_code": 119421,
-        "scheme_name": "Tata Money Market Fund- Direct Plan - Daily Reinvestment of IDCW Option",
+        "scheme_name": "Tata Money Market Fund - Direct Plan - Daily Reinvestment of IDCW Option",
         "isin_growth": null,
         "isin_div_reinvestment": "INF277K011C6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1114.09700"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1114.52000"
+        },
         {
             "date": "18-08-2026",
             "nav": "1114.52000"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 102395,
-        "scheme_name": "UTI Infrastructure Fund-Growth Option",
+        "scheme_name": "UTI - Infrastructure Fund - Regular Plan - Growth",
         "isin_growth": "INF789F01752",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "146.50320"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "145.62810"
+        },
         {
             "date": "18-08-2026",
             "nav": "146.45930"

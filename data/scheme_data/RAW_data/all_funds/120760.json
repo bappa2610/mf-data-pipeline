@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
+        "scheme_category": "Hybrid Schemes - Multi Asset Allocation Fund",
         "scheme_code": 120760,
-        "scheme_name": "UTI Multi Asset Allocation Fund - Direct Plan - Growth Option",
+        "scheme_name": "UTI Multi Asset Allocation Fund - Direct Plan - Growth",
         "isin_growth": "INF789F01VE6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "89.87690"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "89.12010"
+        },
         {
             "date": "18-08-2026",
             "nav": "89.43860"

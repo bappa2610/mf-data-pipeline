@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Overnight Fund",
         "scheme_code": 145538,
-        "scheme_name": "ICICI Prudential Overnight Fund - Weekly IDCW",
+        "scheme_name": "ICICI Prudential Overnight Fund - Regular Plan - Weekly IDCW",
         "isin_growth": "INF109KC12F1",
         "isin_div_reinvestment": "INF109KC11F3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1000.40900"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1000.27330"
+        },
         {
             "date": "18-08-2026",
             "nav": "1000.13960"

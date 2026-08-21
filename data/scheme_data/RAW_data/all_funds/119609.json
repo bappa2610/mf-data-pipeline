@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
         "scheme_code": 119609,
-        "scheme_name": "SBI EQUITY HYBRID FUND - DIRECT PLAN - Growth",
+        "scheme_name": "SBI EQUITY HYBRID FUND - Direct Plan - Growth",
         "isin_growth": "INF200K01RY0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "354.15060"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "352.30940"
+        },
         {
             "date": "18-08-2026",
             "nav": "353.91340"

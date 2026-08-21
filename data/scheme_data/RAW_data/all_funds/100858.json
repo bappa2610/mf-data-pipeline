@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Corporate Bond Fund",
         "scheme_code": 100858,
-        "scheme_name": "NIPPON INDIA CORPORATE BOND FUND - QUARTERLY IDCW Option",
+        "scheme_name": "Nippon India Corporate Bond Fund - Regular Plan - QUARTERLY IDCW Option",
         "isin_growth": "INF204K01EL7",
         "isin_div_reinvestment": "INF204K01EM5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.07460"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.09590"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.09420"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 103145,
-        "scheme_name": "SBI COMMA Fund - REGULAR PLAN - Growth",
+        "scheme_name": "SBI COMMA FUND - Regular Plan - Growth",
         "isin_growth": "INF200K01339",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "117.49300"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "117.05900"
+        },
         {
             "date": "18-08-2026",
             "nav": "117.49620"

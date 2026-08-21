@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - ELSS",
         "scheme_code": 134874,
-        "scheme_name": "LIC MF ULIS (15Yrs. Regular Premium Uniform Cover Yearly)-Regular Plan-IDCW Reinvestment",
+        "scheme_name": "LIC MF Unit Linked Insurance Scheme (ULIS) - Regular Plan - IDCW Reinvestment",
         "isin_growth": null,
         "isin_div_reinvestment": "INF767K01AJ5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "37.10370"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "37.02560"
+        },
         {
             "date": "18-08-2026",
             "nav": "37.11570"

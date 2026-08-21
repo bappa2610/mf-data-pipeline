@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Equity Savings",
         "scheme_code": 140348,
-        "scheme_name": "Edelweiss Equity Savings Fund - Direct Plan - IDCW Option",
+        "scheme_name": "Edelweiss Equity Savings Fund - Direct Plan - IDCW",
         "isin_growth": "INF843K01KE4",
         "isin_div_reinvestment": "INF843K01KF1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "21.92580"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "21.89700"
+        },
         {
             "date": "18-08-2026",
             "nav": "21.86970"

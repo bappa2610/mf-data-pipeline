@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - ELSS",
         "scheme_code": 108402,
-        "scheme_name": "Taurus ELSS Tax Saver Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option",
+        "scheme_name": "Taurus ELSS Tax Saver Fund - Regular Plan - Income Distribution cum Capital Withdrawal",
         "isin_growth": "INF044D01997",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "21-08-2026",
+            "nav": "85.98000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "85.24000"
+        },
         {
             "date": "18-08-2026",
             "nav": "85.60000"

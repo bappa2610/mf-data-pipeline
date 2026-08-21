@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
         "scheme_code": 112012,
-        "scheme_name": "Edelweiss Aggressive Hybrid Fund- Plan B-Growth Option",
+        "scheme_name": "Edelweiss Aggressive Hybrid Fund",
         "isin_growth": "INF754K01160",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "65.21000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "64.86000"
+        },
         {
             "date": "18-08-2026",
             "nav": "65.02000"

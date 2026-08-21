@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 134923,
-        "scheme_name": "Nippon India US Equity Opportunities Fund- Direct Plan- Growth Plan- Growth Option",
+        "scheme_name": "Nippon India US Equity Opportunities Fund - Direct Plan - Growth Option",
         "isin_growth": "INF204KA15G5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "47.86350"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "48.07580"
+        },
         {
             "date": "18-08-2026",
             "nav": "47.68950"

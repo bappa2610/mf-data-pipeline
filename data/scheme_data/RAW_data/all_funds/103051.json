@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Money Market Fund",
         "scheme_code": 103051,
-        "scheme_name": "NIPPON INDIA MONEY MARKET FUND - WEEKLY IDCW Option",
+        "scheme_name": "Nippon India Money Market Fund - Regular Plan - WEEKLY IDCW Option",
         "isin_growth": null,
         "isin_div_reinvestment": "INF204K01UZ3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1007.72260"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1008.17870"
+        },
         {
             "date": "18-08-2026",
             "nav": "1008.00330"

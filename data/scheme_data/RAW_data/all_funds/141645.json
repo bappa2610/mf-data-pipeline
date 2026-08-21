@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
         "scheme_code": 141645,
-        "scheme_name": "Axis Balanced Advantage Fund - Regular Plan - IDCW",
+        "scheme_name": "Axis Balanced Advantage Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF846K01A60",
         "isin_div_reinvestment": "INF846K01A78"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.06000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.02000"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.03000"

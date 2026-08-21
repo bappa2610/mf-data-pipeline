@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Corporate Bond Fund",
         "scheme_code": 144646,
-        "scheme_name": "DSP Corporate Bond Fund - Direct - Growth",
+        "scheme_name": "DSP Corporate Bond Fund - Direct Plan - Growth",
         "isin_growth": "INF740KA1KE8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "17.40480"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "17.41210"
+        },
         {
             "date": "18-08-2026",
             "nav": "17.40910"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large Cap Fund",
         "scheme_code": 100332,
-        "scheme_name": "LIC MF Large Cap Fund-Regular Plan-IDCW",
+        "scheme_name": "LIC MF Large Cap Fund - Regular Plan - IDCW",
         "isin_growth": "INF767K01097",
         "isin_div_reinvestment": "INF767K01089"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "32.90520"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "32.70400"
+        },
         {
             "date": "18-08-2026",
             "nav": "32.80610"

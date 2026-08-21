@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 145075,
-        "scheme_name": "ICICI Prudential Manufacturing Fund - Direct Plan - Cumulative Option",
+        "scheme_name": "ICICI Prudential Manufacturing Fund - Direct Plan - Cumulative",
         "isin_growth": "INF109KC1LJ8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "43.37000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "43.23000"
+        },
         {
             "date": "18-08-2026",
             "nav": "43.52000"

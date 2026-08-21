@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
         "scheme_code": 136113,
-        "scheme_name": "ICICI Prudential Equity & Debt Fund - Annual IDCW",
+        "scheme_name": "ICICI Prudential Equity & Debt Fund - Regular Plan - Annual IDCW",
         "isin_growth": "INF109KB1QK6",
         "isin_div_reinvestment": "INF109KB1QJ8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "26.03000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "25.93000"
+        },
         {
             "date": "18-08-2026",
             "nav": "25.99000"

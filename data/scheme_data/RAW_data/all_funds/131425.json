@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Short Duration Fund",
         "scheme_code": 131425,
-        "scheme_name": "UTI Short Duration Fund - Direct Plan - Half Yearly Dividend Option",
+        "scheme_name": "UTI Short Duration Fund - Direct Plan - Half-Yearly IDCW",
         "isin_growth": "INF789FA1R17",
         "isin_div_reinvestment": "INF789FA1R25"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "14.74400"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "14.76380"
+        },
         {
             "date": "18-08-2026",
             "nav": "14.76050"

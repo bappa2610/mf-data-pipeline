@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Corporate Bond Fund",
         "scheme_code": 139201,
-        "scheme_name": "BANDHAN Corporate Bond Fund - Direct Annual IDCW",
+        "scheme_name": "BANDHAN Corporate Bond Fund - Direct Plan - Annual IDCW",
         "isin_growth": "INF194KA1T34",
         "isin_div_reinvestment": "INF194KA1T42"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.55160"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.57060"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.56930"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 135815,
-        "scheme_name": "Tata Resources & Energy Fund-Regular Plan-Growth",
+        "scheme_name": "Tata Resources & Energy Fund - Regular Plan - Growth Option",
         "isin_growth": "INF277K012B6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "49.13360"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "49.04380"
+        },
         {
             "date": "18-08-2026",
             "nav": "49.43850"

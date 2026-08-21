@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Credit Risk Fund",
         "scheme_code": 130312,
-        "scheme_name": "Axis Credit Risk Fund - Direct Plan - Monthly IDCW",
+        "scheme_name": "Axis Credit Risk Fund - Direct Plan - Monthly IDCW Option",
         "isin_growth": "INF846K01PM9",
         "isin_div_reinvestment": "INF846K01PN7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.29550"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.30940"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.30410"

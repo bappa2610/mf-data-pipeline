@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 133908,
-        "scheme_name": "LIC MF Banking and Financial Services Fund-Direct Plan-IDCW",
+        "scheme_name": "LIC MF Banking and Financial Services Fund - Direct Plan - IDCW",
         "isin_growth": "INF767K01NJ8",
         "isin_div_reinvestment": "INF767K01NL4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "24.79850"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "24.59780"
+        },
         {
             "date": "18-08-2026",
             "nav": "24.62800"

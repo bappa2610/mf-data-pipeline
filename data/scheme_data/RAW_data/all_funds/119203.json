@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
         "scheme_code": 119203,
-        "scheme_name": "DSP Ultra Short Fund - Direct Plan - IDCW - Daily",
+        "scheme_name": "DSP Ultra Short Fund - Direct Plan - Daily IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF740KA1NT0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1005.01730"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1005.39510"
+        },
         {
             "date": "18-08-2026",
             "nav": "1005.39510"

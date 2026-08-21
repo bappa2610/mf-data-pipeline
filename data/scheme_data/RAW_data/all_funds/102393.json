@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Mid Cap Fund",
         "scheme_code": 102393,
-        "scheme_name": "UTI Mid Cap Fund - Regular Plan - IDCW",
+        "scheme_name": "UTI - Mid Cap Fund - Regular Plan - IDCW",
         "isin_growth": "INF789F01794",
         "isin_div_reinvestment": "INF789F01802"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "152.09170"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "151.23760"
+        },
         {
             "date": "18-08-2026",
             "nav": "151.68090"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large & Mid Cap Fund",
         "scheme_code": 100033,
-        "scheme_name": "Aditya Birla Sun Life Large & Mid Cap Fund - Regular Growth",
+        "scheme_name": "Aditya Birla Sun Life Large & Mid Cap Fund - Regular Plan - GROWTH",
         "isin_growth": "INF209K01165",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "972.86000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "968.46000"
+        },
         {
             "date": "18-08-2026",
             "nav": "971.58000"

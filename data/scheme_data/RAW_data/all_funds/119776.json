@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 119776,
-        "scheme_name": "Kotak Multi Asset Omni FOF - Direct Payout of Income Distribution cum capital withdrawal option",
+        "scheme_name": "Kotak Multi Asset Omni FOF - Direct Plan - Payout of Income Distribution cum capital withdrawal option",
         "isin_growth": "INF174K01LO1",
         "isin_div_reinvestment": "INF174K01LP8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "280.03200"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "277.70200"
+        },
         {
             "date": "18-08-2026",
             "nav": "279.18400"

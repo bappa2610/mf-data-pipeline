@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Dynamic Bond",
         "scheme_code": 112096,
-        "scheme_name": "ICICI Prudential All Seasons Bond Fund - Growth",
+        "scheme_name": "ICICI Prudential All Seasons Bond Fund - Regular Plan - Growth",
         "isin_growth": "INF109K01GN9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "39.23130"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "39.32170"
+        },
         {
             "date": "18-08-2026",
             "nav": "39.31050"

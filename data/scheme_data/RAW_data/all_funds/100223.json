@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Medium to Long Duration Fund",
         "scheme_code": 100223,
-        "scheme_name": "JM Medium to Long Duration Fund (Regular) - Growth Option",
+        "scheme_name": "JM Medium to Long Duration Fund - Regular Plan - Growth Option",
         "isin_growth": "INF192K01AB3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "64.58680"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "64.71950"
+        },
         {
             "date": "18-08-2026",
             "nav": "64.70920"

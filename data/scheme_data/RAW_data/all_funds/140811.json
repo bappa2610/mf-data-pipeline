@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Large Cap Fund",
         "scheme_code": 140811,
-        "scheme_name": "Groww Largecap Fund (formerly known as Indiabulls Bluechip Fund)- Direct Plan- Quarterly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment)",
+        "scheme_name": "Groww Large Cap Fund - Direct Plan - Quarterly - Income Distribution cum capital withdrawal",
         "isin_growth": "INF666M01CO1",
         "isin_div_reinvestment": "INF666M01CP8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "29.51000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "29.32000"
+        },
         {
             "date": "18-08-2026",
             "nav": "29.39000"

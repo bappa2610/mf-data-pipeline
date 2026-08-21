@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Conservative Hybrid Fund",
         "scheme_code": 100948,
-        "scheme_name": "Franklin India Conservative Hybrid Fund - Growth",
+        "scheme_name": "Franklin India Conservative Hybrid Fund - Regular Plan - Growth",
         "isin_growth": "INF090I01EA7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "93.04470"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "92.96940"
+        },
         {
             "date": "18-08-2026",
             "nav": "93.02320"

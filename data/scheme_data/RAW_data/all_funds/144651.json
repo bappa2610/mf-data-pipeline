@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Corporate Bond Fund",
         "scheme_code": 144651,
-        "scheme_name": "DSP Corporate Bond Fund - Direct - IDCW - Monthly",
+        "scheme_name": "DSP Corporate Bond Fund - Direct Plan - Monthly IDCW",
         "isin_growth": "INF740KA1KH1",
         "isin_div_reinvestment": "INF740KA1KI9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.65130"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.65580"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.65390"

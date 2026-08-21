@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Overseas",
         "scheme_code": 123651,
-        "scheme_name": "ICICI Prudential Global Stable Equity Fund (FOF) - Growth",
+        "scheme_name": "ICICI Prudential Global Stable Equity Fund (FOF) - Regular Plan - Growth",
         "isin_growth": "INF109KA1CB6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "34.30000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "34.30000"
+        },
         {
             "date": "18-08-2026",
             "nav": "34.15000"

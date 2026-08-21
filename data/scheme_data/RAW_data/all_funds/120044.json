@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Overseas Fund of Funds - Fund of Funds investing overseas",
         "scheme_code": 120044,
-        "scheme_name": "HSBC Global Emerging Markets Fund - IDCW Direct Plan",
+        "scheme_name": "HSBC Global Emerging Markets Fund - Direct Plan - IDCW",
         "isin_growth": "INF336L01CH7",
         "isin_div_reinvestment": "INF336L01CI5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "30.06520"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "29.54720"
+        },
         {
             "date": "18-08-2026",
             "nav": "29.96760"

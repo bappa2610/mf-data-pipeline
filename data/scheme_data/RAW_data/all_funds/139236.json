@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Money Market Fund",
         "scheme_code": 139236,
-        "scheme_name": "UTI MMF - Regular Plan - Flexi Dividend Option",
+        "scheme_name": "UTI - Money Market Fund - Regular Plan - Flexi IDCW",
         "isin_growth": "INF789FA1M04",
         "isin_div_reinvestment": "INF789FA1M12"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1282.76140"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1283.29800"
+        },
         {
             "date": "18-08-2026",
             "nav": "1283.06910"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Money Market Fund",
         "scheme_code": 140230,
-        "scheme_name": "Edelweiss Money Market Fund - Institutional Plan - Growth Option",
+        "scheme_name": "Edelweiss Money Market Fund",
         "isin_growth": "INF843K01377",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "25.99870"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "26.00970"
+        },
         {
             "date": "18-08-2026",
             "nav": "26.00540"

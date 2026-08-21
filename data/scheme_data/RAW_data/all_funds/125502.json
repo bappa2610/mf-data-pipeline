@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Banking and PSU Fund",
         "scheme_code": 125502,
-        "scheme_name": "SBI Banking & PSU Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI BANKING & PSU FUND - Direct Plan - IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF200K01V16"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1553.38860"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1555.44990"
+        },
         {
             "date": "18-08-2026",
             "nav": "1554.75190"

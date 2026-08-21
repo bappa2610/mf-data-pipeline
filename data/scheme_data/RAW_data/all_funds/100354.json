@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - ELSS",
         "scheme_code": 100354,
-        "scheme_name": "ICICI Prudential ELSS Tax Saver Fund - Growth",
+        "scheme_name": "ICICI Prudential ELSS Tax Saver Fund - Regular Plan - Growth",
         "isin_growth": "INF109K01464",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "946.38000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "941.08000"
+        },
         {
             "date": "18-08-2026",
             "nav": "944.20000"

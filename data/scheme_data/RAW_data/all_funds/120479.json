@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Conservative Hybrid Fund",
         "scheme_code": 120479,
-        "scheme_name": "Axis Conservative Hybrid Fund - Direct Plan - Quarterly",
+        "scheme_name": "Axis Conservative Hybrid Fund - Direct Plan - Quarterly Option",
         "isin_growth": "INF846K01ED2",
         "isin_div_reinvestment": "INF846K01EE0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.87100"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.87810"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.88150"

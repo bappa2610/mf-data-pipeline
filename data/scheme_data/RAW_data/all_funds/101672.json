@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Value Fund",
         "scheme_code": 101672,
-        "scheme_name": "Tata Value Fund - Regular Plan -Growth Option",
+        "scheme_name": "Tata Value Fund - Regular Plan - Growth Option",
         "isin_growth": "INF277K01451",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "355.03440"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "351.04390"
+        },
         {
             "date": "18-08-2026",
             "nav": "352.70550"

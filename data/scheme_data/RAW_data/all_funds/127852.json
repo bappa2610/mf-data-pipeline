@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
         "scheme_code": 127852,
-        "scheme_name": "BANK OF INDIA BALANCED ADVANTAGE FUND  DIRECT PLAN IDCW",
+        "scheme_name": "BANK OF INDIA BALANCED ADVANTAGE FUND - Direct Plan - IDCW",
         "isin_growth": "INF761K01BM0",
         "isin_div_reinvestment": "INF761K01BN8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "17.37560"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "17.31830"
+        },
         {
             "date": "18-08-2026",
             "nav": "17.35300"

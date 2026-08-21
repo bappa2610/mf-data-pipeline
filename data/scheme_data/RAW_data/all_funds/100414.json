@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
         "scheme_code": 100414,
-        "scheme_name": "Tata Aggressive Hybrid Fund- Regular Plan - Growth Option",
+        "scheme_name": "Tata Aggressive Hybrid Fund - Regular Plan - Growth Option",
         "isin_growth": "INF277K01303",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "445.71300"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "443.68130"
+        },
         {
             "date": "18-08-2026",
             "nav": "444.20840"

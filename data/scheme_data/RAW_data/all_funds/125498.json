@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Banking and PSU Fund",
         "scheme_code": 125498,
-        "scheme_name": "SBI BANKING & PSU FUND - Regular Paln - Growth",
+        "scheme_name": "SBI BANKING & PSU FUND - Regular Plan - Growth",
         "isin_growth": "INF200K01U41",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "3304.00320"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "3308.42280"
+        },
         {
             "date": "18-08-2026",
             "nav": "3306.97340"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large Cap Fund",
         "scheme_code": 120489,
-        "scheme_name": "JM Large Cap Fund (Direct) - IDCW",
+        "scheme_name": "JM Large Cap Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF192K01BX5",
         "isin_div_reinvestment": "INF192K01BY3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "72.93300"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "72.45180"
+        },
         {
             "date": "18-08-2026",
             "nav": "72.63740"

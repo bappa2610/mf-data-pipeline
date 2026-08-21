@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Equity Savings",
         "scheme_code": 144464,
-        "scheme_name": "Franklin India Equity Savings Fund - Monthly - IDCW",
+        "scheme_name": "Franklin India Equity Savings Fund - Regular Plan - Monthly IDCW",
         "isin_growth": "INF090I01PF2",
         "isin_div_reinvestment": "INF090I01PE5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.25310"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.25070"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.24410"

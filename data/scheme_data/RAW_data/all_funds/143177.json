@@ -4,11 +4,19 @@
         "scheme_type": "Close Ended Schemes",
         "scheme_category": "ELSS",
         "scheme_code": 143177,
-        "scheme_name": "SBI Long Term Advantage Fund - Series VI - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI Long Term Advantage Fund - Series VI - Regular Plan - IDCW",
         "isin_growth": "INF200KA1TN3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "31.16880"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "30.92090"
+        },
         {
             "date": "18-08-2026",
             "nav": "31.13700"

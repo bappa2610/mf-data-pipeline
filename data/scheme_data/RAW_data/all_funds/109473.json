@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Corporate Bond Fund",
         "scheme_code": 109473,
-        "scheme_name": "NIPPON INDIA CORPORATE BOND FUND - WEEKLY IDCW Option",
+        "scheme_name": "Nippon India Corporate Bond Fund - Regular Plan - WEEKLY IDCW Option",
         "isin_growth": "INF204K01EH5",
         "isin_div_reinvestment": "INF204K01EI3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "17.05980"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "17.08980"
+        },
         {
             "date": "18-08-2026",
             "nav": "17.08730"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Credit Risk Fund",
         "scheme_code": 133867,
-        "scheme_name": "BANK OF INDIA Credit Risk Fund - Regular Plan",
+        "scheme_name": "BANK OF INDIA CREDIT RISK FUND - Regular Plan - Growth",
         "isin_growth": "INF761K01DH6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "14.38870"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "14.39470"
+        },
         {
             "date": "18-08-2026",
             "nav": "14.39210"

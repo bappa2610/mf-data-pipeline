@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Credit Risk Fund",
         "scheme_code": 133486,
-        "scheme_name": "Baroda BNP Paribas Credit Risk Fund -Regular-Growth Option",
+        "scheme_name": "Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios) - Regular Plan - Growth Option",
         "isin_growth": "INF955L01FP0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "19-08-2026",
+            "nav": "23.79360"
+        },
         {
             "date": "18-08-2026",
             "nav": "23.78950"

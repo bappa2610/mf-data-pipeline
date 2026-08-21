@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Low Duration Fund",
         "scheme_code": 133920,
-        "scheme_name": "DSP Low Duration Fund - Regular Plan - IDCW - Monthly",
+        "scheme_name": "DSP Low Duration Fund - Regular Plan - Monthly IDCW",
         "isin_growth": "INF740K019P0",
         "isin_div_reinvestment": "INF740K010Q7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.70650"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.71380"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.71190"

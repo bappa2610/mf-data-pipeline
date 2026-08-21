@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Floater Fund",
         "scheme_code": 122644,
-        "scheme_name": "Aditya Birla Sun Life Floating Rate Fund-Regular Plan-Growth",
+        "scheme_name": "Aditya Birla Sun Life Floating Rate Fund - Regular Plan - GROWTH",
         "isin_growth": "INF209K01MG9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "372.69860"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "372.92640"
+        },
         {
             "date": "18-08-2026",
             "nav": "372.87830"

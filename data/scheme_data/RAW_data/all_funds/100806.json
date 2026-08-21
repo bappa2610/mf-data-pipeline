@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 100806,
-        "scheme_name": "UTI Healthcare Fund - Regular Plan - IDCW",
+        "scheme_name": "UTI - Healthcare Fund - Regular Plan - IDCW",
         "isin_growth": "INF789F01679",
         "isin_div_reinvestment": "INF789F01687"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "262.76830"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "263.10200"
+        },
         {
             "date": "18-08-2026",
             "nav": "263.49130"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Low Duration Fund",
         "scheme_code": 113307,
-        "scheme_name": "Aditya Birla Sun Life Low Duration Fund -Regular - DAILY IDCW",
+        "scheme_name": "Aditya Birla Sun Life Low Duration Fund - Regular Plan - Daily IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF209KA1LP6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "99.93070"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "100.00000"
+        },
         {
             "date": "18-08-2026",
             "nav": "99.99370"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Gilt Fund",
         "scheme_code": 101001,
-        "scheme_name": "SBI GILT FUND - REGULAR PLAN - GROWTH",
+        "scheme_name": "SBI GILT FUND - Regular Plan - Growth",
         "isin_growth": "INF200K01982",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "68.46840"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "68.62360"
+        },
         {
             "date": "18-08-2026",
             "nav": "68.60780"

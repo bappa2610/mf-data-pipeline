@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Mirae Asset Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - ELSS",
+        "scheme_category": "Equity Schemes - ELSS- Tax Saver Fund",
         "scheme_code": 135782,
         "scheme_name": "Mirae Asset ELSS Tax Saver Fund - Direct Plan - IDCW",
         "isin_growth": "INF769K01DN7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "27.16400"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "27.00500"
+        },
         {
             "date": "18-08-2026",
             "nav": "27.08500"

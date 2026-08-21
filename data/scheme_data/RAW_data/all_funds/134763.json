@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Money Market Fund",
         "scheme_code": 134763,
-        "scheme_name": "UTI Money Market Fund - Regular Plan - Half-Yearly IDCW",
+        "scheme_name": "UTI - Money Market Fund - Regular Plan - Half-Yearly IDCW",
         "isin_growth": "INF789FA1L62",
         "isin_div_reinvestment": "INF789FA1L70"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1862.93760"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1863.71700"
+        },
         {
             "date": "18-08-2026",
             "nav": "1863.38460"

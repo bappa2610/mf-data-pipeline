@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 120728,
-        "scheme_name": "UTI Infrastructure Fund-Growth Option- Direct",
+        "scheme_name": "UTI - Infrastructure Fund - Direct Plan - Growth",
         "isin_growth": "INF789F01TU6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "154.36640"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "153.44320"
+        },
         {
             "date": "18-08-2026",
             "nav": "154.31780"

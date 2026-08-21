@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Baroda BNP Paribas Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Short Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 140465,
-        "scheme_name": "Baroda BNP Paribas Short Duration Fund - Regular Plan - Quarterly IDCW",
+        "scheme_name": "Baroda BNP Paribas Short Duration Fund(the scheme has 2 segregated portfolios) - Regular Plan - Quarterly IDCW Option",
         "isin_growth": "INF955L01GS2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.60420"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.61510"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.61360"

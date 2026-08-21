@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Dynamic Bond",
         "scheme_code": 122618,
-        "scheme_name": "BANDHAN Dynamic Bond Fund-Direct Plan-Half Yearly IDCW",
+        "scheme_name": "BANDHAN Dynamic Bond Fund - Direct Plan - Half Yearly IDCW",
         "isin_growth": "INF194K011P8",
         "isin_div_reinvestment": "INF194K012P6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.43830"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.49110"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.49920"

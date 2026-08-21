@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Credit Risk Fund",
         "scheme_code": 140611,
-        "scheme_name": "BANDHAN Credit Risk Fund - Regular Plan Half Yearly IDCW",
+        "scheme_name": "BANDHAN CREDIT RISK FUND - Regular Plan - Half Yearly IDCW",
         "isin_growth": "INF194KA1V71",
         "isin_div_reinvestment": "INF194KA1V89"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.41180"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.42570"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.42460"

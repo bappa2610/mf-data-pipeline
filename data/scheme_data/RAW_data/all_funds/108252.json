@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 108252,
-        "scheme_name": "NIPPON INDIA QUANT FUND - IDCW Option",
+        "scheme_name": "Nippon India Quant Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF204K01745",
         "isin_div_reinvestment": "INF204K01752"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "39.75220"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "39.52590"
+        },
         {
             "date": "18-08-2026",
             "nav": "39.58720"

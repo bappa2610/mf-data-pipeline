@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
         "scheme_code": 118969,
-        "scheme_name": "HDFC Balanced Advantage Fund - IDCW Plan - Direct Plan",
+        "scheme_name": "HDFC Balanced Advantage Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF179K01VY8",
         "isin_div_reinvestment": "INF179K01VZ5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "43.47600"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "43.35000"
+        },
         {
             "date": "18-08-2026",
             "nav": "43.43900"

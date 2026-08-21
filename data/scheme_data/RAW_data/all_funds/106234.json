@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Short Duration Fund",
         "scheme_code": 106234,
-        "scheme_name": "SBI Short Term Debt Fund - Regular Plan Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI SHORT TERM DEBT FUND - Regular Plan - IDCW",
         "isin_growth": "INF200K01HT1",
         "isin_div_reinvestment": "INF200K01HU9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.44470"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "15.47120"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.46900"

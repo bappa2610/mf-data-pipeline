@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large Cap Fund",
         "scheme_code": 108465,
-        "scheme_name": "ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund)  - IDCW",
+        "scheme_name": "ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund) - Regular Plan - IDCW",
         "isin_growth": "INF109K01EP9",
         "isin_div_reinvestment": "INF109K01BM2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "29.48000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "29.30000"
+        },
         {
             "date": "18-08-2026",
             "nav": "29.40000"

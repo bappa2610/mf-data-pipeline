@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 139496,
-        "scheme_name": "Nippon India ETF Nifty 8-13 yr G-Sec Long Term Gilt",
+        "scheme_name": "Nippon India ETF Nifty 8-13 yr G-Sec Long Term Gilt - Direct Plan",
         "isin_growth": "INF204KB1882",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "29.95790"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "30.03010"
+        },
         {
             "date": "18-08-2026",
             "nav": "30.00070"

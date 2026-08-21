@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Corporate Bond Fund",
         "scheme_code": 125266,
-        "scheme_name": "NIPPON INDIA CORPORATE BOND FUND - DIRECT Plan - IDCW Option",
+        "scheme_name": "Nippon India Corporate Bond Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF204KA1EO9",
         "isin_div_reinvestment": "INF204KA1EP6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "21.28850"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "21.32570"
+        },
         {
             "date": "18-08-2026",
             "nav": "21.32250"

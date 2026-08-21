@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large Cap Fund",
         "scheme_code": 118616,
-        "scheme_name": "Edelweiss Large Cap Fund - Direct Plan - IDCW Option",
+        "scheme_name": "Edelweiss Large Cap Fund - Direct Plan - IDCW",
         "isin_growth": "INF754K01BT0",
         "isin_div_reinvestment": "INF754K01BU8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "38.79000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "38.61000"
+        },
         {
             "date": "18-08-2026",
             "nav": "38.70000"

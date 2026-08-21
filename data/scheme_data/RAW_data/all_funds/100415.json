@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 100415,
-        "scheme_name": "Tata Ethical Fund-Regular Plan - Growth Option",
+        "scheme_name": "Tata Ethical Fund - Regular Plan - Growth Option",
         "isin_growth": "INF277K01956",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "367.63800"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "366.14160"
+        },
         {
             "date": "18-08-2026",
             "nav": "366.92290"

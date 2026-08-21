@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 143263,
-        "scheme_name": "Parag Parikh Liquid Fund- Direct Plan- Daily Reinvestment of IDCW",
+        "scheme_name": "Parag Parikh Liquid Fund - Direct Plan - Daily Reinvestment of IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF879O01118"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1000.55420"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1000.59880"
+        },
         {
             "date": "18-08-2026",
             "nav": "1000.58780"

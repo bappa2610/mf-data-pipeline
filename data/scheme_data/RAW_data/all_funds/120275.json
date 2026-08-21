@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Conservative Hybrid Fund",
         "scheme_code": 120275,
-        "scheme_name": "LIC MF Conservative Hybrid Fund-Direct Plan-Yearly IDCW",
+        "scheme_name": "LIC MF Conservative Hybrid Fund - Direct Plan - Yearly IDCW",
         "isin_growth": "INF767K01ER0",
         "isin_div_reinvestment": "INF767K01EU4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "14.50910"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "14.51460"
+        },
         {
             "date": "18-08-2026",
             "nav": "14.52300"

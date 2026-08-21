@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Dynamic Bond",
         "scheme_code": 105639,
-        "scheme_name": "JM Dynamic Bond Fund (Regular) - Daily IDCW",
+        "scheme_name": "JM Dynamic Bond Fund - Regular Plan - Daily IDCW Option",
         "isin_growth": null,
         "isin_div_reinvestment": "INF192K01668"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.02420"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.03980"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.03810"

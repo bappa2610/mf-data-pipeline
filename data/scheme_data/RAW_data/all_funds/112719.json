@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Low Duration Fund",
         "scheme_code": 112719,
-        "scheme_name": "Axis Treasury Advantage Fund - Retail Plan - Weekly IDCW",
+        "scheme_name": "Axis Treasury Advantage Fund - Regular Plan - Weekly IDCW Option",
         "isin_growth": "INF846K01495",
         "isin_div_reinvestment": "INF846K01503"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1011.21250"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1011.76840"
+        },
         {
             "date": "18-08-2026",
             "nav": "1011.64530"

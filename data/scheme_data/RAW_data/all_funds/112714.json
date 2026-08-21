@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 112714,
-        "scheme_name": "Axis Liquid Fund - Retail Plan - Monthly IDCW",
+        "scheme_name": "Axis Liquid Fund - Monthly IDCW Option",
         "isin_growth": "INF846K01396",
         "isin_div_reinvestment": "INF846K01404"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1004.58210"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1004.49020"
+        },
         {
             "date": "18-08-2026",
             "nav": "1004.33760"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Flexi Cap Fund",
         "scheme_code": 133837,
-        "scheme_name": "PGIM India Flexi Cap Fund - Direct Plan - Dividend Option",
+        "scheme_name": "PGIM India Flexi Cap Fund - Direct Plan - Direct IDCW",
         "isin_growth": "INF663L01FG9",
         "isin_div_reinvestment": "INF663L01FH7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "21.01000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "20.89000"
+        },
         {
             "date": "18-08-2026",
             "nav": "20.98000"

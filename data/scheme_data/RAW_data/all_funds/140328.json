@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Overseas",
         "scheme_code": 140328,
-        "scheme_name": "Edelweiss Emerging Markets Opportunities Equity Offshore Fund - Regular Plan - Growth Option",
+        "scheme_name": "Edelweiss Emerging Markets Opportunities Equity Offshore Fund - Regular Plan - Growth",
         "isin_growth": "INF843K01IY6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "28.08830"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "27.73470"
+        },
         {
             "date": "18-08-2026",
             "nav": "28.07170"

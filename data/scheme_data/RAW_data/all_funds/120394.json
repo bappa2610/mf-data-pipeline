@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 120394,
-        "scheme_name": "Invesco India PSU Equity Fund - Direct Plan - IDCW (Payout / Reinvestment)",
+        "scheme_name": "Invesco India PSU Equity Fund - Direct Plan - IDCW",
         "isin_growth": "INF205K01NE0",
         "isin_div_reinvestment": "INF205K01NF7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "50.16000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "50.50000"
+        },
         {
             "date": "18-08-2026",
             "nav": "50.65000"

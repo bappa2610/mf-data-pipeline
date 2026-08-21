@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large & Mid Cap Fund",
         "scheme_code": 102883,
-        "scheme_name": "Franklin India Large & Mid Cap Fund - Growth Plan",
+        "scheme_name": "Franklin India Large & Mid Cap Fund - Regular Plan - Growth",
         "isin_growth": "INF090I01205",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "195.72270"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "194.63370"
+        },
         {
             "date": "18-08-2026",
             "nav": "194.55090"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 131864,
-        "scheme_name": "Aditya Birla Sun Life Multi Asset Omni FoF- Regular Plan - Growth Option",
+        "scheme_name": "Aditya Birla Sun Life Multi Asset Omni FoF - Regular Plan - GROWTH",
         "isin_growth": "INF084M01AE2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "78.03300"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "77.51570"
+        },
         {
             "date": "18-08-2026",
             "nav": "77.74890"

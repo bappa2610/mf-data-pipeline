@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 121109,
-        "scheme_name": "SBI BSE SENSEX ETF",
+        "scheme_name": "SBI BSE SENSEX ETF - Regular Plan - IDCW",
         "isin_growth": "INF200K01VT2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "864.99080"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "857.99370"
+        },
         {
             "date": "18-08-2026",
             "nav": "861.62430"

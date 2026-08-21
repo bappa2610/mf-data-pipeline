@@ -4,11 +4,19 @@
         "scheme_type": "Close Ended Schemes",
         "scheme_category": "ELSS",
         "scheme_code": 140489,
-        "scheme_name": "SBI Long Term Advantage Fund - Series IV - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI Long Term Advantage Fund - Series IV - Regular Plan - IDCW",
         "isin_growth": "INF200KA1LR1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "40.32970"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "40.05970"
+        },
         {
             "date": "18-08-2026",
             "nav": "40.26800"

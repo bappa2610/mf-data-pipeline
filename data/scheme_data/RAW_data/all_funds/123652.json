@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Overseas",
         "scheme_code": 123652,
-        "scheme_name": "ICICI Prudential Global Stable Equity Fund (FOF) - Direct - IDCW",
+        "scheme_name": "ICICI Prudential Global Stable Equity Fund (FOF) - Direct Plan - IDCW",
         "isin_growth": "INF109KA1CG5",
         "isin_div_reinvestment": "INF109KA1CF7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "37.29000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "37.29000"
+        },
         {
             "date": "18-08-2026",
             "nav": "37.12000"

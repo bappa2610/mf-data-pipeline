@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large Cap Fund",
         "scheme_code": 114458,
-        "scheme_name": "Kotak Large Cap Fund - Growth",
+        "scheme_name": "Kotak Large Cap Fund - Regular Plan - Growth",
         "isin_growth": "INF174K01153",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "572.37600"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "569.49800"
+        },
         {
             "date": "18-08-2026",
             "nav": "572.23100"

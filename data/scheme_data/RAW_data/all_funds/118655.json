@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Floater Fund",
         "scheme_code": 118655,
-        "scheme_name": "NIPPON INDIA FLOATER FUND - DIRECT Plan - MONTHLY IDCW Option",
+        "scheme_name": "Nippon India Floater Fund - Direct Plan - MONTHLY IDCW Option",
         "isin_growth": "INF204K01D89",
         "isin_div_reinvestment": "INF204K01D97"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.31170"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.38080"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.38030"

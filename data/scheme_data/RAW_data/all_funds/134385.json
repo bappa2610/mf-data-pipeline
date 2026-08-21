@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Credit Risk Fund",
         "scheme_code": 134385,
-        "scheme_name": "Aditya Birla Sun Life Credit Risk Fund - Direct - IDCW",
+        "scheme_name": "Aditya Birla Sun Life Credit Risk Fund - Direct Plan - IDCW Re-investment",
         "isin_growth": "INF209KA1K96",
         "isin_div_reinvestment": "INF209KA1L04"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "14.68170"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "14.70210"
+        },
         {
             "date": "18-08-2026",
             "nav": "14.69650"

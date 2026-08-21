@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Large Cap Fund",
         "scheme_code": 120029,
-        "scheme_name": "HSBC Large Cap Fund - Direct IDCW",
+        "scheme_name": "HSBC Large Cap Fund - Direct Plan - IDCW",
         "isin_growth": "INF336L01CK1",
         "isin_div_reinvestment": "INF336L01CL9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "40.53340"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "40.23990"
+        },
         {
             "date": "18-08-2026",
             "nav": "40.35770"

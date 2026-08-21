@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - ELSS",
         "scheme_code": 119059,
-        "scheme_name": "HDFC ELSS Tax saver - IDCW Option - Direct Plan",
+        "scheme_name": "HDFC ELSS Tax saver - Direct Plan - IDCW Option",
         "isin_growth": "INF179K01YQ8",
         "isin_div_reinvestment": "INF179K01YR6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "94.60000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "93.94700"
+        },
         {
             "date": "18-08-2026",
             "nav": "94.13100"

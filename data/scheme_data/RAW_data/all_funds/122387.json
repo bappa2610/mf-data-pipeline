@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Focused Fund",
         "scheme_code": 122387,
-        "scheme_name": "Motilal Oswal Focused Fund - Regular Plan Growth Option",
+        "scheme_name": "Motilal Oswal Focused Fund",
         "isin_growth": "INF247L01155",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "53.31380"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "52.97930"
+        },
         {
             "date": "18-08-2026",
             "nav": "53.07650"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Short Duration Fund",
         "scheme_code": 119498,
-        "scheme_name": "Aditya Birla Sun Life Short Term Fund - Growth - Direct Plan",
+        "scheme_name": "Aditya Birla Sun Life Short Term Fund - Direct Plan - GROWTH",
         "isin_growth": "INF209K01XK8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "55.17780"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "55.27070"
+        },
         {
             "date": "18-08-2026",
             "nav": "55.25430"

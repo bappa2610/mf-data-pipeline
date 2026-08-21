@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 138297,
-        "scheme_name": "PGIM India Liquid Fund - Direct Plan - Daily Dividend",
+        "scheme_name": "PGIM India Liquid Fund - Direct Plan - Direct IDCW",
         "isin_growth": "INF223J01NR7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "131.59990"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "131.58900"
+        },
         {
             "date": "18-08-2026",
             "nav": "131.56810"

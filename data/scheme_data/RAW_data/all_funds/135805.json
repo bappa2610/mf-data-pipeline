@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 135805,
-        "scheme_name": "Tata India Consumer Fund-Direct Plan-Growth",
+        "scheme_name": "Tata India Consumer Fund - Direct Plan - Growth Option",
         "isin_growth": "INF277K013A6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "56.67340"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "56.23180"
+        },
         {
             "date": "18-08-2026",
             "nav": "56.34550"

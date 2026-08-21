@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 112359,
-        "scheme_name": "BANK OF INDIA Manufacturing & Infrastructure Fund-Growth",
+        "scheme_name": "BANK OF INDIA MANUFACTURING & INFRASTRUCTURE FUND - Regular Plan - Growth",
         "isin_growth": "INF761K01199",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "67.45000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "67.11000"
+        },
         {
             "date": "18-08-2026",
             "nav": "67.66000"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 103885,
-        "scheme_name": "Aditya Birla Sun Life Liquid Fund -Regular - IDCW",
+        "scheme_name": "Aditya Birla Sun Life Liquid Fund - Regular Plan - IDCW",
         "isin_growth": "INF209KA1LI1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "104.58360"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "104.57090"
+        },
         {
             "date": "18-08-2026",
             "nav": "104.55300"

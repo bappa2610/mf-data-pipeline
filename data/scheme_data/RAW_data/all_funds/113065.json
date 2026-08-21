@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
         "scheme_code": 113065,
-        "scheme_name": "Axis Multi Asset Allocation Fund - Regular Plan - Monthly IDCW",
+        "scheme_name": "Axis Multi Asset Allocation Fund - Regular Plan - Monthly IDCW Option",
         "isin_growth": "INF846K01776",
         "isin_div_reinvestment": "INF846K01784"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "19.97070"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "19.82110"
+        },
         {
             "date": "18-08-2026",
             "nav": "19.88130"

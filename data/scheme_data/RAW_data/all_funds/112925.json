@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Conservative Hybrid Fund",
         "scheme_code": 112925,
-        "scheme_name": "Axis Conservative Hybrid Fund - Regular Plan - Quarterly IDCW",
+        "scheme_name": "Axis Conservative Hybrid Fund - Regular Plan - Quarterly IDCW Option",
         "isin_growth": "INF846K01701",
         "isin_div_reinvestment": "INF846K01719"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.44590"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.45190"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.45500"

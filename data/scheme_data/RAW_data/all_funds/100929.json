@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Conservative Hybrid Fund",
         "scheme_code": 100929,
-        "scheme_name": "SBI Conservative Hybrid Fund - Regular Plan - Annual Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI CONSERVATIVE HYBRID FUND - Regular Plan - IDCW",
         "isin_growth": "INF200K01909",
         "isin_div_reinvestment": "INF200K01917"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "27.08120"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "27.07580"
+        },
         {
             "date": "18-08-2026",
             "nav": "27.14520"

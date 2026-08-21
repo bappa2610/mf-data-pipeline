@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Solution Oriented Scheme - Children\u2019s Fund",
         "scheme_code": 119719,
-        "scheme_name": "SBI Children's Fund - Savings Plan - DIRECT PLAN - GROWTH",
+        "scheme_name": "SBI CHILDREN'S FUND - SAVINGS PLAN - Direct Plan - Growth",
         "isin_growth": "INF200K01QR6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "131.01900"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "131.04500"
+        },
         {
             "date": "18-08-2026",
             "nav": "131.29650"

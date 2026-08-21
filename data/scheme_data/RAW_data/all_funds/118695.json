@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 118695,
-        "scheme_name": "NIPPON INDIA LIQUID FUND - DIRECT Plan - DAILY IDCW OPTION",
+        "scheme_name": "Nippon India Liquid Fund - Direct Plan - DAILY IDCW OPTION",
         "isin_growth": null,
         "isin_div_reinvestment": "INF204K01ZG2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1528.74000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1528.74000"
+        },
         {
             "date": "18-08-2026",
             "nav": "1528.74000"

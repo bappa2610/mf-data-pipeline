@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large & Mid Cap Fund",
         "scheme_code": 140175,
-        "scheme_name": "Edelweiss Large & Mid Cap Fund - Direct Plan - Growth Option",
+        "scheme_name": "Edelweiss Large & Mid Cap Fund - Direct Plan - Growth",
         "isin_growth": "INF843K01AL0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "109.75900"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "109.04100"
+        },
         {
             "date": "18-08-2026",
             "nav": "109.65700"

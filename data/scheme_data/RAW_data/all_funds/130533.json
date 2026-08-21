@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 130533,
-        "scheme_name": "HDFC Income Plus Arbitrage Active FOF - Growth Option",
+        "scheme_name": "HDFC Income Plus Arbitrage Active FOF - Regular Plan - Growth Option",
         "isin_growth": "INF179KA1SF8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "41.30660"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "41.36060"
+        },
         {
             "date": "18-08-2026",
             "nav": "41.33310"

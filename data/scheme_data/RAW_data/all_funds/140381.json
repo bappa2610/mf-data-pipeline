@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
         "scheme_code": 140381,
-        "scheme_name": "Bandhan Aggressive Hybrid Fund-Regular Plan Growth",
+        "scheme_name": "Bandhan Aggressive Hybrid Fund - Regular Plan - Growth",
         "isin_growth": "INF194KA1U15",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "28.30200"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "28.14100"
+        },
         {
             "date": "18-08-2026",
             "nav": "28.20500"

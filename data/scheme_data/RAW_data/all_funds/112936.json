@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
         "scheme_code": 112936,
-        "scheme_name": "Nippon India Aggressive Hybrid Fund - Growth Plan",
+        "scheme_name": "Nippon India Aggressive Hybrid Fund (Existing Number of Segregated Portfolios - 2) - Regular Plan - Growth Option",
         "isin_growth": "INF204K01FW1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "108.55810"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "108.11110"
+        },
         {
             "date": "18-08-2026",
             "nav": "108.37000"

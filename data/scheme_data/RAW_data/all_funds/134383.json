@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Credit Risk Fund",
         "scheme_code": 134383,
-        "scheme_name": "Aditya Birla Sun Life Credit Risk Fund - Regular Plan - Growth",
+        "scheme_name": "Aditya Birla Sun Life Credit Risk Fund - Regular Plan - GROWTH",
         "isin_growth": "INF209KA1K47",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "25.36750"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "25.40330"
+        },
         {
             "date": "18-08-2026",
             "nav": "25.39430"

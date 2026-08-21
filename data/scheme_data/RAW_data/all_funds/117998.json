@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Dynamic Bond",
         "scheme_code": 117998,
-        "scheme_name": "Kotak Dynamic Bond Fund Regular Plan - Standard Income Distribution cum capital withdrawal option",
+        "scheme_name": "Kotak Dynamic Bond Fund - Regular Plan - Standard Income Distribution cum capital withdrawal option",
         "isin_growth": "INF174K01IY6",
         "isin_div_reinvestment": "INF174K01IZ3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "14.96660"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "15.00600"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.00560"

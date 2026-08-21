@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Conservative Hybrid Fund",
         "scheme_code": 118993,
-        "scheme_name": "DSP Regular Savings Fund - Direct Plan - IDCW - Quarterly ",
+        "scheme_name": "DSP Regular Savings Fund - Direct Plan - Quarterly IDCW",
         "isin_growth": "INF740K01NQ0",
         "isin_div_reinvestment": "INF740K01NS6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.99660"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.98940"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.99900"

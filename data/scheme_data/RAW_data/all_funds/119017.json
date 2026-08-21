@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large Cap Fund",
         "scheme_code": 119017,
-        "scheme_name": "HDFC Large Cap Fund - IDCW Option - Direct Plan",
+        "scheme_name": "HDFC Large Cap Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF179K01YT2",
         "isin_div_reinvestment": "INF179K01YU0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "63.03500"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "62.69800"
+        },
         {
             "date": "18-08-2026",
             "nav": "62.78000"

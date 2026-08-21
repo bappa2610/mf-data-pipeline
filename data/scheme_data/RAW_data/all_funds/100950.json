@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Conservative Hybrid Fund",
         "scheme_code": 100950,
-        "scheme_name": "Franklin India Conservative Hybrid Fund - Plan A - Quarterly - IDCW",
+        "scheme_name": "Franklin India Conservative Hybrid Fund - Regular Plan - Quarterly IDCW",
         "isin_growth": "INF090I01ED1",
         "isin_div_reinvestment": "INF090I01EE9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.73000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.72050"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.72730"

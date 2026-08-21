@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
         "scheme_code": 133402,
-        "scheme_name": "JM Aggressive Hybrid Fund (Direct) - Half Yearly IDCW",
+        "scheme_name": "JM Aggressive Hybrid Fund - Direct Plan - Half Yearly IDCW Option",
         "isin_growth": "INF192K01HH5",
         "isin_div_reinvestment": "INF192K01HI3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "102.15170"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "101.52400"
+        },
         {
             "date": "18-08-2026",
             "nav": "101.56880"

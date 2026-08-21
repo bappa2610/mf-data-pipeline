@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Conservative Hybrid Fund",
         "scheme_code": 114858,
-        "scheme_name": "Kotak Debt Hybrid - Monthly Payout of Income Distribution cum capital withdrawal option",
+        "scheme_name": "Kotak Debt Hybrid Fund - Regular Plan - Monthly Payout of Income Distribution cum capital withdrawal option",
         "isin_growth": "INF174K01419",
         "isin_div_reinvestment": "INF174K01401"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.23280"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.23820"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.24810"

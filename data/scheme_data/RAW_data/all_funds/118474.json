@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Arbitrage Fund",
         "scheme_code": 118474,
-        "scheme_name": "BANDHAN Arbitrage Fund-Direct Plan- Growth",
+        "scheme_name": "BANDHAN Arbitrage Fund - Direct Plan - Growth",
         "isin_growth": "INF194K01Y60",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "37.68020"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "37.70950"
+        },
         {
             "date": "18-08-2026",
             "nav": "37.65870"

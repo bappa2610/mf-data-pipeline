@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Dynamic Bond",
+        "scheme_category": "Income/Debt Oriented Schemes - Dynamic Term Fund",
         "scheme_code": 135336,
-        "scheme_name": "UTI Dynamic Bond Fund - Regular Plan - Flexi IDCW",
+        "scheme_name": "UTI - Dynamic Bond Fund. - Regular Plan - Flexi IDCW",
         "isin_growth": "INF789FA1S24",
         "isin_div_reinvestment": "INF789FA1S32"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "17.21340"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "17.25240"
+        },
         {
             "date": "18-08-2026",
             "nav": "17.25680"

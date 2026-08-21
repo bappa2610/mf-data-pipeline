@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Dynamic Bond",
         "scheme_code": 105878,
-        "scheme_name": "DSP Strategic Bond Fund - Regular Plan - IDCW - Weekly",
+        "scheme_name": "DSP Strategic Bond Fund - Regular Plan - Weekly IDCW",
         "isin_growth": "INF740K01GQ4",
         "isin_div_reinvestment": "INF740K01GP6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1049.03850"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1052.16480"
+        },
         {
             "date": "18-08-2026",
             "nav": "1051.98230"

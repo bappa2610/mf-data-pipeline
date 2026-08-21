@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Short Duration Fund",
         "scheme_code": 106624,
-        "scheme_name": "UTI Short Duration Fund - Regular Plan - Growth Option",
+        "scheme_name": "UTI Short Duration Fund - Regular Plan - Growth",
         "isin_growth": "INF789F01QA4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "33.67780"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "33.72340"
+        },
         {
             "date": "18-08-2026",
             "nav": "33.71630"

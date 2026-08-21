@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Arbitrage Fund",
         "scheme_code": 104681,
-        "scheme_name": "ICICI Prudential Arbitrage Fund - IDCW",
+        "scheme_name": "ICICI Prudential Arbitrage Fund - Regular Plan - IDCW",
         "isin_growth": "INF109K01EF0",
         "isin_div_reinvestment": "INF109K01BE9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.43360"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "15.44710"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.42410"

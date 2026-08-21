@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Conservative Hybrid Fund",
         "scheme_code": 102173,
-        "scheme_name": "NIPPON INDIA CONSERVATIVE HYBRID  FUND - MONTHLY IDCW Option",
+        "scheme_name": "Nippon India Conservative Hybrid Fund (Existing number of Segregated Portfolios - 1) - Regular Plan - MONTHLY IDCW Option",
         "isin_growth": "INF204K01FE9",
         "isin_div_reinvestment": "INF204K01FF6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.34050"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.34530"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.34350"

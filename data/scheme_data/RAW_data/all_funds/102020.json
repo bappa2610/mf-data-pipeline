@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Multi Cap Fund",
         "scheme_code": 102020,
-        "scheme_name": "Baroda BNP Paribas MULTI CAP FUND - Regular Plan - Growth Option",
+        "scheme_name": "Baroda BNP Paribas Multi Cap Fund - Regular Plan - Growth Option",
         "isin_growth": "INF955L01674",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "301.29760"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "299.84240"
+        },
         {
             "date": "18-08-2026",
             "nav": "300.83170"

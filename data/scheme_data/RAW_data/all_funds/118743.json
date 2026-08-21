@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 118743,
-        "scheme_name": "NIPPON INDIA INDEX FUND - NIFTY 50 PLAN - DIRECT Plan - ANNUAL - IDCW Option",
+        "scheme_name": "Nippon India Index Fund - Nifty 50 Plan - Direct Plan - ANNUAL IDCW Option",
         "isin_growth": "INF204K01H10",
         "isin_div_reinvestment": "INF204K01H28"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "35.71610"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "35.49000"
+        },
         {
             "date": "18-08-2026",
             "nav": "35.60280"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 131897,
-        "scheme_name": "Aditya Birla Sun Life Income Plus Arbitrage Active FOF- DIRECT - IDCW",
+        "scheme_name": "Aditya Birla Sun Life Income Plus Arbitrage Active FOF - Direct Plan - IDCW",
         "isin_growth": "INF084M01DQ0",
         "isin_div_reinvestment": "INF084M01DR8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "26.38520"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "26.41710"
+        },
         {
             "date": "18-08-2026",
             "nav": "26.39880"

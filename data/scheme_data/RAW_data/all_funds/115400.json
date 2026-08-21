@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 115400,
-        "scheme_name": "Union Liquid Fund - Monthly IDCW Option",
+        "scheme_name": "Union Liquid Fund - Regular Plan - Monthly IDCW Option",
         "isin_growth": "INF582M01070",
         "isin_div_reinvestment": "INF582M01054"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1004.81780"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1004.68360"
+        },
         {
             "date": "18-08-2026",
             "nav": "1004.51410"

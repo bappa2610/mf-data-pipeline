@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Medium Duration Fund",
         "scheme_code": 119541,
-        "scheme_name": "Aditya Birla Sun Life Medium Term Plan - DIRECT - Quarterly IDCW",
+        "scheme_name": "Aditya Birla Sun Life Medium Term Plan - Direct Plan - Quarterly IDCW",
         "isin_growth": "INF209KA1KP8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "14.51350"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "14.53920"
+        },
         {
             "date": "18-08-2026",
             "nav": "14.53440"

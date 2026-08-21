@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Gilt Fund",
         "scheme_code": 120521,
-        "scheme_name": "Invesco India Gilt Fund - Direct Plan - Monthly IDCW (Reinvestment)",
+        "scheme_name": "Invesco India Gilt Fund - Direct Plan - Monthly IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF205K01SO8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "2540.77650"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "2550.59000"
+        },
         {
             "date": "18-08-2026",
             "nav": "2551.07410"

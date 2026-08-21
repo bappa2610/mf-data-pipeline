@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Medium Duration Fund",
         "scheme_code": 130054,
-        "scheme_name": "NIPPON INDIA MEDIUM DURATION FUND - DIRECT Plan - IDCW Option",
+        "scheme_name": "Nippon India Medium Duration Fund (Existing Number of Segregated Portfolios - 1) - Direct Plan - IDCW Option",
         "isin_growth": "INF204KA1QH7",
         "isin_div_reinvestment": "INF204KA1QJ3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.48430"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "15.51430"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.50980"

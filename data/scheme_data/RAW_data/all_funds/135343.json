@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Value Fund",
         "scheme_code": 135343,
-        "scheme_name": "Groww Value Fund (formerly known as Indiabulls Value Fund) - Regular Plan - Growth Option",
+        "scheme_name": "Groww Value Fund - Regular Plan - Growth",
         "isin_growth": "INF666M01BH7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "27.65000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "27.54800"
+        },
         {
             "date": "18-08-2026",
             "nav": "27.69450"

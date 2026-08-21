@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 141842,
-        "scheme_name": "ICICI Prudential BSE Sensex Index Fund - Direct Plan - IDCW Option",
+        "scheme_name": "ICICI Prudential BSE Sensex Index Fund - Direct Plan - IDCW",
         "isin_growth": "INF109KB12X6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "25.91070"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "25.70100"
+        },
         {
             "date": "18-08-2026",
             "nav": "25.80990"

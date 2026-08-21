@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 119171,
-        "scheme_name": "Tata Ethical Fund- Direct Plan - Payout of IDCW Option",
+        "scheme_name": "Tata Ethical Fund - Direct Plan - Payout of IDCW Option",
         "isin_growth": "INF277K01NE9",
         "isin_div_reinvestment": "INF277K01NF6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "227.43930"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "226.50610"
+        },
         {
             "date": "18-08-2026",
             "nav": "226.98200"

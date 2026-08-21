@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 140094,
-        "scheme_name": "Nippon India ETF Nifty 50 Shariah BeES",
+        "scheme_name": "Nippon India ETF Nifty 50 Shariah BeES - Direct Plan",
         "isin_growth": "INF732E01128",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "460.08530"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "458.95050"
+        },
         {
             "date": "18-08-2026",
             "nav": "458.26600"

@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Medium Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Medium Term Fund",
         "scheme_code": 134504,
-        "scheme_name": "UTI Medium Duration Fund - Direct Plan - Half-Yearly IDCW",
+        "scheme_name": "UTI Medium Duration Fund - Direct Plan - Half yearly IDCW",
         "isin_growth": "INF789FB1KJ5",
         "isin_div_reinvestment": "INF789FB1KK3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.55960"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "15.58870"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.58210"

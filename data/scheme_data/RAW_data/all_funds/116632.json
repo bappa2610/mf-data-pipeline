@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Overseas",
         "scheme_code": 116632,
-        "scheme_name": "Franklin U.S. Opportunities Equity Active Fund of Funds - IDCW",
+        "scheme_name": "Franklin U. S. Opportunities Equity Active Fund of Funds - Regular Plan - IDCW",
         "isin_growth": "INF090I01EV3",
         "isin_div_reinvestment": "INF090I01EU5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "88.60540"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "89.38770"
+        },
         {
             "date": "18-08-2026",
             "nav": "89.90030"

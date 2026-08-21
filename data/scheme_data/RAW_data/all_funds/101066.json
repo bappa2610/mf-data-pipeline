@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Mid Cap Fund",
         "scheme_code": 101066,
-        "scheme_name": "quant Mid Cap Fund - IDCW Option - Regular Plan",
+        "scheme_name": "Quant Mid Cap Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF966L01150",
         "isin_div_reinvestment": "INF966L01168"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "78.63100"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "78.55810"
+        },
         {
             "date": "18-08-2026",
             "nav": "78.85930"

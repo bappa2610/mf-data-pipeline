@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "HSBC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Schemes - Value Fund",
+        "scheme_category": "Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)",
         "scheme_code": 129192,
-        "scheme_name": "HSBC Multi Asset Active FOF IDCW",
+        "scheme_name": "HSBC Multi Asset Active FOF (erstwhile HSBC Managed Solutions India - Moderate Fund) - Regular Plan - IDCW",
         "isin_growth": "INF336L01IE1",
         "isin_div_reinvestment": "INF336L01IF8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "30.98990"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "30.76330"
+        },
         {
             "date": "18-08-2026",
             "nav": "30.84050"

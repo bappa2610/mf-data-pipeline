@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Conservative Hybrid Fund",
         "scheme_code": 101867,
-        "scheme_name": "LIC MF Conservative Hybrid Fund-Regular Plan-Quarterly IDCW",
+        "scheme_name": "LIC MF Conservative Hybrid Fund - Regular Plan - Quarterly IDCW",
         "isin_growth": "INF767K01832",
         "isin_div_reinvestment": "INF767K01840"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "14.74280"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "14.74860"
+        },
         {
             "date": "18-08-2026",
             "nav": "14.75740"

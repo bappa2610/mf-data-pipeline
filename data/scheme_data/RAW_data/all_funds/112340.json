@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 112340,
-        "scheme_name": "NIPPON INDIA LIQUID FUND - QUARTERLY IDCW OPTION",
+        "scheme_name": "Nippon India Liquid Fund - Regular Plan - QUARTERLY IDCW OPTION",
         "isin_growth": "INF204K01UQ2",
         "isin_div_reinvestment": "INF204K01UR0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1014.55610"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1014.44760"
+        },
         {
             "date": "18-08-2026",
             "nav": "1014.27450"

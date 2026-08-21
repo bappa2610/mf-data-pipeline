@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 118756,
-        "scheme_name": "NIPPON INDIA PHARMA FUND - DIRECT Plan - IDCW Option",
+        "scheme_name": "Nippon India Pharma Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF204K01I35",
         "isin_div_reinvestment": "INF204K01I43"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "175.78110"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "175.57490"
+        },
         {
             "date": "18-08-2026",
             "nav": "176.06940"

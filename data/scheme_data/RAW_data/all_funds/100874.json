@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 100874,
-        "scheme_name": "HDFC Liquid Fund - IDCW Plan Weekly",
+        "scheme_name": "HDFC Liquid Fund - Regular Plan - IDCW Plan Weekly",
         "isin_growth": "INF179KB1ID3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1031.44360"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1031.34130"
+        },
         {
             "date": "18-08-2026",
             "nav": "1031.16440"

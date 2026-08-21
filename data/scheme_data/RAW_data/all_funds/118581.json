@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 118581,
-        "scheme_name": "Franklin India INDEX FUND- NSE NIFTY 50 INDEX FUND- Direct - Growth",
+        "scheme_name": "Franklin India NSE Nifty 50 Index Fund - Direct Plan - Growth",
         "isin_growth": "INF090I01GS4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "207.36280"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "206.05070"
+        },
         {
             "date": "18-08-2026",
             "nav": "206.70830"

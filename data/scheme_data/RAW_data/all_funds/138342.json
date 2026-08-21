@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
         "scheme_code": 138342,
-        "scheme_name": "PGIM India Ultra Short Duration Fund - Daily Dividend",
+        "scheme_name": "PGIM India Ultra Short Duration Fund - Regular Plan - Regular IDCW",
         "isin_growth": "INF223J01FH4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.01670"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.02030"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.02030"

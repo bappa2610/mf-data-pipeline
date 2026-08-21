@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 103340,
-        "scheme_name": "ICICI Prudential Liquid Fund - Growth",
+        "scheme_name": "ICICI Prudential Liquid Fund - - Regular Plan - Growth",
         "isin_growth": "INF109K01VQ1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "414.19280"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "414.14950"
+        },
         {
             "date": "18-08-2026",
             "nav": "414.08040"

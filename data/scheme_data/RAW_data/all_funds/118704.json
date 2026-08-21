@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Low Duration Fund",
         "scheme_code": 118704,
-        "scheme_name": "NIPPON INDIA LOW DURATION FUND - DIRECT Plan - MONTHLY IDCW Option",
+        "scheme_name": "Nippon India Low Duration Fund - Direct Plan - MONTHLY IDCW Option",
         "isin_growth": "INF204K01ZX7",
         "isin_div_reinvestment": "INF204K01ZY5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1037.95310"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1044.47350"
+        },
         {
             "date": "18-08-2026",
             "nav": "1044.34610"

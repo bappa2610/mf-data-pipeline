@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Medium to Long Duration Fund",
         "scheme_code": 100384,
-        "scheme_name": "NIPPON INDIA MEDIUM TO LONG DURATION  FUND - QUARTERLY IDCW Option",
+        "scheme_name": "Nippon India Medium to Long Duration Fund - Regular Plan - QUARTERLY IDCW Option",
         "isin_growth": "INF204K01CP2",
         "isin_div_reinvestment": "INF204K01CQ0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.31950"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.34530"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.34540"

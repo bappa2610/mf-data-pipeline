@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Gilt Fund",
         "scheme_code": 101951,
-        "scheme_name": "SBI Gilt Fund - Income Distribution cum Capital Withdrawal Option (IDCW) - PF (Fixed Period - 2 Yrs)",
+        "scheme_name": "SBI GILT FUND - Regular Plan - IDCW",
         "isin_growth": "INF200K01AF5",
         "isin_div_reinvestment": "INF200K01AG3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "21.40620"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "21.45470"
+        },
         {
             "date": "18-08-2026",
             "nav": "21.44980"

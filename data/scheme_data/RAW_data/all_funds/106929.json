@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Kotak Mahindra Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Schemes - Value Fund",
+        "scheme_category": "Exchange Traded Funds (ETFs) - Equity ETF",
         "scheme_code": 106929,
         "scheme_name": "Kotak Nifty PSU Bank ETF",
         "isin_growth": "INF174KA1A86",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "86.29770"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "86.30870"
+        },
         {
             "date": "18-08-2026",
             "nav": "86.31840"

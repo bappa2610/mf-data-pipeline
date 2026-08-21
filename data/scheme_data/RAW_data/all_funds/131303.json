@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Gilt Fund with 10 year constant duration",
         "scheme_code": 131303,
-        "scheme_name": "DSP 10Y G-Sec Fund - Direct Plan - IDCW - Monthly",
+        "scheme_name": "DSP 10Y G-Sec Fund - Direct Plan - Monthly IDCW",
         "isin_growth": "INF740K012J8",
         "isin_div_reinvestment": "INF740K013J6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.57580"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.60470"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.60310"

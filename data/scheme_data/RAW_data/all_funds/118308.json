@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 118308,
-        "scheme_name": "CANARA ROBECO LIQUID FUND - DIRECT PLAN - WEEKLY IDCW (Payout/Reinvestment)",
+        "scheme_name": "Canara Robeco Liquid Fund - Direct Plan - WEEKLY IDCW (Payout/Reinvestment)",
         "isin_growth": "INF760K01FY8",
         "isin_div_reinvestment": "INF760K01FX0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1000.57480"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1000.42730"
+        },
         {
             "date": "18-08-2026",
             "nav": "1001.45270"

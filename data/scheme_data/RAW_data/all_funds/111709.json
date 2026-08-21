@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - ELSS",
         "scheme_code": 111709,
-        "scheme_name": "BANK OF INDIA ELSS Tax Saver -ECO Plan-Growth",
+        "scheme_name": "BANK OF INDIA ELSS TAX SAVER - Growth",
         "isin_growth": "INF761K01157",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "182.08000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "180.53000"
+        },
         {
             "date": "18-08-2026",
             "nav": "181.46000"

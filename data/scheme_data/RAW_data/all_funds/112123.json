@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Money Market Fund",
         "scheme_code": 112123,
-        "scheme_name": "Invesco India Money Market Fund - Growth",
+        "scheme_name": "Invesco India Money Market Fund - Regular Plan - Growth",
         "isin_growth": "INF205K01SD1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "3265.85140"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "3267.31570"
+        },
         {
             "date": "18-08-2026",
             "nav": "3266.69370"

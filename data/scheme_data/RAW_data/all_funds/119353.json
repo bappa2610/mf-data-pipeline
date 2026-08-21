@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Multi Cap Fund",
         "scheme_code": 119353,
-        "scheme_name": "Baroda BNP Paribas MULTI CAP FUND - Direct Plan - IDCW Option",
+        "scheme_name": "Baroda BNP Paribas Multi Cap Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF955L01AE5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "56.59820"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "56.32330"
+        },
         {
             "date": "18-08-2026",
             "nav": "56.50750"

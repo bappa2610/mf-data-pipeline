@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 118725,
-        "scheme_name": "NIPPON INDIA CONSUMPTION FUND - DIRECT Plan - IDCW Option",
+        "scheme_name": "Nippon India Consumption Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF204K01G37",
         "isin_div_reinvestment": "INF204K01G45"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "55.35670"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "54.90300"
+        },
         {
             "date": "18-08-2026",
             "nav": "54.96600"

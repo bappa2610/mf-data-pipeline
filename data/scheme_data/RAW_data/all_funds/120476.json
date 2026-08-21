@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Medium Duration Fund",
         "scheme_code": 120476,
-        "scheme_name": "Axis Strategic Bond Fund - Direct Plan - Quarterly IDCW",
+        "scheme_name": "Axis Strategic Bond Fund - Direct Plan - Quarterly IDCW Option",
         "isin_growth": "INF846K01DW4",
         "isin_div_reinvestment": "INF846K01DX2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.47510"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.49340"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.49110"

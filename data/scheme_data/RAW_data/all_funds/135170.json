@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Arbitrage Fund",
         "scheme_code": 135170,
-        "scheme_name": "JM Arbitrage Fund (Regular) - Half Yearly IDCW",
+        "scheme_name": "JM Arbitrage Fund - Regular Plan - Half Yearly IDCW Option",
         "isin_growth": "INF192K01KS6",
         "isin_div_reinvestment": "INF192K01KT4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.42660"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "15.43760"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.41410"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 118579,
-        "scheme_name": "Franklin India Liquid Fund - Super Institutional Plan - Direct - Weekly - IDCW",
+        "scheme_name": "Franklin India Liquid Fund - Direct Plan - Super Institutional Weekly IDCW",
         "isin_growth": "INF090I01JX8",
         "isin_div_reinvestment": "INF090I01JY6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1022.58580"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1022.44360"
+        },
         {
             "date": "18-08-2026",
             "nav": "1022.27030"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Focused Fund",
         "scheme_code": 131580,
-        "scheme_name": "360 ONE Focused Fund-Direct Plan-Growth",
+        "scheme_name": "360 ONE Focused Fund - Direct Plan - GROWTH Option",
         "isin_growth": "INF579M01902",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "56.38880"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "55.94090"
+        },
         {
             "date": "18-08-2026",
             "nav": "55.96950"

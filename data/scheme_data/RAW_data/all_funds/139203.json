@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Corporate Bond Fund",
         "scheme_code": 139203,
-        "scheme_name": "BANDHAN Corporate Bond Fund - Regular Half Yearly IDCW",
+        "scheme_name": "BANDHAN Corporate Bond Fund - Regular Plan - Half Yearly IDCW",
         "isin_growth": "INF194KA1R85",
         "isin_div_reinvestment": "INF194KA1R93"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.23720"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.25750"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.25620"

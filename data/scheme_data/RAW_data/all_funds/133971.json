@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Banking and PSU Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Banking and PSU Debt Fund",
         "scheme_code": 133971,
         "scheme_name": "UTI Banking & PSU Fund - Regular Plan - Flexi IDCW",
         "isin_growth": "INF789FA1U61",
         "isin_div_reinvestment": "INF789FA1U79"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.71830"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "15.72610"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.72290"

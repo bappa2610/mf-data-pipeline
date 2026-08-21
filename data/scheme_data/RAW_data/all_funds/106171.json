@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Corporate Bond Fund",
         "scheme_code": 106171,
-        "scheme_name": "Invesco India Corporate Bond Fund - Regular Plan - Monthly IDCW (Payout / Reinvestment)",
+        "scheme_name": "Invesco India Corporate Bond Fund - Regular Plan - Monthly IDCW",
         "isin_growth": "INF205K01RN2",
         "isin_div_reinvestment": "INF205K01RO0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1929.47930"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1933.34800"
+        },
         {
             "date": "18-08-2026",
             "nav": "1932.90250"

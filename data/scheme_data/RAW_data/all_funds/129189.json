@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Overseas Fund of Funds - Fund of Funds investing overseas",
         "scheme_code": 129189,
-        "scheme_name": "Invesco India - Invesco Global Equity Income Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment)",
+        "scheme_name": "Invesco India - Invesco Global Equity Income Fund of Fund - Regular Plan - IDCW",
         "isin_growth": "INF205K01B23",
         "isin_div_reinvestment": "INF205K01B31"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "38.91400"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "38.68050"
+        },
         {
             "date": "18-08-2026",
             "nav": "38.85810"

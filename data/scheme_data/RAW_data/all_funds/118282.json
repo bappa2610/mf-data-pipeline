@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Medium to Long Duration Fund",
         "scheme_code": 118282,
-        "scheme_name": "CANARA ROBECO INCOME FUND - DIRECT PLAN - GROWTH OPTION",
+        "scheme_name": "Canara Robeco Income Fund - Direct Plan - GROWTH OPTION",
         "isin_growth": "INF760K01FI1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "64.85530"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "64.96940"
+        },
         {
             "date": "18-08-2026",
             "nav": "64.96980"

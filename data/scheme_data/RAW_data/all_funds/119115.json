@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Gilt Fund",
         "scheme_code": 119115,
-        "scheme_name": "HDFC Gilt Fund - IDCW Option - Direct Plan",
+        "scheme_name": "HDFC Gilt Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF179K01VR2",
         "isin_div_reinvestment": "INF179K01VT8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.11710"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.16710"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.16170"

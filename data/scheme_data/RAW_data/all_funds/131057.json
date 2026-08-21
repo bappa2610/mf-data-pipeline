@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Gilt Fund with 10 year constant duration",
         "scheme_code": 131057,
-        "scheme_name": "ICICI Prudential Constant Maturity Gilt Fund - quarterly IDCW",
+        "scheme_name": "ICICI Prudential Constant Maturity Gilt Fund - Regular Plan - Quarterly IDCW",
         "isin_growth": "INF109KA1N61",
         "isin_div_reinvestment": "INF109KA1O03"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.62070"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.65260"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.64970"

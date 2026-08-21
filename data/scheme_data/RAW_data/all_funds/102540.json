@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Low Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short to Short Term Fund",
         "scheme_code": 102540,
-        "scheme_name": "UTI Low Duration Fund - Discontinued Growth Option",
+        "scheme_name": "UTI Low Duration Fund - Regular Plan - Discontinued Growth",
         "isin_growth": "INF789F01331",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "6730.22030"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "6734.02750"
+        },
         {
             "date": "18-08-2026",
             "nav": "6732.85180"

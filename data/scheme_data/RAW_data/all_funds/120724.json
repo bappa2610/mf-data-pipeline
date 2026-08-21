@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Solution Oriented Scheme - Children\u2019s Fund",
         "scheme_code": 120724,
-        "scheme_name": "UTI Children's Equity Fund - Direct Plan - Growth Option",
+        "scheme_name": "UTI Children's Equity Fund - Direct Plan - Growth",
         "isin_growth": "INF789F1AZV0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "92.29460"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "91.76380"
+        },
         {
             "date": "18-08-2026",
             "nav": "92.03540"

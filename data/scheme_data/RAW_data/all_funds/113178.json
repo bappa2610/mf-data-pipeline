@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Small Cap Fund",
         "scheme_code": 113178,
-        "scheme_name": "Nippon India Small Cap Fund - Growth Plan - Bonus Option",
+        "scheme_name": "Nippon India Small Cap Fund - Regular Plan - Bonus Option",
         "isin_growth": "INF204K01HZ0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "186.23500"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "185.08730"
+        },
         {
             "date": "18-08-2026",
             "nav": "186.06600"

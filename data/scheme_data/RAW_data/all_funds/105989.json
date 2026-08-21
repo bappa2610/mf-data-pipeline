@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Small Cap Fund",
         "scheme_code": 105989,
-        "scheme_name": "DSP Small Cap Fund - Regular - Growth",
+        "scheme_name": "DSP Small Cap Fund - Regular Plan - Growth",
         "isin_growth": "INF740K01797",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "231.47400"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "230.13200"
+        },
         {
             "date": "18-08-2026",
             "nav": "230.58700"

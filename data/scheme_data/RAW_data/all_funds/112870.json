@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Conservative Hybrid Fund",
         "scheme_code": 112870,
-        "scheme_name": "Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Regular Plan -Income Distribution cum Capital Withdrawal (IDCW)",
+        "scheme_name": "Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) - Regular Plan - IDCW (Income Distribution CUM Capital Withdrawal)",
         "isin_growth": "INF903J01HD6",
         "isin_div_reinvestment": "INF903J01HG9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "18.47520"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "18.47070"
+        },
         {
             "date": "18-08-2026",
             "nav": "18.47830"

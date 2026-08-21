@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 125595,
-        "scheme_name": "Aditya Birla Sun Life Banking and Financial Services Fund - Regular Plan - Growth",
+        "scheme_name": "Aditya Birla Sun Life Banking and Financial Services Fund - Regular Plan - GROWTH",
         "isin_growth": "INF209K011W7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "63.69000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "63.18000"
+        },
         {
             "date": "18-08-2026",
             "nav": "63.33000"

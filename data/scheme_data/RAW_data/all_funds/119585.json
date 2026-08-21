@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large Cap Fund",
         "scheme_code": 119585,
-        "scheme_name": "SBI Large Cap Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI Large Cap Fund - Direct Plan - IDCW",
         "isin_growth": "INF200K01QV8",
         "isin_div_reinvestment": "INF200K01QW6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "68.08100"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "67.77980"
+        },
         {
             "date": "18-08-2026",
             "nav": "67.97900"

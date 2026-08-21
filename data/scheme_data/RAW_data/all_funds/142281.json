@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Arbitrage Fund",
         "scheme_code": 142281,
-        "scheme_name": "DSP Arbitrage Fund - Direct - IDCW - Monthly",
+        "scheme_name": "DSP Arbitrage fund - Direct Plan - Monthly IDCW",
         "isin_growth": "INF740KA1DQ7",
         "isin_div_reinvestment": "INF740KA1DR5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.28000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.29200"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.27100"

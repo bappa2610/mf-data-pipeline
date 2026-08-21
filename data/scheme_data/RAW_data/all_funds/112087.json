@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Arbitrage Fund",
         "scheme_code": 112087,
-        "scheme_name": "Aditya Birla Sun Life Arbitrage Fund-Regular - IDCW",
+        "scheme_name": "ADITYA BIRLA SUN LIFE ARBITRAGE FUND - Regular Plan - IDCW-Re-investment",
         "isin_growth": "INF209K01256",
         "isin_div_reinvestment": "INF209K01CI6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.07080"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.07930"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.06290"

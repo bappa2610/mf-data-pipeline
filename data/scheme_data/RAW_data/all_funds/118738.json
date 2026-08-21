@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
         "scheme_code": 118738,
-        "scheme_name": "NIPPON INDIA BALANCED ADVANTAGE FUND - DIRECT Plan - IDCW Option",
+        "scheme_name": "Nippon India Balanced Advantage Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF204K01G78",
         "isin_div_reinvestment": "INF204K01G86"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "46.28710"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "46.09010"
+        },
         {
             "date": "18-08-2026",
             "nav": "46.18630"

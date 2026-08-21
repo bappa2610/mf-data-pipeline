@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Equity Savings",
         "scheme_code": 134600,
-        "scheme_name": "NIPPON INDIA EQUITY SAVINGS FUND - QUARTERLY IDCW Option",
+        "scheme_name": "Nippon India Equity Savings Fund (Existing number of Segregated Portfolios - 2) - Regular Plan - QUARTERLY IDCW Option",
         "isin_growth": "INF204KA1W36",
         "isin_div_reinvestment": "INF204KA1W44"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.90510"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.88660"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.90120"

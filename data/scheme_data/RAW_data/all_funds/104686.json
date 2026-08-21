@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
         "scheme_code": 104686,
-        "scheme_name": "ICICI Prudential Balanced Advantage Fund - IDCW",
+        "scheme_name": "ICICI Prudential Balanced Advantage Fund - Regular Plan - IDCW",
         "isin_growth": "INF109K01EG8",
         "isin_div_reinvestment": "INF109K01BG4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "18.68000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "18.61000"
+        },
         {
             "date": "18-08-2026",
             "nav": "18.63000"

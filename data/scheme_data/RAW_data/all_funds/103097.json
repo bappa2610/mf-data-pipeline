@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Value Fund",
+        "scheme_category": "Equity Schemes - Value Fund",
         "scheme_code": 103097,
         "scheme_name": "UTI Value Fund - Regular Plan - IDCW",
         "isin_growth": "INF789F01AE0",
         "isin_div_reinvestment": "INF789F01AF7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "48.85050"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "48.52020"
+        },
         {
             "date": "18-08-2026",
             "nav": "48.66060"

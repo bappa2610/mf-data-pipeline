@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 139891,
-        "scheme_name": "Franklin India Liquid Fund - Unclaimed Redemption Investor Education Plan - Growth",
+        "scheme_name": "Franklin India Liquid Fund - Regular Plan - Unclaimed Redemption Investor Education Plan - Growth",
         "isin_growth": "INF090I01LQ8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.00000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.00000"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.00000"

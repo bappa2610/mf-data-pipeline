@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Credit Risk Fund",
         "scheme_code": 114240,
-        "scheme_name": "ICICI Prudential Credit Risk Fund - Quarterly IDCW",
+        "scheme_name": "ICICI Prudential Credit Risk Fund - Regular Plan - Quarterly IDCW",
         "isin_growth": "INF109K01GV2",
         "isin_div_reinvestment": "INF109K01GW0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.41080"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.42320"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.42040"

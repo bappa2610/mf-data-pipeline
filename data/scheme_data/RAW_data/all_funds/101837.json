@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Credit Risk Fund",
         "scheme_code": 101837,
-        "scheme_name": "DSP Credit Risk Fund - Regular Plan -Growth",
+        "scheme_name": "DSP Credit Risk Fund - Regular Plan - Growth",
         "isin_growth": "INF740K01599",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "55.07250"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "55.13790"
+        },
         {
             "date": "18-08-2026",
             "nav": "55.13020"

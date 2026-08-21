@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
         "scheme_code": 143496,
-        "scheme_name": "NIPPON INDIA ULTRA SHORT DURATION FUND - QUARTERLY IDCW Option",
+        "scheme_name": "Nippon India Ultra Short Duration Fund - Regular Plan - QUARTERLY IDCW Option",
         "isin_growth": "INF204K01UH1",
         "isin_div_reinvestment": "INF204K01UI9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1019.43490"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1019.80130"
+        },
         {
             "date": "18-08-2026",
             "nav": "1019.65050"

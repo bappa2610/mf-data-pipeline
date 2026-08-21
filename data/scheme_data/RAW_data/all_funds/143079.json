@@ -4,11 +4,19 @@
         "scheme_type": "Close Ended Schemes",
         "scheme_category": "ELSS",
         "scheme_code": 143079,
-        "scheme_name": "Sundaram Long Term Tax Advantage Fund Series IV Direct Plan - Growth",
+        "scheme_name": "Sundaram Long Term Tax Advantage Fund Series IV",
         "isin_growth": "INF903JA1CZ6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "38.33370"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "38.02000"
+        },
         {
             "date": "18-08-2026",
             "nav": "38.36130"

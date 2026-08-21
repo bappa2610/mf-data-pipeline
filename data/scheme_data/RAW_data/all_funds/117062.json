@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Credit Risk Fund",
         "scheme_code": 117062,
-        "scheme_name": "DSP Credit Risk Fund - Regular Plan - IDCW - Quarterly ",
+        "scheme_name": "DSP Credit Risk Fund - Regular Plan - Quarterly IDCW",
         "isin_growth": "INF740K01JY2",
         "isin_div_reinvestment": "INF740K01JX4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.55500"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.56880"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.56720"

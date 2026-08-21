@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Medium to Long Duration Fund",
         "scheme_code": 120431,
-        "scheme_name": "JM Medium to Long Duration Fund (Direct) - Quarterly IDCW",
+        "scheme_name": "JM Medium to Long Duration Fund - Direct Plan - Quarterly IDCW Option",
         "isin_growth": "INF192K01CU9",
         "isin_div_reinvestment": "INF192K01CV7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "25.56770"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "25.61990"
+        },
         {
             "date": "18-08-2026",
             "nav": "25.61550"

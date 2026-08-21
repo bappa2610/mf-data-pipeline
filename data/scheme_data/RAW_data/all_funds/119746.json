@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Money Market Fund",
         "scheme_code": 119746,
-        "scheme_name": "Kotak Money Market Fund - (Growth) - Direct",
+        "scheme_name": "Kotak Money Market Fund - Direct Plan - (Growth)",
         "isin_growth": "INF174K01MW2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "4879.10980"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "4881.16740"
+        },
         {
             "date": "18-08-2026",
             "nav": "4880.30730"

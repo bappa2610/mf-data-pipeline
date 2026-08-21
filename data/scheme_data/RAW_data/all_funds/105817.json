@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Focused Fund",
         "scheme_code": 105817,
-        "scheme_name": "Franklin India Focused Equity Fund - Growth Plan",
+        "scheme_name": "Franklin India Focused Equity Fund - Regular Plan - Growth",
         "isin_growth": "INF090I01981",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "102.89750"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "102.20730"
+        },
         {
             "date": "18-08-2026",
             "nav": "102.39380"

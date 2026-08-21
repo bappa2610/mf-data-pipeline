@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 112152,
-        "scheme_name": "CANARA ROBECO CONSUMPTION FUND - REGULAR PLAN - GROWTH OPTION",
+        "scheme_name": "Canara Robeco Consumption Fund - Regular Plan - GROWTH OPTION",
         "isin_growth": "INF760K01241",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "110.39000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "109.53000"
+        },
         {
             "date": "18-08-2026",
             "nav": "109.60000"

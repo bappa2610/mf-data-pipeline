@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Credit Risk Fund",
         "scheme_code": 130723,
-        "scheme_name": "Invesco India Credit Risk Fund - Regular Plan - Monthly IDCW (Payout / Reinvestment)",
+        "scheme_name": "Invesco India Credit Risk Fund - Regular Plan - Monthly IDCW",
         "isin_growth": "INF205K01I42",
         "isin_div_reinvestment": "INF205K01I67"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1193.28330"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1194.72960"
+        },
         {
             "date": "18-08-2026",
             "nav": "1194.34280"

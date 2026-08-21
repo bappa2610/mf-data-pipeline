@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
         "scheme_code": 141642,
-        "scheme_name": "Axis Balanced Advantage Fund - Direct Plan - Growth",
+        "scheme_name": "Axis Balanced Advantage Fund - Direct Plan - Growth Option",
         "isin_growth": "INF846K01A29",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "24.48000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "24.40000"
+        },
         {
             "date": "18-08-2026",
             "nav": "24.43000"

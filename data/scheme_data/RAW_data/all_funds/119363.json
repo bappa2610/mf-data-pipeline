@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 119363,
-        "scheme_name": "BANK OF INDIA Manufacturing & Infrastructure Fund-Direct Plan-Regular IDCW",
+        "scheme_name": "BANK OF INDIA MANUFACTURING & INFRASTRUCTURE FUND - Direct Plan - IDCW",
         "isin_growth": "INF761K01694",
         "isin_div_reinvestment": "INF761K01686"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "75.78000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "75.39000"
+        },
         {
             "date": "18-08-2026",
             "nav": "76.01000"

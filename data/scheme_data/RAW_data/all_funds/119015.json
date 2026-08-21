@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Short Duration Fund",
         "scheme_code": 119015,
-        "scheme_name": "HDFC Short Term  Debt Fund - Fortnightly IDCW - Direct Plan",
+        "scheme_name": "HDFC Short Term Debt Fund - Direct Plan - Fortnightly IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.28520"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.30180"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.30010"

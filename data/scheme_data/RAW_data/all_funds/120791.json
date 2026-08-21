@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Gilt Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Gilt Fund",
         "scheme_code": 120791,
-        "scheme_name": "UTI Gilt Fund - Direct Plan - IDCW",
+        "scheme_name": "UTI - Gilt Fund - Direct Plan - IDCW",
         "isin_growth": "INF789F01TJ9",
         "isin_div_reinvestment": "INF789F01TK7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "31.72080"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "31.80270"
+        },
         {
             "date": "18-08-2026",
             "nav": "31.81200"

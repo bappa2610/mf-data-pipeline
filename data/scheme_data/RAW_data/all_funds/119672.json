@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Medium Duration Fund",
         "scheme_code": 119672,
-        "scheme_name": "Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) Direct Plan-Income Distribution cum Capital Withdrawal (IDCW)",
+        "scheme_name": "Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) - Direct Plan - IDCW (Income Distribution CUM Capital Withdrawal)",
         "isin_growth": "INF903J01PK4",
         "isin_div_reinvestment": "INF903J01PL2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "27.18200"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "27.22420"
+        },
         {
             "date": "18-08-2026",
             "nav": "27.21450"

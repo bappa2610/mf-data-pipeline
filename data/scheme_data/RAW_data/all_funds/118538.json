@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 118538,
-        "scheme_name": "Franklin INDIA OPPORTUNITIES FUND - Direct - IDCW ",
+        "scheme_name": "Franklin India Opportunities Fund - Direct Plan - IDCW",
         "isin_growth": "INF090I01GD6",
         "isin_div_reinvestment": "INF090I01GE4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "43.71810"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "43.65430"
+        },
         {
             "date": "18-08-2026",
             "nav": "43.84330"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
         "scheme_code": 118315,
-        "scheme_name": "CANARA ROBECO ULTRA SHORT TERM FUND - DIRECT PLAN - DAILY IDCW (Reinvestment)",
+        "scheme_name": "Canara Robeco Ultra Short Term Fund - Direct Plan - DAILY IDCW (Reinvestment)",
         "isin_growth": null,
         "isin_div_reinvestment": "INF760K01GL3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1240.22730"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1240.71000"
+        },
         {
             "date": "18-08-2026",
             "nav": "1240.71000"

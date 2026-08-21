@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Conservative Hybrid Fund",
+        "scheme_category": "Hybrid Schemes - Conservative Hybrid Fund",
         "scheme_code": 102536,
         "scheme_name": "UTI Conservative Hybrid Fund - Regular Plan - Monthly IDCW",
         "isin_growth": "INF789F01901",
         "isin_div_reinvestment": "INF789F01919"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "16.93640"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "16.93880"
+        },
         {
             "date": "18-08-2026",
             "nav": "16.95010"

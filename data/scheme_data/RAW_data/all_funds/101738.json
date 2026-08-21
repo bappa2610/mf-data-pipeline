@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Dividend Yield Fund",
         "scheme_code": 101738,
-        "scheme_name": "Aditya Birla Sun Life Dividend Yield Fund - Growth - Regular Plan",
+        "scheme_name": "Aditya Birla Sun Life Dividend Yield Fund - Regular Plan - GROWTH",
         "isin_growth": "INF209K01405",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "463.82000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "460.47000"
+        },
         {
             "date": "18-08-2026",
             "nav": "462.01000"

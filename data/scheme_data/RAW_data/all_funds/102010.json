@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
         "scheme_code": 102010,
-        "scheme_name": "UTI Liquid Fund - Regular Plan - Daily IDCW (Reinvestment)",
+        "scheme_name": "UTI - Liquid Fund - Regular Plan - Daily IDCW (Reinvestment)",
         "isin_growth": null,
         "isin_div_reinvestment": "INF789F1AF77"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "120.88910"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "120.88060"
+        },
         {
             "date": "18-08-2026",
             "nav": "120.86090"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 120407,
-        "scheme_name": "JM Liquid Fund (Direct) - Weekly IDCW",
+        "scheme_name": "JM Liquid Fund - Direct Plan - Weekly IDCW Option",
         "isin_growth": "INF192K01CI4",
         "isin_div_reinvestment": "INF192K01CJ2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.00820"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.00760"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.00600"

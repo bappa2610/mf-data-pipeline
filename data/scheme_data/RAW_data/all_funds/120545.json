@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 120545,
-        "scheme_name": "Aditya Birla Sun Life Gold Fund-DIRECT - IDCW",
+        "scheme_name": "Aditya Birla Sun Life Gold Fund - Direct Plan - IDCW",
         "isin_growth": "INF209K01YT7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "46.93900"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "45.90160"
+        },
         {
             "date": "18-08-2026",
             "nav": "46.14480"

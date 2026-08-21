@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 115676,
-        "scheme_name": "SBI GOLD FUND REGULAR PLAN - GROWTH",
+        "scheme_name": "SBI GOLD FUND - Regular Plan - Growth",
         "isin_growth": "INF200K01HA1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "45.41570"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "44.29920"
+        },
         {
             "date": "18-08-2026",
             "nav": "44.51830"

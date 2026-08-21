@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Flexi Cap Fund",
         "scheme_code": 100476,
-        "scheme_name": "Taurus Flexi Cap Fund - Regular Plan - Growth ",
+        "scheme_name": "Taurus Flexi Cap Fund - Regular Plan - Growth",
         "isin_growth": "INF044D01989",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "21-08-2026",
+            "nav": "237.66000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "235.80000"
+        },
         {
             "date": "18-08-2026",
             "nav": "236.44000"

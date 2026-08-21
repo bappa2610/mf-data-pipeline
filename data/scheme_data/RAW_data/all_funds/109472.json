@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Corporate Bond Fund",
         "scheme_code": 109472,
-        "scheme_name": "NIPPON INDIA CORPORATE BOND FUND - DAILY IDCW Option",
+        "scheme_name": "Nippon India Corporate Bond Fund - Regular Plan - DAILY IDCW Option",
         "isin_growth": null,
         "isin_div_reinvestment": "INF204K01EG7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "17.04670"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "17.07670"
+        },
         {
             "date": "18-08-2026",
             "nav": "17.07430"

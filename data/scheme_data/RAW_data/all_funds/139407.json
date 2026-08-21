@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Banking and PSU Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Banking and PSU Debt Fund",
         "scheme_code": 139407,
-        "scheme_name": "UTI Banking & PSU Fund - Regular Plan - Half-Yearly IDCW",
+        "scheme_name": "UTI Banking & PSU Fund - Regular Plan - Half yearly IDCW",
         "isin_growth": "INF789FA1U20",
         "isin_div_reinvestment": "INF789FA1U38"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.65230"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "15.66020"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.65700"

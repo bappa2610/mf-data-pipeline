@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 118760,
-        "scheme_name": "NIPPON INDIA POWER & INFRA FUND - DIRECT Plan - IDCW Option",
+        "scheme_name": "Nippon India Power & Infra Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF204K01I76",
         "isin_div_reinvestment": "INF204K01I84"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "77.34960"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "77.06000"
+        },
         {
             "date": "18-08-2026",
             "nav": "77.69100"

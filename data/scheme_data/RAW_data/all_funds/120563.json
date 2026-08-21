@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 120563,
-        "scheme_name": "Invesco India Short Duration Fund - Direct Plan -Discretionary IDCW (Payout / Reinvestment)",
+        "scheme_name": "Invesco India Short Duration Fund - Direct Plan - Discretionary IDCW",
         "isin_growth": "INF205K01UF2",
         "isin_div_reinvestment": "INF205K01UG0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "2960.71320"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "2966.00370"
+        },
         {
             "date": "18-08-2026",
             "nav": "2965.44600"

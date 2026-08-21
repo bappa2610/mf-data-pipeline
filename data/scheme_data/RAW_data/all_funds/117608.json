@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 117608,
-        "scheme_name": "Quantum Multi Asset Active FOF - Direct Plan Growth Option",
+        "scheme_name": "Quantum Multi Asset Active FOF - Direct Plan - Growth Option",
         "isin_growth": "INF082J01168",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "37.94070"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "37.63950"
+        },
         {
             "date": "18-08-2026",
             "nav": "37.72010"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Small Cap Fund",
         "scheme_code": 125350,
-        "scheme_name": "Axis Small Cap Fund - Regular Plan - Growth",
+        "scheme_name": "Axis Small Cap Fund - Regular Plan - Growth Option",
         "isin_growth": "INF846K01K01",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "118.11000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "117.36000"
+        },
         {
             "date": "18-08-2026",
             "nav": "117.75000"

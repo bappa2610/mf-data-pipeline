@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 105418,
-        "scheme_name": "Taurus Infrastructure Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option",
+        "scheme_name": "Taurus Infrastructure Fund - Regular Plan - Income Distribution cum Capital Withdrawal",
         "isin_growth": "INF044D01872",
         "isin_div_reinvestment": "INF044D01880"
     },
     "data": [
+        {
+            "date": "21-08-2026",
+            "nav": "59.65000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "59.32000"
+        },
         {
             "date": "18-08-2026",
             "nav": "59.78000"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Dynamic Term Fund",
         "scheme_code": 145590,
-        "scheme_name": "Groww Dynamic Term Fund (formerly known as Indiabulls Dynamic Bond Fund) - Regular Plan - Growth option",
+        "scheme_name": "Groww Dynamic Term Fund - Regular Plan - Growth",
         "isin_growth": "INF666M01ES8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1498.86660"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1501.08650"
+        },
         {
             "date": "18-08-2026",
             "nav": "1500.78440"

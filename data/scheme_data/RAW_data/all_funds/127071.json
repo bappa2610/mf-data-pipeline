@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Overseas Fund of Funds - Fund of Funds investing overseas",
         "scheme_code": 127071,
-        "scheme_name": "HSBC Asia Pacific (Ex Japan) Dividend Yield Fund - Growth Direct",
+        "scheme_name": "HSBC Asia Pacific (Ex Japan) Dividend Yield Fund - Direct Plan - Growth",
         "isin_growth": "INF336L01HF0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "39.51340"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "38.96420"
+        },
         {
             "date": "18-08-2026",
             "nav": "39.51010"

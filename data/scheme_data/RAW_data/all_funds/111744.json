@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Low Duration Fund",
         "scheme_code": 111744,
-        "scheme_name": "NIPPON INDIA LOW DURATION FUND - RETAIL Plan - DAILY IDCW Option",
+        "scheme_name": "Nippon India Low Duration Fund - Regular Plan - RETAIL Plan - DAILY IDCW Option",
         "isin_growth": null,
         "isin_div_reinvestment": "INF204K01EP8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1011.59270"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1012.23630"
+        },
         {
             "date": "18-08-2026",
             "nav": "1012.20690"

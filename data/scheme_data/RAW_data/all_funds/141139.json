@@ -4,11 +4,19 @@
         "scheme_type": "Close Ended Schemes",
         "scheme_category": "ELSS",
         "scheme_code": 141139,
-        "scheme_name": "Sundaram Long Term Micro Cap Tax Advantage Fund Series V Regular Plan - Growth",
+        "scheme_name": "SUNDARAM LONG TERM MICRO CAP TAX ADVANTAGE SERIES V",
         "isin_growth": "INF903JA1930",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "31.17810"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "30.89650"
+        },
         {
             "date": "18-08-2026",
             "nav": "31.17470"

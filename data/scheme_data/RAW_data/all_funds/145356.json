@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 145356,
-        "scheme_name": "Mahindra Manulife Consumption Fund - Direct Plan -Growth",
+        "scheme_name": "Mahindra Manulife Consumption Fund - Direct Plan - Growth",
         "isin_growth": "INF174V01663",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "25.86930"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "25.66270"
+        },
         {
             "date": "18-08-2026",
             "nav": "25.70960"

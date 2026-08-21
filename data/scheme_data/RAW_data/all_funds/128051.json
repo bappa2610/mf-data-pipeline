@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Credit Risk Fund",
         "scheme_code": 128051,
-        "scheme_name": "HDFC Credit Risk Debt Fund - Growth Option - Direct Plan",
+        "scheme_name": "HDFC Credit Risk Debt Fund - Direct Plan - Growth Option",
         "isin_growth": "INF179KA1FZ3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "28.29200"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "28.34030"
+        },
         {
             "date": "18-08-2026",
             "nav": "28.32510"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Money Market Fund",
         "scheme_code": 114348,
-        "scheme_name": "SBI Savings Fund - Regular Plan Daily Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI SAVINGS FUND - Regular Plan - IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF200KA1K20"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "14.45560"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "14.46230"
+        },
         {
             "date": "18-08-2026",
             "nav": "14.45970"

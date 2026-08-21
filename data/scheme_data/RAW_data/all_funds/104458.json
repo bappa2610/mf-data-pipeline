@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Arbitrage Fund",
         "scheme_code": 104458,
-        "scheme_name": "SBI Arbitrage Opportunities Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI ARBITRAGE OPPORTUNITIES FUND - Regular Plan - IDCW",
         "isin_growth": "INF200K01131",
         "isin_div_reinvestment": "INF200K01149"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "18.99030"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "19.00470"
+        },
         {
             "date": "18-08-2026",
             "nav": "18.97780"

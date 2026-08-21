@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Dynamic Bond",
         "scheme_code": 120452,
-        "scheme_name": "Axis Dynamic Bond Fund - Direct Plan - Quarterly IDCW",
+        "scheme_name": "Axis Dynamic Bond Fund - Direct Plan - Quarterly IDCW Option",
         "isin_growth": "INF846K01DL7",
         "isin_div_reinvestment": "INF846K01DM5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.56960"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.59530"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.59140"

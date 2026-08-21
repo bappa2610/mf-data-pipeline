@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 140437,
-        "scheme_name": "Navi Liquid Fund-Unclaimed Redemption and Dividend Plan greater than 3 years",
+        "scheme_name": "Navi Liquid Fund - Direct Plan - Unclaimed Redemption and Dividend Plan less than 3 years",
         "isin_growth": "INF959L01CO2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.00000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.00000"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.00000"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Low Duration Fund",
         "scheme_code": 106216,
-        "scheme_name": "SBI Low Duration Fund - Regular Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI LOW DURATION FUND - Regular Plan - IDCW",
         "isin_growth": "INF200K01MP9",
         "isin_div_reinvestment": "INF200K01MQ7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1631.76800"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1632.85590"
+        },
         {
             "date": "18-08-2026",
             "nav": "1632.50990"

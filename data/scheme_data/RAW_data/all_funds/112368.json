@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Invesco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Schemes - Value Fund",
+        "scheme_category": "Exchange Traded Funds (ETFs) - Gold ETF",
         "scheme_code": 112368,
-        "scheme_name": "Invesco India Gold Exchange Traded Fund",
+        "scheme_name": "Invesco India Gold Exchange Traded Fund - Regular Plan - Growth",
         "isin_growth": "INF205KA1BP1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "135.44020"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "132.41060"
+        },
         {
             "date": "18-08-2026",
             "nav": "132.91030"

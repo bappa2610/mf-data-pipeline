@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 125345,
-        "scheme_name": "360 ONE LIQUID FUND DIRECT PLAN  GROWTH",
+        "scheme_name": "360 ONE Liquid Fund - Direct Plan - GROWTH Option",
         "isin_growth": "INF579M01621",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "2165.20220"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "2164.94660"
+        },
         {
             "date": "18-08-2026",
             "nav": "2164.60330"

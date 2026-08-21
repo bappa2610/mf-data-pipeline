@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
         "scheme_code": 124305,
-        "scheme_name": "Motilal Oswal Ultra Short Term Fund Regular - IDCW Quarterly Payout/Reinvestment",
+        "scheme_name": "Motilal Oswal Ultra Short Term Fund",
         "isin_growth": "INF247L01338",
         "isin_div_reinvestment": "INF247L01312"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.90840"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.91240"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.91060"

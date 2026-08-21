@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Arbitrage Fund",
         "scheme_code": 138887,
-        "scheme_name": "PGIM India Arbitrage Fund - Regular Plan - Regular Dividend",
+        "scheme_name": "PGIM India Arbitrage Fund - Regular Plan - Regular IDCW",
         "isin_growth": "INF223J019L8",
         "isin_div_reinvestment": "INF223J013M9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.74540"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.75070"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.74610"

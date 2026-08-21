@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 119595,
-        "scheme_name": "Sundaram Consumption Fund (Formerly Known as Sundaram Rural and Consumption Fund Direct Plan - Growth)",
+        "scheme_name": "Sundaram Consumption Fund (Formerly Known as Sundaram Rural and Consumption Fund) - Direct Plan - GROWTH",
         "isin_growth": "INF903J01NH5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "108.57370"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "107.71350"
+        },
         {
             "date": "18-08-2026",
             "nav": "107.64970"

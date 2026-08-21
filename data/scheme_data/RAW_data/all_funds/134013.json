@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 134013,
-        "scheme_name": "SBI Nifty Next 50 ETF",
+        "scheme_name": "SBI Nifty Next 50 ETF - Regular Plan - IDCW",
         "isin_growth": "INF200KA1598",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "795.93080"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "792.77520"
+        },
         {
             "date": "18-08-2026",
             "nav": "797.15030"

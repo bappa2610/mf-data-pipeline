@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Value Fund",
         "scheme_code": 118782,
-        "scheme_name": "NIPPON INDIA VALUE FUND - DIRECT Plan - IDCW Option",
+        "scheme_name": "Nippon India Value Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF204K01K23",
         "isin_div_reinvestment": "INF204K01K31"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "65.97270"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "65.43980"
+        },
         {
             "date": "18-08-2026",
             "nav": "65.66200"

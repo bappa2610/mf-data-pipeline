@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Long Duration Fund",
         "scheme_code": 143703,
-        "scheme_name": "NIPPON INDIA NIVESH LAKSHYA LONG DURATION FUND - ANNUAL IDCW Option",
+        "scheme_name": "Nippon India Nivesh Lakshya Long Duration Fund - Regular Plan - ANNUAL IDCW Option",
         "isin_growth": "INF204KB1ZK1",
         "isin_div_reinvestment": "INF204KB1ZL9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.07330"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.11440"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.11710"

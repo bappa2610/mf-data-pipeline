@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Schemes - Conservative Hybrid Fund",
         "scheme_code": 102262,
-        "scheme_name": "HSBC Conservative Hybrid Fund - Regular Growth",
+        "scheme_name": "HSBC Conservative Hybrid Fund - Regular Plan - Growth",
         "isin_growth": "INF336L01099",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "63.76460"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "63.85410"
+        },
         {
             "date": "18-08-2026",
             "nav": "63.92180"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Money Market Fund",
         "scheme_code": 120216,
-        "scheme_name": "ICICI Prudential Money Market Fund Option - Direct Plan -  IDCW Others",
+        "scheme_name": "ICICI Prudential Money Market Fund - Direct Plan - IDCW Others",
         "isin_growth": "INF109K01R30",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "189.36930"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "189.44510"
+        },
         {
             "date": "18-08-2026",
             "nav": "189.40860"

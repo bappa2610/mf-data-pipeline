@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
         "scheme_code": 106167,
-        "scheme_name": "CANARA ROBECO EQUITY HYBRID FUND - REGULAR PLAN - MONTHLY IDCW (Payout/Reinvestment)",
+        "scheme_name": "Canara Robeco Equity Hybrid Fund - Regular Plan - MONTHLY IDCW (Payout/Reinvestment)",
         "isin_growth": "INF760K01068",
         "isin_div_reinvestment": "INF760K01076"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "93.07000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "92.77000"
+        },
         {
             "date": "18-08-2026",
             "nav": "93.01000"

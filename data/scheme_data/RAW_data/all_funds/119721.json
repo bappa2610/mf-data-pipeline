@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large & Mid Cap Fund",
         "scheme_code": 119721,
-        "scheme_name": "SBI LARGE & MIDCAP FUND -DIRECT PLAN -Growth",
+        "scheme_name": "SBI LARGE & MIDCAP FUND - Direct Plan - Growth",
         "isin_growth": "INF200K01UJ5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "715.04380"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "713.36900"
+        },
         {
             "date": "18-08-2026",
             "nav": "716.67160"

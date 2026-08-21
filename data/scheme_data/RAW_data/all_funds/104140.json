@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
         "scheme_code": 104140,
-        "scheme_name": "DSP Ultra Short Fund - Regular Plan - IDCW - Daily Reinvest",
+        "scheme_name": "DSP Ultra Short Fund - Regular Plan - Daily IDCW Reinvestment",
         "isin_growth": null,
         "isin_div_reinvestment": "INF740KA1NW4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1005.09410"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1005.49140"
+        },
         {
             "date": "18-08-2026",
             "nav": "1005.49140"

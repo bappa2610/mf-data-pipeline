@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Banking and PSU Fund",
         "scheme_code": 120339,
-        "scheme_name": "LIC MF Banking & PSU Fund-Direct Plan-Monthly IDCW",
+        "scheme_name": "LIC MF Banking & PSU Fund - Direct Plan - Monthly IDCW",
         "isin_growth": "INF767K01GK0",
         "isin_div_reinvestment": "INF767K01GN4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.06160"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "15.08010"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.07710"

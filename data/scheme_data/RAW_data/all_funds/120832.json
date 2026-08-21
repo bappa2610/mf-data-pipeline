@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 120832,
-        "scheme_name": "quant Infrastructure Fund - IDCW Option - Direct Plan",
+        "scheme_name": "Quant Infrastructure Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF966L01705",
         "isin_div_reinvestment": "INF966L01713"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "46.13700"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "46.02370"
+        },
         {
             "date": "18-08-2026",
             "nav": "45.95760"

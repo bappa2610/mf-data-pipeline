@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 103390,
-        "scheme_name": "CANARA ROBECO INFRASTRUCTURE FUND - REGULAR PLAN - GROWTH OPTION",
+        "scheme_name": "Canara Robeco Infrastructure - Regular Plan - GROWTH OPTION",
         "isin_growth": "INF760K01274",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "169.21000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "168.66000"
+        },
         {
             "date": "18-08-2026",
             "nav": "170.05000"

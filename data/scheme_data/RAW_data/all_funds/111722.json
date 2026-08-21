@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - ELSS",
         "scheme_code": 111722,
-        "scheme_name": "CANARA ROBECO ELSS TAX SAVER - REGULAR PLAN - GROWTH OPTION",
+        "scheme_name": "Canara Robeco ELSS Tax Saver - Regular Plan - GROWTH OPTION",
         "isin_growth": "INF760K01100",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "181.17000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "180.21000"
+        },
         {
             "date": "18-08-2026",
             "nav": "180.87000"

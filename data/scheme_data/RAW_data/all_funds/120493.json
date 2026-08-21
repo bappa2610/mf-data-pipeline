@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - ELSS",
         "scheme_code": 120493,
-        "scheme_name": "JM ELSS Tax Saver Fund (Direct) - IDCW",
+        "scheme_name": "JM ELSS Tax Saver Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF192K01CD5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "59.80780"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "59.29790"
+        },
         {
             "date": "18-08-2026",
             "nav": "59.42300"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 119517,
-        "scheme_name": "Aditya Birla Sun Life International Equity Fund - Growth - Direct Plan",
+        "scheme_name": "Aditya Birla Sun Life International Equity Fund - Direct Plan - GROWTH",
         "isin_growth": "INF209K01WS3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "57.34870"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "57.56630"
+        },
         {
             "date": "18-08-2026",
             "nav": "57.83230"

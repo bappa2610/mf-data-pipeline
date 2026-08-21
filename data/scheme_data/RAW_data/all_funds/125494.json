@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Small Cap Fund",
         "scheme_code": 125494,
-        "scheme_name": "SBI Small Cap Fund - Regular Plan - Growth",
+        "scheme_name": "SBI SMALL CAP FUND - Regular Plan - Growth",
         "isin_growth": "INF200K01T28",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "186.45670"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "184.74950"
+        },
         {
             "date": "18-08-2026",
             "nav": "185.71100"

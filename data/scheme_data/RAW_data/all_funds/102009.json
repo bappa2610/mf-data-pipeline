@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
         "scheme_code": 102009,
-        "scheme_name": "UTI Liquid Fund - Discontinued - Regular Plan -Growth",
+        "scheme_name": "UTI - Liquid Fund - Regular Plan - Discontinued Growth",
         "isin_growth": "INF789F1AF44",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "416.73880"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "416.70940"
+        },
         {
             "date": "18-08-2026",
             "nav": "416.64140"

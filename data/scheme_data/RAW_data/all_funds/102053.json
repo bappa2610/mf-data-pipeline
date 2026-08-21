@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Medium Duration Fund",
         "scheme_code": 102053,
-        "scheme_name": "SBI MEDIUM DURATION FUND - REGULAR PLAN - GROWTH",
+        "scheme_name": "SBI MEDIUM DURATION FUND - Regular Plan - Growth",
         "isin_growth": "INF200K01719",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "54.86720"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "54.95590"
+        },
         {
             "date": "18-08-2026",
             "nav": "54.93260"

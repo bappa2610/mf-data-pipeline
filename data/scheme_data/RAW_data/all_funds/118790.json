@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 118790,
-        "scheme_name": "NIPPON INDIA INDEX FUND - BSE SENSEX PLAN - DIRECT Plan - QUARTERLY - IDCW Option",
+        "scheme_name": "Nippon India Index Fund - BSE Sensex Plan - Direct Plan - QUARTERLY - IDCW Option",
         "isin_growth": "INF204K01L14",
         "isin_div_reinvestment": "INF204K01L22"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "33.57550"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "33.30400"
+        },
         {
             "date": "18-08-2026",
             "nav": "33.44510"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Medium Duration Fund",
         "scheme_code": 100079,
-        "scheme_name": "DSP Bond Fund - IDCW - Monthly",
+        "scheme_name": "DSP Bond Fund - Regular Plan - Monthly IDCW",
         "isin_growth": "INF740K01573",
         "isin_div_reinvestment": "INF740K01AA1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.17900"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.20310"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.20300"

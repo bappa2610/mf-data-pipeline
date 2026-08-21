@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 135390,
-        "scheme_name": "ICICI Prudential Nifty 50 Index Fund - IDCW Option",
+        "scheme_name": "ICICI Prudential Nifty 50 Index Fund - Regular Plan - IDCW",
         "isin_growth": "INF109KB1NN7",
         "isin_div_reinvestment": "INF109KB1NO5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "32.72750"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "32.52070"
+        },
         {
             "date": "18-08-2026",
             "nav": "32.62440"

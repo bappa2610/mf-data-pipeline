@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
+        "scheme_category": "Hybrid Schemes - Multi Asset Allocation Fund",
         "scheme_code": 120761,
         "scheme_name": "UTI Multi Asset Allocation Fund - Direct Plan - IDCW",
         "isin_growth": "INF789F01VC0",
         "isin_div_reinvestment": "INF789F01VD8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "35.27850"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "34.98140"
+        },
         {
             "date": "18-08-2026",
             "nav": "35.10640"

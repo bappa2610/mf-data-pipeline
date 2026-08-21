@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 120539,
-        "scheme_name": "Aditya Birla Sun Life Digital India Fund - Growth - Direct Plan",
+        "scheme_name": "Aditya Birla Sun Life Digital India Fund - Direct Plan - GROWTH",
         "isin_growth": "INF209K01VF2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "181.14000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "179.53000"
+        },
         {
             "date": "18-08-2026",
             "nav": "178.65000"

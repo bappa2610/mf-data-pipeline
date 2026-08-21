@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Floater Fund",
         "scheme_code": 101048,
-        "scheme_name": "Franklin India Floating Rate Fund - Growth Plan",
+        "scheme_name": "Franklin India Floating Rate Fund - Regular Plan - Growth",
         "isin_growth": "INF090I01LM7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "43.64240"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "43.67420"
+        },
         {
             "date": "18-08-2026",
             "nav": "43.66680"

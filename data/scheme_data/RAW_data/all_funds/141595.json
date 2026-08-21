@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Corporate Bond Fund",
         "scheme_code": 141595,
-        "scheme_name": "Axis Corporate Bond Fund - Regular Plan - Regular IDCW",
+        "scheme_name": "AXIS Corporate Bond Fund - Regular Plan - Regular IDCW Option",
         "isin_growth": "INF846K01A03",
         "isin_div_reinvestment": "INF846K01A11"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "14.03620"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "14.06150"
+        },
         {
             "date": "18-08-2026",
             "nav": "14.05970"

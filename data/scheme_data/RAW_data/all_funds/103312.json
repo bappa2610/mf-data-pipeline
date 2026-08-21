@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 103312,
-        "scheme_name": "ICICI Prudential Exports & Services Fund - Growth",
+        "scheme_name": "ICICI Prudential Exports & Services Fund - Regular Plan - Growth",
         "isin_growth": "INF109K01BB5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "173.02000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "172.41000"
+        },
         {
             "date": "18-08-2026",
             "nav": "172.97000"

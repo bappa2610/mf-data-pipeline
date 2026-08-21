@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
         "scheme_code": 125711,
-        "scheme_name": "Shriram Aggressive Hybrid Fund- Direct Growth",
+        "scheme_name": "Shriram Aggressive Hybrid Fund - Direct Plan - Growth",
         "isin_growth": "INF680P01042",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "37.61800"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "37.42820"
+        },
         {
             "date": "18-08-2026",
             "nav": "37.48570"

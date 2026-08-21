@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Value Fund",
         "scheme_code": 100614,
-        "scheme_name": "Sundaram Value Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW)",
+        "scheme_name": "Sundaram Value Fund - Regular Plan - IDCW (Income Distribution CUM Capital Withdrawal)",
         "isin_growth": "INF903J01512",
         "isin_div_reinvestment": "INF903J01520"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.19410"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "15.07770"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.16240"

@@ -4,11 +4,19 @@
         "scheme_type": "Close Ended Schemes",
         "scheme_category": "ELSS",
         "scheme_code": 141567,
-        "scheme_name": "Sundaram Long Term Micro Cap Tax Advantage Fund Series VI Direct Plan - Payout of Income Distribution cum Capital Withdrawal (IDCW)",
+        "scheme_name": "SUNDARAM LONG TERM MICRO CAP TAX ADVANTAGE FUND SERIES VI",
         "isin_growth": "INF903JA1BA1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "29.88870"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "29.62160"
+        },
         {
             "date": "18-08-2026",
             "nav": "29.88850"

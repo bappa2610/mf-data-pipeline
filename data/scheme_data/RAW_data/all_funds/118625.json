@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
         "scheme_code": 118625,
-        "scheme_name": "Edelweiss Aggressive Hybrid Fund  - Direct Plan - IDCW Option",
+        "scheme_name": "Edelweiss Aggressive Hybrid Fund - Direct Plan - IDCW",
         "isin_growth": "INF754K01CB6",
         "isin_div_reinvestment": "INF754K01CC4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "33.24000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "33.06000"
+        },
         {
             "date": "18-08-2026",
             "nav": "33.14000"

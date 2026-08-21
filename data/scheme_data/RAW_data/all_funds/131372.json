@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Equity Savings",
         "scheme_code": 131372,
-        "scheme_name": "Kotak Equity Savings Fund - Regular - Growth",
+        "scheme_name": "Kotak Equity Savings Fund - Regular Plan - Growth",
         "isin_growth": "INF174K01C78",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "27.71710"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "27.68330"
+        },
         {
             "date": "18-08-2026",
             "nav": "27.68790"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Dynamic Bond",
         "scheme_code": 108561,
-        "scheme_name": "BANDHAN Dynamic Bond Fund - Regular Plan B - Quarterly IDCW",
+        "scheme_name": "BANDHAN Dynamic Bond   Fund - Regular Plan - Quarterly IDCW",
         "isin_growth": "INF194K01QI0",
         "isin_div_reinvestment": "INF194K01QH2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.61190"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.66570"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.67430"

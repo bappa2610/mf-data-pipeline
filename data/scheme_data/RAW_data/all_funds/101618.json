@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Low Duration Fund",
         "scheme_code": 101618,
-        "scheme_name": "ICICI Prudential Savings Fund - Daily IDCW",
+        "scheme_name": "ICICI Prudential Savings Fund - Regular Plan - Daily IDCW",
         "isin_growth": "INF109K01738",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "105.67880"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "105.73580"
+        },
         {
             "date": "18-08-2026",
             "nav": "105.73160"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Medium to Long Duration Fund",
         "scheme_code": 119735,
-        "scheme_name": "Kotak Bond Fund - Growth - Direct",
+        "scheme_name": "Kotak Bond Fund - Direct Plan - Growth",
         "isin_growth": "INF174K01JC0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "91.18040"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "91.41050"
+        },
         {
             "date": "18-08-2026",
             "nav": "91.38750"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Gilt Fund",
         "scheme_code": 119757,
-        "scheme_name": "Kotak Gilt-Investment  Provident Fund and Trust-Growth - Direct",
+        "scheme_name": "Kotak Gilt Fund - Direct Plan - Investment Provident Fund and Trust-Growth",
         "isin_growth": "INF174K01KM7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "114.69780"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "115.01750"
+        },
         {
             "date": "18-08-2026",
             "nav": "115.07070"

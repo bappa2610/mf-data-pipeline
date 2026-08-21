@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
         "scheme_code": 103401,
-        "scheme_name": "SBI Multi Asset Allocation Fund - Regular Plan - Quarterly Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI MULTI ASSET ALLOCATION FUND - Regular Plan - IDCW",
         "isin_growth": "INF200K01834",
         "isin_div_reinvestment": "INF200K01842"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "30.15730"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "29.98630"
+        },
         {
             "date": "18-08-2026",
             "nav": "30.09770"

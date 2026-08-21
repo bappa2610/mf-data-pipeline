@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - ELSS",
         "scheme_code": 135600,
-        "scheme_name": "PGIM India ELSS Tax Saver Fund - Direct Plan - Dividend Option",
+        "scheme_name": "PGIM India ELSS Tax Saver Fund - Direct Plan - Direct IDCW",
         "isin_growth": "INF663L01FO3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "18.15000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "18.05000"
+        },
         {
             "date": "18-08-2026",
             "nav": "18.11000"

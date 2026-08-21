@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Mid Cap Fund",
         "scheme_code": 100472,
-        "scheme_name": "Franklin India Mid Cap Fund - IDCW",
+        "scheme_name": "Franklin India Mid Cap Fund - Regular Plan - IDCW",
         "isin_growth": "INF090I01726",
         "isin_div_reinvestment": "INF090I01734"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "88.83970"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "88.44770"
+        },
         {
             "date": "18-08-2026",
             "nav": "88.72110"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large & Mid Cap Fund",
         "scheme_code": 140172,
-        "scheme_name": "Edelweiss Large & Mid Cap Fund - Regular Plan - Growth Option",
+        "scheme_name": "Edelweiss Large & Mid Cap Fund - Regular Plan - Growth",
         "isin_growth": "INF843K01047",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "91.89800"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "91.29900"
+        },
         {
             "date": "18-08-2026",
             "nav": "91.81800"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Flexi Cap Fund",
         "scheme_code": 118534,
-        "scheme_name": "Franklin India Flexi Cap Fund - Direct - IDCW ",
+        "scheme_name": "Franklin India Flexi Cap Fund - Direct Plan - IDCW",
         "isin_growth": "INF090I01FL1",
         "isin_div_reinvestment": "INF090I01FM9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "70.36460"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "69.97710"
+        },
         {
             "date": "18-08-2026",
             "nav": "70.21460"

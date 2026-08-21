@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 140176,
-        "scheme_name": "Edelweiss Liquid Fund - Retail Plan - Growth Option",
+        "scheme_name": "Edelweiss Liquid Fund",
         "isin_growth": "INF754K01HE9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "3256.90930"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "3256.57260"
+        },
         {
             "date": "18-08-2026",
             "nav": "3256.02960"

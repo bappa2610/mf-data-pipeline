@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 115834,
-        "scheme_name": "ICICI Prudential Gold ETF FOF - IDCW",
+        "scheme_name": "ICICI Prudential Gold ETF FOF - Regular Plan - IDCW",
         "isin_growth": "INF109K01TM4",
         "isin_div_reinvestment": "INF109K01TL6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "48.03490"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "46.77410"
+        },
         {
             "date": "18-08-2026",
             "nav": "47.05110"

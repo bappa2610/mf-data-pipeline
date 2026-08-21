@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Low Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short to Short Term Fund",
         "scheme_code": 102538,
-        "scheme_name": "UTI Low Duration Fund - Discontinued - Annaul Dividend Option",
+        "scheme_name": "UTI Low Duration Fund - Regular Plan - Discontinued Annual IDCW",
         "isin_growth": "INF789F01OK8",
         "isin_div_reinvestment": "INF789F01OL6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "3616.28140"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "3618.32710"
+        },
         {
             "date": "18-08-2026",
             "nav": "3617.69530"

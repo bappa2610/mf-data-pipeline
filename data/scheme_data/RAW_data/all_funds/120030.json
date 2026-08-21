@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Large Cap Fund",
         "scheme_code": 120030,
-        "scheme_name": "HSBC Large Cap Fund - Direct Growth",
+        "scheme_name": "HSBC Large Cap Fund - Direct Plan - Growth",
         "isin_growth": "INF336L01CM7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "541.73190"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "537.80970"
+        },
         {
             "date": "18-08-2026",
             "nav": "539.38440"

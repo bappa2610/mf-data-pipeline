@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
         "scheme_code": 118624,
-        "scheme_name": "Edelweiss Aggressive Hybrid Fund-Direct Plan-Growth Option",
+        "scheme_name": "Edelweiss Aggressive Hybrid Fund - Direct Plan - growth",
         "isin_growth": "INF754K01CE0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "77.12000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "76.70000"
+        },
         {
             "date": "18-08-2026",
             "nav": "76.89000"

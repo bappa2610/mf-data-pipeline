@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Equity Savings",
         "scheme_code": 136565,
-        "scheme_name": "DSP Equity Savings Fund - Regular Plan - IDCW - Monthly",
+        "scheme_name": "DSP Equity Savings Fund - Regular Plan - Monthly IDCW",
         "isin_growth": "INF740KA1462",
         "isin_div_reinvestment": "INF740KA1470"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.49100"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.47700"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.48200"

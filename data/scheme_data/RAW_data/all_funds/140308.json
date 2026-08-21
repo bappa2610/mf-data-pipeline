@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Gilt Fund",
         "scheme_code": 140308,
-        "scheme_name": "Edelweiss Government Securities Fund - Direct Plan Monthly - IDCW Option",
+        "scheme_name": "Edelweiss Government Securities Fund - Direct Plan - Monthly IDCW",
         "isin_growth": "INF843K01GZ7",
         "isin_div_reinvestment": "INF843K01GY0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "16.59480"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "16.65500"
+        },
         {
             "date": "18-08-2026",
             "nav": "16.66170"

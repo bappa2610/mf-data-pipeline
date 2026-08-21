@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 145551,
-        "scheme_name": "Motilal Oswal Nasdaq 100 Fund of Fund- Regular Plan Growth",
+        "scheme_name": "Motilal Oswal Nasdaq 100 Fund of Fund",
         "isin_growth": "INF247L01700",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "67.79580"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "68.90170"
+        },
         {
             "date": "18-08-2026",
             "nav": "68.89230"

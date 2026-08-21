@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 118483,
-        "scheme_name": "BANDHAN Nifty 50 Index Fund-Direct Plan-IDCW",
+        "scheme_name": "BANDHAN Nifty 50 Index Fund - Direct Plan - IDCW",
         "isin_growth": "INF194K013A6",
         "isin_div_reinvestment": "INF194K014A4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "49.34320"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "49.03120"
+        },
         {
             "date": "18-08-2026",
             "nav": "49.18710"

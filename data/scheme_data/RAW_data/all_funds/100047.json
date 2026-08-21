@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 100047,
-        "scheme_name": "Aditya Birla Sun Life Liquid Fund - Growth",
+        "scheme_name": "Aditya Birla Sun Life Liquid Fund - Regular Plan - GROWTH",
         "isin_growth": "INF209K01RU9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "451.11590"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "451.06110"
+        },
         {
             "date": "18-08-2026",
             "nav": "450.98380"

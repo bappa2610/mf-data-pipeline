@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Flexi Cap Fund",
         "scheme_code": 118884,
-        "scheme_name": "Taurus Flexi Cap Fund - Direct Plan -  Payout of Income Distribution cum Capital Withdrawal option",
+        "scheme_name": "Taurus Flexi Cap Fund - Direct Plan - Income Distribution cum Capital Withdrawal",
         "isin_growth": "INF044D01BV7",
         "isin_div_reinvestment": "INF044D01BW5"
     },
     "data": [
+        {
+            "date": "21-08-2026",
+            "nav": "124.84000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "123.86000"
+        },
         {
             "date": "18-08-2026",
             "nav": "124.19000"

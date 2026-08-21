@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Dynamic Bond",
         "scheme_code": 131397,
-        "scheme_name": "BANDHAN Dynamic Bond Fund - Regular Plan B - Periodic IDCW",
+        "scheme_name": "BANDHAN Dynamic Bond Fund - Regular Plan - Periodic IDCW",
         "isin_growth": "INF194KA1TM3",
         "isin_div_reinvestment": "INF194KA1TN1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "14.21610"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "14.28210"
+        },
         {
             "date": "18-08-2026",
             "nav": "14.29250"

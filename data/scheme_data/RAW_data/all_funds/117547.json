@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 117547,
-        "scheme_name": "Baroda BNP Paribas Banking and Financial Services Fund - Regular - IDCW Option",
+        "scheme_name": "Baroda BNP Paribas Banking and Financial Services Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF955L01831",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "20.64310"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "20.48230"
+        },
         {
             "date": "18-08-2026",
             "nav": "20.50500"

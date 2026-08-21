@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Arbitrage Fund",
         "scheme_code": 135172,
-        "scheme_name": "JM Arbitrage Fund (Direct) - Monthly IDCW",
+        "scheme_name": "JM Arbitrage Fund - Direct Plan - Monthly IDCW Option",
         "isin_growth": "INF192K01KM9",
         "isin_div_reinvestment": "INF192K01KN7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.04320"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "15.05360"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.03040"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Arbitrage Fund",
         "scheme_code": 112088,
-        "scheme_name": "Aditya BIRLA SUN LIFE ARBITRAGE FUND - REGULAR PLAN - GROWTH",
+        "scheme_name": "ADITYA BIRLA SUN LIFE ARBITRAGE FUND - Regular Plan - GROWTH",
         "isin_growth": "INF209K01264",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "28.34870"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "28.37050"
+        },
         {
             "date": "18-08-2026",
             "nav": "28.32850"

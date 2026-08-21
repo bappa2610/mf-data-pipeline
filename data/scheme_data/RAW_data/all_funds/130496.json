@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large & Mid Cap Fund",
         "scheme_code": 130496,
-        "scheme_name": "HDFC Large and Mid Cap Fund - Growth Option",
+        "scheme_name": "HDFC Large and Mid Cap Fund - Regular Plan - Growth Option",
         "isin_growth": "INF179KA1RT1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "352.20400"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "350.51200"
+        },
         {
             "date": "18-08-2026",
             "nav": "351.72900"

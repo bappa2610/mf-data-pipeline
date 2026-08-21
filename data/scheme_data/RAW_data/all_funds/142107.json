@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Mid Cap Fund",
         "scheme_code": 142107,
-        "scheme_name": "Mahindra Manulife Mid Cap Fund- Regular Plan - IDCW",
+        "scheme_name": "Mahindra Manulife Mid Cap Fund - Regular Plan - IDCW",
         "isin_growth": "INF174V01499",
         "isin_div_reinvestment": "INF174V01481"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "27.36620"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "27.22810"
+        },
         {
             "date": "18-08-2026",
             "nav": "27.35930"

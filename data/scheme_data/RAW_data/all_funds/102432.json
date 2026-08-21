@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 102432,
-        "scheme_name": "Nippon India Pharma Fund-Growth Plan-Bonus Option",
+        "scheme_name": "Nippon India Pharma Fund - Regular Plan - Bonus Option",
         "isin_growth": "INF204K01950",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "571.12130"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "570.46460"
+        },
         {
             "date": "18-08-2026",
             "nav": "572.08450"

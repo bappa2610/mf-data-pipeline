@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Value Fund",
         "scheme_code": 100254,
-        "scheme_name": "JM Value Fund (Regular) - Growth Option",
+        "scheme_name": "JM Value Fund - Regular Plan - Growth Option",
         "isin_growth": "INF137A01037",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "98.06150"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "97.08240"
+        },
         {
             "date": "18-08-2026",
             "nav": "97.54410"

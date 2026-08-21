@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 118469,
-        "scheme_name": "BANDHAN Infrastructure Fund-Direct Plan-Growth",
+        "scheme_name": "BANDHAN Infrastructure Fund - Direct Plan - Growth",
         "isin_growth": "INF194K01X46",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "58.35500"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "58.23100"
+        },
         {
             "date": "18-08-2026",
             "nav": "58.68500"

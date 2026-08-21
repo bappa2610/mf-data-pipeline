@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Flexi Cap Fund",
         "scheme_code": 109831,
-        "scheme_name": "quant Flexi Cap Fund - IDCW Option - Regular Plan",
+        "scheme_name": "Quant Flexi Cap Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF966L01432",
         "isin_div_reinvestment": "INF966L01440"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "78.08670"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "78.03450"
+        },
         {
             "date": "18-08-2026",
             "nav": "78.24000"

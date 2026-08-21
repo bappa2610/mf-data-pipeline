@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Banking and PSU Fund",
         "scheme_code": 140294,
-        "scheme_name": "Edelweiss Banking and PSU Debt Fund - Regular Plan Fortnightly - IDCW Option",
+        "scheme_name": "Edelweiss Banking and PSU Debt Fund - Regular Plan - Fortnightly IDCW",
         "isin_growth": "INF843K01FO3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.86000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.87370"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.87020"

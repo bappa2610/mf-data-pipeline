@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - ELSS",
         "scheme_code": 120270,
-        "scheme_name": "LIC MF ELSS Tax Saver-Direct Plan-Growth",
+        "scheme_name": "LIC MF ELSS Tax Saver - Direct Plan - Growth",
         "isin_growth": "INF767K01EM1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "173.28210"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "172.17260"
+        },
         {
             "date": "18-08-2026",
             "nav": "172.96530"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
         "scheme_code": 120818,
-        "scheme_name": "quant Aggressive Hybrid Fund-IDCW Option-Direct Plan",
+        "scheme_name": "Quant Aggressive Hybrid Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF966L01531",
         "isin_div_reinvestment": "INF966L01549"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "70.95350"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "70.88070"
+        },
         {
             "date": "18-08-2026",
             "nav": "71.16160"

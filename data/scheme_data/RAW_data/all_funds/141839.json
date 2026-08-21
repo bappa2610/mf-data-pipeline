@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 141839,
-        "scheme_name": "ICICI Prudential BSE Sensex Index Fund - Cumulative Option",
+        "scheme_name": "ICICI Prudential BSE Sensex Index Fund - Regular Plan - Cumulative",
         "isin_growth": "INF109KB17W7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "25.55830"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "25.35160"
+        },
         {
             "date": "18-08-2026",
             "nav": "25.45910"

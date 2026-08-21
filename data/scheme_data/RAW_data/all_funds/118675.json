@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large & Mid Cap Fund",
         "scheme_code": 118675,
-        "scheme_name": "Nippon India Vision Large & Mid Cap Fund - Direct Plan Growth Plan - Bonus Option",
+        "scheme_name": "Nippon India Vision Large & Mid Cap Fund - Direct Plan - Bonus Option",
         "isin_growth": "INF204K01E96",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "279.76830"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "278.41560"
+        },
         {
             "date": "18-08-2026",
             "nav": "278.86670"

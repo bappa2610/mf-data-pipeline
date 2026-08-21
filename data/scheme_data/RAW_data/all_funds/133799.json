@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 133799,
-        "scheme_name": "Kotak Infrastructure & Economic Reform Fund - Standard Plan-Payout of Income Distribution cum capital withdrawal option",
+        "scheme_name": "Kotak Infrastructure and Economic Reform Fund - Regular Plan - ayout of Income Distribution cum capital withdrawal option",
         "isin_growth": "INF178L01079",
         "isin_div_reinvestment": "INF178L01087"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "56.45600"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "56.17900"
+        },
         {
             "date": "18-08-2026",
             "nav": "56.69700"

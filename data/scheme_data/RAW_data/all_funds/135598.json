@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - ELSS",
         "scheme_code": 135598,
-        "scheme_name": "PGIM India ELSS Tax Saver Fund - Regular Plan - Growth Option",
+        "scheme_name": "PGIM India ELSS Tax Saver Fund - Regular Plan - Regular Growth",
         "isin_growth": "INF663L01FQ8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "35.16000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "34.98000"
+        },
         {
             "date": "18-08-2026",
             "nav": "35.08000"

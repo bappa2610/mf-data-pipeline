@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Banking and PSU Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Banking and PSU Debt Fund",
         "scheme_code": 134026,
         "scheme_name": "UTI Banking & PSU Fund - Direct Plan - Monthly IDCW",
         "isin_growth": "INF789FC1HE1",
         "isin_div_reinvestment": "INF789FC1HF8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.70320"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.70990"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.70710"

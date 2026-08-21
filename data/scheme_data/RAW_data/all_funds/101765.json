@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Value Fund",
         "scheme_code": 101765,
-        "scheme_name": "HDFC Value Fund - IDCW Plan",
+        "scheme_name": "HDFC Value Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF179K01400",
         "isin_div_reinvestment": "INF179K01418"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "37.28500"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "37.04300"
+        },
         {
             "date": "18-08-2026",
             "nav": "37.20800"

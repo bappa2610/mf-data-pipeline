@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 119708,
-        "scheme_name": "SBI ESG Exclusionary Strategy Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI ESG Exclusionary Strategy Fund - Direct Plan - IDCW",
         "isin_growth": "INF200K01SC4",
         "isin_div_reinvestment": "INF200K01SD2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "95.75760"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "95.06410"
+        },
         {
             "date": "18-08-2026",
             "nav": "95.39570"

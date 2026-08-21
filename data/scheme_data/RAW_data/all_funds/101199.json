@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 101199,
-        "scheme_name": "LIC MF BSE Sensex Index Fund-Regular Plan-Growth",
+        "scheme_name": "LIC MF BSE Sensex Index Fund - Regular Plan - Growth",
         "isin_growth": "INF767K01139",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "145.25920"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "144.09180"
+        },
         {
             "date": "18-08-2026",
             "nav": "144.70470"

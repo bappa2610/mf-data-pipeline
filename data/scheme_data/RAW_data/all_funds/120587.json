@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 120587,
-        "scheme_name": "ICICI Prudential FMCG Fund - Direct Plan -  Growth",
+        "scheme_name": "ICICI Prudential FMCG Fund - Direct Plan - Growth",
         "isin_growth": "INF109K01Z14",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "456.43000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "453.24000"
+        },
         {
             "date": "18-08-2026",
             "nav": "454.81000"

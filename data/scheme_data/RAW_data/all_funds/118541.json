@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - ELSS",
         "scheme_code": 118541,
-        "scheme_name": "Franklin India ELSS Tax Saver Fund - Direct - IDCW",
+        "scheme_name": "Franklin India ELSS Tax Saver Fund - Direct Plan - IDCW",
         "isin_growth": "INF090I01JT6",
         "isin_div_reinvestment": "INF090I01JU4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "71.17130"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "70.77070"
+        },
         {
             "date": "18-08-2026",
             "nav": "71.01250"

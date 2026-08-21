@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Medium Duration Fund",
         "scheme_code": 128079,
-        "scheme_name": "Kotak Medium Term Fund - Direct - Standard Income Distribution cum capital withdrawal option",
+        "scheme_name": "Kotak Medium Term Fund - Direct Plan - Standard Income Distribution cum capital withdrawal optio",
         "isin_growth": "INF174K01VS1",
         "isin_div_reinvestment": "INF174K01VU7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "27.54000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "27.59140"
+        },
         {
             "date": "18-08-2026",
             "nav": "27.58970"

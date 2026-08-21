@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 102133,
-        "scheme_name": "ICICI Prudential Multi Sector Passive FOF - Growth",
+        "scheme_name": "ICICI Prudential Multi Sector Passive FOF - Regular Plan - Growth",
         "isin_growth": "INF109K01795",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "170.45520"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "169.43880"
+        },
         {
             "date": "18-08-2026",
             "nav": "170.28670"

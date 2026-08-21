@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 103151,
-        "scheme_name": "Franklin India Opportunities Fund - Growth",
+        "scheme_name": "Franklin India Opportunities Fund - Regular Plan - Growth",
         "isin_growth": "INF090I01841",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "268.18370"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "267.80100"
+        },
         {
             "date": "18-08-2026",
             "nav": "268.96890"

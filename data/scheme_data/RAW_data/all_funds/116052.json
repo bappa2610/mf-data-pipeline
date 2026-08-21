@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - ELSS",
         "scheme_code": 116052,
-        "scheme_name": "Union ELSS Tax Saver Fund - IDCW Option",
+        "scheme_name": "Union ELSS Tax Saver Fund (Formerly Union Tax Saver (ELSS) Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF582M01328",
         "isin_div_reinvestment": "INF582M01310"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "37.40000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "37.13000"
+        },
         {
             "date": "18-08-2026",
             "nav": "37.37000"

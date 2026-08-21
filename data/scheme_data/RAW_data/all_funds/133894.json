@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Short Duration Fund",
         "scheme_code": 133894,
-        "scheme_name": "Axis Short Duration Fund - Direct Plan - Regular IDCW",
+        "scheme_name": "Axis Short Duration Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF846K01RH5",
         "isin_div_reinvestment": "INF846K01RI3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "22.15730"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "22.18660"
+        },
         {
             "date": "18-08-2026",
             "nav": "22.18620"

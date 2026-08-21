@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large Cap Fund",
         "scheme_code": 114457,
-        "scheme_name": "Kotak Large Cap Fund - Payout of Income Distribution cumcapital withdrawal option",
+        "scheme_name": "Kotak Large Cap Fund - Regular Plan - Payout of Income Distribution cum capital withdrawal option",
         "isin_growth": "INF174K01179",
         "isin_div_reinvestment": "INF174K01161"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "73.88400"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "73.51300"
+        },
         {
             "date": "18-08-2026",
             "nav": "73.86500"

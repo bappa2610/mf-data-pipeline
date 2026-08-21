@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Schemes - Aggressive Hybrid Fund",
         "scheme_code": 145608,
-        "scheme_name": "Groww Aggressive Hybrid Fund (formerly known as Indiabulls Equity Hybrid Fund)- Regular Plan- Half Yearly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment)",
+        "scheme_name": "Groww Aggressive Hybrid Fund - Regular Plan - Half Yearly - Income Distribution cum capital withdrawal",
         "isin_growth": "INF666M01FQ9",
         "isin_div_reinvestment": "INF666M01FR7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "20.78170"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "20.67800"
+        },
         {
             "date": "18-08-2026",
             "nav": "20.70700"

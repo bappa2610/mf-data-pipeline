@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Value Fund",
         "scheme_code": 120485,
-        "scheme_name": "JM Value Fund (Direct) - IDCW",
+        "scheme_name": "JM Value Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF192K01BR7",
         "isin_div_reinvestment": "INF192K01BS5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "76.01120"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "75.24990"
+        },
         {
             "date": "18-08-2026",
             "nav": "75.60530"

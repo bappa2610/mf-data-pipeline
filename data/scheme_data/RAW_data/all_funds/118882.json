@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 118882,
-        "scheme_name": "Taurus Nifty 50 Index Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option",
+        "scheme_name": "Taurus Nifty 50 Index Fund - Direct Plan - Income Distribution cum Capital Withdrawal",
         "isin_growth": "INF044D01CR3",
         "isin_div_reinvestment": "INF044D01CS1"
     },
     "data": [
+        {
+            "date": "21-08-2026",
+            "nav": "46.12490"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "45.79950"
+        },
         {
             "date": "18-08-2026",
             "nav": "45.94480"

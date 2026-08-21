@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
         "scheme_code": 144194,
-        "scheme_name": "BANDHAN ULTRA SHORT DURATION FUND - REGULAR PLAN MONTHLY IDCW",
+        "scheme_name": "BANDHAN ULTRA SHORT DURATION FUND - Regular Plan - Monthly IDCW",
         "isin_growth": "INF194KA15Q7",
         "isin_div_reinvestment": "INF194KA16Q5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.07790"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.08240"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.08080"

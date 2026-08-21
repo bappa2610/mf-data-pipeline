@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Short Duration Fund",
         "scheme_code": 101844,
-        "scheme_name": "Aditya Birla Sun Life Short Term Fund - Growth - Regular Plan",
+        "scheme_name": "Aditya Birla Sun Life Short Term Fund - Regular Plan - GROWTH",
         "isin_growth": "INF209K01942",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "50.64170"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "50.72770"
+        },
         {
             "date": "18-08-2026",
             "nav": "50.71350"

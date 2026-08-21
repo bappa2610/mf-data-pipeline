@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Contra Fund",
         "scheme_code": 105459,
-        "scheme_name": "Invesco India Contra Fund - Regular Plan - IDCW (Payout / Reinvestment)",
+        "scheme_name": "Invesco India Contra Fund - Regular Plan - IDCW",
         "isin_growth": "INF205K01205",
         "isin_div_reinvestment": "INF205K01197"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "50.31000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "49.92000"
+        },
         {
             "date": "18-08-2026",
             "nav": "50.04000"

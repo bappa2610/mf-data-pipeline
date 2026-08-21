@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Dynamic Bond",
         "scheme_code": 122712,
-        "scheme_name": "360 ONE Dynamic Bond Fund Regular Plan Quarterly Dividend",
+        "scheme_name": "360 ONE Dynamic Bond Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF579M01217",
         "isin_div_reinvestment": "INF579M01241"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "23.37290"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "23.41510"
+        },
         {
             "date": "18-08-2026",
             "nav": "23.41800"

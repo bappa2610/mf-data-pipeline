@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Dynamic Bond",
         "scheme_code": 120086,
-        "scheme_name": "PGIM India Dynamic Bond Fund - Direct Plan-Quarterly Dividend Option",
+        "scheme_name": "PGIM India Dynamic Bond Fund - Direct Plan - Direct IDCW",
         "isin_growth": "INF663L01AI6",
         "isin_div_reinvestment": "INF663L01AH8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1166.40330"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1168.90370"
+        },
         {
             "date": "18-08-2026",
             "nav": "1168.82460"

@@ -4,11 +4,19 @@
         "scheme_type": "Interval Fund Schemes",
         "scheme_category": "Income",
         "scheme_code": 105689,
-        "scheme_name": "Nippon India Interval Fund-Quarterly Interval Fund Series-II-Growth Option",
+        "scheme_name": "Nippon India Interval Fund-Quarterly Interval Fund Serie-II - Regular Plan - Growth Option",
         "isin_growth": "INF204K01DN5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "38.41380"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "38.40930"
+        },
         {
             "date": "18-08-2026",
             "nav": "38.40330"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Money Market Fund",
         "scheme_code": 140235,
-        "scheme_name": "Edelweiss Money Market Fund - Direct Plan - IDCW Option",
+        "scheme_name": "Edelweiss Money Market Fund - Direct Plan - IDCW",
         "isin_growth": "INF843K01CF8",
         "isin_div_reinvestment": "INF843K01CG6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "29.64790"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "29.66000"
+        },
         {
             "date": "18-08-2026",
             "nav": "29.65460"

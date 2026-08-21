@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Banking and PSU Fund",
         "scheme_code": 120256,
-        "scheme_name": "ICICI Prudential Banking and PSU Debt Fund - Direct Plan -  Growth",
+        "scheme_name": "ICICI Prudential Banking & PSU Debt Fund - Direct Plan - Growth",
         "isin_growth": "INF109K010A6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "36.48640"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "36.54230"
+        },
         {
             "date": "18-08-2026",
             "nav": "36.53090"

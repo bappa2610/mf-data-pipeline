@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Arbitrage Fund",
         "scheme_code": 143618,
-        "scheme_name": "BANK OF INDIA Arbitrage Fund Regular Plan IDCW Monthly IDCW",
+        "scheme_name": "BANK OF INDIA ARBITRAGE FUND - Regular Plan - Monthly IDCW",
         "isin_growth": "INF761K01DX3",
         "isin_div_reinvestment": "INF761K01DY1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.28110"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.29930"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.27450"

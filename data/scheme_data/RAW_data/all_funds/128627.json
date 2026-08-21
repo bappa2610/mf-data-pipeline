@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Banking and PSU Fund",
         "scheme_code": 128627,
-        "scheme_name": "HDFC Banking and PSU Debt Fund - IDCW Option",
+        "scheme_name": "HDFC Banking and PSU Debt Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF179KA1JD2",
         "isin_div_reinvestment": "INF179KA1JE0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.11340"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.13260"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.12880"

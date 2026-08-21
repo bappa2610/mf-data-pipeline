@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 119596,
-        "scheme_name": "Sundaram Financial Services Opportunities Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW)",
+        "scheme_name": "Sundaram Financial Services Opportunities Fund - Direct Plan - IDCW (Income Distribution CUM Capital Withdrawal)",
         "isin_growth": "INF903J01MZ9",
         "isin_div_reinvestment": "INF903J01NA0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "34.13700"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "33.82640"
+        },
         {
             "date": "18-08-2026",
             "nav": "33.89600"

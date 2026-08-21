@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 112957,
-        "scheme_name": "ICICI Prudential Nifty Next 50 Index Fund - Growth",
+        "scheme_name": "ICICI Prudential Nifty Next 50 Index Fund - Regular Plan - Growth",
         "isin_growth": "INF109K01IF1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "65.25470"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "64.99730"
+        },
         {
             "date": "18-08-2026",
             "nav": "65.35710"

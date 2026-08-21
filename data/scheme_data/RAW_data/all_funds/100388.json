@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Medium to Long Duration Fund",
         "scheme_code": 100388,
-        "scheme_name": "Nippon India Medium to Long Duration  Fund - Growth Plan Bonus Option",
+        "scheme_name": "Nippon India Medium to Long Duration Fund - Regular Plan - Bonus Option",
         "isin_growth": "INF204K01CM9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "26.83210"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "26.88410"
+        },
         {
             "date": "18-08-2026",
             "nav": "26.88420"

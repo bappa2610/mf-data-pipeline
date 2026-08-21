@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Overseas",
         "scheme_code": 140273,
-        "scheme_name": "Edelweiss US Value Equity Offshore Fund - Regular Plan - Growth Option",
+        "scheme_name": "Edelweiss US Value Equity Offshore Fund - Regular Plan - Growth",
         "isin_growth": "INF843K01ED9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "44.65510"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "45.01780"
+        },
         {
             "date": "18-08-2026",
             "nav": "44.69510"

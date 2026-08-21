@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - ELSS",
         "scheme_code": 119352,
-        "scheme_name": "BANK OF INDIA ELSS Tax Saver -Direct Plan-IDCW",
+        "scheme_name": "BANK OF INDIA ELSS TAX SAVER - Direct Plan - IDCW",
         "isin_growth": "INF761K01876",
         "isin_div_reinvestment": "INF761K01868"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "79.09000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "78.41000"
+        },
         {
             "date": "18-08-2026",
             "nav": "78.82000"

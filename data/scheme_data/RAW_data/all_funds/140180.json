@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 140180,
-        "scheme_name": "Edelweiss Liquid Fund - Retail Plan Monthly - IDCW Option",
+        "scheme_name": "Edelweiss Liquid Fund",
         "isin_growth": null,
         "isin_div_reinvestment": "INF754K01HI0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1249.14890"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1249.01950"
+        },
         {
             "date": "18-08-2026",
             "nav": "1248.81110"

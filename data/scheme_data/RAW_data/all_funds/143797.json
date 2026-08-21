@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Flexi Cap Fund",
         "scheme_code": 143797,
-        "scheme_name": "NAVI FLEXI CAP FUND - DIRECT PLAN HALF YEARLY IDCW PAYOUT",
+        "scheme_name": "Navi Flexi Cap Fund - Direct Plan - IDCW PAYOUT",
         "isin_growth": "INF959L01EA7",
         "isin_div_reinvestment": "INF959L01EB5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "29.47850"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "29.28070"
+        },
         {
             "date": "18-08-2026",
             "nav": "29.35720"

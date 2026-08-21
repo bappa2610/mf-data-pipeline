@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
         "scheme_code": 145400,
-        "scheme_name": "ICICI Prudential Ultra Short Term Fund - Direct Plan - Weekly IDCW",
+        "scheme_name": "ICICI Prudential Ultra Short term Fund - Direct Plan - Weekly IDCW",
         "isin_growth": "INF109KC1NA3",
         "isin_div_reinvestment": "INF109KC1MZ2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.08330"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.08680"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.08540"

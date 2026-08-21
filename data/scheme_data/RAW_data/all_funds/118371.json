@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Low Duration Fund",
         "scheme_code": 118371,
-        "scheme_name": "BANDHAN Low Duration Fund-Direct Plan-Growth",
+        "scheme_name": "BANDHAN LOW DURATION FUND - Direct Plan - Growth",
         "isin_growth": "INF194K01J77",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "42.38580"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "42.41260"
+        },
         {
             "date": "18-08-2026",
             "nav": "42.40590"

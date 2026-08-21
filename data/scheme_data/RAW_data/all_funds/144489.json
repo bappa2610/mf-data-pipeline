@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Equity Savings",
+        "scheme_category": "Hybrid Schemes - Equity Savings Fund",
         "scheme_code": 144489,
-        "scheme_name": "UTI Equity Savings Fund - Direct Plan - Monthly IDCW",
+        "scheme_name": "UTI - Equity Savings Fund - Direct Plan - Monthly IDCW",
         "isin_growth": "INF789F1A819",
         "isin_div_reinvestment": "INF789F1A801"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "20.42010"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "20.39550"
+        },
         {
             "date": "18-08-2026",
             "nav": "20.40350"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Corporate Bond Fund",
         "scheme_code": 100530,
-        "scheme_name": "Franklin India Corporate Debt Fund - Plan B - Quarterly - IDCW",
+        "scheme_name": "Franklin India Corporate Debt Fund - Regular Plan - Quarterly IDCW",
         "isin_growth": "INF090I01DL6",
         "isin_div_reinvestment": "INF090I01DM4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.06900"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.07930"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.07820"

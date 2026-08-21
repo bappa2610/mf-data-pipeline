@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Money Market Fund",
         "scheme_code": 108756,
-        "scheme_name": "BANDHAN Money Market Fund - Regular Plan - Growth",
+        "scheme_name": "Bandhan Money Market  Fund - Regular Plan - Growth",
         "isin_growth": "INF194K01LJ9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "43.29560"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "43.31600"
+        },
         {
             "date": "18-08-2026",
             "nav": "43.30800"

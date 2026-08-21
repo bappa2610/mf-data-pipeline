@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
         "scheme_code": 120777,
-        "scheme_name": "UTI Liquid Fund - Direct Plan - Weekly IDCW",
+        "scheme_name": "UTI - Liquid Fund - Direct Plan - Weekly IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF789F1AD79"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "105.84450"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "105.83680"
+        },
         {
             "date": "18-08-2026",
             "nav": "105.94780"

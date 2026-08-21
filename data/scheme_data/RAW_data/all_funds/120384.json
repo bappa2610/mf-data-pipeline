@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Sectoral Fund",
         "scheme_code": 120384,
-        "scheme_name": "Invesco India Financial Services Fund - Direct Plan - IDCW (Payout / Reinvestment)",
+        "scheme_name": "Invesco India Financial Services Fund - Direct Plan - IDCW",
         "isin_growth": "INF205K01KW8",
         "isin_div_reinvestment": "INF205K01KX6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "92.37000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "91.67000"
+        },
         {
             "date": "18-08-2026",
             "nav": "91.89000"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Focused Fund",
         "scheme_code": 103309,
-        "scheme_name": "Aditya Birla Sun Life Focused Fund -Growth Option",
+        "scheme_name": "Aditya Birla Sun Life Focused Fund - Regular Plan - GROWTH",
         "isin_growth": "INF209K01462",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "149.48160"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "148.28800"
+        },
         {
             "date": "18-08-2026",
             "nav": "148.78780"

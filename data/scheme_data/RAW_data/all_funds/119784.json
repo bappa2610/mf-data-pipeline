@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
         "scheme_code": 119784,
-        "scheme_name": "SBI Ultra Short Duration Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI ULTRA SHORT DURATION FUND - Direct Plan - IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF200K01TG3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "2441.23990"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "2442.00440"
+        },
         {
             "date": "18-08-2026",
             "nav": "2441.59510"

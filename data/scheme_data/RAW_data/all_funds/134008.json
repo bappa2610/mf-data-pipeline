@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 134008,
-        "scheme_name": "SBI Nifty Bank ETF",
+        "scheme_name": "SBI Nifty Bank ETF - Regular Plan - IDCW",
         "isin_growth": "INF200KA1580",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "591.47590"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "588.84840"
+        },
         {
             "date": "18-08-2026",
             "nav": "589.08420"

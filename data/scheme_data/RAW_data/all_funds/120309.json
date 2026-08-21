@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 120309,
-        "scheme_name": "LIC MF Nifty 50 Index Fund-Direct Plan-IDCW",
+        "scheme_name": "LIC MF Nifty 50 Index Fund - Direct Plan - IDCW",
         "isin_growth": "INF767K01FG0",
         "isin_div_reinvestment": "INF767K01FH8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "53.51500"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "53.17730"
+        },
         {
             "date": "18-08-2026",
             "nav": "53.34680"

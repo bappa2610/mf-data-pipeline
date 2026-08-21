@@ -1,14 +1,22 @@
 {
     "meta": {
         "fund_house": "UTI Mutual Fund",
-        "scheme_type": "IL&FS Mutual Fund",
-        "scheme_category": "IDF",
+        "scheme_type": "Close Ended Schemes",
+        "scheme_category": "Income/Debt Oriented Schemes - Other Debt Scheme",
         "scheme_code": 106183,
-        "scheme_name": "UTI Annual Interval Fund - I - Regular Plan - Growth Option",
+        "scheme_name": "UTI Annual Interval Fund - I - Regular Plan - Growth",
         "isin_growth": "INF789F01FG4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "36.40780"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "36.40300"
+        },
         {
             "date": "18-08-2026",
             "nav": "36.39830"

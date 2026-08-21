@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Credit Risk Fund",
         "scheme_code": 112941,
-        "scheme_name": "NIPPON INDIA CREDIT RISK FUND - QUARTERLY IDCW Option",
+        "scheme_name": "Nippon India Credit Risk Fund (Existing Number of Segregated Portfolios - 1) - Regular Plan - QUARTERLY IDCW Option",
         "isin_growth": "INF204K01FR1",
         "isin_div_reinvestment": "INF204K01FS9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.15900"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.17600"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.17300"

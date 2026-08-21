@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Arbitrage Fund",
         "scheme_code": 119574,
-        "scheme_name": "SBI Arbitrage Opportunities Fund - Direct Plan - Gr",
+        "scheme_name": "SBI ARBITRAGE OPPORTUNITIES FUND - Direct Plan - Growth",
         "isin_growth": "INF200K01QU0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "38.61170"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "38.64060"
+        },
         {
             "date": "18-08-2026",
             "nav": "38.58520"

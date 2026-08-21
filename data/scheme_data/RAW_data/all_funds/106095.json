@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 106095,
-        "scheme_name": "SBI Infrastructure Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI INFRASTRUCTURE FUND - Regular Plan - IDCW",
         "isin_growth": "INF200K01CU0",
         "isin_div_reinvestment": "INF200K01CV8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "45.09370"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "44.95490"
+        },
         {
             "date": "18-08-2026",
             "nav": "45.35110"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - ELSS",
         "scheme_code": 111639,
-        "scheme_name": "Edelweiss ELSS Tax Saver Fund - Regular Plan - IDCW Option",
+        "scheme_name": "Edelweiss ELSS Tax Saver Fund - Regular Plan - IDCW",
         "isin_growth": "INF754K01525",
         "isin_div_reinvestment": "INF754K01541"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "31.58000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "31.35000"
+        },
         {
             "date": "18-08-2026",
             "nav": "31.50000"

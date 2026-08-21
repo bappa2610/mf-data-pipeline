@@ -4,11 +4,19 @@
         "scheme_type": "Close Ended Schemes",
         "scheme_category": "ELSS",
         "scheme_code": 141952,
-        "scheme_name": "BANK OF INDIA Mid Cap Tax Fund Series 1 Regular Plan Growth",
+        "scheme_name": "BANK OF INDIA MID CAP TAX FUND SERIES 1 - Regular Plan - Growth",
         "isin_growth": "INF761K01DU9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "30.11000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "30.04000"
+        },
         {
             "date": "18-08-2026",
             "nav": "30.16000"

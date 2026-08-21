@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Dynamic Bond",
         "scheme_code": 102851,
-        "scheme_name": "NIPPON INDIA DYNAMIC BOND FUND - IDCW Option",
+        "scheme_name": "Nippon India Dynamic Bond Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF204K01FJ8",
         "isin_div_reinvestment": "INF204K01FK6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "26.58030"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "26.60570"
+        },
         {
             "date": "18-08-2026",
             "nav": "26.59260"

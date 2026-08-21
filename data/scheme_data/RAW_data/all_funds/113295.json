@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 113295,
-        "scheme_name": "NIPPON INDIA INDEX FUND - BSE SENSEX PLAN - ANNUAL - IDCW Option",
+        "scheme_name": "Nippon India Index Fund - BSE Sensex Plan - Regular Plan - ANNUAL IDCW Option",
         "isin_growth": "INF204K01IQ7",
         "isin_div_reinvestment": "INF204K01IT1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "31.29260"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "31.03970"
+        },
         {
             "date": "18-08-2026",
             "nav": "31.17150"

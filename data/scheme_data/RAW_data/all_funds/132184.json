@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 132184,
-        "scheme_name": "Aditya Birla Sun Life Conservative Hybrid Active FOF-Direct - IDCW",
+        "scheme_name": "Aditya Birla Sun Life Conservative Hybrid Active FOF - Direct Plan - IDCW-Re-investment",
         "isin_growth": "INF084M01ER6",
         "isin_div_reinvestment": "INF084M01ES4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "25.91760"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "25.92660"
+        },
         {
             "date": "18-08-2026",
             "nav": "25.93770"

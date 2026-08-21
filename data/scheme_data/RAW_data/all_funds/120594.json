@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 120594,
-        "scheme_name": "ICICI Prudential Technology Fund - Direct Plan -  Growth",
+        "scheme_name": "ICICI Prudential Technology Fund - Direct Plan - Growth",
         "isin_growth": "INF109K01Z48",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "206.16000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "204.51000"
+        },
         {
             "date": "18-08-2026",
             "nav": "203.82000"

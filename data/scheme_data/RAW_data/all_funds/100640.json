@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Medium to Long Duration Fund",
         "scheme_code": 100640,
-        "scheme_name": "SBI Medium to Long Duration Fund-REGULAR PLAN-Bonus",
+        "scheme_name": "SBI MEDIUM TO LONG DURATION FUND - Regular Plan - Bonus",
         "isin_growth": "INF200K01602",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "44.75260"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "44.86940"
+        },
         {
             "date": "18-08-2026",
             "nav": "44.87330"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Mid Cap Fund",
         "scheme_code": 102528,
-        "scheme_name": "ICICI Prudential MidCap Fund - Growth",
+        "scheme_name": "ICICI Prudential MidCap Fund - Regular Plan - Growth",
         "isin_growth": "INF109K01AN2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "347.96000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "346.16000"
+        },
         {
             "date": "18-08-2026",
             "nav": "347.51000"

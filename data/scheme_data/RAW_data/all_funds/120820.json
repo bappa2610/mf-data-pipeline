@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
         "scheme_code": 120820,
-        "scheme_name": "quant Multi Asset Allocation Fund - IDCW Option - Direct Plan",
+        "scheme_name": "Quant Multi Asset Allocation Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF966L01564",
         "isin_div_reinvestment": "INF966L01572"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "169.28560"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "168.61870"
+        },
         {
             "date": "18-08-2026",
             "nav": "169.09430"

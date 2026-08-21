@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Gilt Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Gilt Fund",
         "scheme_code": 102514,
-        "scheme_name": "UTI - GILT FUND - Discontinued PF Plan Prescribed Date Auto Redemption Option",
+        "scheme_name": "UTI - Gilt Fund - Regular Plan - Discontinued PF Plan Prescribed Date Auto Redemption",
         "isin_growth": "INF789F01PU4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "49.06370"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "49.19080"
+        },
         {
             "date": "18-08-2026",
             "nav": "49.20560"

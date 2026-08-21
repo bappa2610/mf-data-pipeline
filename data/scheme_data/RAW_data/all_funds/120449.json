@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Gilt Fund",
         "scheme_code": 120449,
-        "scheme_name": "Axis Gilt Fund - Direct Plan - Regular IDCW",
+        "scheme_name": "Axis Gilt Fund - Direct Plan - Regular IDCW Option",
         "isin_growth": "INF846K01DG7",
         "isin_div_reinvestment": "INF846K01DH5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.02170"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.04970"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.04730"

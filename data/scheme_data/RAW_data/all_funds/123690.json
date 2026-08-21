@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Banking and PSU Fund",
         "scheme_code": 123690,
-        "scheme_name": "Kotak Banking and PSU Debt - Growth",
+        "scheme_name": "Kotak Banking and PSU Debt Fund - Regular Plan - Growth",
         "isin_growth": "INF174K01FO3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "69.56100"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "69.69200"
+        },
         {
             "date": "18-08-2026",
             "nav": "69.67380"

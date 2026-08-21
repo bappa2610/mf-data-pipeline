@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Money Market Fund",
         "scheme_code": 100723,
-        "scheme_name": "UTI MMF-Discontinued - Regular Plan -Growth",
+        "scheme_name": "UTI - Money Market Fund - Regular Plan - Discontinued Growth",
         "isin_growth": "INF789F01BF5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "7660.64730"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "7663.85200"
+        },
         {
             "date": "18-08-2026",
             "nav": "7662.48520"

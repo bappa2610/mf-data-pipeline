@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Solution Oriented Scheme - Retirement Fund",
         "scheme_code": 115942,
-        "scheme_name": "Tata Retirement Savings Fund - Progressive Plan -Regular Plan-Growth Option",
+        "scheme_name": "Tata Retirement Savings Fund-Progressive Plan - Regular Plan - Growth Option",
         "isin_growth": "INF277K01FG0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "70.17980"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "69.66580"
+        },
         {
             "date": "18-08-2026",
             "nav": "69.83210"

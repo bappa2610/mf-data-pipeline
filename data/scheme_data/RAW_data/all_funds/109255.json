@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 109255,
-        "scheme_name": "BANK OF INDIA Liquid Fund- Regular Plan- Weekly IDCW",
+        "scheme_name": "BANK OF INDIA LIQUID FUND - Regular Plan - Weekly IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF761K01CP1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1005.37430"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1005.30370"
+        },
         {
             "date": "18-08-2026",
             "nav": "1005.13070"

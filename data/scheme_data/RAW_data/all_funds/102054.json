@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Medium Duration Fund",
         "scheme_code": 102054,
-        "scheme_name": "SBI Medium Duration Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI MEDIUM DURATION FUND - Regular Plan - IDCW",
         "isin_growth": "INF200K01727",
         "isin_div_reinvestment": "INF200K01735"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "21.26810"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "21.30250"
+        },
         {
             "date": "18-08-2026",
             "nav": "21.29340"

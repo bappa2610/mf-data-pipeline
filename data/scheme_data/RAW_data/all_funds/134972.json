@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Money Market Fund",
         "scheme_code": 134972,
-        "scheme_name": "UTI Money Market Fund - Regular Plan - Annual IDCW",
+        "scheme_name": "UTI - Money Market Fund - Regular Plan - Annual IDCW",
         "isin_growth": "INF789FA1L88",
         "isin_div_reinvestment": "INF789FA1L96"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1974.63190"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1975.45790"
+        },
         {
             "date": "18-08-2026",
             "nav": "1975.10560"

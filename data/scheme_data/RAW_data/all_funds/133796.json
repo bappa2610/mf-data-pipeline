@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 133796,
-        "scheme_name": "Kotak Infrastructure & Economic Reform Fund - Standard Plan-Growth",
+        "scheme_name": "Kotak Infrastructure and Economic Reform Fund - Regular Plan - Growth Option",
         "isin_growth": "INF178L01095",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "70.59000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "70.24400"
+        },
         {
             "date": "18-08-2026",
             "nav": "70.89100"

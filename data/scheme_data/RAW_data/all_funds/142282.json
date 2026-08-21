@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Arbitrage Fund",
         "scheme_code": 142282,
-        "scheme_name": "DSP Arbitrage Fund - Regular - Growth",
+        "scheme_name": "DSP Arbitrage fund - Regular Plan - Growth",
         "isin_growth": "INF740KA1DI4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.92200"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "15.93700"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.91300"

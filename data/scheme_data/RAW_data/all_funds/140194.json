@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 140194,
-        "scheme_name": "Edelweiss Liquid Fund - Direct Plan - Bonus Option",
+        "scheme_name": "Edelweiss Liquid Fund - Direct Plan - Bonus",
         "isin_growth": "INF754K01GY9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "2128.27540"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "2128.05110"
+        },
         {
             "date": "18-08-2026",
             "nav": "2127.69210"

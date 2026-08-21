@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Low Duration Fund",
         "scheme_code": 102914,
-        "scheme_name": "CANARA ROBECO SAVINGS FUND - REGULAR PLAN - IDCW (Payout/Reinvestment)",
+        "scheme_name": "Canara Robeco Savings Fund - Regular Plan - IDCW (Payout/Reinvestment)",
         "isin_growth": "INF760K01779",
         "isin_div_reinvestment": "INF760K01787"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "37.59610"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "37.61660"
+        },
         {
             "date": "18-08-2026",
             "nav": "37.61060"

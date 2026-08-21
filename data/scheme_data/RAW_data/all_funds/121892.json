@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short Term Fund",
         "scheme_code": 121892,
         "scheme_name": "UTI Ultra Short Duration Fund - Direct Plan - Flexi IDCW",
         "isin_growth": "INF789FB1KQ0",
         "isin_div_reinvestment": "INF789FB1KR8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "2373.93720"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "2374.64710"
+        },
         {
             "date": "18-08-2026",
             "nav": "2374.18470"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
         "scheme_code": 118317,
-        "scheme_name": "CANARA ROBECO ULTRA SHORT TERM FUND - DIRECT PLAN - GROWTH OPTION",
+        "scheme_name": "Canara Robeco Ultra Short Term Fund - Direct Plan - GROWTH OPTION",
         "isin_growth": "INF760K01GM1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "4341.21110"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "4342.90060"
+        },
         {
             "date": "18-08-2026",
             "nav": "4342.22730"

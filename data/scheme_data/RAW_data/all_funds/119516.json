@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 119516,
-        "scheme_name": "Aditya Birla Sun Life International Equity Fund - Direct - IDCW",
+        "scheme_name": "Aditya Birla Sun Life International Equity Fund - Direct Plan - IDCW",
         "isin_growth": "INF209K01Q89",
         "isin_div_reinvestment": "INF209K01WT1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "53.42330"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "53.62600"
+        },
         {
             "date": "18-08-2026",
             "nav": "53.87370"

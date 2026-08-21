@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Conservative Hybrid Fund",
+        "scheme_category": "Hybrid Schemes - Conservative Hybrid Fund",
         "scheme_code": 102535,
-        "scheme_name": "UTI Conservative Hybrid Fund - Regular Plan - Growth Option",
+        "scheme_name": "UTI Conservative Hybrid Fund - Regular Plan - Growth",
         "isin_growth": "INF789F01893",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "71.10140"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "71.11110"
+        },
         {
             "date": "18-08-2026",
             "nav": "71.15850"

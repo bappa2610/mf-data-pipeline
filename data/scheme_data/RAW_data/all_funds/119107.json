@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Money Market Fund",
         "scheme_code": 119107,
-        "scheme_name": "DSP Savings Fund - Direct Plan - IDCW - Monthly",
+        "scheme_name": "DSP Savings Fund - Direct Plan - Monthly IDCW",
         "isin_growth": "INF740K01NT4",
         "isin_div_reinvestment": "INF740K01NW8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.08570"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.09060"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.08860"

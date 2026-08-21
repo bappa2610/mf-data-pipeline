@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Overseas Fund of Funds - Fund of Funds investing overseas",
         "scheme_code": 107988,
-        "scheme_name": "HSBC Global Emerging Markets Fund - Growth",
+        "scheme_name": "HSBC Global Emerging Markets Fund - Regular Plan - Growth",
         "isin_growth": "INF336L01446",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "34.62690"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "34.03100"
+        },
         {
             "date": "18-08-2026",
             "nav": "34.51590"

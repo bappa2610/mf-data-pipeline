@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Short Duration Fund",
         "scheme_code": 112356,
-        "scheme_name": "Aditya Birla Sun Life Short Term Fund - REGULAR - Quarterly IDCW",
+        "scheme_name": "Aditya Birla Sun Life Short Term Fund - Regular Plan - Quarterly IDCW",
         "isin_growth": "INF209K01BU3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.45780"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.47560"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.47260"

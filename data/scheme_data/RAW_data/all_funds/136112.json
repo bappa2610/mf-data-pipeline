@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Ultra Short Term Fund",
         "scheme_code": 136112,
-        "scheme_name": "Invesco India Ultra Short Duration Fund - Direct Plan - Daily IDCW (Reinvestment)",
+        "scheme_name": "Invesco India Ultra Short Duration Fund - Direct Plan - Daily IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF205K019H5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1571.20960"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1571.69970"
+        },
         {
             "date": "18-08-2026",
             "nav": "1571.39630"

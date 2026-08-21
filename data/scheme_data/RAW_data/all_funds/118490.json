@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Conservative Hybrid Fund",
         "scheme_code": 118490,
-        "scheme_name": "BANDHAN Conservative Hybrid Fund-Direct Plan-IDCW",
+        "scheme_name": "BANDHAN CONSERVATIVE HYBRID FUND - Direct Plan - IDCW",
         "isin_growth": "INF194K017B5",
         "isin_div_reinvestment": "INF194K016B7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.35200"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.35860"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.34760"

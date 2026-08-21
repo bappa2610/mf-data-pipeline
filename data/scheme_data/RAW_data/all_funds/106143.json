@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Large & Mid Cap Fund",
         "scheme_code": 106143,
-        "scheme_name": "Invesco India Large & Mid Cap Fund - Regular Plan - IDCW (Payout / Reinvestment)",
+        "scheme_name": "Invesco India Large & Mid Cap Fund - Regular Plan - IDCW",
         "isin_growth": "INF205K01262",
         "isin_div_reinvestment": "INF205K01254"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "44.89000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "44.54000"
+        },
         {
             "date": "18-08-2026",
             "nav": "44.81000"

@@ -4,11 +4,19 @@
         "scheme_type": "Interval Fund Schemes",
         "scheme_category": "Income",
         "scheme_code": 118689,
-        "scheme_name": "NIPPON INDIA QUARTERLY INTERVAL FUND - SERIES II - Direct Plan - IDCW Option",
+        "scheme_name": "Nippon India Interval Fund-Quarterly Interval Fund Serie-II - Direct Plan - IDCW Option",
         "isin_growth": "INF204K01F46",
         "isin_div_reinvestment": "INF204K01F53"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.52050"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.51890"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.51680"

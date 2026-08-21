@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
         "scheme_code": 100323,
-        "scheme_name": "LIC MF Aggressive Hybrid Fund-Regular Plan-Growth",
+        "scheme_name": "LIC MF Aggressive Hybrid Fund - Regular Plan - Growth",
         "isin_growth": "INF767K01030",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "204.38350"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "204.45240"
+        },
         {
             "date": "18-08-2026",
             "nav": "205.26880"

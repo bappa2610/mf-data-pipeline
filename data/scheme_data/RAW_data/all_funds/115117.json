@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Overseas Fund of Funds - Fund of Funds investing overseas",
         "scheme_code": 115117,
-        "scheme_name": "HSBC Brazil Fund - IDCW",
+        "scheme_name": "HSBC Brazil Fund - Regular Plan - IDCW",
         "isin_growth": "INF336L01172",
         "isin_div_reinvestment": "INF336L01180"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "9.93280"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.03450"
+        },
         {
             "date": "18-08-2026",
             "nav": "9.82010"

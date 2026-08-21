@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Focused Fund",
         "scheme_code": 104638,
-        "scheme_name": "NIPPON INDIA FOCUSED  FUND - IDCW OPTION",
+        "scheme_name": "Nippon India Focused Fund - Regular Plan - IDCW OPTION",
         "isin_growth": "INF204K01GF4",
         "isin_div_reinvestment": "INF204K01GG2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "33.36350"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "33.12130"
+        },
         {
             "date": "18-08-2026",
             "nav": "33.32050"

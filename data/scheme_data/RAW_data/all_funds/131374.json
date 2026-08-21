@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Equity Savings",
         "scheme_code": 131374,
-        "scheme_name": "Kotak Equity Savings Fund - Regular - Monthly Payout of Income Distribution cum capital withdrawal option",
+        "scheme_name": "Kotak Equity Savings Fund - Regular Plan - Monthly Payout of Income Distribution cum capital withdrawal option",
         "isin_growth": "INF174K01C86",
         "isin_div_reinvestment": "INF174K01D02"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "20.29340"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "20.26860"
+        },
         {
             "date": "18-08-2026",
             "nav": "20.27200"

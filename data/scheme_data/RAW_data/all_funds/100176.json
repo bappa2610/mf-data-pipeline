@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Small Cap Fund",
         "scheme_code": 100176,
-        "scheme_name": "quant Small Cap Fund - IDCW Option - Regular Plan",
+        "scheme_name": "Quant Small Cap Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF206A01022",
         "isin_div_reinvestment": "INF966L01044"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "228.01340"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "227.37130"
+        },
         {
             "date": "18-08-2026",
             "nav": "227.89280"

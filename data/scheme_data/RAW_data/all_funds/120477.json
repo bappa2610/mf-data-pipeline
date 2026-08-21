@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Conservative Hybrid Fund",
         "scheme_code": 120477,
-        "scheme_name": "Axis Conservative Hybrid Fund - Direct Plan - Annual IDCW",
+        "scheme_name": "Axis Conservative Hybrid Fund - Direct Plan - Annual IDCW Option",
         "isin_growth": "INF846K01DY0",
         "isin_div_reinvestment": "INF846K01DZ7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "16.52800"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "16.53710"
+        },
         {
             "date": "18-08-2026",
             "nav": "16.54150"

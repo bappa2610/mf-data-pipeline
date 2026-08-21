@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Dynamic Bond",
         "scheme_code": 102206,
-        "scheme_name": "SBI Dynamic Bond Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI DYNAMIC BOND FUND - Regular Plan - IDCW",
         "isin_growth": "INF200K01966",
         "isin_div_reinvestment": "INF200K01974"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "19.67330"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "19.69860"
+        },
         {
             "date": "18-08-2026",
             "nav": "19.70130"

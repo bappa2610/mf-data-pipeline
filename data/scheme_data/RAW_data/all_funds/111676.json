@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Low Duration Fund",
         "scheme_code": 111676,
-        "scheme_name": "LIC MF Low Duration Fund-Regular Plan-Daily IDCW",
+        "scheme_name": "LIC MF Low Duration Fund - Regular Plan - Daily IDCW",
         "isin_growth": "INF767K01AK3",
         "isin_div_reinvestment": "INF767K01AL1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.15340"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.16020"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.15800"

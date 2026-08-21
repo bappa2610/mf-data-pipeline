@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Banking and PSU Fund",
         "scheme_code": 134551,
-        "scheme_name": "NIPPON INDIA BANKING and PSU FUND - QUARTERLY IDCW Option",
+        "scheme_name": "Nippon India Banking and PSU Fund - Regular Plan - QUARTERLY IDCW Option",
         "isin_growth": "INF204KA1T98",
         "isin_div_reinvestment": "INF204KA1U04"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.85020"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.87090"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.86850"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
         "scheme_code": 139528,
-        "scheme_name": "BANK OF INDIA MID & SMALL CAP EQUITY & DEBT FUND - REGULAR  PLAN IDCW",
+        "scheme_name": "BANK OF INDIA MID & SMALL CAP EQUITY & DEBT FUND - Regular Plan - IDCW",
         "isin_growth": "INF761K01DQ7",
         "isin_div_reinvestment": "INF761K01DR5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "34.64000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "34.45000"
+        },
         {
             "date": "18-08-2026",
             "nav": "34.59000"

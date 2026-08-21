@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Gilt Fund",
         "scheme_code": 109724,
-        "scheme_name": "Nippon India Gilt  Fund-P F Option-Automatic Capital Appreciation Payout Option",
+        "scheme_name": "Nippon India Gilt Fund - Regular Plan - Automatic Capital Appreciation Payout Option",
         "isin_growth": "INF204K01CC0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "39.20070"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "39.32610"
+        },
         {
             "date": "18-08-2026",
             "nav": "39.31520"

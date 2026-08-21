@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 118580,
-        "scheme_name": "Franklin India INDEX FUND- NSE Nifty 50 Index Fund - Direct - IDCW",
+        "scheme_name": "Franklin India NSE Nifty 50 Index Fund - Direct Plan - IDCW",
         "isin_growth": "INF090I01GQ8",
         "isin_div_reinvestment": "INF090I01GR6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "180.63960"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "179.49660"
+        },
         {
             "date": "18-08-2026",
             "nav": "180.06950"

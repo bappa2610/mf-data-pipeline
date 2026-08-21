@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
         "scheme_code": 134427,
-        "scheme_name": "UTI Liquid Fund - Direct Plan - Annual IDCW",
+        "scheme_name": "UTI - Liquid Fund - Direct Plan - Annual IDCW",
         "isin_growth": "INF789F1AE45",
         "isin_div_reinvestment": "INF789F1AE52"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "204.02790"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "204.01290"
+        },
         {
             "date": "18-08-2026",
             "nav": "203.97900"

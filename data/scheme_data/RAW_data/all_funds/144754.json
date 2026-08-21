@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
         "scheme_code": 144754,
-        "scheme_name": "Axis Ultra Short Duration Fund - Direct Plan Growth",
+        "scheme_name": "Axis Ultra Short Duration Fund - Direct Plan - Growth Option",
         "isin_growth": "INF846K01F40",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "16.83690"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "16.84250"
+        },
         {
             "date": "18-08-2026",
             "nav": "16.83940"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
         "scheme_code": 120304,
-        "scheme_name": "UTI Liquid Fund - Direct Plan - Growth Option",
+        "scheme_name": "UTI - Liquid Fund - Direct Plan - Growth",
         "isin_growth": "INF789F1AD46",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "463.92410"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "463.89000"
+        },
         {
             "date": "18-08-2026",
             "nav": "463.81280"

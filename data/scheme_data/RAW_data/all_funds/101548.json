@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Short Duration Fund",
         "scheme_code": 101548,
-        "scheme_name": "Tata Short Term Bond Fund -Regular Plan- Growth Option",
+        "scheme_name": "Tata Short Term Bond Fund - Regular Plan - Growth Option",
         "isin_growth": "INF277K01972",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "50.49570"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "50.56190"
+        },
         {
             "date": "18-08-2026",
             "nav": "50.54810"

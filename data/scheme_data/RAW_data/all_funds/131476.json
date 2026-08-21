@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
         "scheme_code": 131476,
-        "scheme_name": "JM Aggressive Hybrid Fund (Regular) - Annual IDCW",
+        "scheme_name": "JM Aggressive Hybrid Fund - Regular Plan - Annual IDCW Option",
         "isin_growth": "INF192K01HF9",
         "isin_div_reinvestment": "INF192K01HG7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "33.92970"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "33.72270"
+        },
         {
             "date": "18-08-2026",
             "nav": "33.73890"

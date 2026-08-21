@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
         "scheme_code": 144761,
-        "scheme_name": "Axis Ultra Short Duration Fund - Regular Plan - Regular IDCW",
+        "scheme_name": "Axis Ultra Short Duration Fund - Regular Plan - Regular IDCW Option",
         "isin_growth": "INF846K01G98",
         "isin_div_reinvestment": "INF846K01G80"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.72070"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "15.72620"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.72370"

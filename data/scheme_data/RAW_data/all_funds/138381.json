@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
         "scheme_code": 138381,
-        "scheme_name": "PGIM India Aggressive Hybrid Equity Fund - Dividend Option",
+        "scheme_name": "PGIM India Aggressive Hybrid Equity Fund - Regular Plan - Regular IDCW",
         "isin_growth": "INF663L01HA8",
         "isin_div_reinvestment": "INF663L01HB6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.95000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.90000"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.95000"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Focused Fund",
         "scheme_code": 111958,
-        "scheme_name": "ICICI Prudential Focused Equity Fund - IDCW",
+        "scheme_name": "ICICI Prudential Focused Equity Fund - Regular Plan - IDCW",
         "isin_growth": "INF109K01FM3",
         "isin_div_reinvestment": "INF109K01CA5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "28.34000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "28.11000"
+        },
         {
             "date": "18-08-2026",
             "nav": "28.22000"

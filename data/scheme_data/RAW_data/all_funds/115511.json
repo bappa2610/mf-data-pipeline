@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Low Duration Fund",
         "scheme_code": 115511,
-        "scheme_name": "ICICI Prudential Savings Fund - IDCW Others",
+        "scheme_name": "ICICI Prudential Savings Fund - Regular Plan - IDCW Others",
         "isin_growth": "INF109K01WO4",
         "isin_div_reinvestment": "INF109K01WN6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "195.91840"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "196.02410"
+        },
         {
             "date": "18-08-2026",
             "nav": "195.99230"

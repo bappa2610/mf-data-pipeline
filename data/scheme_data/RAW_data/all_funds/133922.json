@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Low Duration Fund",
         "scheme_code": 133922,
-        "scheme_name": "DSP Low Duration Fund - Direct Plan - IDCW - Daily",
+        "scheme_name": "DSP Low Duration Fund - Direct Plan - Daily IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF740KA1OL5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.12000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.12680"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.12540"

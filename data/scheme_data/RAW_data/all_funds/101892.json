@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Money Market Fund",
         "scheme_code": 101892,
-        "scheme_name": "Kotak Money market Fund - (Monthly Payout of Income Distribution cum capital withdrawal option)",
+        "scheme_name": "Kotak Money Market Fund - Regular Plan - (Monthly Payout of Income Distribution cum capital withdrawal option)",
         "isin_growth": "INF174K018O0",
         "isin_div_reinvestment": "INF174K01NB4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1053.53660"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1053.98720"
+        },
         {
             "date": "18-08-2026",
             "nav": "1053.80790"

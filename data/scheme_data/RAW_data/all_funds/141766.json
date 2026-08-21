@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
         "scheme_code": 141766,
-        "scheme_name": "Edelweiss Balanced Advantage Fund - Regular Plan - Monthly - IDCW Option",
+        "scheme_name": "Edelweiss Balanced Advantage Fund - Regular Plan - IDCW",
         "isin_growth": "INF754K01IK4",
         "isin_div_reinvestment": "INF754K01IL2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "20.85000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "20.77000"
+        },
         {
             "date": "18-08-2026",
             "nav": "20.81000"

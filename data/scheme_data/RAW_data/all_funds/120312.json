@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 120312,
-        "scheme_name": "LIC MF BSE Sensex Index Fund-Direct Plan-IDCW",
+        "scheme_name": "LIC MF BSE Sensex Index Fund - Direct Plan - IDCW",
         "isin_growth": "INF767K01FI6",
         "isin_div_reinvestment": "INF767K01FK2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "52.46360"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "52.04150"
+        },
         {
             "date": "18-08-2026",
             "nav": "52.26220"

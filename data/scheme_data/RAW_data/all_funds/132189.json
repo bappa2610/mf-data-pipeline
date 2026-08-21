@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 132189,
-        "scheme_name": "Aditya Birla Sun Life Aggressive Hybrid Omni FOF- Direct - IDCW",
+        "scheme_name": "Aditya Birla Sun Life Aggressive Hybrid Omni FOF - Direct Plan - IDCW",
         "isin_growth": "INF084M01EU0",
         "isin_div_reinvestment": "INF084M01EV8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "43.35830"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "43.20780"
+        },
         {
             "date": "18-08-2026",
             "nav": "43.30140"

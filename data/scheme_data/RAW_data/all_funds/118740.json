@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 118740,
-        "scheme_name": "NIPPON INDIA INDEX FUND - NIFTY 50 PLAN - DIRECT Plan - QUARTERLY - IDCW Option",
+        "scheme_name": "Nippon India Index Fund - Nifty 50 Plan - Direct Plan - QUARTERLY - IDCW Option",
         "isin_growth": "INF204K01H69",
         "isin_div_reinvestment": "INF204K01H77"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "35.65660"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "35.43100"
+        },
         {
             "date": "18-08-2026",
             "nav": "35.54350"

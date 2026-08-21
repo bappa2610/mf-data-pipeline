@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 120578,
-        "scheme_name": "SBI TECHNOLOGY OPPORTUNITIES FUND - DIRECT PLAN - GROWTH",
+        "scheme_name": "SBI TECHNOLOGY OPPORTUNITIES FUND - Direct Plan - Growth",
         "isin_growth": "INF200K01RV6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "236.27390"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "234.20420"
+        },
         {
             "date": "18-08-2026",
             "nav": "232.48090"

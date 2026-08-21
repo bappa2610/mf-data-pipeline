@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
         "scheme_code": 120038,
-        "scheme_name": "HSBC Liquid Fund -  Growth Direct",
+        "scheme_name": "HSBC Liquid Fund - Regular Plan - Direct",
         "isin_growth": "INF336L01CC8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "2818.95760"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "2818.67850"
+        },
         {
             "date": "18-08-2026",
             "nav": "2818.18990"

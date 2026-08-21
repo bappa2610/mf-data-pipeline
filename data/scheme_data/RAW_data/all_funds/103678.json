@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Dividend Yield Fund",
         "scheme_code": 103678,
-        "scheme_name": "Franklin India Dividend Yield Fund-Growth Plan",
+        "scheme_name": "Franklin India Dividend Yield Fund - Regular Plan - Growth",
         "isin_growth": "INF090I01957",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "136.41520"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "136.18220"
+        },
         {
             "date": "18-08-2026",
             "nav": "136.74010"

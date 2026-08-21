@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Corporate Bond Fund",
         "scheme_code": 120501,
-        "scheme_name": "Invesco India Corporate Bond Fund - Direct Plan - Quarterly IDCW (Payout / Reinvestment)",
+        "scheme_name": "Invesco India Corporate Bond Fund - Direct Plan - Quarterly IDCW",
         "isin_growth": "INF205K01RI2",
         "isin_div_reinvestment": "INF205K01RJ0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1174.93630"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1177.27200"
+        },
         {
             "date": "18-08-2026",
             "nav": "1176.98740"

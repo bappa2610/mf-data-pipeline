@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Overnight Fund",
         "scheme_code": 145482,
-        "scheme_name": "ADITYA BIRLA SUN LIFE OVERNIGHT FUND-  Regular - Weekly Reinvestment of IDCW option",
+        "scheme_name": "ADITYA BIRLA SUN LIFE OVERNIGHT FUND - Regular Plan - Weekly IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF209KB1ZE9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1000.82840"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1000.69510"
+        },
         {
             "date": "18-08-2026",
             "nav": "1000.56190"

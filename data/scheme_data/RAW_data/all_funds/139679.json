@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
         "scheme_code": 139679,
-        "scheme_name": "NIPPON INDIA AGGRESSIVE HYBRID FUND - DIRECT Plan - MONTHLY IDCW Option",
+        "scheme_name": "Nippon India Aggressive Hybrid Fund (Existing Number of Segregated Portfolios - 2) - Direct Plan - MONTHLY IDCW Option",
         "isin_growth": "INF204KB1BD7",
         "isin_div_reinvestment": "INF204KB1BE5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "19.05870"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "18.97980"
+        },
         {
             "date": "18-08-2026",
             "nav": "19.02480"

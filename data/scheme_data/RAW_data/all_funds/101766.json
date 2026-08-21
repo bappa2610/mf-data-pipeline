@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 101766,
-        "scheme_name": "Tata Infrastructure Fund-Regular Plan- Growth Option",
+        "scheme_name": "Tata Infrastructure Fund - Regular Plan - Growth Option",
         "isin_growth": "INF277K01782",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "180.57590"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "180.63810"
+        },
         {
             "date": "18-08-2026",
             "nav": "182.28690"

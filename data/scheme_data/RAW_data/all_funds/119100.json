@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Gilt Fund",
         "scheme_code": 119100,
-        "scheme_name": "DSP Gilt Fund - Direct Plan - IDCW - Monthly",
+        "scheme_name": "DSP Gilt Fund - Direct Plan - Monthly IDCW",
         "isin_growth": "INF740K01NE6",
         "isin_div_reinvestment": "INF740K01NH9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.90390"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.95260"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.95350"

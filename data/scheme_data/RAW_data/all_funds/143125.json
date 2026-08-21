@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Money Market Fund",
         "scheme_code": 143125,
-        "scheme_name": "UTI Money Market Fund - Direct Plan - Flexi IDCW",
+        "scheme_name": "UTI - Money Market Fund - Direct Plan - Flexi IDCW",
         "isin_growth": "INF789FA1N29",
         "isin_div_reinvestment": "INF789FA1N37"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1721.62500"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1722.34090"
+        },
         {
             "date": "18-08-2026",
             "nav": "1722.02950"

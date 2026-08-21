@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Arbitrage Fund",
         "scheme_code": 133395,
-        "scheme_name": "JM Arbitrage Fund (Direct) - Annual Bonus Option - Principal Units",
+        "scheme_name": "JM Arbitrage Fund - Direct Plan - Annual Bonus Option - Principal Units",
         "isin_growth": "INF192K01GX4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "19.13450"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "19.14780"
+        },
         {
             "date": "18-08-2026",
             "nav": "19.11820"

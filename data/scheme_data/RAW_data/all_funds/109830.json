@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Flexi Cap Fund",
         "scheme_code": 109830,
-        "scheme_name": "quant Flexi Cap Fund - Growth Option - Regular Plan",
+        "scheme_name": "Quant Flexi Cap Fund - Regular Plan - Growth Option",
         "isin_growth": "INF966L01457",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "109.25510"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "109.18200"
+        },
         {
             "date": "18-08-2026",
             "nav": "109.46950"

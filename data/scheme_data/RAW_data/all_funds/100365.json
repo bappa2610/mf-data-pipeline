@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Long Duration Fund",
         "scheme_code": 100365,
-        "scheme_name": "ICICI Prudential Long Term Bond Fund - Growth",
+        "scheme_name": "ICICI Prudential Long Term Bond Fund - Regular Plan - Growth",
         "isin_growth": "INF109K01365",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "92.80960"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "93.12820"
+        },
         {
             "date": "18-08-2026",
             "nav": "93.04230"

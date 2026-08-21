@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 135793,
-        "scheme_name": "Tata Banking And Financial Services Fund-Direct Plan-Growth",
+        "scheme_name": "Tata Banking & Financial Services Fund - Direct Plan - Growth Option",
         "isin_growth": "INF277K01Z10",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "52.74230"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "52.23800"
+        },
         {
             "date": "18-08-2026",
             "nav": "52.30440"

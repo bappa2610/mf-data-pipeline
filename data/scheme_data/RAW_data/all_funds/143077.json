@@ -4,11 +4,19 @@
         "scheme_type": "Close Ended Schemes",
         "scheme_category": "ELSS",
         "scheme_code": 143077,
-        "scheme_name": "Sundaram Long Term Tax Advantage Fund Series IV Regular Plan - Growth",
+        "scheme_name": "Sundaram Long Term Tax Advantage Fund Series IV",
         "isin_growth": "INF903JA1CX1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "37.50810"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "37.20130"
+        },
         {
             "date": "18-08-2026",
             "nav": "37.53550"

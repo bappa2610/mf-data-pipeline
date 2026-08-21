@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large & Mid Cap Fund",
         "scheme_code": 110607,
-        "scheme_name": "BANK OF INDIA Large & Mid Cap Fund Regular Plan- Regular IDCW",
+        "scheme_name": "BANK OF INDIA LARGE & MID CAP FUND - Regular Plan - IDCW",
         "isin_growth": "INF761K01082",
         "isin_div_reinvestment": "INF761K01090"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "27.98000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "27.84000"
+        },
         {
             "date": "18-08-2026",
             "nav": "27.91000"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 100537,
-        "scheme_name": "Franklin India Liquid Fund - Regular Plan - Weekly - IDCW",
+        "scheme_name": "Franklin India Liquid Fund - Regular Plan - Weekly IDCW",
         "isin_growth": "INF090I01BL0",
         "isin_div_reinvestment": "INF090I01BI6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1244.94820"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1244.79970"
+        },
         {
             "date": "18-08-2026",
             "nav": "1244.61350"

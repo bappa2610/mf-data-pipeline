@@ -4,11 +4,23 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - ELSS",
         "scheme_code": 141070,
-        "scheme_name": "Quantum ELSS Tax Saver Fund - Regular Plan Growth Option",
+        "scheme_name": "Quantum ELSS Tax Saver Fund - Regular Plan - Growth Option",
         "isin_growth": "INF082J01366",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "21-08-2026",
+            "nav": "118.80000"
+        },
+        {
+            "date": "20-08-2026",
+            "nav": "118.69000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "117.80000"
+        },
         {
             "date": "18-08-2026",
             "nav": "118.15000"

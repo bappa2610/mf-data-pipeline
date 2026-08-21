@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Ultra Short to Short Term Fund",
         "scheme_code": 104722,
-        "scheme_name": "Invesco India Low Duration Fund - Regular - Weekly IDCW (Reinvestment)",
+        "scheme_name": "Invesco India Low Duration Fund - Regular Plan - Weekly IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF205K01HV6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1444.12250"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1445.07910"
+        },
         {
             "date": "18-08-2026",
             "nav": "1444.78710"

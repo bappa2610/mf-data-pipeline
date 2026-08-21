@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Medium to Long Duration Fund",
         "scheme_code": 100123,
-        "scheme_name": "HDFC Income Fund - Quarterly IDCW Option",
+        "scheme_name": "HDFC Income Fund - Regular Plan - Quarterly IDCW Option",
         "isin_growth": "INF179K01947",
         "isin_div_reinvestment": "INF179K01954"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.54280"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.57710"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.57780"

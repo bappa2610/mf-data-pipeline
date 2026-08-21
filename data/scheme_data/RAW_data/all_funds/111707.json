@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 111707,
-        "scheme_name": "Baroda BNP Paribas LIQUID FUND - Regular Plan - DAILY IDCW OPTION",
+        "scheme_name": "BARODA BNP PARIBAS LIQUID FUND - Regular Plan - Daily IDCW Option",
         "isin_growth": "INF955L01468",
         "isin_div_reinvestment": "INF955L01476"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1001.19960"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1001.19960"
+        },
         {
             "date": "18-08-2026",
             "nav": "1001.19960"

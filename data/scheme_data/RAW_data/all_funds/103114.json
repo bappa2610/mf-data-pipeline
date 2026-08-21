@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 103114,
-        "scheme_name": "SBI MNC Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI MNC FUND - Regular Plan - IDCW",
         "isin_growth": "INF200K01255",
         "isin_div_reinvestment": "INF200K01263"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "126.63250"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "126.28230"
+        },
         {
             "date": "18-08-2026",
             "nav": "127.10440"

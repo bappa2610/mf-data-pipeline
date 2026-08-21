@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large & Mid Cap Fund",
         "scheme_code": 119566,
-        "scheme_name": "Sundaram Large and Midcap Fund Direct Plan - Growth",
+        "scheme_name": "Sundaram Large and Midcap Fund - Direct Plan - GROWTH",
         "isin_growth": "INF903J01PR9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "108.86400"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "108.01720"
+        },
         {
             "date": "18-08-2026",
             "nav": "108.31320"

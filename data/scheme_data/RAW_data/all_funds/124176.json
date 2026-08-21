@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Banking and PSU Fund",
         "scheme_code": 124176,
-        "scheme_name": "DSP Banking & PSU Debt Fund - Direct Plan - IDCW - Monthly",
+        "scheme_name": "DSP Banking & PSU Debt Fund - Direct Plan - Monthly IDCW",
         "isin_growth": "INF740K01ZX0",
         "isin_div_reinvestment": "INF740K01ZY8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.41930"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.44370"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.44010"

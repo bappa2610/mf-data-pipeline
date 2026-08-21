@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Focused Fund",
         "scheme_code": 102761,
-        "scheme_name": "HDFC Focused Fund - IDCW PLAN",
+        "scheme_name": "HDFC Focused Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF179K01558",
         "isin_div_reinvestment": "INF179K01566"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "23.95300"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "23.83000"
+        },
         {
             "date": "18-08-2026",
             "nav": "23.83100"

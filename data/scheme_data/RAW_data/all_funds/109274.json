@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Focused Fund",
         "scheme_code": 109274,
-        "scheme_name": "quant Focused Fund - IDCW Option - Regular Plan",
+        "scheme_name": "Quant Focused Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF966L01358",
         "isin_div_reinvestment": "INF966L01366"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "69.23400"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "69.24200"
+        },
         {
             "date": "18-08-2026",
             "nav": "69.30390"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Low Duration Fund",
         "scheme_code": 122995,
-        "scheme_name": "ICICI Prudential Savings Fund - Quarterly IDCW",
+        "scheme_name": "ICICI Prudential Savings Fund - Regular Plan - Quarterly IDCW",
         "isin_growth": "INF109K016Z0",
         "isin_div_reinvestment": "INF109K015Z2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "111.01070"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "111.07070"
+        },
         {
             "date": "18-08-2026",
             "nav": "111.05260"

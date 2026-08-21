@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Low Duration Fund",
         "scheme_code": 106221,
-        "scheme_name": "SBI Short Horizon Debt Fund - Ultra Short Term Fund - Institutional Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI LOW DURATION FUND - Regular Plan - IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF200K01MD5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1449.53400"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1450.50040"
+        },
         {
             "date": "18-08-2026",
             "nav": "1450.19300"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Conservative Hybrid Fund",
         "scheme_code": 113097,
-        "scheme_name": "ICICI Prudential Regular Savings Fund - Plan - Quarterly IDCW",
+        "scheme_name": "ICICI Prudential Regular Savings Fund - Regular Plan - Quarterly IDCW",
         "isin_growth": "INF109K01IX4",
         "isin_div_reinvestment": "INF109K01WY3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.24150"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.23150"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.24250"

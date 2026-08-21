@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Overnight Fund",
         "scheme_code": 145535,
-        "scheme_name": "ICICI Prudential Overnight Fund - Growth",
+        "scheme_name": "ICICI Prudential Overnight Fund - Regular Plan - Growth",
         "isin_growth": "INF109KC17E3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1471.06590"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1470.86630"
+        },
         {
             "date": "18-08-2026",
             "nav": "1470.66930"

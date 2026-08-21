@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Value Fund",
         "scheme_code": 106168,
-        "scheme_name": "JM Value Fund (Regular) - IDCW",
+        "scheme_name": "JM Value Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF137A01011",
         "isin_div_reinvestment": "INF137A01029"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "68.47520"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "67.79150"
+        },
         {
             "date": "18-08-2026",
             "nav": "68.11390"

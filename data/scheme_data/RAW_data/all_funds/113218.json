@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Dynamic Bond",
         "scheme_code": 113218,
-        "scheme_name": "ICICI Prudential All Seasons Bond Fund - Annual IDCW",
+        "scheme_name": "ICICI Prudential All Seasons Bond Fund - Regular Plan - Annual IDCW",
         "isin_growth": "INF109K01GO7",
         "isin_div_reinvestment": "INF109K01GP4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.55210"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.57870"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.57540"

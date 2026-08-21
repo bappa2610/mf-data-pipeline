@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Banking and PSU Fund",
         "scheme_code": 121935,
-        "scheme_name": "Bandhan Banking and PSU Fund - Direct Monthly IDCW",
+        "scheme_name": "Bandhan Banking and PSU Fund - Direct Plan - Monthly IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF194K011N3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.45370"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.46870"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.46580"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 118880,
-        "scheme_name": "Taurus Infrastructure Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option",
+        "scheme_name": "Taurus Infrastructure Fund - Direct Plan - Income Distribution cum Capital Withdrawal",
         "isin_growth": "INF044D01CE1",
         "isin_div_reinvestment": "INF044D01CF8"
     },
     "data": [
+        {
+            "date": "21-08-2026",
+            "nav": "63.85000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "63.49000"
+        },
         {
             "date": "18-08-2026",
             "nav": "63.99000"

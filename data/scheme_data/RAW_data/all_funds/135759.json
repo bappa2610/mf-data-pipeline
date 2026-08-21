@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Solution Oriented Scheme - Children\u2019s Fund",
         "scheme_code": 135759,
-        "scheme_name": "Axis Children's Fund - Lock in - Regular Growth",
+        "scheme_name": "Axis Children's Fund - Regular Plan - Growth Option",
         "isin_growth": "INF846K01WJ1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "26.65910"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "26.55460"
+        },
         {
             "date": "18-08-2026",
             "nav": "26.61930"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Short Duration Fund",
         "scheme_code": 119384,
-        "scheme_name": "BANK OF INDIA Short Term Income Fund-Direct Plan- Quarterly IDCW",
+        "scheme_name": "BANK OF INDIA SHORT TERM INCOME FUND - Direct Plan - Quarterly IDCW",
         "isin_growth": "INF761K01777",
         "isin_div_reinvestment": "INF761K01769"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "14.30300"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "14.31850"
+        },
         {
             "date": "18-08-2026",
             "nav": "14.31500"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - ELSS",
         "scheme_code": 120847,
-        "scheme_name": "quant ELSS Tax Saver Fund - Growth Option - Direct Plan",
+        "scheme_name": "Quant ELSS Tax Saver Fund - Direct Plan - Growth Option",
         "isin_growth": "INF966L01986",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "464.09350"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "463.92390"
+        },
         {
             "date": "18-08-2026",
             "nav": "465.96670"

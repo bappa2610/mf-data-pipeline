@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 140192,
-        "scheme_name": "Edelweiss Liquid Fund - Direct Plan Annual - IDCW Option",
+        "scheme_name": "Edelweiss Liquid Fund - Direct Plan - Annual IDCW",
         "isin_growth": "INF754K01GX1",
         "isin_div_reinvestment": "INF754K01GT9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "3507.50420"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "3507.13460"
+        },
         {
             "date": "18-08-2026",
             "nav": "3506.54290"

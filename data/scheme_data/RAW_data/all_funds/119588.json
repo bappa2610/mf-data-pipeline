@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Small Cap Fund",
         "scheme_code": 119588,
-        "scheme_name": "Sundaram Small Cap Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW)",
+        "scheme_name": "Sundaram Small Cap Fund - Direct Plan - GROWTH",
         "isin_growth": "INF903J01NI3",
         "isin_div_reinvestment": "INF903J01NJ1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "41.52300"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "41.05380"
+        },
         {
             "date": "18-08-2026",
             "nav": "41.22770"

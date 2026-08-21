@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Mid Cap Fund",
         "scheme_code": 140227,
-        "scheme_name": "Edelweiss Mid Cap Fund - Direct Plan - IDCW Option",
+        "scheme_name": "Edelweiss Mid Cap Fund - Direct Plan - IDCW",
         "isin_growth": "INF843K01AP1",
         "isin_div_reinvestment": "INF843K01AQ9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "95.43700"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "94.97100"
+        },
         {
             "date": "18-08-2026",
             "nav": "95.31100"

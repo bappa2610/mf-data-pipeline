@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Conservative Hybrid Fund",
         "scheme_code": 101869,
-        "scheme_name": "LIC MF Conservative Hybrid Fund-Regular Plan-Growth",
+        "scheme_name": "LIC MF Conservative Hybrid Fund - Regular Plan - Growth",
         "isin_growth": "INF767K01808",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "84.96640"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "85.00020"
+        },
         {
             "date": "18-08-2026",
             "nav": "85.05090"

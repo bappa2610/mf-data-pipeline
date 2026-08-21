@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large & Mid Cap Fund",
         "scheme_code": 133709,
-        "scheme_name": "LIC MF Large & Mid Cap Fund-Direct Plan-IDCW",
+        "scheme_name": "LIC MF Large & Mid Cap Fund - Direct Plan - IDCW",
         "isin_growth": "INF767K01ND1",
         "isin_div_reinvestment": "INF767K01NF6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "36.79770"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "36.57100"
+        },
         {
             "date": "18-08-2026",
             "nav": "36.64460"

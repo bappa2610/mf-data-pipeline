@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Mid Cap Fund",
         "scheme_code": 119582,
-        "scheme_name": "Sundaram Mid Cap Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW)",
+        "scheme_name": "Sundaram Mid Cap Fund - Direct Plan - IDCW (Income Distribution CUM Capital Withdrawal)",
         "isin_growth": "INF903J01MH7",
         "isin_div_reinvestment": "INF903J01MI5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "73.67400"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "73.48290"
+        },
         {
             "date": "18-08-2026",
             "nav": "73.58670"

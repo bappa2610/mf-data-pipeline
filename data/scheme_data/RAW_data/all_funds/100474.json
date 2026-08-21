@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - ELSS",
         "scheme_code": 100474,
-        "scheme_name": "Tata ELSS Fund- Regular Plan - Payout of IDCW Option",
+        "scheme_name": "Tata ELSS Fund - Regular Plan - Payout of IDCW Option",
         "isin_growth": "INF277K01I60",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "98.17630"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "97.77440"
+        },
         {
             "date": "18-08-2026",
             "nav": "98.05720"

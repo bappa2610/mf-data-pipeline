@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Conservative Hybrid Fund",
         "scheme_code": 120550,
-        "scheme_name": "Aditya Birla Sun Life Regular Savings Fund - DIRECT - MONTHLY IDCW",
+        "scheme_name": "Aditya Birla Sun Life Regular Savings Fund - Direct Plan - Monthly IDCW",
         "isin_growth": "INF209K01R47",
         "isin_div_reinvestment": "INF209K01XI2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "27.25420"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "27.27750"
+        },
         {
             "date": "18-08-2026",
             "nav": "27.29310"

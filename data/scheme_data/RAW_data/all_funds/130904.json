@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
         "scheme_code": 130904,
-        "scheme_name": "JM Aggressive Hybrid Fund (Direct) - Annual Bonus Option",
+        "scheme_name": "JM Aggressive Hybrid Fund - Direct Plan - Annual Bonus Option - Principal Units",
         "isin_growth": "INF192K01HB8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "142.19530"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "141.32170"
+        },
         {
             "date": "18-08-2026",
             "nav": "141.38390"

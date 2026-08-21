@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
         "scheme_code": 104488,
-        "scheme_name": "Invesco India Liquid Fund - Regular - Growth",
+        "scheme_name": "Invesco India Liquid Fund - Regular Plan - Growth",
         "isin_growth": "INF205K01HG7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "3387.78430"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "3387.44340"
+        },
         {
             "date": "18-08-2026",
             "nav": "3386.90960"

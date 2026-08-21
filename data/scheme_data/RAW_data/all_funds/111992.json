@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Corporate Bond Fund",
         "scheme_code": 111992,
-        "scheme_name": "ICICI Prudential Corporate Bond Fund -Quarterly IDCW",
+        "scheme_name": "ICICI Prudential Corporate Bond Fund - Regular Plan - Quarterly IDCW",
         "isin_growth": "INF109K01SN4",
         "isin_div_reinvestment": "INF109K01SO2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.39580"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.41330"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.41160"

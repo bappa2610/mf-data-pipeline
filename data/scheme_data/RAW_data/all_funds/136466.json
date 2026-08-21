@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Solution Oriented Scheme - Retirement Fund",
         "scheme_code": 136466,
-        "scheme_name": "HDFC Retirement Savings Fund - Hybrid-Debt Plan - Growth Option",
+        "scheme_name": "HDFC Retirement Savings Fund - Hybrid-Debt Plan - Regular Plan - Growth Option",
         "isin_growth": "INF179KB1MK0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "21.87740"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "21.88340"
+        },
         {
             "date": "18-08-2026",
             "nav": "21.89580"

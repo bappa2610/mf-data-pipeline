@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
         "scheme_code": 126391,
-        "scheme_name": "DSP Dynamic Asset Allocation Fund - Direct Plan - IDCW - Monthly",
+        "scheme_name": "DSP Dynamic Asset Allocation Fund - Direct Plan - Monthly IDCW",
         "isin_growth": "INF740K01K99",
         "isin_div_reinvestment": "INF740K01L07"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "16.98700"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "16.93800"
+        },
         {
             "date": "18-08-2026",
             "nav": "16.94600"

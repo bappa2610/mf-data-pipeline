@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Money Market Fund",
         "scheme_code": 118505,
-        "scheme_name": "Franklin India Money Market Fund Retail Option - Direct - Quarterly - IDCW",
+        "scheme_name": "Franklin India Money Market Fund - Direct Plan - Retail Plan Quarterly IDCW",
         "isin_growth": "INF090I01GT2",
         "isin_div_reinvestment": "INF090I01GU0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.75600"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.76010"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.75820"

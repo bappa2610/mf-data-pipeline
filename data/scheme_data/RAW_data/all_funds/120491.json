@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Flexi Cap Fund",
         "scheme_code": 120491,
-        "scheme_name": "JM Flexicap Fund (Direct) - IDCW",
+        "scheme_name": "JM Flexicap Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF192K01CA1",
         "isin_div_reinvestment": "INF192K01CB9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "106.08890"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "105.29060"
+        },
         {
             "date": "18-08-2026",
             "nav": "105.58830"

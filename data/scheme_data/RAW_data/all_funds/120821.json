@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
         "scheme_code": 120821,
-        "scheme_name": "quant Multi Asset Allocation Fund-GROWTH OPTION-Direct Plan",
+        "scheme_name": "Quant Multi Asset Allocation Fund - Direct Plan - Growth Option",
         "isin_growth": "INF966L01580",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "183.68850"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "182.96480"
+        },
         {
             "date": "18-08-2026",
             "nav": "183.48090"

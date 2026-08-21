@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Ultra Short Term Fund",
         "scheme_code": 102592,
-        "scheme_name": "Kotak Savings Fund -Monthly Payout of Income Distribution cum capital withdrawal option",
+        "scheme_name": "Kotak Savings Fund - Regular Plan - Monthly Payout of Income Distribution cum capital withdrawal option",
         "isin_growth": "INF174K01FH7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.71910"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.72300"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.72220"

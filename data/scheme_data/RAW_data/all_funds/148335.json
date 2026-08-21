@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Credit Risk Fund",
         "scheme_code": 148335,
-        "scheme_name": "Baroda BNP Paribas Credit Risk Fund-Direct- Quarterly IDCW Option- Segregated Portfolio- 1",
+        "scheme_name": "Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios) - Direct Plan - Quarterly IDCW Option",
         "isin_growth": "INF955L01IU4",
         "isin_div_reinvestment": "INF955L01IV2"
     },
     "data": [
+        {
+            "date": "19-08-2026",
+            "nav": "0.00000"
+        },
         {
             "date": "18-08-2026",
             "nav": "0.00000"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 143261,
-        "scheme_name": "Parag Parikh Liquid Fund- Regular Plan- Monthly IDCW",
+        "scheme_name": "Parag Parikh Liquid Fund - Regular Plan - Monthly IDCW Payout",
         "isin_growth": "INF879O01043",
         "isin_div_reinvestment": "INF879O01050"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1007.19590"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1007.06150"
+        },
         {
             "date": "18-08-2026",
             "nav": "1006.87730"

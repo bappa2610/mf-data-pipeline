@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 131331,
-        "scheme_name": "Nippon India ETF BSE Sensex",
+        "scheme_name": "Nippon India ETF BSE Sensex - Direct Plan",
         "isin_growth": "INF204KA1UN7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "892.25090"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "885.03300"
+        },
         {
             "date": "18-08-2026",
             "nav": "888.77830"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 119804,
-        "scheme_name": "SBI Liquid Fund - Direct Paln - Fortnightly Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI LIQUID FUND - Direct Plan - IDCW",
         "isin_growth": "INF200K01UR8",
         "isin_div_reinvestment": "INF200K01US6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1444.38710"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1444.25310"
+        },
         {
             "date": "18-08-2026",
             "nav": "1444.01920"

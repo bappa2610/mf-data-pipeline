@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 134924,
-        "scheme_name": "NIPPON INDIA - US EQUITY OPPORTUNITIES FUND - IDCW Option",
+        "scheme_name": "Nippon India US Equity Opportunities Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF204KA13G0",
         "isin_div_reinvestment": "INF204KA14G8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "42.37950"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "42.56870"
+        },
         {
             "date": "18-08-2026",
             "nav": "42.22790"

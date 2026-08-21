@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 118878,
-        "scheme_name": "Taurus Ethical Fund-Direct Plan-Bonus Option #",
+        "scheme_name": "Taurus Ethical Fund - Direct Plan - Bonus",
         "isin_growth": "INF044D01CM4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "21-08-2026",
+            "nav": "48.54000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "48.32000"
+        },
         {
             "date": "18-08-2026",
             "nav": "48.42000"

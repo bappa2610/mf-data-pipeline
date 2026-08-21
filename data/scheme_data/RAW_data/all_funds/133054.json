@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Equity Savings",
         "scheme_code": 133054,
-        "scheme_name": "ICICI Prudential Equity Savings Fund - Direct Plan - Cumulative option",
+        "scheme_name": "ICICI Prudential Equity Savings Fund - Direct Plan - Cumulative",
         "isin_growth": "INF109KA11J9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "25.17000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "25.16000"
+        },
         {
             "date": "18-08-2026",
             "nav": "25.16000"

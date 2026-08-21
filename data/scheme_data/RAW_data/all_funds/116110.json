@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 116110,
-        "scheme_name": "Invesco India Short Duration Fund- Regular Plan - Discretionary IDCW (Payout / Reinvestment)",
+        "scheme_name": "Invesco India Short Duration Fund - Regular Plan - Discretionary IDCW",
         "isin_growth": "INF205K01UL0",
         "isin_div_reinvestment": "INF205K01UM8"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "2814.08370"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "2819.16460"
+        },
         {
             "date": "18-08-2026",
             "nav": "2818.68700"

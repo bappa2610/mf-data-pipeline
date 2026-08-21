@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 119091,
-        "scheme_name": "HDFC Liquid Fund - Growth Option - Direct Plan",
+        "scheme_name": "HDFC Liquid Fund - Direct Plan - Growth Option",
         "isin_growth": "INF179KB1HP9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "5555.75670"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "5555.19160"
+        },
         {
             "date": "18-08-2026",
             "nav": "5554.22340"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 119416,
-        "scheme_name": "Baroda BNP Paribas LIQUID FUND - DIRECT PLAN - WEEKLY IDCW OPTION",
+        "scheme_name": "BARODA BNP PARIBAS LIQUID FUND - Direct Plan - Weekly IDCW Option",
         "isin_growth": "INF251K01SL8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1220.54830"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1220.39840"
+        },
         {
             "date": "18-08-2026",
             "nav": "1220.18690"

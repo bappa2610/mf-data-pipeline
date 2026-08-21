@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 105274,
-        "scheme_name": "SBI Liquid Fund - Institutional - Growth",
+        "scheme_name": "SBI LIQUID FUND - Regular Plan - Growth",
         "isin_growth": "INF200K01LU1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "4414.85790"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "4414.45970"
+        },
         {
             "date": "18-08-2026",
             "nav": "4413.75660"

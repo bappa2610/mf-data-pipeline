@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
         "scheme_code": 138382,
-        "scheme_name": "PGIM India Aggressive Hybrid Equity Fund - Growth Option",
+        "scheme_name": "PGIM India Aggressive Hybrid Equity Fund - Regular Plan - Regular Growth",
         "isin_growth": "INF663L01HC4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "130.11000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "129.63000"
+        },
         {
             "date": "18-08-2026",
             "nav": "130.03000"

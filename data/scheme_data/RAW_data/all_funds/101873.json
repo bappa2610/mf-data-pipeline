@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Dynamic Bond",
         "scheme_code": 101873,
-        "scheme_name": "HDFC Dynamic Debt Fund - Quarterly IDCW Option",
+        "scheme_name": "HDFC Dynamic Debt Fund - Regular Plan - Quarterly IDCW Option",
         "isin_growth": "INF179K01871",
         "isin_div_reinvestment": "INF179K01889"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "12.82540"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "12.86850"
+        },
         {
             "date": "18-08-2026",
             "nav": "12.85390"

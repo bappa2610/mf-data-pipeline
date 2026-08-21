@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 141922,
-        "scheme_name": "HDFC Housing Opportunities Fund  - IDCW Option",
+        "scheme_name": "HDFC Housing Opportunities Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF179KC1AY5",
         "isin_div_reinvestment": "INF179KC1AZ2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.55900"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "15.45200"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.54200"

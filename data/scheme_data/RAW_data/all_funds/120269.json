@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - ELSS",
         "scheme_code": 120269,
-        "scheme_name": "LIC MF ELSS Tax Saver-Direct Plan-IDCW",
+        "scheme_name": "LIC MF ELSS Tax Saver - Direct Plan - IDCW",
         "isin_growth": "INF767K01EL3",
         "isin_div_reinvestment": "INF767K01EN9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "38.26230"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "38.01730"
+        },
         {
             "date": "18-08-2026",
             "nav": "38.19230"

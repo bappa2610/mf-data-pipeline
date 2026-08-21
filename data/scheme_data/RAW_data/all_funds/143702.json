@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Long Duration Fund",
         "scheme_code": 143702,
-        "scheme_name": "Nippon India Nivesh Lakshya Long Duration Fund- Growth Option",
+        "scheme_name": "Nippon India Nivesh Lakshya Long Duration Fund - Regular Plan - Growth Option",
         "isin_growth": "INF204KB1ZB0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "18.33910"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "18.40150"
+        },
         {
             "date": "18-08-2026",
             "nav": "18.40560"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 101408,
-        "scheme_name": "Baroda BNP Paribas LIQUID FUND- Defunct Plan -Growth Option",
+        "scheme_name": "BARODA BNP PARIBAS LIQUID FUND - Growth Option",
         "isin_growth": "INF955L01575",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "4734.86090"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "4734.28920"
+        },
         {
             "date": "18-08-2026",
             "nav": "4733.47840"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Equity Savings",
         "scheme_code": 134640,
-        "scheme_name": "SBI Equity Savings Fund - Direct Plan - Quarterly Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI EQUITY SAVINGS FUND - Direct Plan - IDCW",
         "isin_growth": "INF200KA1DI7",
         "isin_div_reinvestment": "INF200KA1DJ5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "26.04170"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "26.03150"
+        },
         {
             "date": "18-08-2026",
             "nav": "26.03880"

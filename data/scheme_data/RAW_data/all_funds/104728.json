@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Ultra Short to Short Term Fund",
         "scheme_code": 104728,
-        "scheme_name": "Invesco India Low Duration Fund - Regular - Growth",
+        "scheme_name": "Invesco India Low Duration Fund - Regular Plan - Growth",
         "isin_growth": "INF205K01HT0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "3576.55070"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "3578.91980"
+        },
         {
             "date": "18-08-2026",
             "nav": "3578.19680"

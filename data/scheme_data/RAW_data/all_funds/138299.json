@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 138299,
-        "scheme_name": "PGIM India Liquid Fund - Direct Plan - Growth",
+        "scheme_name": "PGIM India Liquid Fund - Direct Plan - Direct Growth",
         "isin_growth": "INF223J01NS5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "369.26150"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "369.23100"
+        },
         {
             "date": "18-08-2026",
             "nav": "369.17240"

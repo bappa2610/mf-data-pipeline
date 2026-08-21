@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Solution Oriented Scheme - Retirement Fund",
         "scheme_code": 136090,
-        "scheme_name": "HDFC Retirement Savings Fund - Equity Plan - Growth Option",
+        "scheme_name": "HDFC Retirement Savings Fund - Equity Plan - Regular Plan - Growth Option",
         "isin_growth": "INF179KB1MG8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "49.12100"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "48.82900"
+        },
         {
             "date": "18-08-2026",
             "nav": "48.98300"

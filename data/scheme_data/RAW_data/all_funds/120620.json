@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 120620,
-        "scheme_name": "ICICI Prudential Nifty 50 Index Fund - Direct Plan Cumulative Option",
+        "scheme_name": "ICICI Prudential Nifty 50 Index Fund - Direct Plan - Cumulative",
         "isin_growth": "INF109K012M7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "256.47720"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "254.85520"
+        },
         {
             "date": "18-08-2026",
             "nav": "255.66620"

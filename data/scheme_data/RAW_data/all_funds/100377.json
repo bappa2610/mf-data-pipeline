@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Mid Cap Fund",
         "scheme_code": 100377,
-        "scheme_name": "Nippon India Growth Mid Cap Fund-Growth Plan-Growth Option",
+        "scheme_name": "Nippon India Growth Mid Cap Fund - Regular Plan - Growth Option",
         "isin_growth": "INF204K01323",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "4572.56300"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "4555.81810"
+        },
         {
             "date": "18-08-2026",
             "nav": "4576.33530"

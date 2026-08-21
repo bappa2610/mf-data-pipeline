@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 100842,
-        "scheme_name": "NIPPON INDIA LIQUID FUND - RETAIL Plan - DAILY IDCW OPTION",
+        "scheme_name": "Nippon India Liquid Fund - Regular Plan - RETAIL Plan - DAILY IDCW OPTION",
         "isin_growth": null,
         "isin_div_reinvestment": "INF204K01UJ7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1524.28000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1524.28000"
+        },
         {
             "date": "18-08-2026",
             "nav": "1524.28000"

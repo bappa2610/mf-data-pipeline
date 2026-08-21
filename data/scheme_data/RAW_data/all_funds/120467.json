@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Focused Fund",
         "scheme_code": 120467,
-        "scheme_name": "Axis Focused Fund - Direct Plan - IDCW",
+        "scheme_name": "Axis Focused Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF846K01CO3",
         "isin_div_reinvestment": "INF846K01CP0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "33.85000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "33.65000"
+        },
         {
             "date": "18-08-2026",
             "nav": "33.83000"

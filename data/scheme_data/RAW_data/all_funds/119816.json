@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Short Duration Fund",
         "scheme_code": 119816,
-        "scheme_name": "SBI SHORT TERM DEBT FUND - DIRECT PLAN -GROWTH",
+        "scheme_name": "SBI SHORT TERM DEBT FUND - Direct Plan - Growth",
         "isin_growth": "INF200K01VE4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "36.40340"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "36.46540"
+        },
         {
             "date": "18-08-2026",
             "nav": "36.45960"

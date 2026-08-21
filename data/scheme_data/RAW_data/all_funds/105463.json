@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Gold ETF",
+        "scheme_category": "Exchange Traded Funds (ETFs) - Gold ETF",
         "scheme_code": 105463,
-        "scheme_name": "UTI GOLD Exchange Traded Fund",
+        "scheme_name": "UTI - Gold Exchange Traded Fund - Direct Plan - Growth",
         "isin_growth": "INF789F1AUX7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "131.11390"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "128.16670"
+        },
         {
             "date": "18-08-2026",
             "nav": "128.65310"

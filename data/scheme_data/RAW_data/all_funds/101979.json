@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - ELSS",
         "scheme_code": 101979,
-        "scheme_name": "HDFC ELSS Tax saver - Growth Plan",
+        "scheme_name": "HDFC ELSS Tax saver - Regular Plan - Growth Option",
         "isin_growth": "INF179K01BB8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1392.33500"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1382.73800"
+        },
         {
             "date": "18-08-2026",
             "nav": "1385.46500"

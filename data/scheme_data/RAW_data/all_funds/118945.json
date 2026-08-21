@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Low Duration Fund",
         "scheme_code": 118945,
-        "scheme_name": "HDFC Low Duration  Fund - Direct Plan - Daily IDCW",
+        "scheme_name": "HDFC Low Duration Fund - Direct Plan - Daily IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF179KC1IR2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.05980"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.06550"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.06550"

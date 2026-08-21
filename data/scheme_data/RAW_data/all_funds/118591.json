@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 118591,
-        "scheme_name": "Nippon India Banking & Financial Services Fund- DIRECT Plan - IDCW Option",
+        "scheme_name": "Nippon India Banking & Financial Services Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF204K01XM5",
         "isin_div_reinvestment": "INF204K01XN3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "103.82980"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "102.87500"
+        },
         {
             "date": "18-08-2026",
             "nav": "103.21630"

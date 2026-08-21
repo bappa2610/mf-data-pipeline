@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Equity Savings",
         "scheme_code": 135124,
-        "scheme_name": "Axis Equity Savings Fund - Direct Plan - Quarterly IDCW",
+        "scheme_name": "Axis Equity Savings Fund - Direct Plan - Quarterly IDCW Option",
         "isin_growth": "INF846K01VM7",
         "isin_div_reinvestment": "INF846K01VN5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.97000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.96000"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.96000"

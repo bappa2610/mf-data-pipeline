@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Overseas",
         "scheme_code": 138453,
-        "scheme_name": "PGIM India Emerging Markets Equity Fund of Fund- Growth",
+        "scheme_name": "PGIM India Emerging Markets Equity Fund of Fund - Regular Plan - Regular Growth",
         "isin_growth": "INF223J01AY0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "23.15000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "22.86000"
+        },
         {
             "date": "18-08-2026",
             "nav": "23.45000"

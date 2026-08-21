@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Small Cap Fund",
         "scheme_code": 145678,
-        "scheme_name": "BANK OF INDIA Small Cap Fund Direct Plan Growth",
+        "scheme_name": "BANK OF INDIA SMALL CAP FUND - Direct Plan - Growth",
         "isin_growth": "INF761K01EP7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "65.66000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "65.21000"
+        },
         {
             "date": "18-08-2026",
             "nav": "65.69000"

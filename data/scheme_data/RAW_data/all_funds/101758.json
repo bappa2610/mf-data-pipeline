@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Short Duration Fund",
         "scheme_code": 101758,
-        "scheme_name": "ICICI Prudential Short Term Fund - Growth Option",
+        "scheme_name": "ICICI Prudential Short Term Fund - Regular Plan - Growth",
         "isin_growth": "INF109K01654",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "64.36480"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "64.45530"
+        },
         {
             "date": "18-08-2026",
             "nav": "64.44540"

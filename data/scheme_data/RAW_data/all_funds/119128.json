@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Equity Savings",
         "scheme_code": 119128,
-        "scheme_name": "HDFC Equity Savings Fund - Growth Option - Direct Plan",
+        "scheme_name": "HDFC Equity Savings Fund - Direct Plan - Growth Option",
         "isin_growth": "INF179K01XT4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "77.00800"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "76.90000"
+        },
         {
             "date": "18-08-2026",
             "nav": "76.93200"

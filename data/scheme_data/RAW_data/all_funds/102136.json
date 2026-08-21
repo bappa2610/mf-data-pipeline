@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 102136,
-        "scheme_name": "ICICI Prudential Aggressive Hybrid Active FOF - IDCW",
+        "scheme_name": "ICICI Prudential Aggressive Hybrid Active FOF - Dividend Option - Regular Plan - IDCW",
         "isin_growth": "INF109K01FR2",
         "isin_div_reinvestment": "INF109K01860"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "177.77470"
+        },
         {
             "date": "18-08-2026",
             "nav": "176.90650"

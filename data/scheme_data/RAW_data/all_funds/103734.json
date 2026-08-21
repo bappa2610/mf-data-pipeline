@@ -4,11 +4,23 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 103734,
-        "scheme_name": "Quantum Liquid Fund - Direct Plan Growth Option",
+        "scheme_name": "Quantum Liquid Fund - Direct Plan - Growth Option",
         "isin_growth": "INF082J01127",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "21-08-2026",
+            "nav": "37.59960"
+        },
+        {
+            "date": "20-08-2026",
+            "nav": "37.59440"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "37.59150"
+        },
         {
             "date": "18-08-2026",
             "nav": "37.58560"

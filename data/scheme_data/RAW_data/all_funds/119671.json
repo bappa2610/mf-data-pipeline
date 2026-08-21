@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Dynamic Bond",
         "scheme_code": 119671,
-        "scheme_name": "SBI Dynamic Bond Fund - DIRECT PLAN - Growth",
+        "scheme_name": "SBI DYNAMIC BOND FUND - Direct Plan - Growth",
         "isin_growth": "INF200K01RD4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "41.40730"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "41.45990"
+        },
         {
             "date": "18-08-2026",
             "nav": "41.46460"

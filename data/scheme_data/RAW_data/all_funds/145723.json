@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Arbitrage Fund",
         "scheme_code": 145723,
-        "scheme_name": "Tata Arbitrage Fund-Regular Plan-Growth",
+        "scheme_name": "Tata Arbitrage Fund - Regular Plan - Growth Option",
         "isin_growth": "INF277K015Q7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "15.33140"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "15.34110"
+        },
         {
             "date": "18-08-2026",
             "nav": "15.32230"

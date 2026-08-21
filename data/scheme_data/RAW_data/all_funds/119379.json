@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
         "scheme_code": 119379,
-        "scheme_name": "BANK OF INDIA Ultra Short Duration Fund- Direct Plan- Growth",
+        "scheme_name": "BANK OF INDIA ULTRA SHORT DURATION FUND - Direct Plan - Growth",
         "isin_growth": "INF761K01892",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "3513.02440"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "3514.35560"
+        },
         {
             "date": "18-08-2026",
             "nav": "3513.74240"

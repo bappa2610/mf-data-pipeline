@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
         "scheme_code": 131665,
-        "scheme_name": "Aditya Birla Sun Life Balanced Advantage Fund -REGULAR - IDCW",
+        "scheme_name": "Aditya Birla Sun Life Balanced Advantage Fund - Regular Plan - IDCW-Re-investment",
         "isin_growth": "INF084M01AC6",
         "isin_div_reinvestment": "INF084M01AD4"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "26.79000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "26.66000"
+        },
         {
             "date": "18-08-2026",
             "nav": "26.69000"

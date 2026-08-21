@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 120733,
-        "scheme_name": "UTI Banking and Financial Services Fund - Direct Plan - Growth Option",
+        "scheme_name": "UTI - Banking and Financial Services Fund - Direct Plan - Growth",
         "isin_growth": "INF789F01SN3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "228.20910"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "226.01150"
+        },
         {
             "date": "18-08-2026",
             "nav": "227.06880"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
         "scheme_code": 144172,
-        "scheme_name": "BANDHAN ULTRA SHORT DURATION FUND - REGULAR PLAN DAILY IDCW",
+        "scheme_name": "BANDHAN ULTRA SHORT DURATION FUND - Regular Plan - Daily IDCW",
         "isin_growth": "INF194KA12Q4",
         "isin_div_reinvestment": "INF194KA13Q2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.04750"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.05190"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.05190"

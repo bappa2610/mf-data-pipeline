@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 119029,
-        "scheme_name": "DSP Natural Resources and New Energy Fund - Direct Plan - IDCW",
+        "scheme_name": "DSP Natural Resources And New Energy Fund - Direct Plan - IDCW",
         "isin_growth": "INF740K01QB5",
         "isin_div_reinvestment": "INF740K01QC3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "38.63500"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "38.48600"
+        },
         {
             "date": "18-08-2026",
             "nav": "38.58600"

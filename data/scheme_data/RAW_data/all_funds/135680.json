@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large & Mid Cap Fund",
         "scheme_code": 135680,
-        "scheme_name": "Navi Large & Midcap Fund - Regular Normal IDCW Payout",
+        "scheme_name": "Navi Large & Midcap Fund - Regular Plan - Normal IDCW Payout",
         "isin_growth": "INF959L01CL8",
         "isin_div_reinvestment": "INF959L01CM6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "37.27420"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "37.10760"
+        },
         {
             "date": "18-08-2026",
             "nav": "37.13460"

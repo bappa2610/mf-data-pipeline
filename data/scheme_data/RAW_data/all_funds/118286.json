@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - ELSS",
         "scheme_code": 118286,
-        "scheme_name": "CANARA ROBECO ELSS TAX SAVER - DIRECT PLAN - IDCW (Payout)",
+        "scheme_name": "Canara Robeco ELSS Tax Saver - Direct Plan - IDCW (Payout)",
         "isin_growth": "INF760K01EJ2",
         "isin_div_reinvestment": "INF760K01EK0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "79.47000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "79.05000"
+        },
         {
             "date": "18-08-2026",
             "nav": "79.33000"

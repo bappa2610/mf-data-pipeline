@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Other  ETFs",
         "scheme_code": 121146,
-        "scheme_name": "Nippon India ETF Nifty 100",
+        "scheme_name": "Nippon India ETF Nifty 100 - Direct Plan",
         "isin_growth": "INF204K014N5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "269.62580"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "268.04460"
+        },
         {
             "date": "18-08-2026",
             "nav": "269.01620"

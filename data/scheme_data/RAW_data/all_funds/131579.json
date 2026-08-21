@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Focused Fund",
         "scheme_code": 131579,
-        "scheme_name": "360 ONE Focused Fund - Regular Plan - Dividend",
+        "scheme_name": "360 ONE Focused Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF579M01886",
         "isin_div_reinvestment": "INF579M01894"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "43.54530"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "43.20050"
+        },
         {
             "date": "18-08-2026",
             "nav": "43.22380"

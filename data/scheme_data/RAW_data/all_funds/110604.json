@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large & Mid Cap Fund",
         "scheme_code": 110604,
-        "scheme_name": "BANK OF INDIA Large & Mid Cap Fund Eco Plan-Quarterly IDCW",
+        "scheme_name": "BANK OF INDIA LARGE & MID CAP FUND - Quarterly IDCW",
         "isin_growth": "INF761K01058",
         "isin_div_reinvestment": "INF761K01066"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "29.30000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "29.15000"
+        },
         {
             "date": "18-08-2026",
             "nav": "29.23000"

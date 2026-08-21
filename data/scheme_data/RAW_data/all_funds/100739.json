@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 100739,
-        "scheme_name": "UTI MNC Fund - Regular Plan - IDCW",
+        "scheme_name": "UTI - MNC Fund - Regular Plan - IDCW",
         "isin_growth": "INF789F01828",
         "isin_div_reinvestment": "INF789F01836"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "210.72450"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "210.18420"
+        },
         {
             "date": "18-08-2026",
             "nav": "211.09550"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Low Duration Fund",
         "scheme_code": 119957,
-        "scheme_name": "Tata Treasury Advantage Fund Direct Plan - Periodic Payout of IDCW Option",
+        "scheme_name": "Tata Treasury Advantage Fund - Direct Plan - Periodic Payout of IDCW Option",
         "isin_growth": "INF277K01OL2",
         "isin_div_reinvestment": "INF277K01OM0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "2755.53300"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "2757.11050"
+        },
         {
             "date": "18-08-2026",
             "nav": "2756.52610"

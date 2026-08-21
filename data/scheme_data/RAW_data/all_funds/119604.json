@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
         "scheme_code": 119604,
-        "scheme_name": "SBI Equity Hybrid Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI EQUITY HYBRID FUND - Direct Plan - IDCW",
         "isin_growth": "INF200K01RW4",
         "isin_div_reinvestment": "INF200K01RX2"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "103.63120"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "103.09250"
+        },
         {
             "date": "18-08-2026",
             "nav": "103.56180"

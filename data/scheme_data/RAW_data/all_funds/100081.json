@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
         "scheme_code": 100081,
-        "scheme_name": "DSP Aggressive Hybrid Fund- Regular Plan - Growth",
+        "scheme_name": "DSP Aggressive Hybrid Fund - Regular Plan - Growth",
         "isin_growth": "INF740K01318",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "350.30500"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "348.83700"
+        },
         {
             "date": "18-08-2026",
             "nav": "349.62200"

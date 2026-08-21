@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 145076,
-        "scheme_name": "ICICI Prudential Manufacturing Fund - Direct Plan - IDCW Option",
+        "scheme_name": "ICICI Prudential Manufacturing Fund - Direct Plan - IDCW",
         "isin_growth": "INF109KC1LK6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "25.81000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "25.73000"
+        },
         {
             "date": "18-08-2026",
             "nav": "25.90000"

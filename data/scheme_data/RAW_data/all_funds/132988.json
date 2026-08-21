@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Domestic",
         "scheme_code": 132988,
-        "scheme_name": "Franklin India Income Plus Arbitrage Active Fund of Funds- IDCW",
+        "scheme_name": "Franklin India Income Plus Arbitrage Active Fund of Funds - Regular Plan - IDCW",
         "isin_growth": "INF090I01LF1",
         "isin_div_reinvestment": "INF090I01LG9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "20.67320"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "20.68970"
+        },
         {
             "date": "18-08-2026",
             "nav": "20.67570"

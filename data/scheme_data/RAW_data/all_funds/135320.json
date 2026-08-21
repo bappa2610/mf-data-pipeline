@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Other  ETFs",
+        "scheme_category": "Exchange Traded Funds (ETFs) - Equity ETF",
         "scheme_code": 135320,
-        "scheme_name": "UTI Nifty 50 ETF",
+        "scheme_name": "UTI Nifty 50 ETF - Direct Plan",
         "isin_growth": "INF789F1AZC0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "268.89240"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "267.19020"
+        },
         {
             "date": "18-08-2026",
             "nav": "268.03950"

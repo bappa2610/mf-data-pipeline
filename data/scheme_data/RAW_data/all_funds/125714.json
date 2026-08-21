@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
         "scheme_code": 125714,
-        "scheme_name": "Shriram Aggressive Hybrid Fund- Regular-IDCW",
+        "scheme_name": "Shriram Aggressive Hybrid Fund - Regular Plan - IDCW",
         "isin_growth": "INF680P01026",
         "isin_div_reinvestment": "INF680P01034"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "25.80460"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "25.67550"
+        },
         {
             "date": "18-08-2026",
             "nav": "25.71610"

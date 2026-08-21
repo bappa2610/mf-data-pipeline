@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Overnight Fund",
         "scheme_code": 114297,
-        "scheme_name": "SBI Overnight Fund - Regular Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI OVERNIGHT FUND - Regular Plan - IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF200K01LN6"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1379.97370"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1379.78760"
+        },
         {
             "date": "18-08-2026",
             "nav": "1379.60190"

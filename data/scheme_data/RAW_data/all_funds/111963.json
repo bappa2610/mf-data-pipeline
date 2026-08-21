@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Dynamic Bond",
         "scheme_code": 111963,
-        "scheme_name": "CANARA ROBECO DYNAMIC BOND FUND - REGULAR PLAN - IDCW (Payout/Reinvestment)",
+        "scheme_name": "Canara Robeco Dynamic Bond Fund - Regular Plan - IDCW (Payout/Reinvestment)",
         "isin_growth": "INF760K01423",
         "isin_div_reinvestment": "INF760K01431"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.30870"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.33730"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.33780"

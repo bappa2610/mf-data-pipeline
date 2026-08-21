@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Mid Cap Fund",
         "scheme_code": 102942,
-        "scheme_name": "SBI Midcap Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW)",
+        "scheme_name": "SBI MIDCAP FUND - Regular Plan - IDCW",
         "isin_growth": "INF200K01578",
         "isin_div_reinvestment": "INF200K01586"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "99.33290"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "99.07080"
+        },
         {
             "date": "18-08-2026",
             "nav": "99.73210"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - ELSS",
         "scheme_code": 120846,
-        "scheme_name": "quant ELSS Tax Saver Fund - IDCW Option - Direct Plan",
+        "scheme_name": "Quant ELSS Tax Saver Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF966L01960",
         "isin_div_reinvestment": "INF966L01127"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "61.86570"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "61.84310"
+        },
         {
             "date": "18-08-2026",
             "nav": "62.11540"

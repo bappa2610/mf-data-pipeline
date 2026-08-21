@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large Cap Fund",
         "scheme_code": 134954,
-        "scheme_name": "JM Large Cap Fund (Regular) - Quarterly IDCW",
+        "scheme_name": "JM Large Cap Fund - Regular Plan - Quarterly IDCW Option",
         "isin_growth": "INF192K01JL3",
         "isin_div_reinvestment": "INF192K01JM1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "35.23630"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "35.00530"
+        },
         {
             "date": "18-08-2026",
             "nav": "35.09640"

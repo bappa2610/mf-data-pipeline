@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 112153,
-        "scheme_name": "CANARA ROBECO CONSUMPTION FUND - REGULAR PLAN - IDCW (Payout/Reinvestment)",
+        "scheme_name": "Canara Robeco Consumption Fund - Regular Plan - IDCW (Payout/Reinvestment)",
         "isin_growth": "INF760K01225",
         "isin_div_reinvestment": "INF760K01233"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "45.10000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "44.75000"
+        },
         {
             "date": "18-08-2026",
             "nav": "44.78000"

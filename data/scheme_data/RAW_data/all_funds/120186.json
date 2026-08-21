@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 120186,
-        "scheme_name": "ICICI Prudential US Bluechip Equity Fund - Direct Plan -  Growth",
+        "scheme_name": "ICICI Prudential US Bluechip Equity Fund - Direct Plan - Growth",
         "isin_growth": "INF109K01Z71",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "92.66000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "93.29000"
+        },
         {
             "date": "18-08-2026",
             "nav": "91.09000"

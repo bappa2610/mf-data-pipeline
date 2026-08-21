@@ -4,11 +4,19 @@
         "scheme_type": "Close Ended Schemes",
         "scheme_category": "ELSS",
         "scheme_code": 142134,
-        "scheme_name": "ICICI Prudential Long Term Wealth Enhancement Fund - Direct Plan Cumulative Option",
+        "scheme_name": "ICICI Prudential Long Term Wealth Enhancement Fund",
         "isin_growth": "INF109KC1093",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "31.42000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "31.28000"
+        },
         {
             "date": "18-08-2026",
             "nav": "31.22000"

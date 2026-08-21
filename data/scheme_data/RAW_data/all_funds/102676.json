@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Floater Fund",
         "scheme_code": 102676,
-        "scheme_name": "NIPPON INDIA FLOATER FUND - DAILY IDCW REINVESTMENT Option",
+        "scheme_name": "Nippon India Floater Fund - Regular Plan - IDCW Option",
         "isin_growth": null,
         "isin_div_reinvestment": "INF204K01CI7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.23310"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.24680"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.24640"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 100837,
-        "scheme_name": "Nippon India Liquid Fund - Retail Option - Growth Plan",
+        "scheme_name": "Nippon India Liquid Fund - Regular Plan - Retail Plan - Growth Option",
         "isin_growth": "INF204K01UL3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "6051.48540"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "6050.85060"
+        },
         {
             "date": "18-08-2026",
             "nav": "6049.83030"

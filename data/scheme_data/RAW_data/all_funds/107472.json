@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Gilt Fund",
         "scheme_code": 107472,
-        "scheme_name": "Invesco India Gilt Fund - Regular Plan - Quarterly IDCW (Payout / Reinvestment)",
+        "scheme_name": "Invesco India Gilt Fund - Regular Plan - Quarterly IDCW",
         "isin_growth": "INF205K01ST7",
         "isin_div_reinvestment": "INF205K01SU5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1331.44630"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1336.61720"
+        },
         {
             "date": "18-08-2026",
             "nav": "1336.89940"

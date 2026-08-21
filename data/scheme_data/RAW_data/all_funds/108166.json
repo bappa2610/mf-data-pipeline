@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Value Fund",
         "scheme_code": 108166,
-        "scheme_name": "Aditya Birla Sun Life Value Fund - Regular - IDCW",
+        "scheme_name": "Aditya Birla Sun Life Value Fund - Regular Plan - IDCW",
         "isin_growth": "INF209K01LE6",
         "isin_div_reinvestment": "INF209K01LG1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "42.34770"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "42.05480"
+        },
         {
             "date": "18-08-2026",
             "nav": "42.16610"

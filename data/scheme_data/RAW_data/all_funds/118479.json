@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Large Cap Fund",
         "scheme_code": 118479,
-        "scheme_name": "BANDHAN Large Cap Fund-Direct Plan-Growth",
+        "scheme_name": "BANDHAN LARGE CAP FUND - Direct Plan - Growth",
         "isin_growth": "INF194K01Z44",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "92.52400"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "91.78400"
+        },
         {
             "date": "18-08-2026",
             "nav": "91.94900"

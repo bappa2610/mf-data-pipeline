@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Dividend Yield Fund",
+        "scheme_category": "Equity Schemes - Dividend Yield Fund",
         "scheme_code": 103026,
-        "scheme_name": "UTI-Dividend Yield Fund.-Growth",
+        "scheme_name": "UTI - Dividend Yield Fund - Regular Plan - Growth",
         "isin_growth": "INF789F01463",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "177.83580"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "177.30570"
+        },
         {
             "date": "18-08-2026",
             "nav": "177.65000"

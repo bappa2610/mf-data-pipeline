@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Solution Oriented Scheme - Retirement Fund",
         "scheme_code": 133630,
-        "scheme_name": "Nippon India Retirement Fund- Wealth Creation Scheme- Direct Plan-Growth Plan- Bonus Option",
+        "scheme_name": "Nippon India Retirement Fund- Wealth Creation Scheme - Direct Plan - Bonus Option",
         "isin_growth": "INF204KA1B98",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "33.22080"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "33.06750"
+        },
         {
             "date": "18-08-2026",
             "nav": "33.20030"

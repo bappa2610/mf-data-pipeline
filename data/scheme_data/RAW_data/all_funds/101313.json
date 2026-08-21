@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - Index Funds",
         "scheme_code": 101313,
-        "scheme_name": "Aditya Birla Sun Life Nifty 50 Index Fund -REGULAR - IDCW",
+        "scheme_name": "Aditya Birla Sun Life Nifty 50 Index Fund - Regular Plan - IDCW",
         "isin_growth": "INF209K01LA4",
         "isin_div_reinvestment": "INF209K01LC0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "24.72680"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "24.57060"
+        },
         {
             "date": "18-08-2026",
             "nav": "24.64900"

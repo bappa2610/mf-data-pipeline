@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Other Scheme - FoF Overseas",
         "scheme_code": 119778,
-        "scheme_name": "Kotak Global Emerging Market Overseas Equity Omni FOF - Payout of Income Distribution cum capital withdrawal option - Direct",
+        "scheme_name": "Kotak Global Emerging Market Overseas Equity Omni FOF - Direct Plan - Payout of Income Distribution cum capital withdrawal option",
         "isin_growth": "INF174K01LX2",
         "isin_div_reinvestment": "INF174K01LY0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "43.64800"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "42.83500"
+        },
         {
             "date": "18-08-2026",
             "nav": "43.41700"

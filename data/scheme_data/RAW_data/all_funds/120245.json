@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 120245,
-        "scheme_name": "ICICI Prudential Banking and Financial Services Fund - Direct Plan -  IDCW",
+        "scheme_name": "ICICI Prudential Banking & Financial Services Fund - Direct Plan - IDCW",
         "isin_growth": "INF109K011J5",
         "isin_div_reinvestment": "INF109K012J3"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "68.34000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "67.67000"
+        },
         {
             "date": "18-08-2026",
             "nav": "67.84000"

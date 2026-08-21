@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 120575,
-        "scheme_name": "SBI CONSUMPTION OPPORTUNITIES FUND - DIRECT PLAN - GROWTH",
+        "scheme_name": "SBI CONSUMPTION OPPORTUNITIES FUND - Direct Plan - Growth",
         "isin_growth": "INF200K01RM5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "335.51620"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "333.19610"
+        },
         {
             "date": "18-08-2026",
             "nav": "335.02860"

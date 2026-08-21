@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 119161,
-        "scheme_name": "Navi Liquid Fund - Direct Plan Monthly IDCW - Payout",
+        "scheme_name": "Navi Liquid Fund - Direct Plan - Monthly IDCW - Payout",
         "isin_growth": "INF959L01GG9",
         "isin_div_reinvestment": "INF959L01GH7"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.04380"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.04260"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.04100"

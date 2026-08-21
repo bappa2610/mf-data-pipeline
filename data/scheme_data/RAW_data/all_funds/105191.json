@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 105191,
-        "scheme_name": "Invesco India Short Duration Fund - Regular Plan - Monthly IDCW (Payout / Reinvestment)",
+        "scheme_name": "Invesco India Short Duration Fund - Regular Plan - Monthly IDCW",
         "isin_growth": "INF205K01UO4",
         "isin_div_reinvestment": "INF205K01UP1"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1049.56290"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1051.45800"
+        },
         {
             "date": "18-08-2026",
             "nav": "1051.27980"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Liquid Fund",
         "scheme_code": 109254,
-        "scheme_name": "BANK OF INDIA Liquid Fund- Regular Plan- Growth",
+        "scheme_name": "BANK OF INDIA LIQUID FUND - Regular Plan - Growth",
         "isin_growth": "INF761K01306",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "3224.89670"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "3224.67210"
+        },
         {
             "date": "18-08-2026",
             "nav": "3224.11880"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Medium Duration Fund",
         "scheme_code": 119081,
-        "scheme_name": "HDFC Medium Term Debt Fund - Growth Option - Direct Plan",
+        "scheme_name": "HDFC Medium Term Debt Fund - Direct Plan - Growth Option",
         "isin_growth": "INF179K01WI9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "65.92030"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "66.03200"
+        },
         {
             "date": "18-08-2026",
             "nav": "66.02330"

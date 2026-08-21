@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Gilt Fund",
         "scheme_code": 118672,
-        "scheme_name": "Nippon India Gilt  Fund - Direct Plan Growth Plan - Growth Option",
+        "scheme_name": "Nippon India Gilt Fund - Direct Plan - Growth Option",
         "isin_growth": "INF204K01XP8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "44.58270"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "44.72440"
+        },
         {
             "date": "18-08-2026",
             "nav": "44.71110"

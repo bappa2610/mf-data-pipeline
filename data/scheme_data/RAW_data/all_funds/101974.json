@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Money Market Fund",
         "scheme_code": 101974,
-        "scheme_name": "Aditya Birla Sun Life Money Manager Fund - WEEKLY IDCW",
+        "scheme_name": "Aditya Birla Sun Life Money Manager Fund - Regular Plan - Weekly IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF209K01SY9"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "100.10570"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "100.14680"
+        },
         {
             "date": "18-08-2026",
             "nav": "100.12850"

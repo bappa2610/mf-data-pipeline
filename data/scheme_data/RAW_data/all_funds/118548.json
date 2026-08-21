@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Solution Oriented Scheme - Retirement Fund",
         "scheme_code": 118548,
-        "scheme_name": "Franklin India Retirement Fund - Direct - Growth",
+        "scheme_name": "Franklin India Retirement Fund - Direct Plan - Growth",
         "isin_growth": "INF090I01JZ3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "243.11160"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "242.71250"
+        },
         {
             "date": "18-08-2026",
             "nav": "243.02190"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Corporate Bond Fund",
         "scheme_code": 141592,
-        "scheme_name": "Axis Corporate Bond Fund - Regular Plan - Weekly IDCW",
+        "scheme_name": "AXIS Corporate Bond Fund - Regular Plan - Weekly IDCW Option",
         "isin_growth": "INF846K01ZW7",
         "isin_div_reinvestment": "INF846K01ZX5"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.22160"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.24000"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.23870"

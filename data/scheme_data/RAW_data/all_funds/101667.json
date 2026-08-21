@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Short Duration Fund",
         "scheme_code": 101667,
-        "scheme_name": "NIPPON INDIA SHORT DURATION FUND - MONTHLY IDCW Option",
+        "scheme_name": "Nippon India Short Duration Fund - Regular Plan - MONTHLY IDCW Option",
         "isin_growth": "INF204K01FM2",
         "isin_div_reinvestment": "INF204K01FN0"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "11.53670"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "11.55550"
+        },
         {
             "date": "18-08-2026",
             "nav": "11.55450"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Mid Cap Fund",
         "scheme_code": 127040,
-        "scheme_name": "Motilal Oswal Midcap Fund-Regular - IDCW Payout/Reinvestment",
+        "scheme_name": "Motilal Oswal Midcap Fund",
         "isin_growth": "INF247L01437",
         "isin_div_reinvestment": "INF247L01429"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "47.56760"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "46.96430"
+        },
         {
             "date": "18-08-2026",
             "nav": "46.93880"

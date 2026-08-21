@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Medium Duration Fund",
         "scheme_code": 118399,
-        "scheme_name": "Bandhan Medium Duration Fund - Direct Plan - Bi Monthly IDCW",
+        "scheme_name": "Bandhan Medium Duration Fund - Direct Plan - Bi-Monthly IDCW",
         "isin_growth": "INF194K01T59",
         "isin_div_reinvestment": "INF194K01T42"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "10.60020"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "10.62200"
+        },
         {
             "date": "18-08-2026",
             "nav": "10.62280"

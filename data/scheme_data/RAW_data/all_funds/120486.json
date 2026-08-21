@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Value Fund",
         "scheme_code": 120486,
-        "scheme_name": "JM Value Fund (Direct) - Growth Option",
+        "scheme_name": "JM Value Fund - Direct Plan - Growth Option",
         "isin_growth": "INF192K01BT3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "111.56140"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "110.44400"
+        },
         {
             "date": "18-08-2026",
             "nav": "110.96570"

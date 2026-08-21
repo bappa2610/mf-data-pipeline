@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Solution Oriented Scheme - Retirement Fund",
         "scheme_code": 115944,
-        "scheme_name": "Tata Retirement Savings Fund- Conservative Plan-Regular Plan-Growth Option",
+        "scheme_name": "Tata Retirement Savings Fund-Conservative Plan - Regular Plan - Growth Option",
         "isin_growth": "INF277K01FI6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "33.11610"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "33.08570"
+        },
         {
             "date": "18-08-2026",
             "nav": "33.10720"

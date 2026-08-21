@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 117313,
-        "scheme_name": "Taurus Banking & Financial Services Fund - Regular Plan - Payout of Income Distribution cum Capital Withdrawal option",
+        "scheme_name": "Taurus Banking & Financial Services Fund - Regular Plan - Income Distribution cum Capital Withdrawal",
         "isin_growth": "INF044D01BJ2",
         "isin_div_reinvestment": "INF044D01BK0"
     },
     "data": [
+        {
+            "date": "21-08-2026",
+            "nav": "47.55000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "47.11000"
+        },
         {
             "date": "18-08-2026",
             "nav": "47.22000"

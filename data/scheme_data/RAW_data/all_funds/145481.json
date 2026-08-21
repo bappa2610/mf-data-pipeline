@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Overnight Fund",
         "scheme_code": 145481,
-        "scheme_name": "ADITYA BIRLA SUNLIFE OVERNIGHT FUND-REGULAR PLAN-GROWTH",
+        "scheme_name": "ADITYA BIRLA SUN LIFE OVERNIGHT FUND - Regular Plan - GROWTH",
         "isin_growth": "INF209KB1ZC3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1472.73190"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1472.53580"
+        },
         {
             "date": "18-08-2026",
             "nav": "1472.33980"

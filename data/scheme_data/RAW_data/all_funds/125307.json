@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Mid Cap Fund",
         "scheme_code": 125307,
-        "scheme_name": "PGIM India Midcap Fund - Direct Plan - Growth Option",
+        "scheme_name": "PGIM India Midcap Fund - Direct Plan - Direct Growth",
         "isin_growth": "INF663L01DV3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "78.79000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "78.40000"
+        },
         {
             "date": "18-08-2026",
             "nav": "78.69000"

@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 102398,
-        "scheme_name": "UTI-Transportation and Logistics  Fund-Growth Option",
+        "scheme_name": "UTI - Transportation and Logistics Fund - Regular Plan - Growth",
         "isin_growth": "INF789F01299",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "308.57080"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "306.34700"
+        },
         {
             "date": "18-08-2026",
             "nav": "306.56060"

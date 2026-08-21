@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Dynamic Bond",
         "scheme_code": 132918,
-        "scheme_name": "Aditya Birla Sun Life Dynamic Bond Fund -Direct - IDCW",
+        "scheme_name": "Aditya Birla Sun Life Dynamic Bond Fund - Direct Plan - IDCW",
         "isin_growth": "INF209KA1TX3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "13.29280"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "13.32260"
+        },
         {
             "date": "18-08-2026",
             "nav": "13.32040"

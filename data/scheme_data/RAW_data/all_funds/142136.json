@@ -4,11 +4,19 @@
         "scheme_type": "Close Ended Schemes",
         "scheme_category": "ELSS",
         "scheme_code": 142136,
-        "scheme_name": "ICICI Prudential Long Term Wealth Enhancement Fund - Cumulative Option",
+        "scheme_name": "ICICI Prudential Long Term Wealth Enhancement Fund",
         "isin_growth": "INF109KC1077",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "30.00000"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "29.88000"
+        },
         {
             "date": "18-08-2026",
             "nav": "29.82000"

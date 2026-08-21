@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Debt Scheme - Gilt Fund",
         "scheme_code": 100319,
-        "scheme_name": "LIC MF Gilt Fund-PF Plan-Growth",
+        "scheme_name": "LIC MF Gilt Fund - Regular Plan - Growth",
         "isin_growth": "INF767K01733",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "34.98360"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "35.09880"
+        },
         {
             "date": "18-08-2026",
             "nav": "35.09380"

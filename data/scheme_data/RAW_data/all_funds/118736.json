@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
         "scheme_code": 118736,
-        "scheme_name": "Nippon India Balanced Advantage Fund - Direct Plan Growth Plan - Growth Option",
+        "scheme_name": "Nippon India Balanced Advantage Fund - Direct Plan - Growth Option",
         "isin_growth": "INF204K01G94",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "212.42270"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "211.51830"
+        },
         {
             "date": "18-08-2026",
             "nav": "211.96000"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Flexi Cap Fund",
         "scheme_code": 100520,
-        "scheme_name": "Franklin India Flexi Cap Fund - Growth",
+        "scheme_name": "Franklin India Flexi Cap Fund - Regular Plan - Growth",
         "isin_growth": "INF090I01239",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "1620.72930"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "1611.83820"
+        },
         {
             "date": "18-08-2026",
             "nav": "1617.34250"

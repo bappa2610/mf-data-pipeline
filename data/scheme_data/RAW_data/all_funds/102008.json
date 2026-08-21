@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
         "scheme_code": 102008,
-        "scheme_name": "UTI Liquid Fund - Discontinued - Regular Plan - Monthly Dividend Option",
+        "scheme_name": "UTI - Liquid Fund - Regular Plan - Discontinued Monthly Dividend",
         "isin_growth": "INF789F1AG27",
         "isin_div_reinvestment": "INF789F1AG35"
     },
     "data": [
+        {
+            "date": "20-08-2026",
+            "nav": "106.66930"
+        },
+        {
+            "date": "19-08-2026",
+            "nav": "106.66180"
+        },
         {
             "date": "18-08-2026",
             "nav": "106.64440"
