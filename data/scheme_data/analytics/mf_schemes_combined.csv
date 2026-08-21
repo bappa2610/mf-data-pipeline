@@ -1362,8 +1362,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 112957,ICICI Prudential Mutual Fund,ICICI Prudential Nifty Next 50 Index Fund,INF109K01IF1,,Open Ended Schemes,Other Scheme - Index Funds
 112958,ICICI Prudential Mutual Fund,ICICI Prudential Nifty Next 50 Index Fund,INF109K01PR1,INF109K01IE4,Open Ended Schemes,Other Scheme - Index Funds
 113032,DSP Mutual Fund,DSP Focused Fund,INF740K01540,INF740K01AC7,Open Ended Schemes,Equity Scheme - Focused Fund
-113036,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Duration Fund,INF955L01153,,Open Ended Schemes,Debt Scheme - Short Duration Fund
-113037,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Duration Fund,INF955L01138,INF955L01146,Open Ended Schemes,Debt Scheme - Short Duration Fund
+113036,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Duration Fund(the scheme has 2 segregated portfolios),INF955L01153,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+113037,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Duration Fund(the scheme has 2 segregated portfolios),INF955L01138,INF955L01146,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 113047,HDFC Mutual Fund,HDFC Short Term Debt Fund,INF179K01CU6,,Open Ended Schemes,Debt Scheme - Short Duration Fund
 113048,HDFC Mutual Fund,HDFC Short Term Debt Fund,INF179K01CV4,INF179K01CW2,Open Ended Schemes,Debt Scheme - Short Duration Fund
 113049,HDFC Mutual Fund,HDFC Gold ETF,INF179KC1981,,Open Ended Schemes,Other Scheme - Gold ETF
@@ -2182,8 +2182,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 119394,Bank of India Mutual Fund,BANK OF INDIA CONSERVATIVE HYBRID FUND,INF761K01835,INF761K01827,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund
 119395,Bank of India Mutual Fund,BANK OF INDIA CONSERVATIVE HYBRID FUND,INF761K01850,INF761K01843,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund
 119396,Bank of India Mutual Fund,BANK OF INDIA CONSERVATIVE HYBRID FUND,INF761K01793,INF761K01801,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund
-119399,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Duration Fund,INF955L01BB9,,Open Ended Schemes,Debt Scheme - Short Duration Fund
-119400,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Duration Fund,INF955L01BD5,,Open Ended Schemes,Debt Scheme - Short Duration Fund
+119399,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Duration Fund(the scheme has 2 segregated portfolios),INF955L01BB9,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+119400,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Duration Fund(the scheme has 2 segregated portfolios),INF955L01BD5,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 119414,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LIQUID FUND,INF955L01AK2,,Open Ended Schemes,Debt Scheme - Liquid Fund
 119415,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LIQUID FUND,INF955L01AL0,,Open Ended Schemes,Debt Scheme - Liquid Fund
 119416,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LIQUID FUND,INF251K01SL8,,Open Ended Schemes,Debt Scheme - Liquid Fund
@@ -4787,8 +4787,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 133472,Nippon India Mutual Fund,Reliance Fixed Horizon Fund XXVIII- Series 4,INF204KA1B07,,Close Ended Schemes,Income
 133473,Nippon India Mutual Fund,Reliance Fixed Horizon Fund XXVIII- Series 4,INF204KA1A99,,Close Ended Schemes,Income
 133484,UTI Mutual Fund,UTI - Money Market Fund,INF789FA1L21,INF789FA1L39,Open Ended Schemes,Debt Scheme - Money Market Fund
-133486,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01FP0,,Open Ended Schemes,Debt Scheme - Credit Risk Fund
-133488,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01FR6,,Open Ended Schemes,Debt Scheme - Credit Risk Fund
+133486,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01FP0,,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
+133488,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01FR6,,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
 133501,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan -Series 76 -1185 Days Plan H,INF109KA19S3,,Close Ended Schemes,Income
 133502,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan -Series 76 -1185 Days Plan H,INF109KA17S7,,Close Ended Schemes,Income
 133503,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan -Series 76 -1185 Days Plan H,INF109KA16S9,,Close Ended Schemes,Income
@@ -4797,10 +4797,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 133514,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Manufacturing Equity Fund,INF209KA1YL8,INF209KA1YM6,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 133515,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Manufacturing Equity Fund,INF209KA1YI4,INF209KA1YJ2,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 133516,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Manufacturing Equity Fund,INF209KA1YK0,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-133517,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01FU0,,Open Ended Schemes,Debt Scheme - Credit Risk Fund
-133518,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01FV8,,Open Ended Schemes,Debt Scheme - Credit Risk Fund
-133520,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01FZ9,,Open Ended Schemes,Debt Scheme - Credit Risk Fund
-133524,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01GA0,,Open Ended Schemes,Debt Scheme - Credit Risk Fund
+133517,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01FU0,,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
+133518,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01FV8,,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
+133520,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01FZ9,,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
+133524,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01GA0,,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
 133530,Nippon India Mutual Fund,Reliance Dual Advantage Fixed Tenure Fund VII- Plan C,INF204KA1B49,,Close Ended Schemes,Income
 133531,Nippon India Mutual Fund,Reliance Dual Advantage Fixed Tenure Fund VII- Plan C,INF204KA1B56,,Close Ended Schemes,Income
 133532,Nippon India Mutual Fund,Reliance Dual Advantage Fixed Tenure Fund VII- Plan C,INF204KA1B31,,Close Ended Schemes,Income
@@ -6212,8 +6212,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 140455,UTI Mutual Fund,UTI - Long Term Advantage Fund Series V,INF789FC1HR3,,Close Ended Schemes,ELSS
 140456,UTI Mutual Fund,UTI - Long Term Advantage Fund Series V,INF789FC1HQ5,,Close Ended Schemes,ELSS
 140457,UTI Mutual Fund,UTI - Long Term Advantage Fund Series V,INF789FC1HS1,,Close Ended Schemes,ELSS
-140463,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Duration Fund,INF955L01GU8,,Open Ended Schemes,Debt Scheme - Short Duration Fund
-140465,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Duration Fund,INF955L01GS2,,Open Ended Schemes,Debt Scheme - Short Duration Fund
+140463,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Duration Fund(the scheme has 2 segregated portfolios),INF955L01GU8,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+140465,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Duration Fund(the scheme has 2 segregated portfolios),INF955L01GS2,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 140466,UTI Mutual Fund,UTI - FTIF Series XXVI-Plan-I (1182 Days),INF789FC1HN2,,Close Ended Schemes,Income
 140467,UTI Mutual Fund,UTI - FTIF Series XXVI-Plan-I (1182 Days),INF789FC1HO0,,Close Ended Schemes,Income
 140468,UTI Mutual Fund,UTI - FTIF Series XXVI-Plan-I (1182 Days),INF789FC1HI2,,Close Ended Schemes,Income
@@ -9711,14 +9711,14 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 148317,Franklin Templeton Mutual Fund,Franklin India Short-Term Income Plan (no. of segregated portfolios- 3),INF090I01VO2,,Open Ended Schemes,Debt Scheme - Short Duration Fund
 148318,Franklin Templeton Mutual Fund,Franklin India Short-Term Income Plan (no. of segregated portfolios- 3),INF090I01VN4,,Open Ended Schemes,Debt Scheme - Short Duration Fund
 148319,Franklin Templeton Mutual Fund,Franklin India Short-Term Income Plan (no. of segregated portfolios- 3),INF090I01VP9,,Open Ended Schemes,Debt Scheme - Short Duration Fund
-148330,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01IO7,,Open Ended Schemes,Debt Scheme - Credit Risk Fund
-148331,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01IR0,INF955L01IS8,Open Ended Schemes,Debt Scheme - Credit Risk Fund
-148332,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01IP4,INF955L01IQ2,Open Ended Schemes,Debt Scheme - Credit Risk Fund
-148333,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01IT6,,Open Ended Schemes,Debt Scheme - Credit Risk Fund
-148334,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01IW0,INF955L01IX8,Open Ended Schemes,Debt Scheme - Credit Risk Fund
-148335,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01IU4,INF955L01IV2,Open Ended Schemes,Debt Scheme - Credit Risk Fund
-148349,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),,,Open Ended Schemes,Debt Scheme - Credit Risk Fund
-148350,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),,,Open Ended Schemes,Debt Scheme - Credit Risk Fund
+148330,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01IO7,,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
+148331,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01IR0,INF955L01IS8,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
+148332,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01IP4,INF955L01IQ2,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
+148333,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01IT6,,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
+148334,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01IW0,INF955L01IX8,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
+148335,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01IU4,INF955L01IV2,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
+148349,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),,,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
+148350,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),,,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
 148351,ITI Mutual Fund,ITI Large Cap Fund,INF00XX01770,,Open Ended Schemes,Equity Scheme - Large Cap Fund
 148352,ITI Mutual Fund,ITI Large Cap Fund,INF00XX01812,INF00XX01820,Open Ended Schemes,Equity Scheme - Large Cap Fund
 148353,ITI Mutual Fund,ITI Large Cap Fund,INF00XX01804,,Open Ended Schemes,Equity Scheme - Large Cap Fund
@@ -12767,20 +12767,18 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 152889,HDFC Mutual Fund,HDFC NIFTY LargeMidcap 250 Index Fund,INF179KC1IQ4,,Open Ended Schemes,Other Scheme - Index Funds
 152890,HDFC Mutual Fund,HDFC NIFTY LargeMidcap 250 Index Fund,INF179KC1IP6,,Open Ended Schemes,Other Scheme - Index Funds
 152891,Groww Mutual Fund,Groww Nifty 1D Rate Liquid ETF,INF666M01IP5,,Open Ended Schemes,Exchange Traded Funds
-152892,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01JM9,,Open Ended Schemes,Debt Scheme - Credit Risk Fund
-152893,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),,INF955L01JN7,Open Ended Schemes,Debt Scheme - Credit Risk Fund
-152894,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),,INF955L01JO5,Open Ended Schemes,Debt Scheme - Credit Risk Fund
-152895,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),,INF955L01JL1,Open Ended Schemes,Debt Scheme - Credit Risk Fund
-152896,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01JG1,INF955L01JH9,Open Ended Schemes,Debt Scheme - Credit Risk Fund
-152897,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),,INF955L01JJ5,Open Ended Schemes,Debt Scheme - Credit Risk Fund
-152898,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01JF3,,Open Ended Schemes,Debt Scheme - Credit Risk Fund
-152899,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01JP2,INF955L01JQ0,Open Ended Schemes,Debt Scheme - Credit Risk Fund
-152900,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01JI7,INF955L01JK3,Open Ended Schemes,Debt Scheme - Credit Risk Fund
-152901,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),,INF955L01JD8,Open Ended Schemes,Debt Scheme - Credit Risk Fund
-152902,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01JB2,INF955L01JC0,Open Ended Schemes,Debt Scheme - Credit Risk Fund
-152903,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01IZ3,INF955L01JA4,Open Ended Schemes,Debt Scheme - Credit Risk Fund
-152904,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01IY6,,Open Ended Schemes,Debt Scheme - Credit Risk Fund
-152905,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),,INF955L01JE6,Open Ended Schemes,Debt Scheme - Credit Risk Fund
+152892,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01JM9,,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
+152893,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),,INF955L01JN7,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
+152895,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),,INF955L01JL1,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
+152896,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01JG1,INF955L01JH9,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
+152897,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),,INF955L01JJ5,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
+152898,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01JF3,,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
+152899,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01JP2,INF955L01JQ0,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
+152900,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01JI7,INF955L01JK3,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
+152901,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),,INF955L01JD8,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
+152902,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01JB2,INF955L01JC0,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
+152903,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01IZ3,INF955L01JA4,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
+152904,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk Fund (scheme has Two segregated portfolios),INF955L01IY6,,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
 152906,SBI Mutual Fund,SBI Nifty 500 Index Fund,INF200KB1357,,Open Ended Schemes,Other Scheme - Index Funds
 152907,SBI Mutual Fund,SBI Nifty 500 Index Fund,INF200KB1365,INF200KB1373,Open Ended Schemes,Other Scheme - Index Funds
 152908,SBI Mutual Fund,SBI Nifty 500 Index Fund,INF200KB1381,,Open Ended Schemes,Other Scheme - Index Funds
@@ -34598,6 +34596,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 152548,Kotak Mahindra Mutual Fund,Kotak Nifty AAA Bond Jun 2025 HTM Index Fund - Regular Plan - IDCW Option,INF174KA1RJ7,INF174KA1RK5,Open Ended Schemes,Other Scheme - Index Funds
 152549,Kotak Mahindra Mutual Fund,Kotak Nifty AAA Bond Jun 2025 HTM Index Fund - Direct Plan - Growth option,INF174KA1RN9,,Open Ended Schemes,Other Scheme - Index Funds
 152550,Kotak Mahindra Mutual Fund,Kotak Nifty AAA Bond Jun 2025 HTM Index Fund - Direct Plan - IDCW option,INF174KA1RL3,INF174KA1RM1,Open Ended Schemes,Other Scheme - Index Funds
+152894,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk fund -Defunct -Weekly IDCW option -Seg. Portfolio 2 (erstwhile BBNPP Medium Duration Fund Defunct-Weekly IDCW option Seg. Portfolio 1),,INF955L01JO5,Open Ended Schemes,Debt Scheme - Credit Risk Fund
+152905,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Credit Risk fund - Regular-Weekly-IDCW option -Seg. Portfolio 2 (erstwhile BBNPP Medium Duration Fund Regular-Weekly IDCW option Seg. Portfolio 1),,INF955L01JE6,Open Ended Schemes,Debt Scheme - Credit Risk Fund
 152958,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil-IBX AAA NBFC-HFC Index-Dec 2025 Fund-Direct Growth,INF209KC1258,,Open Ended Schemes,Other Scheme - Index Funds
 152959,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil-IBX AAA NBFC--HFC Index-Dec 2025 Fund-Direct IDCW Payout,INF209KC1266,,Open Ended Schemes,Other Scheme - Index Funds
 152960,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil-IBX AAA NBFC-HFC Index-Dec 2025 Fund-Regular IDCW Payout,INF209KC1282,,Open Ended Schemes,Other Scheme - Index Funds
@@ -35122,10 +35122,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 133249,Kotak Mahindra Asset Management Company Limited.,Kotak FMP Series 170 (1099 days) - Regular Plan - Growth,INF174K01F67,,Close Ended,Income
 133250,Kotak Mahindra Asset Management Company Limited.,Kotak FMP Series 170 (1099 days) - Direct plan - Dividend Payout,INF174K01F91,,Close Ended,Income
 133251,Kotak Mahindra Asset Management Company Limited.,Kotak FMP Series 170 (1099 days) - Direct Plan - Growth,INF174K01F83,,Close Ended,Income
-133519,Baroda BNP Paribas Asset Management India Private Limited,Baroda BNP Paribas Credit Risk Fund -Regular -Quarterly Dividend Reinvestment Option,INF955L01FX4,,Open Ended,Debt Scheme - Credit Risk Fund
-133521,Baroda BNP Paribas Asset Management India Private Limited,Baroda BNP Paribas Credit Risk Fund -Direct-Quarterly Dividend Reinvestment Option,INF955L01GC6,,Open Ended,Debt Scheme - Credit Risk Fund
-133522,Baroda BNP Paribas Asset Management India Private Limited,Baroda BNP Paribas Credit Risk Fund -Regular -Monthly Dividend Reinvestment Option,INF955L01FW6,,Open Ended,Debt Scheme - Credit Risk Fund
-133523,Baroda BNP Paribas Asset Management India Private Limited,Baroda BNP Paribas Credit Risk Fund -Direct-Monthly Dividend Reinvestment Option,INF955L01GB8,,Open Ended,Debt Scheme - Credit Risk Fund
 133664,Kotak Mahindra Asset Management Company Limited.,Kotak FMP Series 171 (1099 Days) - Dividend,INF174K01G90,,Close Ended,Income
 133665,Kotak Mahindra Asset Management Company Limited.,Kotak FMP Series 171 (1099 Days) - Direct Dividend,INF174K01H16,,Close Ended,Income
 154512,Kotak Mahindra Asset Management Company Limited.,Kotak Corporate Bond Fund - Direct - IDCW Weekly,INF174KA1C01,INF174KA1B85,Open Ended,Income/Debt Oriented Schemes - Corporate Bond Fund
