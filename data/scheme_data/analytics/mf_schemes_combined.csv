@@ -13,9 +13,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 100058,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Government Securities Fund,INF209K01AC3,INF209K01AD1,Open Ended Schemes,Debt Scheme - Gilt Fund
 100063,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life MNC Fund,INF209K01314,INF209K01CL0,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 100064,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life MNC Fund,INF209K01322,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-100077,DSP Mutual Fund,DSP Bond Fund,INF740K01565,INF740K01995,Open Ended Schemes,Debt Scheme - Medium Duration Fund
-100078,DSP Mutual Fund,DSP Bond Fund,INF740K01557,,Open Ended Schemes,Debt Scheme - Medium Duration Fund
-100079,DSP Mutual Fund,DSP Bond Fund,INF740K01573,INF740K01AA1,Open Ended Schemes,Debt Scheme - Medium Duration Fund
+100077,DSP Mutual Fund,DSP Medium Term Fund,INF740K01565,INF740K01995,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund
+100078,DSP Mutual Fund,DSP Medium Term Fund,INF740K01557,,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund
+100079,DSP Mutual Fund,DSP Medium Term Fund,INF740K01573,INF740K01AA1,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund
 100080,DSP Mutual Fund,DSP Flexi Cap Fund,INF740K01011,INF740K01029,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
 100081,DSP Mutual Fund,DSP Aggressive Hybrid Fund,INF740K01318,,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
 100082,DSP Mutual Fund,DSP Aggressive Hybrid Fund,INF740K01326,INF740K01334,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
@@ -659,9 +659,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 103342,ICICI Prudential Mutual Fund,ICICI Prudential Liquid Fund -,INF109K01VS7,,Open Ended Schemes,Debt Scheme - Liquid Fund
 103343,ICICI Prudential Mutual Fund,ICICI Prudential Liquid Fund -,INF109K01VP3,,Open Ended Schemes,Debt Scheme - Liquid Fund
 103344,ICICI Prudential Mutual Fund,ICICI Prudential Liquid Fund -,INF109K01VH0,,Open Ended Schemes,Debt Scheme - Liquid Fund
-103347,DSP Mutual Fund,DSP Liquidity Fund,INF740K01FK9,,Open Ended Schemes,Debt Scheme - Liquid Fund
-103348,DSP Mutual Fund,DSP Liquidity Fund,INF740K01FM5,INF740K01FL7,Open Ended Schemes,Debt Scheme - Liquid Fund
-103349,DSP Mutual Fund,DSP Liquidity Fund,,INF740KA1OE0,Open Ended Schemes,Debt Scheme - Liquid Fund
+103347,DSP Mutual Fund,DSP Liquid Fund,INF740K01FK9,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+103348,DSP Mutual Fund,DSP Liquid Fund,INF740K01FM5,INF740K01FL7,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+103349,DSP Mutual Fund,DSP Liquid Fund,,INF740KA1OE0,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 103360,Franklin Templeton Mutual Fund,Franklin India Small Cap Fund,INF090I01569,,Open Ended Schemes,Equity Scheme - Small Cap Fund
 103361,Franklin Templeton Mutual Fund,Franklin India Small Cap Fund,INF090I01544,INF090I01551,Open Ended Schemes,Equity Scheme - Small Cap Fund
 103389,Canara Robeco Mutual Fund,Canara Robeco Infrastructure,INF760K01258,INF760K01266,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
@@ -959,11 +959,11 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 107578,Mirae Asset Mutual Fund,Mirae Asset Large Cap Fund,INF769K01010,,Open Ended Schemes,Equity Schemes - Large Cap Fund
 107579,Mirae Asset Mutual Fund,Mirae Asset Large Cap Fund,INF769K01036,INF769K01028,Open Ended Schemes,Equity Schemes - Large Cap Fund
 107693,Quantum Mutual Fund,Quantum Gold ETF,INF082J01408,,Open Ended Schemes,Other Scheme - Gold ETF
-107700,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund,,INF769K01986,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
-107701,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund,,INF769K01994,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
-107702,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund,INF769K01978,INF769K01AB8,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
-107704,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund,INF769K01960,INF769K01AA0,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
-107705,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund,INF769K01937,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+107700,Mirae Asset Mutual Fund,Mirae Asset Ultra Short to Short Term Fund,,INF769K01986,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+107701,Mirae Asset Mutual Fund,Mirae Asset Ultra Short to Short Term Fund,,INF769K01994,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+107702,Mirae Asset Mutual Fund,Mirae Asset Ultra Short to Short Term Fund,INF769K01978,INF769K01AB8,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+107704,Mirae Asset Mutual Fund,Mirae Asset Ultra Short to Short Term Fund,INF769K01960,INF769K01AA0,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+107705,Mirae Asset Mutual Fund,Mirae Asset Ultra Short to Short Term Fund,INF769K01937,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 107745,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life ELSS Tax Saver Fund,INF209K01108,,Open Ended Schemes,Equity Scheme - ELSS
 107763,LIC Mutual Fund,LIC MF Infrastructure Fund,INF767K01501,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 107764,LIC Mutual Fund,LIC MF Infrastructure Fund,INF767K01485,INF767K01493,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
@@ -1940,11 +1940,11 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 118835,Mirae Asset Mutual Fund,Mirae Asset Large & Midcap Fund,INF769K01BJ9,INF769K01BK7,Open Ended Schemes,Equity Schemes - Large & Mid Cap Fund
 118837,Mirae Asset Mutual Fund,Mirae Asset Great Consumer Fund,INF769K01BL5,,Open Ended Schemes,Equity Schemes - Thematic Fund
 118838,Mirae Asset Mutual Fund,Mirae Asset Great Consumer Fund,INF769K01BM3,INF769K01BN1,Open Ended Schemes,Equity Schemes - Thematic Fund
-118840,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund,INF769K01BO9,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
-118841,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund,INF769K01BP6,INF769K01BT8,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
-118842,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund,INF769K01BQ4,INF769K01BU6,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
-118843,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund,,INF769K01BR2,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
-118844,Mirae Asset Mutual Fund,Mirae Asset Low Duration Fund,,INF769K01BS0,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+118840,Mirae Asset Mutual Fund,Mirae Asset Ultra Short to Short Term Fund,INF769K01BO9,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+118841,Mirae Asset Mutual Fund,Mirae Asset Ultra Short to Short Term Fund,INF769K01BP6,INF769K01BT8,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+118842,Mirae Asset Mutual Fund,Mirae Asset Ultra Short to Short Term Fund,INF769K01BQ4,INF769K01BU6,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+118843,Mirae Asset Mutual Fund,Mirae Asset Ultra Short to Short Term Fund,,INF769K01BR2,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+118844,Mirae Asset Mutual Fund,Mirae Asset Ultra Short to Short Term Fund,,INF769K01BS0,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 118859,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund,INF769K01CM1,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 118860,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund,INF769K01CN9,INF769K01CQ2,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 118861,Mirae Asset Mutual Fund,Mirae Asset Liquid Fund,,INF769K01CO7,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
@@ -1978,9 +1978,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 118907,HSBC Mutual Fund,HSBC Liquid Fund,INF336L01BL1,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 118908,HSBC Mutual Fund,HSBC Liquid Fund,,INF336L01BR8,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 118909,HSBC Mutual Fund,HSBC Liquid Fund,,INF336L01BS6,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
-118921,DSP Mutual Fund,DSP Bond Fund,INF740K01NA4,INF740K01NC0,Open Ended Schemes,Debt Scheme - Medium Duration Fund
-118922,DSP Mutual Fund,DSP Bond Fund,INF740K01NB2,INF740K01ND8,Open Ended Schemes,Debt Scheme - Medium Duration Fund
-118924,DSP Mutual Fund,DSP Bond Fund,INF740K01MZ3,,Open Ended Schemes,Debt Scheme - Medium Duration Fund
+118921,DSP Mutual Fund,DSP Medium Term Fund,INF740K01NA4,INF740K01NC0,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund
+118922,DSP Mutual Fund,DSP Medium Term Fund,INF740K01NB2,INF740K01ND8,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund
+118924,DSP Mutual Fund,DSP Medium Term Fund,INF740K01MZ3,,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund
 118928,HDFC Mutual Fund,HDFC Long Term Advantage Plan,INF179K01WV2,INF179K01WW0,Open Ended Schemes,Equity Scheme - ELSS
 118929,HDFC Mutual Fund,HDFC Long Term Advantage Plan,INF179K01WX8,,Open Ended Schemes,Equity Scheme - ELSS
 118934,HDFC Mutual Fund,HDFC Value Fund,INF179K01VA8,INF179K01VB6,Open Ended Schemes,Equity Scheme - Value Fund
@@ -2069,9 +2069,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 119118,HDFC Mutual Fund,HDFC Hybrid Debt Fund,INF179K01XE6,,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund
 119119,HDFC Mutual Fund,HDFC Hybrid Debt Fund,INF179K01XF3,INF179K01XG1,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund
 119120,HDFC Mutual Fund,HDFC Hybrid Debt Fund,INF179K01XH9,INF179K01XI7,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund
-119123,DSP Mutual Fund,DSP Liquidity Fund,INF740KA1OC4,INF740KA1OD2,Open Ended Schemes,Debt Scheme - Liquid Fund
-119124,DSP Mutual Fund,DSP Liquidity Fund,,INF740KA1OB6,Open Ended Schemes,Debt Scheme - Liquid Fund
-119125,DSP Mutual Fund,DSP Liquidity Fund,INF740K01QL4,,Open Ended Schemes,Debt Scheme - Liquid Fund
+119123,DSP Mutual Fund,DSP Liquid Fund,INF740KA1OC4,INF740KA1OD2,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+119124,DSP Mutual Fund,DSP Liquid Fund,,INF740KA1OB6,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+119125,DSP Mutual Fund,DSP Liquid Fund,INF740K01QL4,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 119126,Tata Mutual Fund,Tata Medium Term Fund,INF277K01PG9,INF277K01PH7,Open Ended Schemes,Debt Scheme - Medium Duration Fund
 119127,Tata Mutual Fund,Tata Medium Term Fund,INF277K01PI5,,Open Ended Schemes,Debt Scheme - Medium Duration Fund
 119128,HDFC Mutual Fund,HDFC Equity Savings Fund,INF179K01XT4,,Open Ended Schemes,Hybrid Scheme - Equity Savings
@@ -3288,18 +3288,18 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 124142,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan-Series 70-366 Days Plan B,INF109KA1R00,,Close Ended Schemes,Income
 124143,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan-Series 70-366 Days Plan B,INF109KA1Q84,,Close Ended Schemes,Income
 124145,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan-Series 70-366 Days Plan B,INF109KA1R18,,Close Ended Schemes,Income
-124172,DSP Mutual Fund,DSP Banking & PSU Debt Fund,INF740K01ZP6,,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-124173,DSP Mutual Fund,DSP Banking & PSU Debt Fund,,INF740KA1OI1,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-124174,DSP Mutual Fund,DSP Banking & PSU Debt Fund,INF740K01ZU6,INF740K01ZV4,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-124175,DSP Mutual Fund,DSP Banking & PSU Debt Fund,INF740K01ZW2,,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-124176,DSP Mutual Fund,DSP Banking & PSU Debt Fund,INF740K01ZX0,INF740K01ZY8,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-124177,DSP Mutual Fund,DSP Banking & PSU Debt Fund,INF740K01ZZ5,INF740K01A00,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-124178,DSP Mutual Fund,DSP Banking & PSU Debt Fund,INF740K01A18,INF740K01A26,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-124179,DSP Mutual Fund,DSP Banking & PSU Debt Fund,INF740KA1OJ9,INF740KA1OK7,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-124180,DSP Mutual Fund,DSP Banking & PSU Debt Fund,INF740K01ZQ4,INF740K01ZR2,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-124181,DSP Mutual Fund,DSP Banking & PSU Debt Fund,INF740K01ZS0,INF740K01ZT8,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-124182,DSP Mutual Fund,DSP Banking & PSU Debt Fund,,INF740KA1OF7,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
-124183,DSP Mutual Fund,DSP Banking & PSU Debt Fund,INF740KA1OG5,INF740KA1OH3,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
+124172,DSP Mutual Fund,DSP Banking and PSU Debt Fund,INF740K01ZP6,,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
+124173,DSP Mutual Fund,DSP Banking and PSU Debt Fund,,INF740KA1OI1,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
+124174,DSP Mutual Fund,DSP Banking and PSU Debt Fund,INF740K01ZU6,INF740K01ZV4,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
+124175,DSP Mutual Fund,DSP Banking and PSU Debt Fund,INF740K01ZW2,,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
+124176,DSP Mutual Fund,DSP Banking and PSU Debt Fund,INF740K01ZX0,INF740K01ZY8,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
+124177,DSP Mutual Fund,DSP Banking and PSU Debt Fund,INF740K01ZZ5,INF740K01A00,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
+124178,DSP Mutual Fund,DSP Banking and PSU Debt Fund,INF740K01A18,INF740K01A26,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
+124179,DSP Mutual Fund,DSP Banking and PSU Debt Fund,INF740KA1OJ9,INF740KA1OK7,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
+124180,DSP Mutual Fund,DSP Banking and PSU Debt Fund,INF740K01ZQ4,INF740K01ZR2,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
+124181,DSP Mutual Fund,DSP Banking and PSU Debt Fund,INF740K01ZS0,INF740K01ZT8,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
+124182,DSP Mutual Fund,DSP Banking and PSU Debt Fund,,INF740KA1OF7,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
+124183,DSP Mutual Fund,DSP Banking and PSU Debt Fund,INF740KA1OG5,INF740KA1OH3,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
 124210,Nippon India Mutual Fund,Reliance Fixed Horizon Fund - XXIV - Series 18,INF204KA1VK1,,Close Ended Schemes,Income
 124211,Nippon India Mutual Fund,Reliance Fixed Horizon Fund - XXIV - Series 18,INF204KA1VL9,,Close Ended Schemes,Income
 124213,Nippon India Mutual Fund,Reliance Fixed Horizon Fund - XXIV - Series 18,INF204KA1VM7,,Close Ended Schemes,Income
@@ -4453,14 +4453,14 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 131270,Nippon India Mutual Fund,Reliance Capital Builder Fund- Series C,INF204KA1UB2,,Close Ended Schemes,Growth
 131271,Nippon India Mutual Fund,Reliance Capital Builder Fund- Series C,INF204KA1UD8,,Close Ended Schemes,Growth
 131272,Nippon India Mutual Fund,Reliance Capital Builder Fund- Series C,INF204KA1UE6,,Close Ended Schemes,Growth
-131297,DSP Mutual Fund,DSP 10Y G-Sec Fund,INF740K012I0,,Open Ended Schemes,Debt Scheme - Gilt Fund with 10 year constant duration
-131298,DSP Mutual Fund,DSP 10Y G-Sec Fund,INF740K013I8,INF740K014I6,Open Ended Schemes,Debt Scheme - Gilt Fund with 10 year constant duration
-131299,DSP Mutual Fund,DSP 10Y G-Sec Fund,INF740K015I3,INF740K016I1,Open Ended Schemes,Debt Scheme - Gilt Fund with 10 year constant duration
-131300,DSP Mutual Fund,DSP 10Y G-Sec Fund,INF740K017I9,INF740K018I7,Open Ended Schemes,Debt Scheme - Gilt Fund with 10 year constant duration
-131301,DSP Mutual Fund,DSP 10Y G-Sec Fund,INF740K019I5,,Open Ended Schemes,Debt Scheme - Gilt Fund with 10 year constant duration
-131302,DSP Mutual Fund,DSP 10Y G-Sec Fund,INF740K014J4,INF740K015J1,Open Ended Schemes,Debt Scheme - Gilt Fund with 10 year constant duration
-131303,DSP Mutual Fund,DSP 10Y G-Sec Fund,INF740K012J8,INF740K013J6,Open Ended Schemes,Debt Scheme - Gilt Fund with 10 year constant duration
-131304,DSP Mutual Fund,DSP 10Y G-Sec Fund,INF740K010J2,INF740K011J0,Open Ended Schemes,Debt Scheme - Gilt Fund with 10 year constant duration
+131297,DSP Mutual Fund,DSP 10 year Constant Maturity Gilt Fund,INF740K012I0,,Open Ended Schemes,Income/Debt Oriented Schemes - 10-year Constant Maturity Gilt Fund
+131298,DSP Mutual Fund,DSP 10 year Constant Maturity Gilt Fund,INF740K013I8,INF740K014I6,Open Ended Schemes,Income/Debt Oriented Schemes - 10-year Constant Maturity Gilt Fund
+131299,DSP Mutual Fund,DSP 10 year Constant Maturity Gilt Fund,INF740K015I3,INF740K016I1,Open Ended Schemes,Income/Debt Oriented Schemes - 10-year Constant Maturity Gilt Fund
+131300,DSP Mutual Fund,DSP 10 year Constant Maturity Gilt Fund,INF740K017I9,INF740K018I7,Open Ended Schemes,Income/Debt Oriented Schemes - 10-year Constant Maturity Gilt Fund
+131301,DSP Mutual Fund,DSP 10 year Constant Maturity Gilt Fund,INF740K019I5,,Open Ended Schemes,Income/Debt Oriented Schemes - 10-year Constant Maturity Gilt Fund
+131302,DSP Mutual Fund,DSP 10 year Constant Maturity Gilt Fund,INF740K014J4,INF740K015J1,Open Ended Schemes,Income/Debt Oriented Schemes - 10-year Constant Maturity Gilt Fund
+131303,DSP Mutual Fund,DSP 10 year Constant Maturity Gilt Fund,INF740K012J8,INF740K013J6,Open Ended Schemes,Income/Debt Oriented Schemes - 10-year Constant Maturity Gilt Fund
+131304,DSP Mutual Fund,DSP 10 year Constant Maturity Gilt Fund,INF740K010J2,INF740K011J0,Open Ended Schemes,Income/Debt Oriented Schemes - 10-year Constant Maturity Gilt Fund
 131305,Nippon India Mutual Fund,Reliance Dual Advantage Fixed Tenure Fund VI- Plan C,INF204KA1UF3,,Close Ended Schemes,Income
 131306,Nippon India Mutual Fund,Reliance Dual Advantage Fixed Tenure Fund VI- Plan C,INF204KA1UG1,,Close Ended Schemes,Income
 131307,Nippon India Mutual Fund,Reliance Dual Advantage Fixed Tenure Fund VI- Plan C,INF204KA1UI7,,Close Ended Schemes,Income
@@ -6334,10 +6334,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 140742,Nippon India Mutual Fund,Nippon India Fixed Horizon Fund XXXIII- Series 2,INF204KB1IC4,,Close Ended Schemes,Income
 140743,Nippon India Mutual Fund,Nippon India Fixed Horizon Fund XXXIII- Series 2,INF204KB1ID2,,Close Ended Schemes,Income
 140744,Nippon India Mutual Fund,Nippon India Fixed Horizon Fund XXXIII- Series 2,INF204KB1IE0,,Close Ended Schemes,Income
-140769,Mirae Asset Mutual Fund,Mirae Asset Dynamic Bond Fund,INF769K01DR8,,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
-140770,Mirae Asset Mutual Fund,Mirae Asset Dynamic Bond Fund,INF769K01DS6,INF769K01DT4,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
-140771,Mirae Asset Mutual Fund,Mirae Asset Dynamic Bond Fund,INF769K01DO5,,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
-140772,Mirae Asset Mutual Fund,Mirae Asset Dynamic Bond Fund,INF769K01DP2,INF769K01DQ0,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
+140769,Mirae Asset Mutual Fund,Mirae Asset Dynamic Term Fund,INF769K01DR8,,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
+140770,Mirae Asset Mutual Fund,Mirae Asset Dynamic Term Fund,INF769K01DS6,INF769K01DT4,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
+140771,Mirae Asset Mutual Fund,Mirae Asset Dynamic Term Fund,INF769K01DO5,,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
+140772,Mirae Asset Mutual Fund,Mirae Asset Dynamic Term Fund,INF769K01DP2,INF769K01DQ0,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
 140773,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 80 - 1150 Days Plan N,INF109KB1U03,,Close Ended Schemes,Income
 140774,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 80 - 1150 Days Plan N,INF109KB1U11,,Close Ended Schemes,Income
 140775,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 80 - 1150 Days Plan N,INF109KB1T97,,Close Ended Schemes,Income
@@ -7224,10 +7224,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 142635,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 82 - 103 Days Plan O,INF109KC1AG7,,Close Ended Schemes,Income
 142637,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 82 - 103 Days Plan O,INF109KC1AF9,,Close Ended Schemes,Income
 142638,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 82 - 103 Days Plan O,INF109KC1AH5,,Close Ended Schemes,Income
-142640,Mirae Asset Mutual Fund,Mirae Asset Short Duration Fund,INF769K01DY4,INF769K01DZ1,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
-142641,Mirae Asset Mutual Fund,Mirae Asset Short Duration Fund,INF769K01DX6,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
-142642,Mirae Asset Mutual Fund,Mirae Asset Short Duration Fund,INF769K01DU2,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
-142643,Mirae Asset Mutual Fund,Mirae Asset Short Duration Fund,INF769K01DV0,INF769K01DW8,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+142640,Mirae Asset Mutual Fund,Mirae Asset Short Term Fund,INF769K01DY4,INF769K01DZ1,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+142641,Mirae Asset Mutual Fund,Mirae Asset Short Term Fund,INF769K01DX6,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+142642,Mirae Asset Mutual Fund,Mirae Asset Short Term Fund,INF769K01DU2,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+142643,Mirae Asset Mutual Fund,Mirae Asset Short Term Fund,INF769K01DV0,INF769K01DW8,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 142644,Nippon India Mutual Fund,Nippon India Fixed Horizon Fund XXXVI- Series 7,INF204KB1VI4,,Close Ended Schemes,Income
 142645,Nippon India Mutual Fund,Nippon India Fixed Horizon Fund XXXVI- Series 7,INF204KB1VJ2,,Close Ended Schemes,Income
 142646,Nippon India Mutual Fund,Nippon India Fixed Horizon Fund XXXVI- Series 7,INF204KB1VG8,,Close Ended Schemes,Income
@@ -9734,10 +9734,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 148413,JM Financial Mutual Fund,JM Liquid Fund,,,Open Ended Schemes,Debt Scheme - Liquid Fund
 148414,JM Financial Mutual Fund,JM Liquid Fund,,,Open Ended Schemes,Debt Scheme - Liquid Fund
 148415,JM Financial Mutual Fund,JM Liquid Fund,,,Open Ended Schemes,Debt Scheme - Liquid Fund
-148416,Mirae Asset Mutual Fund,Mirae Asset Banking and PSU Fund,INF769K01FV5,,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
-148417,Mirae Asset Mutual Fund,Mirae Asset Banking and PSU Fund,INF769K01FX1,INF769K01FZ6,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
-148418,Mirae Asset Mutual Fund,Mirae Asset Banking and PSU Fund,INF769K01FU7,INF769K01FW3,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
-148419,Mirae Asset Mutual Fund,Mirae Asset Banking and PSU Fund,INF769K01FY9,,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
+148416,Mirae Asset Mutual Fund,Mirae Asset Banking and PSU Debt Fund,INF769K01FV5,,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
+148417,Mirae Asset Mutual Fund,Mirae Asset Banking and PSU Debt Fund,INF769K01FX1,INF769K01FZ6,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
+148418,Mirae Asset Mutual Fund,Mirae Asset Banking and PSU Debt Fund,INF769K01FU7,INF769K01FW3,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
+148419,Mirae Asset Mutual Fund,Mirae Asset Banking and PSU Debt Fund,INF769K01FY9,,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
 148420,UTI Mutual Fund,UTI - Credit Risk Fund (Segregated - 07072020),,,Open Ended Schemes,Debt Scheme - Credit Risk Fund
 148421,UTI Mutual Fund,UTI - Medium Term Fund (Segregated - 07072020),,,Open Ended Schemes,Debt Scheme - Medium Duration Fund
 148422,UTI Mutual Fund,UTI - Credit Risk Fund (Segregated - 07072020),,,Open Ended Schemes,Debt Scheme - Credit Risk Fund
@@ -9819,10 +9819,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 148519,Nippon India Mutual Fund,Nippon India Nifty Smallcap 250 Index Fund,INF204KB15W0,,Open Ended Schemes,Other Scheme - Index Funds
 148520,Nippon India Mutual Fund,Nippon India Nifty Smallcap 250 Index Fund,INF204KB13W5,INF204KB14W3,Open Ended Schemes,Other Scheme - Index Funds
 148521,Nippon India Mutual Fund,Nippon India Nifty Smallcap 250 Index Fund,INF204KB16W8,INF204KB17W6,Open Ended Schemes,Other Scheme - Index Funds
-148529,Mirae Asset Mutual Fund,Mirae Asset Ultra Short Duration Fund,INF769K01GK6,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
-148530,Mirae Asset Mutual Fund,Mirae Asset Ultra Short Duration Fund,INF769K01GH2,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
-148531,Mirae Asset Mutual Fund,Mirae Asset Ultra Short Duration Fund,INF769K01GG4,INF769K01GI0,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
-148532,Mirae Asset Mutual Fund,Mirae Asset Ultra Short Duration Fund,INF769K01GJ8,INF769K01GL4,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+148529,Mirae Asset Mutual Fund,Mirae Asset Ultra Short-Term Fund,INF769K01GK6,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+148530,Mirae Asset Mutual Fund,Mirae Asset Ultra Short-Term Fund,INF769K01GH2,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+148531,Mirae Asset Mutual Fund,Mirae Asset Ultra Short-Term Fund,INF769K01GG4,INF769K01GI0,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+148532,Mirae Asset Mutual Fund,Mirae Asset Ultra Short-Term Fund,INF769K01GJ8,INF769K01GL4,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
 148533,ITI Mutual Fund,ITI Banking & PSU Debt Fund,INF00XX01846,INF00XX01853,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
 148534,ITI Mutual Fund,ITI Banking & PSU Debt Fund,INF00XX01861,,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
 148535,ITI Mutual Fund,ITI Banking & PSU Debt Fund,INF00XX01838,,Open Ended Schemes,Debt Scheme - Banking and PSU Fund
@@ -9993,10 +9993,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 148761,SBI Mutual Fund,SBI US Specific Equity Active FoF,INF200KA1U36,INF200KA1U44,Open Ended Schemes,Other Scheme - FoF Overseas
 148762,SBI Mutual Fund,SBI US Specific Equity Active FoF,INF200KA1T96,,Open Ended Schemes,Other Scheme - FoF Overseas
 148763,Kotak Mahindra Mutual Fund,Kotak Nifty IT ETF,INF174KA1GC5,,Open Ended Schemes,Other Scheme - Other  ETFs
-148768,DSP Mutual Fund,DSP Floater Fund,INF740KA1PS7,,Open Ended Schemes,Debt Scheme - Floater Fund
-148769,DSP Mutual Fund,DSP Floater Fund,INF740KA1PW9,INF740KA1PX7,Open Ended Schemes,Debt Scheme - Floater Fund
-148770,DSP Mutual Fund,DSP Floater Fund,INF740KA1PT5,INF740KA1PU3,Open Ended Schemes,Debt Scheme - Floater Fund
-148771,DSP Mutual Fund,DSP Floater Fund,INF740KA1PV1,,Open Ended Schemes,Debt Scheme - Floater Fund
+148768,DSP Mutual Fund,DSP Floating Interest Rates Fund,INF740KA1PS7,,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
+148769,DSP Mutual Fund,DSP Floating Interest Rates Fund,INF740KA1PW9,INF740KA1PX7,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
+148770,DSP Mutual Fund,DSP Floating Interest Rates Fund,INF740KA1PT5,INF740KA1PU3,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
+148771,DSP Mutual Fund,DSP Floating Interest Rates Fund,INF740KA1PV1,,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
 148786,Bandhan Mutual Fund,BANDHAN CRISIL IBX GILT JUNE 2027 INDEX FUND,INF194KB1BL2,,Open Ended Schemes,Other Scheme - Index Funds
 148787,Bandhan Mutual Fund,BANDHAN CRISIL IBX GILT JUNE 2027 INDEX FUND,INF194KB1BM0,INF194KB1BO6,Open Ended Schemes,Other Scheme - Index Funds
 148788,Bandhan Mutual Fund,BANDHAN CRISIL IBX GILT JUNE 2027 INDEX FUND,INF194KB1BQ1,INF194KB1BR9,Open Ended Schemes,Other Scheme - Index Funds
@@ -12248,10 +12248,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 152300,Quantum Mutual Fund,Quantum Liquid Fund,,,Open Ended Schemes,Debt Scheme - Liquid Fund
 152301,Quantum Mutual Fund,Quantum Liquid Fund,,,Open Ended Schemes,Debt Scheme - Liquid Fund
 152306,DSP Mutual Fund,DSP Nifty Healthcare ETF,INF740KA1ZG1,,Open Ended Schemes,Other Scheme - Other  ETFs
-152307,DSP Mutual Fund,DSP Multicap Fund,INF740KA1TZ4,,Open Ended Schemes,Equity Scheme - Multi Cap Fund
-152308,DSP Mutual Fund,DSP Multicap Fund,INF740KA1UA5,INF740KA1UB3,Open Ended Schemes,Equity Scheme - Multi Cap Fund
-152309,DSP Mutual Fund,DSP Multicap Fund,INF740KA1UD9,INF740KA1UE7,Open Ended Schemes,Equity Scheme - Multi Cap Fund
-152310,DSP Mutual Fund,DSP Multicap Fund,INF740KA1UC1,,Open Ended Schemes,Equity Scheme - Multi Cap Fund
+152307,DSP Mutual Fund,DSP Multi Cap Fund,INF740KA1TZ4,,Open Ended Schemes,Equity Schemes - Multi Cap Fund
+152308,DSP Mutual Fund,DSP Multi Cap Fund,INF740KA1UA5,INF740KA1UB3,Open Ended Schemes,Equity Schemes - Multi Cap Fund
+152309,DSP Mutual Fund,DSP Multi Cap Fund,INF740KA1UD9,INF740KA1UE7,Open Ended Schemes,Equity Schemes - Multi Cap Fund
+152310,DSP Mutual Fund,DSP Multi Cap Fund,INF740KA1UC1,,Open Ended Schemes,Equity Schemes - Multi Cap Fund
 152311,Sundaram Mutual Fund,Sundaram Multi Asset Allocation Fund,INF903JA1LH5,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
 152312,Sundaram Mutual Fund,Sundaram Multi Asset Allocation Fund,,INF903JA1LM5,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
 152313,Sundaram Mutual Fund,Sundaram Multi Asset Allocation Fund,,INF903JA1LJ1,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
@@ -12939,10 +12939,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153102,Franklin Templeton Mutual Fund,Franklin India Long Duration Fund,INF090I01XY7,,Open Ended Schemes,Debt Scheme - Long Duration Fund
 153103,Franklin Templeton Mutual Fund,Franklin India Long Duration Fund,INF090I01YA5,INF090I01XZ4,Open Ended Schemes,Debt Scheme - Long Duration Fund
 153104,Franklin Templeton Mutual Fund,Franklin India Long Duration Fund,INF090I01XV3,,Open Ended Schemes,Debt Scheme - Long Duration Fund
-153105,Mirae Asset Mutual Fund,Mirae Asset Long Duration Fund,INF769K01NC9,,Open Ended Schemes,Income/Debt Oriented Schemes - Long Term Fund
-153106,Mirae Asset Mutual Fund,Mirae Asset Long Duration Fund,INF769K01ND7,INF769K01NF2,Open Ended Schemes,Income/Debt Oriented Schemes - Long Term Fund
-153107,Mirae Asset Mutual Fund,Mirae Asset Long Duration Fund,INF769K01MZ2,,Open Ended Schemes,Income/Debt Oriented Schemes - Long Term Fund
-153108,Mirae Asset Mutual Fund,Mirae Asset Long Duration Fund,INF769K01NA3,INF769K01NB1,Open Ended Schemes,Income/Debt Oriented Schemes - Long Term Fund
+153105,Mirae Asset Mutual Fund,Mirae Asset Long Term Fund,INF769K01NC9,,Open Ended Schemes,Income/Debt Oriented Schemes - Long Term Fund
+153106,Mirae Asset Mutual Fund,Mirae Asset Long Term Fund,INF769K01ND7,INF769K01NF2,Open Ended Schemes,Income/Debt Oriented Schemes - Long Term Fund
+153107,Mirae Asset Mutual Fund,Mirae Asset Long Term Fund,INF769K01MZ2,,Open Ended Schemes,Income/Debt Oriented Schemes - Long Term Fund
+153108,Mirae Asset Mutual Fund,Mirae Asset Long Term Fund,INF769K01NA3,INF769K01NB1,Open Ended Schemes,Income/Debt Oriented Schemes - Long Term Fund
 153109,Union Mutual Fund,Union Active Momentum Fund,INF582M01KG9,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 153110,Union Mutual Fund,Union Active Momentum Fund,INF582M01KH7,INF582M01KI5,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 153111,Union Mutual Fund,Union Active Momentum Fund,INF582M01KC8,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
@@ -34630,7 +34630,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 100039,Aditya Birla Sun Life AMC Limited,Birla Income Plus-Institutional (Growth),,,Open Ended,Debt Scheme - Medium to Long Duration Fund
 100040,Aditya Birla Sun Life AMC Limited,Birla Income Plus-Institutional (Dividend),,,Open Ended,Debt Scheme - Medium to Long Duration Fund
 100050,Aditya Birla Sun Life AMC Limited,Birla Cash Plus-Birla Cash Plus (Institutional Premium Weekly Dividend),,,Open Ended,Debt Scheme - Liquid Fund
-154425,DSP Asset Managers Private Limited,DSP Savings Fund  - Regular Plan - IDCW Weekly,INF740KA1ZB2,INF740KA1ZC0,Open Ended,Debt Scheme - Money Market Fund
+154425,DSP Asset Managers Private Limited,DSP Money Market Fund  - Regular Plan - IDCW Weekly,INF740KA1ZB2,INF740KA1ZC0,Open Ended,Income/Debt Oriented Schemes - Money Market Fund
 100125,HDFC Asset Management Company Limited,HDFC Income Fund-Premium Plan Dividend,,,Open Ended,Debt Scheme - Medium to Long Duration Fund
 100126,HDFC Asset Management Company Limited,HDFC Income Fund-Premium Plus Dividend,,,Open Ended,Debt Scheme - Medium to Long Duration Fund
 100127,HDFC Asset Management Company Limited,HDFC Income Fund-Premium Plus Growth,,,Open Ended,Debt Scheme - Medium to Long Duration Fund
