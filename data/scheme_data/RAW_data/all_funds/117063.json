@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "DSP Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short Term Fund",
         "scheme_code": 117063,
-        "scheme_name": "DSP Ultra Short Fund - Regular Plan - Monthly IDCW",
+        "scheme_name": "DSP Ultra Short Term Fund - Regular Plan - Monthly IDCW",
         "isin_growth": "INF740K01QS9",
         "isin_div_reinvestment": "INF740K01QR1"
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "1084.30330"
+        },
         {
             "date": "24-08-2026",
             "nav": "1083.88730"

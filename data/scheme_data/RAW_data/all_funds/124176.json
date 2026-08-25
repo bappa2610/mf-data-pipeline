@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "DSP Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Banking and PSU Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Banking and PSU Debt Fund",
         "scheme_code": 124176,
-        "scheme_name": "DSP Banking & PSU Debt Fund - Direct Plan - Monthly IDCW",
+        "scheme_name": "DSP Banking and PSU Debt Fund - Direct Plan - Monthly IDCW",
         "isin_growth": "INF740K01ZX0",
         "isin_div_reinvestment": "INF740K01ZY8"
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "10.40820"
+        },
         {
             "date": "24-08-2026",
             "nav": "10.40150"

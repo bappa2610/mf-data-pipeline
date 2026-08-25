@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Baroda BNP Paribas Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short Term Fund",
         "scheme_code": 143510,
-        "scheme_name": "Baroda BNP Paribas Ultra Short Duration Fund - Regular Plan - Weekly IDCW Option",
+        "scheme_name": "Baroda BNP Paribas Ultra Short Term Fund - Regular Plan - Weekly IDCW Option",
         "isin_growth": "INF251K01SN4",
         "isin_div_reinvestment": "INF955L01GY0"
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "1001.11510"
+        },
         {
             "date": "24-08-2026",
             "nav": "1001.98850"

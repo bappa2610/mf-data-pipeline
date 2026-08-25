@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "DSP Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Liquid Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
         "scheme_code": 119124,
-        "scheme_name": "DSP Liquidity Fund - Direct Plan - Daily IDCW",
+        "scheme_name": "DSP Liquid Fund - Direct Plan - Daily IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF740KA1OB6"
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "1001.46630"
+        },
         {
             "date": "24-08-2026",
             "nav": "1001.46630"

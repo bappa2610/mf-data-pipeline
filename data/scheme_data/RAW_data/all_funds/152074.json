@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "360 ONE Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Balanced Hybrid Fund",
+        "scheme_category": "Hybrid Schemes - Balanced Hybrid Fund",
         "scheme_code": 152074,
         "scheme_name": "360 ONE Balanced Hybrid Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF579M01AW3",
         "isin_div_reinvestment": "INF579M01AX1"
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "13.27820"
+        },
         {
             "date": "24-08-2026",
             "nav": "13.25980"

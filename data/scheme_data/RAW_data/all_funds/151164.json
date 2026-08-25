@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "360 ONE Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - ELSS",
+        "scheme_category": "Index Funds - Equity Funds",
         "scheme_code": 151164,
         "scheme_name": "360 ONE ELSS Tax Saver Nifty 50 Index Fund - Regular Plan - GROWTH Option",
         "isin_growth": "INF579M01AL6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "13.71780"
+        },
         {
             "date": "24-08-2026",
             "nav": "13.65350"

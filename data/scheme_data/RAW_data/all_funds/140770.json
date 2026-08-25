@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Dynamic Term Fund",
         "scheme_code": 140770,
-        "scheme_name": "Mirae Asset Dynamic Bond Fund - Direct Plan - IDCW",
+        "scheme_name": "Mirae Asset Dynamic Term Fund - Direct Plan - IDCW",
         "isin_growth": "INF769K01DS6",
         "isin_div_reinvestment": "INF769K01DT4"
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "18.81510"
+        },
         {
             "date": "24-08-2026",
             "nav": "18.80660"

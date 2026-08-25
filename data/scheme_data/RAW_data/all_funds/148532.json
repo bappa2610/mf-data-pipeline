@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Ultra Short Term Fund",
         "scheme_code": 148532,
-        "scheme_name": "Mirae Asset Ultra Short Duration Fund - Direct Plan - IDCW",
+        "scheme_name": "Mirae Asset Ultra Short-Term Fund - Direct Plan - IDCW",
         "isin_growth": "INF769K01GJ8",
         "isin_div_reinvestment": "INF769K01GL4"
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "1424.73080"
+        },
         {
             "date": "24-08-2026",
             "nav": "1424.17800"

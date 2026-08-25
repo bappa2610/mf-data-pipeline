@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "DSP Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 147306,
         "scheme_name": "DSP Quant Fund - Direct Plan - Growth",
         "isin_growth": "INF740KA1NQ6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "22.96200"
+        },
         {
             "date": "24-08-2026",
             "nav": "22.89000"

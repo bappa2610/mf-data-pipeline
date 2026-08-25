@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "DSP Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Money Market Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Money Market Fund",
         "scheme_code": 119107,
-        "scheme_name": "DSP Savings Fund - Direct Plan - Monthly IDCW",
+        "scheme_name": "DSP Money Market Fund - Direct Plan - Monthly IDCW",
         "isin_growth": "INF740K01NT4",
         "isin_div_reinvestment": "INF740K01NW8"
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "11.09770"
+        },
         {
             "date": "24-08-2026",
             "nav": "11.09160"

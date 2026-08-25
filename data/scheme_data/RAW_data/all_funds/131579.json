@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "360 ONE Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Focused Fund",
+        "scheme_category": "Equity Schemes - Focused Fund",
         "scheme_code": 131579,
         "scheme_name": "360 ONE Focused Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF579M01886",
         "isin_div_reinvestment": "INF579M01894"
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "43.61440"
+        },
         {
             "date": "24-08-2026",
             "nav": "43.29700"

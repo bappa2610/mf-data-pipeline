@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Dynamic Term Fund",
         "scheme_code": 140771,
-        "scheme_name": "Mirae Asset Dynamic Bond Fund - Regular Plan - Growth",
+        "scheme_name": "Mirae Asset Dynamic Term Fund - Regular Plan - Growth",
         "isin_growth": "INF769K01DO5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "17.06370"
+        },
         {
             "date": "24-08-2026",
             "nav": "17.05640"

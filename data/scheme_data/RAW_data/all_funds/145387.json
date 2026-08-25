@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Baroda BNP Paribas Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
+        "scheme_category": "Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation",
         "scheme_code": 145387,
-        "scheme_name": "Baroda BNP Paribas Balanced Advantage Fund - Regular Plan - Growth Option",
+        "scheme_name": "Baroda BNP Paribas Dynamic Asset Allocation Fund - Regular Plan - Growth Option",
         "isin_growth": "INF955L01HC4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "26.33900"
+        },
         {
             "date": "24-08-2026",
             "nav": "26.25520"

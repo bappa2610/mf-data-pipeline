@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "360 ONE Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Flexi Cap Fund",
+        "scheme_category": "Equity Schemes - Flexi Cap Fund",
         "scheme_code": 151796,
         "scheme_name": "360 ONE Flexicap Fund - Direct Plan - GROWTH Option",
         "isin_growth": "INF579M01AS1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "17.28130"
+        },
         {
             "date": "24-08-2026",
             "nav": "17.23280"

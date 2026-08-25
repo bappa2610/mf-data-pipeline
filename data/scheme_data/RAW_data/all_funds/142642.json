@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 142642,
-        "scheme_name": "Mirae Asset Short Duration Fund - Regular Plan - Growth",
+        "scheme_name": "Mirae Asset Short Term Fund - Regular Plan - Growth",
         "isin_growth": "INF769K01DU2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "16.62190"
+        },
         {
             "date": "24-08-2026",
             "nav": "16.61730"

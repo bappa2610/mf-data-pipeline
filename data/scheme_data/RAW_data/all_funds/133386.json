@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - ELSS",
         "scheme_code": 133386,
-        "scheme_name": "Motilal Oswal ELSS Tax Saver Fund",
+        "scheme_name": "Motilal Oswal ELSS Tax Saver Fund - Direct Plan - Growth",
         "isin_growth": "INF247L01569",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "67.03260"
+        },
         {
             "date": "24-08-2026",
             "nav": "67.03540"

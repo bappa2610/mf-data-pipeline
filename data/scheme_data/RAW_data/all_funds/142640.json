@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 142640,
-        "scheme_name": "Mirae Asset Short Duration Fund - Direct Plan - IDCW",
+        "scheme_name": "Mirae Asset Short Term Fund - Direct Plan - IDCW",
         "isin_growth": "INF769K01DY4",
         "isin_div_reinvestment": "INF769K01DZ1"
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "17.75370"
+        },
         {
             "date": "24-08-2026",
             "nav": "17.74850"

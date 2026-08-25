@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "360 ONE Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 149316,
         "scheme_name": "360 ONE QUANT FUND - Regular Plan - IDCW Option",
         "isin_growth": "INF579M01AG6",
         "isin_div_reinvestment": "INF579M01AH4"
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "19.32340"
+        },
         {
             "date": "24-08-2026",
             "nav": "19.21070"

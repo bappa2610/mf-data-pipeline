@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "DSP Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Gilt Fund with 10 year constant duration",
+        "scheme_category": "Income/Debt Oriented Schemes - 10-year Constant Maturity Gilt Fund",
         "scheme_code": 131301,
-        "scheme_name": "DSP 10Y G-Sec Fund - Direct Plan - Growth",
+        "scheme_name": "DSP 10 year Constant Maturity Gilt Fund - Direct Plan - Growth",
         "isin_growth": "INF740K019I5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "23.17270"
+        },
         {
             "date": "24-08-2026",
             "nav": "23.14050"

@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Ultra Short to Short Term Fund",
         "scheme_code": 107704,
-        "scheme_name": "Mirae Asset Low Duration Fund - Regular Plan - Monthly IDCW",
+        "scheme_name": "Mirae Asset Ultra Short to Short Term Fund - Regular Plan - Monthly IDCW",
         "isin_growth": "INF769K01960",
         "isin_div_reinvestment": "INF769K01AA0"
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "1087.50060"
+        },
         {
             "date": "24-08-2026",
             "nav": "1087.13630"

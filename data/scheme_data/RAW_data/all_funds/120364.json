@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "ICICI Prudential Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Arbitrage Fund",
+        "scheme_category": "Hybrid Schemes - Arbitrage Fund",
         "scheme_code": 120364,
         "scheme_name": "ICICI Prudential Arbitrage Fund - Direct Plan - Growth",
         "isin_growth": "INF109K016O4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "39.58070"
+        },
         {
             "date": "24-08-2026",
             "nav": "39.60190"

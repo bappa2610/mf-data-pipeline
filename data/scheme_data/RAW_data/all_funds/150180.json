@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Baroda BNP Paribas Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Dynamic Bond",
+        "scheme_category": "Income/Debt Oriented Schemes - Dynamic Term Fund",
         "scheme_code": 150180,
-        "scheme_name": "Baroda BNP Paribas Dynamic Bond Fund - Direct Plan - Growth Option",
+        "scheme_name": "Baroda BNP Paribas Dynamic Term Fund - Direct Plan - Growth Option",
         "isin_growth": "INF251K01GW0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "52.46290"
+        },
         {
             "date": "24-08-2026",
             "nav": "52.43990"

@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Flexi Cap Fund",
         "scheme_code": 129047,
-        "scheme_name": "Motilal Oswal Flexi Cap Fund",
+        "scheme_name": "Motilal Oswal Flexi Cap Fund - Direct Plan - Payout/Reinvestment",
         "isin_growth": "INF247L01528",
         "isin_div_reinvestment": "INF247L01510"
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "35.44460"
+        },
         {
             "date": "24-08-2026",
             "nav": "35.40360"

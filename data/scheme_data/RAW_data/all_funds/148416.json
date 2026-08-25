@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Banking and PSU Debt Fund",
         "scheme_code": 148416,
-        "scheme_name": "Mirae Asset Banking and PSU Fund - Regular Plan - Growth",
+        "scheme_name": "Mirae Asset Banking and PSU Debt Fund - Regular Plan - Growth",
         "isin_growth": "INF769K01FV5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "13.64240"
+        },
         {
             "date": "24-08-2026",
             "nav": "13.63850"

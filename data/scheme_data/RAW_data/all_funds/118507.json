@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Franklin Templeton Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Floater Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Floating Interest Rates Fund",
         "scheme_code": 118507,
-        "scheme_name": "Franklin India Floating Rate Fund - Direct Plan - Daily IDCW",
+        "scheme_name": "Franklin India Floating Interest Rates Fund - Direct Plan - Daily IDCW",
         "isin_growth": "INF090I01LL9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "10.05710"
+        },
         {
             "date": "24-08-2026",
             "nav": "10.05750"

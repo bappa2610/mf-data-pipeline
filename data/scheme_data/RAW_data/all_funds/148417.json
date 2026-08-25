@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Banking and PSU Debt Fund",
         "scheme_code": 148417,
-        "scheme_name": "Mirae Asset Banking and PSU Fund - Direct Plan - IDCW",
+        "scheme_name": "Mirae Asset Banking and PSU Debt Fund - Direct Plan - IDCW",
         "isin_growth": "INF769K01FX1",
         "isin_div_reinvestment": "INF769K01FZ6"
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "14.01360"
+        },
         {
             "date": "24-08-2026",
             "nav": "14.00940"

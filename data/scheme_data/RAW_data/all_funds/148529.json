@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Ultra Short Term Fund",
         "scheme_code": 148529,
-        "scheme_name": "Mirae Asset Ultra Short Duration Fund - Direct Plan - Growth",
+        "scheme_name": "Mirae Asset Ultra Short-Term Fund - Direct Plan - Growth",
         "isin_growth": "INF769K01GK6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "1425.19430"
+        },
         {
             "date": "24-08-2026",
             "nav": "1424.64140"

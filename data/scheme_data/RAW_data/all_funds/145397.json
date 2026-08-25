@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Baroda BNP Paribas Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
+        "scheme_category": "Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation",
         "scheme_code": 145397,
-        "scheme_name": "Baroda BNP Paribas Balanced Advantage Fund - Direct Plan - IDCW Option",
+        "scheme_name": "Baroda BNP Paribas Dynamic Asset Allocation Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF955L01HG5",
         "isin_div_reinvestment": "INF955L01HH3"
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "18.07600"
+        },
         {
             "date": "24-08-2026",
             "nav": "18.01800"

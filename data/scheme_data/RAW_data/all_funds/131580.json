@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "360 ONE Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Focused Fund",
+        "scheme_category": "Equity Schemes - Focused Fund",
         "scheme_code": 131580,
         "scheme_name": "360 ONE Focused Fund - Direct Plan - GROWTH Option",
         "isin_growth": "INF579M01902",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "56.48550"
+        },
         {
             "date": "24-08-2026",
             "nav": "56.07300"
