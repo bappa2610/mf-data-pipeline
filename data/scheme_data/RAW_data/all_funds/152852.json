@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Franklin Templeton Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Medium to Long Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Medium to Long Term Fund",
         "scheme_code": 152852,
-        "scheme_name": "Franklin India Medium to Long Duration Fund - Direct Plan - IDCW",
+        "scheme_name": "Franklin India Medium to Long Term Fund - Direct Plan - IDCW",
         "isin_growth": "INF090I01XH2",
         "isin_div_reinvestment": "INF090I01XI0"
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "10.72550"
+        },
         {
             "date": "24-08-2026",
             "nav": "10.72620"

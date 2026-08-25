@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 154690,
-        "scheme_name": "Baroda BNP Paribas Short Duration Fund(the scheme has 2 segregated portfolios) - Regular Plan - Defunct Monthly IDCW Payout",
+        "scheme_name": "Baroda BNP Paribas Short Term Fund(the scheme has 2 segregated portfolios) - Regular Plan - Defunct Monthly IDCW Payout",
         "isin_growth": "INF955L01JP2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "0.00000"
+        },
         {
             "date": "24-08-2026",
             "nav": "0.00000"

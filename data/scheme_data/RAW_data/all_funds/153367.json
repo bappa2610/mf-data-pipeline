@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Sectoral/ Thematic",
         "scheme_code": 153367,
-        "scheme_name": "Motilal Oswal Active Momentum Fund",
+        "scheme_name": "Motilal Oswal Active Momentum Fund - Direct Plan - Reinvestment/Payout",
         "isin_growth": "INF247L01EQ3",
         "isin_div_reinvestment": "INF247L01ER1"
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "14.23330"
+        },
         {
             "date": "24-08-2026",
             "nav": "14.18900"

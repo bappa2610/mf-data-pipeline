@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "360 ONE Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Overnight Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Overnight Fund",
         "scheme_code": 153700,
         "scheme_name": "360 ONE Overnight Fund - Regular Plan - GROWTH Option",
         "isin_growth": "INF579M01BD1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "1059.96730"
+        },
         {
             "date": "24-08-2026",
             "nav": "1059.82580"

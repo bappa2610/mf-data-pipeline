@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Franklin Templeton Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Long Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Long Term Fund",
         "scheme_code": 153104,
-        "scheme_name": "Franklin India Long Duration Fund - Regular Plan - Growth",
+        "scheme_name": "Franklin India Long Term Fund - Regular Plan - Growth",
         "isin_growth": "INF090I01XV3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "10.85530"
+        },
         {
             "date": "24-08-2026",
             "nav": "10.85100"

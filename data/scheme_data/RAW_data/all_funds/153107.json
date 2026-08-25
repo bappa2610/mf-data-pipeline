@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Long Term Fund",
         "scheme_code": 153107,
-        "scheme_name": "Mirae Asset Long Duration Fund - Regular Plan - Growth",
+        "scheme_name": "Mirae Asset Long Term Fund - Regular Plan - Growth",
         "isin_growth": "INF769K01MZ2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "10.48950"
+        },
         {
             "date": "24-08-2026",
             "nav": "10.48860"

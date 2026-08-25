@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "DSP Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 153122,
         "scheme_name": "DSP Business Cycle Fund - Regular Plan - Growth",
         "isin_growth": "INF740KA1US7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "10.47100"
+        },
         {
             "date": "24-08-2026",
             "nav": "10.44800"

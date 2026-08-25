@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Contra Fund",
         "scheme_code": 154338,
-        "scheme_name": "Motilal Oswal Contra Fund",
+        "scheme_name": "Motilal Oswal Contra Fund - Regular Plan - Growth",
         "isin_growth": "INF247L01GZ9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "10.39680"
+        },
         {
             "date": "24-08-2026",
             "nav": "10.35340"

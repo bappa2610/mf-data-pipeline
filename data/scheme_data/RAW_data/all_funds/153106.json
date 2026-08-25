@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Long Term Fund",
         "scheme_code": 153106,
-        "scheme_name": "Mirae Asset Long Duration Fund - Direct Plan - IDCW",
+        "scheme_name": "Mirae Asset Long Term Fund - Direct Plan - IDCW",
         "isin_growth": "INF769K01ND7",
         "isin_div_reinvestment": "INF769K01NF2"
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "10.57550"
+        },
         {
             "date": "24-08-2026",
             "nav": "10.57440"

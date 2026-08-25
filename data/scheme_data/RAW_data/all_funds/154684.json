@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 154684,
-        "scheme_name": "Baroda BNP Paribas Short Duration Fund(the scheme has 2 segregated portfolios) - SG 2 Regular Growth",
+        "scheme_name": "Baroda BNP Paribas Short Term Fund(the scheme has 2 segregated portfolios) - SG 2 Regular Growth",
         "isin_growth": "INF955L01IY6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "0.00000"
+        },
         {
             "date": "24-08-2026",
             "nav": "0.00000"

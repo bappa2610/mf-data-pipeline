@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "360 ONE Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Other  ETFs",
+        "scheme_category": "Exchange Traded Funds (ETFs) - Silver ETF",
         "scheme_code": 153415,
         "scheme_name": "360 ONE Silver ETF - Direct Plan - GROWTH Option",
         "isin_growth": "INF579M01BC3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "235.69400"
+        },
         {
             "date": "24-08-2026",
             "nav": "239.10100"
