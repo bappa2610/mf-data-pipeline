@@ -8855,8 +8855,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 112319,IDFC Mutual Fund,DFC FMP  SMS - 1 Plan A Dividend,,,Close Ended Schemes,Income
 112320,Kotak Mahindra Mutual Fund,Kotak FMP 18M Series 3 - Dividend,,,Close Ended Schemes,Income
 112321,Kotak Mahindra Mutual Fund,Kotak FMP 18M Series 3 - Growth,,,Close Ended Schemes,Income
-112322,Axis Mutual Fund,Axis ELSS Tax Saver Fund - Regular Plan - IDCW Option,INF846K01149,INF846K01156,Open Ended Schemes,Equity Scheme - ELSS
-112323,Axis Mutual Fund,Axis ELSS Tax Saver Fund - Regular Plan - Growth Option,INF846K01131,,Open Ended Schemes,Equity Scheme - ELSS
+112322,Axis Mutual Fund,Axis ELSS- Tax Saver Fund - Regular Plan - IDCW Option,INF846K01149,INF846K01156,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
+112323,Axis Mutual Fund,Axis ELSS- Tax Saver Fund - Regular Plan - Growth Option,INF846K01131,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
 112326,HDFC Mutual Fund,HDFC FMP 15M December 2009 - GROWTH OPTION,,,Close Ended Schemes,Income
 112327,Bandhan Mutual Fund,Bandhan Conservative Hybrid Passive FOF - Regular Plan - Growth,INF194K01987,,Open Ended Schemes,Other Scheme - FoF Domestic
 112328,Bandhan Mutual Fund,Bandhan Conservative Hybrid Passive FOF - Regular Plan - IDCW,INF194K01995,INF194K01AA1,Open Ended Schemes,Other Scheme - FoF Domestic
@@ -14933,8 +14933,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 120499,Invesco Mutual Fund,Invesco India Corporate Bond Fund - Direct Plan - Discretionary IDCW,INF205K01RD3,INF205K01RE1,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
 120500,Invesco Mutual Fund,Invesco India Corporate Bond Fund - Direct Plan - Annual IDCW,INF205K01RA9,INF205K01RB7,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
 120501,Invesco Mutual Fund,Invesco India Corporate Bond Fund - Direct Plan - Quarterly IDCW,INF205K01RI2,INF205K01RJ0,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
-120502,Axis Mutual Fund,Axis ELSS Tax Saver Fund - Direct Plan - IDCW Option,INF846K01EX0,INF846K01EY8,Open Ended Schemes,Equity Scheme - ELSS
-120503,Axis Mutual Fund,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,INF846K01EW2,,Open Ended Schemes,Equity Scheme - ELSS
+120502,Axis Mutual Fund,Axis ELSS- Tax Saver Fund - Direct Plan - IDCW Option,INF846K01EX0,INF846K01EY8,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
+120503,Axis Mutual Fund,Axis ELSS- Tax Saver Fund - Direct Plan - Growth Option,INF846K01EW2,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
 120504,Axis Mutual Fund,Axis Midcap Fund - Direct Plan - IDCW Option,INF846K01EF7,INF846K01EG5,Open Ended Schemes,Equity Scheme - Mid Cap Fund
 120505,Axis Mutual Fund,Axis Midcap Fund - Direct Plan - Growth Option,INF846K01EH3,,Open Ended Schemes,Equity Scheme - Mid Cap Fund
 120506,Invesco Mutual Fund,Invesco India Money Market Fund - Direct Plan - Daily IDCW,,INF205K01RV5,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
@@ -28727,10 +28727,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 151606,Kotak Mahindra Mutual Fund,Kotak Nifty SDL Jul 2028 Index Fund - Direct Plan - IDCW Payout,,,Open Ended Schemes,Other Scheme - Index Funds
 151607,Kotak Mahindra Mutual Fund,Kotak Nifty SDL Jul 2028 Index Fund - Regular Plan - Growth,,,Open Ended Schemes,Other Scheme - Index Funds
 151608,Kotak Mahindra Mutual Fund,Kotak Nifty SDL Jul 2028 Index Fund - Direct Plan - Growth,,,Open Ended Schemes,Other Scheme - Index Funds
-151609,NJ Mutual Fund,NJ ELSS Tax Saver Scheme - Regular Plan - Growth Option,INF0J8L01099,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
-151610,NJ Mutual Fund,NJ ELSS Tax Saver Scheme - Regular Plan - IDCW Payout Option,INF0J8L01107,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
-151611,NJ Mutual Fund,NJ ELSS Tax Saver Scheme - Direct Plan - Growth Option,INF0J8L01115,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
-151612,NJ Mutual Fund,NJ ELSS Tax Saver Scheme - Direct Plan - IDCW Payout Option,INF0J8L01123,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
+151609,NJ Mutual Fund,NJ ELSS Tax Saver Fund - Regular Plan - Growth Option,INF0J8L01099,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
+151610,NJ Mutual Fund,NJ ELSS Tax Saver Fund - Regular Plan - IDCW Payout Option,INF0J8L01107,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
+151611,NJ Mutual Fund,NJ ELSS Tax Saver Fund - Direct Plan - Growth Option,INF0J8L01115,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
+151612,NJ Mutual Fund,NJ ELSS Tax Saver Fund - Direct Plan - IDCW Payout Option,INF0J8L01123,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
 151625,Axis Mutual Fund,Axis Fixed Term Plan - Series 114 (83 Days) - Direct Plan - Growth,,,Close Ended Schemes,Income
 151626,Axis Mutual Fund,Axis Fixed Term Plan - Series 114 (83 Days) - Regular Plan - Quarterly IDCW,,,Close Ended Schemes,Income
 151627,Axis Mutual Fund,Axis Fixed Term Plan - Series 114 (83 Days) - Regular Plan - Growth,,,Close Ended Schemes,Income
@@ -31250,7 +31250,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154685,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Term Fund(the scheme has 2 segregated portfolios) - Regular Monthly IDCW Payout and Re-investment,INF955L01JB2,INF955L01JC0,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 154686,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Term Fund(the scheme has 2 segregated portfolios) - Regular Plan - Regular Quarterly IDCW Payout,INF955L01IZ3,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 154687,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Term Fund(the scheme has 2 segregated portfolios) - Regular Plan - Regular Weekly IDCW Reinvestment,,INF955L01JE6,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
-154688,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Duration Fund(the scheme has 2 segregated portfolios) - Regular Plan - Defunct Daily IDCW Reinvestment,,INF955L01JN7,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+154688,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Term Fund(the scheme has 2 segregated portfolios) - Regular Plan - Defunct Daily IDCW Reinvestment,,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 154689,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Term Fund(the scheme has 2 segregated portfolios) - Regular Plan - Defunct Growth,INF955L01JM9,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 154690,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Term Fund(the scheme has 2 segregated portfolios) - Regular Plan - Defunct Monthly IDCW Payout,INF955L01JP2,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 154691,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Term Fund(the scheme has 2 segregated portfolios) - Regular Plan - Defunct Weekly IDCW Reinvestment,,INF955L01JO5,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
