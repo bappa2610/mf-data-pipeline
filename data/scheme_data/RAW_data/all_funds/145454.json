@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "DSP Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Sectoral Fund",
         "scheme_code": 145454,
         "scheme_name": "DSP Healthcare Fund - Direct Plan - Growth",
         "isin_growth": "INF740KA1LG1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "51.21900"
+        },
         {
             "date": "24-08-2026",
             "nav": "50.96100"
