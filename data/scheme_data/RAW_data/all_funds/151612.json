@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - ELSS- Tax Saver Fund",
         "scheme_code": 151612,
-        "scheme_name": "NJ ELSS Tax Saver Scheme - Direct Plan - IDCW Payout Option",
+        "scheme_name": "NJ ELSS Tax Saver Fund - Direct Plan - IDCW Payout Option",
         "isin_growth": "INF0J8L01123",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "15.15000"
+        },
         {
             "date": "25-08-2026",
             "nav": "15.18000"
