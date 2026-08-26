@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Franklin Templeton Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Corporate Bond Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Corporate Bond Fund",
         "scheme_code": 100528,
-        "scheme_name": "Franklin India Corporate Debt Fund - Regular Plan - Growth",
+        "scheme_name": "Franklin India Corporate Bond Fund - Regular Plan - Growth",
         "isin_growth": "INF090I01DG6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "106.47830"
+        },
         {
             "date": "24-08-2026",
             "nav": "106.45770"

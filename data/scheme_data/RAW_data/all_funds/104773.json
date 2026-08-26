@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "DSP Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - ELSS",
+        "scheme_category": "Equity Schemes - ELSS- Tax Saver Fund",
         "scheme_code": 104773,
         "scheme_name": "DSP ELSS Tax Saver Fund - Regular Plan - IDCW",
         "isin_growth": "INF740K01169",
         "isin_div_reinvestment": "INF740K01177"
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "21.69400"
+        },
         {
             "date": "24-08-2026",
             "nav": "21.61200"

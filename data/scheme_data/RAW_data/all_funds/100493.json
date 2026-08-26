@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Franklin Templeton Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Gilt Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Gilt Fund",
         "scheme_code": 100493,
-        "scheme_name": "Franklin India Government Securities Fund - Regular Plan - Growth",
+        "scheme_name": "Franklin India Gilt Fund - Regular Plan - Growth",
         "isin_growth": "INF090I01CU9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "61.59740"
+        },
         {
             "date": "24-08-2026",
             "nav": "61.65120"

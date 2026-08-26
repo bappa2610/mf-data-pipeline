@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "DSP Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Money Market Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Money Market Fund",
         "scheme_code": 100087,
-        "scheme_name": "DSP Savings Fund - Regular Plan - Growth",
+        "scheme_name": "DSP Money Market Fund - Regular Plan - Growth",
         "isin_growth": "INF740K01714",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "56.55290"
+        },
         {
             "date": "24-08-2026",
             "nav": "56.52250"

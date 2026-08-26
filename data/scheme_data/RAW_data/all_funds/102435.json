@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "DSP Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 102435,
         "scheme_name": "DSP India T.I.G.E.R. Fund - Regular Plan - IDCW",
         "isin_growth": "INF740K01136",
         "isin_div_reinvestment": "INF740K01144"
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "31.63700"
+        },
         {
             "date": "24-08-2026",
             "nav": "31.64100"

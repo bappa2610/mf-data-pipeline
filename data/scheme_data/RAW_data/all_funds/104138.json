@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "DSP Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short Term Fund",
         "scheme_code": 104138,
-        "scheme_name": "DSP Ultra Short Fund - Regular Plan - Growth",
+        "scheme_name": "DSP Ultra Short Term Fund - Regular Plan - Growth",
         "isin_growth": "INF740K01QQ3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "3639.68390"
+        },
         {
             "date": "24-08-2026",
             "nav": "3638.28710"

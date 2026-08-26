@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "DSP Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Dynamic Bond",
+        "scheme_category": "Income/Debt Oriented Schemes - Dynamic Term Fund",
         "scheme_code": 105669,
-        "scheme_name": "DSP Strategic Bond Fund - Regular Plan - Growth",
+        "scheme_name": "DSP Dynamic Term Fund - Regular Plan - Growth",
         "isin_growth": "INF740K01GK7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "25-08-2026",
+            "nav": "3460.54920"
+        },
         {
             "date": "24-08-2026",
             "nav": "3456.61590"
