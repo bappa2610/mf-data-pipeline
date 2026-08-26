@@ -27,8 +27,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 100089,DSP Mutual Fund,DSP Money Market Fund,INF740K01722,INF740K01AK0,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
 100119,HDFC Mutual Fund,HDFC Balanced Advantage Fund,INF179K01830,,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
 100120,HDFC Mutual Fund,HDFC Balanced Advantage Fund,INF179K01814,INF179K01822,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
-100123,HDFC Mutual Fund,HDFC Income Fund,INF179K01947,INF179K01954,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund
-100124,HDFC Mutual Fund,HDFC Income Fund,INF179K01962,,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund
+100123,HDFC Mutual Fund,HDFC Medium to Long Term Fund,INF179K01947,INF179K01954,Open Ended Schemes,Income/Debt Oriented Schemes - Medium to Long Term Fund
+100124,HDFC Mutual Fund,HDFC Medium to Long Term Fund,INF179K01962,,Open Ended Schemes,Income/Debt Oriented Schemes - Medium to Long Term Fund
 100174,quant Mutual Fund,Quant ELSS Tax Saver Fund,INF966L01119,,Open Ended Schemes,Equity Scheme - ELSS
 100175,quant Mutual Fund,Quant ELSS Tax Saver Fund,INF966L01135,,Open Ended Schemes,Equity Scheme - ELSS
 100176,quant Mutual Fund,Quant Small Cap Fund,INF206A01022,INF966L01044,Open Ended Schemes,Equity Scheme - Small Cap Fund
@@ -394,10 +394,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 101802,ICICI Prudential Mutual Fund,ICICI Prudential Floating Interest Fund,INF109K01AX1,,Open Ended Schemes,Debt Scheme - Floater Fund
 101803,ICICI Prudential Mutual Fund,ICICI Prudential Floating Interest Fund,INF109K01AZ6,,Open Ended Schemes,Debt Scheme - Floater Fund
 101804,ICICI Prudential Mutual Fund,ICICI Prudential Floating Interest Fund,INF109K01AW3,,Open Ended Schemes,Debt Scheme - Floater Fund
-101805,JM Financial Mutual Fund,JM Dynamic Bond Fund,INF192K01684,INF192K01692,Open Ended Schemes,Debt Scheme - Dynamic Bond
-101806,JM Financial Mutual Fund,JM Dynamic Bond Fund,INF192K01700,,Open Ended Schemes,Debt Scheme - Dynamic Bond
-101807,JM Financial Mutual Fund,JM Dynamic Bond Fund,INF192K01734,INF192K01742,Open Ended Schemes,Debt Scheme - Dynamic Bond
-101808,JM Financial Mutual Fund,JM Dynamic Bond Fund,INF192K01759,,Open Ended Schemes,Debt Scheme - Dynamic Bond
+101805,JM Financial Mutual Fund,JM Dynamic Term Fund,INF192K01684,INF192K01692,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
+101806,JM Financial Mutual Fund,JM Dynamic Term Fund,INF192K01700,,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
+101807,JM Financial Mutual Fund,JM Dynamic Term Fund,INF192K01734,INF192K01742,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
+101808,JM Financial Mutual Fund,JM Dynamic Term Fund,INF192K01759,,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
 101816,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Regular Savings Fund,INF209K01769,INF209K01DF0,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund
 101818,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Regular Savings Fund,INF209K01751,,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund
 101823,Tata Mutual Fund,Tata Large & Mid Cap Fund,INF277K01DH3,INF277K01410,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund
@@ -775,9 +775,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 105605,UTI Mutual Fund,UTI Low Duration Fund,,INF789F01ON2,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 105627,UTI Mutual Fund,UTI Low Duration Fund,INF789F01PB4,INF789F01PC2,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 105628,SBI Mutual Fund,SBI ELSS Tax Saver Fund,INF200K01495,,Open Ended Schemes,Equity Scheme - ELSS
-105637,JM Financial Mutual Fund,JM Dynamic Bond Fund,,INF192K01676,Open Ended Schemes,Debt Scheme - Dynamic Bond
-105638,JM Financial Mutual Fund,JM Dynamic Bond Fund,,INF192K01718,Open Ended Schemes,Debt Scheme - Dynamic Bond
-105639,JM Financial Mutual Fund,JM Dynamic Bond Fund,,INF192K01668,Open Ended Schemes,Debt Scheme - Dynamic Bond
+105637,JM Financial Mutual Fund,JM Dynamic Term Fund,,INF192K01676,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
+105638,JM Financial Mutual Fund,JM Dynamic Term Fund,,INF192K01718,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
+105639,JM Financial Mutual Fund,JM Dynamic Term Fund,,INF192K01668,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
 105650,ICICI Prudential Mutual Fund,ICICI Prudential Interval Fund - Monthly Interval Plan - I,INF109K01ON3,,Open Ended Schemes,Income
 105651,ICICI Prudential Mutual Fund,ICICI Prudential Interval Fund - Monthly Interval Plan - I,INF109K01OM5,,Open Ended Schemes,Income
 105658,UTI Mutual Fund,UTI Low Duration Fund,INF789F01OU7,INF789F01OV5,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
@@ -2027,8 +2027,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 119065,HDFC Mutual Fund,HDFC BSE Sensex Index Fund,INF179K01WN9,,Open Ended Schemes,Other Scheme - Index Funds
 119066,HDFC Mutual Fund,HDFC Children's Fund,INF179KC1IX0,,Open Ended Schemes,Solution Oriented Scheme - Childrenâs Fund
 119067,HDFC Mutual Fund,HDFC Children's Fund,,,Open Ended Schemes,Solution Oriented Scheme - Childrenâs Fund
-119068,HDFC Mutual Fund,HDFC Income Fund,INF179K01WJ7,INF179K01WK5,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund
-119069,HDFC Mutual Fund,HDFC Income Fund,INF179K01WL3,,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund
+119068,HDFC Mutual Fund,HDFC Medium to Long Term Fund,INF179K01WJ7,INF179K01WK5,Open Ended Schemes,Income/Debt Oriented Schemes - Medium to Long Term Fund
+119069,HDFC Mutual Fund,HDFC Medium to Long Term Fund,INF179K01WL3,,Open Ended Schemes,Income/Debt Oriented Schemes - Medium to Long Term Fund
 119070,DSP Mutual Fund,DSP Midcap Fund,INF740K01PY9,INF740K01PZ6,Open Ended Schemes,Equity Scheme - Mid Cap Fund
 119071,DSP Mutual Fund,DSP Midcap Fund,INF740K01PX1,,Open Ended Schemes,Equity Scheme - Mid Cap Fund
 119072,HDFC Mutual Fund,HDFC Dynamic Term Fund,INF179K01WC2,INF179K01WD0,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
@@ -2568,10 +2568,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 120428,JM Financial Mutual Fund,JM Medium to Long Duration Fund,INF192K01CX3,,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund
 120430,JM Financial Mutual Fund,JM Medium to Long Duration Fund,INF192K01CW5,,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund
 120431,JM Financial Mutual Fund,JM Medium to Long Duration Fund,INF192K01CU9,INF192K01CV7,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund
-120432,JM Financial Mutual Fund,JM Dynamic Bond Fund,,INF192K01CZ8,Open Ended Schemes,Debt Scheme - Dynamic Bond
-120433,JM Financial Mutual Fund,JM Dynamic Bond Fund,,INF192K01DA9,Open Ended Schemes,Debt Scheme - Dynamic Bond
-120434,JM Financial Mutual Fund,JM Dynamic Bond Fund,INF192K01DB7,INF192K01DC5,Open Ended Schemes,Debt Scheme - Dynamic Bond
-120435,JM Financial Mutual Fund,JM Dynamic Bond Fund,INF192K01DD3,,Open Ended Schemes,Debt Scheme - Dynamic Bond
+120432,JM Financial Mutual Fund,JM Dynamic Term Fund,,INF192K01CZ8,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
+120433,JM Financial Mutual Fund,JM Dynamic Term Fund,,INF192K01DA9,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
+120434,JM Financial Mutual Fund,JM Dynamic Term Fund,INF192K01DB7,INF192K01DC5,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
+120435,JM Financial Mutual Fund,JM Dynamic Term Fund,INF192K01DD3,,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
 120436,Axis Mutual Fund,Axis Banking and PSU Debt Fund,INF846K01CV8,INF846K01CW6,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
 120437,Axis Mutual Fund,Axis Banking and PSU Debt Fund,,INF846K01CU0,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
 120438,Axis Mutual Fund,Axis Banking and PSU Debt Fund,INF846K01CR6,,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
@@ -2999,10 +2999,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 122274,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan-Series 67-745 Days Plan K,INF109KB1FP8,,Close Ended Schemes,Income
 122275,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan-Series 67-745 Days Plan K,INF109KB1FN3,,Close Ended Schemes,Income
 122276,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan-Series 67-745 Days Plan K,INF109KB1FQ6,,Close Ended Schemes,Income
-122315,JM Financial Mutual Fund,JM Dynamic Bond Fund,INF192K01EZ4,,Open Ended Schemes,Debt Scheme - Dynamic Bond
+122315,JM Financial Mutual Fund,JM Dynamic Term Fund,INF192K01EZ4,,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
 122316,JM Financial Mutual Fund,JM Ultra Short Duration Fund,INF192K01FD8,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
 122317,JM Financial Mutual Fund,JM Ultra Short Duration Fund,INF192K01FB2,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
-122323,JM Financial Mutual Fund,JM Dynamic Bond Fund,INF192K01EX9,,Open Ended Schemes,Debt Scheme - Dynamic Bond
+122323,JM Financial Mutual Fund,JM Dynamic Term Fund,INF192K01EX9,,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
 122324,Nippon India Mutual Fund,Reliance Fixed Horizon Fund XXIII - Series 10,INF204KA1Z17,,Close Ended Schemes,Income
 122326,Nippon India Mutual Fund,Reliance Fixed Horizon Fund XXIII - Series 10,INF204KA1Z09,,Close Ended Schemes,Income
 122327,Nippon India Mutual Fund,Reliance Fixed Horizon Fund XXIII - Series 10,INF204KA1Y91,,Close Ended Schemes,Income
@@ -4730,8 +4730,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 133328,Nippon India Mutual Fund,Reliance Fixed Horizon Fund XXVIII- Series 2,INF204KA1ZR7,,Close Ended Schemes,Income
 133329,Nippon India Mutual Fund,Reliance Fixed Horizon Fund XXVIII- Series 2,INF204KA1ZP1,,Close Ended Schemes,Income
 133344,UTI Mutual Fund,UTI - Credit Risk Fund.,INF789FA1V60,INF789FA1V78,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
-133365,HDFC Mutual Fund,HDFC Income Fund,INF179KA1Q12,,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund
-133366,HDFC Mutual Fund,HDFC Income Fund,INF179KA1Q38,,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund
+133365,HDFC Mutual Fund,HDFC Medium to Long Term Fund,INF179KA1Q12,,Open Ended Schemes,Income/Debt Oriented Schemes - Medium to Long Term Fund
+133366,HDFC Mutual Fund,HDFC Medium to Long Term Fund,INF179KA1Q38,,Open Ended Schemes,Income/Debt Oriented Schemes - Medium to Long Term Fund
 133367,HDFC Mutual Fund,HDFC Short Term Debt Fund,INF179KA1Q53,,Open Ended Schemes,Debt Scheme - Short Duration Fund
 133368,HDFC Mutual Fund,HDFC Short Term Debt Fund,INF179KA1Q79,,Open Ended Schemes,Debt Scheme - Short Duration Fund
 133369,HDFC Mutual Fund,HDFC Dynamic Term Fund,INF179KA1Q95,,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
@@ -4745,9 +4745,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 133385,Motilal Oswal Mutual Fund,Motilal Oswal ELSS Tax Saver Fund,INF247L01544,,Open Ended Schemes,Equity Scheme - ELSS
 133386,Motilal Oswal Mutual Fund,Motilal Oswal ELSS Tax Saver Fund,INF247L01569,,Open Ended Schemes,Equity Scheme - ELSS
 133387,UTI Mutual Fund,UTI - Money Market Fund,INF789FA1M46,INF789FA1M53,Open Ended Schemes,Debt Scheme - Money Market Fund
-133388,JM Financial Mutual Fund,JM Dynamic Bond Fund,INF192K01IP6,,Open Ended Schemes,Debt Scheme - Dynamic Bond
-133389,JM Financial Mutual Fund,JM Dynamic Bond Fund,INF192K01IN1,,Open Ended Schemes,Debt Scheme - Dynamic Bond
-133390,JM Financial Mutual Fund,JM Dynamic Bond Fund,INF192K01IJ9,INF192K01IK7,Open Ended Schemes,Debt Scheme - Dynamic Bond
+133388,JM Financial Mutual Fund,JM Dynamic Term Fund,INF192K01IP6,,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
+133389,JM Financial Mutual Fund,JM Dynamic Term Fund,INF192K01IN1,,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
+133390,JM Financial Mutual Fund,JM Dynamic Term Fund,INF192K01IJ9,INF192K01IK7,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
 133394,JM Financial Mutual Fund,JM Arbitrage Fund,INF192K01GV8,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
 133395,JM Financial Mutual Fund,JM Arbitrage Fund,INF192K01GX4,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
 133396,JM Financial Mutual Fund,JM Arbitrage Fund,INF192K01IF7,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
@@ -4767,7 +4767,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 133410,JM Financial Mutual Fund,JM Aggressive Hybrid Fund,INF192K01HX2,,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
 133411,JM Financial Mutual Fund,JM Aggressive Hybrid Fund,INF192K01HZ7,,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
 133412,JM Financial Mutual Fund,JM Aggressive Hybrid Fund,INF192K01HN3,INF192K01HO1,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
-133414,JM Financial Mutual Fund,JM Dynamic Bond Fund,INF192K01IL5,INF192K01IM3,Open Ended Schemes,Debt Scheme - Dynamic Bond
+133414,JM Financial Mutual Fund,JM Dynamic Term Fund,INF192K01IL5,INF192K01IM3,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
 133425,ICICI Prudential Mutual Fund,ICICI Prudential Growth Fund - Series 7,INF109KA18P1,,Close Ended Schemes,Growth
 133426,ICICI Prudential Mutual Fund,ICICI Prudential Growth Fund - Series 7,INF109KA19P9,,Close Ended Schemes,Growth
 133431,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 76 - 1103 Days Plan F,INF109KA16Q3,,Close Ended Schemes,Income
@@ -11555,10 +11555,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 151308,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Multi Asset Allocation Fund,INF209KB16R7,INF209KB17R5,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
 151309,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Multi Asset Allocation Fund,INF209KB12R6,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
 151310,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Multi Asset Allocation Fund,INF209KB13R4,INF209KB14R2,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
-151311,HDFC Mutual Fund,HDFC Long Duration Debt Fund,INF179KC1EX9,INF179KC1EY7,Open Ended Schemes,Debt Scheme - Long Duration Fund
-151312,HDFC Mutual Fund,HDFC Long Duration Debt Fund,INF179KC1EU5,INF179KC1EV3,Open Ended Schemes,Debt Scheme - Long Duration Fund
-151313,HDFC Mutual Fund,HDFC Long Duration Debt Fund,INF179KC1ET7,,Open Ended Schemes,Debt Scheme - Long Duration Fund
-151314,HDFC Mutual Fund,HDFC Long Duration Debt Fund,INF179KC1EW1,,Open Ended Schemes,Debt Scheme - Long Duration Fund
+151311,HDFC Mutual Fund,HDFC Long Term Fund,INF179KC1EX9,INF179KC1EY7,Open Ended Schemes,Income/Debt Oriented Schemes - Long Term Fund
+151312,HDFC Mutual Fund,HDFC Long Term Fund,INF179KC1EU5,INF179KC1EV3,Open Ended Schemes,Income/Debt Oriented Schemes - Long Term Fund
+151313,HDFC Mutual Fund,HDFC Long Term Fund,INF179KC1ET7,,Open Ended Schemes,Income/Debt Oriented Schemes - Long Term Fund
+151314,HDFC Mutual Fund,HDFC Long Term Fund,INF179KC1EW1,,Open Ended Schemes,Income/Debt Oriented Schemes - Long Term Fund
 151315,Kotak Mahindra Mutual Fund,Kotak FMP Series 305,INF174KA1LR3,,Close Ended Schemes,Income
 151316,Kotak Mahindra Mutual Fund,Kotak FMP Series 305,INF174KA1LT9,,Close Ended Schemes,Income
 151317,Kotak Mahindra Mutual Fund,Kotak FMP Series 305,INF174KA1LU7,,Close Ended Schemes,Income
@@ -34632,23 +34632,23 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 100040,Aditya Birla Sun Life AMC Limited,Birla Income Plus-Institutional (Dividend),,,Open Ended,Debt Scheme - Medium to Long Duration Fund
 100050,Aditya Birla Sun Life AMC Limited,Birla Cash Plus-Birla Cash Plus (Institutional Premium Weekly Dividend),,,Open Ended,Debt Scheme - Liquid Fund
 154425,DSP Asset Managers Private Limited,DSP Money Market Fund  - Regular Plan - IDCW Weekly,INF740KA1ZB2,INF740KA1ZC0,Open Ended,Income/Debt Oriented Schemes - Money Market Fund
-100125,HDFC Asset Management Company Limited,HDFC Income Fund-Premium Plan Dividend,,,Open Ended,Debt Scheme - Medium to Long Duration Fund
-100126,HDFC Asset Management Company Limited,HDFC Income Fund-Premium Plus Dividend,,,Open Ended,Debt Scheme - Medium to Long Duration Fund
-100127,HDFC Asset Management Company Limited,HDFC Income Fund-Premium Plus Growth,,,Open Ended,Debt Scheme - Medium to Long Duration Fund
-100128,HDFC Asset Management Company Limited,HDFC Income Fund-Premium Plan Growth,,,Open Ended,Debt Scheme - Medium to Long Duration Fund
-100129,HDFC Asset Management Company Limited,HDFC Income Fund-Premium Plus Growth,,,Open Ended,Debt Scheme - Medium to Long Duration Fund
-100130,HDFC Asset Management Company Limited,HDFC Income Fund-Premium Plus Dividend,,,Open Ended,Debt Scheme - Medium to Long Duration Fund
-100224,JM Financial Asset Management Limited,JM Income Fund-Serial Plan 2004 Growth,,,Open Ended,Debt Scheme - Medium to Long Duration Fund
-100225,JM Financial Asset Management Limited,JM Income Fund-Serial Plan 2003 Dividend,,,Open Ended,Debt Scheme - Medium to Long Duration Fund
-100226,JM Financial Asset Management Limited,JM Income Fund-JM Income Fund - Serial Plan 2004 Growth,,,Open Ended,Debt Scheme - Medium to Long Duration Fund
-100227,JM Financial Asset Management Limited,JM Income Fund-Serial Plan 2004 Growth,,,Open Ended,Debt Scheme - Medium to Long Duration Fund
-100228,JM Financial Asset Management Limited,JM Income Fund-Serial Plan 2004 Dividend,,,Open Ended,Debt Scheme - Medium to Long Duration Fund
-120429,JM Financial Asset Management Limited,JM Medium to Long Duration Fund (Direct)-Bonus Option - Bonus Units,,,Open Ended,Debt Scheme - Medium to Long Duration Fund
-100235,JM Financial Asset Management Limited,JM High Liquidity Fund-Serial Plan 01,,,Open Ended,Debt Scheme - Liquid Fund
-100236,JM Financial Asset Management Limited,JM High Liquidity Fund-Serial Plan 02,,,Open Ended,Debt Scheme - Liquid Fund
-100239,JM Financial Asset Management Limited,JM High Liquidity Fund-Monthly Dividend,,,Open Ended,Debt Scheme - Liquid Fund
-100240,JM Financial Asset Management Limited,JM High Liquidity Fund-Institutional Plan - Monthly Dividend,,,Open Ended,Debt Scheme - Liquid Fund
-100242,JM Financial Asset Management Limited,JM High Liquidity Fund-Montly Dividend,,,Open Ended,Debt Scheme - Liquid Fund
+100125,HDFC Asset Management Company Limited,HDFC Income Fund-Premium Plan Dividend,,,Open Ended,Income/Debt Oriented Schemes - Medium to Long Term Fund
+100126,HDFC Asset Management Company Limited,HDFC Income Fund-Premium Plus Dividend,,,Open Ended,Income/Debt Oriented Schemes - Medium to Long Term Fund
+100127,HDFC Asset Management Company Limited,HDFC Income Fund-Premium Plus Growth,,,Open Ended,Income/Debt Oriented Schemes - Medium to Long Term Fund
+100128,HDFC Asset Management Company Limited,HDFC Income Fund-Premium Plan Growth,,,Open Ended,Income/Debt Oriented Schemes - Medium to Long Term Fund
+100129,HDFC Asset Management Company Limited,HDFC Income Fund-Premium Plus Growth,,,Open Ended,Income/Debt Oriented Schemes - Medium to Long Term Fund
+100130,HDFC Asset Management Company Limited,HDFC Income Fund-Premium Plus Dividend,,,Open Ended,Income/Debt Oriented Schemes - Medium to Long Term Fund
+100224,JM Financial Asset Management Limited,JM Income Fund-Serial Plan 2004 Growth,,,Open Ended,Income/Debt Oriented Schemes - Medium to Long Term Fund
+100225,JM Financial Asset Management Limited,JM Income Fund-Serial Plan 2003 Dividend,,,Open Ended,Income/Debt Oriented Schemes - Medium to Long Term Fund
+100226,JM Financial Asset Management Limited,JM Income Fund-JM Income Fund - Serial Plan 2004 Growth,,,Open Ended,Income/Debt Oriented Schemes - Medium to Long Term Fund
+100227,JM Financial Asset Management Limited,JM Income Fund-Serial Plan 2004 Growth,,,Open Ended,Income/Debt Oriented Schemes - Medium to Long Term Fund
+100228,JM Financial Asset Management Limited,JM Income Fund-Serial Plan 2004 Dividend,,,Open Ended,Income/Debt Oriented Schemes - Medium to Long Term Fund
+120429,JM Financial Asset Management Limited,JM Medium to Long Term Fund (Direct)-Bonus Option - Bonus Units,,,Open Ended,Income/Debt Oriented Schemes - Medium to Long Term Fund
+100235,JM Financial Asset Management Limited,JM High Liquidity Fund-Serial Plan 01,,,Open Ended,Income/Debt Oriented Schemes - Liquid Fund
+100236,JM Financial Asset Management Limited,JM High Liquidity Fund-Serial Plan 02,,,Open Ended,Income/Debt Oriented Schemes - Liquid Fund
+100239,JM Financial Asset Management Limited,JM High Liquidity Fund-Monthly Dividend,,,Open Ended,Income/Debt Oriented Schemes - Liquid Fund
+100240,JM Financial Asset Management Limited,JM High Liquidity Fund-Institutional Plan - Monthly Dividend,,,Open Ended,Income/Debt Oriented Schemes - Liquid Fund
+100242,JM Financial Asset Management Limited,JM High Liquidity Fund-Montly Dividend,,,Open Ended,Income/Debt Oriented Schemes - Liquid Fund
 100248,JM Financial Asset Management Limited,JM G-Sec Fund-Short Term Plan,,,Open Ended,Debt Scheme - Gilt Fund
 120418,JM Financial Asset Management Limited,JM G-Sec Fund - (Direct) - Bonus Option - Principal Units,,,Open Ended,Debt Scheme - Gilt Fund
 100266,Kotak Mahindra Asset Management Company Limited.,Kotak Gilt-Serial 2001-Dividend,,,Open Ended,Debt Scheme - Gilt Fund
@@ -34678,7 +34678,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 115201,LIC Mutual Fund Asset Management Limited,LIC NOMURA  MF Growth Fund,,,Open Ended,Equity Scheme - Large Cap Fund
 120286,ICICI Prudential Asset Management Company Limited,ICICI Prudential Blended Plan A - Direct Plan -  Dividend,,,Open Ended,Equity Scheme - Large & Mid Cap Fund
 120287,ICICI Prudential Asset Management Company Limited,ICICI Prudential Blended Plan A - Direct Plan -  Growth,,,Open Ended,Equity Scheme - Large & Mid Cap Fund
-120422,ICICI Prudential Asset Management Company Limited,ICICI Prudential Floating Rate - Direct Plan -  Daily Dividend,,,Open Ended,Hybrid Scheme - Aggressive Hybrid Fund
+120422,ICICI Prudential Asset Management Company Limited,ICICI Prudential Floating Rate - Direct Plan -  Daily Dividend,,,Open Ended,Hybrid Schemes - Aggressive Hybrid Fund
 100373,ICICI Prudential Asset Management Company Limited,ICICI Prudential Premier,,,Close Ended,Balanced
 100395,Nippon Life India Asset Management Limited,Reliance Income Fund-Institutional Quarterly Dividend,,,Open Ended,Income/Debt Oriented Schemes - Medium to Long Term Fund
 100488,Franklin Templeton Asset Management (India) Private Limited,Templeton India Govt.Sec. Fund-Treasury Plan,,,Open Ended,Income/Debt Oriented Schemes - Gilt Fund
@@ -34748,7 +34748,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 101346,SBI Funds Management Limited,SBI  Magnum Childrens Benefit Plan,,,Open Ended,Growth
 120495,Baroda BNP Paribas Asset Management India Private Limited,Baroda BNP Paribas LIQUID FUND - PLAN B (Direct) - MONTHLY IDCW OPTION,,,Open Ended,Debt Scheme - Liquid Fund
 115329,ICICI Prudential Asset Management Company Limited,ICICI Prudential Sweep Plan- Dividend,,,Open Ended,Debt Scheme - Money Market Fund
-148886,JM Financial Asset Management Limited,JM Medium to Long Duration Fund (Regular) - Bonus Option - Bonus Units,INF192K01AD9,,Open Ended,Debt Scheme - Medium to Long Duration Fund
+148886,JM Financial Asset Management Limited,JM Medium to Long Term Fund (Regular) - Bonus Option - Bonus Units,INF192K01AD9,,Open Ended,Income/Debt Oriented Schemes - Medium to Long Term Fund
 101158,Baroda BNP Paribas Asset Management India Private Limited,BOB INCOME FUND-STP,,,Open Ended,Debt Scheme - Medium to Long Duration Fund
 101159,Baroda BNP Paribas Asset Management India Private Limited,BOB INCOME FUND-STP,,,Open Ended,Debt Scheme - Medium to Long Duration Fund
 101189,Baroda BNP Paribas Asset Management India Private Limited,BOB GILT FUND-PF,,,Open Ended,Debt Scheme - Gilt Fund
@@ -34775,7 +34775,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 101568,Sundaram Asset Management Company Ltd,Sundaram BNP Paribas Select  Debt-5-Year Asset Plan-Half-Yearly Div,,,Open Ended,Debt Scheme - Short Duration Fund
 101302,DSP Asset Managers Private Limited,DSP Merrill Lynch Short Term Fund--,,,Open Ended,Debt Scheme - Short Duration Fund
 101590,Canara Robeco Asset Management Company Limited,CANINCOME-AUTOMATIC REPURCHASE PLAN,,,Open Ended,Debt Scheme - Medium to Long Duration Fund
-120292,ICICI Prudential Asset Management Company Limited,ICICI Prudential Blended Plan B - Direct Plan -  Daily Dividend Option - I,,,Open Ended,Hybrid Scheme - Multi Asset Allocation
+120292,ICICI Prudential Asset Management Company Limited,ICICI Prudential Blended Plan B - Direct Plan -  Daily Dividend Option - I,,,Open Ended,Hybrid Schemes - Multi Asset Allocation Fund
 101683,HSBC Asset Management (India) Private Ltd.,HSBC Income Fund - Investment Plan-Dividend-Payout,,,Open Ended,Income/Debt Oriented Schemes - Medium to Long Term Fund
 101684,HSBC Asset Management (India) Private Ltd.,HSBC Income Fund - Investment Plan-Dividend-Reinvestment,,,Open Ended,Income/Debt Oriented Schemes - Medium to Long Term Fund
 101595,HSBC Asset Management (India) Private Ltd.,HSBC Income Fund - Short Term Plan-Dividend-Payout,,,Open Ended,Debt Scheme - Short Duration Fund
@@ -34899,8 +34899,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 103547,Franklin Templeton Asset Management (India) Private Limited,Franklin Templeton Fixed Tenure Fund-SeriesIV(60MonthsPlan)Annual Dividend Plan,,,Close Ended,Income
 103652,JM Financial Asset Management Limited,"JM FMF SERIES II - YEARLY ""A""-Dividend Plan",,,Close Ended,Income
 103601,Baroda BNP Paribas Asset Management India Private Limited,BARODA PIONEER GLOBAL FUND-Growth,,,Open Ended,Growth
-148854,JM Financial Asset Management Limited,JM Arbitrage Fund (Regular) - Bonus Option - Bonus Units,INF192K01GK1,,Open Ended,Hybrid Scheme - Arbitrage Fund
-133215,JM Financial Asset Management Limited,JM Arbitrage Advantage Fund (Direct) - Half Yearly Bonus Option,,,Open Ended,Hybrid Scheme - Arbitrage Fund
+148854,JM Financial Asset Management Limited,JM Arbitrage Fund (Regular) - Bonus Option - Bonus Units,INF192K01GK1,,Open Ended,Hybrid Schemes - Arbitrage Fund
+133215,JM Financial Asset Management Limited,JM Arbitrage Advantage Fund (Direct) - Half Yearly Bonus Option,,,Open Ended,Hybrid Schemes - Arbitrage Fund
 104032,Kotak Mahindra Asset Management Company Limited.,Kotak FMP 6M Series 1,,,Close Ended,Income
 104033,Kotak Mahindra Asset Management Company Limited.,KOtak FMP 6M Series 1 - Dividend,,,Close Ended,Income
 104034,Kotak Mahindra Asset Management Company Limited.,Kotak FMP 6M Series 1 - Growth,,,Close Ended,Income
@@ -34959,7 +34959,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 113168,Bandhan AMC Limited,IDFC SSIF - MT (Plan B) Inst - Monthly Dividend Reinvestment,,,Open Ended,Income
 111881,Canara Robeco Asset Management Company Limited,Canara Robeco Short Term Fund- Institutional Plan - Dividend Reinvestment,,,Open Ended,Income
 111884,Canara Robeco Asset Management Company Limited,Canara Robeco Short Term Fund- Retail Plan - Dividend Reinvestment,,,Open Ended,Income
-111960,ICICI Prudential Asset Management Company Limited,ICICI Prudential Target Returns Fund - Retail Growth,,,Open Ended,Equity Scheme - Focused Fund
+111960,ICICI Prudential Asset Management Company Limited,ICICI Prudential Target Returns Fund - Retail Growth,,,Open Ended,Equity Schemes - Focused Fund
 112030,Baroda BNP Paribas Asset Management India Private Limited,Baroda Pioneer Treasury Advantage Fund- Regular Plan - Dividend Option,,,Open Ended,Debt Scheme - Low Duration Fund
 112121,Invesco Asset Management (India) Private Limited,Religare Credit Opportunities Fund - Regular - Dividend Reinvestment,,,Open Ended,Income/Debt Oriented Schemes - Money Market Fund
 112124,Invesco Asset Management (India) Private Limited,Religare Credit Opportunities Fund - Institutional - Dividend Reinvestment,,,Open Ended,Income/Debt Oriented Schemes - Money Market Fund
@@ -35646,15 +35646,15 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 143448,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 83 - 1406 Days Plan D - Direct Plan Half Yearly Dividend Option,INF109KC1DY4,,Close Ended,Income
 143449,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 83 - 1406 Days Plan D - Dividend Option,,,Close Ended,Income
 143455,Nippon Life India Asset Management Limited,NIPPON INDIA FIXED HORIZON FUND - XXXVII - SERIES 10 - IDCW Option,INF204KB1XP5,,Close Ended,Income
-154446,Nippon Life India Asset Management Limited,Nippon India Ultra Short Duration Fund- Direct Plan- Weekly Payout of IDCW Option,,,Open Ended,Income/Debt Oriented Schemes - Ultra Short Term Fund
-154447,Nippon Life India Asset Management Limited,Nippon India Ultra Short Duration Fund- Regular Plan-Weekly Payout of IDCW Option,,,Open Ended,Income/Debt Oriented Schemes - Ultra Short Term Fund
-154448,Nippon Life India Asset Management Limited,Nippon India Ultra Short Duration Fund-Direct Plan- Weekly Payout of IDCW Option,,,Open Ended,Income/Debt Oriented Schemes - Ultra Short Term Fund
+154446,Nippon Life India Asset Management Limited,Nippon India Ultra Short Term Fund- Direct Plan- Weekly Payout of IDCW Option,,,Open Ended,Income/Debt Oriented Schemes - Ultra Short Term Fund
+154447,Nippon Life India Asset Management Limited,Nippon India Ultra Short Term Fund- Regular Plan-Weekly Payout of IDCW Option,,,Open Ended,Income/Debt Oriented Schemes - Ultra Short Term Fund
+154448,Nippon Life India Asset Management Limited,Nippon India Ultra Short Term Fund-Direct Plan- Weekly Payout of IDCW Option,,,Open Ended,Income/Debt Oriented Schemes - Ultra Short Term Fund
 143517,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 83 - 1113 Days Plan E - Direct Plan Dividend Option,,,Close Ended,Income
 143518,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 83 - 1113 Days Plan E - Dividend Option,,,Close Ended,Income
 143522,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 83 - 1105 Days Plan F - Dividend Option,,,Close Ended,Income
 143525,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 83 - 1105 Days Plan F - Direct Plan Dividend Option,,,Close Ended,Income
 143526,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 83 - 1105 Days Plan F - Direct Plan Quarterly Dividend Option,INF109KC1ES4,,Close Ended,Income
-148887,JM Financial Asset Management Limited,JM Low Duration Fund (Regular) - Bonus Option - Bonus Units,INF192K01FK3,,Open Ended,Debt Scheme - Low Duration Fund
+148887,JM Financial Asset Management Limited,JM Ultra Short to Short Term Fund (Regular) - Bonus Option - Bonus Units,INF192K01FK3,,Open Ended,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 143621,Kotak Mahindra Asset Management Company Limited.,Kotak FMP Series 228 - Direct Plan - Dividend Option,INF174K016Y3,,Close Ended,Income
 143644,Nippon Life India Asset Management Limited,NIPPON INDIA FIXED HORIZON FUND - XXXVII - SERIES 12 - DIRECT Plan - IDCW Option,INF204KB1XZ4,,Close Ended,Income
 143719,ICICI Prudential Asset Management Company Limited,ICICI Prudential Fixed Maturity Plan - Series 83 - 1108 Days Plan H - Dividend Option,,,Close Ended,Income
@@ -36469,8 +36469,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154650,Jio BlackRock Asset Management Private Limited,JioBlackRock Liquid Fund - Regular Plan - Daily IDCW Reinvestment Option,INF22M001275,,Open Ended,Income/Debt Oriented Schemes - Liquid Fund
 154656,Jio BlackRock Asset Management Private Limited,JioBlackRock Liquid Fund - Regular Plan - Weekly IDCW Option,INF22M001283,INF22M001291,Open Ended,Income/Debt Oriented Schemes - Liquid Fund
 154522,Abakkus Investment Managers Private Limited,Abakkus Liquid Fund - Unclaimed IDCW Less than 3 Years,,,Open Ended,Income/Debt Oriented Schemes - Liquid Fund
-154635,Jio BlackRock Asset Management Private Limited,JioBlackRock Short Duration Fund - Regular Plan - Growth Option,INF22M001226,,Open Ended,Income/Debt Oriented Schemes - Short Term Fund
-154636,Jio BlackRock Asset Management Private Limited,JioBlackRock Low Duration Fund - Regular Plan - Growth Option,INF22M001234,,Open Ended,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+154635,Jio BlackRock Asset Management Private Limited,JioBlackRock Short Term Fund - Regular Plan - Growth Option,INF22M001226,,Open Ended,Income/Debt Oriented Schemes - Short Term Fund
+154636,Jio BlackRock Asset Management Private Limited,JioBlackRock Ultra Short to Short Term Fund - Regular Plan - Growth Option,INF22M001234,,Open Ended,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 154126,Sundaram Asset Management Company Ltd,Sundaram Income Plus Arbitrage Active FoF Fund-Regular-IDCW Reinvestment,INF903JA1ME0,,Open Ended,Other Scheme - FoF Domestic
 154128,Sundaram Asset Management Company Ltd,Sundaram Income Plus Arbitrage Active FoF Fund-Direct-IDCW Reinvestment,INF903JA1MB6,,Open Ended,Other Scheme - FoF Domestic
 154355,HDFC Asset Management Company Limited,HDFC GOLD SILVER PASSIVE FOF - GROWTH OPTION - DIRECT PLAN,INF179KC1KO5,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
@@ -36569,3 +36569,5 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154700,UTI Asset Mgmt. Co. Ltd.,UTI BSE India Sector Leaders Index Fund Regular Plan,,,Open Ended,Index Funds - Equity Funds
 154701,Jio BlackRock Asset Management Private Limited,JioBlackRock Balanced Advantage Fund,,,Open Ended,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
 154702,Jio BlackRock Asset Management Private Limited,JioBlackRock Balanced Advantage Fund - Regular Plan - Growth Option,,,Open Ended,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
+154703,Navi AMC Limited,Navi Nifty Reits & Realty Undex Fund- Regular Plan,INF959L01HU8,,Open Ended,Index Funds - Equity Funds
+154704,Navi AMC Limited,Navi Nifty Reits & Realty Index Fund- Direct Plan,INF959L01HT0,,Open Ended,Index Funds - Equity Funds
