@@ -1059,8 +1059,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 109061,Sundaram Mutual Fund,Sundaram Financial Services Opportunities Fund,INF903J01652,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 109254,Bank of India Mutual Fund,BANK OF INDIA LIQUID FUND,INF761K01306,,Open Ended Schemes,Debt Scheme - Liquid Fund
 109255,Bank of India Mutual Fund,BANK OF INDIA LIQUID FUND,,INF761K01CP1,Open Ended Schemes,Debt Scheme - Liquid Fund
-109264,Bank of India Mutual Fund,BANK OF INDIA ULTRA SHORT DURATION FUND,,INF761K01CX5,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
-109269,Bank of India Mutual Fund,BANK OF INDIA ULTRA SHORT DURATION FUND,INF761K01298,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
+109264,Bank of India Mutual Fund,BANK OF INDIA ULTRA SHORT TERM FUND,,INF761K01CX5,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+109269,Bank of India Mutual Fund,BANK OF INDIA ULTRA SHORT TERM FUND,INF761K01298,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
 109274,quant Mutual Fund,Quant Focused Fund,INF966L01358,INF966L01366,Open Ended Schemes,Equity Scheme - Focused Fund
 109275,quant Mutual Fund,Quant Focused Fund,INF966L01374,,Open Ended Schemes,Equity Scheme - Focused Fund
 109349,Canara Robeco Mutual Fund,Canara Robeco Liquid Fund,,INF760K01CU3,Open Ended Schemes,Debt Scheme - Liquid Fund
@@ -1157,9 +1157,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 111550,Quantum Mutual Fund,Quantum ELSS Tax Saver Fund,INF082J01077,INF082J01085,Open Ended Schemes,Equity Scheme - ELSS
 111569,Bandhan Mutual Fund,BANDHAN ELSS Tax Saver Fund,INF194K01292,,Open Ended Schemes,Equity Scheme - ELSS
 111570,Bandhan Mutual Fund,BANDHAN ELSS Tax Saver Fund,INF194K01300,INF194K01318,Open Ended Schemes,Equity Scheme - ELSS
-111585,Bank of India Mutual Fund,BANK OF INDIA SHORT TERM INCOME FUND,INF761K01579,,Open Ended Schemes,Debt Scheme - Short Duration Fund
-111589,Bank of India Mutual Fund,BANK OF INDIA SHORT TERM INCOME FUND,INF761K01595,INF761K01587,Open Ended Schemes,Debt Scheme - Short Duration Fund
-111590,Bank of India Mutual Fund,BANK OF INDIA SHORT TERM INCOME FUND,INF761K01611,INF761K01603,Open Ended Schemes,Debt Scheme - Short Duration Fund
+111585,Bank of India Mutual Fund,BANK OF INDIA SHORT TERM FUND,INF761K01579,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+111589,Bank of India Mutual Fund,BANK OF INDIA SHORT TERM FUND,INF761K01595,INF761K01587,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+111590,Bank of India Mutual Fund,BANK OF INDIA SHORT TERM FUND,INF761K01611,INF761K01603,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 111599,UTI Mutual Fund,UTI Multi Asset Allocation Fund,INF789F01AP6,,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
 111602,UTI Mutual Fund,UTI Multi Asset Allocation Fund,INF789F01AN1,INF789F01AO9,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
 111638,Edelweiss Mutual Fund,Edelweiss ELSS Tax Saver Fund,INF754K01517,,Open Ended Schemes,Equity Scheme - ELSS
@@ -1175,10 +1175,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 111704,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LIQUID FUND,INF955L01484,,Open Ended Schemes,Debt Scheme - Liquid Fund
 111705,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LIQUID FUND,INF251K01SK0,INF955L01500,Open Ended Schemes,Debt Scheme - Liquid Fund
 111707,Baroda BNP Paribas Mutual Fund,BARODA BNP PARIBAS LIQUID FUND,INF955L01468,INF955L01476,Open Ended Schemes,Debt Scheme - Liquid Fund
-111708,Bank of India Mutual Fund,BANK OF INDIA ELSS TAX SAVER,INF761K01165,INF761K01173,Open Ended Schemes,Equity Scheme - ELSS
-111709,Bank of India Mutual Fund,BANK OF INDIA ELSS TAX SAVER,INF761K01157,,Open Ended Schemes,Equity Scheme - ELSS
-111710,Bank of India Mutual Fund,BANK OF INDIA ELSS TAX SAVER,INF761K01181,,Open Ended Schemes,Equity Scheme - ELSS
-111711,Bank of India Mutual Fund,BANK OF INDIA ELSS TAX SAVER,INF761K01132,INF761K01140,Open Ended Schemes,Equity Scheme - ELSS
+111708,Bank of India Mutual Fund,BANK OF INDIA ELSS TAX SAVER FUND,INF761K01165,INF761K01173,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
+111709,Bank of India Mutual Fund,BANK OF INDIA ELSS TAX SAVER FUND,INF761K01157,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
+111710,Bank of India Mutual Fund,BANK OF INDIA ELSS TAX SAVER FUND,INF761K01181,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
+111711,Bank of India Mutual Fund,BANK OF INDIA ELSS TAX SAVER FUND,INF761K01132,INF761K01140,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
 111712,Bank of India Mutual Fund,BANK OF INDIA CONSERVATIVE HYBRID FUND,INF761K01462,,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund
 111713,Bank of India Mutual Fund,BANK OF INDIA CONSERVATIVE HYBRID FUND,INF761K01504,INF761K01496,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund
 111714,Bank of India Mutual Fund,BANK OF INDIA CONSERVATIVE HYBRID FUND,INF761K01454,INF761K01447,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund
@@ -1223,7 +1223,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 111958,ICICI Prudential Mutual Fund,ICICI Prudential Focused Equity Fund,INF109K01FM3,INF109K01CA5,Open Ended Schemes,Equity Scheme - Focused Fund
 111962,Canara Robeco Mutual Fund,Canara Robeco Dynamic Bond Fund,INF760K01449,,Open Ended Schemes,Debt Scheme - Dynamic Bond
 111963,Canara Robeco Mutual Fund,Canara Robeco Dynamic Bond Fund,INF760K01423,INF760K01431,Open Ended Schemes,Debt Scheme - Dynamic Bond
-111970,Bank of India Mutual Fund,BANK OF INDIA ULTRA SHORT DURATION FUND,,INF761K01CW7,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
+111970,Bank of India Mutual Fund,BANK OF INDIA ULTRA SHORT TERM FUND,,INF761K01CW7,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
 111971,Bank of India Mutual Fund,BANK OF INDIA LIQUID FUND,,INF761K01CO4,Open Ended Schemes,Debt Scheme - Liquid Fund
 111972,ICICI Prudential Mutual Fund,ICICI Prudential Corporate Bond Fund,INF109K01CE7,,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
 111976,ICICI Prudential Mutual Fund,ICICI Prudential Corporate Bond Fund,INF109K01CF4,,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
@@ -1517,9 +1517,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 116470,Axis Mutual Fund,Axis Gilt Fund,INF846K01CK1,INF846K01CL9,Open Ended Schemes,Debt Scheme - Gilt Fund
 116471,Axis Mutual Fund,Axis Gilt Fund,INF846K01AX8,,Open Ended Schemes,Debt Scheme - Gilt Fund
 116472,Axis Mutual Fund,Axis Gilt Fund,INF846K01AZ3,INF846K01BB2,Open Ended Schemes,Debt Scheme - Gilt Fund
-116483,PGIM India Mutual Fund,PGIM India Dynamic Bond Fund,INF663L01492,INF663L01500,Open Ended Schemes,Debt Scheme - Dynamic Bond
-116484,PGIM India Mutual Fund,PGIM India Dynamic Bond Fund,INF663L01526,INF663L01534,Open Ended Schemes,Debt Scheme - Dynamic Bond
-116485,PGIM India Mutual Fund,PGIM India Dynamic Bond Fund,INF663L01484,,Open Ended Schemes,Debt Scheme - Dynamic Bond
+116483,PGIM India Mutual Fund,PGIM India Dynamic Term Fund,INF663L01492,INF663L01500,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
+116484,PGIM India Mutual Fund,PGIM India Dynamic Term Fund,INF663L01526,INF663L01534,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
+116485,PGIM India Mutual Fund,PGIM India Dynamic Term Fund,INF663L01484,,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
 116488,Invesco Mutual Fund,Invesco India Money Market Fund,,INF205K01UW7,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
 116547,Groww Mutual Fund,Groww Large Cap Fund,INF666M01162,,Open Ended Schemes,Equity Schemes - Large Cap Fund
 116548,Groww Mutual Fund,Groww Large Cap Fund,INF666M01188,INF666M01170,Open Ended Schemes,Equity Schemes - Large Cap Fund
@@ -2162,8 +2162,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 119346,Bank of India Mutual Fund,BANK OF INDIA LARGE & MID CAP FUND,INF761K01645,INF761K01637,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund
 119349,Bank of India Mutual Fund,BANK OF INDIA LARGE & MID CAP FUND,INF761K01678,INF761K01660,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund
 119350,Bank of India Mutual Fund,BANK OF INDIA LARGE & MID CAP FUND,INF761K01652,,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund
-119351,Bank of India Mutual Fund,BANK OF INDIA ELSS TAX SAVER,INF761K01884,,Open Ended Schemes,Equity Scheme - ELSS
-119352,Bank of India Mutual Fund,BANK OF INDIA ELSS TAX SAVER,INF761K01876,INF761K01868,Open Ended Schemes,Equity Scheme - ELSS
+119351,Bank of India Mutual Fund,BANK OF INDIA ELSS TAX SAVER FUND,INF761K01884,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
+119352,Bank of India Mutual Fund,BANK OF INDIA ELSS TAX SAVER FUND,INF761K01876,INF761K01868,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
 119353,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Multi Cap Fund,INF955L01AE5,,Open Ended Schemes,Equity Scheme - Multi Cap Fund
 119354,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Multi Cap Fund,INF955L01AG0,,Open Ended Schemes,Equity Scheme - Multi Cap Fund
 119363,Bank of India Mutual Fund,BANK OF INDIA MANUFACTURING & INFRASTRUCTURE FUND,INF761K01694,INF761K01686,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
@@ -2172,12 +2172,12 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 119368,Bank of India Mutual Fund,BANK OF INDIA LIQUID FUND,,INF761K01CL0,Open Ended Schemes,Debt Scheme - Liquid Fund
 119369,Bank of India Mutual Fund,BANK OF INDIA LIQUID FUND,INF761K01785,,Open Ended Schemes,Debt Scheme - Liquid Fund
 119370,Bank of India Mutual Fund,BANK OF INDIA LIQUID FUND,,INF761K01CM8,Open Ended Schemes,Debt Scheme - Liquid Fund
-119379,Bank of India Mutual Fund,BANK OF INDIA ULTRA SHORT DURATION FUND,INF761K01892,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
-119380,Bank of India Mutual Fund,BANK OF INDIA ULTRA SHORT DURATION FUND,,INF761K01CT3,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
-119381,Bank of India Mutual Fund,BANK OF INDIA ULTRA SHORT DURATION FUND,,INF761K01CU1,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
-119382,Bank of India Mutual Fund,BANK OF INDIA SHORT TERM INCOME FUND,INF761K01736,,Open Ended Schemes,Debt Scheme - Short Duration Fund
-119383,Bank of India Mutual Fund,BANK OF INDIA SHORT TERM INCOME FUND,INF761K01751,INF761K01744,Open Ended Schemes,Debt Scheme - Short Duration Fund
-119384,Bank of India Mutual Fund,BANK OF INDIA SHORT TERM INCOME FUND,INF761K01777,INF761K01769,Open Ended Schemes,Debt Scheme - Short Duration Fund
+119379,Bank of India Mutual Fund,BANK OF INDIA ULTRA SHORT TERM FUND,INF761K01892,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+119380,Bank of India Mutual Fund,BANK OF INDIA ULTRA SHORT TERM FUND,,INF761K01CT3,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+119381,Bank of India Mutual Fund,BANK OF INDIA ULTRA SHORT TERM FUND,,INF761K01CU1,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+119382,Bank of India Mutual Fund,BANK OF INDIA SHORT TERM FUND,INF761K01736,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+119383,Bank of India Mutual Fund,BANK OF INDIA SHORT TERM FUND,INF761K01751,INF761K01744,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+119384,Bank of India Mutual Fund,BANK OF INDIA SHORT TERM FUND,INF761K01777,INF761K01769,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 119393,Bank of India Mutual Fund,BANK OF INDIA CONSERVATIVE HYBRID FUND,INF761K01819,,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund
 119394,Bank of India Mutual Fund,BANK OF INDIA CONSERVATIVE HYBRID FUND,INF761K01835,INF761K01827,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund
 119395,Bank of India Mutual Fund,BANK OF INDIA CONSERVATIVE HYBRID FUND,INF761K01850,INF761K01843,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund
@@ -2429,9 +2429,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 120073,HSBC Mutual Fund,HSBC Conservative Hybrid Fund,INF336L01DW4,,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund
 120074,HSBC Mutual Fund,HSBC Conservative Hybrid Fund,INF336L01DX2,INF336L01DY0,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund
 120075,HSBC Mutual Fund,HSBC Conservative Hybrid Fund,INF336L01DZ7,INF336L01EA8,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund
-120084,PGIM India Mutual Fund,PGIM India Dynamic Bond Fund,INF663L01AD7,,Open Ended Schemes,Debt Scheme - Dynamic Bond
-120085,PGIM India Mutual Fund,PGIM India Dynamic Bond Fund,INF663L01AF2,INF663L01AE5,Open Ended Schemes,Debt Scheme - Dynamic Bond
-120086,PGIM India Mutual Fund,PGIM India Dynamic Bond Fund,INF663L01AI6,INF663L01AH8,Open Ended Schemes,Debt Scheme - Dynamic Bond
+120084,PGIM India Mutual Fund,PGIM India Dynamic Term Fund,INF663L01AD7,,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
+120085,PGIM India Mutual Fund,PGIM India Dynamic Term Fund,INF663L01AF2,INF663L01AE5,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
+120086,PGIM India Mutual Fund,PGIM India Dynamic Term Fund,INF663L01AI6,INF663L01AH8,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
 120101,HSBC Mutual Fund,HSBC Medium to Long Duration Fund,INF336L01EO9,INF336L01EP6,Open Ended Schemes,Income/Debt Oriented Schemes - Medium to Long Term Fund
 120136,SBI Mutual Fund,SBI CONSTANT MATURITY 10-Year GILT FUND,INF200K01SI1,INF200K01SJ9,Open Ended Schemes,Debt Scheme - Gilt Fund with 10 year constant duration
 120137,SBI Mutual Fund,SBI CONSTANT MATURITY 10-Year GILT FUND,INF200K01SK7,,Open Ended Schemes,Debt Scheme - Gilt Fund with 10 year constant duration
@@ -2994,7 +2994,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 122250,ICICI Prudential Mutual Fund,ICICI Prudential Multiple Yield Fund - Series 3 - Plan B,INF109K016X5,,Close Ended Schemes,Income
 122251,ICICI Prudential Mutual Fund,ICICI Prudential Multiple Yield Fund - Series 3 - Plan B,INF109K013X2,,Close Ended Schemes,Income
 122252,ICICI Prudential Mutual Fund,ICICI Prudential Multiple Yield Fund - Series 3 - Plan B,INF109K014X0,,Close Ended Schemes,Income
-122260,PGIM India Mutual Fund,PGIM India Dynamic Bond Fund,INF663L01BF0,,Open Ended Schemes,Debt Scheme - Dynamic Bond
+122260,PGIM India Mutual Fund,PGIM India Dynamic Term Fund,INF663L01BF0,,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
 122273,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan-Series 67-745 Days Plan K,INF109KB1FO1,,Close Ended Schemes,Income
 122274,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan-Series 67-745 Days Plan K,INF109KB1FP8,,Close Ended Schemes,Income
 122275,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan-Series 67-745 Days Plan K,INF109KB1FN3,,Close Ended Schemes,Income
@@ -3579,7 +3579,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 126353,Invesco Mutual Fund,Invesco India - Invesco Pan European Equity Fund of Fund,INF205K01A24,,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas
 126371,Nippon India Mutual Fund,Reliance Fixed Horizon Fund - XXV - Series 14,INF204KA1GT3,,Close Ended Schemes,Income
 126372,Nippon India Mutual Fund,Reliance Fixed Horizon Fund - XXV - Series 14,INF204KA1GR7,,Close Ended Schemes,Income
-126389,Bank of India Mutual Fund,BANK OF INDIA ULTRA SHORT DURATION FUND,INF761K01CS5,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
+126389,Bank of India Mutual Fund,BANK OF INDIA ULTRA SHORT TERM FUND,INF761K01CS5,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
 126391,DSP Mutual Fund,DSP Dynamic Asset Allocation Fund,INF740K01K99,INF740K01L07,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
 126392,DSP Mutual Fund,DSP Dynamic Asset Allocation Fund,INF740K01K65,INF740K01K73,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
 126393,DSP Mutual Fund,DSP Dynamic Asset Allocation Fund,INF740K01K81,,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
@@ -5647,31 +5647,31 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 138333,PGIM India Mutual Fund,PGIM India Corporate Bond Fund,INF223J01WG1,,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
 138334,PGIM India Mutual Fund,PGIM India Corporate Bond Fund,INF223J01WF3,,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
 138336,PGIM India Mutual Fund,PGIM India Corporate Bond Fund,INF223J01WZ1,,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
-138337,PGIM India Mutual Fund,PGIM India Ultra Short Duration Fund,INF223J01FX1,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
-138338,PGIM India Mutual Fund,PGIM India Ultra Short Duration Fund,INF223J01FW3,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
-138339,PGIM India Mutual Fund,PGIM India Ultra Short Duration Fund,INF223J01GC3,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
-138340,PGIM India Mutual Fund,PGIM India Ultra Short Duration Fund,INF223J01FY9,INF223J01FZ6,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
-138341,PGIM India Mutual Fund,PGIM India Ultra Short Duration Fund,INF223J01FO0,INF223J01FP7,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
-138342,PGIM India Mutual Fund,PGIM India Ultra Short Duration Fund,INF223J01FH4,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
-138343,PGIM India Mutual Fund,PGIM India Ultra Short Duration Fund,INF223J01FK8,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
-138344,PGIM India Mutual Fund,PGIM India Ultra Short Duration Fund,INF223J01FL6,INF223J01FM4,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
-138345,PGIM India Mutual Fund,PGIM India Ultra Short Duration Fund,INF223J01FN2,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
-138346,PGIM India Mutual Fund,PGIM India Ultra Short Duration Fund,INF223J01GA7,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
-138349,PGIM India Mutual Fund,PGIM India Ultra Short Duration Fund,INF223J01FI2,INF223J01FJ0,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
-138353,PGIM India Mutual Fund,PGIM India Ultra Short Duration Fund,INF223J01JH6,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
-138354,PGIM India Mutual Fund,PGIM India Ultra Short Duration Fund,INF223J01JJ2,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
-138357,PGIM India Mutual Fund,PGIM India Ultra Short Duration Fund,INF223J01QM1,INF223J01QN9,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
-138358,PGIM India Mutual Fund,PGIM India Ultra Short Duration Fund,INF223J01QO7,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
-138359,PGIM India Mutual Fund,PGIM India Ultra Short Duration Fund,INF223J01QP4,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
-138360,PGIM India Mutual Fund,PGIM India Ultra Short Duration Fund,INF223J01QI9,INF223J01QJ7,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
-138361,PGIM India Mutual Fund,PGIM India Ultra Short Duration Fund,,INF223J01QL3,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
-138362,PGIM India Mutual Fund,PGIM India Ultra Short Duration Fund,INF223J01QR0,INF223J01QS8,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
-138363,PGIM India Mutual Fund,PGIM India Ultra Short Duration Fund,INF223J01QK5,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
-138364,PGIM India Mutual Fund,PGIM India Ultra Short Duration Fund,INF223J01QT6,INF223J01QU4,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
-138365,PGIM India Mutual Fund,PGIM India Ultra Short Duration Fund,INF223J01VJ7,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
-138366,PGIM India Mutual Fund,PGIM India Ultra Short Duration Fund,INF223J01VK5,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
-138367,PGIM India Mutual Fund,PGIM India Ultra Short Duration Fund,INF223J01XI5,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
-138368,PGIM India Mutual Fund,PGIM India Ultra Short Duration Fund,INF223J01XH7,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
+138337,PGIM India Mutual Fund,PGIM India Ultra Short Term Fund,INF223J01FX1,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+138338,PGIM India Mutual Fund,PGIM India Ultra Short Term Fund,INF223J01FW3,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+138339,PGIM India Mutual Fund,PGIM India Ultra Short Term Fund,INF223J01GC3,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+138340,PGIM India Mutual Fund,PGIM India Ultra Short Term Fund,INF223J01FY9,INF223J01FZ6,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+138341,PGIM India Mutual Fund,PGIM India Ultra Short Term Fund,INF223J01FO0,INF223J01FP7,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+138342,PGIM India Mutual Fund,PGIM India Ultra Short Term Fund,INF223J01FH4,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+138343,PGIM India Mutual Fund,PGIM India Ultra Short Term Fund,INF223J01FK8,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+138344,PGIM India Mutual Fund,PGIM India Ultra Short Term Fund,INF223J01FL6,INF223J01FM4,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+138345,PGIM India Mutual Fund,PGIM India Ultra Short Term Fund,INF223J01FN2,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+138346,PGIM India Mutual Fund,PGIM India Ultra Short Term Fund,INF223J01GA7,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+138349,PGIM India Mutual Fund,PGIM India Ultra Short Term Fund,INF223J01FI2,INF223J01FJ0,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+138353,PGIM India Mutual Fund,PGIM India Ultra Short Term Fund,INF223J01JH6,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+138354,PGIM India Mutual Fund,PGIM India Ultra Short Term Fund,INF223J01JJ2,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+138357,PGIM India Mutual Fund,PGIM India Ultra Short Term Fund,INF223J01QM1,INF223J01QN9,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+138358,PGIM India Mutual Fund,PGIM India Ultra Short Term Fund,INF223J01QO7,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+138359,PGIM India Mutual Fund,PGIM India Ultra Short Term Fund,INF223J01QP4,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+138360,PGIM India Mutual Fund,PGIM India Ultra Short Term Fund,INF223J01QI9,INF223J01QJ7,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+138361,PGIM India Mutual Fund,PGIM India Ultra Short Term Fund,,INF223J01QL3,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+138362,PGIM India Mutual Fund,PGIM India Ultra Short Term Fund,INF223J01QR0,INF223J01QS8,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+138363,PGIM India Mutual Fund,PGIM India Ultra Short Term Fund,INF223J01QK5,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+138364,PGIM India Mutual Fund,PGIM India Ultra Short Term Fund,INF223J01QT6,INF223J01QU4,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+138365,PGIM India Mutual Fund,PGIM India Ultra Short Term Fund,INF223J01VJ7,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+138366,PGIM India Mutual Fund,PGIM India Ultra Short Term Fund,INF223J01VK5,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+138367,PGIM India Mutual Fund,PGIM India Ultra Short Term Fund,INF223J01XI5,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+138368,PGIM India Mutual Fund,PGIM India Ultra Short Term Fund,INF223J01XH7,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
 138369,PGIM India Mutual Fund,PGIM India Equity Savings Fund,INF223J01FC5,INF223J01FD3,Open Ended Schemes,Hybrid Scheme - Equity Savings
 138370,PGIM India Mutual Fund,PGIM India Equity Savings Fund,INF223J01FE1,INF223J01FF8,Open Ended Schemes,Hybrid Scheme - Equity Savings
 138371,PGIM India Mutual Fund,PGIM India Equity Savings Fund,INF223J01EZ9,INF223J01FA9,Open Ended Schemes,Hybrid Scheme - Equity Savings
@@ -5863,10 +5863,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 139519,ICICI Prudential Mutual Fund,ICICI Prudential BSE Midcap Select ETF,INF109KC10W0,,Open Ended Schemes,Other Scheme - Other  ETFs
 139520,Axis Mutual Fund,Axis Equity Savings Fund,INF846K01XP6,INF846K01XQ4,Open Ended Schemes,Hybrid Scheme - Equity Savings
 139521,Axis Mutual Fund,Axis Equity Savings Fund,INF846K01XR2,INF846K01XS0,Open Ended Schemes,Hybrid Scheme - Equity Savings
-139527,Bank of India Mutual Fund,BANK OF INDIA MID & SMALL CAP EQUITY & DEBT FUND,INF761K01DM6,,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
-139528,Bank of India Mutual Fund,BANK OF INDIA MID & SMALL CAP EQUITY & DEBT FUND,INF761K01DQ7,INF761K01DR5,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
-139529,Bank of India Mutual Fund,BANK OF INDIA MID & SMALL CAP EQUITY & DEBT FUND,INF761K01DP9,,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
-139530,Bank of India Mutual Fund,BANK OF INDIA MID & SMALL CAP EQUITY & DEBT FUND,INF761K01DN4,INF761K01DO2,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
+139527,Bank of India Mutual Fund,BANK OF INDIA AGGRESSIVE HYBRID FUND,INF761K01DM6,,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
+139528,Bank of India Mutual Fund,BANK OF INDIA AGGRESSIVE HYBRID FUND,INF761K01DQ7,INF761K01DR5,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
+139529,Bank of India Mutual Fund,BANK OF INDIA AGGRESSIVE HYBRID FUND,INF761K01DP9,,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
+139530,Bank of India Mutual Fund,BANK OF INDIA AGGRESSIVE HYBRID FUND,INF761K01DN4,INF761K01DO2,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
 139534,Mahindra Manulife Mutual Fund,Mahindra Manulife Liquid Fund,,INF174V01028,Open Ended Schemes,Debt Scheme - Liquid Fund
 139535,Mahindra Manulife Mutual Fund,Mahindra Manulife Liquid Fund,,INF174V01051,Open Ended Schemes,Debt Scheme - Liquid Fund
 139536,Mahindra Manulife Mutual Fund,Mahindra Manulife Liquid Fund,,INF174V01069,Open Ended Schemes,Debt Scheme - Liquid Fund
@@ -13521,10 +13521,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153723,Bandhan Mutual Fund,Bandhan Multi-Factor Fund,INF194KB1JV4,INF194KB1JW2,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 153724,Motilal Oswal Mutual Fund,Motilal Oswal Nifty Alpha 50 ETF,INF247L01FR8,,Open Ended Schemes,Other Scheme - Other  ETFs
 153725,Nippon India Mutual Fund,Nippon India Nifty 1D Rate Liquid ETF- Growth,INF204KC1FU1,,Open Ended Schemes,Other Scheme - Other  ETFs
-153726,Bank of India Mutual Fund,Bank of India Mid Cap Fund,INF761K01HB0,,Open Ended Schemes,Equity Scheme - Mid Cap Fund
-153727,Bank of India Mutual Fund,Bank of India Mid Cap Fund,INF761K01HC8,INF761K01HD6,Open Ended Schemes,Equity Scheme - Mid Cap Fund
-153728,Bank of India Mutual Fund,Bank of India Mid Cap Fund,INF761K01GY4,,Open Ended Schemes,Equity Scheme - Mid Cap Fund
-153729,Bank of India Mutual Fund,Bank of India Mid Cap Fund,INF761K01GZ1,INF761K01HA2,Open Ended Schemes,Equity Scheme - Mid Cap Fund
+153726,Bank of India Mutual Fund,BANK OF INDIA MID CAP FUND,INF761K01HB0,,Open Ended Schemes,Equity Schemes - Mid Cap Fund
+153727,Bank of India Mutual Fund,BANK OF INDIA MID CAP FUND,INF761K01HC8,INF761K01HD6,Open Ended Schemes,Equity Schemes - Mid Cap Fund
+153728,Bank of India Mutual Fund,BANK OF INDIA MID CAP FUND,INF761K01GY4,,Open Ended Schemes,Equity Schemes - Mid Cap Fund
+153729,Bank of India Mutual Fund,BANK OF INDIA MID CAP FUND,INF761K01GZ1,INF761K01HA2,Open Ended Schemes,Equity Schemes - Mid Cap Fund
 153730,Franklin Templeton Mutual Fund,Franklin India Multi Asset Allocation Fund,INF090I01YL2,INF090I01YK4,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
 153731,Franklin Templeton Mutual Fund,Franklin India Multi Asset Allocation Fund,INF090I01YH0,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
 153732,Franklin Templeton Mutual Fund,Franklin India Multi Asset Allocation Fund,INF090I01YJ6,INF090I01YI8,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
@@ -35319,13 +35319,13 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 138322,PGIM India Asset Management Private Limite,PGIM India Premier Bond Fund - Institutional Plan - Annual Dividend,,,Open Ended,Debt Scheme - Corporate Bond Fund
 138325,PGIM India Asset Management Private Limite,DHFL Pramerica Premier Bond Fund - Premium Plus Plan - Monthly Dividend,,,Open Ended,Debt Scheme - Corporate Bond Fund
 138326,PGIM India Asset Management Private Limite,DHFL Pramerica Premier Bond Fund - Premium Plus Plan - Annual Dividend,,,Open Ended,Debt Scheme - Corporate Bond Fund
-138351,PGIM India Asset Management Private Limite,DHFL Pramerica Ultra Short Term Fund - Regular Plan - Quarterly Dividend,,,Open Ended,Debt Scheme - Ultra Short Duration Fund
-138352,PGIM India Asset Management Private Limite,DHFL Pramerica Ultra Short Term Fund - Regular Plan - Annual Dividend,,,Open Ended,Debt Scheme - Ultra Short Duration Fund
-138355,PGIM India Asset Management Private Limite,DHFL Pramerica Ultra Short Term Fund - Premium Plus Plan - Quarterly Dividend,,,Open Ended,Debt Scheme - Ultra Short Duration Fund
-138356,PGIM India Asset Management Private Limite,DHFL Pramerica Ultra Short Term Fund - Premium Plus Plan - Growth,,,Open Ended,Debt Scheme - Ultra Short Duration Fund
-138347,PGIM India Asset Management Private Limite,DHFL Pramerica Ultra Short Term Fund - Premium Plus Plan - Weekly Dividend,,,Open Ended,Debt Scheme - Ultra Short Duration Fund
-138348,PGIM India Asset Management Private Limite,DHFL Pramerica Ultra Short Term Fund - Premium Plus Plan - Daily Dividend,,,Open Ended,Debt Scheme - Ultra Short Duration Fund
-138350,PGIM India Asset Management Private Limite,DHFL Pramerica Ultra Short Term Fund - Premium Plus Plan - Annual Dividend,,,Open Ended,Debt Scheme - Ultra Short Duration Fund
+138351,PGIM India Asset Management Private Limite,DHFL Pramerica Ultra Short Term Fund - Regular Plan - Quarterly Dividend,,,Open Ended,Income/Debt Oriented Schemes - Ultra Short Term Fund
+138352,PGIM India Asset Management Private Limite,DHFL Pramerica Ultra Short Term Fund - Regular Plan - Annual Dividend,,,Open Ended,Income/Debt Oriented Schemes - Ultra Short Term Fund
+138355,PGIM India Asset Management Private Limite,DHFL Pramerica Ultra Short Term Fund - Premium Plus Plan - Quarterly Dividend,,,Open Ended,Income/Debt Oriented Schemes - Ultra Short Term Fund
+138356,PGIM India Asset Management Private Limite,DHFL Pramerica Ultra Short Term Fund - Premium Plus Plan - Growth,,,Open Ended,Income/Debt Oriented Schemes - Ultra Short Term Fund
+138347,PGIM India Asset Management Private Limite,DHFL Pramerica Ultra Short Term Fund - Premium Plus Plan - Weekly Dividend,,,Open Ended,Income/Debt Oriented Schemes - Ultra Short Term Fund
+138348,PGIM India Asset Management Private Limite,DHFL Pramerica Ultra Short Term Fund - Premium Plus Plan - Daily Dividend,,,Open Ended,Income/Debt Oriented Schemes - Ultra Short Term Fund
+138350,PGIM India Asset Management Private Limite,DHFL Pramerica Ultra Short Term Fund - Premium Plus Plan - Annual Dividend,,,Open Ended,Income/Debt Oriented Schemes - Ultra Short Term Fund
 142425,PGIM India Asset Management Private Limite,PGIM India Equity Savings Fund - Regular Plan - Half yearly Dividend Option,INF663L01YK2,INF663L01YL0,Open Ended,Hybrid Scheme - Equity Savings
 142419,PGIM India Asset Management Private Limite,PGIM India Aggressive Hybrid Equity Fund - Regular Plan - Half yearly Dividend Option,INF663L01YW7,INF663L01YX5,Open Ended,Hybrid Scheme - Aggressive Hybrid Fund
 142420,PGIM India Asset Management Private Limite,PGIM India Aggressive Hybrid Equity Fund - Direct Plan - Haly yearly Dividend Option,INF663L01YY3,INF663L01YZ0,Open Ended,Hybrid Scheme - Aggressive Hybrid Fund
