@@ -1523,8 +1523,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 116488,Invesco Mutual Fund,Invesco India Money Market Fund,,INF205K01UW7,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
 116547,Groww Mutual Fund,Groww Large Cap Fund,INF666M01162,,Open Ended Schemes,Equity Schemes - Large Cap Fund
 116548,Groww Mutual Fund,Groww Large Cap Fund,INF666M01188,INF666M01170,Open Ended Schemes,Equity Schemes - Large Cap Fund
-116555,Union Mutual Fund,Union Dynamic Bond Fund,INF582M01336,,Open Ended Schemes,Debt Scheme - Dynamic Bond
-116556,Union Mutual Fund,Union Dynamic Bond Fund,INF582M01351,INF582M01344,Open Ended Schemes,Debt Scheme - Dynamic Bond
+116555,Union Mutual Fund,Union Dynamic Term Fund,INF582M01336,,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
+116556,Union Mutual Fund,Union Dynamic Term Fund,INF582M01351,INF582M01344,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
 116632,Franklin Templeton Mutual Fund,Franklin U. S. Opportunities Equity Active Fund of Funds,INF090I01EV3,INF090I01EU5,Open Ended Schemes,Other Scheme - FoF Overseas
 116633,Franklin Templeton Mutual Fund,Franklin U. S. Opportunities Equity Active Fund of Funds,INF090I01EW1,,Open Ended Schemes,Other Scheme - FoF Overseas
 116653,Invesco Mutual Fund,Invesco India Money Market Fund,INF205K01SB5,INF205K01SC3,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
@@ -2152,8 +2152,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 119305,Union Mutual Fund,Union Liquid Fund,INF582M01724,INF582M01708,Open Ended Schemes,Debt Scheme - Liquid Fund
 119306,Union Mutual Fund,Union ELSS Tax Saver Fund (Formerly Union Tax Saver (ELSS) Fund,INF582M01781,INF582M01773,Open Ended Schemes,Equity Scheme - ELSS
 119307,Union Mutual Fund,Union ELSS Tax Saver Fund (Formerly Union Tax Saver (ELSS) Fund,INF582M01765,,Open Ended Schemes,Equity Scheme - ELSS
-119310,Union Mutual Fund,Union Dynamic Bond Fund,INF582M01815,INF582M01807,Open Ended Schemes,Debt Scheme - Dynamic Bond
-119311,Union Mutual Fund,Union Dynamic Bond Fund,INF582M01799,,Open Ended Schemes,Debt Scheme - Dynamic Bond
+119310,Union Mutual Fund,Union Dynamic Term Fund,INF582M01815,INF582M01807,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
+119311,Union Mutual Fund,Union Dynamic Term Fund,INF582M01799,,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
 119312,Tata Mutual Fund,Tata Childrens Fund,INF277K01QW4,,Open Ended Schemes,Solution Oriented Scheme - Childrenâs Fund
 119333,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Banking and Financial Services Fund,INF955L01971,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 119334,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Banking and Financial Services Fund,INF955L01955,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
@@ -6126,18 +6126,18 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 140294,Edelweiss Mutual Fund,Edelweiss Banking and PSU Debt Fund,INF843K01FO3,,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
 140295,Edelweiss Mutual Fund,Edelweiss Europe Dynamic Equity Offshore Fund,INF843K01GJ1,,Open Ended Schemes,Other Scheme - FoF Overseas
 140296,Edelweiss Mutual Fund,Edelweiss Europe Dynamic Equity Offshore Fund,INF843K01GI3,,Open Ended Schemes,Other Scheme - FoF Overseas
-140297,Edelweiss Mutual Fund,Edelweiss Government Securities Fund,INF843K01HC4,,Open Ended Schemes,Debt Scheme - Gilt Fund
-140298,Edelweiss Mutual Fund,Edelweiss Government Securities Fund,INF843K01GS2,,Open Ended Schemes,Debt Scheme - Gilt Fund
-140301,Edelweiss Mutual Fund,Edelweiss Government Securities Fund,INF843K01HE0,INF843K01HF7,Open Ended Schemes,Debt Scheme - Gilt Fund
-140302,Edelweiss Mutual Fund,Edelweiss Government Securities Fund,INF843K01GU8,INF843K01GV6,Open Ended Schemes,Debt Scheme - Gilt Fund
-140303,Edelweiss Mutual Fund,Edelweiss Government Securities Fund,INF843K01HG5,,Open Ended Schemes,Debt Scheme - Gilt Fund
-140304,Edelweiss Mutual Fund,Edelweiss Government Securities Fund,INF843K01GW4,,Open Ended Schemes,Debt Scheme - Gilt Fund
-140305,Edelweiss Mutual Fund,Edelweiss Government Securities Fund,INF843K01HH3,,Open Ended Schemes,Debt Scheme - Gilt Fund
-140306,Edelweiss Mutual Fund,Edelweiss Government Securities Fund,INF843K01GX2,,Open Ended Schemes,Debt Scheme - Gilt Fund
-140307,Edelweiss Mutual Fund,Edelweiss Government Securities Fund,INF843K01HJ9,INF843K01HI1,Open Ended Schemes,Debt Scheme - Gilt Fund
-140308,Edelweiss Mutual Fund,Edelweiss Government Securities Fund,INF843K01GZ7,INF843K01GY0,Open Ended Schemes,Debt Scheme - Gilt Fund
-140309,Edelweiss Mutual Fund,Edelweiss Government Securities Fund,INF843K01HB6,INF843K01HA8,Open Ended Schemes,Debt Scheme - Gilt Fund
-140310,Edelweiss Mutual Fund,Edelweiss Government Securities Fund,INF843K01HL5,INF843K01HK7,Open Ended Schemes,Debt Scheme - Gilt Fund
+140297,Edelweiss Mutual Fund,Edelweiss Gilt Fund,INF843K01HC4,,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
+140298,Edelweiss Mutual Fund,Edelweiss Gilt Fund,INF843K01GS2,,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
+140301,Edelweiss Mutual Fund,Edelweiss Gilt Fund,INF843K01HE0,INF843K01HF7,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
+140302,Edelweiss Mutual Fund,Edelweiss Gilt Fund,INF843K01GU8,INF843K01GV6,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
+140303,Edelweiss Mutual Fund,Edelweiss Gilt Fund,INF843K01HG5,,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
+140304,Edelweiss Mutual Fund,Edelweiss Gilt Fund,INF843K01GW4,,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
+140305,Edelweiss Mutual Fund,Edelweiss Gilt Fund,INF843K01HH3,,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
+140306,Edelweiss Mutual Fund,Edelweiss Gilt Fund,INF843K01GX2,,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
+140307,Edelweiss Mutual Fund,Edelweiss Gilt Fund,INF843K01HJ9,INF843K01HI1,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
+140308,Edelweiss Mutual Fund,Edelweiss Gilt Fund,INF843K01GZ7,INF843K01GY0,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
+140309,Edelweiss Mutual Fund,Edelweiss Gilt Fund,INF843K01HB6,INF843K01HA8,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
+140310,Edelweiss Mutual Fund,Edelweiss Gilt Fund,INF843K01HL5,INF843K01HK7,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
 140327,Edelweiss Mutual Fund,Edelweiss Emerging Markets Opportunities Equity Offshore Fund,INF843K01IZ3,,Open Ended Schemes,Other Scheme - FoF Overseas
 140328,Edelweiss Mutual Fund,Edelweiss Emerging Markets Opportunities Equity Offshore Fund,INF843K01IY6,,Open Ended Schemes,Other Scheme - FoF Overseas
 140347,Edelweiss Mutual Fund,Edelweiss Equity Savings Fund,INF843K01KC8,,Open Ended Schemes,Hybrid Scheme - Equity Savings
@@ -7566,16 +7566,16 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 143600,JM Financial Mutual Fund,JM Money Market Fund,,INF192K01AS7,Open Ended Schemes,Debt Scheme - Money Market Fund
 143601,JM Financial Mutual Fund,JM Money Market Fund,INF192K01FF3,,Open Ended Schemes,Debt Scheme - Money Market Fund
 143602,JM Financial Mutual Fund,JM Money Market Fund,,INF192K01DR3,Open Ended Schemes,Debt Scheme - Money Market Fund
-143603,JM Financial Mutual Fund,JM Ultra Short to Short Trem Fund,,INF192K01AV1,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
-143604,JM Financial Mutual Fund,JM Ultra Short to Short Trem Fund,,INF192K01DT9,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
-143605,JM Financial Mutual Fund,JM Ultra Short to Short Trem Fund,,INF192K01AX7,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
-143606,JM Financial Mutual Fund,JM Ultra Short to Short Trem Fund,,INF192K01DV5,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
-143607,JM Financial Mutual Fund,JM Ultra Short to Short Trem Fund,INF192K01AY5,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
-143608,JM Financial Mutual Fund,JM Ultra Short to Short Trem Fund,,INF192K01AW9,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
-143609,JM Financial Mutual Fund,JM Ultra Short to Short Trem Fund,INF192K01FJ5,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
-143610,JM Financial Mutual Fund,JM Ultra Short to Short Trem Fund,INF192K01FL1,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
-143611,JM Financial Mutual Fund,JM Ultra Short to Short Trem Fund,,INF192K01DU7,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
-143612,JM Financial Mutual Fund,JM Ultra Short to Short Trem Fund,INF192K01DW3,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+143603,JM Financial Mutual Fund,JM Ultra Short to Short Term Fund,,INF192K01AV1,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+143604,JM Financial Mutual Fund,JM Ultra Short to Short Term Fund,,INF192K01DT9,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+143605,JM Financial Mutual Fund,JM Ultra Short to Short Term Fund,,INF192K01AX7,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+143606,JM Financial Mutual Fund,JM Ultra Short to Short Term Fund,,INF192K01DV5,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+143607,JM Financial Mutual Fund,JM Ultra Short to Short Term Fund,INF192K01AY5,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+143608,JM Financial Mutual Fund,JM Ultra Short to Short Term Fund,,INF192K01AW9,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+143609,JM Financial Mutual Fund,JM Ultra Short to Short Term Fund,INF192K01FJ5,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+143610,JM Financial Mutual Fund,JM Ultra Short to Short Term Fund,INF192K01FL1,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+143611,JM Financial Mutual Fund,JM Ultra Short to Short Term Fund,,INF192K01DU7,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+143612,JM Financial Mutual Fund,JM Ultra Short to Short Term Fund,INF192K01DW3,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 143613,Bank of India Mutual Fund,BANK OF INDIA ARBITRAGE FUND,INF761K01EI2,INF761K01EJ0,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
 143614,Bank of India Mutual Fund,BANK OF INDIA ARBITRAGE FUND,INF761K01ED3,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
 143615,Bank of India Mutual Fund,BANK OF INDIA ARBITRAGE FUND,INF761K01EE1,INF761K01EF8,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
@@ -13070,10 +13070,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153237,ICICI Prudential Mutual Fund,ICICI Prudential CRISIL-IBX AAA Bond Financial Services Index -Dec 2026 Fund,INF109KC16Z0,INF109KC17Z8,Open Ended Schemes,Other Scheme - Index Funds
 153238,Samco Mutual Fund,Samco Large Cap Fund,INF0K1H01263,,Open Ended Schemes,Equity Scheme - Large Cap Fund
 153239,Samco Mutual Fund,Samco Large Cap Fund,INF0K1H01255,,Open Ended Schemes,Equity Scheme - Large Cap Fund
-153240,Union Mutual Fund,Union Short Duration Fund,INF582M01KK1,,Open Ended Schemes,Debt Scheme - Short Duration Fund
-153241,Union Mutual Fund,Union Short Duration Fund,INF582M01KL9,INF582M01KM7,Open Ended Schemes,Debt Scheme - Short Duration Fund
-153242,Union Mutual Fund,Union Short Duration Fund,INF582M01KO3,,Open Ended Schemes,Debt Scheme - Short Duration Fund
-153243,Union Mutual Fund,Union Short Duration Fund,INF582M01KP0,INF582M01KQ8,Open Ended Schemes,Debt Scheme - Short Duration Fund
+153240,Union Mutual Fund,Union Short Term Fund,INF582M01KK1,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+153241,Union Mutual Fund,Union Short Term Fund,INF582M01KL9,INF582M01KM7,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+153242,Union Mutual Fund,Union Short Term Fund,INF582M01KO3,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+153243,Union Mutual Fund,Union Short Term Fund,INF582M01KP0,INF582M01KQ8,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
 153244,Axis Mutual Fund,Axis Nifty500 Momentum 50 Index Fund,INF846KA1044,,Open Ended Schemes,Other Scheme - Index Funds
 153245,Axis Mutual Fund,Axis Nifty500 Momentum 50 Index Fund,INF846KA1036,,Open Ended Schemes,Other Scheme - Index Funds
 153246,LIC Mutual Fund,LIC MF Multi Asset Allocation Fund,INF767K01RZ5,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
@@ -13451,10 +13451,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153649,Jio BlackRock Mutual Fund,JioBlackRock Money Market Fund,INF22M001028,,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
 153650,Jio BlackRock Mutual Fund,JioBlackRock Overnight Fund,INF22M001036,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 153651,Jio BlackRock Mutual Fund,JioBlackRock Liquid Fund,INF22M001010,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
-153652,Union Mutual Fund,Union Low Duration Fund,INF582M01LU8,,Open Ended Schemes,Debt Scheme - Low Duration Fund
-153653,Union Mutual Fund,Union Low Duration Fund,INF582M01LN3,INF582M01LO1,Open Ended Schemes,Debt Scheme - Low Duration Fund
-153654,Union Mutual Fund,Union Low Duration Fund,INF582M01LQ6,,Open Ended Schemes,Debt Scheme - Low Duration Fund
-153655,Union Mutual Fund,Union Low Duration Fund,INF582M01LR4,INF582M01LS2,Open Ended Schemes,Debt Scheme - Low Duration Fund
+153652,Union Mutual Fund,Union Ultra Short to Short Term Fund,INF582M01LU8,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+153653,Union Mutual Fund,Union Ultra Short to Short Term Fund,INF582M01LN3,INF582M01LO1,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+153654,Union Mutual Fund,Union Ultra Short to Short Term Fund,INF582M01LQ6,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+153655,Union Mutual Fund,Union Ultra Short to Short Term Fund,INF582M01LR4,INF582M01LS2,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 153656,Zerodha Mutual Fund,Zerodha Silver ETF FoF,INF0R8F01109,,Open Ended Schemes,Other Scheme - FoF Domestic
 153657,Kotak Mahindra Mutual Fund,Kotak Nifty200 Quality 30 ETF,INF174KA1WT6,,Open Ended Schemes,Other Scheme - Other  ETFs
 153658,Kotak Mahindra Mutual Fund,KOTAK NIFTY 200 QUALITY 30 INDEX FUND,INF174KA1WO7,INF174KA1WP4,Open Ended Schemes,Other Scheme - Index Funds
@@ -14236,8 +14236,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154540,Franklin Templeton Mutual Fund,Franklin India Short Term Fund,INF090I01YT5,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 154541,Franklin Templeton Mutual Fund,Franklin India Short Term Fund,INF090I01YW9,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 154550,Jio BlackRock Mutual Fund,JioBlackRock Nifty 50 ETF,INF22M001184,,Open Ended Schemes,Exchange Traded Funds
-154551,Motilal Oswal Mutual Fund,Motilal Oswal Nifty Metal ETF,,,Open Ended Schemes,Exchange Traded Funds
-154552,Motilal Oswal Mutual Fund,Motilal Oswal Nifty Oil & Gas ETF,,,Open Ended Schemes,Exchange Traded Funds
+154551,Motilal Oswal Mutual Fund,Motilal Oswal Nifty Metal ETF,INF247L01HG7,,Open Ended Schemes,Exchange Traded Funds
+154552,Motilal Oswal Mutual Fund,Motilal Oswal Nifty Oil & Gas ETF,INF247L01HH5,,Open Ended Schemes,Exchange Traded Funds
 154565,AlphaGrep Mutual Fund,ALPHAGREP LIQUID OMNI FOF,INF2VOA01137,,Open Ended Schemes,Fund of Funds Scheme
 154566,AlphaGrep Mutual Fund,ALPHAGREP LIQUID OMNI FOF,INF2VOA01152,INF2VOA01145,Open Ended Schemes,Fund of Funds Scheme
 154567,AlphaGrep Mutual Fund,ALPHAGREP LIQUID OMNI FOF,INF2VOA01160,,Open Ended Schemes,Fund of Funds Scheme
