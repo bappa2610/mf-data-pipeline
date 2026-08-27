@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Nippon India Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 134925,
         "scheme_name": "Nippon India US Equity Opportunities Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF204KA16G3",
         "isin_div_reinvestment": "INF204KA17G1"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "48.47070"
+        },
         {
             "date": "25-08-2026",
             "nav": "48.53960"

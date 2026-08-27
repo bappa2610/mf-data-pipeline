@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "ICICI Prudential Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
+        "scheme_category": "Hybrid Schemes - Multi Asset Allocation Fund",
         "scheme_code": 101143,
-        "scheme_name": "ICICI Prudential Multi-Asset Fund - Regular Plan - IDCW",
+        "scheme_name": "ICICI Prudential Multi Asset Allocation Fund - Regular Plan - IDCW",
         "isin_growth": "INF109K01ED5",
         "isin_div_reinvestment": "INF109K01779"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "35.13500"
+        },
         {
             "date": "25-08-2026",
             "nav": "35.19760"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Kotak Mahindra Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Overseas",
+        "scheme_category": "Overseas Fund of Funds - Fund of Funds investing overseas",
         "scheme_code": 154289,
-        "scheme_name": "Kotak Quality Overseas Equity Omni FOF - Regular Plan - IDCW",
+        "scheme_name": "Kotak Quality Overseas Equity Active FOF - Regular Plan - IDCW",
         "isin_growth": "INF174KA1ZM4",
         "isin_div_reinvestment": "INF174KA1ZN2"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "11.56100"
+        },
         {
             "date": "25-08-2026",
             "nav": "11.59200"

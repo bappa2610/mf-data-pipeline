@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "ICICI Prudential Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
+        "scheme_category": "Hybrid Schemes - Multi Asset Allocation Fund",
         "scheme_code": 120335,
-        "scheme_name": "ICICI Prudential Multi-Asset Fund - Direct Plan - IDCW",
+        "scheme_name": "ICICI Prudential Multi Asset Allocation Fund - Direct Plan - IDCW",
         "isin_growth": "INF109K013K9",
         "isin_div_reinvestment": "INF109K014K7"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "60.52800"
+        },
         {
             "date": "25-08-2026",
             "nav": "60.63470"

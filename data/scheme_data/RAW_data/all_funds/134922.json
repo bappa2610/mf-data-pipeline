@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Nippon India Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 134922,
         "scheme_name": "Nippon India US Equity Opportunities Fund - Regular Plan - Growth Option",
         "isin_growth": "INF204KA12G2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "42.90960"
+        },
         {
             "date": "25-08-2026",
             "nav": "42.97180"
