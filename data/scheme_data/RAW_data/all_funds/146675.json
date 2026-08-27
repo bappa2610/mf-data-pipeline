@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Overnight Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Overnight Fund",
         "scheme_code": 146675,
         "scheme_name": "Axis Overnight Fund - Direct Plan - Growth Option",
         "isin_growth": "INF846K01N65",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "1455.84870"
+        },
         {
             "date": "26-08-2026",
             "nav": "1455.65100"

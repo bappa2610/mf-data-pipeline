@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Medium Term Fund",
         "scheme_code": 149011,
-        "scheme_name": "Invesco India Medium Duration Fund - Direct Plan - Growth",
+        "scheme_name": "Invesco India Medium Term Fund - Direct Plan - Growth",
         "isin_growth": "INF205KA1429",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "1360.67280"
+        },
         {
             "date": "25-08-2026",
             "nav": "1361.12260"

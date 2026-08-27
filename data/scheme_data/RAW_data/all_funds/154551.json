@@ -5,10 +5,14 @@
         "scheme_category": "Exchange Traded Funds (ETFs) - Equity ETF",
         "scheme_code": 154551,
         "scheme_name": "Motilal Oswal Nifty Metal ETF",
-        "isin_growth": null,
+        "isin_growth": "INF247L01HG7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "13.42570"
+        },
         {
             "date": "26-08-2026",
             "nav": "13.54220"

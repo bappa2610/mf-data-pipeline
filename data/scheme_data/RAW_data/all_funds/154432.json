@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Ultra Short Term Fund",
         "scheme_code": 154432,
-        "scheme_name": "Invesco India Ultra Short Duration Fund - Direct Plan - Weekly IDCW",
+        "scheme_name": "Invesco India Ultra Short Term Fund - Direct Plan - Weekly IDCW",
         "isin_growth": "INF205KA1BS5",
         "isin_div_reinvestment": "INF205KA1BT3"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "1147.12450"
+        },
         {
             "date": "25-08-2026",
             "nav": "1146.57550"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "LIC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short Term Fund",
         "scheme_code": 147770,
-        "scheme_name": "LIC MF Ultra Short Duration Fund - Regular Plan - Growth",
+        "scheme_name": "LIC MF Ultra Short Term Fund - Regular Plan - Growth",
         "isin_growth": "INF767K01QO1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "1410.75940"
+        },
         {
             "date": "25-08-2026",
             "nav": "1410.19990"

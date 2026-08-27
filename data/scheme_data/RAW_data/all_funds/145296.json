@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Floating Interest Rates Fund",
         "scheme_code": 145296,
-        "scheme_name": "UTI - Floater Fund - Direct Plan - Half yearly IDCW",
+        "scheme_name": "UTI Floating Interest Rates Fund - Direct Plan - Half yearly IDCW",
         "isin_growth": "INF789F1ADC7",
         "isin_div_reinvestment": "INF789F1ADD5"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "1531.14930"
+        },
         {
             "date": "25-08-2026",
             "nav": "1531.18360"

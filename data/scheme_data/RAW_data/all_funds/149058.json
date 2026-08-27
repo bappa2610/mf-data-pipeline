@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Kotak Mahindra Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Overseas",
+        "scheme_category": "Overseas Fund of Funds - Fund of Funds investing overseas",
         "scheme_code": 149058,
-        "scheme_name": "Kotak Global Innovation Overseas Equity Omni FOF - Regular Plan - IDCW Option",
+        "scheme_name": "Kotak Global Innovation Overseas Equity Active FOF - Regular Plan - IDCW Option",
         "isin_growth": "INF174KA1HE9",
         "isin_div_reinvestment": "INF174KA1HF6"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "15.24330"
+        },
         {
             "date": "25-08-2026",
             "nav": "15.20730"

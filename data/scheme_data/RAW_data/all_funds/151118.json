@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Ultra Short to Short Term Fund",
         "scheme_code": 151118,
-        "scheme_name": "HSBC Low Duration Fund - Direct Plan - Annual IDCW",
+        "scheme_name": "HSBC Ultra Short to Short Term Fund - Direct Plan - Annual IDCW",
         "isin_growth": "INF917K01VV7",
         "isin_div_reinvestment": "INF917K01VU9"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "10.59860"
+        },
         {
             "date": "25-08-2026",
             "nav": "10.59580"

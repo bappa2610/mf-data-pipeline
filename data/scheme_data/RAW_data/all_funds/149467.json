@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Index Funds",
+        "scheme_category": "Index Funds - Equity Funds",
         "scheme_code": 149467,
         "scheme_name": "Axis Nifty Next 50 Index Fund - Regular Plan - Growth Option",
         "isin_growth": "INF846K012F9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "17.90210"
+        },
         {
             "date": "26-08-2026",
             "nav": "17.93550"

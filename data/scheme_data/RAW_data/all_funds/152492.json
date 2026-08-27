@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Kotak Mahindra Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Long Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Long Term Fund",
         "scheme_code": 152492,
-        "scheme_name": "Kotak Long Duration Fund - Direct Plan - IDCW",
+        "scheme_name": "Kotak Long Term Fund - Direct Plan - IDCW",
         "isin_growth": "INF174KA1RG3",
         "isin_div_reinvestment": "INF174KA1RH1"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "11.27650"
+        },
         {
             "date": "25-08-2026",
             "nav": "11.30350"

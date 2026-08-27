@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mahindra Manulife Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Short Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 148727,
-        "scheme_name": "Mahindra Manulife Short Duration Fund - Regular Plan - Growth",
+        "scheme_name": "Mahindra Manulife Short Term Fund - Regular Plan - Growth",
         "isin_growth": "INF174V01AJ1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "13.53630"
+        },
         {
             "date": "25-08-2026",
             "nav": "13.53920"

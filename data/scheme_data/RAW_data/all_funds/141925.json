@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Flexi Cap Fund",
+        "scheme_category": "Equity Schemes - Flexi Cap Fund",
         "scheme_code": 141925,
         "scheme_name": "Axis Flexi Cap Fund - Direct Plan - Growth Option",
         "isin_growth": "INF846K01B28",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "32.14000"
+        },
         {
             "date": "26-08-2026",
             "nav": "32.03000"

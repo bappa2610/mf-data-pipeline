@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "JM Financial Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Low Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short to Short Term Fund",
         "scheme_code": 143608,
-        "scheme_name": "JM Low Duration Fund - Regular Plan - Weekly IDCW Option",
+        "scheme_name": "JM Ultra Short to Short Term Fund - Regular Plan - Weekly IDCW Option",
         "isin_growth": null,
         "isin_div_reinvestment": "INF192K01AW9"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "11.41240"
+        },
         {
             "date": "25-08-2026",
             "nav": "11.41000"

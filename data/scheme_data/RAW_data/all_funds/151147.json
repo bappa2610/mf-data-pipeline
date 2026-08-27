@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Medium Term Fund",
         "scheme_code": 151147,
-        "scheme_name": "HSBC Medium Duration Fund - Regular Plan - IDCW",
+        "scheme_name": "HSBC Medium Term Fund - Regular Plan - IDCW",
         "isin_growth": "INF917K01TJ6",
         "isin_div_reinvestment": "INF917K01TI8"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "10.54010"
+        },
         {
             "date": "25-08-2026",
             "nav": "10.61190"

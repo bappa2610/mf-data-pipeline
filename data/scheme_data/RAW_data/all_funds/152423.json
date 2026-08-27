@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Index Funds",
+        "scheme_category": "Index Funds - Equity Funds",
         "scheme_code": 152423,
         "scheme_name": "Axis BSE Sensex Index Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF846K010V0",
         "isin_div_reinvestment": "INF846K011V8"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "10.68250"
+        },
         {
             "date": "26-08-2026",
             "nav": "10.75760"

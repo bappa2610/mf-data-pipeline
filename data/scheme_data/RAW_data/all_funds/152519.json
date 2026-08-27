@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Bandhan Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Long Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Long Term Fund",
         "scheme_code": 152519,
-        "scheme_name": "BANDHAN LONG DURATION FUND - Direct Plan - IDCW",
+        "scheme_name": "BANDHAN LONG TERM FUND - Direct Plan - IDCW",
         "isin_growth": "INF194KB1HZ9",
         "isin_div_reinvestment": "INF194KB1IA0"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "10.57200"
+        },
         {
             "date": "25-08-2026",
             "nav": "10.58510"

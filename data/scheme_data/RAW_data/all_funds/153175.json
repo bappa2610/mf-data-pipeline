@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Index Funds",
+        "scheme_category": "Index Funds - Debt Funds",
         "scheme_code": 153175,
         "scheme_name": "Axis CRISIL-IBX AAA Bond NBFC-HFC - Jun 2027 Index Fund - Regular Plan - IDCW option",
         "isin_growth": "INF846K017Z6",
         "isin_div_reinvestment": "INF846K019Z2"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "11.26520"
+        },
         {
             "date": "25-08-2026",
             "nav": "11.26140"

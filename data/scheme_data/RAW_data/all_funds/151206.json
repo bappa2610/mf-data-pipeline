@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Long Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Long Term Fund",
         "scheme_code": 151206,
-        "scheme_name": "Axis Long Duration Fund - Regular Plan - Annual IDCW Option",
+        "scheme_name": "Axis Long Term Fund - Regular Plan - Annual IDCW Option",
         "isin_growth": "INF846K016M6",
         "isin_div_reinvestment": "INF846K018M2"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "1240.04560"
+        },
         {
             "date": "25-08-2026",
             "nav": "1240.89790"

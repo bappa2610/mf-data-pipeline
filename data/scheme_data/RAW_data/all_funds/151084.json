@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Dynamic Term Fund",
         "scheme_code": 151084,
-        "scheme_name": "HSBC Dynamic Bond Fund - Regular Plan - Growth",
+        "scheme_name": "HSBC Dynamic Term Fund - Regular Plan - Growth",
         "isin_growth": "INF677K01916",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "30.73500"
+        },
         {
             "date": "25-08-2026",
             "nav": "30.77320"

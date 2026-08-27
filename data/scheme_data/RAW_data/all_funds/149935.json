@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Index Funds",
+        "scheme_category": "Index Funds - Equity Funds",
         "scheme_code": 149935,
         "scheme_name": "Axis Nifty Midcap 50 Index Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF846K010I7",
         "isin_div_reinvestment": "INF846K011I5"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "22.34330"
+        },
         {
             "date": "26-08-2026",
             "nav": "22.36640"

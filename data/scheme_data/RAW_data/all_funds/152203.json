@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 152203,
         "scheme_name": "Axis India Manufacturing Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF846K014S8",
         "isin_div_reinvestment": "INF846K015S5"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "16.43000"
+        },
         {
             "date": "26-08-2026",
             "nav": "16.35000"

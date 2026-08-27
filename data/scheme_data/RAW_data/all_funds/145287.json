@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Floating Interest Rates Fund",
         "scheme_code": 145287,
-        "scheme_name": "UTI - Floater Fund - Regular Plan - Growth",
+        "scheme_name": "UTI Floating Interest Rates Fund - Regular Plan - Growth",
         "isin_growth": "INF789F1ACO4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "1597.41720"
+        },
         {
             "date": "25-08-2026",
             "nav": "1597.48910"

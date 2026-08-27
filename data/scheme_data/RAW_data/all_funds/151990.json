@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "LIC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Medium to Long Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Medium to Long Term Fund",
         "scheme_code": 151990,
-        "scheme_name": "LIC MF Medium to Long Duration Fund - Direct Plan - Annual IDCW",
+        "scheme_name": "LIC MF Medium to Long Term Fund - Direct Plan - Annual IDCW",
         "isin_growth": "INF397L01GD9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "19.86770"
+        },
         {
             "date": "25-08-2026",
             "nav": "19.87820"

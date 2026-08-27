@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Medium Term Fund",
         "scheme_code": 149010,
-        "scheme_name": "Invesco India Medium Duration Fund - Regular Plan - Discretionary IDCW",
+        "scheme_name": "Invesco India Medium Term Fund - Regular Plan - Discretionary IDCW",
         "isin_growth": "INF205KA1361",
         "isin_div_reinvestment": "INF205KA1395"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "1303.62430"
+        },
         {
             "date": "25-08-2026",
             "nav": "1304.11390"

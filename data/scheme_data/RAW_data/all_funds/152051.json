@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Shriram Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
+        "scheme_category": "Hybrid Schemes - Multi Asset Allocation Fund",
         "scheme_code": 152051,
         "scheme_name": "Shriram Multi Asset Allocation Fund - Direct Plan - Growth",
         "isin_growth": "INF680P01406",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "14.07940"
+        },
         {
             "date": "26-08-2026",
             "nav": "14.16070"

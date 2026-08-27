@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 148995,
         "scheme_name": "Axis Quant Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF846K012A0",
         "isin_div_reinvestment": "INF846K013A8"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "14.96000"
+        },
         {
             "date": "26-08-2026",
             "nav": "15.04000"

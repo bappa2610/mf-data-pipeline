@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)",
         "scheme_code": 149845,
         "scheme_name": "Axis Multi Factor Passive FoF - Regular Plan - IDCW Option",
         "isin_growth": "INF846K015G0",
         "isin_div_reinvestment": "INF846K016G8"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "15.59290"
+        },
         {
             "date": "26-08-2026",
             "nav": "15.67420"

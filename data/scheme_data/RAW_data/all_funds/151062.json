@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 151062,
-        "scheme_name": "HSBC Short Duration Fund",
+        "scheme_name": "HSBC Short Term Fund",
         "isin_growth": "INF917K01CM6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "28.11540"
+        },
         {
             "date": "25-08-2026",
             "nav": "28.12230"

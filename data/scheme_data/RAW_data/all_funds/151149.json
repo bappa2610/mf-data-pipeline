@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Medium Term Fund",
         "scheme_code": 151149,
-        "scheme_name": "HSBC Medium Duration Fund - Regular Plan - Growth",
+        "scheme_name": "HSBC Medium Term Fund - Regular Plan - Growth",
         "isin_growth": "INF917K01TH0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "21.71500"
+        },
         {
             "date": "25-08-2026",
             "nav": "21.72920"

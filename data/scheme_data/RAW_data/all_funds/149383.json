@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Multi Cap Fund",
+        "scheme_category": "Equity Schemes - Multi Cap Fund",
         "scheme_code": 149383,
         "scheme_name": "Axis Multicap Fund - Direct Plan - Growth Option",
         "isin_growth": "INF846K013E0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "21.16000"
+        },
         {
             "date": "26-08-2026",
             "nav": "21.11000"

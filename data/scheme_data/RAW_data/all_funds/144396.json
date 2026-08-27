@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
+        "scheme_category": "Hybrid Schemes - Aggressive Hybrid Fund",
         "scheme_code": 144396,
         "scheme_name": "Axis Aggressive Hybrid Fund - Regular Plan - Regular IDCW",
         "isin_growth": "INF846K01E74",
         "isin_div_reinvestment": "INF846K01E82"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "14.09000"
+        },
         {
             "date": "26-08-2026",
             "nav": "14.12000"

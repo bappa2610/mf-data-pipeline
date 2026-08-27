@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HDFC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Long Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Long Term Fund",
         "scheme_code": 151311,
-        "scheme_name": "HDFC Long Duration Debt Fund - Regular Plan - IDCW Option",
+        "scheme_name": "HDFC Long Term Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF179KC1EX9",
         "isin_div_reinvestment": "INF179KC1EY7"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "10.74710"
+        },
         {
             "date": "25-08-2026",
             "nav": "10.75100"

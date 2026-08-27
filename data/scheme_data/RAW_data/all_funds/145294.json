@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Floating Interest Rates Fund",
         "scheme_code": 145294,
-        "scheme_name": "UTI - Floater Fund - Regular Plan - Quarterly IDCW",
+        "scheme_name": "UTI Floating Interest Rates Fund - Regular Plan - Quarterly IDCW",
         "isin_growth": "INF789F1ACP1",
         "isin_div_reinvestment": "INF789F1ACQ9"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "1293.99660"
+        },
         {
             "date": "25-08-2026",
             "nav": "1294.05490"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Bandhan Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Floater Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Floating Interest Rates Fund",
         "scheme_code": 148717,
-        "scheme_name": "BANDHAN FLOATER FUND - Direct Plan - Annual IDCW",
+        "scheme_name": "BANDHAN FLOATING INTEREST RATES FUND - Direct Plan - Annual IDCW",
         "isin_growth": "INF194KB1BJ6",
         "isin_div_reinvestment": "INF194KB1BK4"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "10.50470"
+        },
         {
             "date": "25-08-2026",
             "nav": "10.50760"

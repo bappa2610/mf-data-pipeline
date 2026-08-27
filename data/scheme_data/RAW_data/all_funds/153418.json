@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Edelweiss Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Low Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short to Short Term Fund",
         "scheme_code": 153418,
-        "scheme_name": "Edelweiss Low Duration Fund - Direct Plan - IDCW Payout",
+        "scheme_name": "Edelweiss Ultra Short to Short Term Fund - Direct Plan - IDCW Payout",
         "isin_growth": "INF754K01UQ6",
         "isin_div_reinvestment": "INF754K01UR4"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "1036.76130"
+        },
         {
             "date": "25-08-2026",
             "nav": "1036.49920"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 153623,
         "scheme_name": "Axis Services Opportunities Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF846KA1143",
         "isin_div_reinvestment": "INF846KA1150"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "9.98000"
+        },
         {
             "date": "26-08-2026",
             "nav": "10.00000"

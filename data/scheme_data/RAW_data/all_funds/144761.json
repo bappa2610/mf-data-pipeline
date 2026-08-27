@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short Term Fund",
         "scheme_code": 144761,
-        "scheme_name": "Axis Ultra Short Duration Fund - Regular Plan - Regular IDCW Option",
+        "scheme_name": "Axis Ultra Short Term Fund - Regular Plan - Regular IDCW Option",
         "isin_growth": "INF846K01G98",
         "isin_div_reinvestment": "INF846K01G80"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "15.74120"
+        },
         {
             "date": "25-08-2026",
             "nav": "15.73430"

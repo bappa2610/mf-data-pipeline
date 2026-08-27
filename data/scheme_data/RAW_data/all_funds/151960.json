@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "LIC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Short Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 151960,
-        "scheme_name": "LIC MF Short Duration Fund - Direct Plan - Weekly IDCW",
+        "scheme_name": "LIC MF Short Term Fund - Direct Plan - Weekly IDCW",
         "isin_growth": "INF397L01BK5",
         "isin_div_reinvestment": "INF397L01BL3"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "16.63420"
+        },
         {
             "date": "25-08-2026",
             "nav": "16.64070"

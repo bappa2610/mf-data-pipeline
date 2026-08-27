@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "SBI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Floater Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Floating Interest Rates Fund",
         "scheme_code": 148543,
-        "scheme_name": "SBI Floating Rate Debt Fund - Regular Plan - Growth",
+        "scheme_name": "SBI Floating Interest Rates Fund - Regular Plan - Growth",
         "isin_growth": "INF200KA1R15",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "14.30980"
+        },
         {
             "date": "25-08-2026",
             "nav": "14.31120"

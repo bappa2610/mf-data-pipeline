@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Floater Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Floating Interest Rates Fund",
         "scheme_code": 149055,
-        "scheme_name": "Axis Floater Fund - Direct Plan - Annual IDCW Option",
+        "scheme_name": "Axis Floating Interest Rates Fund - Direct Plan - Annual IDCW Option",
         "isin_growth": "INF846K016A1",
         "isin_div_reinvestment": "INF846K015A3"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "1388.34290"
+        },
         {
             "date": "25-08-2026",
             "nav": "1388.48950"

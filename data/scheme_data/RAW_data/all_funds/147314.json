@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "WhiteOak Capital Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short Term Fund",
         "scheme_code": 147314,
-        "scheme_name": "WhiteOak Capital Ultra Short Duration Fund - Regular Plan - Monthly IDCW Payout / Reinvestment Option",
+        "scheme_name": "WhiteOak Capital Ultra Short Term Fund - Regular Plan - Monthly IDCW Payout / Reinvestment Option",
         "isin_growth": "INF03VN01290",
         "isin_div_reinvestment": "INF03VN01308"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "1005.75640"
+        },
         {
             "date": "25-08-2026",
             "nav": "1005.36020"

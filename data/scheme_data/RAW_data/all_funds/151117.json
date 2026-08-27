@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Ultra Short to Short Term Fund",
         "scheme_code": 151117,
-        "scheme_name": "HSBC Low Duration Fund - Direct Plan - Growth",
+        "scheme_name": "HSBC Ultra Short to Short Term Fund - Direct Plan - Growth",
         "isin_growth": "INF917K01GM7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "32.56950"
+        },
         {
             "date": "25-08-2026",
             "nav": "32.56100"

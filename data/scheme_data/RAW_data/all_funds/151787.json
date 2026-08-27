@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Index Funds",
+        "scheme_category": "Index Funds - Equity Funds",
         "scheme_code": 151787,
         "scheme_name": "Axis Nifty IT Index Fund - Regular Plan - Growth Option",
         "isin_growth": "INF846K010S6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "10.40590"
+        },
         {
             "date": "26-08-2026",
             "nav": "10.43980"

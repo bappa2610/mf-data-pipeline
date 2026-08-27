@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Index Funds",
+        "scheme_category": "Index Funds - Debt Funds",
         "scheme_code": 153882,
         "scheme_name": "Axis CRISIL-IBX Financial Services 3-6 Months Debt Index Fund - Direct Plan - IDCW option",
         "isin_growth": "INF846KA1242",
         "isin_div_reinvestment": "INF846KA1267"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "10.63220"
+        },
         {
             "date": "25-08-2026",
             "nav": "10.62740"

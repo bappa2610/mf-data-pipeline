@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Multi Cap Fund",
+        "scheme_category": "Equity Schemes - Multi Cap Fund",
         "scheme_code": 149387,
         "scheme_name": "Axis Multicap Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF846K017E1",
         "isin_div_reinvestment": "INF846K018E9"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "18.99000"
+        },
         {
             "date": "26-08-2026",
             "nav": "18.94000"

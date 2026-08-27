@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 154079,
-        "scheme_name": "JioBlackRock Short Duration Fund - Direct Plan - Growth Option",
+        "scheme_name": "JioBlackRock Short Term Fund - Direct Plan - Growth Option",
         "isin_growth": "INF22M001143",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "1037.39650"
+        },
         {
             "date": "25-08-2026",
             "nav": "1037.22110"

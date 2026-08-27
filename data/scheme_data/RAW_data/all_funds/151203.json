@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Long Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Long Term Fund",
         "scheme_code": 151203,
-        "scheme_name": "Axis Long Duration Fund - Regular Plan - Quarterly IDCW Option",
+        "scheme_name": "Axis Long Term Fund - Regular Plan - Quarterly IDCW Option",
         "isin_growth": "INF846K012M5",
         "isin_div_reinvestment": "INF846K014M1"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "1212.94150"
+        },
         {
             "date": "25-08-2026",
             "nav": "1213.77570"

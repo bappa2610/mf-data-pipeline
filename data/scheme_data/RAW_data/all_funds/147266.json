@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Kotak Mahindra Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Floater Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Floating Interest Rates Fund",
         "scheme_code": 147266,
-        "scheme_name": "KOTAK FLOATING RATE FUND - Regular Plan - GROWTH OPTION",
+        "scheme_name": "Kotak Floating Interest Rates Fund - Regular Plan - GROWTH OPTION",
         "isin_growth": "INF174KA1DY6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "1617.11840"
+        },
         {
             "date": "25-08-2026",
             "nav": "1617.24780"

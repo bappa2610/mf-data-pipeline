@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Overnight Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Overnight Fund",
         "scheme_code": 146681,
         "scheme_name": "Axis Overnight Fund - Regular Plan - Monthly IDCW Option",
         "isin_growth": "INF846K01O31",
         "isin_div_reinvestment": "INF846K01O49"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "1001.11150"
+        },
         {
             "date": "26-08-2026",
             "nav": "1000.97660"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Canara Robeco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Banking and PSU Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Banking and PSU Debt Fund",
         "scheme_code": 150504,
         "scheme_name": "Canara Robeco Banking and PSU Debt Fund - Regular Plan - IDCW (Payout/ Reinvestment)",
         "isin_growth": "INF760K01KH3",
         "isin_div_reinvestment": "INF760K01KG5"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "10.68490"
+        },
         {
             "date": "25-08-2026",
             "nav": "10.68790"

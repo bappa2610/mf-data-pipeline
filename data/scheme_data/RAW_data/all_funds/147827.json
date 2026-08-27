@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Solution Oriented Scheme - Retirement Fund",
+        "scheme_category": "Solution Oriented Schemes ** - Retirement Fund",
         "scheme_code": 147827,
         "scheme_name": "Axis Retirement Fund - Dynamic Plan - Direct Plan - IDCW Option",
         "isin_growth": "INF846K01T36",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "20.04000"
+        },
         {
             "date": "26-08-2026",
             "nav": "20.06000"

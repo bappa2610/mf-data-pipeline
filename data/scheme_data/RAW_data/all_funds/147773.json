@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "LIC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short Term Fund",
         "scheme_code": 147773,
-        "scheme_name": "LIC MF Ultra Short Duration Fund - Direct Plan - Monthly IDCW",
+        "scheme_name": "LIC MF Ultra Short Term Fund - Direct Plan - Monthly IDCW",
         "isin_growth": "INF767K01QT0",
         "isin_div_reinvestment": "INF767K01QS2"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "1455.10120"
+        },
         {
             "date": "25-08-2026",
             "nav": "1454.53380"

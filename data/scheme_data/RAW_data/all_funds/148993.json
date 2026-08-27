@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 148993,
         "scheme_name": "Axis Quant Fund - Direct Plan - Growth Option",
         "isin_growth": "INF846K01Z87",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "17.60000"
+        },
         {
             "date": "26-08-2026",
             "nav": "17.69000"

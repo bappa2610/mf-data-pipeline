@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Bajaj Finserv Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Low Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short to Short Term Fund",
         "scheme_code": 154202,
-        "scheme_name": "Bajaj Finserv Low Duration Fund - Direct Plan - IDCW",
+        "scheme_name": "Bajaj Finserv Ultra Short to Short Term Fund - Direct Plan - IDCW",
         "isin_growth": "INF0QA701CG4",
         "isin_div_reinvestment": "INF0QA701CH2"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "1033.16530"
+        },
         {
             "date": "25-08-2026",
             "nav": "1033.03290"

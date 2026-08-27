@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Long Term Fund",
         "scheme_code": 151532,
-        "scheme_name": "UTI Long Duration Fund - Regular Plan - Flexi IDCW",
+        "scheme_name": "UTI Long Term Fund - Regular Plan - Flexi IDCW",
         "isin_growth": "INF789F1AXZ6",
         "isin_div_reinvestment": "INF789F1AYA7"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "11.97420"
+        },
         {
             "date": "25-08-2026",
             "nav": "11.99750"

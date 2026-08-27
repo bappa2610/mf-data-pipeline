@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Medium Term Fund",
         "scheme_code": 149014,
-        "scheme_name": "Invesco India Medium Duration Fund - Direct Plan - Quarterly IDCW",
+        "scheme_name": "Invesco India Medium Term Fund - Direct Plan - Quarterly IDCW",
         "isin_growth": "INF205KA1403",
         "isin_div_reinvestment": "INF205KA1437"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "1047.37670"
+        },
         {
             "date": "25-08-2026",
             "nav": "1047.72310"

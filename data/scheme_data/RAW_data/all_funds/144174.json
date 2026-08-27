@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Bandhan Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short Term Fund",
         "scheme_code": 144174,
-        "scheme_name": "BANDHAN ULTRA SHORT DURATION FUND - Direct Plan - Daily IDCW",
+        "scheme_name": "BANDHAN ULTRA SHORT TERM FUND - Direct Plan - Daily IDCW",
         "isin_growth": "INF194KA18R9",
         "isin_div_reinvestment": "INF194KA19R7"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "10.03670"
+        },
         {
             "date": "25-08-2026",
             "nav": "10.03670"

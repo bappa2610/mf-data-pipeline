@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - 10-year Constant Maturity Gilt Fund",
         "scheme_code": 150410,
-        "scheme_name": "UTI Gilt Fund with 10 year Constant Duration - Direct Plan - Growth",
+        "scheme_name": "UTI 10 year Constant Maturity Gilt Fund - Direct Plan - Growth",
         "isin_growth": "INF789F1AVR7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "13.41300"
+        },
         {
             "date": "25-08-2026",
             "nav": "13.43520"

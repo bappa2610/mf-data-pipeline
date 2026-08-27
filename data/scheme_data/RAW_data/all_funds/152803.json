@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 152803,
         "scheme_name": "Axis Consumption Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF846K014X8",
         "isin_div_reinvestment": "INF846K015X5"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "9.66000"
+        },
         {
             "date": "26-08-2026",
             "nav": "9.70000"

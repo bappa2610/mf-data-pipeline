@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Value Fund",
+        "scheme_category": "Equity Schemes - Value Fund",
         "scheme_code": 149168,
         "scheme_name": "Axis Value Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF846K011C8",
         "isin_div_reinvestment": "INF846K012C6"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "18.39000"
+        },
         {
             "date": "26-08-2026",
             "nav": "18.38000"

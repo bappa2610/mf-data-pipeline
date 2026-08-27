@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Bajaj Finserv Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Banking and PSU Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Banking and PSU Debt Fund",
         "scheme_code": 152164,
-        "scheme_name": "Bajaj Finserv Banking and PSU Fund - Direct Plan - Monthly IDCW",
+        "scheme_name": "Bajaj Finserv Banking and PSU Debt Fund - Direct Plan - Monthly IDCW",
         "isin_growth": "INF0QA701649",
         "isin_div_reinvestment": "INF0QA701631"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "10.94740"
+        },
         {
             "date": "25-08-2026",
             "nav": "10.95000"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Money Market Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Money Market Fund",
         "scheme_code": 147577,
         "scheme_name": "Axis Money Market Fund - Regular Plan - Daily IDCW Option",
         "isin_growth": null,
         "isin_div_reinvestment": "INF846K01R53"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "1005.61270"
+        },
         {
             "date": "25-08-2026",
             "nav": "1005.61270"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mahindra Manulife Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Dynamic Bond",
+        "scheme_category": "Income/Debt Oriented Schemes - Dynamic Term Fund",
         "scheme_code": 144405,
-        "scheme_name": "Mahindra Manulife Dynamic Bond Fund - Regular Plan - IDCW Discretionary",
+        "scheme_name": "Mahindra Manulife Dynamic Term Fund - Regular Plan - IDCW Discretionary",
         "isin_growth": "INF174V01556",
         "isin_div_reinvestment": "INF174V01549"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "11.62830"
+        },
         {
             "date": "25-08-2026",
             "nav": "11.63990"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "SBI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Floater Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Floating Interest Rates Fund",
         "scheme_code": 148551,
-        "scheme_name": "SBI Floating Rate Debt Fund - Direct Plan - IDCW",
+        "scheme_name": "SBI Floating Interest Rates Fund - Direct Plan - IDCW",
         "isin_growth": "INF200KA1R72",
         "isin_div_reinvestment": "INF200KA1R80"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "14.46560"
+        },
         {
             "date": "25-08-2026",
             "nav": "14.46690"

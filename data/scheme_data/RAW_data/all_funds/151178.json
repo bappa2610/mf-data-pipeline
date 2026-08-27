@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Long Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Long Term Fund",
         "scheme_code": 151178,
-        "scheme_name": "Axis Long Duration Fund - Regular Plan - Growth Option",
+        "scheme_name": "Axis Long Term Fund - Regular Plan - Growth Option",
         "isin_growth": "INF846K015L0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "1251.23980"
+        },
         {
             "date": "25-08-2026",
             "nav": "1252.10000"
