@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Nippon India Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
+        "scheme_category": "Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation",
         "scheme_code": 102846,
         "scheme_name": "Nippon India Balanced Advantage Fund - Regular Plan - Growth Option",
         "isin_growth": "INF204K01604",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "185.42240"
+        },
         {
             "date": "25-08-2026",
             "nav": "185.80300"

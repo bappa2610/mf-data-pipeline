@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation",
         "scheme_code": 145397,
-        "scheme_name": "Baroda BNP Paribas Dynamic Asset Allocation Fund - Direct Plan - IDCW Option",
+        "scheme_name": "Baroda BNP Paribas Balanced Advantage Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF955L01HG5",
         "isin_div_reinvestment": "INF955L01HH3"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "18.04240"
+        },
         {
             "date": "25-08-2026",
             "nav": "18.07600"

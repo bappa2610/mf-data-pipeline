@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation",
         "scheme_code": 145396,
-        "scheme_name": "Baroda BNP Paribas Dynamic Asset Allocation Fund - Direct Plan - Growth Option",
+        "scheme_name": "Baroda BNP Paribas Balanced Advantage Fund - Direct Plan - Growth Option",
         "isin_growth": "INF955L01HF7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "29.08950"
+        },
         {
             "date": "25-08-2026",
             "nav": "29.14370"

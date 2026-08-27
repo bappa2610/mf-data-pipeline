@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Canara Robeco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Large Cap Fund",
+        "scheme_category": "Equity Schemes - Large Cap Fund",
         "scheme_code": 118269,
         "scheme_name": "Canara Robeco Large Cap Fund - Direct Plan - GROWTH OPTION",
         "isin_growth": "INF760K01FR2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "73.10000"
+        },
         {
             "date": "25-08-2026",
             "nav": "73.44000"

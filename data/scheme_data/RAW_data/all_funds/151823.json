@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Canara Robeco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Multi Cap Fund",
+        "scheme_category": "Equity Schemes - Multi Cap Fund",
         "scheme_code": 151823,
         "scheme_name": "Canara Robeco Multi Cap Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF760K01KT8",
         "isin_div_reinvestment": "INF760K01KS0"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "13.63000"
+        },
         {
             "date": "25-08-2026",
             "nav": "13.66000"

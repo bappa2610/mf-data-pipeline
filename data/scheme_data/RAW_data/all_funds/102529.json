@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "ICICI Prudential Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Mid Cap Fund",
+        "scheme_category": "Equity Schemes - Mid Cap Fund",
         "scheme_code": 102529,
-        "scheme_name": "ICICI Prudential MidCap Fund - Regular Plan - IDCW",
+        "scheme_name": "ICICI Prudential Mid Cap Fund - Regular Plan - IDCW",
         "isin_growth": "INF109K01EH6",
         "isin_div_reinvestment": "INF109K01AL6"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "45.77000"
+        },
         {
             "date": "25-08-2026",
             "nav": "45.50000"

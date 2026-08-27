@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "LIC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - ELSS",
+        "scheme_category": "Equity Schemes - ELSS- Tax Saver Fund",
         "scheme_code": 100865,
-        "scheme_name": "LIC MF ELSS Tax Saver - Regular Plan - Growth",
+        "scheme_name": "LIC MF ELSS Tax Saver Fund - Regular Plan - Growth",
         "isin_growth": "INF767K01956",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "149.39610"
+        },
         {
             "date": "25-08-2026",
             "nav": "149.39200"

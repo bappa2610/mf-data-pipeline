@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "SBI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
+        "scheme_category": "Hybrid Schemes - Aggressive Hybrid Fund",
         "scheme_code": 119604,
-        "scheme_name": "SBI EQUITY HYBRID FUND - Direct Plan - IDCW",
+        "scheme_name": "SBI AGGRESSIVE HYBRID FUND - Direct Plan - IDCW",
         "isin_growth": "INF200K01RW4",
         "isin_div_reinvestment": "INF200K01RX2"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "104.27220"
+        },
         {
             "date": "25-08-2026",
             "nav": "104.37030"

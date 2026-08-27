@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "SBI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Arbitrage Fund",
+        "scheme_category": "Hybrid Schemes - Arbitrage Fund",
         "scheme_code": 119574,
-        "scheme_name": "SBI ARBITRAGE OPPORTUNITIES FUND - Direct Plan - Growth",
+        "scheme_name": "SBI Arbitrage Fund - Direct Plan - Growth",
         "isin_growth": "INF200K01QU0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "38.55320"
+        },
         {
             "date": "25-08-2026",
             "nav": "38.66320"

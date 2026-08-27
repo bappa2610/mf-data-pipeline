@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mahindra Manulife Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 152670,
         "scheme_name": "Mahindra Manulife Manufacturing Fund - Direct Plan - IDCW",
         "isin_growth": "INF174V01CD0",
         "isin_div_reinvestment": "INF174V01CE8"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "11.25350"
+        },
         {
             "date": "25-08-2026",
             "nav": "11.24590"

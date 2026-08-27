@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "JM Financial Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Arbitrage Fund",
+        "scheme_category": "Hybrid Schemes - Arbitrage Fund",
         "scheme_code": 130603,
         "scheme_name": "JM Arbitrage Fund - Regular Plan - Bonus Option - Principal Units",
         "isin_growth": "INF192K01GJ3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "18.81600"
+        },
         {
             "date": "25-08-2026",
             "nav": "18.87070"

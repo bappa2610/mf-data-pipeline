@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mahindra Manulife Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Mid Cap Fund",
+        "scheme_category": "Equity Schemes - Mid Cap Fund",
         "scheme_code": 142109,
         "scheme_name": "Mahindra Manulife Mid Cap Fund - Regular Plan - Growth",
         "isin_growth": "INF174V01473",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "37.33230"
+        },
         {
             "date": "25-08-2026",
             "nav": "37.24630"

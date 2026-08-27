@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Canara Robeco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Large Cap Fund",
+        "scheme_category": "Equity Schemes - Large Cap Fund",
         "scheme_code": 118270,
         "scheme_name": "Canara Robeco Large Cap Fund - Direct Plan - IDCW (Payout/Reinvestment)",
         "isin_growth": "INF760K01FP6",
         "isin_div_reinvestment": "INF760K01FQ4"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "53.28000"
+        },
         {
             "date": "25-08-2026",
             "nav": "53.53000"

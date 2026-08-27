@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "JM Financial Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Flexi Cap Fund",
+        "scheme_category": "Equity Schemes - Flexi Cap Fund",
         "scheme_code": 109523,
-        "scheme_name": "JM Flexicap Fund - Regular Plan - IDCW Option",
+        "scheme_name": "JM Flexi Cap Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF192K01619",
         "isin_div_reinvestment": "INF192K01627"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "77.93950"
+        },
         {
             "date": "25-08-2026",
             "nav": "78.18060"

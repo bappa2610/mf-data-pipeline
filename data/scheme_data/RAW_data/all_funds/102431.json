@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Nippon India Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Sectoral Fund",
         "scheme_code": 102431,
         "scheme_name": "Nippon India Pharma Fund - Regular Plan - Growth Option",
         "isin_growth": "INF204K01968",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "575.71050"
+        },
         {
             "date": "25-08-2026",
             "nav": "573.09500"

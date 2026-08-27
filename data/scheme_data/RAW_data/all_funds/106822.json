@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "ICICI Prudential Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Small Cap Fund",
+        "scheme_category": "Equity Schemes - Small Cap Fund",
         "scheme_code": 106822,
-        "scheme_name": "ICICI Prudential Smallcap Fund - Regular Plan - IDCW",
+        "scheme_name": "ICICI Prudential Small Cap Fund - Regular Plan - IDCW",
         "isin_growth": "INF109K01FA8",
         "isin_div_reinvestment": "INF109K01BJ8"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "34.21000"
+        },
         {
             "date": "25-08-2026",
             "nav": "34.06000"

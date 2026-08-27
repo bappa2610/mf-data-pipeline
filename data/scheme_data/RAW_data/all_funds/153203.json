@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Bajaj Finserv Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - ELSS",
+        "scheme_category": "Equity Schemes - ELSS- Tax Saver Fund",
         "scheme_code": 153203,
-        "scheme_name": "Bajaj Finserv ELSS Tax Saver Fund - Direct Plan - IDCW",
+        "scheme_name": "Bajaj Finserv ELSS - Tax Saver Fund - Direct Plan - IDCW",
         "isin_growth": "INF0QA701AL8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "12.07500"
+        },
         {
             "date": "25-08-2026",
             "nav": "12.02500"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "JM Financial Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Large Cap Fund",
+        "scheme_category": "Equity Schemes - Large Cap Fund",
         "scheme_code": 134959,
         "scheme_name": "JM Large Cap Fund - Regular Plan - Monthly IDCW Option",
         "isin_growth": "INF192K01JH1",
         "isin_div_reinvestment": "INF192K01JI9"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "24.32990"
+        },
         {
             "date": "25-08-2026",
             "nav": "24.40900"

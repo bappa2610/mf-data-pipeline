@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "JM Financial Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Liquid Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
         "scheme_code": 100247,
         "scheme_name": "JM Liquid Fund - Regular Plan - Super Institutional Plan - Growth Option",
         "isin_growth": "INF192K01981",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "43.90230"
+        },
         {
             "date": "25-08-2026",
             "nav": "43.89500"

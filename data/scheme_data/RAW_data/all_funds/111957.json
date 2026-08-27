@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "ICICI Prudential Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Focused Fund",
+        "scheme_category": "Equity Schemes - Focused Fund",
         "scheme_code": 111957,
-        "scheme_name": "ICICI Prudential Focused Equity Fund - Regular Plan - Growth",
+        "scheme_name": "ICICI Prudential Focused Fund - Regular Plan - Growth",
         "isin_growth": "INF109K01BZ4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "96.50000"
+        },
         {
             "date": "25-08-2026",
             "nav": "96.62000"

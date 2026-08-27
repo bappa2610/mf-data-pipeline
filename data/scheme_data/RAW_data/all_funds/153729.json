@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Bank of India Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Mid Cap Fund",
+        "scheme_category": "Equity Schemes - Mid Cap Fund",
         "scheme_code": 153729,
-        "scheme_name": "Bank of India Mid Cap Fund - Direct Plan - IDCW",
+        "scheme_name": "BANK OF INDIA MID CAP FUND - Direct Plan - IDCW",
         "isin_growth": "INF761K01GZ1",
         "isin_div_reinvestment": "INF761K01HA2"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "10.77000"
+        },
         {
             "date": "25-08-2026",
             "nav": "10.74000"

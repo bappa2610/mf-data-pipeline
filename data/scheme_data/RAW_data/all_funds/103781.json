@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "JM Financial Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Arbitrage Fund",
+        "scheme_category": "Hybrid Schemes - Arbitrage Fund",
         "scheme_code": 103781,
         "scheme_name": "JM Arbitrage Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF192K01494",
         "isin_div_reinvestment": "INF192K01502"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "16.06410"
+        },
         {
             "date": "25-08-2026",
             "nav": "16.11080"

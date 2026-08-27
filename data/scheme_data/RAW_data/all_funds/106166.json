@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Canara Robeco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
+        "scheme_category": "Hybrid Schemes - Aggressive Hybrid Fund",
         "scheme_code": 106166,
-        "scheme_name": "Canara Robeco Equity Hybrid Fund - Regular Plan - GROWTH OPTION",
+        "scheme_name": "Canara Robeco Aggressive Hybrid Fund - Regular Plan - GROWTH OPTION",
         "isin_growth": "INF760K01050",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "372.22000"
+        },
         {
             "date": "25-08-2026",
             "nav": "373.28000"

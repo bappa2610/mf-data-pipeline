@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Canara Robeco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Sectoral Fund",
         "scheme_code": 154251,
         "scheme_name": "Canara Robeco Banking and Financial Services Fund - Direct Plan - IDCW",
         "isin_growth": "INF760K01LP4",
         "isin_div_reinvestment": "INF760K01LR0"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "11.25000"
+        },
         {
             "date": "25-08-2026",
             "nav": "11.21000"

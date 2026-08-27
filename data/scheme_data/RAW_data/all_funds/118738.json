@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Nippon India Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
+        "scheme_category": "Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation",
         "scheme_code": 118738,
         "scheme_name": "Nippon India Balanced Advantage Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF204K01G78",
         "isin_div_reinvestment": "INF204K01G86"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "46.35510"
+        },
         {
             "date": "25-08-2026",
             "nav": "46.44890"

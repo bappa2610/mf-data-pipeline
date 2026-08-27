@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Bank of India Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - ELSS",
+        "scheme_category": "Equity Schemes - ELSS- Tax Saver Fund",
         "scheme_code": 111708,
-        "scheme_name": "BANK OF INDIA ELSS TAX SAVER - Regular Plan - IDCW",
+        "scheme_name": "BANK OF INDIA ELSS TAX SAVER FUND - Regular Plan - IDCW",
         "isin_growth": "INF761K01165",
         "isin_div_reinvestment": "INF761K01173"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "32.09000"
+        },
         {
             "date": "25-08-2026",
             "nav": "32.16000"

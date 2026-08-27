@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Canara Robeco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 103390,
-        "scheme_name": "Canara Robeco Infrastructure - Regular Plan - GROWTH OPTION",
+        "scheme_name": "Canara Robeco Infrastructure Fund - Regular Plan - GROWTH OPTION",
         "isin_growth": "INF760K01274",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "168.71000"
+        },
         {
             "date": "25-08-2026",
             "nav": "169.85000"

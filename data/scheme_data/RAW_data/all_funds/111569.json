@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Bandhan Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - ELSS",
+        "scheme_category": "Equity Schemes - ELSS- Tax Saver Fund",
         "scheme_code": 111569,
-        "scheme_name": "BANDHAN ELSS Tax Saver Fund - Regular Plan - Growth",
+        "scheme_name": "BANDHAN ELSS - Tax Saver Fund - Regular Plan - Growth",
         "isin_growth": "INF194K01292",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "156.21400"
+        },
         {
             "date": "25-08-2026",
             "nav": "156.40500"

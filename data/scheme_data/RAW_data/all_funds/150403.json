@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Bandhan Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Mid Cap Fund",
+        "scheme_category": "Equity Schemes - Mid Cap Fund",
         "scheme_code": 150403,
-        "scheme_name": "BANDHAN MIDCAP FUND - Regular Plan - IDCW",
+        "scheme_name": "BANDHAN MID CAP FUND - Regular Plan - IDCW",
         "isin_growth": "INF194KB1DN4",
         "isin_div_reinvestment": "INF194KB1DO2"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "18.30200"
+        },
         {
             "date": "25-08-2026",
             "nav": "18.24900"

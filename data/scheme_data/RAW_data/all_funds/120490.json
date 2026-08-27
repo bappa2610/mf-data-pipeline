@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "JM Financial Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Large Cap Fund",
+        "scheme_category": "Equity Schemes - Large Cap Fund",
         "scheme_code": 120490,
         "scheme_name": "JM Large Cap Fund - Direct Plan - Growth Option",
         "isin_growth": "INF192K01BZ0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "182.21640"
+        },
         {
             "date": "25-08-2026",
             "nav": "182.80120"

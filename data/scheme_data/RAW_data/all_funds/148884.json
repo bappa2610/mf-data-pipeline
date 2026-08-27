@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Canara Robeco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Focused Fund",
+        "scheme_category": "Equity Schemes - Focused Fund",
         "scheme_code": 148884,
         "scheme_name": "Canara Robeco Focused Fund - Regular Plan - Growth Option",
         "isin_growth": "INF760K01JT0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "20.13000"
+        },
         {
             "date": "25-08-2026",
             "nav": "20.20000"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Canara Robeco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Overnight Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Overnight Fund",
         "scheme_code": 147531,
         "scheme_name": "Canara Robeco Overnight Fund - Direct Plan - GROWTH OPTION",
         "isin_growth": "INF760K01JM5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "1419.38250"
+        },
         {
             "date": "25-08-2026",
             "nav": "1419.19140"

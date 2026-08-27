@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "SBI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Arbitrage Fund",
+        "scheme_category": "Hybrid Schemes - Arbitrage Fund",
         "scheme_code": 104458,
-        "scheme_name": "SBI ARBITRAGE OPPORTUNITIES FUND - Regular Plan - IDCW",
+        "scheme_name": "SBI Arbitrage Fund - Regular Plan - IDCW",
         "isin_growth": "INF200K01131",
         "isin_div_reinvestment": "INF200K01149"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "18.95990"
+        },
         {
             "date": "25-08-2026",
             "nav": "19.01430"

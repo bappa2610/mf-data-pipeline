@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Edelweiss Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - ELSS",
+        "scheme_category": "Equity Schemes - ELSS- Tax Saver Fund",
         "scheme_code": 118619,
         "scheme_name": "Edelweiss ELSS Tax Saver Fund - Direct Plan - IDCW",
         "isin_growth": "INF754K01BX2",
         "isin_div_reinvestment": "INF754K01BY0"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "48.04000"
+        },
         {
             "date": "25-08-2026",
             "nav": "48.04000"

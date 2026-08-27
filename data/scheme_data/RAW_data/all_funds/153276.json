@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Nippon India Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 153276,
         "scheme_name": "Nippon India Active Momentum Fund - Regular Plan - Growth Option",
         "isin_growth": "INF204KC1EH1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "13.27820"
+        },
         {
             "date": "25-08-2026",
             "nav": "13.30160"

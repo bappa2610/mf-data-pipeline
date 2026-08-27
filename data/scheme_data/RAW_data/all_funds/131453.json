@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "ICICI Prudential Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
+        "scheme_category": "Hybrid Schemes - Aggressive Hybrid Fund",
         "scheme_code": 131453,
-        "scheme_name": "ICICI Prudential Equity & Debt Fund - Direct Plan - Half Yearly IDCW",
+        "scheme_name": "ICICI Prudential Aggressive Hybrid Fund - Direct Plan - Half Yearly IDCW",
         "isin_growth": "INF109KA1Y19",
         "isin_div_reinvestment": "INF109KA1Y01"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "29.58000"
+        },
         {
             "date": "25-08-2026",
             "nav": "29.64000"

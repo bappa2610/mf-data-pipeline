@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HDFC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - ELSS",
+        "scheme_category": "Equity Schemes - ELSS- Tax Saver Fund",
         "scheme_code": 119059,
-        "scheme_name": "HDFC ELSS Tax saver - Direct Plan - IDCW Option",
+        "scheme_name": "HDFC ELSS - Tax Saver Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF179K01YQ8",
         "isin_div_reinvestment": "INF179K01YR6"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "94.77300"
+        },
         {
             "date": "25-08-2026",
             "nav": "94.79100"

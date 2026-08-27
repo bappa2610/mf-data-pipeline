@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Nippon India Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Sectoral Fund",
         "scheme_code": 118762,
         "scheme_name": "Nippon India Power & Infra Fund - Direct Plan - Bonus Option",
         "isin_growth": "INF204K01I68",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "421.29060"
+        },
         {
             "date": "25-08-2026",
             "nav": "423.13170"

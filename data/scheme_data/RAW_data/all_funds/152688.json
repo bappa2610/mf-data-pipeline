@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Canara Robeco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
+        "scheme_category": "Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation",
         "scheme_code": 152688,
         "scheme_name": "Canara Robeco Balanced Advantage Fund - Direct Plan - Growth Option",
         "isin_growth": "INF760K01LD0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "10.66000"
+        },
         {
             "date": "25-08-2026",
             "nav": "10.69000"

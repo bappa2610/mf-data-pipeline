@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "SBI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
+        "scheme_category": "Hybrid Schemes - Aggressive Hybrid Fund",
         "scheme_code": 102885,
-        "scheme_name": "SBI EQUITY HYBRID FUND - Regular Plan - Growth",
+        "scheme_name": "SBI AGGRESSIVE HYBRID FUND - Regular Plan - Growth",
         "isin_growth": "INF200K01107",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "320.27780"
+        },
         {
             "date": "25-08-2026",
             "nav": "320.58520"

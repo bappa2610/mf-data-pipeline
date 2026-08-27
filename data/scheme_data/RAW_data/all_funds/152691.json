@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Canara Robeco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
+        "scheme_category": "Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation",
         "scheme_code": 152691,
         "scheme_name": "Canara Robeco Balanced Advantage Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF760K01LB4",
         "isin_div_reinvestment": "INF760K01LC2"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "10.25000"
+        },
         {
             "date": "25-08-2026",
             "nav": "10.28000"

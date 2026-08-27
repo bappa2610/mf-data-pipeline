@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "JM Financial Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Liquid Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
         "scheme_code": 120407,
         "scheme_name": "JM Liquid Fund - Direct Plan - Weekly IDCW Option",
         "isin_growth": "INF192K01CI4",
         "isin_div_reinvestment": "INF192K01CJ2"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "11.00780"
+        },
         {
             "date": "25-08-2026",
             "nav": "11.00600"

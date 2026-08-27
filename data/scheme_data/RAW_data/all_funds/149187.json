@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Kotak Mahindra Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Multi Cap Fund",
+        "scheme_category": "Equity Schemes - Multi Cap Fund",
         "scheme_code": 149187,
-        "scheme_name": "Kotak Multicap Fund - Direct Plan - IDCW Option",
+        "scheme_name": "Kotak Multi Cap Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF174KA1HW1",
         "isin_div_reinvestment": "INF174KA1HX9"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "20.01200"
+        },
         {
             "date": "25-08-2026",
             "nav": "20.04800"

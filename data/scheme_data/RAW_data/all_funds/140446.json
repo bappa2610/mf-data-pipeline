@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mahindra Manulife Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Equity Savings",
+        "scheme_category": "Hybrid Schemes - Equity Savings Fund",
         "scheme_code": 140446,
         "scheme_name": "Mahindra Manulife Equity Savings Fund - Regular Plan - Quarterly IDCW",
         "isin_growth": "INF174V01168",
         "isin_div_reinvestment": "INF174V01176"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "14.17240"
+        },
         {
             "date": "25-08-2026",
             "nav": "14.18710"

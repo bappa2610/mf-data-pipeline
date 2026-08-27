@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "ICICI Prudential Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Flexi Cap Fund",
+        "scheme_category": "Equity Schemes - Flexi Cap Fund",
         "scheme_code": 148991,
-        "scheme_name": "ICICI Prudential Flexicap fund- - Direct Plan - IDCW",
+        "scheme_name": "ICICI Prudential Flexi Cap fund - Direct Plan - IDCW",
         "isin_growth": "INF109KC1R22",
         "isin_div_reinvestment": "INF109KC1R30"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "18.93000"
+        },
         {
             "date": "25-08-2026",
             "nav": "18.95000"

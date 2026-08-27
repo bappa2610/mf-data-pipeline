@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "JM Financial Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Liquid Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
         "scheme_code": 148413,
         "scheme_name": "JM Liquid Fund - Direct Plan - Unclaimed Brokerage I.E.F - Growth Plan",
         "isin_growth": null,
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "41.44370"
+        },
         {
             "date": "25-08-2026",
             "nav": "41.44370"

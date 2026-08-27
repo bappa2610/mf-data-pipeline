@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Canara Robeco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Liquid Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
         "scheme_code": 139235,
         "scheme_name": "Canara Robeco Liquid Fund - Direct Plan - Unclaimed Redemption and Dividend Plan-Growth Option",
         "isin_growth": "INF760K01IC8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "1852.60610"
+        },
         {
             "date": "25-08-2026",
             "nav": "1852.29850"

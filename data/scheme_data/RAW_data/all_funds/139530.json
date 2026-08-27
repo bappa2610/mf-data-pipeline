@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Bank of India Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
+        "scheme_category": "Hybrid Schemes - Aggressive Hybrid Fund",
         "scheme_code": 139530,
-        "scheme_name": "BANK OF INDIA MID & SMALL CAP EQUITY & DEBT FUND - Direct Plan - IDCW",
+        "scheme_name": "BANK OF INDIA AGGRESSIVE HYBRID FUND - Direct Plan - IDCW",
         "isin_growth": "INF761K01DN4",
         "isin_div_reinvestment": "INF761K01DO2"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "36.99000"
+        },
         {
             "date": "25-08-2026",
             "nav": "36.84000"

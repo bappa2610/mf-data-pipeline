@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mahindra Manulife Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Liquid Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
         "scheme_code": 139538,
         "scheme_name": "Mahindra Manulife Liquid Fund - Direct Plan - Growth",
         "isin_growth": "INF174V01044",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "1844.97120"
+        },
         {
             "date": "25-08-2026",
             "nav": "1844.65960"

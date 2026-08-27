@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Canara Robeco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Flexi Cap Fund",
+        "scheme_category": "Equity Schemes - Flexi Cap Fund",
         "scheme_code": 118275,
         "scheme_name": "Canara Robeco Flexi Cap Fund - Direct Plan - GROWTH OPTION",
         "isin_growth": "INF760K01EF0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "395.82000"
+        },
         {
             "date": "25-08-2026",
             "nav": "397.31000"

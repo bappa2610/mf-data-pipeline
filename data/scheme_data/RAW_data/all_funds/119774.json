@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Kotak Mahindra Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Mid Cap Fund",
+        "scheme_category": "Equity Schemes - Mid Cap Fund",
         "scheme_code": 119774,
-        "scheme_name": "Kotak Midcap Fund - Direct Plan - IDCW - Payout & Re-investment of Income Distribution cum capital withdrawal option",
+        "scheme_name": "Kotak Mid Cap Fund - Direct Plan - IDCW - Payout & Re-investment of Income Distribution cum capital withdrawal option",
         "isin_growth": "INF174K01LU8",
         "isin_div_reinvestment": "INF174K01LV6"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "103.61000"
+        },
         {
             "date": "25-08-2026",
             "nav": "103.42700"

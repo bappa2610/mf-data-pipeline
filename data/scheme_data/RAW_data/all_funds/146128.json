@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Canara Robeco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Small Cap Fund",
+        "scheme_category": "Equity Schemes - Small Cap Fund",
         "scheme_code": 146128,
         "scheme_name": "Canara Robeco Small Cap Fund - Regular Plan - IDCW (Payout/Reinvestment)",
         "isin_growth": "INF760K01JG7",
         "isin_div_reinvestment": "INF760K01JH5"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "35.67000"
+        },
         {
             "date": "25-08-2026",
             "nav": "35.55000"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Bank of India Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - ELSS",
+        "scheme_category": "Equity Schemes - ELSS- Tax Saver Fund",
         "scheme_code": 119351,
-        "scheme_name": "BANK OF INDIA ELSS TAX SAVER - Direct Plan - Growth",
+        "scheme_name": "BANK OF INDIA ELSS TAX SAVER FUND - Direct Plan - Growth",
         "isin_growth": "INF761K01884",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "196.63000"
+        },
         {
             "date": "25-08-2026",
             "nav": "197.06000"

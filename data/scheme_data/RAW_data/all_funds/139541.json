@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mahindra Manulife Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Liquid Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
         "scheme_code": 139541,
         "scheme_name": "Mahindra Manulife Liquid Fund - Regular Plan - Weekly IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF174V01036"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "1010.45470"
+        },
         {
             "date": "25-08-2026",
             "nav": "1010.28690"

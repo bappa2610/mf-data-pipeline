@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Canara Robeco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Flexi Cap Fund",
+        "scheme_category": "Equity Schemes - Flexi Cap Fund",
         "scheme_code": 118276,
         "scheme_name": "Canara Robeco Flexi Cap Fund - Direct Plan - IDCW (Payout/Reinvestment)",
         "isin_growth": "INF760K01ED5",
         "isin_div_reinvestment": "INF760K01EE3"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "93.43000"
+        },
         {
             "date": "25-08-2026",
             "nav": "93.78000"

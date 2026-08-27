@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mahindra Manulife Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Small Cap Fund",
+        "scheme_category": "Equity Schemes - Small Cap Fund",
         "scheme_code": 150913,
         "scheme_name": "Mahindra Manulife Small Cap Fund - Direct Plan - IDCW",
         "isin_growth": "INF174V01BL5",
         "isin_div_reinvestment": "INF174V01BM3"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "23.22390"
+        },
         {
             "date": "25-08-2026",
             "nav": "23.03330"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "ICICI Prudential Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 143875,
-        "scheme_name": "ICICI Prudential Pharma Healthcare and Diagnostics (P.H.D) Fund - Regular Plan - IDCW",
+        "scheme_name": "ICICI Prudential Healthcare Fund - Regular Plan - IDCW",
         "isin_growth": "INF109KC1GG4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "23.45000"
+        },
         {
             "date": "25-08-2026",
             "nav": "23.37000"

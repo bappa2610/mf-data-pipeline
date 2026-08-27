@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Mahindra Manulife Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 154121,
         "scheme_name": "Mahindra Manulife Innovation Opportunities Fund - Direct Plan - Growth",
         "isin_growth": "INF174V01DA4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "11.35200"
+        },
         {
             "date": "25-08-2026",
             "nav": "11.36030"

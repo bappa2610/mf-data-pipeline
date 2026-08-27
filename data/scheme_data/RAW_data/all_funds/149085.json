@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Canara Robeco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Value Fund",
+        "scheme_category": "Equity Schemes - Value Fund",
         "scheme_code": 149085,
         "scheme_name": "Canara Robeco Value Fund - Direct Plan - Growth Option",
         "isin_growth": "INF760K01JW4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "19.67000"
+        },
         {
             "date": "25-08-2026",
             "nav": "19.77000"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "JM Financial Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Focused Fund",
+        "scheme_category": "Equity Schemes - Focused Fund",
         "scheme_code": 107410,
         "scheme_name": "JM Focused Fund - Regular Plan - Growth Option",
         "isin_growth": "INF192K01577",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "20.75070"
+        },
         {
             "date": "25-08-2026",
             "nav": "20.89280"

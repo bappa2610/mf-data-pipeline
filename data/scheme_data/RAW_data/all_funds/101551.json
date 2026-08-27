@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "SBI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
+        "scheme_category": "Hybrid Schemes - Aggressive Hybrid Fund",
         "scheme_code": 101551,
-        "scheme_name": "SBI EQUITY HYBRID FUND - Regular Plan - IDCW",
+        "scheme_name": "SBI AGGRESSIVE HYBRID FUND - Regular Plan - IDCW",
         "isin_growth": "INF200K01115",
         "isin_div_reinvestment": "INF200K01123"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "67.86870"
+        },
         {
             "date": "25-08-2026",
             "nav": "67.93380"

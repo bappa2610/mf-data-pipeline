@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Canara Robeco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 103389,
-        "scheme_name": "Canara Robeco Infrastructure - Regular Plan - IDCW (Payout/Reinvestment)",
+        "scheme_name": "Canara Robeco Infrastructure Fund - Regular Plan - IDCW (Payout/Reinvestment)",
         "isin_growth": "INF760K01258",
         "isin_div_reinvestment": "INF760K01266"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "64.76000"
+        },
         {
             "date": "25-08-2026",
             "nav": "65.20000"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Nippon India Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 153692,
         "scheme_name": "Nippon India MNC Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF204KC1FP1",
         "isin_div_reinvestment": "INF204KC1FQ9"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "10.93340"
+        },
         {
             "date": "25-08-2026",
             "nav": "10.96800"

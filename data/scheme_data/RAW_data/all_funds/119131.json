@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HDFC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
+        "scheme_category": "Hybrid Schemes - Multi Asset Allocation Fund",
         "scheme_code": 119131,
-        "scheme_name": "HDFC Multi-Asset Allocation Fund - Direct Plan - Growth Option",
+        "scheme_name": "HDFC Multi Asset Allocation Fund - Direct Plan - Growth Option",
         "isin_growth": "INF179K01XW8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "86.16800"
+        },
         {
             "date": "25-08-2026",
             "nav": "86.25700"

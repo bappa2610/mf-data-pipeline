@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "ICICI Prudential Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Dividend Yield Fund",
+        "scheme_category": "Equity Schemes - Dividend Yield Fund",
         "scheme_code": 129311,
-        "scheme_name": "ICICI Prudential Dividend Yield Equity Fund - Regular Plan - IDCW",
+        "scheme_name": "ICICI Prudential Dividend Yield Fund - Regular Plan - IDCW",
         "isin_growth": "INF109KA1TY2",
         "isin_div_reinvestment": "INF109KA1TZ9"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "18.86000"
+        },
         {
             "date": "25-08-2026",
             "nav": "18.90000"

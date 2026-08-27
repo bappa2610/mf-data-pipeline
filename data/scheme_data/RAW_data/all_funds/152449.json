@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Canara Robeco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 152449,
         "scheme_name": "Canara Robeco Manufacturing Fund - Direct Plan - IDWC Option",
         "isin_growth": "INF760K01KY8",
         "isin_div_reinvestment": "INF760K01KX0"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "14.74000"
+        },
         {
             "date": "25-08-2026",
             "nav": "14.72000"

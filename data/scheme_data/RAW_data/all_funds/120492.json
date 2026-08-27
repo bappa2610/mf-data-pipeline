@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "JM Financial Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Flexi Cap Fund",
+        "scheme_category": "Equity Schemes - Flexi Cap Fund",
         "scheme_code": 120492,
-        "scheme_name": "JM Flexicap Fund - Direct Plan - Growth Option",
+        "scheme_name": "JM Flexi Cap Fund - Direct Plan - Growth Option",
         "isin_growth": "INF192K01CC7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "116.65470"
+        },
         {
             "date": "25-08-2026",
             "nav": "117.01170"

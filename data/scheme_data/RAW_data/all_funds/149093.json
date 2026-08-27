@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Focused Fund",
         "scheme_code": 149093,
-        "scheme_name": "UTI Focused Fund - Direct Plan - IDCW",
+        "scheme_name": "UTI Focused Fund (30 stocks) - Direct Plan - IDCW",
         "isin_growth": "INF789F1AVB1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "16.97120"
+        },
         {
             "date": "25-08-2026",
             "nav": "17.02960"

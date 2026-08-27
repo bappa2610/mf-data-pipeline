@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "JM Financial Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Value Fund",
+        "scheme_category": "Equity Schemes - Value Fund",
         "scheme_code": 106168,
         "scheme_name": "JM Value Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF137A01011",
         "isin_div_reinvestment": "INF137A01029"
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "68.55190"
+        },
         {
             "date": "25-08-2026",
             "nav": "68.47310"

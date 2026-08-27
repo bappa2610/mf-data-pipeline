@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "ICICI Prudential Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - ELSS",
+        "scheme_category": "Equity Schemes - ELSS- Tax Saver Fund",
         "scheme_code": 120592,
-        "scheme_name": "ICICI Prudential ELSS Tax Saver Fund - Direct Plan - Growth",
+        "scheme_name": "ICICI Prudential ELSS - Tax Saver Fund - Direct Plan - Growth",
         "isin_growth": "INF109K01Y31",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "26-08-2026",
+            "nav": "1058.23000"
+        },
         {
             "date": "25-08-2026",
             "nav": "1061.00000"
