@@ -143,8 +143,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 100549,Franklin Templeton Mutual Fund,Franklin India Aggressive Hybrid Fund,INF090I01825,INF090I01833,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
 100550,Franklin Templeton Mutual Fund,Franklin India Aggressive Hybrid Fund,INF090I01817,,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
 100593,Canara Robeco Mutual Fund,Canara Robeco ELSS - Tax Saver Fund,INF760K01084,INF760K01092,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
-100596,Canara Robeco Mutual Fund,Canara Robeco Gilt Fund,INF760K01AB7,INF760K01AC5,Open Ended Schemes,Debt Scheme - Gilt Fund
-100597,Canara Robeco Mutual Fund,Canara Robeco Gilt Fund,INF760K01AE1,,Open Ended Schemes,Debt Scheme - Gilt Fund
+100596,Canara Robeco Mutual Fund,Canara Robeco Gilt Fund,INF760K01AB7,INF760K01AC5,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
+100597,Canara Robeco Mutual Fund,Canara Robeco Gilt Fund,INF760K01AE1,,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
 100600,Canara Robeco Mutual Fund,Canara Robeco Conservative Hybrid Fund,INF760K01308,INF760K01316,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund
 100601,Canara Robeco Mutual Fund,Canara Robeco Conservative Hybrid Fund,INF760K01282,,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund
 100602,Sundaram Mutual Fund,Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund),INF903J01FR0,INF903J01FU4,Open Ended Schemes,Debt Scheme - Medium Duration Fund
@@ -1281,17 +1281,17 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 112153,Canara Robeco Mutual Fund,Canara Robeco Consumption Fund,INF760K01225,INF760K01233,Open Ended Schemes,Equity Schemes - Thematic Fund
 112171,Invesco Mutual Fund,Invesco India PSU Equity Fund,INF205K01338,,Open Ended Schemes,Equity Schemes - Thematic Fund
 112173,Invesco Mutual Fund,Invesco India PSU Equity Fund,INF205K01353,INF205K01346,Open Ended Schemes,Equity Schemes - Thematic Fund
-112210,Axis Mutual Fund,Axis Liquid Fund,INF846K01412,,Open Ended Schemes,Debt Scheme - Liquid Fund
-112211,Axis Mutual Fund,Axis Liquid Fund,,INF846K01420,Open Ended Schemes,Debt Scheme - Liquid Fund
-112212,Axis Mutual Fund,Axis Liquid Fund,INF846K01438,INF846K01446,Open Ended Schemes,Debt Scheme - Liquid Fund
-112213,Axis Mutual Fund,Axis Liquid Fund,INF846K01453,INF846K01461,Open Ended Schemes,Debt Scheme - Liquid Fund
+112210,Axis Mutual Fund,Axis Liquid Fund,INF846K01412,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+112211,Axis Mutual Fund,Axis Liquid Fund,,INF846K01420,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+112212,Axis Mutual Fund,Axis Liquid Fund,INF846K01438,INF846K01446,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+112213,Axis Mutual Fund,Axis Liquid Fund,INF846K01453,INF846K01461,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 112214,Axis Mutual Fund,Axis Ultra Short to Short Term Fund,INF846K01537,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 112215,Axis Mutual Fund,Axis Ultra Short to Short Term Fund,,INF846K01545,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 112216,Axis Mutual Fund,Axis Ultra Short to Short Term Fund,INF846K01552,INF846K01560,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 112217,Axis Mutual Fund,Axis Ultra Short to Short Term Fund,INF846K01578,INF846K01586,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 112218,Tata Mutual Fund,Tata Value Fund,INF277K01DI1,INF277K01436,Open Ended Schemes,Equity Scheme - Value Fund
-112277,Axis Mutual Fund,Axis Large Cap Fund,INF846K01164,,Open Ended Schemes,Equity Scheme - Large Cap Fund
-112278,Axis Mutual Fund,Axis Large Cap Fund,INF846K01172,INF846K01180,Open Ended Schemes,Equity Scheme - Large Cap Fund
+112277,Axis Mutual Fund,Axis Large Cap Fund,INF846K01164,,Open Ended Schemes,Equity Schemes - Large Cap Fund
+112278,Axis Mutual Fund,Axis Large Cap Fund,INF846K01172,INF846K01180,Open Ended Schemes,Equity Schemes - Large Cap Fund
 112293,DSP Mutual Fund,DSP World Mining Overseas Equity Omni FoF,INF740K01730,,Open Ended Schemes,Other Scheme - FoF Overseas
 112304,Franklin Templeton Mutual Fund,Franklin India Income Opportunities Fund (no. of segregated portfolios- 2),INF090I01445,,Open Ended Schemes,Debt Scheme - Medium Duration Fund
 112305,Franklin Templeton Mutual Fund,Franklin India Income Opportunities Fund (no. of segregated portfolios- 2),INF090I01452,INF090I01460,Open Ended Schemes,Debt Scheme - Medium Duration Fund
@@ -1326,10 +1326,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 112645,Navi Mutual Fund,Navi Liquid Fund,,INF959L01GM7,Open Ended Schemes,Debt Scheme - Liquid Fund
 112646,Navi Mutual Fund,Navi Liquid Fund,INF959L01GP0,INF959L01GQ8,Open Ended Schemes,Debt Scheme - Liquid Fund
 112647,Navi Mutual Fund,Navi Liquid Fund,INF959L01GN5,INF959L01GO3,Open Ended Schemes,Debt Scheme - Liquid Fund
-112712,Axis Mutual Fund,Axis Liquid Fund,,INF846K01362,Open Ended Schemes,Debt Scheme - Liquid Fund
-112713,Axis Mutual Fund,Axis Liquid Fund,INF846K01354,,Open Ended Schemes,Debt Scheme - Liquid Fund
-112714,Axis Mutual Fund,Axis Liquid Fund,INF846K01396,INF846K01404,Open Ended Schemes,Debt Scheme - Liquid Fund
-112715,Axis Mutual Fund,Axis Liquid Fund,INF846K01370,INF846K01388,Open Ended Schemes,Debt Scheme - Liquid Fund
+112712,Axis Mutual Fund,Axis Liquid Fund,,INF846K01362,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+112713,Axis Mutual Fund,Axis Liquid Fund,INF846K01354,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+112714,Axis Mutual Fund,Axis Liquid Fund,INF846K01396,INF846K01404,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+112715,Axis Mutual Fund,Axis Liquid Fund,INF846K01370,INF846K01388,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 112717,Axis Mutual Fund,Axis Ultra Short to Short Term Fund,INF846K01479,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 112718,Axis Mutual Fund,Axis Ultra Short to Short Term Fund,INF846K01511,INF846K01529,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 112719,Axis Mutual Fund,Axis Ultra Short to Short Term Fund,INF846K01495,INF846K01503,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
@@ -1345,10 +1345,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 112878,Bandhan Mutual Fund,BANDHAN Nifty 50 Index Fund,INF194K01938,INF194K01946,Open Ended Schemes,Other Scheme - Index Funds
 112901,DSP Mutual Fund,DSP Focused Fund,INF740K01532,,Open Ended Schemes,Equity Scheme - Focused Fund
 112923,SBI Mutual Fund,SBI PSU FUND,INF200K01BD8,INF200K01BE6,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-112924,Axis Mutual Fund,Axis Conservative Hybrid Fund,INF846K01693,,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund
-112925,Axis Mutual Fund,Axis Conservative Hybrid Fund,INF846K01701,INF846K01719,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund
-112926,Axis Mutual Fund,Axis Conservative Hybrid Fund,INF846K01727,INF846K01735,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund
-112927,Axis Mutual Fund,Axis Conservative Hybrid Fund,INF846K01743,INF846K01750,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund
+112924,Axis Mutual Fund,Axis Conservative Hybrid Fund,INF846K01693,,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund
+112925,Axis Mutual Fund,Axis Conservative Hybrid Fund,INF846K01701,INF846K01719,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund
+112926,Axis Mutual Fund,Axis Conservative Hybrid Fund,INF846K01727,INF846K01735,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund
+112927,Axis Mutual Fund,Axis Conservative Hybrid Fund,INF846K01743,INF846K01750,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund
 112931,Mirae Asset Mutual Fund,Mirae Asset Large & Midcap Fund,INF769K01127,INF769K01119,Open Ended Schemes,Equity Schemes - Large & Mid Cap Fund
 112932,Mirae Asset Mutual Fund,Mirae Asset Large & Midcap Fund,INF769K01101,,Open Ended Schemes,Equity Schemes - Large & Mid Cap Fund
 112936,Nippon India Mutual Fund,Nippon India Aggressive Hybrid Fund (Existing Number of Segregated Portfolios - 2),INF204K01FW1,,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
@@ -1368,8 +1368,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 113048,HDFC Mutual Fund,HDFC Short Term Fund,INF179K01CV4,INF179K01CW2,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 113049,HDFC Mutual Fund,HDFC Gold ETF,INF179KC1981,,Open Ended Schemes,Other Scheme - Gold ETF
 113055,ICICI Prudential Mutual Fund,ICICI Prudential Dynamic Bond Fund,INF109K01PJ8,,Open Ended Schemes,Income
-113064,Axis Mutual Fund,Axis Multi Asset Allocation Fund,INF846K01768,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
-113065,Axis Mutual Fund,Axis Multi Asset Allocation Fund,INF846K01776,INF846K01784,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
+113064,Axis Mutual Fund,Axis Multi Asset Allocation Fund,INF846K01768,,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
+113065,Axis Mutual Fund,Axis Multi Asset Allocation Fund,INF846K01776,INF846K01784,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
 113069,Motilal Oswal Mutual Fund,Motilal Oswal Nifty 50 ETF,INF247L01536,,Open Ended Schemes,Other Scheme - Other  ETFs
 113070,HDFC Mutual Fund,HDFC Corporate Bond Fund,INF179K01DC2,,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
 113071,HDFC Mutual Fund,HDFC Corporate Bond Fund,INF179K01DD0,INF179K01DE8,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
@@ -1415,7 +1415,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 113373,Sundaram Mutual Fund,Sundaram Consumption Fund (Formerly Known as Sundaram Rural and Consumption Fund),INF903J01579,INF903J01587,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 113403,ICICI Prudential Mutual Fund,ICICI Prudential Dynamic Term Fund,INF109K01GE8,INF109K01GF5,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
 113417,ICICI Prudential Mutual Fund,ICICI Prudential Dynamic Term Fund,INF109K01GG3,INF109K01GH1,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
-113434,Axis Mutual Fund,Axis Gold ETF,INF846K01W80,,Open Ended Schemes,Other Scheme - Gold ETF
+113434,Axis Mutual Fund,Axis Gold ETF,INF846K01W80,,Open Ended Schemes,Exchange Traded Funds
 114238,ICICI Prudential Mutual Fund,ICICI Prudential Blended Plan B,INF109K01VW9,,Open Ended Schemes,Income
 114239,ICICI Prudential Mutual Fund,ICICI Prudential Credit Risk Fund,INF109K01GU4,,Open Ended Schemes,Debt Scheme - Credit Risk Fund
 114240,ICICI Prudential Mutual Fund,ICICI Prudential Credit Risk Fund,INF109K01GV2,INF109K01GW0,Open Ended Schemes,Debt Scheme - Credit Risk Fund
@@ -1491,8 +1491,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 115833,ICICI Prudential Mutual Fund,ICICI Prudential Gold ETF FOF,INF109K01TK8,,Open Ended Schemes,Other Scheme - FoF Domestic
 115834,ICICI Prudential Mutual Fund,ICICI Prudential Gold ETF FOF,INF109K01TM4,INF109K01TL6,Open Ended Schemes,Other Scheme - FoF Domestic
 115874,Bandhan Mutual Fund,Bandhan Income Plus Arbitrage Active FOF,INF194K01SM8,INF194K01SL0,Open Ended Schemes,Other Scheme - FoF Domestic
-115897,Axis Mutual Fund,Axis Gold Fund,INF846K01AL3,,Open Ended Schemes,Other Scheme - FoF Domestic
-115898,Axis Mutual Fund,Axis Gold Fund,INF846K01AM1,INF846K01AN9,Open Ended Schemes,Other Scheme - FoF Domestic
+115897,Axis Mutual Fund,Axis Gold Fund,INF846K01AL3,,Open Ended Schemes,Fund of Funds Scheme
+115898,Axis Mutual Fund,Axis Gold Fund,INF846K01AM1,INF846K01AN9,Open Ended Schemes,Fund of Funds Scheme
 115927,ICICI Prudential Mutual Fund,ICICI Prudential Interval Fund II - Quarterly Interval Plan - F,INF109K01NW6,,Open Ended Schemes,Income
 115934,HDFC Mutual Fund,HDFC Gold ETF Fund of Fund,INF179K01LC5,,Open Ended Schemes,Other Scheme - FoF Domestic
 115942,Tata Mutual Fund,Tata Retirement Savings Fund-Progressive Plan,INF277K01FG0,,Open Ended Schemes,Solution Oriented Scheme - Retirement Fund
@@ -1514,9 +1514,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 116154,Franklin Templeton Mutual Fund,Franklin India Credit Risk Fund (No. of segregated portfolios-3),INF090I01ES9,INF090I01ER1,Open Ended Schemes,Debt Scheme - Credit Risk Fund
 116174,ICICI Prudential Mutual Fund,ICICI Prudential Banking and PSU Debt Fund,INF109K01YE1,INF109K01YD3,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
 116413,Bandhan Mutual Fund,BANDHAN ULTRA SHORT TO SHORT TERM FUND,INF194K01UR3,INF194K01US1,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
-116470,Axis Mutual Fund,Axis Gilt Fund,INF846K01CK1,INF846K01CL9,Open Ended Schemes,Debt Scheme - Gilt Fund
-116471,Axis Mutual Fund,Axis Gilt Fund,INF846K01AX8,,Open Ended Schemes,Debt Scheme - Gilt Fund
-116472,Axis Mutual Fund,Axis Gilt Fund,INF846K01AZ3,INF846K01BB2,Open Ended Schemes,Debt Scheme - Gilt Fund
+116470,Axis Mutual Fund,Axis Gilt Fund,INF846K01CK1,INF846K01CL9,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
+116471,Axis Mutual Fund,Axis Gilt Fund,INF846K01AX8,,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
+116472,Axis Mutual Fund,Axis Gilt Fund,INF846K01AZ3,INF846K01BB2,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
 116483,PGIM India Mutual Fund,PGIM India Dynamic Term Fund,INF663L01492,INF663L01500,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
 116484,PGIM India Mutual Fund,PGIM India Dynamic Term Fund,INF663L01526,INF663L01534,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
 116485,PGIM India Mutual Fund,PGIM India Dynamic Term Fund,INF663L01484,,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
@@ -1561,8 +1561,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 117472,ICICI Prudential Mutual Fund,ICICI Prudential Capital Protection Oriented Fund II - Series X - 36 Months,INF109K01D85,,Close Ended Schemes,Income
 117547,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Banking and Financial Services Fund,INF955L01831,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 117549,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Banking and Financial Services Fund,INF955L01856,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-117559,Axis Mutual Fund,Axis Focused Fund,INF846K01CI5,INF846K01CJ3,Open Ended Schemes,Equity Scheme - Focused Fund
-117560,Axis Mutual Fund,Axis Focused Fund,INF846K01CH7,,Open Ended Schemes,Equity Scheme - Focused Fund
+117559,Axis Mutual Fund,Axis Focused Fund,INF846K01CI5,INF846K01CJ3,Open Ended Schemes,Equity Schemes - Focused Fund
+117560,Axis Mutual Fund,Axis Focused Fund,INF846K01CH7,,Open Ended Schemes,Equity Schemes - Focused Fund
 117561,Nippon India Mutual Fund,Reliance Dual Advantage Fixed Tenure Fund II - Plan D,INF204K01RV8,,Close Ended Schemes,Income
 117562,Nippon India Mutual Fund,Reliance Dual Advantage Fixed Tenure Fund II - Plan D,INF204K01RW6,,Close Ended Schemes,Income
 117600,Nippon India Mutual Fund,Reliance Dual Advantage Fixed Tenure Fund II - Plan H,INF204K01SD4,,Close Ended Schemes,Income
@@ -1653,8 +1653,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 118293,Canara Robeco Mutual Fund,Canara Robeco Ultra Short to Short Term Fund,,INF760K01EM6,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 118294,Canara Robeco Mutual Fund,Canara Robeco Ultra Short to Short Term Fund,INF760K01ER5,INF760K01ES3,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 118295,Canara Robeco Mutual Fund,Canara Robeco Ultra Short to Short Term Fund,INF760K01EN4,INF760K01EO2,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
-118298,Canara Robeco Mutual Fund,Canara Robeco Gilt Fund,INF760K01FA8,INF760K01FB6,Open Ended Schemes,Debt Scheme - Gilt Fund
-118299,Canara Robeco Mutual Fund,Canara Robeco Gilt Fund,INF760K01FC4,,Open Ended Schemes,Debt Scheme - Gilt Fund
+118298,Canara Robeco Mutual Fund,Canara Robeco Gilt Fund,INF760K01FA8,INF760K01FB6,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
+118299,Canara Robeco Mutual Fund,Canara Robeco Gilt Fund,INF760K01FC4,,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
 118304,Canara Robeco Mutual Fund,Canara Robeco Liquid Fund,INF760K01FT8,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 118305,Canara Robeco Mutual Fund,Canara Robeco Liquid Fund,INF760K01FU6,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 118306,Canara Robeco Mutual Fund,Canara Robeco Liquid Fund,INF760K01FV4,INF760K01FW2,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
@@ -2533,10 +2533,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 120381,ICICI Prudential Mutual Fund,ICICI Prudential Mid Cap Fund,INF109K011N7,,Open Ended Schemes,Equity Schemes - Mid Cap Fund
 120384,Invesco Mutual Fund,Invesco India Financial Services Fund,INF205K01KW8,INF205K01KX6,Open Ended Schemes,Equity Schemes - Sectoral Fund
 120385,Invesco Mutual Fund,Invesco India Financial Services Fund,INF205K01KY4,,Open Ended Schemes,Equity Schemes - Sectoral Fund
-120388,Axis Mutual Fund,Axis Liquid Fund,,INF846K01DA0,Open Ended Schemes,Debt Scheme - Liquid Fund
-120389,Axis Mutual Fund,Axis Liquid Fund,INF846K01CX4,,Open Ended Schemes,Debt Scheme - Liquid Fund
-120390,Axis Mutual Fund,Axis Liquid Fund,INF846K01DB8,INF846K01DC6,Open Ended Schemes,Debt Scheme - Liquid Fund
-120391,Axis Mutual Fund,Axis Liquid Fund,INF846K01CY2,INF846K01CZ9,Open Ended Schemes,Debt Scheme - Liquid Fund
+120388,Axis Mutual Fund,Axis Liquid Fund,,INF846K01DA0,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+120389,Axis Mutual Fund,Axis Liquid Fund,INF846K01CX4,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+120390,Axis Mutual Fund,Axis Liquid Fund,INF846K01DB8,INF846K01DC6,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+120391,Axis Mutual Fund,Axis Liquid Fund,INF846K01CY2,INF846K01CZ9,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 120392,Invesco Mutual Fund,Invesco India Largecap Fund,INF205K01LB0,,Open Ended Schemes,Equity Schemes - Large Cap Fund
 120393,Invesco Mutual Fund,Invesco India Largecap Fund,INF205K01KZ1,INF205K01LA2,Open Ended Schemes,Equity Schemes - Large Cap Fund
 120394,Invesco Mutual Fund,Invesco India PSU Equity Fund,INF205K01NE0,INF205K01NF7,Open Ended Schemes,Equity Schemes - Thematic Fund
@@ -2579,9 +2579,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 120443,Invesco Mutual Fund,Invesco India Banking and PSU Debt Fund,,INF205K01KS6,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
 120444,Invesco Mutual Fund,Invesco India Banking and PSU Debt Fund,INF205K01KT4,,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
 120445,Invesco Mutual Fund,Invesco India Banking and PSU Debt Fund,INF205K01KU2,INF205K01KV0,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
-120447,Axis Mutual Fund,Axis Gilt Fund,INF846K01DD4,,Open Ended Schemes,Debt Scheme - Gilt Fund
-120448,Axis Mutual Fund,Axis Gilt Fund,INF846K01DF9,INF846K01DE2,Open Ended Schemes,Debt Scheme - Gilt Fund
-120449,Axis Mutual Fund,Axis Gilt Fund,INF846K01DG7,INF846K01DH5,Open Ended Schemes,Debt Scheme - Gilt Fund
+120447,Axis Mutual Fund,Axis Gilt Fund,INF846K01DD4,,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
+120448,Axis Mutual Fund,Axis Gilt Fund,INF846K01DF9,INF846K01DE2,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
+120449,Axis Mutual Fund,Axis Gilt Fund,INF846K01DG7,INF846K01DH5,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
 120450,Axis Mutual Fund,Axis Dynamic Term Fund,INF846K01DJ1,INF846K01DK9,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
 120451,Axis Mutual Fund,Axis Dynamic Term Fund,INF846K01DI3,,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
 120452,Axis Mutual Fund,Axis Dynamic Term Fund,INF846K01DL7,INF846K01DM5,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
@@ -2589,22 +2589,22 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 120455,JM Financial Mutual Fund,JM Ultra Short Duration Fund,,INF192K01DM4,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
 120457,JM Financial Mutual Fund,JM Ultra Short Duration Fund,,INF192K01DN2,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
 120458,JM Financial Mutual Fund,JM Ultra Short Duration Fund,INF192K01DO0,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
-120465,Axis Mutual Fund,Axis Large Cap Fund,INF846K01DP8,,Open Ended Schemes,Equity Scheme - Large Cap Fund
-120466,Axis Mutual Fund,Axis Large Cap Fund,INF846K01DN3,INF846K01DO1,Open Ended Schemes,Equity Scheme - Large Cap Fund
-120467,Axis Mutual Fund,Axis Focused Fund,INF846K01CO3,INF846K01CP0,Open Ended Schemes,Equity Scheme - Focused Fund
-120468,Axis Mutual Fund,Axis Focused Fund,INF846K01CQ8,,Open Ended Schemes,Equity Scheme - Focused Fund
-120469,JM Financial Mutual Fund,JM Short Term Fund,,INF192K01DZ6,Open Ended Schemes,Debt Scheme - Short Duration Fund
-120470,JM Financial Mutual Fund,JM Short Term Fund,INF192K01DX1,INF192K01DY9,Open Ended Schemes,Debt Scheme - Short Duration Fund
-120471,JM Financial Mutual Fund,JM Short Term Fund,INF192K01EA7,,Open Ended Schemes,Debt Scheme - Short Duration Fund
-120472,Axis Mutual Fund,Axis Gold Fund,INF846K01DQ6,INF846K01DR4,Open Ended Schemes,Other Scheme - FoF Domestic
-120473,Axis Mutual Fund,Axis Gold Fund,INF846K01DS2,,Open Ended Schemes,Other Scheme - FoF Domestic
+120465,Axis Mutual Fund,Axis Large Cap Fund,INF846K01DP8,,Open Ended Schemes,Equity Schemes - Large Cap Fund
+120466,Axis Mutual Fund,Axis Large Cap Fund,INF846K01DN3,INF846K01DO1,Open Ended Schemes,Equity Schemes - Large Cap Fund
+120467,Axis Mutual Fund,Axis Focused Fund,INF846K01CO3,INF846K01CP0,Open Ended Schemes,Equity Schemes - Focused Fund
+120468,Axis Mutual Fund,Axis Focused Fund,INF846K01CQ8,,Open Ended Schemes,Equity Schemes - Focused Fund
+120469,JM Financial Mutual Fund,JM Short Term Fund-closed,,INF192K01DZ6,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+120470,JM Financial Mutual Fund,JM Short Term Fund-closed,INF192K01DX1,INF192K01DY9,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+120471,JM Financial Mutual Fund,JM Short Term Fund-closed,INF192K01EA7,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+120472,Axis Mutual Fund,Axis Gold Fund,INF846K01DQ6,INF846K01DR4,Open Ended Schemes,Fund of Funds Scheme
+120473,Axis Mutual Fund,Axis Gold Fund,INF846K01DS2,,Open Ended Schemes,Fund of Funds Scheme
 120474,Axis Mutual Fund,Axis Medium Term Fund,INF846K01DU8,INF846K01DV6,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund
 120475,Axis Mutual Fund,Axis Medium Term Fund,INF846K01DT0,,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund
 120476,Axis Mutual Fund,Axis Medium Term Fund,INF846K01DW4,INF846K01DX2,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund
-120477,Axis Mutual Fund,Axis Conservative Hybrid Fund,INF846K01DY0,INF846K01DZ7,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund
-120478,Axis Mutual Fund,Axis Conservative Hybrid Fund,INF846K01EB6,INF846K01EC4,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund
-120479,Axis Mutual Fund,Axis Conservative Hybrid Fund,INF846K01ED2,INF846K01EE0,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund
-120480,Axis Mutual Fund,Axis Conservative Hybrid Fund,INF846K01EA8,,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund
+120477,Axis Mutual Fund,Axis Conservative Hybrid Fund,INF846K01DY0,INF846K01DZ7,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund
+120478,Axis Mutual Fund,Axis Conservative Hybrid Fund,INF846K01EB6,INF846K01EC4,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund
+120479,Axis Mutual Fund,Axis Conservative Hybrid Fund,INF846K01ED2,INF846K01EE0,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund
+120480,Axis Mutual Fund,Axis Conservative Hybrid Fund,INF846K01EA8,,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund
 120481,JM Financial Mutual Fund,JM Arbitrage Fund,INF192K01BL0,INF192K01BM8,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund
 120482,JM Financial Mutual Fund,JM Arbitrage Fund,INF192K01BN6,,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund
 120483,JM Financial Mutual Fund,JM Aggressive Hybrid Fund,INF192K01BO4,INF192K01BP1,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
@@ -2645,8 +2645,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 120520,Invesco Mutual Fund,Invesco India Gilt Fund,INF205K01SN0,,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
 120521,Invesco Mutual Fund,Invesco India Gilt Fund,,INF205K01SO8,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
 120522,Invesco Mutual Fund,Invesco India Gilt Fund,INF205K01SP5,INF205K01SQ3,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
-120523,Axis Mutual Fund,Axis Multi Asset Allocation Fund,INF846K01ET8,INF846K01EU6,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
-120524,Axis Mutual Fund,Axis Multi Asset Allocation Fund,INF846K01EV4,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
+120523,Axis Mutual Fund,Axis Multi Asset Allocation Fund,INF846K01ET8,INF846K01EU6,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
+120524,Axis Mutual Fund,Axis Multi Asset Allocation Fund,INF846K01EV4,,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
 120530,Invesco Mutual Fund,Invesco India Gold ETF Fund of Fund,INF205K01NH3,INF205K01NI1,Open Ended Schemes,Fund of Funds Scheme
 120531,Invesco Mutual Fund,Invesco India Gold ETF Fund of Fund,INF205K01NJ9,,Open Ended Schemes,Fund of Funds Scheme
 120534,Invesco Mutual Fund,Invesco India Liquid Fund,,INF205K01ME2,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
@@ -3460,10 +3460,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 125343,360 ONE Mutual Fund,360 ONE Liquid Fund,INF579M01639,INF579M01696,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 125345,360 ONE Mutual Fund,360 ONE Liquid Fund,INF579M01621,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 125349,360 ONE Mutual Fund,360 ONE Liquid Fund,,INF579M01688,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
-125350,Axis Mutual Fund,Axis Small Cap Fund,INF846K01K01,,Open Ended Schemes,Equity Scheme - Small Cap Fund
-125351,Axis Mutual Fund,Axis Small Cap Fund,INF846K01K43,INF846K01K50,Open Ended Schemes,Equity Scheme - Small Cap Fund
-125352,Axis Mutual Fund,Axis Small Cap Fund,INF846K01K19,INF846K01K27,Open Ended Schemes,Equity Scheme - Small Cap Fund
-125354,Axis Mutual Fund,Axis Small Cap Fund,INF846K01K35,,Open Ended Schemes,Equity Scheme - Small Cap Fund
+125350,Axis Mutual Fund,Axis Small Cap Fund,INF846K01K01,,Open Ended Schemes,Equity Schemes - Small Cap Fund
+125351,Axis Mutual Fund,Axis Small Cap Fund,INF846K01K43,INF846K01K50,Open Ended Schemes,Equity Schemes - Small Cap Fund
+125352,Axis Mutual Fund,Axis Small Cap Fund,INF846K01K19,INF846K01K27,Open Ended Schemes,Equity Schemes - Small Cap Fund
+125354,Axis Mutual Fund,Axis Small Cap Fund,INF846K01K35,,Open Ended Schemes,Equity Schemes - Small Cap Fund
 125356,Nippon India Mutual Fund,Reliance Fixed Horizon Fund - XXV - Series 3,INF204KA18G9,,Close Ended Schemes,Income
 125357,Nippon India Mutual Fund,Reliance Fixed Horizon Fund - XXV - Series 3,INF204KA10H4,,Close Ended Schemes,Income
 125358,Nippon India Mutual Fund,Reliance Fixed Horizon Fund - XXV - Series 3,INF204KA11H2,,Close Ended Schemes,Income
@@ -3507,10 +3507,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 125683,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan-Series 71-505 Days Plan H,INF109KB1ED7,,Close Ended Schemes,Income
 125684,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan-Series 71-505 Days Plan H,INF109KB1EB1,,Close Ended Schemes,Income
 125686,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan-Series 71-505 Days Plan H,INF109KB1EE5,,Close Ended Schemes,Income
-125711,Shriram Mutual Fund,Shriram Aggressive Hybrid Fund,INF680P01042,,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
-125712,Shriram Mutual Fund,Shriram Aggressive Hybrid Fund,INF680P01059,INF680P01067,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
-125713,Shriram Mutual Fund,Shriram Aggressive Hybrid Fund,INF680P01018,,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
-125714,Shriram Mutual Fund,Shriram Aggressive Hybrid Fund,INF680P01026,INF680P01034,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
+125711,Shriram Mutual Fund,Shriram Aggressive Hybrid Fund,INF680P01042,,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
+125712,Shriram Mutual Fund,Shriram Aggressive Hybrid Fund,INF680P01059,INF680P01067,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
+125713,Shriram Mutual Fund,Shriram Aggressive Hybrid Fund,INF680P01018,,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
+125714,Shriram Mutual Fund,Shriram Aggressive Hybrid Fund,INF680P01026,INF680P01034,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
 125715,Nippon India Mutual Fund,Reliance Dual Advantage Fixed Tenure Fund IV - Plan E,INF204KA1800,,Close Ended Schemes,Income
 125716,Nippon India Mutual Fund,Reliance Dual Advantage Fixed Tenure Fund IV - Plan E,INF204KA1826,,Close Ended Schemes,Income
 125717,Nippon India Mutual Fund,Reliance Dual Advantage Fixed Tenure Fund IV - Plan E,INF204KA1818,,Close Ended Schemes,Income
@@ -3625,10 +3625,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 126676,ICICI Prudential Mutual Fund,ICICI Prudential Equity Savings Fund â Series 1,INF109KA1LL6,,Close Ended Schemes,Growth
 126677,ICICI Prudential Mutual Fund,ICICI Prudential Equity Savings Fund â Series 1,INF109KA1LK8,,Close Ended Schemes,Growth
 126678,ICICI Prudential Mutual Fund,ICICI Prudential Equity Savings Fund â Series 1,INF109KA1LM4,,Close Ended Schemes,Growth
-126685,Canara Robeco Mutual Fund,Canara Robeco Corporate Bond Fund,INF760K01HB2,,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
-126686,Canara Robeco Mutual Fund,Canara Robeco Corporate Bond Fund,INF760K01HC0,INF760K01HD8,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
-126687,Canara Robeco Mutual Fund,Canara Robeco Corporate Bond Fund,INF760K01GY6,,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
-126688,Canara Robeco Mutual Fund,Canara Robeco Corporate Bond Fund,INF760K01GZ3,INF760K01HA4,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
+126685,Canara Robeco Mutual Fund,Canara Robeco Corporate Bond Fund,INF760K01HB2,,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
+126686,Canara Robeco Mutual Fund,Canara Robeco Corporate Bond Fund,INF760K01HC0,INF760K01HD8,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
+126687,Canara Robeco Mutual Fund,Canara Robeco Corporate Bond Fund,INF760K01GY6,,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
+126688,Canara Robeco Mutual Fund,Canara Robeco Corporate Bond Fund,INF760K01GZ3,INF760K01HA4,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
 126701,Nippon India Mutual Fund,Reliance Fixed Horizon Fund - XXV - Series 17,INF204KA1HF0,,Close Ended Schemes,Income
 126702,Nippon India Mutual Fund,Reliance Fixed Horizon Fund - XXV - Series 17,INF204KA1HD5,,Close Ended Schemes,Income
 126703,Nippon India Mutual Fund,Reliance Fixed Horizon Fund - XXV - Series 17,INF204KA1HE3,,Close Ended Schemes,Income
@@ -3951,8 +3951,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 128950,Axis Mutual Fund,Axis Short Term Fund,INF846K01NS1,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 128952,Axis Mutual Fund,Axis Banking and PSU Debt Fund,INF846K01NF8,,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
 128953,Axis Mutual Fund,Axis Banking and PSU Debt Fund,INF846K01NG6,,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
-128954,Axis Mutual Fund,Axis Liquid Fund,INF846K01NH4,,Open Ended Schemes,Debt Scheme - Liquid Fund
-128957,Axis Mutual Fund,Axis Gilt Fund,INF846K01NJ0,,Open Ended Schemes,Debt Scheme - Gilt Fund
+128954,Axis Mutual Fund,Axis Liquid Fund,INF846K01NH4,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+128957,Axis Mutual Fund,Axis Gilt Fund,INF846K01NJ0,,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
 128958,Axis Mutual Fund,Axis Medium Term Fund,INF846K01NO0,,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund
 128961,Axis Mutual Fund,Axis Ultra Short to Short Term Fund,INF846K01NQ5,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 128964,Nippon India Mutual Fund,Reliance Fixed Horizon Fund- XXVI- Series 12,INF204KA1NB7,,Close Ended Schemes,Income
@@ -4243,12 +4243,12 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 130264,Nippon India Mutual Fund,Reliance Fixed Horizon Fund XXVI- Series 32,INF204KA1QX4,,Close Ended Schemes,Income
 130265,Nippon India Mutual Fund,Reliance Fixed Horizon Fund XXVI- Series 32,INF204KA1QY2,,Close Ended Schemes,Income
 130266,Nippon India Mutual Fund,Reliance Fixed Horizon Fund XXVI- Series 32,INF204KA1QZ9,,Close Ended Schemes,Income
-130309,Axis Mutual Fund,Axis Credit Risk Fund,INF846K01PO5,,Open Ended Schemes,Debt Scheme - Credit Risk Fund
-130310,Axis Mutual Fund,Axis Credit Risk Fund,INF846K01PP2,INF846K01PQ0,Open Ended Schemes,Debt Scheme - Credit Risk Fund
-130311,Axis Mutual Fund,Axis Credit Risk Fund,INF846K01PK3,INF846K01PL1,Open Ended Schemes,Debt Scheme - Credit Risk Fund
-130312,Axis Mutual Fund,Axis Credit Risk Fund,INF846K01PM9,INF846K01PN7,Open Ended Schemes,Debt Scheme - Credit Risk Fund
-130313,Axis Mutual Fund,Axis Credit Risk Fund,INF846K01PR8,INF846K01PS6,Open Ended Schemes,Debt Scheme - Credit Risk Fund
-130314,Axis Mutual Fund,Axis Credit Risk Fund,INF846K01PJ5,,Open Ended Schemes,Debt Scheme - Credit Risk Fund
+130309,Axis Mutual Fund,Axis Credit Risk Fund,INF846K01PO5,,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
+130310,Axis Mutual Fund,Axis Credit Risk Fund,INF846K01PP2,INF846K01PQ0,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
+130311,Axis Mutual Fund,Axis Credit Risk Fund,INF846K01PK3,INF846K01PL1,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
+130312,Axis Mutual Fund,Axis Credit Risk Fund,INF846K01PM9,INF846K01PN7,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
+130313,Axis Mutual Fund,Axis Credit Risk Fund,INF846K01PR8,INF846K01PS6,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
+130314,Axis Mutual Fund,Axis Credit Risk Fund,INF846K01PJ5,,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
 130315,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 74 - 370 Days Plan X,INF109KB1JL9,,Close Ended Schemes,Income
 130316,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 74 - 370 Days Plan X,INF109KB1JJ3,,Close Ended Schemes,Income
 130317,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 74 - 370 Days Plan X,INF109KB1JM7,,Close Ended Schemes,Income
@@ -4316,10 +4316,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 130724,Invesco Mutual Fund,Invesco India Credit Risk Fund,INF205K01I91,INF205K01J17,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
 130725,Invesco Mutual Fund,Invesco India Credit Risk Fund,INF205K01J09,INF205K01J25,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
 130726,Invesco Mutual Fund,Invesco India Credit Risk Fund,INF205K01I59,INF205K01I75,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
-130771,Axis Mutual Fund,Axis Arbitrage Fund,INF846K01QC8,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
-130773,Axis Mutual Fund,Axis Arbitrage Fund,INF846K01PZ1,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
-130774,Axis Mutual Fund,Axis Arbitrage Fund,INF846K01QA2,INF846K01QB0,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
-130776,Axis Mutual Fund,Axis Arbitrage Fund,INF846K01QD6,INF846K01QE4,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
+130771,Axis Mutual Fund,Axis Arbitrage Fund,INF846K01QC8,,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund
+130773,Axis Mutual Fund,Axis Arbitrage Fund,INF846K01PZ1,,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund
+130774,Axis Mutual Fund,Axis Arbitrage Fund,INF846K01QA2,INF846K01QB0,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund
+130776,Axis Mutual Fund,Axis Arbitrage Fund,INF846K01QD6,INF846K01QE4,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund
 130777,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 75 - 1352 Days Plan E,INF109KA1ZS1,,Close Ended Schemes,Income
 130778,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 75 - 1352 Days Plan E,INF109KA1ZT9,,Close Ended Schemes,Income
 130779,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 75 - 1352 Days Plan E,INF109KA1ZQ5,,Close Ended Schemes,Income
@@ -5175,12 +5175,12 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 135108,ICICI Prudential Mutual Fund,ICICI Prudential Capital Protection Oriented Fund - Series VIII - 1101 Days Plan G,INF109KB1KN3,,Close Ended Schemes,Income
 135109,ICICI Prudential Mutual Fund,ICICI Prudential Capital Protection Oriented Fund - Series VIII - 1101 Days Plan G,INF109KB1KP8,,Close Ended Schemes,Income
 135110,ICICI Prudential Mutual Fund,ICICI Prudential Capital Protection Oriented Fund - Series VIII - 1101 Days Plan G,INF109KB1KO1,,Close Ended Schemes,Income
-135120,Axis Mutual Fund,Axis Equity Savings Fund,INF846K01VJ3,,Open Ended Schemes,Hybrid Scheme - Equity Savings
-135121,Axis Mutual Fund,Axis Equity Savings Fund,INF846K01VK1,INF846K01VL9,Open Ended Schemes,Hybrid Scheme - Equity Savings
-135122,Axis Mutual Fund,Axis Equity Savings Fund,INF846K01VO3,,Open Ended Schemes,Hybrid Scheme - Equity Savings
-135123,Axis Mutual Fund,Axis Equity Savings Fund,INF846K01VP0,INF846K01VQ8,Open Ended Schemes,Hybrid Scheme - Equity Savings
-135124,Axis Mutual Fund,Axis Equity Savings Fund,INF846K01VM7,INF846K01VN5,Open Ended Schemes,Hybrid Scheme - Equity Savings
-135125,Axis Mutual Fund,Axis Equity Savings Fund,INF846K01VR6,INF846K01VS4,Open Ended Schemes,Hybrid Scheme - Equity Savings
+135120,Axis Mutual Fund,Axis Equity Savings Fund,INF846K01VJ3,,Open Ended Schemes,Hybrid Schemes - Equity Savings Fund
+135121,Axis Mutual Fund,Axis Equity Savings Fund,INF846K01VK1,INF846K01VL9,Open Ended Schemes,Hybrid Schemes - Equity Savings Fund
+135122,Axis Mutual Fund,Axis Equity Savings Fund,INF846K01VO3,,Open Ended Schemes,Hybrid Schemes - Equity Savings Fund
+135123,Axis Mutual Fund,Axis Equity Savings Fund,INF846K01VP0,INF846K01VQ8,Open Ended Schemes,Hybrid Schemes - Equity Savings Fund
+135124,Axis Mutual Fund,Axis Equity Savings Fund,INF846K01VM7,INF846K01VN5,Open Ended Schemes,Hybrid Schemes - Equity Savings Fund
+135125,Axis Mutual Fund,Axis Equity Savings Fund,INF846K01VR6,INF846K01VS4,Open Ended Schemes,Hybrid Schemes - Equity Savings Fund
 135157,Nippon India Mutual Fund,Reliance Fixed Horizon Fund XXIX - Series 2,INF204KA18J3,,Close Ended Schemes,Income
 135158,Nippon India Mutual Fund,Reliance Fixed Horizon Fund XXIX - Series 2,INF204KA10K8,,Close Ended Schemes,Income
 135159,Nippon India Mutual Fund,Reliance Fixed Horizon Fund XXIX - Series 2,INF204KA19J1,,Close Ended Schemes,Income
@@ -5352,14 +5352,14 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 135756,Kotak Mahindra Mutual Fund,Kotak FMP Series 182,INF174K013A0,,Close Ended Schemes,Income
 135757,Kotak Mahindra Mutual Fund,Kotak FMP Series 182,INF174K014A8,,Close Ended Schemes,Income
 135758,Kotak Mahindra Mutual Fund,Kotak FMP Series 182,INF174K015A5,,Close Ended Schemes,Income
-135759,Axis Mutual Fund,Axis Children's Fund,INF846K01WJ1,,Open Ended Schemes,Solution Oriented Scheme - Childrenâs Fund
-135760,Axis Mutual Fund,Axis Children's Fund,INF846K01WK9,,Open Ended Schemes,Solution Oriented Scheme - Childrenâs Fund
-135761,Axis Mutual Fund,Axis Children's Fund,INF846K01WN3,INF846K01WL7,Open Ended Schemes,Solution Oriented Scheme - Childrenâs Fund
-135762,Axis Mutual Fund,Axis Children's Fund,INF846K01WO1,,Open Ended Schemes,Solution Oriented Scheme - Childrenâs Fund
-135763,Axis Mutual Fund,Axis Children's Fund,INF846K01WS2,INF846K01WQ6,Open Ended Schemes,Solution Oriented Scheme - Childrenâs Fund
-135764,Axis Mutual Fund,Axis Children's Fund,INF846K01WR4,,Open Ended Schemes,Solution Oriented Scheme - Childrenâs Fund
-135765,Axis Mutual Fund,Axis Children's Fund,INF846K01WP8,,Open Ended Schemes,Solution Oriented Scheme - Childrenâs Fund
-135766,Axis Mutual Fund,Axis Children's Fund,INF846K01WM5,,Open Ended Schemes,Solution Oriented Scheme - Childrenâs Fund
+135759,Axis Mutual Fund,Axis Children's Fund,INF846K01WJ1,,Open Ended Schemes,Childrenâs Fund - Childrens' Fund
+135760,Axis Mutual Fund,Axis Children's Fund,INF846K01WK9,,Open Ended Schemes,Childrenâs Fund - Childrens' Fund
+135761,Axis Mutual Fund,Axis Children's Fund,INF846K01WN3,INF846K01WL7,Open Ended Schemes,Childrenâs Fund - Childrens' Fund
+135762,Axis Mutual Fund,Axis Children's Fund,INF846K01WO1,,Open Ended Schemes,Childrenâs Fund - Childrens' Fund
+135763,Axis Mutual Fund,Axis Children's Fund,INF846K01WS2,INF846K01WQ6,Open Ended Schemes,Childrenâs Fund - Childrens' Fund
+135764,Axis Mutual Fund,Axis Children's Fund,INF846K01WR4,,Open Ended Schemes,Childrenâs Fund - Childrens' Fund
+135765,Axis Mutual Fund,Axis Children's Fund,INF846K01WP8,,Open Ended Schemes,Childrenâs Fund - Childrens' Fund
+135766,Axis Mutual Fund,Axis Children's Fund,INF846K01WM5,,Open Ended Schemes,Childrenâs Fund - Childrens' Fund
 135767,Nippon India Mutual Fund,Reliance Fixed Horizon Fund XXIX- Series 16,INF204KA11S9,,Close Ended Schemes,Income
 135768,Nippon India Mutual Fund,Reliance Fixed Horizon Fund XXIX- Series 16,INF204KA12S7,,Close Ended Schemes,Income
 135770,Nippon India Mutual Fund,Reliance Fixed Horizon Fund XXIX- Series 16,INF204KA19R4,,Close Ended Schemes,Income
@@ -5861,8 +5861,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 139477,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 79 - 1130 Days Plan E,INF109KB1XJ4,,Close Ended Schemes,Income
 139496,Nippon India Mutual Fund,Nippon India ETF Nifty 8-13 yr G-Sec Long Term Gilt,INF204KB1882,,Open Ended Schemes,Other Scheme - Other  ETFs
 139519,ICICI Prudential Mutual Fund,ICICI Prudential BSE Midcap Select ETF,INF109KC10W0,,Open Ended Schemes,Other Scheme - Other  ETFs
-139520,Axis Mutual Fund,Axis Equity Savings Fund,INF846K01XP6,INF846K01XQ4,Open Ended Schemes,Hybrid Scheme - Equity Savings
-139521,Axis Mutual Fund,Axis Equity Savings Fund,INF846K01XR2,INF846K01XS0,Open Ended Schemes,Hybrid Scheme - Equity Savings
+139520,Axis Mutual Fund,Axis Equity Savings Fund,INF846K01XP6,INF846K01XQ4,Open Ended Schemes,Hybrid Schemes - Equity Savings Fund
+139521,Axis Mutual Fund,Axis Equity Savings Fund,INF846K01XR2,INF846K01XS0,Open Ended Schemes,Hybrid Schemes - Equity Savings Fund
 139527,Bank of India Mutual Fund,BANK OF INDIA AGGRESSIVE HYBRID FUND,INF761K01DM6,,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
 139528,Bank of India Mutual Fund,BANK OF INDIA AGGRESSIVE HYBRID FUND,INF761K01DQ7,INF761K01DR5,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
 139529,Bank of India Mutual Fund,BANK OF INDIA AGGRESSIVE HYBRID FUND,INF761K01DP9,,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
@@ -6676,7 +6676,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 141538,UTI Mutual Fund,UTI - FTIF - Series XXVII - Plan II (1161 Days),INF789FC1M26,,Close Ended Schemes,Income
 141539,UTI Mutual Fund,UTI - FTIF - Series XXVII - Plan II (1161 Days),INF789FC1M18,,Close Ended Schemes,Income
 141540,UTI Mutual Fund,UTI - FTIF - Series XXVII - Plan II (1161 Days),INF789FC1M67,,Close Ended Schemes,Income
-141545,Axis Mutual Fund,Axis Nifty 50 ETF,INF846K01W98,,Open Ended Schemes,Other Scheme - Other  ETFs
+141545,Axis Mutual Fund,Axis Nifty 50 ETF,INF846K01W98,,Open Ended Schemes,Exchange Traded Funds
 141550,Nippon India Mutual Fund,Nippon India Fixed Horizon Fund XXXIV- Series 7,INF204KB1PN6,,Close Ended Schemes,Income
 141551,Nippon India Mutual Fund,Nippon India Fixed Horizon Fund XXXIV- Series 7,INF204KB1PM8,,Close Ended Schemes,Income
 141552,Nippon India Mutual Fund,Nippon India Fixed Horizon Fund XXXIV- Series 7,INF204KB1PP1,,Close Ended Schemes,Income
@@ -6703,16 +6703,16 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 141583,Nippon India Mutual Fund,Nippon India Dual Advantege Fixed Tenure Fund XI- Plan C,INF204KB1PV9,,Close Ended Schemes,Income
 141584,Nippon India Mutual Fund,Nippon India Dual Advantege Fixed Tenure Fund XI- Plan C,INF204KB1PX5,,Close Ended Schemes,Income
 141585,Nippon India Mutual Fund,Nippon India Dual Advantege Fixed Tenure Fund XI- Plan C,INF204KB1PU1,,Close Ended Schemes,Income
-141586,Axis Mutual Fund,AXIS Corporate Bond Fund,INF846K01ZN6,,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
-141587,Axis Mutual Fund,AXIS Corporate Bond Fund,INF846K01ZO4,INF846K01ZP1,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
-141588,Axis Mutual Fund,AXIS Corporate Bond Fund,INF846K01ZM8,,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
-141589,Axis Mutual Fund,AXIS Corporate Bond Fund,INF846K01ZV9,,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
-141590,Axis Mutual Fund,AXIS Corporate Bond Fund,INF846K01ZQ9,INF846K01ZR7,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
-141591,Axis Mutual Fund,AXIS Corporate Bond Fund,INF846K01ZS5,INF846K01ZT3,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
-141592,Axis Mutual Fund,AXIS Corporate Bond Fund,INF846K01ZW7,INF846K01ZX5,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
-141593,Axis Mutual Fund,AXIS Corporate Bond Fund,INF846K01ZU1,,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
-141594,Axis Mutual Fund,AXIS Corporate Bond Fund,INF846K01ZY3,INF846K01ZZ0,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
-141595,Axis Mutual Fund,AXIS Corporate Bond Fund,INF846K01A03,INF846K01A11,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
+141586,Axis Mutual Fund,AXIS Corporate Bond Fund,INF846K01ZN6,,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
+141587,Axis Mutual Fund,AXIS Corporate Bond Fund,INF846K01ZO4,INF846K01ZP1,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
+141588,Axis Mutual Fund,AXIS Corporate Bond Fund,INF846K01ZM8,,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
+141589,Axis Mutual Fund,AXIS Corporate Bond Fund,INF846K01ZV9,,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
+141590,Axis Mutual Fund,AXIS Corporate Bond Fund,INF846K01ZQ9,INF846K01ZR7,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
+141591,Axis Mutual Fund,AXIS Corporate Bond Fund,INF846K01ZS5,INF846K01ZT3,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
+141592,Axis Mutual Fund,AXIS Corporate Bond Fund,INF846K01ZW7,INF846K01ZX5,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
+141593,Axis Mutual Fund,AXIS Corporate Bond Fund,INF846K01ZU1,,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
+141594,Axis Mutual Fund,AXIS Corporate Bond Fund,INF846K01ZY3,INF846K01ZZ0,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
+141595,Axis Mutual Fund,AXIS Corporate Bond Fund,INF846K01A03,INF846K01A11,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
 141596,ICICI Prudential Mutual Fund,ICICI Prudential Nifty 100 Low Volatility 30 ETF,INF109KC19U5,,Open Ended Schemes,Other Scheme - Other  ETFs
 141597,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 81 - 1100 Days Plan O,INF109KB12S6,,Close Ended Schemes,Income
 141598,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 81 - 1100 Days Plan O,INF109KB15S9,,Close Ended Schemes,Income
@@ -6742,10 +6742,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 141627,UTI Mutual Fund,UTI - FTIF - Series XXVII - Plan IV (1113 Days),INF789FC1N90,,Close Ended Schemes,Income
 141628,UTI Mutual Fund,UTI - FTIF - Series XXVII - Plan IV (1113 Days),INF789FC1O32,,Close Ended Schemes,Income
 141629,UTI Mutual Fund,UTI - FTIF - Series XXVII - Plan IV (1113 Days),INF789FC1O81,,Close Ended Schemes,Income
-141642,Axis Mutual Fund,Axis Balanced Advantage Fund,INF846K01A29,,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
-141643,Axis Mutual Fund,Axis Balanced Advantage Fund,INF846K01A37,INF846K01A45,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
-141644,Axis Mutual Fund,Axis Balanced Advantage Fund,INF846K01A52,,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
-141645,Axis Mutual Fund,Axis Balanced Advantage Fund,INF846K01A60,INF846K01A78,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
+141642,Axis Mutual Fund,Axis Balanced Advantage Fund,INF846K01A29,,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
+141643,Axis Mutual Fund,Axis Balanced Advantage Fund,INF846K01A37,INF846K01A45,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
+141644,Axis Mutual Fund,Axis Balanced Advantage Fund,INF846K01A52,,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
+141645,Axis Mutual Fund,Axis Balanced Advantage Fund,INF846K01A60,INF846K01A78,Open Ended Schemes,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
 141657,Nippon India Mutual Fund,Nippon India Fixed Horizon Fund XXXIV- Series 10,INF204KB1QI4,,Close Ended Schemes,Income
 141658,Nippon India Mutual Fund,Nippon India Fixed Horizon Fund XXXIV- Series 10,INF204KB1QJ2,,Close Ended Schemes,Income
 141659,Nippon India Mutual Fund,Nippon India Fixed Horizon Fund XXXIV- Series 10,INF204KB1QK0,,Close Ended Schemes,Income
@@ -6900,10 +6900,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 141922,HDFC Mutual Fund,HDFC Housing Opportunities Fund,INF179KC1AY5,INF179KC1AZ2,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 141923,HDFC Mutual Fund,HDFC Housing Opportunities Fund,INF179KC1AX7,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 141924,HDFC Mutual Fund,HDFC Housing Opportunities Fund,INF179KC1AU3,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-141925,Axis Mutual Fund,Axis Flexi Cap Fund,INF846K01B28,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
-141926,Axis Mutual Fund,Axis Flexi Cap Fund,INF846K01B02,INF846K01B10,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
-141927,Axis Mutual Fund,Axis Flexi Cap Fund,INF846K01B51,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
-141928,Axis Mutual Fund,Axis Flexi Cap Fund,INF846K01B36,INF846K01B44,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
+141925,Axis Mutual Fund,Axis Flexi Cap Fund,INF846K01B28,,Open Ended Schemes,Equity Schemes - Flexi Cap Fund
+141926,Axis Mutual Fund,Axis Flexi Cap Fund,INF846K01B02,INF846K01B10,Open Ended Schemes,Equity Schemes - Flexi Cap Fund
+141927,Axis Mutual Fund,Axis Flexi Cap Fund,INF846K01B51,,Open Ended Schemes,Equity Schemes - Flexi Cap Fund
+141928,Axis Mutual Fund,Axis Flexi Cap Fund,INF846K01B36,INF846K01B44,Open Ended Schemes,Equity Schemes - Flexi Cap Fund
 141933,Edelweiss Mutual Fund,Edelweiss Equity Savings Fund,INF754K01IN8,INF754K01IO6,Open Ended Schemes,Hybrid Scheme - Equity Savings
 141934,Edelweiss Mutual Fund,Edelweiss Equity Savings Fund,INF754K01IP3,INF754K01IQ1,Open Ended Schemes,Hybrid Scheme - Equity Savings
 141935,Kotak Mahindra Mutual Fund,Kotak FMP Series 212,INF174K017Q7,,Close Ended Schemes,Income
@@ -7811,14 +7811,14 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 144387,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 83 - 1110 Days Plan T,INF109KC1II6,,Close Ended Schemes,Income
 144388,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 83 - 1110 Days Plan T,INF109KC1IL0,,Close Ended Schemes,Income
 144389,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 83 - 1110 Days Plan T,INF109KC1IJ4,,Close Ended Schemes,Income
-144393,Axis Mutual Fund,Axis Aggressive Hybrid Fund,INF846K01E90,,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
-144394,Axis Mutual Fund,Axis Aggressive Hybrid Fund,INF846K01E25,,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
-144395,Axis Mutual Fund,Axis Aggressive Hybrid Fund,INF846K01E09,INF846K01E17,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
-144396,Axis Mutual Fund,Axis Aggressive Hybrid Fund,INF846K01E74,INF846K01E82,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
-144397,Axis Mutual Fund,Axis Aggressive Hybrid Fund,INF846K01E33,INF846K01E41,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
-144398,Axis Mutual Fund,Axis Aggressive Hybrid Fund,INF846K01E58,INF846K01E66,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
-144399,Axis Mutual Fund,Axis Aggressive Hybrid Fund,INF846K01F08,INF846K01F16,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
-144400,Axis Mutual Fund,Axis Aggressive Hybrid Fund,INF846K01F24,INF846K01F32,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
+144393,Axis Mutual Fund,Axis Aggressive Hybrid Fund,INF846K01E90,,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
+144394,Axis Mutual Fund,Axis Aggressive Hybrid Fund,INF846K01E25,,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
+144395,Axis Mutual Fund,Axis Aggressive Hybrid Fund,INF846K01E09,INF846K01E17,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
+144396,Axis Mutual Fund,Axis Aggressive Hybrid Fund,INF846K01E74,INF846K01E82,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
+144397,Axis Mutual Fund,Axis Aggressive Hybrid Fund,INF846K01E33,INF846K01E41,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
+144398,Axis Mutual Fund,Axis Aggressive Hybrid Fund,INF846K01E58,INF846K01E66,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
+144399,Axis Mutual Fund,Axis Aggressive Hybrid Fund,INF846K01F08,INF846K01F16,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
+144400,Axis Mutual Fund,Axis Aggressive Hybrid Fund,INF846K01F24,INF846K01F32,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
 144401,Mahindra Manulife Mutual Fund,Mahindra Manulife Dynamic Term Fund,INF174V01531,,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
 144402,Mahindra Manulife Mutual Fund,Mahindra Manulife Dynamic Term Fund,INF174V01572,INF174V01564,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
 144403,Mahindra Manulife Mutual Fund,Mahindra Manulife Dynamic Term Fund,INF174V01580,,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
@@ -8084,10 +8084,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 145105,HDFC Mutual Fund,HDFC FMP 1372D September 2018 (1),INF179KB19R6,,Close Ended Schemes,Income
 145106,HDFC Mutual Fund,HDFC FMP 1372D September 2018 (1),INF179KB11S1,,Close Ended Schemes,Income
 145107,HDFC Mutual Fund,HDFC FMP 1372D September 2018 (1),INF179KB10S3,,Close Ended Schemes,Income
-145109,Axis Mutual Fund,Axis Large & Mid Cap Fund,INF846K01J53,INF846K01J61,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund
-145110,Axis Mutual Fund,Axis Large & Mid Cap Fund,INF846K01J46,,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund
-145111,Axis Mutual Fund,Axis Large & Mid Cap Fund,INF846K01J87,INF846K01J95,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund
-145112,Axis Mutual Fund,Axis Large & Mid Cap Fund,INF846K01J79,,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund
+145109,Axis Mutual Fund,Axis Large & Mid Cap Fund,INF846K01J53,INF846K01J61,Open Ended Schemes,Equity Schemes - Large & Mid Cap Fund
+145110,Axis Mutual Fund,Axis Large & Mid Cap Fund,INF846K01J46,,Open Ended Schemes,Equity Schemes - Large & Mid Cap Fund
+145111,Axis Mutual Fund,Axis Large & Mid Cap Fund,INF846K01J87,INF846K01J95,Open Ended Schemes,Equity Schemes - Large & Mid Cap Fund
+145112,Axis Mutual Fund,Axis Large & Mid Cap Fund,INF846K01J79,,Open Ended Schemes,Equity Schemes - Large & Mid Cap Fund
 145119,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 84 - 1286 Days Plan F,INF109KC1LM2,,Close Ended Schemes,Income
 145122,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 84 - 1286 Days Plan F,INF109KC1LP5,,Close Ended Schemes,Income
 145123,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 84 - 1286 Days Plan F,INF109KC1LN0,,Close Ended Schemes,Income
@@ -8811,14 +8811,14 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 146671,Nippon India Mutual Fund,Nippon India Fixed Horizon Fund - XLI - Series 1,INF204KB1Z07,,Close Ended Schemes,Income
 146672,Nippon India Mutual Fund,Nippon India Fixed Horizon Fund - XLI - Series 1,INF204KB1Y99,,Close Ended Schemes,Income
 146673,Nippon India Mutual Fund,Nippon India Fixed Horizon Fund - XLI - Series 1,INF204KB1Y73,,Close Ended Schemes,Income
-146675,Axis Mutual Fund,Axis Overnight Fund,INF846K01N65,,Open Ended Schemes,Debt Scheme - Overnight Fund
-146676,Axis Mutual Fund,Axis Overnight Fund,INF846K01N40,INF846K01N57,Open Ended Schemes,Debt Scheme - Overnight Fund
-146677,Axis Mutual Fund,Axis Overnight Fund,INF846K01N73,INF846K01N81,Open Ended Schemes,Debt Scheme - Overnight Fund
-146678,Axis Mutual Fund,Axis Overnight Fund,INF846K01O23,,Open Ended Schemes,Debt Scheme - Overnight Fund
-146679,Axis Mutual Fund,Axis Overnight Fund,,INF846K01N99,Open Ended Schemes,Debt Scheme - Overnight Fund
-146680,Axis Mutual Fund,Axis Overnight Fund,INF846K01O07,INF846K01O15,Open Ended Schemes,Debt Scheme - Overnight Fund
-146681,Axis Mutual Fund,Axis Overnight Fund,INF846K01O31,INF846K01O49,Open Ended Schemes,Debt Scheme - Overnight Fund
-146682,Axis Mutual Fund,Axis Overnight Fund,,INF846K01O56,Open Ended Schemes,Debt Scheme - Overnight Fund
+146675,Axis Mutual Fund,Axis Overnight Fund,INF846K01N65,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
+146676,Axis Mutual Fund,Axis Overnight Fund,INF846K01N40,INF846K01N57,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
+146677,Axis Mutual Fund,Axis Overnight Fund,INF846K01N73,INF846K01N81,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
+146678,Axis Mutual Fund,Axis Overnight Fund,INF846K01O23,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
+146679,Axis Mutual Fund,Axis Overnight Fund,,INF846K01N99,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
+146680,Axis Mutual Fund,Axis Overnight Fund,INF846K01O07,INF846K01O15,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
+146681,Axis Mutual Fund,Axis Overnight Fund,INF846K01O31,INF846K01O49,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
+146682,Axis Mutual Fund,Axis Overnight Fund,,INF846K01O56,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 146695,Bandhan Mutual Fund,BANDHAN FIXED TERM PLAN SERIES - 179 (3652 DAYS),INF194KB1736,,Close Ended Schemes,Income
 146699,Bandhan Mutual Fund,BANDHAN FIXED TERM PLAN SERIES - 179 (3652 DAYS),INF194KB1793,,Close Ended Schemes,Income
 146701,Bandhan Mutual Fund,BANDHAN FIXED TERM PLAN SERIES - 179 (3652 DAYS),INF194KB1777,,Close Ended Schemes,Income
@@ -9199,18 +9199,18 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 147564,Mahindra Manulife Mutual Fund,Mahindra Manulife Overnight Fund,INF174V01838,,Open Ended Schemes,Debt Scheme - Overnight Fund
 147565,Mahindra Manulife Mutual Fund,Mahindra Manulife Overnight Fund,INF174V01812,,Open Ended Schemes,Debt Scheme - Overnight Fund
 147566,Mahindra Manulife Mutual Fund,Mahindra Manulife Overnight Fund,,INF174V01820,Open Ended Schemes,Debt Scheme - Overnight Fund
-147567,Axis Mutual Fund,Axis Money Market Fund,INF846K01Q62,,Open Ended Schemes,Debt Scheme - Money Market Fund
-147568,Axis Mutual Fund,Axis Money Market Fund,INF846K01R46,,Open Ended Schemes,Debt Scheme - Money Market Fund
+147567,Axis Mutual Fund,Axis Money Market Fund,INF846K01Q62,,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
+147568,Axis Mutual Fund,Axis Money Market Fund,INF846K01R46,,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
 147569,Edelweiss Mutual Fund,Edelweiss Overnight Fund,INF754K01KE3,,Open Ended Schemes,Debt Scheme - Overnight Fund
 147570,Edelweiss Mutual Fund,Edelweiss Overnight Fund,INF754K01JV9,,Open Ended Schemes,Debt Scheme - Overnight Fund
-147571,Axis Mutual Fund,Axis Money Market Fund,,INF846K01Q70,Open Ended Schemes,Debt Scheme - Money Market Fund
-147572,Axis Mutual Fund,Axis Money Market Fund,INF846K01R12,INF846K01R04,Open Ended Schemes,Debt Scheme - Money Market Fund
-147573,Axis Mutual Fund,Axis Money Market Fund,INF846K01R38,INF846K01R20,Open Ended Schemes,Debt Scheme - Money Market Fund
-147574,Axis Mutual Fund,Axis Money Market Fund,INF846K01S11,INF846K01S03,Open Ended Schemes,Debt Scheme - Money Market Fund
-147575,Axis Mutual Fund,Axis Money Market Fund,INF846K01R79,INF846K01R61,Open Ended Schemes,Debt Scheme - Money Market Fund
-147576,Axis Mutual Fund,Axis Money Market Fund,INF846K01Q96,INF846K01Q88,Open Ended Schemes,Debt Scheme - Money Market Fund
-147577,Axis Mutual Fund,Axis Money Market Fund,,INF846K01R53,Open Ended Schemes,Debt Scheme - Money Market Fund
-147578,Axis Mutual Fund,Axis Money Market Fund,INF846K01R95,INF846K01R87,Open Ended Schemes,Debt Scheme - Money Market Fund
+147571,Axis Mutual Fund,Axis Money Market Fund,,INF846K01Q70,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
+147572,Axis Mutual Fund,Axis Money Market Fund,INF846K01R12,INF846K01R04,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
+147573,Axis Mutual Fund,Axis Money Market Fund,INF846K01R38,INF846K01R20,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
+147574,Axis Mutual Fund,Axis Money Market Fund,INF846K01S11,INF846K01S03,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
+147575,Axis Mutual Fund,Axis Money Market Fund,INF846K01R79,INF846K01R61,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
+147576,Axis Mutual Fund,Axis Money Market Fund,INF846K01Q96,INF846K01Q88,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
+147577,Axis Mutual Fund,Axis Money Market Fund,,INF846K01R53,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
+147578,Axis Mutual Fund,Axis Money Market Fund,INF846K01R95,INF846K01R87,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
 147579,Nippon India Mutual Fund,Nippon India ETF BSE Sensex Next 50,INF204KB15D0,,Open Ended Schemes,Other Scheme - Other  ETFs
 147600,PGIM India Mutual Fund,PGIM India Overnight Fund,INF663L01T43,,Open Ended Schemes,Debt Scheme - Overnight Fund
 147605,PGIM India Mutual Fund,PGIM India Overnight Fund,,INF663L01T35,Open Ended Schemes,Debt Scheme - Overnight Fund
@@ -9344,18 +9344,18 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 147795,Motilal Oswal Mutual Fund,Motilal Oswal Nifty 50 Index Fund,INF247L01AF4,,Open Ended Schemes,Other Scheme - Index Funds
 147796,Motilal Oswal Mutual Fund,Motilal Oswal Nifty Next 50 Index Fund,INF247L01AC1,,Open Ended Schemes,Other Scheme - Index Funds
 147797,Motilal Oswal Mutual Fund,Motilal Oswal Nifty Next 50 Index Fund,INF247L01AD9,,Open Ended Schemes,Other Scheme - Index Funds
-147822,Axis Mutual Fund,Axis Retirement Fund - Aggressive Plan,INF846K01S94,,Open Ended Schemes,Solution Oriented Scheme - Retirement Fund
-147823,Axis Mutual Fund,Axis Retirement Fund - Aggressive Plan,INF846K01T02,,Open Ended Schemes,Solution Oriented Scheme - Retirement Fund
-147824,Axis Mutual Fund,Axis Retirement Fund - Aggressive Plan,INF846K01T10,,Open Ended Schemes,Solution Oriented Scheme - Retirement Fund
-147825,Axis Mutual Fund,Axis Retirement Fund - Aggressive Plan,INF846K01S86,,Open Ended Schemes,Solution Oriented Scheme - Retirement Fund
-147826,Axis Mutual Fund,Axis Retirement Fund - Dynamic Plan,INF846K01T28,,Open Ended Schemes,Solution Oriented Scheme - Retirement Fund
-147827,Axis Mutual Fund,Axis Retirement Fund - Dynamic Plan,INF846K01T36,,Open Ended Schemes,Solution Oriented Scheme - Retirement Fund
-147828,Axis Mutual Fund,Axis Retirement Fund - Dynamic Plan,INF846K01T44,,Open Ended Schemes,Solution Oriented Scheme - Retirement Fund
-147829,Axis Mutual Fund,Axis Retirement Fund - Dynamic Plan,INF846K01T51,,Open Ended Schemes,Solution Oriented Scheme - Retirement Fund
-147830,Axis Mutual Fund,Axis Retirement Fund - Conservative Plan,INF846K01T69,,Open Ended Schemes,Solution Oriented Scheme - Retirement Fund
-147831,Axis Mutual Fund,Axis Retirement Fund - Conservative Plan,INF846K01T77,,Open Ended Schemes,Solution Oriented Scheme - Retirement Fund
-147832,Axis Mutual Fund,Axis Retirement Fund - Conservative Plan,INF846K01T85,,Open Ended Schemes,Solution Oriented Scheme - Retirement Fund
-147833,Axis Mutual Fund,Axis Retirement Fund - Conservative Plan,INF846K01T93,,Open Ended Schemes,Solution Oriented Scheme - Retirement Fund
+147822,Axis Mutual Fund,Axis Retirement Fund - Aggressive Plan,INF846K01S94,,Open Ended Schemes,Solution Oriented Schemes ** - Retirement Fund
+147823,Axis Mutual Fund,Axis Retirement Fund - Aggressive Plan,INF846K01T02,,Open Ended Schemes,Solution Oriented Schemes ** - Retirement Fund
+147824,Axis Mutual Fund,Axis Retirement Fund - Aggressive Plan,INF846K01T10,,Open Ended Schemes,Solution Oriented Schemes ** - Retirement Fund
+147825,Axis Mutual Fund,Axis Retirement Fund - Aggressive Plan,INF846K01S86,,Open Ended Schemes,Solution Oriented Schemes ** - Retirement Fund
+147826,Axis Mutual Fund,Axis Retirement Fund - Dynamic Plan,INF846K01T28,,Open Ended Schemes,Solution Oriented Schemes ** - Retirement Fund
+147827,Axis Mutual Fund,Axis Retirement Fund - Dynamic Plan,INF846K01T36,,Open Ended Schemes,Solution Oriented Schemes ** - Retirement Fund
+147828,Axis Mutual Fund,Axis Retirement Fund - Dynamic Plan,INF846K01T44,,Open Ended Schemes,Solution Oriented Schemes ** - Retirement Fund
+147829,Axis Mutual Fund,Axis Retirement Fund - Dynamic Plan,INF846K01T51,,Open Ended Schemes,Solution Oriented Schemes ** - Retirement Fund
+147830,Axis Mutual Fund,Axis Retirement Fund - Conservative Plan,INF846K01T69,,Open Ended Schemes,Solution Oriented Schemes ** - Retirement Fund
+147831,Axis Mutual Fund,Axis Retirement Fund - Conservative Plan,INF846K01T77,,Open Ended Schemes,Solution Oriented Schemes ** - Retirement Fund
+147832,Axis Mutual Fund,Axis Retirement Fund - Conservative Plan,INF846K01T85,,Open Ended Schemes,Solution Oriented Schemes ** - Retirement Fund
+147833,Axis Mutual Fund,Axis Retirement Fund - Conservative Plan,INF846K01T93,,Open Ended Schemes,Solution Oriented Schemes ** - Retirement Fund
 147834,JM Financial Mutual Fund,JM Overnight Fund,INF192K01LV8,INF192K01LW6,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 147835,JM Financial Mutual Fund,JM Overnight Fund,INF192K01LZ9,INF192K01MA0,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 147836,JM Financial Mutual Fund,JM Overnight Fund,INF192K01LX4,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
@@ -9791,10 +9791,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 148482,Invesco Mutual Fund,Invesco India Focused Fund,INF205KA1205,INF205KA1221,Open Ended Schemes,Equity Schemes - Focused Fund
 148483,Invesco Mutual Fund,Invesco India Focused Fund,INF205KA1189,,Open Ended Schemes,Equity Schemes - Focused Fund
 148484,Invesco Mutual Fund,Invesco India Focused Fund,INF205KA1171,INF205KA1197,Open Ended Schemes,Equity Schemes - Focused Fund
-148485,Axis Mutual Fund,Axis Global Equity Alpha Fund of Fund,INF846K01X06,,Open Ended Schemes,Other Scheme - FoF Overseas
-148486,Axis Mutual Fund,Axis Global Equity Alpha Fund of Fund,INF846K01X30,,Open Ended Schemes,Other Scheme - FoF Overseas
-148487,Axis Mutual Fund,Axis Global Equity Alpha Fund of Fund,INF846K01X14,INF846K01X22,Open Ended Schemes,Other Scheme - FoF Overseas
-148488,Axis Mutual Fund,Axis Global Equity Alpha Fund of Fund,INF846K01X48,INF846K01X55,Open Ended Schemes,Other Scheme - FoF Overseas
+148485,Axis Mutual Fund,Axis Global Equity Alpha Fund of Fund,INF846K01X06,,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas
+148486,Axis Mutual Fund,Axis Global Equity Alpha Fund of Fund,INF846K01X30,,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas
+148487,Axis Mutual Fund,Axis Global Equity Alpha Fund of Fund,INF846K01X14,INF846K01X22,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas
+148488,Axis Mutual Fund,Axis Global Equity Alpha Fund of Fund,INF846K01X48,INF846K01X55,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas
 148489,SBI Mutual Fund,SBI Children's Fund - Investment Plan,INF200KA1Q99,,Open Ended Schemes,Solution Oriented Scheme - Childrenâs Fund
 148490,SBI Mutual Fund,SBI Children's Fund - Investment Plan,INF200KA1R07,,Open Ended Schemes,Solution Oriented Scheme - Childrenâs Fund
 148500,Mirae Asset Mutual Fund,Mirae Asset Diversified Equity Allocator Passive FOF,INF769K01GE9,,Open Ended Schemes,Fund of Funds Scheme
@@ -9843,7 +9843,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 148556,Edelweiss Mutual Fund,Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund,INF754K01LW3,INF754K01LX1,Open Ended Schemes,Other Scheme - Index Funds
 148557,Edelweiss Mutual Fund,Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund,INF754K01LR3,,Open Ended Schemes,Other Scheme - Index Funds
 148558,Edelweiss Mutual Fund,Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund,INF754K01LS1,INF754K01LT9,Open Ended Schemes,Other Scheme - Index Funds
-148559,Axis Mutual Fund,Axis NIFTY Bank ETF,INF846K01X63,,Open Ended Schemes,Other Scheme - Other  ETFs
+148559,Axis Mutual Fund,Axis NIFTY Bank ETF,INF846K01X63,,Open Ended Schemes,Exchange Traded Funds
 148560,quant Mutual Fund,quant ESG Integration Strategy Fund,INF966L01AB8,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 148561,quant Mutual Fund,quant ESG Integration Strategy Fund,INF966L01AC6,INF966L01AF9,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 148563,quant Mutual Fund,quant ESG Integration Strategy Fund,INF966L01AE2,INF966L01AG7,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
@@ -9890,10 +9890,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 148622,Mirae Asset Mutual Fund,Mirae Asset Banking and Financial Services Fund,INF769K01GT7,INF769K01GV3,Open Ended Schemes,Equity Schemes - Thematic Fund
 148623,Mirae Asset Mutual Fund,Mirae Asset Banking and Financial Services Fund,INF769K01GX9,,Open Ended Schemes,Equity Schemes - Thematic Fund
 148624,Mirae Asset Mutual Fund,Mirae Asset Banking and Financial Services Fund,INF769K01GW1,INF769K01GY7,Open Ended Schemes,Equity Schemes - Thematic Fund
-148631,Axis Mutual Fund,Axis Innovation Fund,INF846K01Y05,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-148632,Axis Mutual Fund,Axis Innovation Fund,INF846K01X89,INF846K01X97,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-148633,Axis Mutual Fund,Axis Innovation Fund,INF846K01Y13,INF846K01Y21,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-148634,Axis Mutual Fund,Axis Innovation Fund,INF846K01X71,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
+148631,Axis Mutual Fund,Axis Innovation Fund,INF846K01Y05,,Open Ended Schemes,Equity Schemes - Thematic Fund
+148632,Axis Mutual Fund,Axis Innovation Fund,INF846K01X89,INF846K01X97,Open Ended Schemes,Equity Schemes - Thematic Fund
+148633,Axis Mutual Fund,Axis Innovation Fund,INF846K01Y13,INF846K01Y21,Open Ended Schemes,Equity Schemes - Thematic Fund
+148634,Axis Mutual Fund,Axis Innovation Fund,INF846K01X71,,Open Ended Schemes,Equity Schemes - Thematic Fund
 148635,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life ESG Integration Strategy Fund,INF209KB1U43,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 148636,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life ESG Integration Strategy Fund,INF209KB1U50,INF209KB1U68,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 148637,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life ESG Integration Strategy Fund,INF209KB1U76,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
@@ -9936,10 +9936,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 148696,SBI Mutual Fund,SBI Retirement Benefit Fund - Conservative Plan,INF200KA1T13,,Open Ended Schemes,Solution Oriented Scheme - Retirement Fund
 148697,SBI Mutual Fund,SBI Retirement Benefit Fund - Conservative Hybrid Plan,INF200KA1T62,,Open Ended Schemes,Solution Oriented Scheme - Retirement Fund
 148698,SBI Mutual Fund,SBI Retirement Benefit Fund - Aggressive Plan,INF200KA1S30,,Open Ended Schemes,Solution Oriented Scheme - Retirement Fund
-148699,Axis Mutual Fund,Axis Greater China Equity Fund of Fund,INF846K01Y39,,Open Ended Schemes,Other Scheme - FoF Overseas
-148700,Axis Mutual Fund,Axis Greater China Equity Fund of Fund,INF846K01Y47,INF846K01Y54,Open Ended Schemes,Other Scheme - FoF Overseas
-148701,Axis Mutual Fund,Axis Greater China Equity Fund of Fund,INF846K01Y62,,Open Ended Schemes,Other Scheme - FoF Overseas
-148702,Axis Mutual Fund,Axis Greater China Equity Fund of Fund,INF846K01Y70,INF846K01Y88,Open Ended Schemes,Other Scheme - FoF Overseas
+148699,Axis Mutual Fund,Axis Greater China Equity Fund of Fund,INF846K01Y39,,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas
+148700,Axis Mutual Fund,Axis Greater China Equity Fund of Fund,INF846K01Y47,INF846K01Y54,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas
+148701,Axis Mutual Fund,Axis Greater China Equity Fund of Fund,INF846K01Y62,,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas
+148702,Axis Mutual Fund,Axis Greater China Equity Fund of Fund,INF846K01Y70,INF846K01Y88,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas
 148703,UTI Mutual Fund,UTI Nifty 200 Momentum 30 Index Fund,INF789F1AUT5,,Open Ended Schemes,Index Funds - Equity Funds
 148704,UTI Mutual Fund,UTI Nifty 200 Momentum 30 Index Fund,INF789F1AUS7,,Open Ended Schemes,Index Funds - Equity Funds
 148705,Bandhan Mutual Fund,BANDHAN FLOATING INTEREST RATES FUND,INF194KB1AP5,,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
@@ -10010,7 +10010,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 148796,Edelweiss Mutual Fund,Edelweiss Nifty PSU Bond Plus SDL Apr 2026 50:50 Index Fund,INF754K01ME9,INF754K01MF6,Open Ended Schemes,Other Scheme - Index Funds
 148797,Edelweiss Mutual Fund,Edelweiss Nifty PSU Bond Plus SDL Apr 2026 50:50 Index Fund,INF754K01LZ6,,Open Ended Schemes,Other Scheme - Index Funds
 148798,Nippon India Mutual Fund,Nippon India ETF Nifty SDL Apr 2026 Top 20 Equal Weight,INF204KC1022,,Open Ended Schemes,Other Scheme - Other  ETFs
-148799,Axis Mutual Fund,Axis NIFTY IT ETF,INF846K01Y96,,Open Ended Schemes,Other Scheme - Other  ETFs
+148799,Axis Mutual Fund,Axis NIFTY IT ETF,INF846K01Y96,,Open Ended Schemes,Exchange Traded Funds
 148800,Nippon India Mutual Fund,Nippon India ETF Nifty 5 yr Benchmark G-Sec,INF204KC1030,,Open Ended Schemes,Other Scheme - Other  ETFs
 148805,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty Midcap 150 Index Fund,INF209KB1W41,,Open Ended Schemes,Index Funds - Equity Funds
 148806,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty Midcap 150 Index Fund,INF209KB1W58,INF209KB1W66,Open Ended Schemes,Index Funds - Equity Funds
@@ -10063,7 +10063,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 148927,Mirae Asset Mutual Fund,Mirae Asset NYSE FANG+ ETF,INF769K01HF4,,Open Ended Schemes,Exchange Traded Funds
 148928,Mirae Asset Mutual Fund,Mirae Asset NYSE FANG + ETF Fund of Fund,INF769K01HH0,,Open Ended Schemes,Fund of Funds Scheme
 148929,Mirae Asset Mutual Fund,Mirae Asset NYSE FANG + ETF Fund of Fund,INF769K01HG2,,Open Ended Schemes,Fund of Funds Scheme
-148934,Axis Mutual Fund,Axis NIFTY Healthcare ETF,INF846K01Z12,,Open Ended Schemes,Other Scheme - Other  ETFs
+148934,Axis Mutual Fund,Axis NIFTY Healthcare ETF,INF846K01Z12,,Open Ended Schemes,Exchange Traded Funds
 148943,SBI Mutual Fund,SBI Nifty Next 50 Index Fund,INF200KA1V76,,Open Ended Schemes,Other Scheme - Index Funds
 148944,SBI Mutual Fund,SBI Nifty Next 50 Index Fund,INF200KA1V84,INF200KA1V92,Open Ended Schemes,Other Scheme - Index Funds
 148945,SBI Mutual Fund,SBI Nifty Next 50 Index Fund,INF200KA1W00,,Open Ended Schemes,Other Scheme - Index Funds
@@ -10074,10 +10074,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 148950,Tata Mutual Fund,Tata Dividend Yield Fund,INF277KA1018,,Open Ended Schemes,Equity Scheme - Dividend Yield Fund
 148951,Tata Mutual Fund,Tata Dividend Yield Fund,,INF277K016Z6,Open Ended Schemes,Equity Scheme - Dividend Yield Fund
 148952,Tata Mutual Fund,Tata Dividend Yield Fund,INF277K017Z4,,Open Ended Schemes,Equity Scheme - Dividend Yield Fund
-148953,Axis Mutual Fund,Axis Global Innovation Fund of Fund,INF846K01Z53,,Open Ended Schemes,Other Scheme - FoF Overseas
-148954,Axis Mutual Fund,Axis Global Innovation Fund of Fund,INF846K01Z20,,Open Ended Schemes,Other Scheme - FoF Overseas
-148955,Axis Mutual Fund,Axis Global Innovation Fund of Fund,INF846K01Z38,INF846K01Z46,Open Ended Schemes,Other Scheme - FoF Overseas
-148956,Axis Mutual Fund,Axis Global Innovation Fund of Fund,INF846K01Z61,INF846K01Z79,Open Ended Schemes,Other Scheme - FoF Overseas
+148953,Axis Mutual Fund,Axis Global Innovation Fund of Fund,INF846K01Z53,,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas
+148954,Axis Mutual Fund,Axis Global Innovation Fund of Fund,INF846K01Z20,,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas
+148955,Axis Mutual Fund,Axis Global Innovation Fund of Fund,INF846K01Z38,INF846K01Z46,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas
+148956,Axis Mutual Fund,Axis Global Innovation Fund of Fund,INF846K01Z61,INF846K01Z79,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas
 148957,ICICI Prudential Mutual Fund,ICICI Prudential Nifty Healthcare ETF,INF109KC1Q72,,Open Ended Schemes,Other Scheme - Other  ETFs
 148958,PPFAS Mutual Fund,Parag Parikh Conservative Hybrid Fund,INF879O01175,,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund
 148959,PPFAS Mutual Fund,Parag Parikh Conservative Hybrid Fund,INF879O01209,,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund
@@ -10107,10 +10107,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 148989,ICICI Prudential Mutual Fund,ICICI Prudential Flexi Cap fund,INF109KC1Q80,,Open Ended Schemes,Equity Schemes - Flexi Cap Fund
 148990,ICICI Prudential Mutual Fund,ICICI Prudential Flexi Cap fund,INF109KC1R14,,Open Ended Schemes,Equity Schemes - Flexi Cap Fund
 148991,ICICI Prudential Mutual Fund,ICICI Prudential Flexi Cap fund,INF109KC1R22,INF109KC1R30,Open Ended Schemes,Equity Schemes - Flexi Cap Fund
-148992,Axis Mutual Fund,Axis Quant Fund,INF846K011A2,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-148993,Axis Mutual Fund,Axis Quant Fund,INF846K01Z87,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-148994,Axis Mutual Fund,Axis Quant Fund,INF846K01Z95,INF846K010A4,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-148995,Axis Mutual Fund,Axis Quant Fund,INF846K012A0,INF846K013A8,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
+148992,Axis Mutual Fund,Axis Quant Fund,INF846K011A2,,Open Ended Schemes,Equity Schemes - Thematic Fund
+148993,Axis Mutual Fund,Axis Quant Fund,INF846K01Z87,,Open Ended Schemes,Equity Schemes - Thematic Fund
+148994,Axis Mutual Fund,Axis Quant Fund,INF846K01Z95,INF846K010A4,Open Ended Schemes,Equity Schemes - Thematic Fund
+148995,Axis Mutual Fund,Axis Quant Fund,INF846K012A0,INF846K013A8,Open Ended Schemes,Equity Schemes - Thematic Fund
 149000,Tata Mutual Fund,Tata Floating Rate Fund,INF277KA1042,,Open Ended Schemes,Debt Scheme - Floater Fund
 149001,Tata Mutual Fund,Tata Floating Rate Fund,INF277KA1059,,Open Ended Schemes,Debt Scheme - Floater Fund
 149002,Tata Mutual Fund,Tata Floating Rate Fund,INF277KA1034,,Open Ended Schemes,Debt Scheme - Floater Fund
@@ -10245,15 +10245,15 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 149145,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 49 (1823 Days),INF200KA1Z07,,Close Ended Schemes,Income
 149146,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 49 (1823 Days),INF200KA1Z15,,Close Ended Schemes,Income
 149147,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 49 (1823 Days),INF200KA1Z23,,Close Ended Schemes,Income
-149156,Axis Mutual Fund,Axis NIFTY India Consumption ETF,INF846K016C7,,Open Ended Schemes,Other Scheme - Other  ETFs
+149156,Axis Mutual Fund,Axis NIFTY India Consumption ETF,INF846K016C7,,Open Ended Schemes,Exchange Traded Funds
 149157,ICICI Prudential Mutual Fund,ICICI Prudential Nifty Alpha Low - Volatility 30 ETF FOF,INF109KC1R55,,Open Ended Schemes,Other Scheme - FoF Domestic
 149158,ICICI Prudential Mutual Fund,ICICI Prudential Nifty Alpha Low - Volatility 30 ETF FOF,INF109KC1R89,,Open Ended Schemes,Other Scheme - FoF Domestic
 149159,ICICI Prudential Mutual Fund,ICICI Prudential Nifty Alpha Low - Volatility 30 ETF FOF,INF109KC1R71,INF109KC1R63,Open Ended Schemes,Other Scheme - FoF Domestic
 149160,ICICI Prudential Mutual Fund,ICICI Prudential Nifty Alpha Low - Volatility 30 ETF FOF,INF109KC1S05,INF109KC1R97,Open Ended Schemes,Other Scheme - FoF Domestic
-149165,Axis Mutual Fund,Axis Value Fund,INF846K014C2,INF846K015C9,Open Ended Schemes,Equity Scheme - Value Fund
-149166,Axis Mutual Fund,Axis Value Fund,INF846K010C0,,Open Ended Schemes,Equity Scheme - Value Fund
-149167,Axis Mutual Fund,Axis Value Fund,INF846K013C4,,Open Ended Schemes,Equity Scheme - Value Fund
-149168,Axis Mutual Fund,Axis Value Fund,INF846K011C8,INF846K012C6,Open Ended Schemes,Equity Scheme - Value Fund
+149165,Axis Mutual Fund,Axis Value Fund,INF846K014C2,INF846K015C9,Open Ended Schemes,Equity Schemes - Value Fund
+149166,Axis Mutual Fund,Axis Value Fund,INF846K010C0,,Open Ended Schemes,Equity Schemes - Value Fund
+149167,Axis Mutual Fund,Axis Value Fund,INF846K013C4,,Open Ended Schemes,Equity Schemes - Value Fund
+149168,Axis Mutual Fund,Axis Value Fund,INF846K011C8,INF846K012C6,Open Ended Schemes,Equity Schemes - Value Fund
 149169,Mirae Asset Mutual Fund,Mirae Asset S&P 500 Top 50 ETF,INF769K01HP3,,Open Ended Schemes,Exchange Traded Funds
 149170,Mirae Asset Mutual Fund,Mirae Asset S&P 500 Top 50 ETF Fund of Fund,INF769K01HR9,,Open Ended Schemes,Fund of Funds Scheme
 149171,Mirae Asset Mutual Fund,Mirae Asset S&P 500 Top 50 ETF Fund of Fund,INF769K01HQ1,,Open Ended Schemes,Fund of Funds Scheme
@@ -10409,17 +10409,17 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 149366,HDFC Mutual Fund,HDFC Multi Cap Fund,INF179KC1BV9,,Open Ended Schemes,Equity Scheme - Multi Cap Fund
 149367,HDFC Mutual Fund,HDFC Multi Cap Fund,INF179KC1BT3,INF179KC1BU1,Open Ended Schemes,Equity Scheme - Multi Cap Fund
 149368,HDFC Mutual Fund,HDFC Multi Cap Fund,INF179KC1BS5,,Open Ended Schemes,Equity Scheme - Multi Cap Fund
-149371,Axis Mutual Fund,Axis Nifty 50 Index Fund,INF846K016D5,,Open Ended Schemes,Other Scheme - Index Funds
-149372,Axis Mutual Fund,Axis Nifty 50 Index Fund,INF846K017D3,INF846K018D1,Open Ended Schemes,Other Scheme - Index Funds
-149373,Axis Mutual Fund,Axis Nifty 50 Index Fund,INF846K013D2,,Open Ended Schemes,Other Scheme - Index Funds
-149374,Axis Mutual Fund,Axis Nifty 50 Index Fund,INF846K014D0,INF846K015D7,Open Ended Schemes,Other Scheme - Index Funds
+149371,Axis Mutual Fund,Axis Nifty 50 Index Fund,INF846K016D5,,Open Ended Schemes,Index Funds - Equity Funds
+149372,Axis Mutual Fund,Axis Nifty 50 Index Fund,INF846K017D3,INF846K018D1,Open Ended Schemes,Index Funds - Equity Funds
+149373,Axis Mutual Fund,Axis Nifty 50 Index Fund,INF846K013D2,,Open Ended Schemes,Index Funds - Equity Funds
+149374,Axis Mutual Fund,Axis Nifty 50 Index Fund,INF846K014D0,INF846K015D7,Open Ended Schemes,Index Funds - Equity Funds
 149379,Mirae Asset Mutual Fund,Mirae Asset Hang Seng TECH ETF,INF769K01HS7,,Open Ended Schemes,Exchange Traded Funds
 149380,Mirae Asset Mutual Fund,Mirae Asset Hang Seng TECH ETF Fund of Fund,INF769K01HT5,,Open Ended Schemes,Fund of Funds Scheme
 149381,Mirae Asset Mutual Fund,Mirae Asset Hang Seng TECH ETF Fund of Fund,INF769K01HU3,,Open Ended Schemes,Fund of Funds Scheme
-149382,Axis Mutual Fund,Axis Multicap Fund,INF846K016E3,,Open Ended Schemes,Equity Scheme - Multi Cap Fund
-149383,Axis Mutual Fund,Axis Multicap Fund,INF846K013E0,,Open Ended Schemes,Equity Scheme - Multi Cap Fund
-149384,Axis Mutual Fund,Axis Multicap Fund,INF846K014E8,INF846K015E5,Open Ended Schemes,Equity Scheme - Multi Cap Fund
-149387,Axis Mutual Fund,Axis Multicap Fund,INF846K017E1,INF846K018E9,Open Ended Schemes,Equity Scheme - Multi Cap Fund
+149382,Axis Mutual Fund,Axis Multicap Fund,INF846K016E3,,Open Ended Schemes,Equity Schemes - Multi Cap Fund
+149383,Axis Mutual Fund,Axis Multicap Fund,INF846K013E0,,Open Ended Schemes,Equity Schemes - Multi Cap Fund
+149384,Axis Mutual Fund,Axis Multicap Fund,INF846K014E8,INF846K015E5,Open Ended Schemes,Equity Schemes - Multi Cap Fund
+149387,Axis Mutual Fund,Axis Multicap Fund,INF846K017E1,INF846K018E9,Open Ended Schemes,Equity Schemes - Multi Cap Fund
 149388,ICICI Prudential Mutual Fund,ICICI Prudential Nifty Midcap 150 Index Fund,INF109KC1W33,INF109KC1W41,Open Ended Schemes,Other Scheme - Index Funds
 149389,ICICI Prudential Mutual Fund,ICICI Prudential Nifty Midcap 150 Index Fund,INF109KC1W58,,Open Ended Schemes,Other Scheme - Index Funds
 149390,ICICI Prudential Mutual Fund,ICICI Prudential Nifty Midcap 150 Index Fund,INF109KC1W25,,Open Ended Schemes,Other Scheme - Index Funds
@@ -10480,10 +10480,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 149463,ICICI Prudential Mutual Fund,ICICI Prudential Nifty Auto ETF,INF109KC10V2,,Open Ended Schemes,Other Scheme - Other  ETFs
 149464,ICICI Prudential Mutual Fund,ICICI PRUDENTIAL SILVER ETF,INF109KC1Y56,,Open Ended Schemes,Other Scheme - Other  ETFs
 149465,Nippon India Mutual Fund,Nippon India Nifty Auto ETF,INF204KC1337,,Open Ended Schemes,Other Scheme - Other  ETFs
-149466,Axis Mutual Fund,Axis Nifty Next 50 Index Fund,INF846K019E7,,Open Ended Schemes,Other Scheme - Index Funds
-149467,Axis Mutual Fund,Axis Nifty Next 50 Index Fund,INF846K012F9,,Open Ended Schemes,Other Scheme - Index Funds
-149468,Axis Mutual Fund,Axis Nifty Next 50 Index Fund,INF846K013F7,INF846K014F5,Open Ended Schemes,Other Scheme - Index Funds
-149469,Axis Mutual Fund,Axis Nifty Next 50 Index Fund,INF846K010F3,INF846K011F1,Open Ended Schemes,Other Scheme - Index Funds
+149466,Axis Mutual Fund,Axis Nifty Next 50 Index Fund,INF846K019E7,,Open Ended Schemes,Index Funds - Equity Funds
+149467,Axis Mutual Fund,Axis Nifty Next 50 Index Fund,INF846K012F9,,Open Ended Schemes,Index Funds - Equity Funds
+149468,Axis Mutual Fund,Axis Nifty Next 50 Index Fund,INF846K013F7,INF846K014F5,Open Ended Schemes,Index Funds - Equity Funds
+149469,Axis Mutual Fund,Axis Nifty Next 50 Index Fund,INF846K010F3,INF846K011F1,Open Ended Schemes,Index Funds - Equity Funds
 149470,Mahindra Manulife Mutual Fund,Mahindra Manulife Overnight Fund,,,Open Ended Schemes,Debt Scheme - Overnight Fund
 149471,Mahindra Manulife Mutual Fund,Mahindra Manulife Overnight Fund,,,Open Ended Schemes,Debt Scheme - Overnight Fund
 149472,SBI Mutual Fund,SBI CPSE Bond Plus SDL Sep 2026 50:50 Index Fund,INF200KA10D1,,Open Ended Schemes,Other Scheme - Index Funds
@@ -10652,10 +10652,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 149841,Kotak Mahindra Mutual Fund,Kotak Manufacture in India Fund,INF174KA1IF4,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 149842,Kotak Mahindra Mutual Fund,Kotak Manufacture in India Fund,INF174KA1IG2,INF174KA1IH0,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 149843,Kotak Mahindra Mutual Fund,Kotak Manufacture in India Fund,INF174KA1ID9,INF174KA1IE7,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-149844,Axis Mutual Fund,Axis Multi Factor Passive FoF,INF846K014G3,,Open Ended Schemes,Other Scheme - FoF Domestic
-149845,Axis Mutual Fund,Axis Multi Factor Passive FoF,INF846K015G0,INF846K016G8,Open Ended Schemes,Other Scheme - FoF Domestic
-149846,Axis Mutual Fund,Axis Multi Factor Passive FoF,INF846K012G7,INF846K013G5,Open Ended Schemes,Other Scheme - FoF Domestic
-149847,Axis Mutual Fund,Axis Multi Factor Passive FoF,INF846K011G9,,Open Ended Schemes,Other Scheme - FoF Domestic
+149844,Axis Mutual Fund,Axis Multi Factor Passive FoF,INF846K014G3,,Open Ended Schemes,Fund of Funds Scheme
+149845,Axis Mutual Fund,Axis Multi Factor Passive FoF,INF846K015G0,INF846K016G8,Open Ended Schemes,Fund of Funds Scheme
+149846,Axis Mutual Fund,Axis Multi Factor Passive FoF,INF846K012G7,INF846K013G5,Open Ended Schemes,Fund of Funds Scheme
+149847,Axis Mutual Fund,Axis Multi Factor Passive FoF,INF846K011G9,,Open Ended Schemes,Fund of Funds Scheme
 149852,Kotak Mahindra Mutual Fund,Kotak Nifty SDL Apr 2027 Top 12 Equal Weight Index Fund,INF174KA1II8,,Open Ended Schemes,Other Scheme - Index Funds
 149853,Kotak Mahindra Mutual Fund,Kotak Nifty SDL Apr 2027 Top 12 Equal Weight Index Fund,INF174KA1IJ6,INF174KA1IK4,Open Ended Schemes,Other Scheme - Index Funds
 149854,Kotak Mahindra Mutual Fund,Kotak Nifty SDL Apr 2027 Top 12 Equal Weight Index Fund,INF174KA1IM0,INF174KA1IN8,Open Ended Schemes,Other Scheme - Index Funds
@@ -10672,10 +10672,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 149869,HDFC Mutual Fund,HDFC NIFTY 100 Index Fund,INF179KC1BZ0,,Open Ended Schemes,Other Scheme - Index Funds
 149870,HDFC Mutual Fund,HDFC NIFTY 100 Equal Weight Index Fund,INF179KC1CA1,,Open Ended Schemes,Other Scheme - Index Funds
 149871,HDFC Mutual Fund,HDFC NIFTY 100 Equal Weight Index Fund,INF179KC1CB9,,Open Ended Schemes,Other Scheme - Index Funds
-149872,Axis Mutual Fund,Axis CRISIL IBX SDL May 2027 Index Fund,INF846K010H9,,Open Ended Schemes,Other Scheme - Index Funds
-149873,Axis Mutual Fund,Axis CRISIL IBX SDL May 2027 Index Fund,INF846K017G6,,Open Ended Schemes,Other Scheme - Index Funds
-149874,Axis Mutual Fund,Axis CRISIL IBX SDL May 2027 Index Fund,INF846K018G4,INF846K019G2,Open Ended Schemes,Other Scheme - Index Funds
-149875,Axis Mutual Fund,Axis CRISIL IBX SDL May 2027 Index Fund,INF846K011H7,INF846K012H5,Open Ended Schemes,Other Scheme - Index Funds
+149872,Axis Mutual Fund,Axis CRISIL IBX SDL May 2027 Index Fund,INF846K010H9,,Open Ended Schemes,Index Funds - Debt Funds
+149873,Axis Mutual Fund,Axis CRISIL IBX SDL May 2027 Index Fund,INF846K017G6,,Open Ended Schemes,Index Funds - Debt Funds
+149874,Axis Mutual Fund,Axis CRISIL IBX SDL May 2027 Index Fund,INF846K018G4,INF846K019G2,Open Ended Schemes,Index Funds - Debt Funds
+149875,Axis Mutual Fund,Axis CRISIL IBX SDL May 2027 Index Fund,INF846K011H7,INF846K012H5,Open Ended Schemes,Index Funds - Debt Funds
 149876,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 60 (1878 Days),INF200KA11E7,,Close Ended Schemes,Income
 149877,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 60 (1878 Days),INF200KA12E5,,Close Ended Schemes,Income
 149878,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) - Series 60 (1878 Days),INF200KA13E3,,Close Ended Schemes,Income
@@ -10688,10 +10688,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 149887,SBI Mutual Fund,SBI MultiCap Fund,INF200KA19E0,INF200KA10F6,Open Ended Schemes,Equity Scheme - Multi Cap Fund
 149892,Navi Mutual Fund,Navi Nifty Midcap 150 Index Fund,INF959L01FX6,,Open Ended Schemes,Other Scheme - Index Funds
 149893,Navi Mutual Fund,Navi Nifty Midcap 150 Index Fund,INF959L01FY4,,Open Ended Schemes,Other Scheme - Index Funds
-149894,Axis Mutual Fund,Axis Nifty Smallcap 50 Index Fund,INF846K013H3,,Open Ended Schemes,Other Scheme - Index Funds
-149895,Axis Mutual Fund,Axis Nifty Smallcap 50 Index Fund,INF846K014H1,INF846K015H8,Open Ended Schemes,Other Scheme - Index Funds
-149896,Axis Mutual Fund,Axis Nifty Smallcap 50 Index Fund,INF846K016H6,,Open Ended Schemes,Other Scheme - Index Funds
-149897,Axis Mutual Fund,Axis Nifty Smallcap 50 Index Fund,INF846K017H4,INF846K018H2,Open Ended Schemes,Other Scheme - Index Funds
+149894,Axis Mutual Fund,Axis Nifty Smallcap 50 Index Fund,INF846K013H3,,Open Ended Schemes,Index Funds - Equity Funds
+149895,Axis Mutual Fund,Axis Nifty Smallcap 50 Index Fund,INF846K014H1,INF846K015H8,Open Ended Schemes,Index Funds - Equity Funds
+149896,Axis Mutual Fund,Axis Nifty Smallcap 50 Index Fund,INF846K016H6,,Open Ended Schemes,Index Funds - Equity Funds
+149897,Axis Mutual Fund,Axis Nifty Smallcap 50 Index Fund,INF846K017H4,INF846K018H2,Open Ended Schemes,Index Funds - Equity Funds
 149910,Navi Mutual Fund,Navi NASDAQ100 US Specific Equity Passive FOF,INF959L01FZ1,,Open Ended Schemes,Other Scheme - FoF Overseas
 149911,Navi Mutual Fund,Navi NASDAQ100 US Specific Equity Passive FOF,INF959L01GA2,,Open Ended Schemes,Other Scheme - FoF Overseas
 149914,Nippon India Mutual Fund,Nippon India Fixed Maturity Plan - XLIII - Series 5,INF204KC1485,,Close Ended Schemes,Income
@@ -10715,10 +10715,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 149932,HDFC Mutual Fund,HDFC FMP 1162D March 2022,INF179KC1CN4,,Close Ended Schemes,Income
 149933,HDFC Mutual Fund,HDFC FMP 1162D March 2022,INF179KC1CK0,,Close Ended Schemes,Income
 149934,HDFC Mutual Fund,HDFC FMP 1162D March 2022,INF179KC1CI4,,Close Ended Schemes,Income
-149935,Axis Mutual Fund,Axis Nifty Midcap 50 Index Fund,INF846K010I7,INF846K011I5,Open Ended Schemes,Other Scheme - Index Funds
-149936,Axis Mutual Fund,Axis Nifty Midcap 50 Index Fund,INF846K019H0,,Open Ended Schemes,Other Scheme - Index Funds
-149937,Axis Mutual Fund,Axis Nifty Midcap 50 Index Fund,INF846K013I1,INF846K014I9,Open Ended Schemes,Other Scheme - Index Funds
-149938,Axis Mutual Fund,Axis Nifty Midcap 50 Index Fund,INF846K012I3,,Open Ended Schemes,Other Scheme - Index Funds
+149935,Axis Mutual Fund,Axis Nifty Midcap 50 Index Fund,INF846K010I7,INF846K011I5,Open Ended Schemes,Index Funds - Equity Funds
+149936,Axis Mutual Fund,Axis Nifty Midcap 50 Index Fund,INF846K019H0,,Open Ended Schemes,Index Funds - Equity Funds
+149937,Axis Mutual Fund,Axis Nifty Midcap 50 Index Fund,INF846K013I1,INF846K014I9,Open Ended Schemes,Index Funds - Equity Funds
+149938,Axis Mutual Fund,Axis Nifty Midcap 50 Index Fund,INF846K012I3,,Open Ended Schemes,Index Funds - Equity Funds
 149945,Edelweiss Mutual Fund,Edelweiss CRISIL PSU Plus SDL 50:50 Oct 2025 Index Fund,INF754K01OH8,INF754K01OI6,Open Ended Schemes,Other Scheme - Index Funds
 149947,Edelweiss Mutual Fund,Edelweiss CRISIL PSU Plus SDL 50:50 Oct 2025 Index Fund,INF754K01OD7,INF754K01OE5,Open Ended Schemes,Other Scheme - Index Funds
 149949,Edelweiss Mutual Fund,Edelweiss CRISIL PSU Plus SDL 50:50 Oct 2025 Index Fund,INF754K01OC9,,Open Ended Schemes,Other Scheme - Index Funds
@@ -11000,10 +11000,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 150539,ICICI Prudential Mutual Fund,ICICI PRUDENTIAL PSU EQUITY FUND,INF109KC12I5,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 150540,ICICI Prudential Mutual Fund,ICICI PRUDENTIAL PSU EQUITY FUND,INF109KC10I9,INF109KC11I7,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 150541,ICICI Prudential Mutual Fund,ICICI PRUDENTIAL PSU EQUITY FUND,INF109KC13I3,INF109KC14I1,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-150542,JM Financial Mutual Fund,JM Short Duration Fund,INF192K01MM5,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
-150543,JM Financial Mutual Fund,JM Short Duration Fund,INF192K01MN3,INF192K01MO1,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
-150544,JM Financial Mutual Fund,JM Short Duration Fund,INF192K01MQ6,INF192K01MR4,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
-150545,JM Financial Mutual Fund,JM Short Duration Fund,INF192K01MP8,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+150542,JM Financial Mutual Fund,JM Short Term Fund,INF192K01MM5,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+150543,JM Financial Mutual Fund,JM Short Term Fund,INF192K01MN3,INF192K01MO1,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+150544,JM Financial Mutual Fund,JM Short Term Fund,INF192K01MQ6,INF192K01MR4,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+150545,JM Financial Mutual Fund,JM Short Term Fund,INF192K01MP8,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 150546,HDFC Mutual Fund,HDFC FMP 1406D August 2022,INF179KC1DF8,,Close Ended Schemes,Income
 150547,HDFC Mutual Fund,HDFC FMP 1406D August 2022,INF179KC1DC5,,Close Ended Schemes,Income
 150548,HDFC Mutual Fund,HDFC FMP 1406D August 2022,INF179KC1DD3,,Close Ended Schemes,Income
@@ -11045,11 +11045,11 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 150599,Kotak Mahindra Mutual Fund,Kotak FMP Series 296,INF174KA1JJ4,,Close Ended Schemes,Income
 150600,Kotak Mahindra Mutual Fund,Kotak FMP Series 296,INF174KA1JG0,,Close Ended Schemes,Income
 150601,Kotak Mahindra Mutual Fund,Kotak FMP Series 296,INF174KA1JI6,,Close Ended Schemes,Income
-150610,Axis Mutual Fund,Axis Silver ETF,INF846K011K1,,Open Ended Schemes,Other Scheme - Other  ETFs
-150615,Axis Mutual Fund,Axis Silver Fund of Fund,INF846K015J4,,Open Ended Schemes,Other Scheme - FoF Domestic
-150616,Axis Mutual Fund,Axis Silver Fund of Fund,INF846K016J2,INF846K017J0,Open Ended Schemes,Other Scheme - FoF Domestic
-150617,Axis Mutual Fund,Axis Silver Fund of Fund,INF846K018J8,,Open Ended Schemes,Other Scheme - FoF Domestic
-150618,Axis Mutual Fund,Axis Silver Fund of Fund,INF846K019J6,INF846K010K3,Open Ended Schemes,Other Scheme - FoF Domestic
+150610,Axis Mutual Fund,Axis Silver ETF,INF846K011K1,,Open Ended Schemes,Exchange Traded Funds
+150615,Axis Mutual Fund,Axis Silver Fund of Fund,INF846K015J4,,Open Ended Schemes,Fund of Funds Scheme
+150616,Axis Mutual Fund,Axis Silver Fund of Fund,INF846K016J2,INF846K017J0,Open Ended Schemes,Fund of Funds Scheme
+150617,Axis Mutual Fund,Axis Silver Fund of Fund,INF846K018J8,,Open Ended Schemes,Fund of Funds Scheme
+150618,Axis Mutual Fund,Axis Silver Fund of Fund,INF846K019J6,INF846K010K3,Open Ended Schemes,Fund of Funds Scheme
 150619,HDFC Mutual Fund,HDFC NIFTY50 VALUE 20 ETF,INF179KC1DK8,,Open Ended Schemes,Other Scheme - Other  ETFs
 150620,HDFC Mutual Fund,HDFC NIFTY100 QUALITY 30 ETF,INF179KC1DL6,,Open Ended Schemes,Other Scheme - Other  ETFs
 150621,HDFC Mutual Fund,HDFC NIFTY GROWTH SECTORS 15 ETF,INF179KC1DJ0,,Open Ended Schemes,Other Scheme - Other  ETFs
@@ -11170,10 +11170,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 150745,Bandhan Mutual Fund,BANDHAN CRISIL IBX GILT APRIL 2026 INDEX FUND,INF194KB1EL6,INF194KB1EM4,Open Ended Schemes,Other Scheme - Index Funds
 150746,Bandhan Mutual Fund,BANDHAN CRISIL IBX GILT APRIL 2026 INDEX FUND,INF194KB1EH4,,Open Ended Schemes,Other Scheme - Index Funds
 150747,Bandhan Mutual Fund,BANDHAN CRISIL IBX GILT APRIL 2026 INDEX FUND,INF194KB1EI2,INF194KB1EJ0,Open Ended Schemes,Other Scheme - Index Funds
-150748,Axis Mutual Fund,Axis NASDAQ 100 US Specific Equity Passive FOF,INF846K016K0,INF846K017K8,Open Ended Schemes,Other Scheme - FoF Overseas
-150749,Axis Mutual Fund,Axis NASDAQ 100 US Specific Equity Passive FOF,INF846K013K7,INF846K014K5,Open Ended Schemes,Other Scheme - FoF Overseas
-150750,Axis Mutual Fund,Axis NASDAQ 100 US Specific Equity Passive FOF,INF846K015K2,,Open Ended Schemes,Other Scheme - FoF Overseas
-150751,Axis Mutual Fund,Axis NASDAQ 100 US Specific Equity Passive FOF,INF846K012K9,,Open Ended Schemes,Other Scheme - FoF Overseas
+150748,Axis Mutual Fund,Axis NASDAQ 100 US Specific Equity Passive FOF,INF846K016K0,INF846K017K8,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas
+150749,Axis Mutual Fund,Axis NASDAQ 100 US Specific Equity Passive FOF,INF846K013K7,INF846K014K5,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas
+150750,Axis Mutual Fund,Axis NASDAQ 100 US Specific Equity Passive FOF,INF846K015K2,,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas
+150751,Axis Mutual Fund,Axis NASDAQ 100 US Specific Equity Passive FOF,INF846K012K9,,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas
 150752,Nippon India Mutual Fund,Nippon India Nifty AAA PSU Bond Plus SDL - Sep 2026 Maturity 50:50 Index Fund,INF204KC1659,,Open Ended Schemes,Other Scheme - Index Funds
 150753,Nippon India Mutual Fund,Nippon India Nifty AAA PSU Bond Plus SDL - Sep 2026 Maturity 50:50 Index Fund,INF204KC1691,,Open Ended Schemes,Other Scheme - Index Funds
 150754,Nippon India Mutual Fund,Nippon India Nifty AAA PSU Bond Plus SDL - Sep 2026 Maturity 50:50 Index Fund,INF204KC1683,,Open Ended Schemes,Other Scheme - Index Funds
@@ -11242,10 +11242,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 150848,Edelweiss Mutual Fund,Edelweiss CRISIL IBX 50:50 Gilt Plus SDL Sep 2028 Index Fund,INF754K01PR4,,Open Ended Schemes,Other Scheme - Index Funds
 150849,Edelweiss Mutual Fund,Edelweiss CRISIL IBX 50:50 Gilt Plus SDL Sep 2028 Index Fund,INF754K01PS2,INF754K01PT0,Open Ended Schemes,Other Scheme - Index Funds
 150850,Edelweiss Mutual Fund,Edelweiss CRISIL IBX 50:50 Gilt Plus SDL Sep 2028 Index Fund,INF754K01PW4,INF754K01PX2,Open Ended Schemes,Other Scheme - Index Funds
-150851,Axis Mutual Fund,Axis Nifty SDL September 2026 Debt Index Fund,INF846K011L9,,Open Ended Schemes,Other Scheme - Index Funds
-150852,Axis Mutual Fund,Axis Nifty SDL September 2026 Debt Index Fund,INF846K019K4,INF846K010L1,Open Ended Schemes,Other Scheme - Index Funds
-150853,Axis Mutual Fund,Axis Nifty SDL September 2026 Debt Index Fund,INF846K012L7,INF846K013L5,Open Ended Schemes,Other Scheme - Index Funds
-150854,Axis Mutual Fund,Axis Nifty SDL September 2026 Debt Index Fund,INF846K018K6,,Open Ended Schemes,Other Scheme - Index Funds
+150851,Axis Mutual Fund,Axis Nifty SDL September 2026 Debt Index Fund,INF846K011L9,,Open Ended Schemes,Index Funds - Debt Funds
+150852,Axis Mutual Fund,Axis Nifty SDL September 2026 Debt Index Fund,INF846K019K4,INF846K010L1,Open Ended Schemes,Index Funds - Debt Funds
+150853,Axis Mutual Fund,Axis Nifty SDL September 2026 Debt Index Fund,INF846K012L7,INF846K013L5,Open Ended Schemes,Index Funds - Debt Funds
+150854,Axis Mutual Fund,Axis Nifty SDL September 2026 Debt Index Fund,INF846K018K6,,Open Ended Schemes,Index Funds - Debt Funds
 150855,Union Mutual Fund,Union Multicap Fund,INF582M01IS8,,Open Ended Schemes,Equity Scheme - Multi Cap Fund
 150856,Union Mutual Fund,Union Multicap Fund,INF582M01IT6,INF582M01IU4,Open Ended Schemes,Equity Scheme - Multi Cap Fund
 150857,Union Mutual Fund,Union Multicap Fund,INF582M01IP4,INF582M01IQ2,Open Ended Schemes,Equity Scheme - Multi Cap Fund
@@ -11587,10 +11587,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 151363,UTI Mutual Fund,UTI NIFTY SDL Plus AAA PSU Bond Apr 2026 75:25 Index Fund,INF789F1AXK8,,Open Ended Schemes,Other Scheme - Index Funds
 151364,UTI Mutual Fund,UTI NIFTY SDL Plus AAA PSU Bond Apr 2026 75:25 Index Fund,INF789F1AXL6,,Open Ended Schemes,Other Scheme - Index Funds
 151365,Edelweiss Mutual Fund,Edelweiss CRISIL IBX 50:50 Gilt Plus SDL Short Duration Index Fund,INF754K01RK5,,Open Ended Schemes,Other Scheme - Index Funds
-151366,Axis Mutual Fund,Axis Business Cycles Fund,INF846K019N8,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-151367,Axis Mutual Fund,Axis Business Cycles Fund,INF846K010O5,INF846K011O3,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-151368,Axis Mutual Fund,Axis Business Cycles Fund,INF846K016N4,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-151369,Axis Mutual Fund,Axis Business Cycles Fund,INF846K017N2,INF846K018N0,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
+151366,Axis Mutual Fund,Axis Business Cycles Fund,INF846K019N8,,Open Ended Schemes,Equity Schemes - Thematic Fund
+151367,Axis Mutual Fund,Axis Business Cycles Fund,INF846K010O5,INF846K011O3,Open Ended Schemes,Equity Schemes - Thematic Fund
+151368,Axis Mutual Fund,Axis Business Cycles Fund,INF846K016N4,,Open Ended Schemes,Equity Schemes - Thematic Fund
+151369,Axis Mutual Fund,Axis Business Cycles Fund,INF846K017N2,INF846K018N0,Open Ended Schemes,Equity Schemes - Thematic Fund
 151370,DSP Mutual Fund,DSP Nifty SDL Plus G-Sec Sep 2027 50:50 Index Fund,INF740KA1SE1,,Open Ended Schemes,Other Scheme - Index Funds
 151371,DSP Mutual Fund,DSP Nifty SDL Plus G-Sec Sep 2027 50:50 Index Fund,INF740KA1SI2,INF740KA1SJ0,Open Ended Schemes,Other Scheme - Index Funds
 151372,DSP Mutual Fund,DSP Nifty SDL Plus G-Sec Sep 2027 50:50 Index Fund,INF740KA1SF8,INF740KA1SG6,Open Ended Schemes,Other Scheme - Index Funds
@@ -11634,10 +11634,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 151426,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life CRISIL IBX SDL Jun 2032 Index Fund,INF209KB13S2,,Open Ended Schemes,Other Scheme - Index Funds
 151427,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life CRISIL IBX SDL Jun 2032 Index Fund,INF209KB14S0,,Open Ended Schemes,Other Scheme - Index Funds
 151428,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life CRISIL IBX SDL Jun 2032 Index Fund,INF209KB12S4,,Open Ended Schemes,Other Scheme - Index Funds
-151433,Axis Mutual Fund,Axis Crisil IBX 50:50 Gilt Plus SDL September 2027 Index Fund,INF846K015O4,,Open Ended Schemes,Other Scheme - Index Funds
-151434,Axis Mutual Fund,Axis Crisil IBX 50:50 Gilt Plus SDL September 2027 Index Fund,INF846K016O2,INF846K017O0,Open Ended Schemes,Other Scheme - Index Funds
-151435,Axis Mutual Fund,Axis Crisil IBX 50:50 Gilt Plus SDL September 2027 Index Fund,INF846K012O1,,Open Ended Schemes,Other Scheme - Index Funds
-151436,Axis Mutual Fund,Axis Crisil IBX 50:50 Gilt Plus SDL September 2027 Index Fund,INF846K013O9,INF846K014O7,Open Ended Schemes,Other Scheme - Index Funds
+151433,Axis Mutual Fund,Axis Crisil IBX 50:50 Gilt Plus SDL September 2027 Index Fund,INF846K015O4,,Open Ended Schemes,Index Funds - Debt Funds
+151434,Axis Mutual Fund,Axis Crisil IBX 50:50 Gilt Plus SDL September 2027 Index Fund,INF846K016O2,INF846K017O0,Open Ended Schemes,Index Funds - Debt Funds
+151435,Axis Mutual Fund,Axis Crisil IBX 50:50 Gilt Plus SDL September 2027 Index Fund,INF846K012O1,,Open Ended Schemes,Index Funds - Debt Funds
+151436,Axis Mutual Fund,Axis Crisil IBX 50:50 Gilt Plus SDL September 2027 Index Fund,INF846K013O9,INF846K014O7,Open Ended Schemes,Index Funds - Debt Funds
 151439,Nippon India Mutual Fund,Nippon India Nifty G-Sec Oct 2028 Maturity Index Fund,INF204KC1AL1,,Open Ended Schemes,Other Scheme - Index Funds
 151440,Nippon India Mutual Fund,Nippon India Nifty G-Sec Oct 2028 Maturity Index Fund,INF204KC1AO5,,Open Ended Schemes,Other Scheme - Index Funds
 151441,Nippon India Mutual Fund,Nippon India Nifty G-Sec Oct 2028 Maturity Index Fund,INF204KC1AM9,,Open Ended Schemes,Other Scheme - Index Funds
@@ -11735,7 +11735,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 151582,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil IBX Gilt Apr 2028 Index Fund,INF209KB10U4,,Open Ended Schemes,Other Scheme - Index Funds
 151583,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil IBX Gilt Apr 2028 Index Fund,INF209KB19T7,,Open Ended Schemes,Other Scheme - Index Funds
 151584,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil IBX Gilt Apr 2028 Index Fund,INF209KB12U0,,Open Ended Schemes,Other Scheme - Index Funds
-151585,Axis Mutual Fund,Axis BSE Sensex ETF,INF846K010Q0,,Open Ended Schemes,Other Scheme - Other  ETFs
+151585,Axis Mutual Fund,Axis BSE Sensex ETF,INF846K010Q0,,Open Ended Schemes,Exchange Traded Funds
 151586,Axis Mutual Fund,Axis Fixed Term Plan - Series 113 (1228 Days),INF846K011Q8,,Close Ended Schemes,Income
 151587,Axis Mutual Fund,Axis Fixed Term Plan - Series 113 (1228 Days),INF846K012Q6,,Close Ended Schemes,Income
 151588,Axis Mutual Fund,Axis Fixed Term Plan - Series 113 (1228 Days),INF846K014Q2,,Close Ended Schemes,Income
@@ -11845,10 +11845,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 151781,Kotak Mahindra Mutual Fund,Kotak Nifty 200 Momentum 30 Index Fund,INF174KA1OB1,,Open Ended Schemes,Other Scheme - Index Funds
 151782,Kotak Mahindra Mutual Fund,Kotak Nifty 200 Momentum 30 Index Fund,INF174KA1OC9,INF174KA1OD7,Open Ended Schemes,Other Scheme - Index Funds
 151783,Kotak Mahindra Mutual Fund,Kotak Nifty 200 Momentum 30 Index Fund,INF174KA1NY5,,Open Ended Schemes,Other Scheme - Index Funds
-151784,Axis Mutual Fund,Axis Nifty IT Index Fund,INF846K011S4,INF846K012S2,Open Ended Schemes,Other Scheme - Index Funds
-151785,Axis Mutual Fund,Axis Nifty IT Index Fund,INF846K017R3,,Open Ended Schemes,Other Scheme - Index Funds
-151786,Axis Mutual Fund,Axis Nifty IT Index Fund,INF846K018R1,INF846K019R9,Open Ended Schemes,Other Scheme - Index Funds
-151787,Axis Mutual Fund,Axis Nifty IT Index Fund,INF846K010S6,,Open Ended Schemes,Other Scheme - Index Funds
+151784,Axis Mutual Fund,Axis Nifty IT Index Fund,INF846K011S4,INF846K012S2,Open Ended Schemes,Index Funds - Equity Funds
+151785,Axis Mutual Fund,Axis Nifty IT Index Fund,INF846K017R3,,Open Ended Schemes,Index Funds - Equity Funds
+151786,Axis Mutual Fund,Axis Nifty IT Index Fund,INF846K018R1,INF846K019R9,Open Ended Schemes,Index Funds - Equity Funds
+151787,Axis Mutual Fund,Axis Nifty IT Index Fund,INF846K010S6,,Open Ended Schemes,Index Funds - Equity Funds
 151788,quant Mutual Fund,quant BFSI Fund,INF966L01CA6,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 151789,quant Mutual Fund,quant BFSI Fund,INF966L01CB4,INF966L01CC2,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 151790,quant Mutual Fund,quant BFSI Fund,INF966L01BY8,INF966L01BZ5,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
@@ -12022,8 +12022,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 152047,Mahindra Manulife Mutual Fund,Mahindra Manulife Business Cycle Fund,INF174V01BO9,INF174V01BP6,Open Ended Schemes,Equity Schemes - Thematic Fund
 152048,Mahindra Manulife Mutual Fund,Mahindra Manulife Business Cycle Fund,INF174V01BR2,INF174V01BS0,Open Ended Schemes,Equity Schemes - Thematic Fund
 152050,UTI Mutual Fund,UTI Nifty Midcap 150 Exchange Traded Fund,INF789F1AYX9,,Open Ended Schemes,Exchange Traded Funds
-152051,Shriram Mutual Fund,Shriram Multi Asset Allocation Fund,INF680P01406,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
-152052,Shriram Mutual Fund,Shriram Multi Asset Allocation Fund,INF680P01414,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
+152051,Shriram Mutual Fund,Shriram Multi Asset Allocation Fund,INF680P01406,,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
+152052,Shriram Mutual Fund,Shriram Multi Asset Allocation Fund,INF680P01414,,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
 152053,DSP Mutual Fund,DSP Multi Asset Allocation Fund,INF740KA1TB5,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
 152054,DSP Mutual Fund,DSP Multi Asset Allocation Fund,INF740KA1TC3,INF740KA1TD1,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
 152055,DSP Mutual Fund,DSP Multi Asset Allocation Fund,INF740KA1TF6,INF740KA1TG4,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
@@ -12161,10 +12161,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 152197,Bajaj Finserv Mutual Fund,Bajaj Finserv Balanced Advantage Fund,INF0QA701698,INF0QA701706,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
 152199,Franklin Templeton Mutual Fund,Franklin India Money Market Fund,INF090I01WT9,INF090I01WU7,Open Ended Schemes,Debt Scheme - Money Market Fund
 152200,Franklin Templeton Mutual Fund,Franklin India Money Market Fund,INF090I01WV5,INF090I01WW3,Open Ended Schemes,Debt Scheme - Money Market Fund
-152202,Axis Mutual Fund,Axis India Manufacturing Fund,INF846K016S3,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-152203,Axis Mutual Fund,Axis India Manufacturing Fund,INF846K014S8,INF846K015S5,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-152204,Axis Mutual Fund,Axis India Manufacturing Fund,INF846K017S1,INF846K018S9,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-152205,Axis Mutual Fund,Axis India Manufacturing Fund,INF846K013S0,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
+152202,Axis Mutual Fund,Axis India Manufacturing Fund,INF846K016S3,,Open Ended Schemes,Equity Schemes - Thematic Fund
+152203,Axis Mutual Fund,Axis India Manufacturing Fund,INF846K014S8,INF846K015S5,Open Ended Schemes,Equity Schemes - Thematic Fund
+152204,Axis Mutual Fund,Axis India Manufacturing Fund,INF846K017S1,INF846K018S9,Open Ended Schemes,Equity Schemes - Thematic Fund
+152205,Axis Mutual Fund,Axis India Manufacturing Fund,INF846K013S0,,Open Ended Schemes,Equity Schemes - Thematic Fund
 152206,DSP Mutual Fund,DSP Banking & Financial Services Fund,INF740KA1TQ3,,Open Ended Schemes,Equity Schemes - Sectoral Fund
 152207,DSP Mutual Fund,DSP Banking & Financial Services Fund,INF740KA1TR1,INF740KA1TS9,Open Ended Schemes,Equity Schemes - Sectoral Fund
 152208,DSP Mutual Fund,DSP Banking & Financial Services Fund,INF740KA1TN0,,Open Ended Schemes,Equity Schemes - Sectoral Fund
@@ -12189,10 +12189,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 152234,Motilal Oswal Mutual Fund,Motilal Oswal Small Cap Fund,INF247L01BW7,INF247L01BX5,Open Ended Schemes,Equity Scheme - Small Cap Fund
 152235,Motilal Oswal Mutual Fund,Motilal Oswal Small Cap Fund,INF247L01BZ0,INF247L01CA1,Open Ended Schemes,Equity Scheme - Small Cap Fund
 152237,Motilal Oswal Mutual Fund,Motilal Oswal Small Cap Fund,INF247L01BY3,,Open Ended Schemes,Equity Scheme - Small Cap Fund
-152238,Axis Mutual Fund,Axis US Specific Treasury Dynamic Debt Passive FOF,INF846K014T6,INF846K016T1,Open Ended Schemes,Other Scheme - FoF Overseas
-152239,Axis Mutual Fund,Axis US Specific Treasury Dynamic Debt Passive FOF,INF846K013T8,,Open Ended Schemes,Other Scheme - FoF Overseas
-152240,Axis Mutual Fund,Axis US Specific Treasury Dynamic Debt Passive FOF,INF846K017T9,,Open Ended Schemes,Other Scheme - FoF Overseas
-152241,Axis Mutual Fund,Axis US Specific Treasury Dynamic Debt Passive FOF,INF846K018T7,INF846K019T5,Open Ended Schemes,Other Scheme - FoF Overseas
+152238,Axis Mutual Fund,Axis US Specific Treasury Dynamic Debt Passive FOF,INF846K014T6,INF846K016T1,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas
+152239,Axis Mutual Fund,Axis US Specific Treasury Dynamic Debt Passive FOF,INF846K013T8,,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas
+152240,Axis Mutual Fund,Axis US Specific Treasury Dynamic Debt Passive FOF,INF846K017T9,,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas
+152241,Axis Mutual Fund,Axis US Specific Treasury Dynamic Debt Passive FOF,INF846K018T7,INF846K019T5,Open Ended Schemes,Overseas Fund of Funds - Fund of Funds investing overseas
 152242,DSP Mutual Fund,DSP Nifty Smallcap250 Quality 50 Index Fund,INF740KA1TU5,INF740KA1TV3,Open Ended Schemes,Other Scheme - Index Funds
 152243,DSP Mutual Fund,DSP Nifty Smallcap250 Quality 50 Index Fund,INF740KA1TW1,,Open Ended Schemes,Other Scheme - Index Funds
 152244,DSP Mutual Fund,DSP Nifty Smallcap250 Quality 50 Index Fund,INF740KA1TX9,INF740KA1TY7,Open Ended Schemes,Other Scheme - Index Funds
@@ -12346,10 +12346,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 152418,SBI Mutual Fund,SBI Energy Opportunities Fund,INF200KB1092,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 152419,SBI Mutual Fund,SBI Energy Opportunities Fund,INF200KB1100,INF200KB1118,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 152420,SBI Mutual Fund,SBI Energy Opportunities Fund,INF200KB1134,INF200KB1142,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-152421,Axis Mutual Fund,Axis BSE Sensex Index Fund,INF846K014V2,,Open Ended Schemes,Other Scheme - Index Funds
-152422,Axis Mutual Fund,Axis BSE Sensex Index Fund,INF846K012V6,,Open Ended Schemes,Other Scheme - Index Funds
-152423,Axis Mutual Fund,Axis BSE Sensex Index Fund,INF846K010V0,INF846K011V8,Open Ended Schemes,Other Scheme - Index Funds
-152424,Axis Mutual Fund,Axis BSE Sensex Index Fund,INF846K013V4,INF846K015V9,Open Ended Schemes,Other Scheme - Index Funds
+152421,Axis Mutual Fund,Axis BSE Sensex Index Fund,INF846K014V2,,Open Ended Schemes,Index Funds - Equity Funds
+152422,Axis Mutual Fund,Axis BSE Sensex Index Fund,INF846K012V6,,Open Ended Schemes,Index Funds - Equity Funds
+152423,Axis Mutual Fund,Axis BSE Sensex Index Fund,INF846K010V0,INF846K011V8,Open Ended Schemes,Index Funds - Equity Funds
+152424,Axis Mutual Fund,Axis BSE Sensex Index Fund,INF846K013V4,INF846K015V9,Open Ended Schemes,Index Funds - Equity Funds
 152429,HDFC Mutual Fund,HDFC NIFTY200 Momentum 30 Index Fund,INF179KC1IB6,,Open Ended Schemes,Other Scheme - Index Funds
 152430,HDFC Mutual Fund,HDFC NIFTY200 Momentum 30 Index Fund,INF179KC1IC4,,Open Ended Schemes,Other Scheme - Index Funds
 152431,Groww Mutual Fund,Groww Nifty Smallcap 250 Index Fund,INF666M01HY9,,Open Ended Schemes,Index Funds - Equity Funds
@@ -12498,10 +12498,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 152626,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Retirement Fund,INF251K01TK8,,Open Ended Schemes,Solution Oriented Scheme - Retirement Fund
 152627,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Retirement Fund,INF251K01TI2,,Open Ended Schemes,Solution Oriented Scheme - Retirement Fund
 152628,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Retirement Fund,INF251K01TJ0,,Open Ended Schemes,Solution Oriented Scheme - Retirement Fund
-152629,Axis Mutual Fund,Axis Nifty Bank Index Fund,INF846K015W7,,Open Ended Schemes,Other Scheme - Index Funds
-152630,Axis Mutual Fund,Axis Nifty Bank Index Fund,INF846K013W2,INF846K014W0,Open Ended Schemes,Other Scheme - Index Funds
-152631,Axis Mutual Fund,Axis Nifty Bank Index Fund,INF846K016W5,INF846K017W3,Open Ended Schemes,Other Scheme - Index Funds
-152632,Axis Mutual Fund,Axis Nifty Bank Index Fund,INF846K012W4,,Open Ended Schemes,Other Scheme - Index Funds
+152629,Axis Mutual Fund,Axis Nifty Bank Index Fund,INF846K015W7,,Open Ended Schemes,Index Funds - Equity Funds
+152630,Axis Mutual Fund,Axis Nifty Bank Index Fund,INF846K013W2,INF846K014W0,Open Ended Schemes,Index Funds - Equity Funds
+152631,Axis Mutual Fund,Axis Nifty Bank Index Fund,INF846K016W5,INF846K017W3,Open Ended Schemes,Index Funds - Equity Funds
+152632,Axis Mutual Fund,Axis Nifty Bank Index Fund,INF846K012W4,,Open Ended Schemes,Index Funds - Equity Funds
 152633,Groww Mutual Fund,Groww Nifty Non-Cyclical Consumer Index Fund,INF666M01IB5,,Open Ended Schemes,Index Funds - Equity Funds
 152634,Mirae Asset Mutual Fund,Mirae Asset Nifty MidSmallcap400 Momentum Quality 100 ETF,INF769K01LJ8,,Open Ended Schemes,Exchange Traded Funds
 152635,Groww Mutual Fund,Groww Nifty Non-Cyclical Consumer Index Fund,INF666M01IC3,INF666M01ID1,Open Ended Schemes,Index Funds - Equity Funds
@@ -12593,8 +12593,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 152727,ICICI Prudential Mutual Fund,ICICI PRUDENTIAL ENERGY OPPORTUNITIES FUND,INF109KC16W7,INF109KC17W5,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 152728,ICICI Prudential Mutual Fund,ICICI PRUDENTIAL ENERGY OPPORTUNITIES FUND,INF109KC12W6,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 152729,ICICI Prudential Mutual Fund,ICICI PRUDENTIAL ENERGY OPPORTUNITIES FUND,INF109KC13W4,INF109KC14W2,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-152730,Axis Mutual Fund,Axis Nifty 500 Index Fund,INF846K018W1,,Open Ended Schemes,Other Scheme - Index Funds
-152731,Axis Mutual Fund,Axis Nifty 500 Index Fund,INF846K019W9,,Open Ended Schemes,Other Scheme - Index Funds
+152730,Axis Mutual Fund,Axis Nifty 500 Index Fund,INF846K018W1,,Open Ended Schemes,Index Funds - Equity Funds
+152731,Axis Mutual Fund,Axis Nifty 500 Index Fund,INF846K019W9,,Open Ended Schemes,Index Funds - Equity Funds
 152732,Aditya Birla Sun Life Mutual Fund,ADITYA BIRLA SUN LIFE CRISIL BROAD BASED GILT ETF,INF209KC1134,,Open Ended Schemes,Other Scheme - Other  ETFs
 152733,SBI Mutual Fund,SBI Silver ETF Fund of Fund,INF200KB1266,,Open Ended Schemes,Other Scheme - FoF Domestic
 152734,SBI Mutual Fund,SBI Silver ETF Fund of Fund,INF200KB1225,INF200KB1274,Open Ended Schemes,Other Scheme - FoF Domestic
@@ -12666,10 +12666,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 152800,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty India Defence Index Fund,INF209KC1159,,Open Ended Schemes,Index Funds - Equity Funds
 152801,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty India Defence Index Fund,INF209KC1167,,Open Ended Schemes,Index Funds - Equity Funds
 152802,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil 10 year Gilt ETF,INF209KC1142,,Open Ended Schemes,Other Scheme - Other  ETFs
-152803,Axis Mutual Fund,Axis Consumption Fund,INF846K014X8,INF846K015X5,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-152804,Axis Mutual Fund,Axis Consumption Fund,INF846K010X6,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-152805,Axis Mutual Fund,Axis Consumption Fund,INF846K013X0,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-152806,Axis Mutual Fund,Axis Consumption Fund,INF846K011X4,INF846K012X2,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
+152803,Axis Mutual Fund,Axis Consumption Fund,INF846K014X8,INF846K015X5,Open Ended Schemes,Equity Schemes - Thematic Fund
+152804,Axis Mutual Fund,Axis Consumption Fund,INF846K010X6,,Open Ended Schemes,Equity Schemes - Thematic Fund
+152805,Axis Mutual Fund,Axis Consumption Fund,INF846K013X0,,Open Ended Schemes,Equity Schemes - Thematic Fund
+152806,Axis Mutual Fund,Axis Consumption Fund,INF846K011X4,INF846K012X2,Open Ended Schemes,Equity Schemes - Thematic Fund
 152807,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Dividend Yield Fund,INF251K01TS1,,Open Ended Schemes,Equity Scheme - Dividend Yield Fund
 152808,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Dividend Yield Fund,INF251K01TT9,INF251K01TU7,Open Ended Schemes,Equity Scheme - Dividend Yield Fund
 152809,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Dividend Yield Fund,INF251K01TW3,INF251K01TX1,Open Ended Schemes,Equity Scheme - Dividend Yield Fund
@@ -12746,10 +12746,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 152882,Nippon India Mutual Fund,Nippon India Nifty 500 Momentum 50 Index Fund,INF204KC1DE0,INF204KC1DF7,Open Ended Schemes,Other Scheme - Index Funds
 152883,Nippon India Mutual Fund,Nippon India Nifty 500 Momentum 50 Index Fund,INF204KC1DD2,,Open Ended Schemes,Other Scheme - Index Funds
 152884,Nippon India Mutual Fund,Nippon India Nifty 500 Momentum 50 Index Fund,INF204KC1DH3,INF204KC1DI1,Open Ended Schemes,Other Scheme - Index Funds
-152885,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond NBFC - Jun 2027 Index Fund,INF846K018X9,INF846K010Y4,Open Ended Schemes,Other Scheme - Index Funds
-152886,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond NBFC - Jun 2027 Index Fund,INF846K016X3,,Open Ended Schemes,Other Scheme - Index Funds
-152887,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond NBFC - Jun 2027 Index Fund,INF846K017X1,,Open Ended Schemes,Other Scheme - Index Funds
-152888,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond NBFC - Jun 2027 Index Fund,INF846K019X7,INF846K011Y2,Open Ended Schemes,Other Scheme - Index Funds
+152885,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond NBFC - Jun 2027 Index Fund,INF846K018X9,INF846K010Y4,Open Ended Schemes,Index Funds - Debt Funds
+152886,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond NBFC - Jun 2027 Index Fund,INF846K016X3,,Open Ended Schemes,Index Funds - Debt Funds
+152887,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond NBFC - Jun 2027 Index Fund,INF846K017X1,,Open Ended Schemes,Index Funds - Debt Funds
+152888,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond NBFC - Jun 2027 Index Fund,INF846K019X7,INF846K011Y2,Open Ended Schemes,Index Funds - Debt Funds
 152889,HDFC Mutual Fund,HDFC NIFTY LargeMidcap 250 Index Fund,INF179KC1IQ4,,Open Ended Schemes,Other Scheme - Index Funds
 152890,HDFC Mutual Fund,HDFC NIFTY LargeMidcap 250 Index Fund,INF179KC1IP6,,Open Ended Schemes,Other Scheme - Index Funds
 152891,Groww Mutual Fund,Groww Nifty 1D Rate Liquid ETF,INF666M01IP5,,Open Ended Schemes,Exchange Traded Funds
@@ -12796,8 +12796,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 152946,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil-IBX AAA NBFC-HFC INDEX-Sep 2026 Fund,INF209KC1241,,Open Ended Schemes,Other Scheme - Index Funds
 152947,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil-IBX AAA NBFC-HFC INDEX-Sep 2026 Fund,INF209KC1217,,Open Ended Schemes,Other Scheme - Index Funds
 152948,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil-IBX AAA NBFC-HFC INDEX-Sep 2026 Fund,INF209KC1225,,Open Ended Schemes,Other Scheme - Index Funds
-152949,Axis Mutual Fund,Axis Nifty500 Value 50 Index Fund,INF846K013Y8,,Open Ended Schemes,Other Scheme - Index Funds
-152950,Axis Mutual Fund,Axis Nifty500 Value 50 Index Fund,INF846K012Y0,,Open Ended Schemes,Other Scheme - Index Funds
+152949,Axis Mutual Fund,Axis Nifty500 Value 50 Index Fund,INF846K013Y8,,Open Ended Schemes,Index Funds - Equity Funds
+152950,Axis Mutual Fund,Axis Nifty500 Value 50 Index Fund,INF846K012Y0,,Open Ended Schemes,Index Funds - Equity Funds
 152951,Tata Mutual Fund,Tata Nifty Capital Markets Index Fund,INF277KA1CO5,,Open Ended Schemes,Other Scheme - Index Funds
 152952,Tata Mutual Fund,Tata Nifty Capital Markets Index Fund,,INF277KA1CP2,Open Ended Schemes,Other Scheme - Index Funds
 152953,Tata Mutual Fund,Tata Nifty Capital Markets Index Fund,INF277KA1CQ0,,Open Ended Schemes,Other Scheme - Index Funds
@@ -12884,10 +12884,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153047,Invesco Mutual Fund,Invesco India Multi Asset Allocation Fund,INF205KA1AC1,,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
 153048,Invesco Mutual Fund,Invesco India Multi Asset Allocation Fund,INF205KA1AA5,INF205KA1AB3,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
 153049,Invesco Mutual Fund,Invesco India Multi Asset Allocation Fund,INF205KA1AD9,INF205KA1AE7,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
-153050,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond Financial Services - Sep 2027 Index Fund,INF846K014Y6,,Open Ended Schemes,Other Scheme - Index Funds
-153051,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond Financial Services - Sep 2027 Index Fund,INF846K015Y3,,Open Ended Schemes,Other Scheme - Index Funds
-153052,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond Financial Services - Sep 2027 Index Fund,INF846K017Y9,INF846K019Y5,Open Ended Schemes,Other Scheme - Index Funds
-153053,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond Financial Services - Sep 2027 Index Fund,INF846K016Y1,INF846K018Y7,Open Ended Schemes,Other Scheme - Index Funds
+153050,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond Financial Services - Sep 2027 Index Fund,INF846K014Y6,,Open Ended Schemes,Index Funds - Debt Funds
+153051,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond Financial Services - Sep 2027 Index Fund,INF846K015Y3,,Open Ended Schemes,Index Funds - Debt Funds
+153052,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond Financial Services - Sep 2027 Index Fund,INF846K017Y9,INF846K019Y5,Open Ended Schemes,Index Funds - Debt Funds
+153053,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond Financial Services - Sep 2027 Index Fund,INF846K016Y1,INF846K018Y7,Open Ended Schemes,Index Funds - Debt Funds
 153054,Tata Mutual Fund,Tata India Innovation Fund,INF277KA1CT4,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 153055,Tata Mutual Fund,Tata India Innovation Fund,INF277KA1CU2,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 153056,Tata Mutual Fund,Tata India Innovation Fund,,INF277KA1CV0,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
@@ -12916,10 +12916,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153079,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life BSE India Infrastructure Index Fund,INF209KC1365,,Open Ended Schemes,Index Funds - Equity Funds
 153080,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life BSE India Infrastructure Index Fund,INF209KC1357,,Open Ended Schemes,Index Funds - Equity Funds
 153081,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life BSE India Infrastructure Index Fund,INF209KC1332,,Open Ended Schemes,Index Funds - Equity Funds
-153082,Axis Mutual Fund,Axis Momentum Fund,INF846K012Z7,INF846K014Z3,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-153083,Axis Mutual Fund,Axis Momentum Fund,INF846K011Z9,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-153084,Axis Mutual Fund,Axis Momentum Fund,INF846K013Z5,INF846K015Z0,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-153085,Axis Mutual Fund,Axis Momentum Fund,INF846K010Z1,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
+153082,Axis Mutual Fund,Axis Momentum Fund,INF846K012Z7,INF846K014Z3,Open Ended Schemes,Equity Schemes - Thematic Fund
+153083,Axis Mutual Fund,Axis Momentum Fund,INF846K011Z9,,Open Ended Schemes,Equity Schemes - Thematic Fund
+153084,Axis Mutual Fund,Axis Momentum Fund,INF846K013Z5,INF846K015Z0,Open Ended Schemes,Equity Schemes - Thematic Fund
+153085,Axis Mutual Fund,Axis Momentum Fund,INF846K010Z1,,Open Ended Schemes,Equity Schemes - Thematic Fund
 153086,UTI Mutual Fund,UTI Nifty Alpha Low-Volatility 30 Index Fund,INF789F1AZM9,,Open Ended Schemes,Index Funds - Equity Funds
 153087,UTI Mutual Fund,UTI Nifty Alpha Low-Volatility 30 Index Fund,INF789F1AZL1,,Open Ended Schemes,Index Funds - Equity Funds
 153088,UTI Mutual Fund,UTI Nifty Midcap 150 Index Fund,INF789F1AZN7,,Open Ended Schemes,Index Funds - Equity Funds
@@ -13004,10 +13004,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153169,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Children's Fund,INF251K01UD1,,Open Ended Schemes,Solution Oriented Scheme - Childrenâs Fund
 153170,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Children's Fund,INF251K01UC3,,Open Ended Schemes,Solution Oriented Scheme - Childrenâs Fund
 153171,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Children's Fund,INF251K01UE9,,Open Ended Schemes,Solution Oriented Scheme - Childrenâs Fund
-153172,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond NBFC-HFC - Jun 2027 Index Fund,INF846KA1028,,Open Ended Schemes,Other Scheme - Index Funds
-153173,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond NBFC-HFC - Jun 2027 Index Fund,INF846K018Z4,INF846KA1010,Open Ended Schemes,Other Scheme - Index Funds
-153174,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond NBFC-HFC - Jun 2027 Index Fund,INF846K016Z8,,Open Ended Schemes,Other Scheme - Index Funds
-153175,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond NBFC-HFC - Jun 2027 Index Fund,INF846K017Z6,INF846K019Z2,Open Ended Schemes,Other Scheme - Index Funds
+153172,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond NBFC-HFC - Jun 2027 Index Fund,INF846KA1028,,Open Ended Schemes,Index Funds - Debt Funds
+153173,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond NBFC-HFC - Jun 2027 Index Fund,INF846K018Z4,INF846KA1010,Open Ended Schemes,Index Funds - Debt Funds
+153174,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond NBFC-HFC - Jun 2027 Index Fund,INF846K016Z8,,Open Ended Schemes,Index Funds - Debt Funds
+153175,Axis Mutual Fund,Axis CRISIL-IBX AAA Bond NBFC-HFC - Jun 2027 Index Fund,INF846K017Z6,INF846K019Z2,Open Ended Schemes,Index Funds - Debt Funds
 153176,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil-IBX Financial Services 3 to 6 months Debt Index Fund,INF209KC1464,,Open Ended Schemes,Other Scheme - Index Funds
 153177,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil-IBX Financial Services 3 to 6 months Debt Index Fund,INF209KC1472,,Open Ended Schemes,Other Scheme - Index Funds
 153178,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Crisil-IBX Financial Services 3 to 6 months Debt Index Fund,INF209KC1480,,Open Ended Schemes,Other Scheme - Index Funds
@@ -13074,8 +13074,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153241,Union Mutual Fund,Union Short Term Fund,INF582M01KL9,INF582M01KM7,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
 153242,Union Mutual Fund,Union Short Term Fund,INF582M01KO3,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
 153243,Union Mutual Fund,Union Short Term Fund,INF582M01KP0,INF582M01KQ8,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
-153244,Axis Mutual Fund,Axis Nifty500 Momentum 50 Index Fund,INF846KA1044,,Open Ended Schemes,Other Scheme - Index Funds
-153245,Axis Mutual Fund,Axis Nifty500 Momentum 50 Index Fund,INF846KA1036,,Open Ended Schemes,Other Scheme - Index Funds
+153244,Axis Mutual Fund,Axis Nifty500 Momentum 50 Index Fund,INF846KA1044,,Open Ended Schemes,Index Funds - Equity Funds
+153245,Axis Mutual Fund,Axis Nifty500 Momentum 50 Index Fund,INF846KA1036,,Open Ended Schemes,Index Funds - Equity Funds
 153246,LIC Mutual Fund,LIC MF Multi Asset Allocation Fund,INF767K01RZ5,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
 153247,LIC Mutual Fund,LIC MF Multi Asset Allocation Fund,INF767K01RY8,INF767K01RX0,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
 153248,LIC Mutual Fund,LIC MF Multi Asset Allocation Fund,INF767K01RW2,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
@@ -13236,7 +13236,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153411,ICICI Prudential Mutual Fund,ICICI Prudential CRISIL-IBX Financial Services 3-6 Months Debt Index Fund,INF109K1A062,,Open Ended Schemes,Other Scheme - Index Funds
 153412,ICICI Prudential Mutual Fund,ICICI Prudential CRISIL-IBX Financial Services 3-6 Months Debt Index Fund,INF109K1A054,INF109K1A047,Open Ended Schemes,Other Scheme - Index Funds
 153413,Zerodha Mutual Fund,Zerodha Silver ETF,INF0R8F01091,,Open Ended Schemes,Other Scheme - Other  ETFs
-153414,Axis Mutual Fund,Axis Nifty500 Value 50 ETF,INF846KA1119,,Open Ended Schemes,Other Scheme - Other  ETFs
+153414,Axis Mutual Fund,Axis Nifty500 Value 50 ETF,INF846KA1119,,Open Ended Schemes,Exchange Traded Funds
 153415,360 ONE Mutual Fund,360 ONE Silver ETF,INF579M01BC3,,Open Ended Schemes,Exchange Traded Funds
 153416,Edelweiss Mutual Fund,Edelweiss Ultra Short to Short Term Fund,INF754K01UP8,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 153417,Edelweiss Mutual Fund,Edelweiss Ultra Short to Short Term Fund,INF754K01UU8,INF754K01UV6,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
@@ -13422,10 +13422,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153618,Motilal Oswal Mutual Fund,Motilal Oswal Nifty India Tourism ETF,INF247L01FP2,,Open Ended Schemes,Other Scheme - Other  ETFs
 153619,HDFC Mutual Fund,HDFC INNOVATION FUND,INF179KC1JL3,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 153620,HDFC Mutual Fund,HDFC INNOVATION FUND,INF179KC1JO7,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-153621,Axis Mutual Fund,Axis Services Opportunities Fund,INF846KA1135,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-153622,Axis Mutual Fund,Axis Services Opportunities Fund,INF846KA1176,INF846KA1184,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-153623,Axis Mutual Fund,Axis Services Opportunities Fund,INF846KA1143,INF846KA1150,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-153624,Axis Mutual Fund,Axis Services Opportunities Fund,INF846KA1168,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
+153621,Axis Mutual Fund,Axis Services Opportunities Fund,INF846KA1135,,Open Ended Schemes,Equity Schemes - Thematic Fund
+153622,Axis Mutual Fund,Axis Services Opportunities Fund,INF846KA1176,INF846KA1184,Open Ended Schemes,Equity Schemes - Thematic Fund
+153623,Axis Mutual Fund,Axis Services Opportunities Fund,INF846KA1143,INF846KA1150,Open Ended Schemes,Equity Schemes - Thematic Fund
+153624,Axis Mutual Fund,Axis Services Opportunities Fund,INF846KA1168,,Open Ended Schemes,Equity Schemes - Thematic Fund
 153625,Groww Mutual Fund,Groww Nifty India Internet ETF,INF666M01LI4,,Open Ended Schemes,Exchange Traded Funds
 153626,Groww Mutual Fund,Groww Nifty India Internet ETF FOF,INF666M01LC7,,Open Ended Schemes,Fund of Funds Scheme
 153627,JM Financial Mutual Fund,JM Large & Mid Cap Fund,INF192K01NM3,,Open Ended Schemes,Equity Schemes - Large & Mid Cap Fund
@@ -13612,8 +13612,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153826,Angel One Mutual Fund,ANGEL ONE GOLD ETF,INF1J2R01114,,Open Ended Schemes,Other Scheme - Gold ETF
 153827,Angel One Mutual Fund,ANGEL ONE GOLD ETF FOF,INF1J2R01098,,Open Ended Schemes,Other Scheme - FoF Domestic
 153828,Angel One Mutual Fund,ANGEL ONE GOLD ETF FOF,INF1J2R01106,,Open Ended Schemes,Other Scheme - FoF Domestic
-153829,Axis Mutual Fund,Axis Nifty500 Quality 50 Index Fund,INF846KA1200,,Open Ended Schemes,Other Scheme - Index Funds
-153830,Axis Mutual Fund,Axis Nifty500 Quality 50 Index Fund,INF846KA1192,,Open Ended Schemes,Other Scheme - Index Funds
+153829,Axis Mutual Fund,Axis Nifty500 Quality 50 Index Fund,INF846KA1200,,Open Ended Schemes,Index Funds - Equity Funds
+153830,Axis Mutual Fund,Axis Nifty500 Quality 50 Index Fund,INF846KA1192,,Open Ended Schemes,Index Funds - Equity Funds
 153831,SBI Mutual Fund,SBI Dynamic Asset Allocation Active FoF,INF200KB1977,,Open Ended Schemes,Other Scheme - FoF Domestic
 153832,SBI Mutual Fund,SBI Dynamic Asset Allocation Active FoF,INF200KB1AA9,,Open Ended Schemes,Other Scheme - FoF Domestic
 153833,SBI Mutual Fund,SBI Dynamic Asset Allocation Active FoF,INF200KB1AB7,INF200KB1AC5,Open Ended Schemes,Other Scheme - FoF Domestic
@@ -13655,10 +13655,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153876,Kotak Mahindra Mutual Fund,Kotak CRISIL-IBX Financial Services 9 to 12 Months Debt Index Fund,INF174KA1XN7,INF174KA1XO5,Open Ended Schemes,Other Scheme - Index Funds
 153877,Kotak Mahindra Mutual Fund,Kotak CRISIL-IBX Financial Services 9 to 12 Months Debt Index Fund,INF174KA1XP2,,Open Ended Schemes,Other Scheme - Index Funds
 153878,Kotak Mahindra Mutual Fund,Kotak CRISIL-IBX Financial Services 9 to 12 Months Debt Index Fund,INF174KA1XQ0,INF174KA1XR8,Open Ended Schemes,Other Scheme - Index Funds
-153879,Axis Mutual Fund,Axis CRISIL-IBX Financial Services 3-6 Months Debt Index Fund,INF846KA1226,,Open Ended Schemes,Other Scheme - Index Funds
-153880,Axis Mutual Fund,Axis CRISIL-IBX Financial Services 3-6 Months Debt Index Fund,INF846KA1218,,Open Ended Schemes,Other Scheme - Index Funds
-153881,Axis Mutual Fund,Axis CRISIL-IBX Financial Services 3-6 Months Debt Index Fund,INF846KA1234,INF846KA1259,Open Ended Schemes,Other Scheme - Index Funds
-153882,Axis Mutual Fund,Axis CRISIL-IBX Financial Services 3-6 Months Debt Index Fund,INF846KA1242,INF846KA1267,Open Ended Schemes,Other Scheme - Index Funds
+153879,Axis Mutual Fund,Axis CRISIL-IBX Financial Services 3-6 Months Debt Index Fund,INF846KA1226,,Open Ended Schemes,Index Funds - Debt Funds
+153880,Axis Mutual Fund,Axis CRISIL-IBX Financial Services 3-6 Months Debt Index Fund,INF846KA1218,,Open Ended Schemes,Index Funds - Debt Funds
+153881,Axis Mutual Fund,Axis CRISIL-IBX Financial Services 3-6 Months Debt Index Fund,INF846KA1234,INF846KA1259,Open Ended Schemes,Index Funds - Debt Funds
+153882,Axis Mutual Fund,Axis CRISIL-IBX Financial Services 3-6 Months Debt Index Fund,INF846KA1242,INF846KA1267,Open Ended Schemes,Index Funds - Debt Funds
 153883,The Wealth Company Mutual Fund,The Wealth Company Liquid Fund,INF2F0001081,,Open Ended Schemes,Debt Scheme - Liquid Fund
 153884,The Wealth Company Mutual Fund,The Wealth Company Liquid Fund,INF2F0001107,INF2F0001099,Open Ended Schemes,Debt Scheme - Liquid Fund
 153885,The Wealth Company Mutual Fund,The Wealth Company Liquid Fund,INF2F0001180,INF2F0001172,Open Ended Schemes,Debt Scheme - Liquid Fund
@@ -13700,10 +13700,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153921,Kotak Mahindra Mutual Fund,Kotak Gold Silver Passive FOF,INF174KA1XT4,,Open Ended Schemes,Other Scheme - FoF Domestic
 153922,Kotak Mahindra Mutual Fund,Kotak Gold Silver Passive FOF,INF174KA1XU2,,Open Ended Schemes,Other Scheme - FoF Domestic
 153923,Groww Mutual Fund,Groww Nifty Smallcap 250 ETF,INF666M01MO0,,Open Ended Schemes,Exchange Traded Funds
-153924,Axis Mutual Fund,Axis Income Plus Arbitrage Passive FOF,INF846KA1283,,Open Ended Schemes,Other Scheme - FoF Domestic
-153925,Axis Mutual Fund,Axis Income Plus Arbitrage Passive FOF,INF846KA1309,INF846KA1325,Open Ended Schemes,Other Scheme - FoF Domestic
-153926,Axis Mutual Fund,Axis Income Plus Arbitrage Passive FOF,INF846KA1291,INF846KA1317,Open Ended Schemes,Other Scheme - FoF Domestic
-153927,Axis Mutual Fund,Axis Income Plus Arbitrage Passive FOF,INF846KA1275,,Open Ended Schemes,Other Scheme - FoF Domestic
+153924,Axis Mutual Fund,Axis Income Plus Arbitrage Passive FOF,INF846KA1283,,Open Ended Schemes,Index Funds - Debt Funds
+153925,Axis Mutual Fund,Axis Income Plus Arbitrage Passive FOF,INF846KA1309,INF846KA1325,Open Ended Schemes,Index Funds - Debt Funds
+153926,Axis Mutual Fund,Axis Income Plus Arbitrage Passive FOF,INF846KA1291,INF846KA1317,Open Ended Schemes,Index Funds - Debt Funds
+153927,Axis Mutual Fund,Axis Income Plus Arbitrage Passive FOF,INF846KA1275,,Open Ended Schemes,Index Funds - Debt Funds
 153928,Motilal Oswal Mutual Fund,Motilal Oswal Nifty 100 ETF,INF247L01GG9,,Open Ended Schemes,Other Scheme - Other  ETFs
 153929,Bandhan Mutual Fund,Bandhan Silver ETF,INF194KB1KI9,,Open Ended Schemes,Other Scheme - Other  ETFs
 153930,Bandhan Mutual Fund,Bandhan Gold ETF,INF194KB1KJ7,,Open Ended Schemes,Other Scheme - Gold ETF
@@ -13833,8 +13833,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154072,Edelweiss Mutual Fund,Edelweiss Silver ETF Fund of Fund,INF754K01VZ5,,Open Ended Schemes,Other Scheme - FoF Domestic
 154075,Edelweiss Mutual Fund,Edelweiss Silver ETF Fund of Fund,INF754K01WD0,,Open Ended Schemes,Other Scheme - FoF Domestic
 154076,Jio BlackRock Mutual Fund,JioBlackRock Arbitrage Fund,INF22M001101,,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund
-154077,Axis Mutual Fund,Axis Gold and Silver Passive FOF,INF846KA1390,,Open Ended Schemes,Other Scheme - FoF Domestic
-154078,Axis Mutual Fund,Axis Gold and Silver Passive FOF,INF846KA1408,,Open Ended Schemes,Other Scheme - FoF Domestic
+154077,Axis Mutual Fund,Axis Gold and Silver Passive FOF,INF846KA1390,,Open Ended Schemes,Fund of Funds Scheme
+154078,Axis Mutual Fund,Axis Gold and Silver Passive FOF,INF846KA1408,,Open Ended Schemes,Fund of Funds Scheme
 154079,Jio BlackRock Mutual Fund,JioBlackRock Short Term Fund,INF22M001143,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 154081,Jio BlackRock Mutual Fund,JioBlackRock Ultra Short to Short Term Fund,INF22M001150,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 154082,Jio BlackRock Mutual Fund,JioBlackRock Sector Rotation Fund,INF22M001168,,Open Ended Schemes,Equity Schemes - Thematic Fund
@@ -13917,8 +13917,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154167,DSP Mutual Fund,DSP Multi Asset Omni Fund of Funds,INF740KA1YE9,,Open Ended Schemes,Other Scheme - FoF Domestic
 154168,DSP Mutual Fund,DSP Multi Asset Omni Fund of Funds,INF740KA1YC3,INF740KA1YD1,Open Ended Schemes,Other Scheme - FoF Domestic
 154169,Mirae Asset Mutual Fund,Mirae Asset Nifty 500 Healthcare ETF,INF769K01QA6,,Open Ended Schemes,Exchange Traded Funds
-154170,Axis Mutual Fund,Axis BSE India Sector Leaders Index Fund,INF846KA1416,,Open Ended Schemes,Other Scheme - Index Funds
-154171,Axis Mutual Fund,Axis BSE India Sector Leaders Index Fund,INF846KA1424,,Open Ended Schemes,Other Scheme - Index Funds
+154170,Axis Mutual Fund,Axis BSE India Sector Leaders Index Fund,INF846KA1416,,Open Ended Schemes,Index Funds - Equity Funds
+154171,Axis Mutual Fund,Axis BSE India Sector Leaders Index Fund,INF846KA1424,,Open Ended Schemes,Index Funds - Equity Funds
 154172,Groww Mutual Fund,Groww Nifty PSE ETF FOF,INF666M01NS9,INF666M01NT7,Open Ended Schemes,Fund of Funds Scheme
 154173,Groww Mutual Fund,Groww Nifty PSE ETF FOF,INF666M01NU5,,Open Ended Schemes,Fund of Funds Scheme
 154174,Groww Mutual Fund,Groww Nifty PSE ETF FOF,INF666M01NV3,INF666M01NW1,Open Ended Schemes,Fund of Funds Scheme
@@ -14068,8 +14068,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154323,Groww Mutual Fund,Groww Arbitrage Fund,INF666M01OO6,INF666M01OP3,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund
 154324,Groww Mutual Fund,Groww Arbitrage Fund,INF666M01OR9,INF666M01OS7,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund
 154325,Groww Mutual Fund,Groww Arbitrage Fund,INF666M01OQ1,,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund
-154326,Axis Mutual Fund,Axis Nifty India Defence Index Fund,INF846KA1523,,Open Ended Schemes,Other Scheme - Index Funds
-154327,Axis Mutual Fund,Axis Nifty India Defence Index Fund,INF846KA1515,,Open Ended Schemes,Other Scheme - Index Funds
+154326,Axis Mutual Fund,Axis Nifty India Defence Index Fund,INF846KA1523,,Open Ended Schemes,Index Funds - Equity Funds
+154327,Axis Mutual Fund,Axis Nifty India Defence Index Fund,INF846KA1515,,Open Ended Schemes,Index Funds - Equity Funds
 154328,SBI Mutual Fund,SBI CRISIL-IBX Financial Services 9-12 Months Debt Index Fund,INF200KB1AR3,,Open Ended Schemes,Other Scheme - Index Funds
 154329,SBI Mutual Fund,SBI CRISIL-IBX Financial Services 3-6 Months Debt Index Fund,INF200KB1AL6,,Open Ended Schemes,Other Scheme - Index Funds
 154330,SBI Mutual Fund,SBI CRISIL-IBX Financial Services 3-6 Months Debt Index Fund,INF200KB1AM4,INF200KB1AN2,Open Ended Schemes,Other Scheme - Index Funds
@@ -14089,8 +14089,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154345,Groww Mutual Fund,Groww Nifty Private Bank ETF,INF666M01OT5,,Open Ended Schemes,Exchange Traded Funds
 154346,Groww Mutual Fund,Groww Nifty Private Bank Index Fund,INF666M01OU3,,Open Ended Schemes,Index Funds - Equity Funds
 154347,Edelweiss Mutual Fund,Edelweiss Nifty Next 50 ETF,INF754K01XF3,,Open Ended Schemes,Other Scheme - Other  ETFs
-154348,Axis Mutual Fund,Axis Nifty Capital Markets Index Fund,INF846KA1549,,Open Ended Schemes,Other Scheme - Index Funds
-154349,Axis Mutual Fund,Axis Nifty Capital Markets Index Fund,INF846KA1531,,Open Ended Schemes,Other Scheme - Index Funds
+154348,Axis Mutual Fund,Axis Nifty Capital Markets Index Fund,INF846KA1549,,Open Ended Schemes,Index Funds - Equity Funds
+154349,Axis Mutual Fund,Axis Nifty Capital Markets Index Fund,INF846KA1531,,Open Ended Schemes,Index Funds - Equity Funds
 154350,Groww Mutual Fund,Groww Nifty Private Bank Index Fund,INF666M01OX7,,Open Ended Schemes,Index Funds - Equity Funds
 154351,Groww Mutual Fund,Groww Nifty Private Bank Index Fund,INF666M01OY5,INF666M01OZ2,Open Ended Schemes,Index Funds - Equity Funds
 154352,Groww Mutual Fund,Groww Nifty Private Bank Index Fund,INF666M01OV1,INF666M01OW9,Open Ended Schemes,Index Funds - Equity Funds
@@ -14176,8 +14176,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154456,NJ Mutual Fund,NJ Value Fund,INF0J8L01214,,Open Ended Schemes,Equity Schemes - Value Fund
 154457,NJ Mutual Fund,NJ Value Fund,INF0J8L01222,,Open Ended Schemes,Equity Schemes - Value Fund
 154458,NJ Mutual Fund,NJ Value Fund,INF0J8L01230,,Open Ended Schemes,Equity Schemes - Value Fund
-154459,Axis Mutual Fund,Axis Nifty50 Equal Weight Index Fund,INF846KA1556,,Open Ended Schemes,Other Scheme - Index Funds
-154460,Axis Mutual Fund,Axis Nifty50 Equal Weight Index Fund,INF846KA1564,,Open Ended Schemes,Other Scheme - Index Funds
+154459,Axis Mutual Fund,Axis Nifty50 Equal Weight Index Fund,INF846KA1556,,Open Ended Schemes,Index Funds - Equity Funds
+154460,Axis Mutual Fund,Axis Nifty50 Equal Weight Index Fund,INF846KA1564,,Open Ended Schemes,Index Funds - Equity Funds
 154461,Edelweiss Mutual Fund,Edelweiss Nifty Metal ETF,INF754K01XG1,,Open Ended Schemes,Exchange Traded Funds
 154462,Mirae Asset Mutual Fund,Mirae Asset Money Market Fund,,INF769K01RA4,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
 154466,UTI Mutual Fund,UTI Nifty 1D Rate Liquid ETF - Growth,INF789F1AG68,,Open Ended Schemes,Exchange Traded Funds
@@ -14247,6 +14247,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154571,Kotak Mahindra Mutual Fund,Kotak Nifty Bank Index Fund,INF174KA1C68,,Open Ended Schemes,Index Funds - Equity Funds
 154572,Kotak Mahindra Mutual Fund,Kotak Nifty Bank Index Fund,INF174KA1D00,INF174KA1D18,Open Ended Schemes,Index Funds - Equity Funds
 154593,DSP Mutual Fund,DSP NIFTY 10 YR BENCHMARK G-SEC ETF,INF740KA1ZI7,,Open Ended Schemes,Exchange Traded Funds
+154602,UTI Mutual Fund,UTI Nifty 500 Exchange Traded Fund,INF789F1AG76,,Open Ended Schemes,Exchange Traded Funds
 154606,Kotak Mahindra Mutual Fund,Kotak Liquid Fund,INF174KA1E09,INF174KA1D83,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 154608,Kotak Mahindra Mutual Fund,Kotak Ultra Short Term Fund,INF174KA1E41,INF174KA1E25,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
 154609,Kotak Mahindra Mutual Fund,Kotak Corporate Bond Fund,INF174KA1E82,INF174KA1E66,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
@@ -14254,6 +14255,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154613,Bajaj Finserv Mutual Fund,Bajaj Finserv Money Market Fund,INF0QA701CJ8,,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
 154614,Bajaj Finserv Mutual Fund,Bajaj Finserv Money Market Fund,INF0QA701CK6,,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
 154619,Zerodha Mutual Fund,Zerodha Arbitrage Fund,INF0R8F01232,,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund
+154620,Edelweiss Mutual Fund,Edelweiss Ultra Short Term Fund,INF754K01XW8,INF754K01XX6,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+154621,Edelweiss Mutual Fund,Edelweiss Ultra Short Term Fund,INF754K01XR8,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+154622,Edelweiss Mutual Fund,Edelweiss Ultra Short Term Fund,INF754K01XV0,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
+154623,Edelweiss Mutual Fund,Edelweiss Ultra Short Term Fund,INF754K01XS6,INF754K01XT4,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
 154624,Choice Mutual Fund,Choice Overnight Fund,,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 154625,quant Mutual Fund,quant Silver ETF,,,Open Ended Schemes,Exchange Traded Funds
 154626,Mirae Asset Mutual Fund,Mirae Asset BSE LargeMid (60:40) Stable Dividend 50 ETF,INF769K01RK3,,Open Ended Schemes,Exchange Traded Funds
@@ -14287,7 +14292,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154687,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Term Fund (the scheme has 2 segregated portfolios),,INF955L01JE6,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 154688,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Term Fund (the scheme has 2 segregated portfolios),,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 154689,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Term Fund (the scheme has 2 segregated portfolios),INF955L01JM9,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
-154690,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Term Fund (the scheme has 2 segregated portfolios),INF955L01JP2,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+154690,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Term Fund (the scheme has 2 segregated portfolios),INF955L01JP2,INF955L01JQ0,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 154691,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Short Term Fund (the scheme has 2 segregated portfolios),,INF955L01JO5,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 100027,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Half Yearly Dividend,,,Open Ended Schemes,Income
 100028,Standard Chartered Mutual Fund,Grindlays Super Saver Income Fund-GSSIF-Quaterly Dividend,,,Open Ended Schemes,Income
@@ -34756,7 +34761,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 101158,Baroda BNP Paribas Asset Management India Private Limited,BOB INCOME FUND-STP,,,Open Ended,Debt Scheme - Medium to Long Duration Fund
 101159,Baroda BNP Paribas Asset Management India Private Limited,BOB INCOME FUND-STP,,,Open Ended,Debt Scheme - Medium to Long Duration Fund
 101189,Baroda BNP Paribas Asset Management India Private Limited,BOB GILT FUND-PF,,,Open Ended,Debt Scheme - Gilt Fund
-101509,JM Financial Asset Management Limited,JM Short Term Fund,,,Open Ended,Debt Scheme - Short Duration Fund
+101509,JM Financial Asset Management Limited,JM Short Term Fund,,,Open Ended,Income/Debt Oriented Schemes - Short Term Fund
 101522,JM Financial Asset Management Limited,JM Short Term Fund..-Monthly Dividend,,,Open Ended,Debt Scheme - Short Duration Fund
 101523,JM Financial Asset Management Limited,JM Short Term Fund..-Institutional Plan - Monthly Dividend,,,Open Ended,Debt Scheme - Short Duration Fund
 101543,Sundaram Asset Management Company Ltd,Sundaram  Income Plus-Appreciation,,,Open Ended,Debt Scheme - Credit Risk Fund
@@ -34964,11 +34969,11 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 111881,Canara Robeco Asset Management Company Limited,Canara Robeco Short Term Fund- Institutional Plan - Dividend Reinvestment,,,Open Ended,Income/Debt Oriented Schemes - Medium Term Fund
 111884,Canara Robeco Asset Management Company Limited,Canara Robeco Short Term Fund- Retail Plan - Dividend Reinvestment,,,Open Ended,Income/Debt Oriented Schemes - Medium Term Fund
 111960,ICICI Prudential Asset Management Company Limited,ICICI Prudential Target Returns Fund - Retail Growth,,,Open Ended,Equity Schemes - Focused Fund
-112030,Baroda BNP Paribas Asset Management India Private Limited,Baroda Pioneer Treasury Advantage Fund- Regular Plan - Dividend Option,,,Open Ended,Debt Scheme - Low Duration Fund
+112030,Baroda BNP Paribas Asset Management India Private Limited,Baroda Pioneer Treasury Advantage Fund- Regular Plan - Dividend Option,,,Open Ended,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 112121,Invesco Asset Management (India) Private Limited,Religare Credit Opportunities Fund - Regular - Dividend Reinvestment,,,Open Ended,Income/Debt Oriented Schemes - Money Market Fund
 112124,Invesco Asset Management (India) Private Limited,Religare Credit Opportunities Fund - Institutional - Dividend Reinvestment,,,Open Ended,Income/Debt Oriented Schemes - Money Market Fund
 112172,Invesco Asset Management (India) Private Limited,Religare PSU Equity Fund - Dividend Payout,,,Open Ended,Equity Schemes - Thematic Fund
-128955,Axis Asset Management Co. Ltd.,Axis Liquid Fund - Regular Plan - Bonus Option,INF846K01NI2,,Open Ended,Debt Scheme - Liquid Fund
+128955,Axis Asset Management Co. Ltd.,Axis Liquid Fund - Regular Plan - Bonus Option,INF846K01NI2,,Open Ended,Income/Debt Oriented Schemes - Liquid Fund
 128960,Axis Asset Management Co. Ltd.,Axis Treasury Advantage Fund - Bonus option,INF846K01NR3,,Open Ended,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 112316,Bandhan AMC Limited,IDFC FMP  SMS - 1 Plan A Dividend,,,Close Ended,Income
 128951,Axis Asset Management Co. Ltd.,Axis Short Duration Fund - Direct plan - Bonus Option,INF846K01NP7,,Open Ended,Income/Debt Oriented Schemes - Short Term Fund
@@ -35005,7 +35010,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 115338,PGIM India Asset Management Private Limite,Pramerica Treasury Advantage Fund - Fortnightly Dividend Option,,,Open Ended,Income
 115473,Tata Asset Management Limited,Test,,,Close Ended,Income
 115526,Baroda BNP Paribas Asset Management India Private Limited,Baroda Pioneer 90 Day Fixed Maturity Plan - Series 3 - Dividend Option,,,Close Ended,Income
-128956,Axis Asset Management Co. Ltd.,Axis Gilt Fund - Bonus Option,INF846K01NK8,,Open Ended,Debt Scheme - Gilt Fund
+128956,Axis Asset Management Co. Ltd.,Axis Gilt Fund - Bonus Option,INF846K01NK8,,Open Ended,Income/Debt Oriented Schemes - Gilt Fund
 128959,Axis Asset Management Co. Ltd.,Axis Strategic Bond Fund - Direct Plan - Bonus Option,INF846K01NN2,,Open Ended,Income/Debt Oriented Schemes - Medium Term Fund
 117548,Baroda BNP Paribas Asset Management India Private Limited,Baroda BNP Paribas Banking and Financial Services Fund - Plan A - Dividend Re-investment Option,INF955L01849,,Open Ended,Equity Scheme - Sectoral/ Thematic
 119335,Baroda BNP Paribas Asset Management India Private Limited,Baroda BNP Paribas Banking and Financial Services Fund - Plan B (Direct) - Dividend Re-investment Option,INF955L01963,,Open Ended,Equity Scheme - Sectoral/ Thematic
@@ -36520,17 +36525,12 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154599,Bandhan AMC Limited,Bandhan Contra Fund-Direct Plan-Annual IDCW,INF194KB1LC0,INF194KB1LD8,Open Ended,Equity Schemes - Contra Fund
 154600,Bandhan AMC Limited,Bandhan Contra Fund-Direct Plan-Growth,INF194KB1KX8,,Open Ended,Equity Schemes - Contra Fund
 154601,Bandhan AMC Limited,Bandhan Contra Fund-Regular Plan-Annual IDCW,INF194KB1LA4,INF194KB1LB2,Open Ended,Equity Schemes - Contra Fund
-154602,UTI Asset Mgmt. Co. Ltd.,UTI Nifty 500 Exchange Traded Fund,INF789F1AG76,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
 154603,UTI Asset Mgmt. Co. Ltd.,UTI Nifty 500 Index Fund Regular Plan - Growth Option,INF789F1AG84,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
 154604,UTI Asset Mgmt. Co. Ltd.,UTI Nifty 500 Index Fund Direct Plan Growth Option,INF789F1AG92,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
 154615,SBI Funds Management Limited,SBI Balanced Hybrid Fund - Regular Plan - Growth,,,Open Ended,Hybrid Schemes - Balanced Hybrid Fund
 154616,SBI Funds Management Limited,SBI Balance Hybrid Fund - Regular Plan - IDCW,,,Open Ended,Hybrid Schemes - Balanced Hybrid Fund
 154617,SBI Funds Management Limited,SBI Balance Hybrid Fund - Direct Plan - IDCW,,,Open Ended,Hybrid Schemes - Balanced Hybrid Fund
 154618,SBI Funds Management Limited,SBI Balance Hybrid Fund - Direct Plan - Growth,,,Open Ended,Hybrid Schemes - Balanced Hybrid Fund
-154622,Edelweiss Asset Management Limited,Edelweiss Ultra Short Term Fund Regular Growth Plan,INF754K01XV0,,Open Ended,Income/Debt Oriented Schemes - Ultra Short Term Fund
-154623,Edelweiss Asset Management Limited,Edelweiss Ultra Short Term Fund Direct IDCW Plan,INF754K01XS6,INF754K01XT4,Open Ended,Income/Debt Oriented Schemes - Ultra Short Term Fund
-154620,Edelweiss Asset Management Limited,Edelweiss Ultra Short Term Fund Regular IDCW Plan,INF754K01XW8,INF754K01XX6,Open Ended,Income/Debt Oriented Schemes - Ultra Short Term Fund
-154621,Edelweiss Asset Management Limited,Edelweiss Ultra Short Term Fund Direct Growth Plan,INF754K01XR8,,Open Ended,Income/Debt Oriented Schemes - Ultra Short Term Fund
 154627,Axis Asset Management Co. Ltd.,Axis Nifty Energy ETF,INF846KA1598,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
 154628,UTI Asset Mgmt. Co. Ltd.,UTI Balanced Hybrid Fund-Direct Plan Growth Option,INF789F1AH18,,Open Ended,Hybrid Schemes - Balanced Hybrid Fund
 154629,UTI Asset Mgmt. Co. Ltd.,UTI Balanced Hybrid Fund-Direct Plan  payout of IDCW Option,INF789F1AH34,,Open Ended,Hybrid Schemes - Balanced Hybrid Fund
@@ -36570,3 +36570,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154702,Jio BlackRock Asset Management Private Limited,JioBlackRock Balanced Advantage Fund - Regular Plan - Growth Option,,,Open Ended,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
 154703,Navi AMC Limited,Navi Nifty Reits & Realty Undex Fund- Regular Plan,INF959L01HU8,,Open Ended,Index Funds - Equity Funds
 154704,Navi AMC Limited,Navi Nifty Reits & Realty Index Fund- Direct Plan,INF959L01HT0,,Open Ended,Index Funds - Equity Funds
+154705,Monarch Networth Asset Management Private Limited,Monarch Overnight Fund - Direct Plan - Monthly  IDCW,,,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
+154706,Monarch Networth Asset Management Private Limited,Monarch Overnight Fund- Direct- Growth,,,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
+154707,Monarch Networth Asset Management Private Limited,Monarch Overnight Fund - Direct Plan,,,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
+154708,Monarch Networth Asset Management Private Limited,Monarch,,,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
+154709,Monarch Networth Asset Management Private Limited,Monarch Overnight Fund- Regular Plan- Monthly IDCW,,,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
+154710,Monarch Networth Asset Management Private Limited,Monarch Overnught Fund- Regular Plan - Daily IDCW,,,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
+154711,Monarch Networth Asset Management Private Limited,Monarch Overnight Fund- Regular Plan Growth,,,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
