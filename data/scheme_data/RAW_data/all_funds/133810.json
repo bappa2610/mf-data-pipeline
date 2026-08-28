@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Kotak Mahindra Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Low Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short to Short Term Fund",
         "scheme_code": 133810,
-        "scheme_name": "Kotak Low Duration Fund - Direct Plan - Growth Option",
+        "scheme_name": "Kotak Ultra Short to Short Term Fund - Direct Plan - Growth Option",
         "isin_growth": "INF178L01AX4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "3925.30860"
+        },
         {
             "date": "25-08-2026",
             "nav": "3924.90520"

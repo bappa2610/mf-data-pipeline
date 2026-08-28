@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Nippon India Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Dynamic Bond",
+        "scheme_category": "Income/Debt Oriented Schemes - Dynamic Term Fund",
         "scheme_code": 118747,
-        "scheme_name": "Nippon India Dynamic Bond Fund - Direct Plan - Growth Option",
+        "scheme_name": "Nippon India Dynamic Term Fund - Direct Plan - Growth Option",
         "isin_growth": "INF204K01A25",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "42.48610"
+        },
         {
             "date": "25-08-2026",
             "nav": "42.48840"

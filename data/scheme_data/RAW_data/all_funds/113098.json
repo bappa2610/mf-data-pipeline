@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "ICICI Prudential Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Conservative Hybrid Fund",
+        "scheme_category": "Hybrid Schemes - Conservative Hybrid Fund",
         "scheme_code": 113098,
-        "scheme_name": "ICICI Prudential Regular Savings Fund - Regular Plan - Half Yearly IDCW",
+        "scheme_name": "ICICI Prudential Conservative Hybrid Fund - Regular Plan - Half Yearly IDCW",
         "isin_growth": "INF109K01IW6",
         "isin_div_reinvestment": "INF109K01WX5"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "13.15710"
+        },
         {
             "date": "25-08-2026",
             "nav": "13.17960"

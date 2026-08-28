@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "SBI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Money Market Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Money Market Fund",
         "scheme_code": 102860,
-        "scheme_name": "SBI SAVINGS FUND - Regular Plan - IDCW",
+        "scheme_name": "SBI Money Market Fund - Regular Plan - IDCW",
         "isin_growth": "INF200K01669",
         "isin_div_reinvestment": "INF200K01677"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "16.21880"
+        },
         {
             "date": "25-08-2026",
             "nav": "16.21120"

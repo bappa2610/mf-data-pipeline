@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Union Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Dynamic Bond",
+        "scheme_category": "Income/Debt Oriented Schemes - Dynamic Term Fund",
         "scheme_code": 119311,
-        "scheme_name": "Union Dynamic Bond Fund - Direct Plan - Growth Option",
+        "scheme_name": "Union Dynamic Term Fund - Direct Plan - Growth Option",
         "isin_growth": "INF582M01799",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "24.99070"
+        },
         {
             "date": "25-08-2026",
             "nav": "25.04010"

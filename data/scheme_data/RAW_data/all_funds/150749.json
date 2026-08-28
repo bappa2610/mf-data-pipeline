@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Overseas",
+        "scheme_category": "Overseas Fund of Funds - Fund of Funds investing overseas",
         "scheme_code": 150749,
         "scheme_name": "Axis NASDAQ 100 US Specific Equity Passive FOF - Direct Plan - IDCW Option",
         "isin_growth": "INF846K013K7",
         "isin_div_reinvestment": "INF846K014K5"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "29.86690"
+        },
         {
             "date": "26-08-2026",
             "nav": "29.57530"

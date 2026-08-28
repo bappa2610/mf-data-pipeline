@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 135500,
-        "scheme_name": "Kotak Bond Short Term Fund - Direct Plan - Standard Income Distribution cum capital withdrawal option",
+        "scheme_name": "Kotak Short Term Fund - Direct Plan - Standard Income Distribution cum capital withdrawal option",
         "isin_growth": "INF174K01Z14",
         "isin_div_reinvestment": "INF174K01Z22"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "16.24670"
+        },
         {
             "date": "25-08-2026",
             "nav": "16.24930"

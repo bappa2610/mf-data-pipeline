@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Focused Fund",
+        "scheme_category": "Equity Schemes - Focused Fund",
         "scheme_code": 120468,
         "scheme_name": "Axis Focused Fund - Direct Plan - Growth Option",
         "isin_growth": "INF846K01CQ8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "66.89000"
+        },
         {
             "date": "26-08-2026",
             "nav": "66.81000"

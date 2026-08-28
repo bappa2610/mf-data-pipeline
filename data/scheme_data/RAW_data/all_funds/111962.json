@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Canara Robeco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Dynamic Bond",
+        "scheme_category": "Income/Debt Oriented Schemes - Dynamic Term Fund",
         "scheme_code": 111962,
-        "scheme_name": "Canara Robeco Dynamic Bond Fund - Regular Plan - GROWTH OPTION",
+        "scheme_name": "Canara Robeco Dynamic Term Fund - Regular Plan - GROWTH OPTION",
         "isin_growth": "INF760K01449",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "29.81510"
+        },
         {
             "date": "25-08-2026",
             "nav": "29.85230"

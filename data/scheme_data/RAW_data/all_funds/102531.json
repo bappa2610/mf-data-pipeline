@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Ultra Short Term Fund",
         "scheme_code": 102531,
-        "scheme_name": "UTI Ultra Short Duration Fund - Regular Plan - Weekkly IDCW (Reinvestment)",
+        "scheme_name": "UTI Ultra Short Term Fund - Regular Plan - Weekkly IDCW (Reinvestment)",
         "isin_growth": null,
         "isin_div_reinvestment": "INF789F01562"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "1435.09120"
+        },
         {
             "date": "25-08-2026",
             "nav": "1434.46300"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Overseas",
+        "scheme_category": "Overseas Fund of Funds - Fund of Funds investing overseas",
         "scheme_code": 152239,
         "scheme_name": "Axis US Specific Treasury Dynamic Debt Passive FOF - Regular Plan - Growth Option",
         "isin_growth": "INF846K013T8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "12.26800"
+        },
         {
             "date": "26-08-2026",
             "nav": "12.29120"

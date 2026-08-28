@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Short Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 112722,
-        "scheme_name": "Axis Short Duration Fund - Regular Plan - Weekly IDCW Option",
+        "scheme_name": "Axis Short Term Fund - Regular Plan - Weekly IDCW Option",
         "isin_growth": "INF846K01628",
         "isin_div_reinvestment": "INF846K01636"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "10.20690"
+        },
         {
             "date": "25-08-2026",
             "nav": "10.20820"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Overseas",
+        "scheme_category": "Overseas Fund of Funds - Fund of Funds investing overseas",
         "scheme_code": 152241,
         "scheme_name": "Axis US Specific Treasury Dynamic Debt Passive FOF - Direct Plan - IDCW Option",
         "isin_growth": "INF846K018T7",
         "isin_div_reinvestment": "INF846K019T5"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "12.28330"
+        },
         {
             "date": "26-08-2026",
             "nav": "12.30650"

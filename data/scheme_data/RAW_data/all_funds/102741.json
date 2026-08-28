@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "ICICI Prudential Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Medium Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Medium Term Fund",
         "scheme_code": 102741,
-        "scheme_name": "ICICI Prudential Medium Term Bond Fund - Regular Plan - Growth",
+        "scheme_name": "ICICI Prudential Medium Term Fund - Regular Plan - Growth",
         "isin_growth": "INF109K01AH4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "48.58710"
+        },
         {
             "date": "25-08-2026",
             "nav": "48.58960"

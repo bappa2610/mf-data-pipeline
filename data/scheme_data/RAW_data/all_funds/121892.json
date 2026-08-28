@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Ultra Short Term Fund",
         "scheme_code": 121892,
-        "scheme_name": "UTI Ultra Short Duration Fund - Direct Plan - Flexi IDCW",
+        "scheme_name": "UTI Ultra Short Term Fund - Direct Plan - Flexi IDCW",
         "isin_growth": "INF789FB1KQ0",
         "isin_div_reinvestment": "INF789FB1KR8"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "2377.45960"
+        },
         {
             "date": "25-08-2026",
             "nav": "2376.34190"

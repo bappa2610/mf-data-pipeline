@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Nippon India Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Floater Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Floating Interest Rates Fund",
         "scheme_code": 118656,
-        "scheme_name": "Nippon India Floater Fund - Direct Plan - Growth Option",
+        "scheme_name": "Nippon India Floating Interest Rates Fund - Direct Plan - Growth Option",
         "isin_growth": "INF204K01E05",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "50.88170"
+        },
         {
             "date": "25-08-2026",
             "nav": "50.89050"

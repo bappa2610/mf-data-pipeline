@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "ICICI Prudential Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Dynamic Bond",
+        "scheme_category": "Income/Debt Oriented Schemes - Dynamic Term Fund",
         "scheme_code": 112096,
-        "scheme_name": "ICICI Prudential All Seasons Bond Fund - Regular Plan - Growth",
+        "scheme_name": "ICICI Prudential Dynamic Term Fund - Regular Plan - Growth",
         "isin_growth": "INF109K01GN9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "39.22370"
+        },
         {
             "date": "25-08-2026",
             "nav": "39.24360"

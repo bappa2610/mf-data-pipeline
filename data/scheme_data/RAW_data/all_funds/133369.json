@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HDFC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Dynamic Bond",
+        "scheme_category": "Income/Debt Oriented Schemes - Dynamic Term Fund",
         "scheme_code": 133369,
-        "scheme_name": "HDFC Dynamic Debt Fund - Direct Plan - Normal IDCW",
+        "scheme_name": "HDFC Dynamic Term Fund - Direct Plan - Normal IDCW",
         "isin_growth": "INF179KA1Q95",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "21.91050"
+        },
         {
             "date": "25-08-2026",
             "nav": "21.93590"

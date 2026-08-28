@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Conservative Hybrid Fund",
+        "scheme_category": "Hybrid Schemes - Conservative Hybrid Fund",
         "scheme_code": 120478,
         "scheme_name": "Axis Conservative Hybrid Fund - Direct Plan - Half Yearly IDCW Option",
         "isin_growth": "INF846K01EB6",
         "isin_div_reinvestment": "INF846K01EC4"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "13.49420"
+        },
         {
             "date": "25-08-2026",
             "nav": "13.52290"

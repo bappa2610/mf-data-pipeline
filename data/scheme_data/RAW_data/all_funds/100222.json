@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "JM Financial Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Medium to Long Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Medium to Long Term Fund",
         "scheme_code": 100222,
-        "scheme_name": "JM Medium to Long Duration Fund - Regular Plan - Quarterly IDCW Option",
+        "scheme_name": "JM Medium to Long Term Fund - Regular Plan - Quarterly IDCW Option",
         "isin_growth": "INF192K01999",
         "isin_div_reinvestment": "INF192K01AA5"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "21.96850"
+        },
         {
             "date": "25-08-2026",
             "nav": "21.99300"

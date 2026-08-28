@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Ultra Short to Short Term Fund",
         "scheme_code": 102544,
-        "scheme_name": "UTI Low Duration Fund - Regular Plan - Growth",
+        "scheme_name": "UTI Ultra Short to Short Term Fund - Regular Plan - Growth",
         "isin_growth": "INF789F01OT9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "3809.21520"
+        },
         {
             "date": "25-08-2026",
             "nav": "3808.15730"

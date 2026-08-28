@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Equity Savings",
+        "scheme_category": "Hybrid Schemes - Equity Savings Fund",
         "scheme_code": 135124,
         "scheme_name": "Axis Equity Savings Fund - Direct Plan - Quarterly IDCW Option",
         "isin_growth": "INF846K01VM7",
         "isin_div_reinvestment": "INF846K01VN5"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "13.95000"
+        },
         {
             "date": "26-08-2026",
             "nav": "13.95000"

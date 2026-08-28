@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Credit Risk Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Credit Risk Fund",
         "scheme_code": 130310,
         "scheme_name": "Axis Credit Risk Fund - Regular Plan - Weekly IDCW Option",
         "isin_growth": "INF846K01PP2",
         "isin_div_reinvestment": "INF846K01PQ0"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "10.15960"
+        },
         {
             "date": "25-08-2026",
             "nav": "10.16180"

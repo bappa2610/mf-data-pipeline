@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Canara Robeco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short Term Fund",
         "scheme_code": 140530,
         "scheme_name": "Canara Robeco Ultra Short Term Fund - Regular Plan - IDCW (Payout)",
         "isin_growth": "INF760K01IL9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "1551.11860"
+        },
         {
             "date": "25-08-2026",
             "nav": "1550.43920"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Arbitrage Fund",
+        "scheme_category": "Hybrid Schemes - Arbitrage Fund",
         "scheme_code": 130771,
         "scheme_name": "Axis Arbitrage Fund - Regular Plan - Growth Option",
         "isin_growth": "INF846K01QC8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "19.94910"
+        },
         {
             "date": "26-08-2026",
             "nav": "19.91310"

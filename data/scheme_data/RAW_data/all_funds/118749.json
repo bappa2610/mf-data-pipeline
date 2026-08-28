@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Nippon India Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Dynamic Bond",
+        "scheme_category": "Income/Debt Oriented Schemes - Dynamic Term Fund",
         "scheme_code": 118749,
-        "scheme_name": "Nippon India Dynamic Bond Fund - Direct Plan - QUARTERLY IDCW Option",
+        "scheme_name": "Nippon India Dynamic Term Fund - Direct Plan - QUARTERLY IDCW Option",
         "isin_growth": "INF204K01A58",
         "isin_div_reinvestment": "INF204K01A66"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "10.48380"
+        },
         {
             "date": "25-08-2026",
             "nav": "10.48440"

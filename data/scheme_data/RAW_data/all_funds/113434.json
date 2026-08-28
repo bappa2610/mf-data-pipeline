@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Gold ETF",
+        "scheme_category": "Exchange Traded Funds (ETFs) - Gold ETF",
         "scheme_code": 113434,
         "scheme_name": "Axis Gold ETF",
         "isin_growth": "INF846K01W80",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "130.67160"
+        },
         {
             "date": "26-08-2026",
             "nav": "132.88980"

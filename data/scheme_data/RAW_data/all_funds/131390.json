@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Bandhan Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Gilt Fund with 10 year constant duration",
+        "scheme_category": "Income/Debt Oriented Schemes - 10-year Constant Maturity Gilt Fund",
         "scheme_code": 131390,
-        "scheme_name": "Bandhan Gilt Fund   with 10 year constant duration Fund - Direct Plan - Periodic IDCW",
+        "scheme_name": "Bandhan 10 year Constant Maturity Gilt Fund - Direct Plan - Periodic IDCW",
         "isin_growth": "INF194KA1SL7",
         "isin_div_reinvestment": "INF194KA1SM5"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "14.73800"
+        },
         {
             "date": "25-08-2026",
             "nav": "14.76200"

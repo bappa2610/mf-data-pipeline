@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Banking and PSU Debt Fund",
         "scheme_code": 133971,
-        "scheme_name": "UTI Banking & PSU Fund - Regular Plan - Flexi IDCW",
+        "scheme_name": "UTI Banking & PSU Debt Fund - Regular Plan - Flexi IDCW",
         "isin_growth": "INF789FA1U61",
         "isin_div_reinvestment": "INF789FA1U79"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "15.73950"
+        },
         {
             "date": "25-08-2026",
             "nav": "15.73330"

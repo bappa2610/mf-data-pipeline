@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Canara Robeco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Corporate Bond Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Corporate Bond Fund",
         "scheme_code": 126685,
         "scheme_name": "Canara Robeco Corporate Bond Fund - Direct Plan - GROWTH OPTION",
         "isin_growth": "INF760K01HB2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "24.65890"
+        },
         {
             "date": "25-08-2026",
             "nav": "24.66930"

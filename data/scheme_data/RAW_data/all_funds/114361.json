@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Ultra Short Term Fund",
         "scheme_code": 114361,
-        "scheme_name": "Invesco India Ultra Short Duration Fund - Regular Plan - Annual IDCW",
+        "scheme_name": "Invesco India Ultra Short Term Fund - Regular Plan - Annual IDCW",
         "isin_growth": "INF205K01TD9",
         "isin_div_reinvestment": "INF205K01TE7"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "1155.73310"
+        },
         {
             "date": "25-08-2026",
             "nav": "1155.21640"

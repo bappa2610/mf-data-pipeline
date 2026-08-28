@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "SBI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Medium Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Medium Term Fund",
         "scheme_code": 102053,
-        "scheme_name": "SBI MEDIUM DURATION FUND - Regular Plan - Growth",
+        "scheme_name": "SBI MEDIUM TERM FUND - Regular Plan - Growth",
         "isin_growth": "INF200K01719",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "54.88970"
+        },
         {
             "date": "25-08-2026",
             "nav": "54.90030"

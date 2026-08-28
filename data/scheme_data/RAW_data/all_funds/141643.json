@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
+        "scheme_category": "Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation",
         "scheme_code": 141643,
         "scheme_name": "Axis Balanced Advantage Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF846K01A37",
         "isin_div_reinvestment": "INF846K01A45"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "14.22000"
+        },
         {
             "date": "26-08-2026",
             "nav": "14.24000"

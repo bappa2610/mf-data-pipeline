@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Nippon India Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Banking and PSU Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Banking and PSU Debt Fund",
         "scheme_code": 134552,
-        "scheme_name": "Nippon India Banking and PSU Fund - Direct Plan - Bonus Option",
+        "scheme_name": "Nippon India Banking and PSU Debt Fund - Direct Plan - Bonus Option",
         "isin_growth": "INF204KA1U61",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "22.88030"
+        },
         {
             "date": "25-08-2026",
             "nav": "22.88520"

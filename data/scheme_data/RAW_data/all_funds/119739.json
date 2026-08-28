@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 119739,
-        "scheme_name": "Kotak Bond Short Term Fund - Direct Plan - (Growth)",
+        "scheme_name": "Kotak Short Term Fund - Direct Plan - (Growth)",
         "isin_growth": "INF174K01JI7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "61.22830"
+        },
         {
             "date": "25-08-2026",
             "nav": "61.23790"

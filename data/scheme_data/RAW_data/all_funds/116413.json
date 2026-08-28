@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Bandhan Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Low Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short to Short Term Fund",
         "scheme_code": 116413,
-        "scheme_name": "BANDHAN LOW DURATION FUND - Regular Plan - Quarterly IDCW",
+        "scheme_name": "BANDHAN ULTRA SHORT TO SHORT TERM FUND - Regular Plan - Quarterly IDCW",
         "isin_growth": "INF194K01UR3",
         "isin_div_reinvestment": "INF194K01US1"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "11.25520"
+        },
         {
             "date": "25-08-2026",
             "nav": "11.25300"

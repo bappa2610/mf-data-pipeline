@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Dynamic Term Fund",
         "scheme_code": 135536,
-        "scheme_name": "UTI - Dynamic Bond Fund. - Direct Plan - Annual IDCW",
+        "scheme_name": "UTI Dynamic Term Fund - Direct Plan - Annual IDCW",
         "isin_growth": "INF789FA1S65",
         "isin_div_reinvestment": "INF789FA1S73"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "15.10580"
+        },
         {
             "date": "25-08-2026",
             "nav": "15.11810"

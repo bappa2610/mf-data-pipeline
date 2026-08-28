@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Medium Term Fund",
         "scheme_code": 134499,
-        "scheme_name": "UTI Medium Duration Fund - Regular Plan - Growth",
+        "scheme_name": "UTI Medium Term Fund - Regular Plan - Growth",
         "isin_growth": "INF789FB1JU4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "19.23890"
+        },
         {
             "date": "25-08-2026",
             "nav": "19.24110"

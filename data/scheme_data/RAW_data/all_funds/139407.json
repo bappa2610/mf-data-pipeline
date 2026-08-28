@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Banking and PSU Debt Fund",
         "scheme_code": 139407,
-        "scheme_name": "UTI Banking & PSU Fund - Regular Plan - Half yearly IDCW",
+        "scheme_name": "UTI Banking & PSU Debt Fund - Regular Plan - Half yearly IDCW",
         "isin_growth": "INF789FA1U20",
         "isin_div_reinvestment": "INF789FA1U38"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "15.67350"
+        },
         {
             "date": "25-08-2026",
             "nav": "15.66740"

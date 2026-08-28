@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Nippon India Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Banking and PSU Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Banking and PSU Debt Fund",
         "scheme_code": 134548,
-        "scheme_name": "Nippon India Banking and PSU Fund - Regular Plan - IDCW Option",
+        "scheme_name": "Nippon India Banking and PSU Debt Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF204KA1T72",
         "isin_div_reinvestment": "INF204KA1T80"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "21.94820"
+        },
         {
             "date": "25-08-2026",
             "nav": "21.95350"

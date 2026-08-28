@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Overseas",
+        "scheme_category": "Overseas Fund of Funds - Fund of Funds investing overseas",
         "scheme_code": 148487,
         "scheme_name": "Axis Global Equity Alpha Fund of Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF846K01X14",
         "isin_div_reinvestment": "INF846K01X22"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "27.22740"
+        },
         {
             "date": "26-08-2026",
             "nav": "27.11590"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Equity Savings",
+        "scheme_category": "Hybrid Schemes - Equity Savings Fund",
         "scheme_code": 135122,
         "scheme_name": "Axis Equity Savings Fund - Regular Plan - Growth Option",
         "isin_growth": "INF846K01VO3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "23.28000"
+        },
         {
             "date": "26-08-2026",
             "nav": "23.28000"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "SBI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Banking and PSU Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Banking and PSU Debt Fund",
         "scheme_code": 125503,
-        "scheme_name": "SBI BANKING & PSU FUND - Direct Plan - Growth",
+        "scheme_name": "SBI BANKING & PSU DEBT FUND - Direct Plan - Growth",
         "isin_growth": "INF200K01V08",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "3525.68220"
+        },
         {
             "date": "25-08-2026",
             "nav": "3526.03350"

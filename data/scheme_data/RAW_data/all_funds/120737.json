@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Ultra Short to Short Term Fund",
         "scheme_code": 120737,
-        "scheme_name": "UTI Low Duration Fund - Direct Plan - Daily IDCW (Reinvestment)",
+        "scheme_name": "UTI Ultra Short to Short Term Fund - Direct Plan - Daily IDCW (Reinvestment)",
         "isin_growth": null,
         "isin_div_reinvestment": "INF789F01XE2"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "1479.07950"
+        },
         {
             "date": "25-08-2026",
             "nav": "1478.66020"

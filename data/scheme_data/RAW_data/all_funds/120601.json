@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "ICICI Prudential Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Dynamic Bond",
+        "scheme_category": "Income/Debt Oriented Schemes - Dynamic Term Fund",
         "scheme_code": 120601,
-        "scheme_name": "ICICI Prudential All Seasons Bond Fund - Direct Plan - Annual IDCW",
+        "scheme_name": "ICICI Prudential Dynamic Term Fund - Direct Plan - Annual IDCW",
         "isin_growth": "INF109K012E4",
         "isin_div_reinvestment": "INF109K013E2"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "11.59110"
+        },
         {
             "date": "25-08-2026",
             "nav": "11.59660"

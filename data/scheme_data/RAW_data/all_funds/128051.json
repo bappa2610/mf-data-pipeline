@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HDFC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Credit Risk Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Credit Risk Fund",
         "scheme_code": 128051,
-        "scheme_name": "HDFC Credit Risk Debt Fund - Direct Plan - Growth Option",
+        "scheme_name": "HDFC Credit Risk Fund - Direct Plan - Growth Option",
         "isin_growth": "INF179KA1FZ3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "28.31220"
+        },
         {
             "date": "25-08-2026",
             "nav": "28.30990"

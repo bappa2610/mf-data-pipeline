@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Ultra Short Term Fund",
         "scheme_code": 133873,
-        "scheme_name": "UTI Ultra Short Duration Fund - Regular Plan - Quarterly IDCW",
+        "scheme_name": "UTI Ultra Short Term Fund - Regular Plan - Quarterly IDCW",
         "isin_growth": "INF789FA1P01",
         "isin_div_reinvestment": "INF789FA1P19"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "1310.31560"
+        },
         {
             "date": "25-08-2026",
             "nav": "1309.74210"

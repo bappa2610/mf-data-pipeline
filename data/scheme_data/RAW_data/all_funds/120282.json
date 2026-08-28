@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "LIC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Gilt Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Gilt Fund",
         "scheme_code": 120282,
         "scheme_name": "LIC MF Gilt Fund - Direct Plan - Growth",
         "isin_growth": "INF767K01EZ3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "67.04740"
+        },
         {
             "date": "25-08-2026",
             "nav": "67.09960"

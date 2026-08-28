@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Nippon India Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Medium Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Medium Term Fund",
         "scheme_code": 130053,
-        "scheme_name": "Nippon India Medium Duration Fund (Existing Number of Segregated Portfolios - 1) - Regular Plan - IDCW Option",
+        "scheme_name": "Nippon India Medium Term Fund (Existing Number of Segregated Portfolios - 1) - Regular Plan - IDCW Option",
         "isin_growth": "INF204KA1QB0",
         "isin_div_reinvestment": "INF204KA1QD6"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "14.42080"
+        },
         {
             "date": "25-08-2026",
             "nav": "14.41740"

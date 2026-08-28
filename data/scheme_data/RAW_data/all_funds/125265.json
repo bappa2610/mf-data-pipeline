@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Nippon India Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Low Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short to Short Term Fund",
         "scheme_code": 125265,
-        "scheme_name": "Nippon India Low Duration Fund - Regular Plan - IDCW Option",
+        "scheme_name": "Nippon India Ultra Short to Short Term Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF204KA1EI1",
         "isin_div_reinvestment": "INF204KA1EJ9"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "2128.66750"
+        },
         {
             "date": "25-08-2026",
             "nav": "2128.14200"

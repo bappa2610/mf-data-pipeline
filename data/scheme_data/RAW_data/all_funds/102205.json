@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "SBI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Dynamic Bond",
+        "scheme_category": "Income/Debt Oriented Schemes - Dynamic Term Fund",
         "scheme_code": 102205,
-        "scheme_name": "SBI DYNAMIC BOND FUND - Regular Plan - Growth",
+        "scheme_name": "SBI DYNAMIC TERM FUND - Regular Plan - Growth",
         "isin_growth": "INF200K01958",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "37.50850"
+        },
         {
             "date": "25-08-2026",
             "nav": "37.51490"

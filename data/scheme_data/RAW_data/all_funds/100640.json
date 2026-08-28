@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "SBI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Medium to Long Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Medium to Long Term Fund",
         "scheme_code": 100640,
-        "scheme_name": "SBI MEDIUM TO LONG DURATION FUND - Regular Plan - Bonus",
+        "scheme_name": "SBI MEDIUM TO LONG TERM FUND - Regular Plan - Bonus",
         "isin_growth": "INF200K01602",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "44.74780"
+        },
         {
             "date": "25-08-2026",
             "nav": "44.77640"

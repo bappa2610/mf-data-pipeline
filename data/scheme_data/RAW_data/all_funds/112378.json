@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Canara Robeco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Conservative Hybrid Fund",
+        "scheme_category": "Hybrid Schemes - Conservative Hybrid Fund",
         "scheme_code": 112378,
         "scheme_name": "Canara Robeco Conservative Hybrid Fund - Regular Plan - QUARTERLY IDCW (Payout/Reinvestment)",
         "isin_growth": "INF760K01AP7",
         "isin_div_reinvestment": "INF760K01AQ5"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "13.56400"
+        },
         {
             "date": "25-08-2026",
             "nav": "13.57610"

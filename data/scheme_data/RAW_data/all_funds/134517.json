@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Short Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 134517,
-        "scheme_name": "UTI Short Duration Fund - Regular Plan - Annual IDCW",
+        "scheme_name": "UTI Short Term Fund - Regular Plan - Annual IDCW",
         "isin_growth": "INF789FA1Q91",
         "isin_div_reinvestment": "INF789FA1R09"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "14.89250"
+        },
         {
             "date": "25-08-2026",
             "nav": "14.89430"

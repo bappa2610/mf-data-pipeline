@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Ultra Short Term Fund",
         "scheme_code": 120541,
-        "scheme_name": "Invesco India Ultra Short Duration Fund - Direct Plan - Growth",
+        "scheme_name": "Invesco India Ultra Short Term Fund - Direct Plan - Growth",
         "isin_growth": "INF205K01TH0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "3104.74630"
+        },
         {
             "date": "25-08-2026",
             "nav": "3103.26960"

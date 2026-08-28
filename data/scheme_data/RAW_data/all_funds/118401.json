@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Bandhan Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Medium Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Medium Term Fund",
         "scheme_code": 118401,
-        "scheme_name": "Bandhan Medium Duration Fund - Direct Plan - Growth",
+        "scheme_name": "Bandhan Medium Term Fund - Direct Plan - Growth",
         "isin_growth": "INF194K01S50",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "53.21560"
+        },
         {
             "date": "25-08-2026",
             "nav": "53.22060"

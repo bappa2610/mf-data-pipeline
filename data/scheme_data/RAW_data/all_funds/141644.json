@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
+        "scheme_category": "Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation",
         "scheme_code": 141644,
         "scheme_name": "Axis Balanced Advantage Fund - Regular Plan - Growth Option",
         "isin_growth": "INF846K01A52",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "21.61000"
+        },
         {
             "date": "26-08-2026",
             "nav": "21.65000"

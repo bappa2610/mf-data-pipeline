@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Gilt Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Gilt Fund",
         "scheme_code": 120449,
         "scheme_name": "Axis Gilt Fund - Direct Plan - Regular IDCW Option",
         "isin_growth": "INF846K01DG7",
         "isin_div_reinvestment": "INF846K01DH5"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "9.99570"
+        },
         {
             "date": "25-08-2026",
             "nav": "10.00380"

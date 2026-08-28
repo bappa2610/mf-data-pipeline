@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HDFC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Medium Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Medium Term Fund",
         "scheme_code": 119080,
-        "scheme_name": "HDFC Medium Term Debt Fund - Direct Plan - Fortnightly IDCW Option",
+        "scheme_name": "HDFC Medium Term Fund - Direct Plan - Fortnightly IDCW Option",
         "isin_growth": "INF179KA1NP8",
         "isin_div_reinvestment": "INF179KA1NO1"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "10.09450"
+        },
         {
             "date": "25-08-2026",
             "nav": "10.09520"

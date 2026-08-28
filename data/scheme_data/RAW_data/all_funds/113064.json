@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Multi Asset Allocation",
+        "scheme_category": "Hybrid Schemes - Multi Asset Allocation Fund",
         "scheme_code": 113064,
         "scheme_name": "Axis Multi Asset Allocation Fund - Regular Plan - Growth Option",
         "isin_growth": "INF846K01768",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "45.85280"
+        },
         {
             "date": "26-08-2026",
             "nav": "46.13180"

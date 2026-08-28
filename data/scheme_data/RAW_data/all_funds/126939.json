@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Banking and PSU Debt Fund",
         "scheme_code": 126939,
-        "scheme_name": "UTI Banking & PSU Fund - Regular Plan - Growth",
+        "scheme_name": "UTI Banking & PSU Debt Fund - Regular Plan - Growth",
         "isin_growth": "INF789F014Z9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "23.47040"
+        },
         {
             "date": "25-08-2026",
             "nav": "23.46120"

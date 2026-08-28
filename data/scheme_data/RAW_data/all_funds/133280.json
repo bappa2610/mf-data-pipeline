@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Medium to Long Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Medium to Long Term Fund",
         "scheme_code": 133280,
-        "scheme_name": "UTI Medium to Long Duration Fund - Direct Plan - Flexi IDCW",
+        "scheme_name": "UTI Medium to Long Term Fund - Direct Plan - Flexi IDCW",
         "isin_growth": "INF789FA1U04",
         "isin_div_reinvestment": "INF789FA1U12"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "16.24020"
+        },
         {
             "date": "25-08-2026",
             "nav": "16.24570"

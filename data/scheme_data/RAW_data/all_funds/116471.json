@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Gilt Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Gilt Fund",
         "scheme_code": 116471,
         "scheme_name": "Axis Gilt Fund - Regular Plan - Growth Option",
         "isin_growth": "INF846K01AX8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "26.71620"
+        },
         {
             "date": "25-08-2026",
             "nav": "26.73850"

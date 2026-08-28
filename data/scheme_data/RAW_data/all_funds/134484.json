@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Ultra Short Term Fund",
         "scheme_code": 134484,
-        "scheme_name": "UTI Ultra Short Duration Fund - Regular Plan - Annual IDCW",
+        "scheme_name": "UTI Ultra Short Term Fund - Regular Plan - Annual IDCW",
         "isin_growth": "INF789FA1P43",
         "isin_div_reinvestment": "INF789FA1P50"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "1483.92060"
+        },
         {
             "date": "25-08-2026",
             "nav": "1483.27110"

@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 105192,
-        "scheme_name": "Invesco India Short Duration Fund - Regular Plan - Weekly IDCW",
+        "scheme_name": "Invesco India Short Term Fund - Regular Plan - Weekly IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF205K01UU1"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "1012.02290"
+        },
         {
             "date": "25-08-2026",
             "nav": "1012.40080"

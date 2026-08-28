@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "SBI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Dynamic Bond",
+        "scheme_category": "Income/Debt Oriented Schemes - Dynamic Term Fund",
         "scheme_code": 102206,
-        "scheme_name": "SBI DYNAMIC BOND FUND - Regular Plan - IDCW",
+        "scheme_name": "SBI DYNAMIC TERM FUND - Regular Plan - IDCW",
         "isin_growth": "INF200K01966",
         "isin_div_reinvestment": "INF200K01974"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "19.66400"
+        },
         {
             "date": "25-08-2026",
             "nav": "19.66740"

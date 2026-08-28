@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Corporate Bond Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Corporate Bond Fund",
         "scheme_code": 141591,
         "scheme_name": "AXIS Corporate Bond Fund - Direct Plan - Regular IDCW Option",
         "isin_growth": "INF846K01ZS5",
         "isin_div_reinvestment": "INF846K01ZT3"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "15.09320"
+        },
         {
             "date": "25-08-2026",
             "nav": "15.09570"

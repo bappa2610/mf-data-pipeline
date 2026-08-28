@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HDFC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Low Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short to Short Term Fund",
         "scheme_code": 102452,
-        "scheme_name": "HDFC Low Duration Fund - Regular Plan - Growth Option",
+        "scheme_name": "HDFC Ultra Short to Short Term Fund - Regular Plan - Growth Option",
         "isin_growth": "INF179K01442",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "61.67550"
+        },
         {
             "date": "25-08-2026",
             "nav": "61.67150"

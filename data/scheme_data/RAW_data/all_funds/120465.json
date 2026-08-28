@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Large Cap Fund",
+        "scheme_category": "Equity Schemes - Large Cap Fund",
         "scheme_code": 120465,
         "scheme_name": "Axis Large Cap Fund - Direct Plan - Growth Option",
         "isin_growth": "INF846K01DP8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "70.63000"
+        },
         {
             "date": "26-08-2026",
             "nav": "70.79000"

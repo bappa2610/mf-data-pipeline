@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "SBI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Banking and PSU Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Banking and PSU Debt Fund",
         "scheme_code": 125505,
-        "scheme_name": "SBI BANKING & PSU FUND - Direct Plan - IDCW",
+        "scheme_name": "SBI BANKING & PSU DEBT FUND - Direct Plan - IDCW",
         "isin_growth": "INF200K01V40",
         "isin_div_reinvestment": "INF200K01V57"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "1319.52790"
+        },
         {
             "date": "25-08-2026",
             "nav": "1319.65940"

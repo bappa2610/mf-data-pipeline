@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Dynamic Term Fund",
         "scheme_code": 113077,
-        "scheme_name": "UTI - Dynamic Bond Fund. - Regular Plan - Growth",
+        "scheme_name": "UTI Dynamic Term Fund - Regular Plan - Growth",
         "isin_growth": "INF789F01JQ5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "32.44990"
+        },
         {
             "date": "25-08-2026",
             "nav": "32.47770"

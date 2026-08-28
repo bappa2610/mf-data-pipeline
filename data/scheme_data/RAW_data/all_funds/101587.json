@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Canara Robeco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Medium to Long Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Medium to Long Term Fund",
         "scheme_code": 101587,
-        "scheme_name": "Canara Robeco Income Fund - Regular Plan - QUARTERLY IDCW (Payout/Reinvestment)",
+        "scheme_name": "Canara Robeco Medium To Long Term Fund - Regular Plan - QUARTERLY IDCW (Payout/Reinvestment)",
         "isin_growth": "INF760K01340",
         "isin_div_reinvestment": "INF760K01357"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "14.68390"
+        },
         {
             "date": "25-08-2026",
             "nav": "14.69830"

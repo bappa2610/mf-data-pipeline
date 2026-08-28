@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Nippon India Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Floater Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Floating Interest Rates Fund",
         "scheme_code": 118654,
-        "scheme_name": "Nippon India Floater Fund - Direct Plan - DAILY IDCW Option",
+        "scheme_name": "Nippon India Floating Interest Rates Fund - Direct Plan - DAILY IDCW Option",
         "isin_growth": null,
         "isin_div_reinvestment": "INF204K01D71"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "10.25170"
+        },
         {
             "date": "25-08-2026",
             "nav": "10.25350"

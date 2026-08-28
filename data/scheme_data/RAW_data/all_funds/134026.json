@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Banking and PSU Debt Fund",
         "scheme_code": 134026,
-        "scheme_name": "UTI Banking & PSU Fund - Direct Plan - Monthly IDCW",
+        "scheme_name": "UTI Banking & PSU Debt Fund - Direct Plan - Monthly IDCW",
         "isin_growth": "INF789FC1HE1",
         "isin_div_reinvestment": "INF789FC1HF8"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "13.72240"
+        },
         {
             "date": "25-08-2026",
             "nav": "13.71680"

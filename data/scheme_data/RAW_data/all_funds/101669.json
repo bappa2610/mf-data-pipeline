@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Nippon India Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Short Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 101669,
-        "scheme_name": "Nippon India Short Duration Fund - Regular Plan - QUARTERLY IDCW OPTION",
+        "scheme_name": "Nippon India Short Term Fund - Regular Plan - QUARTERLY IDCW OPTION",
         "isin_growth": "INF204K01FO8",
         "isin_div_reinvestment": "INF204K01FP5"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "14.99400"
+        },
         {
             "date": "25-08-2026",
             "nav": "14.99560"

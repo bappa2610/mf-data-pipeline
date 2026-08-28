@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Edelweiss Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Banking and PSU Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Banking and PSU Debt Fund",
         "scheme_code": 140286,
         "scheme_name": "Edelweiss Banking and PSU Debt Fund - Direct Plan - Growth",
         "isin_growth": "INF843K01FC8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "27.01720"
+        },
         {
             "date": "25-08-2026",
             "nav": "27.01890"

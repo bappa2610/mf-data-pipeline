@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Medium Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Medium Term Fund",
         "scheme_code": 120475,
-        "scheme_name": "Axis Strategic Bond Fund - Direct Plan - Growth Option",
+        "scheme_name": "Axis Medium Term Fund - Direct Plan - Growth Option",
         "isin_growth": "INF846K01DT0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "33.34230"
+        },
         {
             "date": "25-08-2026",
             "nav": "33.35430"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "ICICI Prudential Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Low Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short to Short Term Fund",
         "scheme_code": 101618,
-        "scheme_name": "ICICI Prudential Savings Fund - Regular Plan - Daily IDCW",
+        "scheme_name": "ICICI Prudential Ultra Short to Short Term Fund - Regular Plan - Daily IDCW",
         "isin_growth": "INF109K01738",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "105.73580"
+        },
         {
             "date": "25-08-2026",
             "nav": "105.73580"

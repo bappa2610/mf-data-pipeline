@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "SBI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Short Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 119817,
-        "scheme_name": "SBI SHORT TERM DEBT FUND - Direct Plan - IDCW",
+        "scheme_name": "SBI SHORT TERM FUND - Direct Plan - IDCW",
         "isin_growth": "INF200K01VH7",
         "isin_div_reinvestment": "INF200K01VI5"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "15.94640"
+        },
         {
             "date": "25-08-2026",
             "nav": "15.94860"

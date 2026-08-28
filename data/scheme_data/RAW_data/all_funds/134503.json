@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Medium Term Fund",
         "scheme_code": 134503,
-        "scheme_name": "UTI Medium Duration Fund - Direct Plan - Growth",
+        "scheme_name": "UTI Medium Term Fund - Direct Plan - Growth",
         "isin_growth": "INF789FB1KE6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "20.78870"
+        },
         {
             "date": "25-08-2026",
             "nav": "20.79040"

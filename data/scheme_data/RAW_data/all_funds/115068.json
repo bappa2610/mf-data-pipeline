@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Dynamic Bond",
+        "scheme_category": "Income/Debt Oriented Schemes - Dynamic Term Fund",
         "scheme_code": 115068,
-        "scheme_name": "Axis Dynamic Bond Fund - Regular Plan - Growth Option",
+        "scheme_name": "Axis Dynamic Term Fund - Regular Plan - Growth Option",
         "isin_growth": "INF846K01917",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "31.58360"
+        },
         {
             "date": "25-08-2026",
             "nav": "31.58890"

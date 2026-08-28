@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "PGIM India Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Dynamic Bond",
+        "scheme_category": "Income/Debt Oriented Schemes - Dynamic Term Fund",
         "scheme_code": 116484,
-        "scheme_name": "PGIM India Dynamic Bond Fund - Regular Plan - Regular IDCW",
+        "scheme_name": "PGIM India Dynamic Term Fund - Regular Plan - Regular IDCW",
         "isin_growth": "INF663L01526",
         "isin_div_reinvestment": "INF663L01534"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "1044.62540"
+        },
         {
             "date": "25-08-2026",
             "nav": "1045.60720"

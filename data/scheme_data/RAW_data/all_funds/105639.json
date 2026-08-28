@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "JM Financial Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Dynamic Bond",
+        "scheme_category": "Income/Debt Oriented Schemes - Dynamic Term Fund",
         "scheme_code": 105639,
-        "scheme_name": "JM Dynamic Bond Fund - Regular Plan - Daily IDCW Option",
+        "scheme_name": "JM Dynamic Term Fund - Regular Plan - Daily IDCW Option",
         "isin_growth": null,
         "isin_div_reinvestment": "INF192K01668"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "10.02580"
+        },
         {
             "date": "25-08-2026",
             "nav": "10.03170"

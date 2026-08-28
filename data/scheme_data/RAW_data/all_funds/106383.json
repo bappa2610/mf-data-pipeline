@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "UTI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Short Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 106383,
-        "scheme_name": "UTI Short Duration Fund - Regular Plan - Discontinued Dividend Sub Option",
+        "scheme_name": "UTI Short Term Fund - Regular Plan - Discontinued Dividend Sub Option",
         "isin_growth": "INF789F01AH3",
         "isin_div_reinvestment": "INF789F01AI1"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "25.06030"
+        },
         {
             "date": "25-08-2026",
             "nav": "25.06340"

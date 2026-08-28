@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)",
         "scheme_code": 120472,
         "scheme_name": "Axis Gold Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF846K01DQ6",
         "isin_div_reinvestment": "INF846K01DR4"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "49.52830"
+        },
         {
             "date": "26-08-2026",
             "nav": "50.49530"

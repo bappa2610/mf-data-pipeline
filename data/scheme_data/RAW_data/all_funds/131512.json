@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Ultra Short Term Fund",
         "scheme_code": 131512,
-        "scheme_name": "UTI Ultra Short Duration Fund - Direct Plan - Fortnightly IDCW",
+        "scheme_name": "UTI Ultra Short Term Fund - Direct Plan - Fortnightly IDCW",
         "isin_growth": "INF789FA1P68",
         "isin_div_reinvestment": "INF789FA1P76"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "1351.68820"
+        },
         {
             "date": "25-08-2026",
             "nav": "1351.05730"

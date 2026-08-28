@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HDFC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Medium to Long Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Medium to Long Term Fund",
         "scheme_code": 100124,
-        "scheme_name": "HDFC Income Fund - Regular Plan - Growth Option",
+        "scheme_name": "HDFC Medium to Long Term Fund - Regular Plan - Growth Option",
         "isin_growth": "INF179K01962",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "60.63910"
+        },
         {
             "date": "25-08-2026",
             "nav": "60.67960"

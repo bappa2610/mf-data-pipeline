@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 135501,
-        "scheme_name": "Kotak Bond Short Term Fund - Regular Plan - Normal Dividend",
+        "scheme_name": "Kotak Short Term Fund - Regular Plan - Normal Dividend",
         "isin_growth": "INF174K01Y98",
         "isin_div_reinvestment": "INF174K01Z06"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "12.24560"
+        },
         {
             "date": "25-08-2026",
             "nav": "12.24800"

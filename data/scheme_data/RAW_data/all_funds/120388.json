@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Liquid Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
         "scheme_code": 120388,
         "scheme_name": "Axis Liquid Fund - Direct Plan - Daily IDCW Option",
         "isin_growth": null,
         "isin_div_reinvestment": "INF846K01DA0"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "1000.95600"
+        },
         {
             "date": "26-08-2026",
             "nav": "1000.95600"

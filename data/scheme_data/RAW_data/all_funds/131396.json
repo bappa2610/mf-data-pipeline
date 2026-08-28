@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Bandhan Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Dynamic Bond",
+        "scheme_category": "Income/Debt Oriented Schemes - Dynamic Term Fund",
         "scheme_code": 131396,
-        "scheme_name": "BANDHAN Dynamic Bond Fund - Direct Plan - Periodic IDCW",
+        "scheme_name": "BANDHAN Dynamic Term Fund - Direct Plan - Periodic IDCW",
         "isin_growth": "INF194KA1TP6",
         "isin_div_reinvestment": "INF194KA1TQ4"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "14.07770"
+        },
         {
             "date": "25-08-2026",
             "nav": "14.07510"

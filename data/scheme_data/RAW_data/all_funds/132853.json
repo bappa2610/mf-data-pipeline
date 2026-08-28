@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HDFC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Medium Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Medium Term Fund",
         "scheme_code": 132853,
-        "scheme_name": "HDFC Medium Term Debt Fund - Direct Plan - IDCW Option",
+        "scheme_name": "HDFC Medium Term Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF179KA1D90",
         "isin_div_reinvestment": "INF179KA1D82"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "22.03450"
+        },
         {
             "date": "25-08-2026",
             "nav": "22.03610"

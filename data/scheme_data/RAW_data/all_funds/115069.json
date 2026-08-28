@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Dynamic Bond",
+        "scheme_category": "Income/Debt Oriented Schemes - Dynamic Term Fund",
         "scheme_code": 115069,
-        "scheme_name": "Axis Dynamic Bond Fund - Regular Plan - Quarterly IDCW Option",
+        "scheme_name": "Axis Dynamic Term Fund - Regular Plan - Quarterly IDCW Option",
         "isin_growth": "INF846K01925",
         "isin_div_reinvestment": "INF846K01933"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "11.57510"
+        },
         {
             "date": "25-08-2026",
             "nav": "11.57710"

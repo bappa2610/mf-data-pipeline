@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Banking and PSU Debt Fund",
         "scheme_code": 118234,
-        "scheme_name": "Invesco India Banking and PSU Fund - Regular Plan - Daily IDCW",
+        "scheme_name": "Invesco India Banking and PSU Debt Fund - Regular Plan - Daily IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF205K01JX8"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "1048.21590"
+        },
         {
             "date": "25-08-2026",
             "nav": "1048.52520"

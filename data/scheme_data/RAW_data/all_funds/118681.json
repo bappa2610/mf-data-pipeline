@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Nippon India Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Medium to Long Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Medium to Long Term Fund",
         "scheme_code": 118681,
-        "scheme_name": "Nippon India Medium to Long Duration Fund - Direct Plan - HALF YEARLY - IDCW Option",
+        "scheme_name": "Nippon India Medium to Long Term Fund - Direct Plan - HALF YEARLY - IDCW Option",
         "isin_growth": "INF204K01YR2",
         "isin_div_reinvestment": "INF204K01YS0"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "13.81530"
+        },
         {
             "date": "25-08-2026",
             "nav": "13.82300"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "PGIM India Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short Term Fund",
         "scheme_code": 138358,
-        "scheme_name": "PGIM India Ultra Short Duration Fund - Direct Plan - Direct Growth",
+        "scheme_name": "PGIM India Ultra Short Term Fund - Direct Plan - Direct Growth",
         "isin_growth": "INF223J01QO7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "38.25710"
+        },
         {
             "date": "25-08-2026",
             "nav": "38.23900"

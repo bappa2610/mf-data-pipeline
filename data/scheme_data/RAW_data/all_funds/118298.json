@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Canara Robeco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Gilt Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Gilt Fund",
         "scheme_code": 118298,
         "scheme_name": "Canara Robeco Gilt Fund - Direct Plan - IDCW (Payout/Reinvestment)",
         "isin_growth": "INF760K01FA8",
         "isin_div_reinvestment": "INF760K01FB6"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "16.27840"
+        },
         {
             "date": "25-08-2026",
             "nav": "16.29080"

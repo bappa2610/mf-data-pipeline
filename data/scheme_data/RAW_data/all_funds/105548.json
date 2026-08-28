@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HDFC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Low Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short to Short Term Fund",
         "scheme_code": 105548,
-        "scheme_name": "HDFC Low Duration Fund - Regular Plan - Daily IDCW",
+        "scheme_name": "HDFC Ultra Short to Short Term Fund - Regular Plan - Daily IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF179K01434"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "10.14150"
+        },
         {
             "date": "25-08-2026",
             "nav": "10.14090"

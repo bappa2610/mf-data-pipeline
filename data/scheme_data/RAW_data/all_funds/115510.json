@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "ICICI Prudential Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Floater Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Floating Interest Rates Fund",
         "scheme_code": 115510,
-        "scheme_name": "ICICI Prudential Floating Interest Fund - Regular Plan - IDCW Others",
+        "scheme_name": "ICICI Prudential Floating Interest Rates Fund - Regular Plan - IDCW Others",
         "isin_growth": "INF109K01WQ9",
         "isin_div_reinvestment": "INF109K01WP1"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "201.17330"
+        },
         {
             "date": "25-08-2026",
             "nav": "201.18250"

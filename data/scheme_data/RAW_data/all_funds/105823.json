@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "LIC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Banking and PSU Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Banking and PSU Debt Fund",
         "scheme_code": 105823,
-        "scheme_name": "LIC MF Banking & PSU Fund - Regular Plan - Growth",
+        "scheme_name": "LIC MF Banking & PSU Debt Fund - Regular Plan - Growth",
         "isin_growth": "INF767K01535",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "36.88580"
+        },
         {
             "date": "25-08-2026",
             "nav": "36.89090"

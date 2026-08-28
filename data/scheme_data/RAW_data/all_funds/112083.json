@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Ultra Short Term Fund",
         "scheme_code": 112083,
-        "scheme_name": "UTI Ultra Short Duration Fund - Regular Plan - Discontinued Institutional Growth",
+        "scheme_name": "UTI Ultra Short Term Fund - Regular Plan - Discontinued Institutional Growth",
         "isin_growth": "INF789F01PM1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "3249.28080"
+        },
         {
             "date": "25-08-2026",
             "nav": "3247.85860"

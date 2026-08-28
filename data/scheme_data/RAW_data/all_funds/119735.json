@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Kotak Mahindra Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Medium to Long Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Medium to Long Term Fund",
         "scheme_code": 119735,
-        "scheme_name": "Kotak Bond Fund - Direct Plan - Growth",
+        "scheme_name": "Kotak Medium to Long Term Fund - Direct Plan - Growth",
         "isin_growth": "INF174K01JC0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "91.05070"
+        },
         {
             "date": "25-08-2026",
             "nav": "91.13210"

@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Ultra Short to Short Term Fund",
         "scheme_code": 115458,
-        "scheme_name": "Invesco India Low Duration Fund - Regular Plan - Discretionary IDCW",
+        "scheme_name": "Invesco India Ultra Short to Short Term Fund - Regular Plan - Discretionary IDCW",
         "isin_growth": "INF205K01IG5",
         "isin_div_reinvestment": "INF205K01IF7"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "4141.26560"
+        },
         {
             "date": "25-08-2026",
             "nav": "4140.16860"

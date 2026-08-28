@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Ultra Short Term Fund",
         "scheme_code": 114362,
-        "scheme_name": "Invesco India Ultra Short Duration Fund - Regular Plan - Monthly IDCW",
+        "scheme_name": "Invesco India Ultra Short Term Fund - Regular Plan - Monthly IDCW",
         "isin_growth": "INF205K01TN8",
         "isin_div_reinvestment": "INF205K01TO6"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "1016.30680"
+        },
         {
             "date": "25-08-2026",
             "nav": "1015.85250"

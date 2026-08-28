@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Ultra Short to Short Term Fund",
         "scheme_code": 102545,
-        "scheme_name": "UTI Low Duration Fund - Regular Plan - Bonus",
+        "scheme_name": "UTI Ultra Short to Short Term Fund - Regular Plan - Bonus",
         "isin_growth": "INF789F01OS1",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "3183.69340"
+        },
         {
             "date": "25-08-2026",
             "nav": "3182.80920"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Edelweiss Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Gilt Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Gilt Fund",
         "scheme_code": 140306,
-        "scheme_name": "Edelweiss Government Securities Fund - Direct Plan - Fortnightly IDCW",
+        "scheme_name": "Edelweiss Gilt Fund - Direct Plan - Fortnightly IDCW",
         "isin_growth": "INF843K01GX2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "22.13470"
+        },
         {
             "date": "25-08-2026",
             "nav": "22.17610"

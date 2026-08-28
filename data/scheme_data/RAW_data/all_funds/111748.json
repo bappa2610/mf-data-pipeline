@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Nippon India Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Low Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short to Short Term Fund",
         "scheme_code": 111748,
-        "scheme_name": "Nippon India Low Duration Fund - Regular Plan - Retail Plan - Growth Option",
+        "scheme_name": "Nippon India Ultra Short to Short Term Fund - Regular Plan - Retail Plan - Growth Option",
         "isin_growth": "INF204K01EN3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "3816.08970"
+        },
         {
             "date": "25-08-2026",
             "nav": "3815.10460"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Union Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Dynamic Bond",
+        "scheme_category": "Income/Debt Oriented Schemes - Dynamic Term Fund",
         "scheme_code": 119310,
-        "scheme_name": "Union Dynamic Bond Fund - Direct Plan - IDCW Option",
+        "scheme_name": "Union Dynamic Term Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF582M01815",
         "isin_div_reinvestment": "INF582M01807"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "16.73950"
+        },
         {
             "date": "25-08-2026",
             "nav": "16.77260"

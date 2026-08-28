@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "SBI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Gilt Fund with 10 year constant duration",
+        "scheme_category": "Income/Debt Oriented Schemes - 10-year Constant Maturity Gilt Fund",
         "scheme_code": 101002,
-        "scheme_name": "SBI CONSTANT MATURITY 10-Year GILT FUND - Regular Plan - Growth",
+        "scheme_name": "SBI 10 YEAR CONSTANT MATURITY GILT FUND - Regular Plan - Growth",
         "isin_growth": "INF200K01AN9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "66.66700"
+        },
         {
             "date": "25-08-2026",
             "nav": "66.79160"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Focused Fund",
+        "scheme_category": "Equity Schemes - Focused Fund",
         "scheme_code": 120467,
         "scheme_name": "Axis Focused Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF846K01CO3",
         "isin_div_reinvestment": "INF846K01CP0"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "34.04000"
+        },
         {
             "date": "26-08-2026",
             "nav": "34.00000"

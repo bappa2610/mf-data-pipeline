@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HDFC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Credit Risk Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Credit Risk Fund",
         "scheme_code": 133148,
-        "scheme_name": "HDFC Credit Risk Debt Fund - Regular Plan - IDCW Option",
+        "scheme_name": "HDFC Credit Risk Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF179KA1I87",
         "isin_div_reinvestment": "INF179KA1I79"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "23.97640"
+        },
         {
             "date": "25-08-2026",
             "nav": "23.97500"

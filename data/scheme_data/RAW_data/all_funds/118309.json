@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Canara Robeco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Conservative Hybrid Fund",
+        "scheme_category": "Hybrid Schemes - Conservative Hybrid Fund",
         "scheme_code": 118309,
         "scheme_name": "Canara Robeco Conservative Hybrid Fund - Direct Plan - GROWTH OPTION",
         "isin_growth": "INF760K01GB4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "116.41500"
+        },
         {
             "date": "25-08-2026",
             "nav": "116.51210"

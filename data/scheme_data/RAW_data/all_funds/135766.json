@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Solution Oriented Scheme - Children\u2019s Fund",
+        "scheme_category": "Children\u2019s Fund - Childrens' Fund",
         "scheme_code": 135766,
         "scheme_name": "Axis Children's Fund - Regular Plan - Growth Option",
         "isin_growth": "INF846K01WM5",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "26.55570"
+        },
         {
             "date": "26-08-2026",
             "nav": "26.59420"

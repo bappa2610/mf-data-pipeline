@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Ultra Short to Short Term Fund",
         "scheme_code": 105670,
-        "scheme_name": "UTI Low Duration Fund - Regular Plan - Discontinued Monthly Dividend",
+        "scheme_name": "UTI Ultra Short to Short Term Fund - Regular Plan - Discontinued Monthly Dividend",
         "isin_growth": "INF789F01OY9",
         "isin_div_reinvestment": "INF789F01OZ6"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "1014.82770"
+        },
         {
             "date": "25-08-2026",
             "nav": "1014.54580"

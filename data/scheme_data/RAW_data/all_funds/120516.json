@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Low Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short to Short Term Fund",
         "scheme_code": 120516,
-        "scheme_name": "Axis Treasury Advantage Fund - Direct Plan - Monthly IDCW Option",
+        "scheme_name": "Axis Ultra Short to Short Term Fund - Direct Plan - Monthly IDCW Option",
         "isin_growth": "INF846K01EO9",
         "isin_div_reinvestment": "INF846K01EP6"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "1009.85880"
+        },
         {
             "date": "25-08-2026",
             "nav": "1009.60830"

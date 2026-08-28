@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "SBI Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Short Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 106231,
-        "scheme_name": "SBI SHORT TERM DEBT FUND - Regular Plan - Growth",
+        "scheme_name": "SBI SHORT TERM FUND - Regular Plan - Growth",
         "isin_growth": "INF200K01HZ8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "34.09580"
+        },
         {
             "date": "25-08-2026",
             "nav": "34.10130"

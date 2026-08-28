@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 119399,
-        "scheme_name": "Baroda BNP Paribas Short Term Fund(the scheme has 2 segregated portfolios) - Direct Plan - Monthly IDCW Option",
+        "scheme_name": "Baroda BNP Paribas Short Term Fund (the scheme has 2 segregated portfolios) - Direct Plan - Monthly IDCW Option",
         "isin_growth": "INF955L01BB9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "10.48160"
+        },
         {
             "date": "25-08-2026",
             "nav": "10.48030"

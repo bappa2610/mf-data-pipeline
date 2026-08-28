@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 105185,
-        "scheme_name": "Invesco India Short Duration Fund - Regular Plan - Growth",
+        "scheme_name": "Invesco India Short Term Fund - Regular Plan - Growth",
         "isin_growth": "INF205K01UN6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "3770.13700"
+        },
         {
             "date": "25-08-2026",
             "nav": "3771.52230"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Bandhan Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Banking and PSU Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Banking and PSU Debt Fund",
         "scheme_code": 121938,
-        "scheme_name": "Bandhan Banking and PSU Fund - Direct Plan - Quarterly IDCW",
+        "scheme_name": "Bandhan Banking and PSU Debt Fund - Direct Plan - Quarterly IDCW",
         "isin_growth": "INF194K018M0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "11.05310"
+        },
         {
             "date": "25-08-2026",
             "nav": "11.05460"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Overseas",
+        "scheme_category": "Overseas Fund of Funds - Fund of Funds investing overseas",
         "scheme_code": 150750,
         "scheme_name": "Axis NASDAQ 100 US Specific Equity Passive FOF - Regular Plan - Growth Option",
         "isin_growth": "INF846K015K2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "29.44280"
+        },
         {
             "date": "26-08-2026",
             "nav": "29.15570"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Bank of India Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Short Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 119383,
-        "scheme_name": "BANK OF INDIA SHORT TERM INCOME FUND - Direct Plan - Monthly IDCW",
+        "scheme_name": "BANK OF INDIA SHORT TERM FUND - Direct Plan - Monthly IDCW",
         "isin_growth": "INF761K01751",
         "isin_div_reinvestment": "INF761K01744"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "15.09430"
+        },
         {
             "date": "25-08-2026",
             "nav": "15.09800"

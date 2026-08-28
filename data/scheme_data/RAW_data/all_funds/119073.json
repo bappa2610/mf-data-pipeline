@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HDFC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Dynamic Bond",
+        "scheme_category": "Income/Debt Oriented Schemes - Dynamic Term Fund",
         "scheme_code": 119073,
-        "scheme_name": "HDFC Dynamic Debt Fund - Direct Plan - Quarterly IDCW",
+        "scheme_name": "HDFC Dynamic Term Fund - Direct Plan - Quarterly IDCW",
         "isin_growth": "INF179K01WE8",
         "isin_div_reinvestment": "INF179K01WF5"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "14.33760"
+        },
         {
             "date": "25-08-2026",
             "nav": "14.35420"

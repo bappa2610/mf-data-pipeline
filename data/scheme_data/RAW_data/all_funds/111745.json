@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Nippon India Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Low Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short to Short Term Fund",
         "scheme_code": 111745,
-        "scheme_name": "Nippon India Low Duration Fund - Regular Plan - RETAIL Plan - WEEKLY IDCW Option",
+        "scheme_name": "Nippon India Ultra Short to Short Term Fund - Regular Plan - RETAIL Plan - WEEKLY IDCW Option",
         "isin_growth": "INF204K01OP7",
         "isin_div_reinvestment": "INF204K01EQ6"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "1012.54330"
+        },
         {
             "date": "25-08-2026",
             "nav": "1012.28190"

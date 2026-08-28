@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Bandhan Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Dynamic Bond",
+        "scheme_category": "Income/Debt Oriented Schemes - Dynamic Term Fund",
         "scheme_code": 122868,
-        "scheme_name": "BANDHAN Dynamic Bond Fund - Regular Plan - Half Yearly IDCW",
+        "scheme_name": "BANDHAN Dynamic Term Fund - Regular Plan - Half Yearly IDCW",
         "isin_growth": "INF194K018R9",
         "isin_div_reinvestment": "INF194K019R7"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "11.18570"
+        },
         {
             "date": "25-08-2026",
             "nav": "11.18420"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Canara Robeco Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Short Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 118322,
-        "scheme_name": "Canara Robeco Short Duration Fund - Direct Plan - QUARTERLY IDCW (Payout/Reinvestment)",
+        "scheme_name": "Canara Robeco Short Term Fund - Direct Plan - QUARTERLY IDCW (Payout/Reinvestment)",
         "isin_growth": "INF760K01DY3",
         "isin_div_reinvestment": "INF760K01DZ0"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "17.33790"
+        },
         {
             "date": "25-08-2026",
             "nav": "17.33630"

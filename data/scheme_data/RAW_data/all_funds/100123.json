@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HDFC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Medium to Long Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Medium to Long Term Fund",
         "scheme_code": 100123,
-        "scheme_name": "HDFC Income Fund - Regular Plan - Quarterly IDCW Option",
+        "scheme_name": "HDFC Medium to Long Term Fund - Regular Plan - Quarterly IDCW Option",
         "isin_growth": "INF179K01947",
         "isin_div_reinvestment": "INF179K01954"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "11.52750"
+        },
         {
             "date": "25-08-2026",
             "nav": "11.53510"

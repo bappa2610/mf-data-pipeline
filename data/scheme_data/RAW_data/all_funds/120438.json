@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Banking and PSU Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Banking and PSU Debt Fund",
         "scheme_code": 120438,
-        "scheme_name": "Axis Banking & PSU Debt Fund - Direct Plan - Growth Option",
+        "scheme_name": "Axis Banking and PSU Debt Fund - Direct Plan - Growth Option",
         "isin_growth": "INF846K01CR6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "2891.93610"
+        },
         {
             "date": "25-08-2026",
             "nav": "2892.52430"

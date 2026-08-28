@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Domestic",
+        "scheme_category": "Index Funds - Debt Funds",
         "scheme_code": 153926,
         "scheme_name": "Axis Income Plus Arbitrage Passive FOF - Regular Plan - IDCW Option",
         "isin_growth": "INF846KA1291",
         "isin_div_reinvestment": "INF846KA1317"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "10.46880"
+        },
         {
             "date": "25-08-2026",
             "nav": "10.46960"

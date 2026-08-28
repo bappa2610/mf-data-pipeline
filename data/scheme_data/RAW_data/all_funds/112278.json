@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Large Cap Fund",
+        "scheme_category": "Equity Schemes - Large Cap Fund",
         "scheme_code": 112278,
         "scheme_name": "Axis Large Cap Fund - Regular Plan - IDCW Option",
         "isin_growth": "INF846K01172",
         "isin_div_reinvestment": "INF846K01180"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "17.81000"
+        },
         {
             "date": "26-08-2026",
             "nav": "17.85000"

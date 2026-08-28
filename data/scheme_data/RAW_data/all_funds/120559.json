@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 120559,
-        "scheme_name": "Invesco India Short Duration Fund - Direct Plan - Daily IDCW",
+        "scheme_name": "Invesco India Short Term Fund - Direct Plan - Daily IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF205K01UE5"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "1019.90440"
+        },
         {
             "date": "25-08-2026",
             "nav": "1020.24220"

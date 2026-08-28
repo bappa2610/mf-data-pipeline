@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HDFC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Floater Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Floating Interest Rates Fund",
         "scheme_code": 106840,
-        "scheme_name": "HDFC Floating Rate Debt Fund - Regular Plan - Weekly IDCW Option",
+        "scheme_name": "HDFC Floating Interest Rates Fund - Regular Plan - Weekly IDCW Option",
         "isin_growth": "INF179K01731",
         "isin_div_reinvestment": "INF179KC1IV4"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "10.02720"
+        },
         {
             "date": "25-08-2026",
             "nav": "10.02700"

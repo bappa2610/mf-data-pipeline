@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Medium Term Fund",
         "scheme_code": 134502,
-        "scheme_name": "UTI Medium Duration Fund - Direct Plan - Quarterly IDCW",
+        "scheme_name": "UTI Medium Term Fund - Direct Plan - Quarterly IDCW",
         "isin_growth": "INF789FB1KH9",
         "isin_div_reinvestment": "INF789FB1KI7"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "15.55460"
+        },
         {
             "date": "25-08-2026",
             "nav": "15.55590"

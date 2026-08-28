@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Axis Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - FoF Overseas",
+        "scheme_category": "Overseas Fund of Funds - Fund of Funds investing overseas",
         "scheme_code": 148955,
         "scheme_name": "Axis Global Innovation Fund of Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF846K01Z38",
         "isin_div_reinvestment": "INF846K01Z46"
     },
     "data": [
+        {
+            "date": "27-08-2026",
+            "nav": "20.45000"
+        },
         {
             "date": "26-08-2026",
             "nav": "20.26000"
