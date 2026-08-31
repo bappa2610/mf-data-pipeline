@@ -14240,6 +14240,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154550,Jio BlackRock Mutual Fund,JioBlackRock Nifty 50 ETF,INF22M001184,,Open Ended Schemes,Exchange Traded Funds
 154551,Motilal Oswal Mutual Fund,Motilal Oswal Nifty Metal ETF,INF247L01HG7,,Open Ended Schemes,Exchange Traded Funds
 154552,Motilal Oswal Mutual Fund,Motilal Oswal Nifty Oil & Gas ETF,INF247L01HH5,,Open Ended Schemes,Exchange Traded Funds
+154553,WhiteOak Capital Mutual Fund,WhiteOak Capital Dividend Yield Fund,INF03VN01AI2,,Open Ended Schemes,Equity Schemes - Dividend Yield Fund
+154554,WhiteOak Capital Mutual Fund,WhiteOak Capital Dividend Yield Fund,INF03VN01AJ0,INF03VN01AK8,Open Ended Schemes,Equity Schemes - Dividend Yield Fund
+154555,WhiteOak Capital Mutual Fund,WhiteOak Capital Dividend Yield Fund,INF03VN01AL6,INF03VN01AM4,Open Ended Schemes,Equity Schemes - Dividend Yield Fund
+154556,WhiteOak Capital Mutual Fund,WhiteOak Capital Dividend Yield Fund,INF03VN01AH4,,Open Ended Schemes,Equity Schemes - Dividend Yield Fund
 154559,Edelweiss Mutual Fund,Edelweiss Nifty REITs & Realty Index Fund,INF754K01XO5,INF754K01XP2,Open Ended Schemes,Index Funds - Equity Funds
 154561,Edelweiss Mutual Fund,Edelweiss Nifty REITs & Realty Index Fund,INF754K01XN7,,Open Ended Schemes,Index Funds - Equity Funds
 154565,AlphaGrep Mutual Fund,ALPHAGREP LIQUID OMNI FOF,INF2VOA01137,,Open Ended Schemes,Fund of Funds Scheme
@@ -14256,6 +14260,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154576,Kotak Mahindra Mutual Fund,Kotak Diversified Equity All Cap Omni FOF,INF174KA1D59,,Open Ended Schemes,Fund of Funds Scheme
 154593,DSP Mutual Fund,DSP NIFTY 10 YR BENCHMARK G-SEC ETF,INF740KA1ZI7,,Open Ended Schemes,Exchange Traded Funds
 154602,UTI Mutual Fund,UTI Nifty 500 Exchange Traded Fund,INF789F1AG76,,Open Ended Schemes,Exchange Traded Funds
+154603,UTI Mutual Fund,UTI Nifty 500 Index Fund,INF789F1AG84,,Open Ended Schemes,Exchange Traded Funds
+154604,UTI Mutual Fund,UTI Nifty 500 Index Fund,INF789F1AG92,,Open Ended Schemes,Exchange Traded Funds
 154606,Kotak Mahindra Mutual Fund,Kotak Liquid Fund,INF174KA1E09,INF174KA1D83,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 154608,Kotak Mahindra Mutual Fund,Kotak Ultra Short Term Fund,INF174KA1E41,INF174KA1E25,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
 154609,Kotak Mahindra Mutual Fund,Kotak Corporate Bond Fund,INF174KA1E82,INF174KA1E66,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
@@ -36505,10 +36511,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154545,Invesco Asset Management (India) Private Limited,Invesco India Pharma and Healthcare Fund - Regular Plan - Growth,INF205KA1BU1,,Open Ended,Equity Schemes - Sectoral Fund
 154546,Invesco Asset Management (India) Private Limited,Invesco India Pharma and Healthcare Fund - Direct Plan - IDCW Plan,INF205KA1BY3,INF205KA1BZ0,Open Ended,Equity Schemes - Sectoral Fund
 154547,Invesco Asset Management (India) Private Limited,Invesco India Pharma and Healthcare Fund - Direct Plan - Growth,INF205KA1BX5,,Open Ended,Equity Schemes - Sectoral Fund
-154553,WhiteOak Capital Asset Management Limited,WhiteOak Capital Dividend Yield Fund Regular Plan Growth,INF03VN01AI2,,Open Ended,Equity Schemes - Dividend Yield Fund
-154554,WhiteOak Capital Asset Management Limited,WhiteOak Capital Dividend Yield Fund Direct Plan IDCW,INF03VN01AJ0,INF03VN01AK8,Open Ended,Equity Schemes - Dividend Yield Fund
-154555,WhiteOak Capital Asset Management Limited,WhiteOak Capital Dividend Yield Fund Regular Plan IDCW,INF03VN01AL6,INF03VN01AM4,Open Ended,Equity Schemes - Dividend Yield Fund
-154556,WhiteOak Capital Asset Management Limited,WhiteOak Capital Dividend Yield Fund Direct Plan Growth,INF03VN01AH4,,Open Ended,Equity Schemes - Dividend Yield Fund
 154563,ICICI Prudential Asset Management Company Limited,ICICI Prudential Life Cycle Fund 2031 - Growth,,,Open Ended,Life Cycle Funds - Life Cycle Fund with Maturity of 5 Years
 154564,ICICI Prudential Asset Management Company Limited,ICICI Prudential Life Cycle Fund 2031 - Direct Plan - Growth,,,Open Ended,Life Cycle Funds - Life Cycle Fund with Maturity of 5 Years
 154577,ICICI Prudential Asset Management Company Limited,ICICI Prudential Life Cycle Fund 2036 - Growth,,,Open Ended,Life Cycle Funds - Life Cycle Fund with Maturity of 10 Years
@@ -36529,8 +36531,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154599,Bandhan AMC Limited,Bandhan Contra Fund-Direct Plan-Annual IDCW,INF194KB1LC0,INF194KB1LD8,Open Ended,Equity Schemes - Contra Fund
 154600,Bandhan AMC Limited,Bandhan Contra Fund-Direct Plan-Growth,INF194KB1KX8,,Open Ended,Equity Schemes - Contra Fund
 154601,Bandhan AMC Limited,Bandhan Contra Fund-Regular Plan-Annual IDCW,INF194KB1LA4,INF194KB1LB2,Open Ended,Equity Schemes - Contra Fund
-154603,UTI Asset Mgmt. Co. Ltd.,UTI Nifty 500 Index Fund Regular Plan - Growth Option,INF789F1AG84,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
-154604,UTI Asset Mgmt. Co. Ltd.,UTI Nifty 500 Index Fund Direct Plan Growth Option,INF789F1AG92,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
 154615,SBI Funds Management Limited,SBI Balanced Hybrid Fund - Regular Plan - Growth,,,Open Ended,Hybrid Schemes - Balanced Hybrid Fund
 154616,SBI Funds Management Limited,SBI Balance Hybrid Fund - Regular Plan - IDCW,,,Open Ended,Hybrid Schemes - Balanced Hybrid Fund
 154617,SBI Funds Management Limited,SBI Balance Hybrid Fund - Direct Plan - IDCW,,,Open Ended,Hybrid Schemes - Balanced Hybrid Fund
