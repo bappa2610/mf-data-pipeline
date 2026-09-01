@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Aditya Birla Sun Life Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Floater Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Floating Interest Rates Fund",
         "scheme_code": 122647,
-        "scheme_name": "Aditya Birla Sun Life Floating Rate Fund - Regular Plan - Weekly IDCW Payout",
+        "scheme_name": "Aditya Birla Sun Life Floating Interest Rate Fund - Regular Plan - Weekly IDCW Payout",
         "isin_growth": null,
         "isin_div_reinvestment": "INF209K01MH7"
     },
     "data": [
+        {
+            "date": "01-09-2026",
+            "nav": "100.86220"
+        },
         {
             "date": "31-08-2026",
             "nav": "100.82120"

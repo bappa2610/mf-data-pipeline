@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Aditya Birla Sun Life Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Long Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Long Term Fund",
         "scheme_code": 150485,
-        "scheme_name": "Aditya Birla Sun Life Long Duration Fund - Direct Plan - IDCW",
+        "scheme_name": "Aditya Birla Sun Life Long Term Fund - Direct Plan - IDCW",
         "isin_growth": "INF209KB18J0",
         "isin_div_reinvestment": "INF209KB19J8"
     },
     "data": [
+        {
+            "date": "01-09-2026",
+            "nav": "10.95420"
+        },
         {
             "date": "31-08-2026",
             "nav": "10.95080"

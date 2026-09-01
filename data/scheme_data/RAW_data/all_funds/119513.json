@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Aditya Birla Sun Life Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Money Market Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Money Market Fund",
         "scheme_code": 119513,
-        "scheme_name": "Aditya Birla Sun Life Money Manager Fund - Direct Plan - Daily IDCW",
+        "scheme_name": "Aditya Birla Sun Life Money Market Fund - Direct Plan - Daily IDCW",
         "isin_growth": null,
         "isin_div_reinvestment": "INF209K01UT5"
     },
     "data": [
+        {
+            "date": "01-09-2026",
+            "nav": "100.02000"
+        },
         {
             "date": "31-08-2026",
             "nav": "100.02000"

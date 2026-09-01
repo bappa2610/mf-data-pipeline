@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Aditya Birla Sun Life Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Floater Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Floating Interest Rates Fund",
         "scheme_code": 122646,
-        "scheme_name": "Aditya Birla Sun Life Floating Rate Fund - Direct Plan - GROWTH",
+        "scheme_name": "Aditya Birla Sun Life Floating Interest Rate Fund - Direct Plan - GROWTH",
         "isin_growth": "INF209K01UX7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "01-09-2026",
+            "nav": "384.52600"
+        },
         {
             "date": "31-08-2026",
             "nav": "384.36770"

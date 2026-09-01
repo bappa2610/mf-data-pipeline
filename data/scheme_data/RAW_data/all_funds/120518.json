@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Aditya Birla Sun Life Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Aggressive Hybrid Fund",
+        "scheme_category": "Hybrid Schemes - Aggressive Hybrid Fund",
         "scheme_code": 120518,
-        "scheme_name": "Aditya Birla Sun Life Equity Hybrid '95 Fund - Direct Plan - IDCW",
+        "scheme_name": "Aditya Birla Sun Life Aggressive Hybrid Fund - Direct Plan - IDCW",
         "isin_growth": "INF209KA1LH3",
         "isin_div_reinvestment": "INF209K01ZB2"
     },
     "data": [
+        {
+            "date": "01-09-2026",
+            "nav": "294.36000"
+        },
         {
             "date": "31-08-2026",
             "nav": "295.02000"

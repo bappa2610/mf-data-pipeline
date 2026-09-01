@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Aditya Birla Sun Life Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Gilt Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Gilt Fund",
         "scheme_code": 119606,
-        "scheme_name": "Aditya Birla Sun Life Government Securities Fund - Direct Plan - Quarterly IDCW",
+        "scheme_name": "Aditya Birla Sun Life Gilt Fund - Direct Plan - Quarterly IDCW",
         "isin_growth": "INF209KA1LC4",
         "isin_div_reinvestment": "INF209K01XR3"
     },
     "data": [
+        {
+            "date": "01-09-2026",
+            "nav": "11.56440"
+        },
         {
             "date": "31-08-2026",
             "nav": "11.55850"

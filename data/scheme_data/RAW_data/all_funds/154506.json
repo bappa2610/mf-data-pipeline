@@ -5,10 +5,14 @@
         "scheme_category": "Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)",
         "scheme_code": 154506,
         "scheme_name": "HDFC Nifty Metal ETF FOF - Regular Plan - Growth Option",
-        "isin_growth": null,
+        "isin_growth": "INF179KC1KR8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "01-09-2026",
+            "nav": "10.01330"
+        },
         {
             "date": "31-08-2026",
             "nav": "10.05870"
