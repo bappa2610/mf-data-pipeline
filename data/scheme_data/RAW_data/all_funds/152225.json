@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "WhiteOak Capital Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Large & Mid Cap Fund",
+        "scheme_category": "Equity Schemes - Large & Mid Cap Fund",
         "scheme_code": 152225,
         "scheme_name": "WhiteOak Capital Large & Mid Cap Fund - Regular Plan - Growth Option",
         "isin_growth": "INF03VN01837",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "31-08-2026",
+            "nav": "14.16900"
+        },
+        {
+            "date": "28-08-2026",
+            "nav": "14.16300"
+        },
         {
             "date": "27-08-2026",
             "nav": "14.12700"

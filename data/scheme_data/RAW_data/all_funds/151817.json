@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Bandhan Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Sectoral Fund",
         "scheme_code": 151817,
         "scheme_name": "BANDHAN FINANCIAL SERVICES FUND - Direct Plan - IDCW",
         "isin_growth": "INF194KB1GC0",
         "isin_div_reinvestment": "INF194KB1GD8"
     },
     "data": [
+        {
+            "date": "31-08-2026",
+            "nav": "13.98000"
+        },
+        {
+            "date": "28-08-2026",
+            "nav": "13.91400"
+        },
         {
             "date": "27-08-2026",
             "nav": "13.95400"

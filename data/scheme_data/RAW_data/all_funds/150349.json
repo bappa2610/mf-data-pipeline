@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "WhiteOak Capital Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Flexi Cap Fund",
+        "scheme_category": "Equity Schemes - Flexi Cap Fund",
         "scheme_code": 150349,
         "scheme_name": "WhiteOak Capital Flexi Cap Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF03VN01555",
         "isin_div_reinvestment": "INF03VN01548"
     },
     "data": [
+        {
+            "date": "31-08-2026",
+            "nav": "19.51000"
+        },
+        {
+            "date": "28-08-2026",
+            "nav": "19.52200"
+        },
         {
             "date": "27-08-2026",
             "nav": "19.46100"

@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Bandhan Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Sectoral Fund",
         "scheme_code": 118469,
         "scheme_name": "BANDHAN Infrastructure Fund - Direct Plan - Growth",
         "isin_growth": "INF194K01X46",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "31-08-2026",
+            "nav": "57.34900"
+        },
+        {
+            "date": "28-08-2026",
+            "nav": "58.24000"
+        },
         {
             "date": "27-08-2026",
             "nav": "58.17400"

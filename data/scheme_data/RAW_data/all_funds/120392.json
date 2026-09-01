@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Large Cap Fund",
         "scheme_code": 120392,
-        "scheme_name": "Invesco India Largecap Fund - Direct Plan - Growth",
+        "scheme_name": "Invesco India Large Cap Fund - Direct Plan - Growth",
         "isin_growth": "INF205K01LB0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "31-08-2026",
+            "nav": "89.84000"
+        },
+        {
+            "date": "28-08-2026",
+            "nav": "89.77000"
+        },
         {
             "date": "27-08-2026",
             "nav": "89.32000"

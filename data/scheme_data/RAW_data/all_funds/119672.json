@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Sundaram Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Medium Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Medium Term Fund",
         "scheme_code": 119672,
-        "scheme_name": "Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) - Direct Plan - IDCW (Income Distribution CUM Capital Withdrawal)",
+        "scheme_name": "Sundaram Medium Term Fund (Formerly Known as Sundaram Medium Duration Fund) - Direct Plan - IDCW (Income Distribution CUM Capital Withdrawal)",
         "isin_growth": "INF903J01PK4",
         "isin_div_reinvestment": "INF903J01PL2"
     },
     "data": [
+        {
+            "date": "31-08-2026",
+            "nav": "27.14240"
+        },
+        {
+            "date": "28-08-2026",
+            "nav": "27.15570"
+        },
         {
             "date": "27-08-2026",
             "nav": "27.17830"

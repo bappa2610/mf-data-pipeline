@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "fund_house": "Kotak Mahindra Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)",
+        "scheme_code": 154573,
+        "scheme_name": "Kotak Diversified Equity All Cap Omni FOF - Regular Plan - IDCW",
+        "isin_growth": "INF174KA1D67",
+        "isin_div_reinvestment": "INF174KA1D75"
+    },
+    "data": [
+        {
+            "date": "31-08-2026",
+            "nav": "10.01600"
+        },
+        {
+            "date": "28-08-2026",
+            "nav": "10.01300"
+        }
+    ],
+    "status": "SUCCESS"
+}

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Small Cap Fund",
         "scheme_code": 145140,
-        "scheme_name": "Invesco India Smallcap Fund - Regular Plan - IDCW",
+        "scheme_name": "Invesco India Small Cap Fund - Regular Plan - IDCW",
         "isin_growth": "INF205K010T9",
         "isin_div_reinvestment": "INF205K014T1"
     },
     "data": [
+        {
+            "date": "31-08-2026",
+            "nav": "34.80000"
+        },
+        {
+            "date": "28-08-2026",
+            "nav": "34.93000"
+        },
         {
             "date": "27-08-2026",
             "nav": "34.92000"

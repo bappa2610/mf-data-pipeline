@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "DSP Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Other Scheme - Gold ETF",
+        "scheme_category": "Exchange Traded Funds (ETFs) - Gold ETF",
         "scheme_code": 151737,
         "scheme_name": "DSP Gold ETF",
-        "isin_growth": "INF740KA1SW3",
+        "isin_growth": "INF740KA1ZP2",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "31-08-2026",
+            "nav": "14.98750"
+        },
+        {
+            "date": "28-08-2026",
+            "nav": "15.34250"
+        },
         {
             "date": "27-08-2026",
             "nav": "152.38130"

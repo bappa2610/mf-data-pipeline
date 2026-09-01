@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "WhiteOak Capital Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Mid Cap Fund",
+        "scheme_category": "Equity Schemes - Mid Cap Fund",
         "scheme_code": 150582,
         "scheme_name": "WhiteOak Capital Mid Cap Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF03VN01605",
         "isin_div_reinvestment": "INF03VN01613"
     },
     "data": [
+        {
+            "date": "31-08-2026",
+            "nav": "23.93400"
+        },
+        {
+            "date": "28-08-2026",
+            "nav": "23.89900"
+        },
         {
             "date": "27-08-2026",
             "nav": "23.81800"

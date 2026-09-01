@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "fund_house": "DSP Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Income/Debt Oriented Schemes - Sectoral Fund",
+        "scheme_code": 154655,
+        "scheme_name": "DSP Financial Services Sectoral Debt Fund - Regular Plan - Growth",
+        "isin_growth": "INF740KA1ZJ5",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "31-08-2026",
+            "nav": "10.00810"
+        },
+        {
+            "date": "28-08-2026",
+            "nav": "10.00410"
+        }
+    ],
+    "status": "SUCCESS"
+}

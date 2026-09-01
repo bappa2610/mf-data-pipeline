@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "fund_house": "DSP Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Income/Debt Oriented Schemes - Sectoral Fund",
+        "scheme_code": 154652,
+        "scheme_name": "DSP Financial Services Sectoral Debt Fund - Regular Plan - IDCW",
+        "isin_growth": "INF740KA1ZK3",
+        "isin_div_reinvestment": "INF740KA1ZL1"
+    },
+    "data": [
+        {
+            "date": "31-08-2026",
+            "nav": "10.00810"
+        },
+        {
+            "date": "28-08-2026",
+            "nav": "10.00410"
+        }
+    ],
+    "status": "SUCCESS"
+}

@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Sundaram Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Short Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 149586,
-        "scheme_name": "Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund) - Regular Plan - IDCW (Income Distribution CUM Capital Withdrawal)",
+        "scheme_name": "Sundaram Short Term Fund (Formerly Known as Sundaram Short Duration Fund) - Regular Plan - IDCW (Income Distribution CUM Capital Withdrawal)",
         "isin_growth": "INF173K01BB1",
         "isin_div_reinvestment": "INF173K01BC9"
     },
     "data": [
+        {
+            "date": "31-08-2026",
+            "nav": "13.02040"
+        },
+        {
+            "date": "28-08-2026",
+            "nav": "13.01880"
+        },
         {
             "date": "27-08-2026",
             "nav": "13.02220"

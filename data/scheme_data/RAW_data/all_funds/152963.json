@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "WhiteOak Capital Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 152963,
         "scheme_name": "WhiteOak Capital ESG Best-In-Class Strategy Fund - Regular Plan - Growth Option",
         "isin_growth": "INF03VN01969",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "31-08-2026",
+            "nav": "10.31900"
+        },
+        {
+            "date": "28-08-2026",
+            "nav": "10.33300"
+        },
         {
             "date": "27-08-2026",
             "nav": "10.30000"

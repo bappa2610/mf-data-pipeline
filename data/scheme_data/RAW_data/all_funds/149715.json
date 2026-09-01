@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Sundaram Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
+        "scheme_category": "Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation",
         "scheme_code": 149715,
-        "scheme_name": "Sundaram Balanced Advantage Fund (Formerly Known as Principal Balanced Advantage Fund) - Regular Plan - GROWTH",
+        "scheme_name": "Sundaram Dynamic Asset Allocation Fund (Formerly Known as Sundaram Balanced Advantage Fund) - Regular Plan - GROWTH",
         "isin_growth": "INF173K01585",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "31-08-2026",
+            "nav": "35.75610"
+        },
+        {
+            "date": "28-08-2026",
+            "nav": "35.80270"
+        },
         {
             "date": "27-08-2026",
             "nav": "35.77920"

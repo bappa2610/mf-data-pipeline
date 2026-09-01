@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Multi Cap Fund",
         "scheme_code": 107352,
-        "scheme_name": "Invesco India Multicap Fund - Regular Plan - IDCW",
+        "scheme_name": "Invesco India Multi Cap Fund - Regular Plan - IDCW",
         "isin_growth": "INF205K01DO0",
         "isin_div_reinvestment": "INF205K01DP7"
     },
     "data": [
+        {
+            "date": "31-08-2026",
+            "nav": "121.71000"
+        },
+        {
+            "date": "28-08-2026",
+            "nav": "121.74000"
+        },
         {
             "date": "27-08-2026",
             "nav": "121.85000"

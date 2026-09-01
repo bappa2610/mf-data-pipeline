@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "WhiteOak Capital Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 153189,
         "scheme_name": "WhiteOak Capital Quality Equity Fund - Direct Plan - Growth Option",
         "isin_growth": "INF03VN01977",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "31-08-2026",
+            "nav": "10.81000"
+        },
+        {
+            "date": "28-08-2026",
+            "nav": "10.80800"
+        },
         {
             "date": "27-08-2026",
             "nav": "10.77300"

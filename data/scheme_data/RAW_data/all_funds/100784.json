@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Sundaram Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Banking and PSU Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Banking and PSU Debt Fund",
         "scheme_code": 100784,
-        "scheme_name": "Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking & PSU Debt Fund) - Regular Plan - GROWTH",
+        "scheme_name": "Sundaram Banking and PSU Debt Fund (Formerly Known as Sundaram Banking and PSU Fund) - Regular Plan - GROWTH",
         "isin_growth": "INF903J01IN3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "31-08-2026",
+            "nav": "45.67160"
+        },
+        {
+            "date": "28-08-2026",
+            "nav": "45.65710"
+        },
         {
             "date": "27-08-2026",
             "nav": "45.67550"

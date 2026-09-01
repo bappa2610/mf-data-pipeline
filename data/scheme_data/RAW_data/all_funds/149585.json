@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Sundaram Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Short Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 149585,
-        "scheme_name": "Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund) - Regular Plan - GROWTH",
+        "scheme_name": "Sundaram Short Term Fund (Formerly Known as Sundaram Short Duration Fund) - Regular Plan - GROWTH",
         "isin_growth": "INF173K01BA3",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "31-08-2026",
+            "nav": "47.02350"
+        },
+        {
+            "date": "28-08-2026",
+            "nav": "47.01760"
+        },
         {
             "date": "27-08-2026",
             "nav": "47.02990"

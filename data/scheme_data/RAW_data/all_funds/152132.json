@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "WhiteOak Capital Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Balanced Hybrid Fund",
+        "scheme_category": "Hybrid Schemes - Balanced Hybrid Fund",
         "scheme_code": 152132,
         "scheme_name": "WhiteOak Capital Balanced Hybrid Fund - Direct Plan - Growth Option",
         "isin_growth": "INF03VN01829",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "31-08-2026",
+            "nav": "14.05300"
+        },
+        {
+            "date": "28-08-2026",
+            "nav": "14.05600"
+        },
         {
             "date": "27-08-2026",
             "nav": "14.03300"

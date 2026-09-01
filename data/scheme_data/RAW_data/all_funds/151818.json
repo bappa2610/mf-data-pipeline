@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Bandhan Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Sectoral Fund",
         "scheme_code": 151818,
         "scheme_name": "BANDHAN FINANCIAL SERVICES FUND - Regular Plan - Growth",
         "isin_growth": "INF194KB1GE6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "31-08-2026",
+            "nav": "15.24800"
+        },
+        {
+            "date": "28-08-2026",
+            "nav": "15.17900"
+        },
         {
             "date": "27-08-2026",
             "nav": "15.22300"

@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "WhiteOak Capital Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Liquid Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Liquid Fund",
         "scheme_code": 145972,
         "scheme_name": "WhiteOak Capital Liquid Fund - Regular Plan - Monthly IDCW Payout / Reinvestment Option",
         "isin_growth": "INF03VN01134",
         "isin_div_reinvestment": "INF03VN01142"
     },
     "data": [
+        {
+            "date": "31-08-2026",
+            "nav": "1004.06470"
+        },
+        {
+            "date": "30-08-2026",
+            "nav": "1003.86450"
+        },
         {
             "date": "27-08-2026",
             "nav": "1003.35810"

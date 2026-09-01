@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "WhiteOak Capital Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Sectoral Fund",
         "scheme_code": 152322,
         "scheme_name": "WhiteOak Capital Banking & Financial Services Fund - Regular Plan - Growth Option",
         "isin_growth": "INF03VN01852",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "31-08-2026",
+            "nav": "13.23000"
+        },
+        {
+            "date": "28-08-2026",
+            "nav": "13.18500"
+        },
         {
             "date": "27-08-2026",
             "nav": "13.19900"

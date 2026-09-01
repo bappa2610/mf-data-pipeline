@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Bandhan Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Sectoral Fund",
         "scheme_code": 150716,
         "scheme_name": "BANDHAN TRANSPORTATION AND LOGISTICS FUND - Direct Plan - Growth",
         "isin_growth": "INF194KB1EB7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "31-08-2026",
+            "nav": "22.34700"
+        },
+        {
+            "date": "28-08-2026",
+            "nav": "22.38000"
+        },
         {
             "date": "27-08-2026",
             "nav": "22.35300"

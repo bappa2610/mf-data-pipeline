@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Bandhan Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 152605,
         "scheme_name": "BANDHAN INNOVATION FUND - Regular Plan - IDCW",
         "isin_growth": "INF194KB1IC6",
         "isin_div_reinvestment": "INF194KB1ID4"
     },
     "data": [
+        {
+            "date": "31-08-2026",
+            "nav": "14.73100"
+        },
+        {
+            "date": "28-08-2026",
+            "nav": "14.73600"
+        },
         {
             "date": "27-08-2026",
             "nav": "14.71700"

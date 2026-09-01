@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Sundaram Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
+        "scheme_category": "Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation",
         "scheme_code": 149718,
-        "scheme_name": "Sundaram Balanced Advantage Fund (Formerly Known as Principal Balanced Advantage Fund) - Direct Plan - Monthly IDCW (Income Distribution CUM Capital Withdrawal)",
+        "scheme_name": "Sundaram Dynamic Asset Allocation Fund (Formerly Known as Sundaram Balanced Advantage Fund) - Direct Plan - Monthly IDCW (Income Distribution CUM Capital Withdrawal)",
         "isin_growth": "INF173K01FF3",
         "isin_div_reinvestment": "INF173K01FG1"
     },
     "data": [
+        {
+            "date": "31-08-2026",
+            "nav": "17.85890"
+        },
+        {
+            "date": "28-08-2026",
+            "nav": "17.88010"
+        },
         {
             "date": "27-08-2026",
             "nav": "17.86770"

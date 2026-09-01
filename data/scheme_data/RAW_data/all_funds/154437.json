@@ -5,10 +5,18 @@
         "scheme_category": "Life Cycle Funds - Life Cycle Fund with Maturity of 15 Years",
         "scheme_code": 154437,
         "scheme_name": "Zerodha Life Cycle Fund 2041 - Direct Plan - Growth Option",
-        "isin_growth": null,
+        "isin_growth": "INF0R8F01216",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "31-08-2026",
+            "nav": "10.12200"
+        },
+        {
+            "date": "28-08-2026",
+            "nav": "10.16280"
+        },
         {
             "date": "27-08-2026",
             "nav": "10.14220"

@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Mid Cap Fund",
         "scheme_code": 105504,
-        "scheme_name": "Invesco India Midcap Fund - Regular Plan - IDCW",
+        "scheme_name": "Invesco India Mid Cap Fund - Regular Plan - IDCW",
         "isin_growth": "INF205K01BD7",
         "isin_div_reinvestment": "INF205K01BE5"
     },
     "data": [
+        {
+            "date": "31-08-2026",
+            "nav": "63.10000"
+        },
+        {
+            "date": "28-08-2026",
+            "nav": "62.73000"
+        },
         {
             "date": "27-08-2026",
             "nav": "63.11000"

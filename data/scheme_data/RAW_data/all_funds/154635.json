@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "fund_house": "Jio BlackRock Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
+        "scheme_code": 154635,
+        "scheme_name": "JioBlackRock Short Term Fund - Regular Plan - Growth Option",
+        "isin_growth": "INF22M001226",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "31-08-2026",
+            "nav": "999.93820"
+        },
+        {
+            "date": "28-08-2026",
+            "nav": "999.88400"
+        }
+    ],
+    "status": "SUCCESS"
+}

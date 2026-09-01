@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Sundaram Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Low Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short to Short Term Fund",
         "scheme_code": 149526,
-        "scheme_name": "Sundaram Low Duration Fund (Formerly Known as Principal Low Duration Fund) - Direct Plan - GROWTH",
+        "scheme_name": "Sundaram Ultra Short to Short Term Fund (Formerly Known as Sundaram Low Duration Fund) - Direct Plan - GROWTH",
         "isin_growth": "INF173K01FS6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "31-08-2026",
+            "nav": "3984.02040"
+        },
+        {
+            "date": "28-08-2026",
+            "nav": "3981.94710"
+        },
         {
             "date": "27-08-2026",
             "nav": "3981.61970"

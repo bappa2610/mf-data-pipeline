@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Sundaram Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Medium Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Medium Term Fund",
         "scheme_code": 119675,
-        "scheme_name": "Sundaram Medium Duration Fund (Formerly Known as Sundaram Medium Term Bond Fund) - Direct Plan - GROWTH",
+        "scheme_name": "Sundaram Medium Term Fund (Formerly Known as Sundaram Medium Duration Fund) - Direct Plan - GROWTH",
         "isin_growth": "INF903J01PO6",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "31-08-2026",
+            "nav": "80.71030"
+        },
+        {
+            "date": "28-08-2026",
+            "nav": "80.74970"
+        },
         {
             "date": "27-08-2026",
             "nav": "80.81710"

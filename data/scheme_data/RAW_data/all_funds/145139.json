@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Small Cap Fund",
         "scheme_code": 145139,
-        "scheme_name": "Invesco India Smallcap Fund - Regular Plan - Growth",
+        "scheme_name": "Invesco India Small Cap Fund - Regular Plan - Growth",
         "isin_growth": "INF205K011T7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "31-08-2026",
+            "nav": "48.65000"
+        },
+        {
+            "date": "28-08-2026",
+            "nav": "48.83000"
+        },
         {
             "date": "27-08-2026",
             "nav": "48.82000"

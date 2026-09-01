@@ -1,0 +1,22 @@
+{
+    "meta": {
+        "fund_house": "Edelweiss Mutual Fund",
+        "scheme_type": "Open Ended Schemes",
+        "scheme_category": "Index Funds - Equity Funds",
+        "scheme_code": 154548,
+        "scheme_name": "Edelweiss Nifty REITs & Realty Index Fund - Direct Plan - Growth",
+        "isin_growth": "INF754K01XJ5",
+        "isin_div_reinvestment": null
+    },
+    "data": [
+        {
+            "date": "31-08-2026",
+            "nav": "9.96530"
+        },
+        {
+            "date": "28-08-2026",
+            "nav": "9.96770"
+        }
+    ],
+    "status": "SUCCESS"
+}

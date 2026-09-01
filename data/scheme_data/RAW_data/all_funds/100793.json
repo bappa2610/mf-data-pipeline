@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Sundaram Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Banking and PSU Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Banking and PSU Debt Fund",
         "scheme_code": 100793,
-        "scheme_name": "Sundaram Banking & PSU Fund (Formerly Known as Sundaram Banking & PSU Debt Fund) - Regular Plan - IDCW (Income Distribution CUM Capital Withdrawal)",
+        "scheme_name": "Sundaram Banking and PSU Debt Fund (Formerly Known as Sundaram Banking and PSU Fund) - Regular Plan - IDCW (Income Distribution CUM Capital Withdrawal)",
         "isin_growth": "INF903J01IO1",
         "isin_div_reinvestment": "INF903J01IR4"
     },
     "data": [
+        {
+            "date": "31-08-2026",
+            "nav": "11.57410"
+        },
+        {
+            "date": "28-08-2026",
+            "nav": "11.57040"
+        },
         {
             "date": "27-08-2026",
             "nav": "11.57510"

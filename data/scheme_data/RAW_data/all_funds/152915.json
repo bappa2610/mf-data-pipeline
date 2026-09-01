@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "WhiteOak Capital Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Sectoral Fund",
         "scheme_code": 152915,
         "scheme_name": "WhiteOak Capital Digital Bharat Fund - Direct Plan - Growth Option",
         "isin_growth": "INF03VN01936",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "31-08-2026",
+            "nav": "10.78600"
+        },
+        {
+            "date": "28-08-2026",
+            "nav": "10.89200"
+        },
         {
             "date": "27-08-2026",
             "nav": "10.71200"

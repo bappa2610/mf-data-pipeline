@@ -4,11 +4,19 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Schemes - Multi Cap Fund",
         "scheme_code": 120412,
-        "scheme_name": "Invesco India Multicap Fund - Direct Plan - IDCW",
+        "scheme_name": "Invesco India Multi Cap Fund - Direct Plan - IDCW",
         "isin_growth": "INF205K01MQ6",
         "isin_div_reinvestment": "INF205K01MR4"
     },
     "data": [
+        {
+            "date": "31-08-2026",
+            "nav": "146.45000"
+        },
+        {
+            "date": "28-08-2026",
+            "nav": "146.46000"
+        },
         {
             "date": "27-08-2026",
             "nav": "146.59000"

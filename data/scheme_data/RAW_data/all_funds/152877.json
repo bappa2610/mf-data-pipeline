@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Bandhan Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 152877,
         "scheme_name": "Bandhan Business Cycle Fund - Regular Plan - Growth",
         "isin_growth": "INF194KB1IP8",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "31-08-2026",
+            "nav": "9.88000"
+        },
+        {
+            "date": "28-08-2026",
+            "nav": "9.88400"
+        },
         {
             "date": "27-08-2026",
             "nav": "9.86700"

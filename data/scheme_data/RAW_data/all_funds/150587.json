@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "WhiteOak Capital Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - ELSS",
+        "scheme_category": "Equity Schemes - ELSS- Tax Saver Fund",
         "scheme_code": 150587,
         "scheme_name": "WhiteOak Capital ELSS Tax Saver Fund - Direct Plan - Growth Option",
         "isin_growth": "INF03VN01621",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "31-08-2026",
+            "nav": "19.64100"
+        },
+        {
+            "date": "28-08-2026",
+            "nav": "19.67000"
+        },
         {
             "date": "27-08-2026",
             "nav": "19.60200"

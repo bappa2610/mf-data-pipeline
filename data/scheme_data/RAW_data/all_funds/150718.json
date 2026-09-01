@@ -2,13 +2,21 @@
     "meta": {
         "fund_house": "Bandhan Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Sectoral Fund",
         "scheme_code": 150718,
         "scheme_name": "BANDHAN TRANSPORTATION AND LOGISTICS FUND - Regular Plan - IDCW",
         "isin_growth": "INF194KB1EF8",
         "isin_div_reinvestment": "INF194KB1EG6"
     },
     "data": [
+        {
+            "date": "31-08-2026",
+            "nav": "19.69100"
+        },
+        {
+            "date": "28-08-2026",
+            "nav": "19.72300"
+        },
         {
             "date": "27-08-2026",
             "nav": "19.70000"
