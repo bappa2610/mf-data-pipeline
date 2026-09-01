@@ -1,16 +1,16 @@
 SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV date
 100033,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Large & Mid Cap Fund,INF209K01165,,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund,977.67,31-Aug-2026
 100034,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Large & Mid Cap Fund,INF209K01157,INF209K01CE5,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund,142.39,31-Aug-2026
-100037,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Income Fund,INF209K01587,INF209K01CY3,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund,13.0547,31-Aug-2026
-100038,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Income Fund,INF209K01579,,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund,129.6540,31-Aug-2026
+100037,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Medium to Long Term Fund,INF209K01587,INF209K01CY3,Open Ended Schemes,Income/Debt Oriented Schemes - Medium to Long Term Fund,13.0547,31-Aug-2026
+100038,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Medium to Long Term Fund,INF209K01579,,Open Ended Schemes,Income/Debt Oriented Schemes - Medium to Long Term Fund,129.6540,31-Aug-2026
 100041,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Liquid Fund,,INF209K01KN9,Open Ended Schemes,Debt Scheme - Liquid Fund,108.023,19-Jun-2026
 100044,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Liquid Fund,,INF209K01KP4,Open Ended Schemes,Debt Scheme - Liquid Fund,163.694,19-Jun-2026
 100046,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Liquid Fund,INF209K01KQ2,INF209K01SQ5,Open Ended Schemes,Debt Scheme - Liquid Fund,100.1950,31-Aug-2026
 100047,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Liquid Fund,INF209K01RU9,,Open Ended Schemes,Debt Scheme - Liquid Fund,451.9629,31-Aug-2026
 100048,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Liquid Fund,INF209KA1LK7,INF209K01KY6,Open Ended Schemes,Debt Scheme - Liquid Fund,108.068,19-Jun-2026
 100051,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Liquid Fund,INF209K01KU4,INF209KA1LJ9,Open Ended Schemes,Debt Scheme - Liquid Fund,100.2766,31-Aug-2026
-100057,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Government Securities Fund,INF209K01AF6,INF209K01DP9,Open Ended Schemes,Debt Scheme - Gilt Fund,10.7582,31-Aug-2026
-100058,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Government Securities Fund,INF209K01AC3,INF209K01AD1,Open Ended Schemes,Debt Scheme - Gilt Fund,81.5448,31-Aug-2026
+100057,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Gilt Fund,INF209K01AF6,INF209K01DP9,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund,10.7582,31-Aug-2026
+100058,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Gilt Fund,INF209K01AC3,INF209K01AD1,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund,81.5448,31-Aug-2026
 100063,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life MNC Fund,INF209K01314,INF209K01CL0,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,213.38,31-Aug-2026
 100064,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life MNC Fund,INF209K01322,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,1326.85,31-Aug-2026
 100077,DSP Mutual Fund,DSP Medium Term Fund,INF740K01565,INF740K01995,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund,11.6697,31-Aug-2026
@@ -309,7 +309,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 101306,DSP Mutual Fund,DSP Short Term Fund,INF740K01664,INF740K01AG8,Open Ended Schemes,Debt Scheme - Short Duration Fund,11.6224,31-Aug-2026
 101313,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty 50 Index Fund,INF209K01LA4,INF209K01LC0,Open Ended Schemes,Other Scheme - Index Funds,24.5686,31-Aug-2026
 101314,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty 50 Index Fund,INF209K01LB2,,Open Ended Schemes,Other Scheme - Index Funds,245.3573,31-Aug-2026
-101317,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Savings Fund,INF209K01LZ1,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund,589.9611,31-Aug-2026
+101317,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Ultra Short Term Fund,INF209K01LZ1,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund,589.9611,31-Aug-2026
 101349,ICICI Prudential Mutual Fund,ICICI Prudential Nifty 50 Index Fund,INF109K01PI0,,Open Ended Schemes,Other Scheme - Index Funds,244.0965,31-Aug-2026
 101350,ICICI Prudential Mutual Fund,ICICI Prudential Dynamic Term Fund,INF109K01712,,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund,49.3216,24-Apr-2020
 101351,ICICI Prudential Mutual Fund,ICICI Prudential Dynamic Term Fund,INF109K01FD2,INF109K01704,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund,10.9133,31-Aug-2026
@@ -398,8 +398,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 101806,JM Financial Mutual Fund,JM Dynamic Term Fund,INF192K01700,,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund,43.2718,31-Aug-2026
 101807,JM Financial Mutual Fund,JM Dynamic Term Fund,INF192K01734,INF192K01742,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund,10.2458,16-Mar-2021
 101808,JM Financial Mutual Fund,JM Dynamic Term Fund,INF192K01759,,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund,29.1520,14-Jan-2020
-101816,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Regular Savings Fund,INF209K01769,INF209K01DF0,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund,16.4570,31-Aug-2026
-101818,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Regular Savings Fund,INF209K01751,,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund,70.4966,31-Aug-2026
+101816,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Conservative Hybrid Fund,INF209K01769,INF209K01DF0,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund,16.4570,31-Aug-2026
+101818,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Conservative Hybrid Fund,INF209K01751,,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund,70.4966,31-Aug-2026
 101823,Tata Mutual Fund,Tata Large & Mid Cap Fund,INF277K01DH3,INF277K01410,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund,73.5648,31-Aug-2026
 101824,Tata Mutual Fund,Tata Large & Mid Cap Fund,INF277K01428,,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund,495.8507,31-Aug-2026
 101829,LIC Mutual Fund,LIC MF Ultra Short to Short Term fund,INF767K01AM9,INF767K01AN7,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund,14.4136,31-Aug-2026
@@ -438,10 +438,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 101950,SBI Mutual Fund,SBI GILT FUND,INF200K01AC2,INF200K01AD0,Open Ended Schemes,Debt Scheme - Gilt Fund,21.0937,31-Aug-2026
 101951,SBI Mutual Fund,SBI GILT FUND,INF200K01AF5,INF200K01AG3,Open Ended Schemes,Debt Scheme - Gilt Fund,21.3467,31-Aug-2026
 101952,SBI Mutual Fund,SBI GILT FUND,INF200K01AI9,INF200K01AJ7,Open Ended Schemes,Debt Scheme - Gilt Fund,20.6974,31-Aug-2026
-101972,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Money Manager Fund,,INF209K01JZ5,Open Ended Schemes,Debt Scheme - Money Market Fund,100.015,19-Jun-2026
-101973,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Money Manager Fund,,INF209K01SZ6,Open Ended Schemes,Debt Scheme - Money Market Fund,100.0200,31-Aug-2026
-101974,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Money Manager Fund,,INF209K01SY9,Open Ended Schemes,Debt Scheme - Money Market Fund,100.1357,31-Aug-2026
-101976,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Money Manager Fund,INF209K01RV7,,Open Ended Schemes,Debt Scheme - Money Market Fund,398.6100,31-Aug-2026
+101972,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Money Market Fund,,INF209K01JZ5,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund,100.015,19-Jun-2026
+101973,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Money Market Fund,,INF209K01SZ6,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund,100.0200,31-Aug-2026
+101974,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Money Market Fund,,INF209K01SY9,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund,100.1357,31-Aug-2026
+101976,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Money Market Fund,INF209K01RV7,,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund,398.6100,31-Aug-2026
 101979,HDFC Mutual Fund,HDFC ELSS - Tax Saver Fund,INF179K01BB8,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund,1390.777,31-Aug-2026
 101980,HDFC Mutual Fund,HDFC ELSS - Tax Saver Fund,INF179K01AZ9,INF179K01BA0,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund,67.499,31-Aug-2026
 101986,Tata Mutual Fund,Tata Money Market Fund,,INF277K014C0,Open Ended Schemes,Debt Scheme - Money Market Fund,1114.5200,31-Aug-2026
@@ -635,9 +635,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 103174,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Large Cap Fund,INF209K01BR9,,Open Ended Schemes,Equity Scheme - Large Cap Fund,523.24,31-Aug-2026
 103178,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Corporate Bond Fund,INF209K01785,,Open Ended Schemes,Debt Scheme - Corporate Bond Fund,119.3517,31-Aug-2026
 103183,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Corporate Bond Fund,INF209K01983,INF209K01DL8,Open Ended Schemes,Debt Scheme - Corporate Bond Fund,12.5788,31-Aug-2026
-103192,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Low Duration Fund,INF209K01LQ0,,Open Ended Schemes,Debt Scheme - Low Duration Fund,699.4017,31-Aug-2026
-103193,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Low Duration Fund,,INF209KA1LQ4,Open Ended Schemes,Debt Scheme - Low Duration Fund,100.6056,31-Aug-2026
-103194,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Low Duration Fund,,INF209K01KG3,Open Ended Schemes,Debt Scheme - Low Duration Fund,99.9054,30-Apr-2020
+103192,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Ultra short to short term Fund,INF209K01LQ0,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund,699.4017,31-Aug-2026
+103193,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Ultra short to short term Fund,,INF209KA1LQ4,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund,100.6056,31-Aug-2026
+103194,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Ultra short to short term Fund,,INF209K01KG3,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund,99.9054,30-Apr-2020
 103196,Nippon India Mutual Fund,Nippon India ELSS Tax Saver Fund,INF204K01GK4,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund,130.6422,31-Aug-2026
 103197,Nippon India Mutual Fund,Nippon India ELSS Tax Saver Fund,INF204K01GL2,INF204K01GM0,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund,33.9338,31-Aug-2026
 103215,SBI Mutual Fund,SBI FLEXICAP FUND,INF200K01222,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,110.1576,31-Aug-2026
@@ -807,8 +807,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 105857,LIC Mutual Fund,LIC MF Banking & PSU Debt Fund,INF767K01568,INF767K01576,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund,10.3695,31-Aug-2026
 105875,DSP Mutual Fund,DSP Flexi Cap Fund,INF740K01037,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,104.9570,31-Aug-2026
 105878,DSP Mutual Fund,DSP Dynamic Term Fund,INF740K01GQ4,INF740K01GP6,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund,1044.2021,31-Aug-2026
-105887,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Savings Fund,INF209K01MA2,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund,100.4916,31-Aug-2026
-105888,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Savings Fund,INF209K01LY4,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund,100.0126,31-Aug-2026
+105887,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Ultra Short Term Fund,INF209K01MA2,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund,100.4916,31-Aug-2026
+105888,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Ultra Short Term Fund,INF209K01LY4,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund,100.0126,31-Aug-2026
 105907,ICICI Prudential Mutual Fund,ICICI Prudential Interval Fund - Quarterly Interval Plan - II,INF109K01MC0,,Open Ended Schemes,Income,10.0271,24-Oct-2017
 105908,ICICI Prudential Mutual Fund,ICICI Prudential Interval Fund - Quarterly Interval Plan - II,INF109K01MB2,,Open Ended Schemes,Income,22.0296,24-Oct-2017
 105967,Kotak Mahindra Mutual Fund,Kotak Arbitrage Fund,INF174K01328,INF174K01310,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,10.7449,31-Aug-2026
@@ -874,8 +874,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 106365,UTI Mutual Fund,UTI - FIIF Quarterly Interval Plan III,INF789F01GI8,INF789F01GJ6,Close Ended Schemes,Income,10.0759,11-May-2022
 106366,UTI Mutual Fund,UTI - FIIF Quarterly Interval Plan III,INF789F01GK4,,Close Ended Schemes,Income,27.902,11-May-2022
 106367,UTI Mutual Fund,UTI - FIIF Quarterly Interval Plan III,INF789F01GL2,INF789F01GM0,Close Ended Schemes,Income,10.065,10-Dec-2020
-106369,Sundaram Mutual Fund,Sundaram Global Brand Theme-Equity Active FOF,INF903J01EY9,INF903J01EZ6,Open Ended Schemes,Other Scheme - FoF Overseas,36.0143,28-Aug-2026
-106370,Sundaram Mutual Fund,Sundaram Global Brand Theme-Equity Active FOF,INF903J01EX1,,Open Ended Schemes,Other Scheme - FoF Overseas,44.5511,28-Aug-2026
+106369,Sundaram Mutual Fund,Sundaram Global Brand Theme-Equity Active FOF,INF903J01EY9,INF903J01EZ6,Open Ended Schemes,Other Scheme - FoF Overseas,35.7725,31-Aug-2026
+106370,Sundaram Mutual Fund,Sundaram Global Brand Theme-Equity Active FOF,INF903J01EX1,,Open Ended Schemes,Other Scheme - FoF Overseas,44.2520,31-Aug-2026
 106383,UTI Mutual Fund,UTI Short Term Fund,INF789F01AH3,INF789F01AI1,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund,25.0484,31-Aug-2026
 106384,UTI Mutual Fund,UTI Short Term Fund,INF789F01AJ9,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund,47.382,31-Aug-2026
 106425,UTI Mutual Fund,UTI - India Consumer Fund,INF789F01CE6,,Open Ended Schemes,Equity Schemes - Thematic Fund,58.9021,31-Aug-2026
@@ -1199,18 +1199,18 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 111752,Nippon India Mutual Fund,Nippon India Ultra Short to Short Term Fund,INF204K01ET0,INF204K01EU8,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund,1028.7870,31-Aug-2026
 111753,Nippon India Mutual Fund,Nippon India Ultra Short to Short Term Fund,INF204K01EV6,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund,4006.9221,31-Aug-2026
 111754,Nippon India Mutual Fund,Nippon India Ultra Short to Short Term Fund,INF204K01OO0,INF204K01EY0,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund,1012.9541,31-Aug-2026
-111777,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Income Fund,INF209K01LD8,,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund,30.0154,20-Sep-2024
+111777,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Medium to Long Term Fund,INF209K01LD8,,Open Ended Schemes,Income/Debt Oriented Schemes - Medium to Long Term Fund,30.0154,20-Sep-2024
 111786,DSP Mutual Fund,DSP Dynamic Term Fund,,INF740KA1PA5,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund,1056.6666,31-Aug-2026
 111787,Taurus Mutual Fund,Taurus Ethical Fund,INF044D01864,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,128.65,31-Aug-2026
 111788,Taurus Mutual Fund,Taurus Ethical Fund,INF044D01831,INF044D01849,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,86.96,31-Aug-2026
 111793,ICICI Prudential Mutual Fund,ICICI Prudential Ultra Short to Short Term Fund,INF109K01EJ2,INF109K01BY7,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund,100.956,24-Apr-2020
 111794,ICICI Prudential Mutual Fund,ICICI Prudential Ultra Short to Short Term Fund,INF109K01BX9,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund,220.0081,24-Apr-2020
 111795,ICICI Prudential Mutual Fund,ICICI Prudential Ultra Short to Short Term Fund,INF109K01EI4,INF109K01BW1,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund,100.1193,24-Apr-2020
-111803,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Medium Term Plan,INF209K01603,,Open Ended Schemes,Debt Scheme - Medium Duration Fund,43.7281,31-Aug-2026
-111804,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Medium Term Plan,INF209K01660,,Open Ended Schemes,Debt Scheme - Medium Duration Fund,22.1442,04-Apr-2019
-111809,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Medium Term Plan,INF209K01637,INF209KB1OJ2,Open Ended Schemes,Debt Scheme - Medium Duration Fund,13.7378,31-Aug-2026
-111811,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Medium Term Plan,INF209K01595,INF209K01CZ0,Open Ended Schemes,Debt Scheme - Medium Duration Fund,14.1189,31-Aug-2026
-111812,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Medium Term Plan,INF209K01611,INF209K01DA1,Open Ended Schemes,Debt Scheme - Medium Duration Fund,16.6014,31-Aug-2026
+111803,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Medium Term Fund,INF209K01603,,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund,43.7281,31-Aug-2026
+111804,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Medium Term Fund,INF209K01660,,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund,22.1442,04-Apr-2019
+111809,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Medium Term Fund,INF209K01637,INF209KB1OJ2,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund,13.7378,31-Aug-2026
+111811,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Medium Term Fund,INF209K01595,INF209K01CZ0,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund,14.1189,31-Aug-2026
+111812,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Medium Term Fund,INF209K01611,INF209K01DA1,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund,16.6014,31-Aug-2026
 111903,Taurus Mutual Fund,Taurus Ethical Fund,INF044D01823,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,128.63,31-Aug-2026
 111935,Edelweiss Mutual Fund,Edelweiss Large Cap Fund,INF754K01087,,Open Ended Schemes,Equity Scheme - Large Cap Fund,84.69,31-Aug-2026
 111936,Edelweiss Mutual Fund,Edelweiss Large Cap Fund,INF754K01012,INF754K01020,Open Ended Schemes,Equity Scheme - Large Cap Fund,26.53,31-Aug-2026
@@ -1246,7 +1246,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 112005,ICICI Prudential Mutual Fund,ICICI Prudential Dynamic Bond Fund,INF109K01PK6,INF109K01IY2,Open Ended Schemes,Income,10.2388,25-May-2018
 112012,Edelweiss Mutual Fund,Edelweiss Aggressive Hybrid Fund,INF754K01160,,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund,65.25,31-Aug-2026
 112013,Edelweiss Mutual Fund,Edelweiss Aggressive Hybrid Fund,INF754K01137,INF754K01145,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund,65.24,31-Aug-2026
-112016,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Savings Fund,INF209K01JT8,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund,332.7377,19-Jun-2026
+112016,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Ultra Short Term Fund,INF209K01JT8,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund,332.7377,19-Jun-2026
 112038,Quantum Mutual Fund,Quantum Diversified Equity All Cap Active FOF,INF082J01101,INF082J01119,Open Ended Schemes,Other Scheme - FoF Domestic,87.524,31-Aug-2026
 112039,Quantum Mutual Fund,Quantum Diversified Equity All Cap Active FOF,INF082J01093,,Open Ended Schemes,Other Scheme - FoF Domestic,87.743,31-Aug-2026
 112076,UTI Mutual Fund,UTI - Money Market Fund,,INF789F01PW0,Open Ended Schemes,Debt Scheme - Money Market Fund,1066.4284,31-Aug-2026
@@ -1408,7 +1408,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 113298,Nippon India Mutual Fund,Nippon India Index Fund - Nifty 50 Plan,INF204K01IG8,INF204K01IJ2,Open Ended Schemes,Other Scheme - Index Funds,32.4508,31-Aug-2026
 113299,Nippon India Mutual Fund,Nippon India Index Fund - Nifty 50 Plan,INF204K01IH6,INF204K01IK0,Open Ended Schemes,Other Scheme - Index Funds,32.4522,31-Aug-2026
 113300,Nippon India Mutual Fund,Nippon India Index Fund - Nifty 50 Plan,INF204K01II4,INF204K01IL8,Open Ended Schemes,Other Scheme - Index Funds,32.3445,31-Aug-2026
-113307,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Low Duration Fund,,INF209KA1LP6,Open Ended Schemes,Debt Scheme - Low Duration Fund,100.0000,31-Aug-2026
+113307,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Ultra short to short term Fund,,INF209KA1LP6,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund,100.0000,31-Aug-2026
 113345,Nippon India Mutual Fund,Nippon India Arbitrage Fund,INF204K01IY1,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,28.3515,31-Aug-2026
 113346,Nippon India Mutual Fund,Nippon India Arbitrage Fund,INF204K01IZ8,INF204K01JA9,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,16.9910,31-Aug-2026
 113361,Bandhan Mutual Fund,BANDHAN CONSERVATIVE HYBRID FUND,INF194K01SB1,INF194K01SA3,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund,13.6054,31-Aug-2026
@@ -2194,36 +2194,36 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 119496,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Short Term Fund,INF209KA1KQ6,INF209K01XL6,Open Ended Schemes,Debt Scheme - Short Duration Fund,11.0961,31-Aug-2026
 119497,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Short Term Fund,INF209K01R96,INF209KA1KR4,Open Ended Schemes,Debt Scheme - Short Duration Fund,10.9785,31-Aug-2026
 119498,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Short Term Fund,INF209K01XK8,,Open Ended Schemes,Debt Scheme - Short Duration Fund,55.1676,31-Aug-2026
-119499,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Savings Fund,INF209K01US7,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund,100.5674,31-Aug-2026
-119500,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Savings Fund,INF209K01UQ1,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund,100.0140,31-Aug-2026
-119501,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Savings Fund,INF209K01UR9,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund,602.3234,31-Aug-2026
+119499,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Ultra Short Term Fund,INF209K01US7,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund,100.5674,31-Aug-2026
+119500,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Ultra Short Term Fund,INF209K01UQ1,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund,100.0140,31-Aug-2026
+119501,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Ultra Short Term Fund,INF209K01UR9,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund,602.3234,31-Aug-2026
 119502,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Dynamic Term Fund,INF209K01R88,,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund,11.1046,31-Aug-2026
 119503,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Dynamic Term Fund,INF209K01R62,,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund,11.1698,31-Aug-2026
 119505,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Dynamic Term Fund,INF209K01N82,,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund,52.8764,31-Aug-2026
 119506,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Dividend Yield Fund,INF209K01Q55,INF209K01WB9,Open Ended Schemes,Equity Scheme - Dividend Yield Fund,47.36,31-Aug-2026
 119507,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Dividend Yield Fund,INF209K01WA1,,Open Ended Schemes,Equity Scheme - Dividend Yield Fund,512.96,31-Aug-2026
-119511,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Money Manager Fund,INF209K01UU3,,Open Ended Schemes,Debt Scheme - Money Market Fund,404.4666,31-Aug-2026
-119512,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Money Manager Fund,INF209K01UV1,INF209KA1LM3,Open Ended Schemes,Debt Scheme - Money Market Fund,100.1369,31-Aug-2026
-119513,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Money Manager Fund,,INF209K01UT5,Open Ended Schemes,Debt Scheme - Money Market Fund,100.0200,31-Aug-2026
+119511,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Money Market Fund,INF209K01UU3,,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund,404.4666,31-Aug-2026
+119512,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Money Market Fund,INF209K01UV1,INF209KA1LM3,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund,100.1369,31-Aug-2026
+119513,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Money Market Fund,,INF209K01UT5,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund,100.0200,31-Aug-2026
 119514,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Infrastructure Fund,INF209K01WH6,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,121.30,31-Aug-2026
 119515,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Infrastructure Fund,INF209K01WG8,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,50.84,31-Aug-2026
 119516,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life International Equity Fund,INF209K01Q89,INF209K01WT1,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,52.9077,31-Aug-2026
 119517,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life International Equity Fund,INF209K01WS3,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,56.7953,31-Aug-2026
 119518,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life International Equity Fund Plan B,INF209K01WU9,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,30.2806,28-Jul-2023
 119519,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life International Equity Fund Plan B,INF209K01Q97,INF209K01WV7,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,23.1342,28-Jul-2023
-119522,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Low Duration Fund,,INF209K01XV5,Open Ended Schemes,Debt Scheme - Low Duration Fund,100.7597,31-Aug-2026
-119523,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Low Duration Fund,INF209K01XU7,,Open Ended Schemes,Debt Scheme - Low Duration Fund,782.0190,31-Aug-2026
-119524,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Low Duration Fund,INF209K01XW3,,Open Ended Schemes,Debt Scheme - Low Duration Fund,100.0000,31-Aug-2026
+119522,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Ultra short to short term Fund,,INF209K01XV5,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund,100.7597,31-Aug-2026
+119523,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Ultra short to short term Fund,INF209K01XU7,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund,782.0190,31-Aug-2026
+119524,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Ultra short to short term Fund,INF209K01XW3,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund,100.0000,31-Aug-2026
 119525,Aditya Birla Sun Life Mutual Fund,ADITYA BIRLA SUN LIFE ARBITRAGE FUND,INF209K01P80,INF209K01VQ9,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,11.4707,31-Aug-2026
 119526,Aditya Birla Sun Life Mutual Fund,ADITYA BIRLA SUN LIFE ARBITRAGE FUND,INF209K01VP1,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund,30.8609,31-Aug-2026
 119527,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Large Cap Fund,INF209K01YX9,INF209K01YW1,Open Ended Schemes,Equity Scheme - Large Cap Fund,93.68,31-Aug-2026
 119528,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Large Cap Fund,INF209K01YY7,,Open Ended Schemes,Equity Scheme - Large Cap Fund,582.48,31-Aug-2026
 119532,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Corporate Bond Fund,INF209K01N90,INF209KA1KU8,Open Ended Schemes,Debt Scheme - Corporate Bond Fund,12.8032,31-Aug-2026
 119533,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Corporate Bond Fund,INF209K01S38,,Open Ended Schemes,Debt Scheme - Corporate Bond Fund,121.6418,31-Aug-2026
-119538,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Medium Term Plan,INF209KA1KO1,,Open Ended Schemes,Debt Scheme - Medium Duration Fund,18.2713,31-Aug-2026
-119539,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Medium Term Plan,INF209K01XA9,,Open Ended Schemes,Debt Scheme - Medium Duration Fund,47.9619,31-Aug-2026
-119540,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Medium Term Plan,INF209KA1KN3,,Open Ended Schemes,Debt Scheme - Medium Duration Fund,15.1131,31-Aug-2026
-119541,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Medium Term Plan,INF209KA1KP8,,Open Ended Schemes,Debt Scheme - Medium Duration Fund,14.5093,31-Aug-2026
+119538,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Medium Term Fund,INF209KA1KO1,,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund,18.2713,31-Aug-2026
+119539,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Medium Term Fund,INF209K01XA9,,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund,47.9619,31-Aug-2026
+119540,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Medium Term Fund,INF209KA1KN3,,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund,15.1131,31-Aug-2026
+119541,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Medium Term Fund,INF209KA1KP8,,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund,14.5093,31-Aug-2026
 119543,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life ELSS Tax Saver Fund,INF209K01P23,INF209K01UM0,Open Ended Schemes,Equity Scheme - ELSS,439.88,31-Aug-2026
 119544,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life ELSS Tax Saver Fund,INF209K01UN8,,Open Ended Schemes,Equity Scheme - ELSS,69.99,31-Aug-2026
 119548,Sundaram Mutual Fund,Sundaram Value Fund,INF903J01NL7,INF903J01NM5,Open Ended Schemes,Equity Scheme - Value Fund,18.4733,31-Aug-2026
@@ -2258,11 +2258,11 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 119596,Sundaram Mutual Fund,Sundaram Financial Services Opportunities Fund,INF903J01MZ9,INF903J01NA0,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,34.5376,31-Aug-2026
 119597,Sundaram Mutual Fund,Sundaram Financial Services Opportunities Fund,INF903J01NB8,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,126.6509,31-Aug-2026
 119598,SBI Mutual Fund,SBI Large Cap Fund,INF200K01QX4,,Open Ended Schemes,Equity Scheme - Large Cap Fund,104.7043,31-Aug-2026
-119601,Sundaram Mutual Fund,Sundaram Global Brand Theme-Equity Active FOF,INF903J01NZ7,INF903J01OA8,Open Ended Schemes,Other Scheme - FoF Overseas,41.3682,28-Aug-2026
-119602,Sundaram Mutual Fund,Sundaram Global Brand Theme-Equity Active FOF,INF903J01OB6,,Open Ended Schemes,Other Scheme - FoF Overseas,49.2925,28-Aug-2026
+119601,Sundaram Mutual Fund,Sundaram Global Brand Theme-Equity Active FOF,INF903J01NZ7,INF903J01OA8,Open Ended Schemes,Other Scheme - FoF Overseas,41.0936,31-Aug-2026
+119602,Sundaram Mutual Fund,Sundaram Global Brand Theme-Equity Active FOF,INF903J01OB6,,Open Ended Schemes,Other Scheme - FoF Overseas,48.9652,31-Aug-2026
 119604,SBI Mutual Fund,SBI AGGRESSIVE HYBRID FUND,INF200K01RW4,INF200K01RX2,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund,103.5602,31-Aug-2026
-119605,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Government Securities Fund,INF209K01XP7,,Open Ended Schemes,Debt Scheme - Gilt Fund,88.2685,31-Aug-2026
-119606,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Government Securities Fund,INF209KA1LC4,INF209K01XR3,Open Ended Schemes,Debt Scheme - Gilt Fund,11.5585,31-Aug-2026
+119605,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Gilt Fund,INF209K01XP7,,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund,88.2685,31-Aug-2026
+119606,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Gilt Fund,INF209KA1LC4,INF209K01XR3,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund,11.5585,31-Aug-2026
 119609,SBI Mutual Fund,SBI AGGRESSIVE HYBRID FUND,INF200K01RY0,,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund,353.9078,31-Aug-2026
 119613,SBI Mutual Fund,SBI COMMA FUND,INF200K01RZ7,INF200K01SA8,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,73.4212,31-Aug-2026
 119619,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Midcap Fund,INF209K01Q22,,Open Ended Schemes,Equity Scheme - Mid Cap Fund,104.22,31-Aug-2026
@@ -2285,8 +2285,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 119647,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life MNC Fund,INF209K01Q06,INF209K01VU1,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic,443.04,31-Aug-2026
 119648,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty 50 Index Fund,INF209K01VY3,,Open Ended Schemes,Other Scheme - Index Funds,251.5983,31-Aug-2026
 119649,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Nifty 50 Index Fund,INF209K01VX5,,Open Ended Schemes,Other Scheme - Index Funds,25.4876,31-Aug-2026
-119655,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Income Fund,INF209K01R13,INF209K01WZ8,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund,14.0881,31-Aug-2026
-119657,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Income Fund,INF209K01WY1,,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund,140.5203,31-Aug-2026
+119655,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Medium to Long Term Fund,INF209K01R13,INF209K01WZ8,Open Ended Schemes,Income/Debt Oriented Schemes - Medium to Long Term Fund,14.0881,31-Aug-2026
+119657,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Medium to Long Term Fund,INF209K01WY1,,Open Ended Schemes,Income/Debt Oriented Schemes - Medium to Long Term Fund,140.5203,31-Aug-2026
 119658,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Value Fund,INF209K01WP9,INF209K01WR5,Open Ended Schemes,Equity Scheme - Value Fund,78.4232,31-Aug-2026
 119659,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Value Fund,INF209K01WQ7,,Open Ended Schemes,Equity Scheme - Value Fund,158.1469,31-Aug-2026
 119670,SBI Mutual Fund,SBI DYNAMIC TERM FUND,INF200K01RB8,INF200K01RC6,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund,23.1298,31-Aug-2026
@@ -2661,7 +2661,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 120544,Invesco Mutual Fund,Invesco India Ultra Short Term Fund,INF205K01TK4,INF205K01TL2,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund,1043.4422,31-Aug-2026
 120545,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Gold Fund,INF209K01YT7,,Open Ended Schemes,Other Scheme - FoF Domestic,46.5325,31-Aug-2026
 120546,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Gold Fund,INF209K01YU5,,Open Ended Schemes,Other Scheme - FoF Domestic,46.5342,31-Aug-2026
-120550,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Regular Savings Fund,INF209K01R47,INF209K01XI2,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund,27.1411,31-Aug-2026
+120550,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Conservative Hybrid Fund,INF209K01R47,INF209K01XI2,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund,27.1411,31-Aug-2026
 120558,UTI Mutual Fund,UTI - Liquid Fund,,INF789F1AD38,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund,106.5304,31-Aug-2026
 120559,Invesco Mutual Fund,Invesco India Short Term Fund,,INF205K01UE5,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund,1019.1834,31-Aug-2026
 120560,Invesco Mutual Fund,Invesco India Short Term Fund,INF205K01UH8,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund,4191.643,31-Aug-2026
@@ -2791,7 +2791,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 120700,ICICI Prudential Mutual Fund,ICICI Prudential Aggressive Hybrid Active FOF,INF109K01X40,,Open Ended Schemes,Other Scheme - FoF Domestic,247.7512,31-Aug-2026
 120702,ICICI Prudential Mutual Fund,ICICI Prudential Diversified Debt Strategy Active FOF,INF109K01X73,,Open Ended Schemes,Other Scheme - FoF Domestic,49.8891,31-Aug-2026
 120703,ICICI Prudential Mutual Fund,ICICI Prudential Diversified Debt Strategy Active FOF,INF109K01X57,INF109K01X65,Open Ended Schemes,Other Scheme - FoF Domestic,43.9221,31-Aug-2026
-120705,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Regular Savings Fund,INF209K01XH4,,Open Ended Schemes,Hybrid Scheme - Conservative Hybrid Fund,79.5539,31-Aug-2026
+120705,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Conservative Hybrid Fund,INF209K01XH4,,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund,79.5539,31-Aug-2026
 120709,ICICI Prudential Mutual Fund,ICICI Prudential Credit Risk Fund,INF109K01V34,INF109K01V42,Open Ended Schemes,Debt Scheme - Credit Risk Fund,12.1311,31-Aug-2026
 120710,ICICI Prudential Mutual Fund,ICICI Prudential Credit Risk Fund,INF109K01V18,INF109K01V26,Open Ended Schemes,Debt Scheme - Credit Risk Fund,10.9750,16-Sep-2022
 120711,ICICI Prudential Mutual Fund,ICICI Prudential Credit Risk Fund,INF109K01V00,,Open Ended Schemes,Debt Scheme - Credit Risk Fund,38.6285,31-Aug-2026
@@ -3048,12 +3048,12 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 122640,PPFAS Mutual Fund,Parag Parikh Flexi Cap Fund,INF879O01019,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund,82.7201,31-Aug-2026
 122641,UTI Mutual Fund,UTI - FIIF Half Yearly Plan I,INF789F01VR8,INF789F01VS6,Close Ended Schemes,Income,10.0606,11-May-2022
 122642,UTI Mutual Fund,UTI - FIIF Half Yearly Plan I,INF789F01VT4,,Close Ended Schemes,Income,26.6295,11-May-2022
-122643,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Floating Rate Fund,,INF209KA1LN1,Open Ended Schemes,Debt Scheme - Floater Fund,100.0997,31-Aug-2026
-122644,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Floating Rate Fund,INF209K01MG9,,Open Ended Schemes,Debt Scheme - Floater Fund,373.1381,31-Aug-2026
-122645,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Floating Rate Fund,INF209K01UW9,,Open Ended Schemes,Debt Scheme - Floater Fund,100.0930,31-Aug-2026
-122646,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Floating Rate Fund,INF209K01UX7,,Open Ended Schemes,Debt Scheme - Floater Fund,384.3677,31-Aug-2026
-122647,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Floating Rate Fund,,INF209K01MH7,Open Ended Schemes,Debt Scheme - Floater Fund,100.8212,31-Aug-2026
-122648,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Floating Rate Fund,INF209K01UY5,,Open Ended Schemes,Debt Scheme - Floater Fund,100.9054,31-Aug-2026
+122643,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Floating Interest Rate Fund,,INF209KA1LN1,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund,100.0997,31-Aug-2026
+122644,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Floating Interest Rate Fund,INF209K01MG9,,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund,373.1381,31-Aug-2026
+122645,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Floating Interest Rate Fund,INF209K01UW9,,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund,100.0930,31-Aug-2026
+122646,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Floating Interest Rate Fund,INF209K01UX7,,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund,384.3677,31-Aug-2026
+122647,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Floating Interest Rate Fund,,INF209K01MH7,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund,100.8212,31-Aug-2026
+122648,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Floating Interest Rate Fund,INF209K01UY5,,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund,100.9054,31-Aug-2026
 122651,ICICI Prudential Mutual Fund,ICICI Prudential Ultra Short to Short Term Fund,INF109K018Y9,INF109K017Y1,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund,102.1123,31-Aug-2026
 122652,Nippon India Mutual Fund,Reliance Yearly Interval Fund - Series 8,INF204K01V04,,Open Ended Schemes,Income,13.7436,28-Jun-2017
 122653,Nippon India Mutual Fund,Reliance Yearly Interval Fund - Series 8,INF204K01V38,,Open Ended Schemes,Income,13.7847,28-Jun-2017
@@ -4583,14 +4583,14 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 131896,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Income Plus Arbitrage Active FOF,INF084M01AH5,,Open Ended Schemes,Other Scheme - FoF Domestic,39.7547,31-Aug-2026
 131897,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Income Plus Arbitrage Active FOF,INF084M01DQ0,INF084M01DR8,Open Ended Schemes,Other Scheme - FoF Domestic,26.3951,31-Aug-2026
 131898,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Income Plus Arbitrage Active FOF,INF084M01DP2,,Open Ended Schemes,Other Scheme - FoF Domestic,42.1537,31-Aug-2026
-132003,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Global Excellence Equity Fund Of Fund,INF084M01BA8,INF084M01BB6,Open Ended Schemes,Other Scheme - FoF Overseas,44.1587,28-Aug-2026
-132005,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Global Excellence Equity Fund Of Fund,INF084M01AZ7,,Open Ended Schemes,Other Scheme - FoF Overseas,44.1313,28-Aug-2026
-132009,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Global Excellence Equity Fund Of Fund,INF084M01EH7,,Open Ended Schemes,Other Scheme - FoF Overseas,47.2499,28-Aug-2026
-132010,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Global Excellence Equity Fund Of Fund,INF084M01EI5,INF084M01EJ3,Open Ended Schemes,Other Scheme - FoF Overseas,47.2740,28-Aug-2026
-132138,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Global Emerging Opportunities Fund,INF084M01AT0,,Open Ended Schemes,Other Scheme - FoF Overseas,33.2200,28-Aug-2026
-132139,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Global Emerging Opportunities Fund,INF084M01AU8,INF084M01AV6,Open Ended Schemes,Other Scheme - FoF Overseas,33.2259,28-Aug-2026
-132140,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Global Emerging Opportunities Fund,INF084M01EB0,,Open Ended Schemes,Other Scheme - FoF Overseas,34.9836,28-Aug-2026
-132141,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Global Emerging Opportunities Fund,INF084M01EC8,INF084M01ED6,Open Ended Schemes,Other Scheme - FoF Overseas,30.9412,28-Aug-2026
+132003,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Global Excellence Equity Fund Of Fund,INF084M01BA8,INF084M01BB6,Open Ended Schemes,Other Scheme - FoF Overseas,43.7776,31-Aug-2026
+132005,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Global Excellence Equity Fund Of Fund,INF084M01AZ7,,Open Ended Schemes,Other Scheme - FoF Overseas,43.7505,31-Aug-2026
+132009,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Global Excellence Equity Fund Of Fund,INF084M01EH7,,Open Ended Schemes,Other Scheme - FoF Overseas,46.8444,31-Aug-2026
+132010,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Global Excellence Equity Fund Of Fund,INF084M01EI5,INF084M01EJ3,Open Ended Schemes,Other Scheme - FoF Overseas,46.8683,31-Aug-2026
+132138,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Global Emerging Opportunities Fund,INF084M01AT0,,Open Ended Schemes,Other Scheme - FoF Overseas,32.9974,31-Aug-2026
+132139,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Global Emerging Opportunities Fund,INF084M01AU8,INF084M01AV6,Open Ended Schemes,Other Scheme - FoF Overseas,33.0034,31-Aug-2026
+132140,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Global Emerging Opportunities Fund,INF084M01EB0,,Open Ended Schemes,Other Scheme - FoF Overseas,34.7508,31-Aug-2026
+132141,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Global Emerging Opportunities Fund,INF084M01EC8,INF084M01ED6,Open Ended Schemes,Other Scheme - FoF Overseas,30.7353,31-Aug-2026
 132174,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Aggressive Hybrid Omni FOF,INF084M01077,,Open Ended Schemes,Other Scheme - FoF Domestic,44.3870,31-Aug-2026
 132175,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Aggressive Hybrid Omni FOF,INF084M01085,INF084M01093,Open Ended Schemes,Other Scheme - FoF Domestic,39.8120,31-Aug-2026
 132178,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Conservative Hybrid Active FOF,INF084M01044,,Open Ended Schemes,Other Scheme - FoF Domestic,35.7112,31-Aug-2026
@@ -4774,8 +4774,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 133432,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 76 - 1103 Days Plan F,INF109KA17Q1,,Close Ended Schemes,Income,12.7026,29-Jan-2018
 133433,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 76 - 1103 Days Plan F,INF109KA15Q5,,Close Ended Schemes,Income,12.6341,29-Jan-2018
 133434,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 76 - 1103 Days Plan F,INF109KA14Q8,,Close Ended Schemes,Income,12.6341,29-Jan-2018
-133445,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Income Fund,INF209KA1WJ6,INF209KA1WK4,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund,12.2504,31-Aug-2026
-133446,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Income Fund,INF209KA1WL2,INF209KA1WM0,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund,13.1221,31-Aug-2026
+133445,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Medium to Long Term Fund,INF209KA1WJ6,INF209KA1WK4,Open Ended Schemes,Income/Debt Oriented Schemes - Medium to Long Term Fund,12.2504,31-Aug-2026
+133446,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Medium to Long Term Fund,INF209KA1WL2,INF209KA1WM0,Open Ended Schemes,Income/Debt Oriented Schemes - Medium to Long Term Fund,13.1221,31-Aug-2026
 133456,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 76 - 1100 Days Plan G,INF109KA17R9,,Close Ended Schemes,Income,12.6131,31-Jan-2018
 133457,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 76 - 1100 Days Plan G,INF109KA16R1,,Close Ended Schemes,Income,12.6131,31-Jan-2018
 133458,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 76 - 1100 Days Plan G,INF109KA15S1,,Close Ended Schemes,Income,12.6807,31-Jan-2018
@@ -10955,10 +10955,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 150479,Franklin Templeton Mutual Fund,Franklin India Balanced Advantage Fund,INF090I01WR3,INF090I01WS1,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage,13.8509,31-Aug-2026
 150480,Franklin Templeton Mutual Fund,Franklin India Balanced Advantage Fund,INF090I01WN2,,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage,14.5553,31-Aug-2026
 150481,Franklin Templeton Mutual Fund,Franklin India Balanced Advantage Fund,INF090I01WQ5,,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage,15.5168,31-Aug-2026
-150482,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Long Duration Fund,INF209KB14J9,,Open Ended Schemes,Debt Scheme - Long Duration Fund,13.0757,31-Aug-2026
-150483,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Long Duration Fund,INF209KB15J6,INF209KB16J4,Open Ended Schemes,Debt Scheme - Long Duration Fund,10.6705,31-Aug-2026
-150484,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Long Duration Fund,INF209KB17J2,,Open Ended Schemes,Debt Scheme - Long Duration Fund,13.4130,31-Aug-2026
-150485,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Long Duration Fund,INF209KB18J0,INF209KB19J8,Open Ended Schemes,Debt Scheme - Long Duration Fund,10.9508,31-Aug-2026
+150482,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Long Term Fund,INF209KB14J9,,Open Ended Schemes,Income/Debt Oriented Schemes - Long Term Fund,13.0757,31-Aug-2026
+150483,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Long Term Fund,INF209KB15J6,INF209KB16J4,Open Ended Schemes,Income/Debt Oriented Schemes - Long Term Fund,10.6705,31-Aug-2026
+150484,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Long Term Fund,INF209KB17J2,,Open Ended Schemes,Income/Debt Oriented Schemes - Long Term Fund,13.4130,31-Aug-2026
+150485,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Long Term Fund,INF209KB18J0,INF209KB19J8,Open Ended Schemes,Income/Debt Oriented Schemes - Long Term Fund,10.9508,31-Aug-2026
 150487,Nippon India Mutual Fund,Nippon India Nifty Alpha Low Volatility 30 Index Fund,INF204KC1584,,Open Ended Schemes,Other Scheme - Index Funds,16.4113,31-Aug-2026
 150488,Nippon India Mutual Fund,Nippon India Nifty Alpha Low Volatility 30 Index Fund,INF204KC1592,,Open Ended Schemes,Other Scheme - Index Funds,16.4113,31-Aug-2026
 150490,Nippon India Mutual Fund,Nippon India Nifty Alpha Low Volatility 30 Index Fund,INF204KC1550,,Open Ended Schemes,Other Scheme - Index Funds,16.0433,31-Aug-2026
@@ -11970,7 +11970,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 151956,LIC Mutual Fund,LIC MF Short Term Fund,INF397L01430,INF397L01448,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund,12.7748,31-Aug-2026
 151959,LIC Mutual Fund,LIC MF Short Term Fund,INF397L01BH1,INF397L01BI9,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund,16.6283,31-Aug-2026
 151960,LIC Mutual Fund,LIC MF Short Term Fund,INF397L01BK5,INF397L01BL3,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund,16.6286,31-Aug-2026
-151961,LIC Mutual Fund,LIC MF Gold Exchange Traded Fund,INF767K01SM1,,Open Ended Schemes,Other Scheme - Gold ETF,139.0198,31-Aug-2026
+151961,LIC Mutual Fund,LIC MF Gold Exchange Traded Fund,INF767K01SM1,,Open Ended Schemes,Other Scheme - Gold ETF,136.9776,01-Sep-2026
 151973,LIC Mutual Fund,LIC MF Gold ETF Fund of Fund,INF397L01992,,Open Ended Schemes,Other Scheme - FoF Domestic,39.7102,31-Aug-2026
 151974,LIC Mutual Fund,LIC MF Gold ETF Fund of Fund,INF397L01BU4,,Open Ended Schemes,Other Scheme - FoF Domestic,42.0083,31-Aug-2026
 151986,LIC Mutual Fund,LIC MF Medium to Long Term Fund,INF397L01FU5,,Open Ended Schemes,Income/Debt Oriented Schemes - Medium to Long Term Fund,16.3198,31-Aug-2026
@@ -14208,8 +14208,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category,NAV,NAV d
 154497,Mirae Asset Mutual Fund,Mirae Asset Nifty200 Momentum 30 Plus 8-13 yr G-Sec 50:50 ETF,INF769K01RJ5,,Open Ended Schemes,Exchange Traded Funds,10.1406,31-Aug-2026
 154503,ICICI Prudential Mutual Fund,ICICI Prudential BSE Insurance ETF,INF109K1A567,,Open Ended Schemes,Exchange Traded Funds,15.3002,31-Aug-2026
 154504,HDFC Mutual Fund,HDFC Nifty Metal ETF,,,Open Ended Schemes,Exchange Traded Funds,131.8769,31-Aug-2026
-154505,HDFC Mutual Fund,HDFC Nifty Metal ETF FOF,,,Open Ended Schemes,Fund of Funds Scheme,10.0639,31-Aug-2026
-154506,HDFC Mutual Fund,HDFC Nifty Metal ETF FOF,,,Open Ended Schemes,Fund of Funds Scheme,10.0587,31-Aug-2026
+154505,HDFC Mutual Fund,HDFC Nifty Metal ETF FOF,INF179KC1KS6,,Open Ended Schemes,Fund of Funds Scheme,10.0639,31-Aug-2026
+154506,HDFC Mutual Fund,HDFC Nifty Metal ETF FOF,INF179KC1KR8,,Open Ended Schemes,Fund of Funds Scheme,10.0587,31-Aug-2026
 154507,Kotak Mahindra Mutual Fund,Kotak Money Market Fund,INF174KA1B28,INF174KA1B02,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund,1002.3199,31-Aug-2026
 154508,Kotak Mahindra Mutual Fund,Kotak Money Market Fund,INF174KA1B10,INF174KA1B36,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund,1001.565,20-Aug-2026
 154509,Kotak Mahindra Mutual Fund,Kotak Short Term Fund,INF174KA1B51,INF174KA1B77,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund,9.9966,31-Aug-2026
