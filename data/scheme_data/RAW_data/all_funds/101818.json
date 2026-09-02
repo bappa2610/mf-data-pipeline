@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Aditya Birla Sun Life Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Conservative Hybrid Fund",
+        "scheme_category": "Hybrid Schemes - Conservative Hybrid Fund",
         "scheme_code": 101818,
-        "scheme_name": "Aditya Birla Sun Life Regular Savings Fund - Regular Plan - GROWTH",
+        "scheme_name": "Aditya Birla Sun Life Conservative Hybrid Fund - Regular Plan - GROWTH",
         "isin_growth": "INF209K01751",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "01-09-2026",
+            "nav": "70.42080"
+        },
         {
             "date": "31-08-2026",
             "nav": "70.49660"

@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Aditya Birla Sun Life Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Hybrid Scheme - Conservative Hybrid Fund",
+        "scheme_category": "Hybrid Schemes - Conservative Hybrid Fund",
         "scheme_code": 101816,
-        "scheme_name": "Aditya Birla Sun Life Regular Savings Fund - Regular Plan - Monthly IDCW",
+        "scheme_name": "Aditya Birla Sun Life Conservative Hybrid Fund - Regular Plan - Monthly IDCW",
         "isin_growth": "INF209K01769",
         "isin_div_reinvestment": "INF209K01DF0"
     },
     "data": [
+        {
+            "date": "01-09-2026",
+            "nav": "16.43930"
+        },
         {
             "date": "31-08-2026",
             "nav": "16.45700"

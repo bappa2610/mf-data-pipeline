@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Aditya Birla Sun Life Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Low Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short to Short Term Fund",
         "scheme_code": 103192,
-        "scheme_name": "Aditya Birla Sun Life Low Duration Fund - Regular Plan - GROWTH",
+        "scheme_name": "Aditya Birla Sun Life Ultra short to short term Fund - Regular Plan - GROWTH",
         "isin_growth": "INF209K01LQ0",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "01-09-2026",
+            "nav": "699.57370"
+        },
         {
             "date": "31-08-2026",
             "nav": "699.40170"

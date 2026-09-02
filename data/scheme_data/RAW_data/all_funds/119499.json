@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Aditya Birla Sun Life Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Ultra Short Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short Term Fund",
         "scheme_code": 119499,
-        "scheme_name": "Aditya Birla Sun Life Savings Fund - Direct Plan - Weekly IDCW",
+        "scheme_name": "Aditya Birla Sun Life Ultra Short Term Fund - Direct Plan - Weekly IDCW",
         "isin_growth": "INF209K01US7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "01-09-2026",
+            "nav": "100.59950"
+        },
         {
             "date": "31-08-2026",
             "nav": "100.56740"

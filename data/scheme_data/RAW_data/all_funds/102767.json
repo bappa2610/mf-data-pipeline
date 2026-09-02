@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Aditya Birla Sun Life Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Dynamic Bond",
+        "scheme_category": "Income/Debt Oriented Schemes - Dynamic Term Fund",
         "scheme_code": 102767,
-        "scheme_name": "Aditya Birla Sun Life Dynamic Bond Fund - Regular Plan - Growth",
+        "scheme_name": "Aditya Birla Sun Life Dynamic Term Fund - Regular Plan - Growth",
         "isin_growth": "INF209K01793",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "01-09-2026",
+            "nav": "48.96080"
+        },
         {
             "date": "31-08-2026",
             "nav": "48.95650"

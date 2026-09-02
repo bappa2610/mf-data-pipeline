@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Aditya Birla Sun Life Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Money Market Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Money Market Fund",
         "scheme_code": 101976,
-        "scheme_name": "Aditya Birla Sun Life Money Manager Fund - Regular Plan - GROWTH",
+        "scheme_name": "Aditya Birla Sun Life Money Market Fund - Regular Plan - GROWTH",
         "isin_growth": "INF209K01RV7",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "01-09-2026",
+            "nav": "398.74150"
+        },
         {
             "date": "31-08-2026",
             "nav": "398.61000"
