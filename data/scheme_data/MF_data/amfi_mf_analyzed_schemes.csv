@@ -36455,21 +36455,21 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 154578,ICICI Prudential Asset Management Company Limited,ICICI Prudential Life Cycle Fund 2036 - Direct Plan - Growth,,Open Ended,Life Cycle Funds,Life Cycle Fund with Maturity of 10 Years,Direct,Growth,
 154579,ICICI Prudential Asset Management Company Limited,ICICI Prudential Life Cycle Fund 2041 - Growth,,Open Ended,Life Cycle Funds,Life Cycle Fund with Maturity of 15 Years,Other,Growth,
 154580,ICICI Prudential Asset Management Company Limited,ICICI Prudential Life Cycle Fund 2041 - Direct Plan - Growth,,Open Ended,Life Cycle Funds,Life Cycle Fund with Maturity of 15 Years,Direct,Growth,
-154581,ASK ASSET MANAGEMENT PRIVATE LIMITED,ASK Liquid Fund Regular Growth,INF2XUU01021,Open Ended,Income/Debt Orienteds,Liquid Fund,Regular,Growth,
-154583,ASK ASSET MANAGEMENT PRIVATE LIMITED,ASK Liquid Fund Direct Weekly IDCW,INF2XUU01070,Open Ended,Income/Debt Orienteds,Liquid Fund,Direct,IDCW,Weekly
-154586,ASK ASSET MANAGEMENT PRIVATE LIMITED,ASK Liquid Fund Regular Daily IDCW,INF2XUU01047,Open Ended,Income/Debt Orienteds,Liquid Fund,Regular,IDCW,Daily
-154587,ASK ASSET MANAGEMENT PRIVATE LIMITED,ASK Liquid Fund Regular Weekly IDCW,INF2XUU01054,Open Ended,Income/Debt Orienteds,Liquid Fund,Regular,IDCW,Weekly
-154589,ASK ASSET MANAGEMENT PRIVATE LIMITED,ASK Liquid Fund Direct Growth,INF2XUU01013,Open Ended,Income/Debt Orienteds,Liquid Fund,Direct,Growth,
-154590,ASK ASSET MANAGEMENT PRIVATE LIMITED,ASK Liquid Fund Regular Monthly IDCW,INF2XUU01096,Open Ended,Income/Debt Orienteds,Liquid Fund,Regular,IDCW,Monthly
-154591,ASK ASSET MANAGEMENT PRIVATE LIMITED,ASK Liquid Fund Direct Daily IDCW,INF2XUU01039,Open Ended,Income/Debt Orienteds,Liquid Fund,Direct,IDCW,Daily
-154592,ASK ASSET MANAGEMENT PRIVATE LIMITED,ASK Liquid Fund Direct Monthly IDCW,INF2XUU01112,Open Ended,Income/Debt Orienteds,Liquid Fund,Direct,IDCW,Monthly
+154581,ASK MUTUAL FUND,ASK Liquid Fund,INF2XUU01021,Open Ended,Income/Debt Orienteds,Liquid Fund,Other,Other,
+154583,ASK MUTUAL FUND,ASK Liquid Fund,INF2XUU01070,Open Ended,Income/Debt Orienteds,Liquid Fund,Other,Other,
+154586,ASK MUTUAL FUND,ASK Liquid Fund,,Open Ended,Income/Debt Orienteds,Liquid Fund,Other,Other,
+154587,ASK MUTUAL FUND,ASK Liquid Fund,INF2XUU01054,Open Ended,Income/Debt Orienteds,Liquid Fund,Other,Other,
+154589,ASK MUTUAL FUND,ASK Liquid Fund,INF2XUU01013,Open Ended,Income/Debt Orienteds,Liquid Fund,Other,Other,
+154590,ASK MUTUAL FUND,ASK Liquid Fund,INF2XUU01096,Open Ended,Income/Debt Orienteds,Liquid Fund,Other,Other,
+154591,ASK MUTUAL FUND,ASK Liquid Fund,,Open Ended,Income/Debt Orienteds,Liquid Fund,Other,Other,
+154592,ASK MUTUAL FUND,ASK Liquid Fund,INF2XUU01112,Open Ended,Income/Debt Orienteds,Liquid Fund,Other,Other,
 154593,DSP Mutual Fund,DSP NIFTY 10 YR BENCHMARK G-SEC ETF,INF740KA1ZI7,Open Ended,Exchange Traded Funds,Exchange Traded Funds,Other,Other,
-154594,Axis Asset Management Co. Ltd.,Axis Nifty Energy Index Fund - Direct Plan - Growth,INF846KA1580,Open Ended,Index Funds,Equity Funds,Direct,Growth,
-154597,Axis Asset Management Co. Ltd.,Axis Nifty Energy Index Fund - Regular Plan - Growth,INF846KA1572,Open Ended,Index Funds,Equity Funds,Regular,Growth,
-154598,Bandhan AMC Limited,Bandhan Contra Fund-Regular Plan-Growth,INF194KB1KU4,Open Ended,Equitys,Contra Fund,Regular,Growth,
-154599,Bandhan AMC Limited,Bandhan Contra Fund-Direct Plan-Annual IDCW,INF194KB1LC0,Open Ended,Equitys,Contra Fund,Direct,IDCW,Annual
-154600,Bandhan AMC Limited,Bandhan Contra Fund-Direct Plan-Growth,INF194KB1KX8,Open Ended,Equitys,Contra Fund,Direct,Growth,
-154601,Bandhan AMC Limited,Bandhan Contra Fund-Regular Plan-Annual IDCW,INF194KB1LA4,Open Ended,Equitys,Contra Fund,Regular,IDCW,Annual
+154594,Axis Mutual Fund,Axis Nifty Energy Index Fund,INF846KA1580,Open Ended,Index Funds,Equity Funds,Other,Other,
+154597,Axis Mutual Fund,Axis Nifty Energy Index Fund,INF846KA1572,Open Ended,Index Funds,Equity Funds,Other,Other,
+154598,Bandhan Mutual Fund,Bandhan Contra Fund,INF194KB1KU4,Open Ended,Equitys,Contra Fund,Other,Other,
+154599,Bandhan Mutual Fund,Bandhan Contra Fund,INF194KB1LC0,Open Ended,Equitys,Contra Fund,Other,Other,
+154600,Bandhan Mutual Fund,Bandhan Contra Fund,INF194KB1KX8,Open Ended,Equitys,Contra Fund,Other,Other,
+154601,Bandhan Mutual Fund,Bandhan Contra Fund,INF194KB1LA4,Open Ended,Equitys,Contra Fund,Other,Other,
 154602,UTI Mutual Fund,UTI Nifty 500 Exchange Traded Fund,INF789F1AG76,Open Ended,Exchange Traded Funds,Exchange Traded Funds,Other,Other,
 154603,UTI Mutual Fund,UTI Nifty 500 Index Fund,INF789F1AG84,Open Ended,Exchange Traded Funds,Exchange Traded Funds,Other,Other,
 154604,UTI Mutual Fund,UTI Nifty 500 Index Fund,INF789F1AG92,Open Ended,Exchange Traded Funds,Exchange Traded Funds,Other,Other,
@@ -36495,7 +36495,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 154624,Choice Mutual Fund,Choice Overnight Fund,,Open Ended,Income/Debt Orienteds,Overnight Fund,Other,Other,
 154625,quant Mutual Fund,quant Silver ETF,,Open Ended,Exchange Traded Funds,Exchange Traded Funds,Other,Other,
 154626,Mirae Asset Mutual Fund,Mirae Asset BSE LargeMid (60:40) Stable Dividend 50 ETF,INF769K01RK3,Open Ended,Exchange Traded Funds,Exchange Traded Funds,Other,IDCW,
-154627,Axis Asset Management Co. Ltd.,Axis Nifty Energy ETF,INF846KA1598,Open Ended,Exchange Traded Funds (ETFs),ETF,Other,Other,
+154627,Axis Mutual Fund,Axis Nifty Energy ETF,INF846KA1598,Open Ended,Exchange Traded Funds,Exchange Traded Funds,Other,Other,
 154628,UTI Asset Mgmt. Co. Ltd.,UTI Balanced Hybrid Fund-Direct Plan Growth Option,INF789F1AH18,Open Ended,Hybrids,Balanced Hybrid Fund,Direct,Growth,
 154629,UTI Asset Mgmt. Co. Ltd.,UTI Balanced Hybrid Fund-Direct Plan payout of IDCW Option,INF789F1AH34,Open Ended,Hybrids,Balanced Hybrid Fund,Direct,IDCW,
 154630,UTI Asset Mgmt. Co. Ltd.,UTI Balanced Hybrid Fund-Regular Plan Growth Option,INF789F1AH00,Open Ended,Hybrids,Balanced Hybrid Fund,Regular,Growth,
@@ -36504,7 +36504,7 @@ SchemeCode,AMC,SchemeName,ISIN,SchemeType,Category,SubCategory,PlanType,PlanOpti
 154633,Jio BlackRock Mutual Fund,JioBlackRock Nifty 50 Index Fund,INF22M001200,Open Ended,Index Funds,Equity Funds,Other,Other,
 154634,Jio BlackRock Mutual Fund,JioBlackRock Nifty Smallcap 250 Index Fund,INF22M001218,Open Ended,Index Funds,Equity Funds,Other,Other,
 154635,Jio BlackRock Mutual Fund,JioBlackRock Short Term Fund,INF22M001226,Open Ended,Income/Debt Orienteds,Short Term Fund,Other,Other,
-154636,Jio BlackRock Asset Management Private Limited,JioBlackRock Ultra Short to Short Term Fund - Regular Plan - Growth Option,INF22M001234,Open Ended,Income/Debt Orienteds,Ultra Short to Short Term Fund,Regular,Growth,
+154636,Jio BlackRock Mutual Fund,JioBlackRock Ultra Short to Short Term Fund,INF22M001234,Open Ended,Income/Debt Orienteds,Ultra Short to Short Term Fund,Other,Other,
 154637,Jio BlackRock Mutual Fund,JioBlackRock Sector Rotation Fund,INF22M001242,Open Ended,Equitys,Thematic Fund,Other,Other,
 154638,Jio BlackRock Mutual Fund,JioBlackRock Arbitrage Fund,INF22M001259,Open Ended,Hybrids,Arbitrage Fund,Other,Other,
 154639,Jio BlackRock Mutual Fund,JioBlackRock Money Market Fund,INF22M001309,Open Ended,Income/Debt Orienteds,Money Market Fund,Other,Other,
