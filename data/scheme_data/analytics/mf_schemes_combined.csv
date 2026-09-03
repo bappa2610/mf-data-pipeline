@@ -12871,10 +12871,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153034,Groww Mutual Fund,Groww Multicap Fund,INF666M01JD9,,Open Ended Schemes,Equity Schemes - Multi Cap Fund
 153035,Shriram Mutual Fund,Shriram Liquid Fund,INF680P01430,,Open Ended Schemes,Debt Scheme - Liquid Fund
 153036,Shriram Mutual Fund,Shriram Liquid Fund,INF680P01448,,Open Ended Schemes,Debt Scheme - Liquid Fund
-153037,PGIM India Mutual Fund,PGIM India Healthcare Fund,INF663L01Z60,INF663L01Z78,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-153038,PGIM India Mutual Fund,PGIM India Healthcare Fund,INF663L01Z86,INF663L01Z94,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-153039,PGIM India Mutual Fund,PGIM India Healthcare Fund,INF663L01Z45,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-153040,PGIM India Mutual Fund,PGIM India Healthcare Fund,INF663L01Z52,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
+153037,PGIM India Mutual Fund,PGIM India Healthcare Fund,INF663L01Z60,INF663L01Z78,Open Ended Schemes,Equity Schemes - Thematic Fund
+153038,PGIM India Mutual Fund,PGIM India Healthcare Fund,INF663L01Z86,INF663L01Z94,Open Ended Schemes,Equity Schemes - Thematic Fund
+153039,PGIM India Mutual Fund,PGIM India Healthcare Fund,INF663L01Z45,,Open Ended Schemes,Equity Schemes - Thematic Fund
+153040,PGIM India Mutual Fund,PGIM India Healthcare Fund,INF663L01Z52,,Open Ended Schemes,Equity Schemes - Thematic Fund
 153041,Franklin Templeton Mutual Fund,Franklin India Arbitrage Fund,INF090I01XU5,INF090I01XT7,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
 153042,Franklin Templeton Mutual Fund,Franklin India Arbitrage Fund,INF090I01XP5,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
 153043,Franklin Templeton Mutual Fund,Franklin India Arbitrage Fund,INF090I01XS9,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
@@ -13700,10 +13700,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 153921,Kotak Mahindra Mutual Fund,Kotak Gold Silver Passive FOF,INF174KA1XT4,,Open Ended Schemes,Other Scheme - FoF Domestic
 153922,Kotak Mahindra Mutual Fund,Kotak Gold Silver Passive FOF,INF174KA1XU2,,Open Ended Schemes,Other Scheme - FoF Domestic
 153923,Groww Mutual Fund,Groww Nifty Smallcap 250 ETF,INF666M01MO0,,Open Ended Schemes,Exchange Traded Funds
-153924,Axis Mutual Fund,Axis Income Plus Arbitrage Passive FOF,INF846KA1283,,Open Ended Schemes,Index Funds - Debt Funds
-153925,Axis Mutual Fund,Axis Income Plus Arbitrage Passive FOF,INF846KA1309,INF846KA1325,Open Ended Schemes,Index Funds - Debt Funds
-153926,Axis Mutual Fund,Axis Income Plus Arbitrage Passive FOF,INF846KA1291,INF846KA1317,Open Ended Schemes,Index Funds - Debt Funds
-153927,Axis Mutual Fund,Axis Income Plus Arbitrage Passive FOF,INF846KA1275,,Open Ended Schemes,Index Funds - Debt Funds
+153924,Axis Mutual Fund,Axis Income Plus Arbitrage Passive FOF,INF846KA1283,,Open Ended Schemes,Fund of Funds Scheme
+153925,Axis Mutual Fund,Axis Income Plus Arbitrage Passive FOF,INF846KA1309,INF846KA1325,Open Ended Schemes,Fund of Funds Scheme
+153926,Axis Mutual Fund,Axis Income Plus Arbitrage Passive FOF,INF846KA1291,INF846KA1317,Open Ended Schemes,Fund of Funds Scheme
+153927,Axis Mutual Fund,Axis Income Plus Arbitrage Passive FOF,INF846KA1275,,Open Ended Schemes,Fund of Funds Scheme
 153928,Motilal Oswal Mutual Fund,Motilal Oswal Nifty 100 ETF,INF247L01GG9,,Open Ended Schemes,Other Scheme - Other  ETFs
 153929,Bandhan Mutual Fund,Bandhan Silver ETF,INF194KB1KI9,,Open Ended Schemes,Other Scheme - Other  ETFs
 153930,Bandhan Mutual Fund,Bandhan Gold ETF,INF194KB1KJ7,,Open Ended Schemes,Other Scheme - Gold ETF
@@ -36601,3 +36601,5 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154731,Kotak Mahindra Asset Management Company Limited.,Kotak Multi Sector Omni FOF - Regular Plan - Growth,INF174KA1F73,,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154732,Kotak Mahindra Asset Management Company Limited.,Kotak Multi Sector Omni FOF - Direct Plan - IDCW - Payout & Reinvestment,INF174KA1F57,INF174KA1F65,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154733,Kotak Mahindra Asset Management Company Limited.,Kotak Multi Sector Omni FOF - Regular Plan - IDCW - Payout & Reinvestment,INF174KA1F81,INF174KA1F99,Open Ended,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154737,Lakshya Asset Management Private Limited,LAKSHYA OVERNIGHT FUND-Regular,,,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
+154736,Lakshya Asset Management Private Limited,LAKSHYA OVERNIGHT FUND-Direct,,,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
