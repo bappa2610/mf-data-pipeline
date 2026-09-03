@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Equity Scheme - Small Cap Fund",
         "scheme_code": 100794,
-        "scheme_name": "Sundaram Small Cap Fund - Regular Plan - GROWTH",
+        "scheme_name": "Sundaram Small Cap Fund - Regular Plan - IDCW (Income Distribution CUM Capital Withdrawal)",
         "isin_growth": "INF903J01454",
         "isin_div_reinvestment": "INF903J01462"
     },
     "data": [
+        {
+            "date": "02-09-2026",
+            "nav": "35.46350"
+        },
         {
             "date": "01-09-2026",
             "nav": "35.68770"
