@@ -358,8 +358,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 100791,Sundaram Mutual Fund,Sundaram Corporate Bond Fund -Institutional - Quarterly Dividend,,,102055;INF200K01743;-;SBI Magnum Income Plus Fund - Savings Plan,G
 100792,Sundaram Mutual Fund,Sundaram Corporate Bond Fund Institutional - Growth,,,102055;INF200K01743;-;SBI Magnum Income Plus Fund - Savings Plan,G
 100793,Sundaram Mutual Fund,Sundaram Banking and PSU Debt Fund (Formerly Known as Sundaram Banking and PSU Fund) - Regular Plan - IDCW (Income Distribution CUM Capital Withdrawal),INF903J01IO1,INF903J01IR4,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
-100794,Sundaram Mutual Fund,Sundaram Small Cap Fund - Regular Plan - GROWTH,INF903J01454,INF903J01462,Open Ended Schemes,Equity Scheme - Small Cap Fund
-100795,Sundaram Mutual Fund,Sundaram Small Cap Fund - Regular Plan - IDCW (Income Distribution CUM Capital Withdrawal),INF903J01470,,Open Ended Schemes,Equity Scheme - Small Cap Fund
+100794,Sundaram Mutual Fund,Sundaram Small Cap Fund - Regular Plan - IDCW (Income Distribution CUM Capital Withdrawal),INF903J01454,INF903J01462,Open Ended Schemes,Equity Scheme - Small Cap Fund
+100795,Sundaram Mutual Fund,Sundaram Small Cap Fund - Regular Plan - GROWTH,INF903J01470,,Open Ended Schemes,Equity Scheme - Small Cap Fund
 100796,Sahara Mutual Fund,Sahara Midcap Fund-Growth Plan,,,Open Ended Schemes,Growth
 100797,Sahara Mutual Fund,Sahara Midcap Fund-Dividend Plan,,,Open Ended Schemes,Growth
 100798,Sahara Mutual Fund,Sahara Midcap Fund-Auto Payout,,,Open Ended Schemes,Growth
@@ -37779,7 +37779,21 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154574,Kotak Mahindra Mutual Fund,Kotak Diversified Equity All Cap Omni FOF - Direct Plan - Growth,INF174KA1D26,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154575,Kotak Mahindra Mutual Fund,Kotak Diversified Equity All Cap Omni FOF - Direct Plan - IDCW,INF174KA1D34,INF174KA1D42,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
 154576,Kotak Mahindra Mutual Fund,Kotak Diversified Equity All Cap Omni FOF - Regular Plan - Growth,INF174KA1D59,,Open Ended Schemes,Fund of Funds Scheme (Domestic) - Fund of Funds Scheme (Domestic)
+154581,ASK MUTUAL FUND,ASK Liquid Fund - Regular Plan - Growth,INF2XUU01021,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+154583,ASK MUTUAL FUND,ASK Liquid Fund - Direct Plan - Weekly IDCW,INF2XUU01070,INF2XUU01088,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+154586,ASK MUTUAL FUND,ASK Liquid Fund - Regular Plan - Daily IDCW,,INF2XUU01047,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+154587,ASK MUTUAL FUND,ASK Liquid Fund - Regular Plan - Weekly IDCW,INF2XUU01054,INF2XUU01062,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+154589,ASK MUTUAL FUND,ASK Liquid Fund - Direct Plan - Growth,INF2XUU01013,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+154590,ASK MUTUAL FUND,ASK Liquid Fund - Regular Plan - Monthly IDCW,INF2XUU01096,INF2XUU01104,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+154591,ASK MUTUAL FUND,ASK Liquid Fund - Direct Plan - Daily IDCW,,INF2XUU01039,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+154592,ASK MUTUAL FUND,ASK Liquid Fund - Direct Plan - Monthly IDCW,INF2XUU01112,INF2XUU01120,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 154593,DSP Mutual Fund,DSP NIFTY 10 YR BENCHMARK G-SEC ETF,INF740KA1ZI7,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Debt ETF
+154594,Axis Mutual Fund,Axis Nifty Energy Index Fund - Direct Plan - Growth Option,INF846KA1580,,Open Ended Schemes,Index Funds - Equity Funds
+154597,Axis Mutual Fund,Axis Nifty Energy Index Fund - Regular Plan - Growth Option,INF846KA1572,,Open Ended Schemes,Index Funds - Equity Funds
+154598,Bandhan Mutual Fund,Bandhan Contra Fund - Regular Plan - Growth,INF194KB1KU4,,Open Ended Schemes,Equity Schemes - Contra Fund
+154599,Bandhan Mutual Fund,Bandhan Contra Fund - Direct Plan - Annual IDCW,INF194KB1LC0,INF194KB1LD8,Open Ended Schemes,Equity Schemes - Contra Fund
+154600,Bandhan Mutual Fund,Bandhan Contra Fund - Direct Plan - Growth,INF194KB1KX8,,Open Ended Schemes,Equity Schemes - Contra Fund
+154601,Bandhan Mutual Fund,Bandhan Contra Fund - Regular Plan - Annual IDCW,INF194KB1LA4,INF194KB1LB2,Open Ended Schemes,Equity Schemes - Contra Fund
 154602,UTI Mutual Fund,UTI Nifty 500 Exchange Traded Fund,INF789F1AG76,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Equity ETF
 154603,UTI Mutual Fund,UTI Nifty 500 Index Fund,INF789F1AG84,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Equity ETF
 154604,UTI Mutual Fund,UTI Nifty 500 Index Fund,INF789F1AG92,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Equity ETF
@@ -37797,10 +37811,12 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154624,Choice Mutual Fund,Choice Overnight Fund - Direct Plan - Unclaimed Less than 3 years Redemption,,,Open Ended Schemes,Income/Debt Oriented Schemes - Overnight Fund
 154625,quant Mutual Fund,quant Silver ETF - Direct Plan,,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Silver ETF
 154626,Mirae Asset Mutual Fund,Mirae Asset BSE LargeMid (60:40) Stable Dividend 50 ETF,INF769K01RK3,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Equity ETF
+154627,Axis Mutual Fund,Axis Nifty Energy ETF,INF846KA1598,,Open Ended Schemes,Exchange Traded Funds (ETFs) - Equity ETF
 154632,Jio BlackRock Mutual Fund,JioBlackRock Large Cap Fund - Regular Plan - Growth Option,INF22M001192,,Open Ended Schemes,Equity Schemes - Large Cap Fund
 154633,Jio BlackRock Mutual Fund,JioBlackRock Nifty 50 Index Fund - Regular Plan - Growth Option,INF22M001200,,Open Ended Schemes,Index Funds - Equity Funds
 154634,Jio BlackRock Mutual Fund,JioBlackRock Nifty Smallcap 250 Index Fund - Regular Plan - Growth Option,INF22M001218,,Open Ended Schemes,Index Funds - Equity Funds
 154635,Jio BlackRock Mutual Fund,JioBlackRock Short Term Fund - Regular Plan - Growth Option,INF22M001226,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+154636,Jio BlackRock Mutual Fund,JioBlackRock Ultra Short to Short Term Fund - Regular Plan - Growth Option,INF22M001234,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 154637,Jio BlackRock Mutual Fund,JioBlackRock Sector Rotation Fund - Regular Plan - Growth Option,INF22M001242,,Open Ended Schemes,Equity Schemes - Thematic Fund
 154638,Jio BlackRock Mutual Fund,JioBlackRock Arbitrage Fund - Regular Plan - Growth Option,INF22M001259,,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund
 154639,Jio BlackRock Mutual Fund,JioBlackRock Money Market Fund - Regular Plan - Growth Option,INF22M001309,,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
