@@ -105,7 +105,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 100471,Franklin Templeton Mutual Fund,Franklin India Large Cap Fund,INF090I01171,,Open Ended Schemes,Equity Scheme - Large Cap Fund
 100472,Franklin Templeton Mutual Fund,Franklin India Mid Cap Fund,INF090I01726,INF090I01734,Open Ended Schemes,Equity Scheme - Mid Cap Fund
 100473,Franklin Templeton Mutual Fund,Franklin India Mid Cap Fund,INF090I01809,,Open Ended Schemes,Equity Scheme - Mid Cap Fund
-100474,Tata Mutual Fund,Tata ELSS Fund,INF277K01I60,,Open Ended Schemes,Equity Scheme - ELSS
+100474,Tata Mutual Fund,Tata ELSS - Tax Saver Fund,INF277K01I60,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
 100475,Tata Mutual Fund,Tata Large Cap Fund,INF277K01931,,Open Ended Schemes,Equity Scheme - Large Cap Fund
 100476,Taurus Mutual Fund,Taurus Flexi Cap Fund,INF044D01989,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
 100477,Taurus Mutual Fund,Taurus Mid Cap Fund,INF044D01815,,Open Ended Schemes,Equity Scheme - Mid Cap Fund
@@ -249,10 +249,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 101001,SBI Mutual Fund,SBI GILT FUND,INF200K01982,,Open Ended Schemes,Debt Scheme - Gilt Fund
 101002,SBI Mutual Fund,SBI 10 YEAR CONSTANT MATURITY GILT FUND,INF200K01AN9,,Open Ended Schemes,Income/Debt Oriented Schemes - 10-year Constant Maturity Gilt Fund
 101003,SBI Mutual Fund,SBI 10 YEAR CONSTANT MATURITY GILT FUND,INF200K01AO7,INF200K01AP4,Open Ended Schemes,Income/Debt Oriented Schemes - 10-year Constant Maturity Gilt Fund
-101042,Tata Mutual Fund,Tata Gilt Securities Fund,INF277K01519,,Open Ended Schemes,Debt Scheme - Gilt Fund
+101042,Tata Mutual Fund,Tata Gilt Fund,INF277K01519,,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
 101044,Franklin Templeton Mutual Fund,Franklin India Floating Interest Rates Fund,INF090I01LN5,,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
 101048,Franklin Templeton Mutual Fund,Franklin India Floating Interest Rates Fund,INF090I01LM7,,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
-101049,Tata Mutual Fund,Tata Gilt Securities Fund,INF277K01DN1,INF277K01535,Open Ended Schemes,Debt Scheme - Gilt Fund
+101049,Tata Mutual Fund,Tata Gilt Fund,INF277K01DN1,INF277K01535,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
 101065,quant Mutual Fund,Quant Mid Cap Fund,INF966L01176,,Open Ended Schemes,Equity Scheme - Mid Cap Fund
 101066,quant Mutual Fund,Quant Mid Cap Fund,INF966L01150,INF966L01168,Open Ended Schemes,Equity Scheme - Mid Cap Fund
 101069,quant Mutual Fund,Quant Aggressive Hybrid Fund,INF966L01242,INF966L01259,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
@@ -331,8 +331,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 101530,SBI Mutual Fund,SBI LARGE & MIDCAP FUND,INF200K01289,INF200K01297,Open Ended Schemes,Equity Scheme - Large & Mid Cap Fund
 101538,Sundaram Mutual Fund,Sundaram Mid Cap Fund,INF903J01181,INF903J01199,Open Ended Schemes,Equity Scheme - Mid Cap Fund
 101539,Sundaram Mutual Fund,Sundaram Mid Cap Fund,INF903J01173,,Open Ended Schemes,Equity Scheme - Mid Cap Fund
-101547,Tata Mutual Fund,Tata Short Term Bond Fund,INF277K01EI9,INF277K01964,Open Ended Schemes,Debt Scheme - Short Duration Fund
-101548,Tata Mutual Fund,Tata Short Term Bond Fund,INF277K01972,,Open Ended Schemes,Debt Scheme - Short Duration Fund
+101547,Tata Mutual Fund,Tata Short Term Fund,INF277K01EI9,INF277K01964,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+101548,Tata Mutual Fund,Tata Short Term Fund,INF277K01972,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 101549,JM Financial Mutual Fund,JM Liquid Fund - Bonus Option,INF192K01890,,Open Ended Schemes,Debt Scheme - Liquid Fund
 101551,SBI Mutual Fund,SBI AGGRESSIVE HYBRID FUND,INF200K01115,INF200K01123,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
 101585,HDFC Mutual Fund,HDFC Equity Savings Fund,INF179K01AM7,,Open Ended Schemes,Hybrid Scheme - Equity Savings
@@ -434,7 +434,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 101923,Canara Robeco Mutual Fund,Canara Robeco Flexi Cap Fund,INF760K01027,INF760K01035,Open Ended Schemes,Equity Schemes - Flexi Cap Fund
 101932,SBI Mutual Fund,SBI GILT FUND,INF200K01AK5,,Open Ended Schemes,Debt Scheme - Gilt Fund
 101934,SBI Mutual Fund,SBI GILT FUND,INF200K01AH1,,Open Ended Schemes,Debt Scheme - Gilt Fund
-101945,Tata Mutual Fund,Tata Gilt Securities Fund,,,Open Ended Schemes,Debt Scheme - Gilt Fund
+101945,Tata Mutual Fund,Tata Gilt Fund,,,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
 101950,SBI Mutual Fund,SBI GILT FUND,INF200K01AC2,INF200K01AD0,Open Ended Schemes,Debt Scheme - Gilt Fund
 101951,SBI Mutual Fund,SBI GILT FUND,INF200K01AF5,INF200K01AG3,Open Ended Schemes,Debt Scheme - Gilt Fund
 101952,SBI Mutual Fund,SBI GILT FUND,INF200K01AI9,INF200K01AJ7,Open Ended Schemes,Debt Scheme - Gilt Fund
@@ -464,7 +464,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 102020,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Multi Cap Fund,INF955L01674,,Open Ended Schemes,Equity Scheme - Multi Cap Fund
 102021,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Multi Cap Fund,INF955L01658,INF955L01666,Open Ended Schemes,Equity Scheme - Multi Cap Fund
 102036,Tata Mutual Fund,Tata Large Cap Fund,INF277K01EG3,INF277K01923,Open Ended Schemes,Equity Scheme - Large Cap Fund
-102046,Tata Mutual Fund,Tata Gilt Securities Fund,,,Open Ended Schemes,Debt Scheme - Gilt Fund
+102046,Tata Mutual Fund,Tata Gilt Fund,,,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
 102053,SBI Mutual Fund,SBI MEDIUM TERM FUND,INF200K01719,,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund
 102054,SBI Mutual Fund,SBI MEDIUM TERM FUND,INF200K01727,INF200K01735,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund
 102060,ICICI Prudential Mutual Fund,ICICI Prudential Gilt Fund Investment Plan PF Option,INF109K01JS2,,Open Ended Schemes,Gilt
@@ -623,9 +623,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 103151,Franklin Templeton Mutual Fund,Franklin India Opportunities Fund,INF090I01841,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 103154,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Aggressive Hybrid Fund,INF209K01BS7,INF209K01EE1,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
 103155,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Aggressive Hybrid Fund,INF209K01BT5,,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
-103158,Tata Mutual Fund,Tata Treasury Advantage Fund,INF277K01MD3,INF277K01MB7,Open Ended Schemes,Debt Scheme - Low Duration Fund
-103159,Tata Mutual Fund,Tata Treasury Advantage Fund,INF277K01MA9,,Open Ended Schemes,Debt Scheme - Low Duration Fund
-103160,Tata Mutual Fund,Tata Treasury Advantage Fund,,INF277K01LZ8,Open Ended Schemes,Debt Scheme - Low Duration Fund
+103158,Tata Mutual Fund,Tata Ultra Short to Short Term Fund,INF277K01MD3,INF277K01MB7,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+103159,Tata Mutual Fund,Tata Ultra Short to Short Term Fund,INF277K01MA9,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+103160,Tata Mutual Fund,Tata Ultra Short to Short Term Fund,,INF277K01LZ8,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 103164,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life ELSS Tax Saver Fund,INF209K01090,INF209K01CB1,Open Ended Schemes,Equity Scheme - ELSS
 103165,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Flexi Cap Fund,INF209K01AQ3,INF209K01DT1,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
 103166,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Flexi Cap Fund,INF209K01AJ8,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
@@ -1475,7 +1475,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 115401,Union Mutual Fund,Union Liquid Fund,,INF582M01021,Open Ended Schemes,Debt Scheme - Liquid Fund
 115402,Union Mutual Fund,Union Liquid Fund,,INF582M01039,Open Ended Schemes,Debt Scheme - Liquid Fund
 115458,Invesco Mutual Fund,Invesco India Ultra Short to Short Term Fund,INF205K01IG5,INF205K01IF7,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
-115464,Tata Mutual Fund,Tata Treasury Advantage Fund,INF277K01MC5,INF277K01ME1,Open Ended Schemes,Debt Scheme - Low Duration Fund
+115464,Tata Mutual Fund,Tata Ultra Short to Short Term Fund,INF277K01MC5,INF277K01ME1,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 115483,UTI Mutual Fund,UTI Ultra Short to Short Term Fund,INF789F01OW3,INF789F01OX1,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 115489,Bandhan Mutual Fund,BANDHAN LIQUID Fund,INF194K01WC1,INF194K01WB3,Open Ended Schemes,Debt Scheme - Liquid Fund
 115505,ICICI Prudential Mutual Fund,ICICI Prudential Liquid Fund -,INF109K01VU3,INF109K01VT5,Open Ended Schemes,Debt Scheme - Liquid Fund
@@ -2138,7 +2138,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 119278,DSP Mutual Fund,DSP World Gold Mining Overseas Equity Omni FoF,INF740K01PA9,INF740K01PB7,Open Ended Schemes,Other Scheme - FoF Overseas
 119279,DSP Mutual Fund,DSP World Mining Overseas Equity Omni FoF,INF740K01PF8,,Open Ended Schemes,Other Scheme - FoF Overseas
 119280,DSP Mutual Fund,DSP World Mining Overseas Equity Omni FoF,INF740K01PG6,INF740K01PH4,Open Ended Schemes,Other Scheme - FoF Overseas
-119281,Tata Mutual Fund,Tata ELSS Fund,INF277K01I94,,Open Ended Schemes,Equity Scheme - ELSS
+119281,Tata Mutual Fund,Tata ELSS - Tax Saver Fund,INF277K01I94,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
 119287,Tata Mutual Fund,Tata BSE Sensex Index Fund,INF277K01PK1,,Open Ended Schemes,Other Scheme - Index Funds
 119288,Tata Mutual Fund,Tata Nifty 50 Index Fund,INF277K01PJ3,,Open Ended Schemes,Other Scheme - Index Funds
 119289,Franklin Templeton Mutual Fund,Franklin India Corporate Bond Fund,INF090I01KC0,,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
@@ -2399,17 +2399,17 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 119843,SBI Mutual Fund,SBI MULTI ASSET ALLOCATION FUND,INF200K01TZ3,,Open Ended Schemes,Hybrid Scheme - Multi Asset Allocation
 119861,Tata Mutual Fund,Tata Liquid Fund,INF277K01YE6,,Open Ended Schemes,Debt Scheme - Liquid Fund
 119862,Tata Mutual Fund,Tata Liquid Fund,,INF277K012D2,Open Ended Schemes,Debt Scheme - Liquid Fund
-119863,Tata Mutual Fund,Tata Treasury Advantage Fund,INF277K01OK4,,Open Ended Schemes,Debt Scheme - Low Duration Fund
-119864,Tata Mutual Fund,Tata Treasury Advantage Fund,,INF277K018B3,Open Ended Schemes,Debt Scheme - Low Duration Fund
-119865,Tata Mutual Fund,Tata Treasury Advantage Fund,INF277K019B1,INF277K010C8,Open Ended Schemes,Debt Scheme - Low Duration Fund
+119863,Tata Mutual Fund,Tata Ultra Short to Short Term Fund,INF277K01OK4,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+119864,Tata Mutual Fund,Tata Ultra Short to Short Term Fund,,INF277K018B3,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+119865,Tata Mutual Fund,Tata Ultra Short to Short Term Fund,INF277K019B1,INF277K010C8,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 119875,Tata Mutual Fund,Tata Income Fund,INF277K01PC8,INF277K01PD6,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund
 119876,Tata Mutual Fund,Tata Income Fund,INF277K01OY5,,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund
 119877,Tata Mutual Fund,Tata Income Fund,INF277K01PA2,INF277K01PB0,Open Ended Schemes,Debt Scheme - Medium to Long Duration Fund
-119949,Tata Mutual Fund,Tata Short Term Bond Fund,INF277K01QR4,,Open Ended Schemes,Debt Scheme - Short Duration Fund
-119950,Tata Mutual Fund,Tata Short Term Bond Fund,INF277K01QP8,INF277K01QQ6,Open Ended Schemes,Debt Scheme - Short Duration Fund
-119953,Tata Mutual Fund,Tata Gilt Securities Fund,INF277K01OX7,,Open Ended Schemes,Debt Scheme - Gilt Fund
-119954,Tata Mutual Fund,Tata Gilt Securities Fund,INF277K01OV1,INF277K01OW9,Open Ended Schemes,Debt Scheme - Gilt Fund
-119957,Tata Mutual Fund,Tata Treasury Advantage Fund,INF277K01OL2,INF277K01OM0,Open Ended Schemes,Debt Scheme - Low Duration Fund
+119949,Tata Mutual Fund,Tata Short Term Fund,INF277K01QR4,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+119950,Tata Mutual Fund,Tata Short Term Fund,INF277K01QP8,INF277K01QQ6,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+119953,Tata Mutual Fund,Tata Gilt Fund,INF277K01OX7,,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
+119954,Tata Mutual Fund,Tata Gilt Fund,INF277K01OV1,INF277K01OW9,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
+119957,Tata Mutual Fund,Tata Ultra Short to Short Term Fund,INF277K01OL2,INF277K01OM0,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 119958,Tata Mutual Fund,Tata Equity Savings Fund,INF277K01QI3,INF277K01QJ1,Open Ended Schemes,Hybrid Scheme - Equity Savings
 119959,Tata Mutual Fund,Tata Equity Savings Fund,INF277K01QK9,INF277K01QL7,Open Ended Schemes,Hybrid Scheme - Equity Savings
 119960,Tata Mutual Fund,Tata Equity Savings Fund,INF277K01QH5,,Open Ended Schemes,Hybrid Scheme - Equity Savings
@@ -4603,8 +4603,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 132186,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Dynamic Asset Allocation Omni FOF,INF084M01EW6,,Open Ended Schemes,Other Scheme - FoF Domestic
 132187,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Dynamic Asset Allocation Omni FOF,INF084M01EX4,INF084M01EY2,Open Ended Schemes,Other Scheme - FoF Domestic
 132189,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Aggressive Hybrid Omni FOF,INF084M01EU0,INF084M01EV8,Open Ended Schemes,Other Scheme - FoF Domestic
-132756,Tata Mutual Fund,Tata ELSS Fund,INF277K01I86,,Open Ended Schemes,Equity Scheme - ELSS
-132757,Tata Mutual Fund,Tata ELSS Fund,INF277K01I52,,Open Ended Schemes,Equity Scheme - ELSS
+132756,Tata Mutual Fund,Tata ELSS - Tax Saver Fund,INF277K01I86,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
+132757,Tata Mutual Fund,Tata ELSS - Tax Saver Fund,INF277K01I52,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
 132762,Nippon India Mutual Fund,Reliance Dual Advantage Fixed Tenure Fund VI- Plan F,INF204KA1WK9,,Close Ended Schemes,Income
 132763,Nippon India Mutual Fund,Reliance Dual Advantage Fixed Tenure Fund VI- Plan F,INF204KA1WM5,,Close Ended Schemes,Income
 132764,Nippon India Mutual Fund,Reliance Dual Advantage Fixed Tenure Fund VI- Plan F,INF204KA1WN3,,Close Ended Schemes,Income
@@ -4909,8 +4909,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 133971,UTI Mutual Fund,UTI Banking & PSU Debt Fund,INF789FA1U61,INF789FA1U79,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
 133972,UTI Mutual Fund,UTI Banking & PSU Debt Fund,INF789FA1V29,INF789FA1V37,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
 133973,UTI Mutual Fund,UTI - Liquid Fund,INF789F1AD12,INF789F1AD20,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
-133974,Tata Mutual Fund,Tata Short Term Bond Fund,INF277K01P38,INF277K01P46,Open Ended Schemes,Debt Scheme - Short Duration Fund
-133975,Tata Mutual Fund,Tata Short Term Bond Fund,INF277K01P12,INF277K01P20,Open Ended Schemes,Debt Scheme - Short Duration Fund
+133974,Tata Mutual Fund,Tata Short Term Fund,INF277K01P38,INF277K01P46,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+133975,Tata Mutual Fund,Tata Short Term Fund,INF277K01P12,INF277K01P20,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 133984,Nippon India Mutual Fund,Reliance Dual Advantage Fixed Tenure Fund VII- Plan D,INF204KA1G69,,Close Ended Schemes,Income
 133985,Nippon India Mutual Fund,Reliance Dual Advantage Fixed Tenure Fund VII- Plan D,INF204KA1G51,,Close Ended Schemes,Income
 133986,Nippon India Mutual Fund,Reliance Dual Advantage Fixed Tenure Fund VII- Plan D,INF204KA1G44,,Close Ended Schemes,Income
@@ -10111,14 +10111,14 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 148993,Axis Mutual Fund,Axis Quant Fund,INF846K01Z87,,Open Ended Schemes,Equity Schemes - Thematic Fund
 148994,Axis Mutual Fund,Axis Quant Fund,INF846K01Z95,INF846K010A4,Open Ended Schemes,Equity Schemes - Thematic Fund
 148995,Axis Mutual Fund,Axis Quant Fund,INF846K012A0,INF846K013A8,Open Ended Schemes,Equity Schemes - Thematic Fund
-149000,Tata Mutual Fund,Tata Floating Rate Fund,INF277KA1042,,Open Ended Schemes,Debt Scheme - Floater Fund
-149001,Tata Mutual Fund,Tata Floating Rate Fund,INF277KA1059,,Open Ended Schemes,Debt Scheme - Floater Fund
-149002,Tata Mutual Fund,Tata Floating Rate Fund,INF277KA1034,,Open Ended Schemes,Debt Scheme - Floater Fund
-149003,Tata Mutual Fund,Tata Floating Rate Fund,INF277KA1091,,Open Ended Schemes,Debt Scheme - Floater Fund
-149004,Tata Mutual Fund,Tata Floating Rate Fund,INF277KA1117,,Open Ended Schemes,Debt Scheme - Floater Fund
-149005,Tata Mutual Fund,Tata Floating Rate Fund,INF277KA1125,,Open Ended Schemes,Debt Scheme - Floater Fund
-149006,Tata Mutual Fund,Tata Floating Rate Fund,INF277KA1109,,Open Ended Schemes,Debt Scheme - Floater Fund
-149007,Tata Mutual Fund,Tata Floating Rate Fund,INF277KA1026,,Open Ended Schemes,Debt Scheme - Floater Fund
+149000,Tata Mutual Fund,Tata Floating Interest Rates Fund,INF277KA1042,,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
+149001,Tata Mutual Fund,Tata Floating Interest Rates Fund,INF277KA1059,,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
+149002,Tata Mutual Fund,Tata Floating Interest Rates Fund,INF277KA1034,,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
+149003,Tata Mutual Fund,Tata Floating Interest Rates Fund,INF277KA1091,,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
+149004,Tata Mutual Fund,Tata Floating Interest Rates Fund,INF277KA1117,,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
+149005,Tata Mutual Fund,Tata Floating Interest Rates Fund,INF277KA1125,,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
+149006,Tata Mutual Fund,Tata Floating Interest Rates Fund,INF277KA1109,,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
+149007,Tata Mutual Fund,Tata Floating Interest Rates Fund,INF277KA1026,,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
 149008,Nippon India Mutual Fund,Nippon India Nifty Pharma ETF,INF204KC1089,,Open Ended Schemes,Other Scheme - Other  ETFs
 149009,Invesco Mutual Fund,Invesco India Medium Term Fund,INF205KA1353,INF205KA1387,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund
 149010,Invesco Mutual Fund,Invesco India Medium Term Fund,INF205KA1361,INF205KA1395,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund
@@ -10144,12 +10144,12 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 149030,ITI Mutual Fund,ITI Dynamic Term Fund,INF00XX01BK7,INF00XX01BG5,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
 149031,PGIM India Mutual Fund,PGIM India Small Cap Fund,INF663L01W14,INF663L01W22,Open Ended Schemes,Equity Scheme - Small Cap Fund
 149032,PGIM India Mutual Fund,PGIM India Small Cap Fund,INF663L01W48,INF663L01W55,Open Ended Schemes,Equity Scheme - Small Cap Fund
-149033,Tata Mutual Fund,Tata Floating Rate Fund,,INF277KA1067,Open Ended Schemes,Debt Scheme - Floater Fund
-149034,Tata Mutual Fund,Tata Floating Rate Fund,,INF277KA1083,Open Ended Schemes,Debt Scheme - Floater Fund
-149035,Tata Mutual Fund,Tata Floating Rate Fund,,INF277KA1141,Open Ended Schemes,Debt Scheme - Floater Fund
-149036,Tata Mutual Fund,Tata Floating Rate Fund,,INF277KA1133,Open Ended Schemes,Debt Scheme - Floater Fund
-149037,Tata Mutual Fund,Tata Floating Rate Fund,,INF277KA1075,Open Ended Schemes,Debt Scheme - Floater Fund
-149038,Tata Mutual Fund,Tata Floating Rate Fund,,INF277KA1158,Open Ended Schemes,Debt Scheme - Floater Fund
+149033,Tata Mutual Fund,Tata Floating Interest Rates Fund,,INF277KA1067,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
+149034,Tata Mutual Fund,Tata Floating Interest Rates Fund,,INF277KA1083,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
+149035,Tata Mutual Fund,Tata Floating Interest Rates Fund,,INF277KA1141,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
+149036,Tata Mutual Fund,Tata Floating Interest Rates Fund,,INF277KA1133,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
+149037,Tata Mutual Fund,Tata Floating Interest Rates Fund,,INF277KA1075,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
+149038,Tata Mutual Fund,Tata Floating Interest Rates Fund,,INF277KA1158,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
 149039,Navi Mutual Fund,Navi Nifty 50 Index Fund,INF959L01FP2,,Open Ended Schemes,Other Scheme - Index Funds
 149040,Navi Mutual Fund,Navi Nifty 50 Index Fund,INF959L01FQ0,,Open Ended Schemes,Other Scheme - Index Funds
 149041,SBI Mutual Fund,SBI Nifty Consumption ETF,INF200KA1X17,,Open Ended Schemes,Other Scheme - Other  ETFs
@@ -14285,6 +14285,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154612,Kotak Mahindra Mutual Fund,Kotak Money Market Fund,INF174KA1F24,INF174KA1F08,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
 154613,Bajaj Finserv Mutual Fund,Bajaj Finserv Money Market Fund,INF0QA701CJ8,,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
 154614,Bajaj Finserv Mutual Fund,Bajaj Finserv Money Market Fund,INF0QA701CK6,,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
+154615,SBI Mutual Fund,SBI Balanced Hybrid Fund,,,Open Ended Schemes,Hybrid Schemes - Balanced Hybrid Fund
+154616,SBI Mutual Fund,SBI Balanced Hybrid Fund,,,Open Ended Schemes,Hybrid Schemes - Balanced Hybrid Fund
+154617,SBI Mutual Fund,SBI Balanced Hybrid Fund,,,Open Ended Schemes,Hybrid Schemes - Balanced Hybrid Fund
+154618,SBI Mutual Fund,SBI Balanced Hybrid Fund,,,Open Ended Schemes,Hybrid Schemes - Balanced Hybrid Fund
 154619,Zerodha Mutual Fund,Zerodha Arbitrage Fund,INF0R8F01232,,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund
 154620,Edelweiss Mutual Fund,Edelweiss Ultra Short Term Fund,INF754K01XW8,INF754K01XX6,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
 154621,Edelweiss Mutual Fund,Edelweiss Ultra Short Term Fund,INF754K01XR8,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
@@ -36538,10 +36542,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154578,ICICI Prudential Asset Management Company Limited,ICICI Prudential Life Cycle Fund 2036 - Direct Plan - Growth,,,Open Ended,Life Cycle Funds - Life Cycle Fund with Maturity of 10 Years
 154579,ICICI Prudential Asset Management Company Limited,ICICI Prudential Life Cycle Fund 2041 - Growth,,,Open Ended,Life Cycle Funds - Life Cycle Fund with Maturity of 15 Years
 154580,ICICI Prudential Asset Management Company Limited,ICICI Prudential Life Cycle Fund 2041 - Direct Plan - Growth,,,Open Ended,Life Cycle Funds - Life Cycle Fund with Maturity of 15 Years
-154615,SBI Funds Management Limited,SBI Balanced Hybrid Fund - Regular Plan - Growth,,,Open Ended,Hybrid Schemes - Balanced Hybrid Fund
-154616,SBI Funds Management Limited,SBI Balance Hybrid Fund - Regular Plan - IDCW,,,Open Ended,Hybrid Schemes - Balanced Hybrid Fund
-154617,SBI Funds Management Limited,SBI Balance Hybrid Fund - Direct Plan - IDCW,,,Open Ended,Hybrid Schemes - Balanced Hybrid Fund
-154618,SBI Funds Management Limited,SBI Balance Hybrid Fund - Direct Plan - Growth,,,Open Ended,Hybrid Schemes - Balanced Hybrid Fund
 154628,UTI Asset Mgmt. Co. Ltd.,UTI Balanced Hybrid Fund-Direct Plan Growth Option,INF789F1AH18,,Open Ended,Hybrid Schemes - Balanced Hybrid Fund
 154629,UTI Asset Mgmt. Co. Ltd.,UTI Balanced Hybrid Fund-Direct Plan  payout of IDCW Option,INF789F1AH34,,Open Ended,Hybrid Schemes - Balanced Hybrid Fund
 154630,UTI Asset Mgmt. Co. Ltd.,UTI Balanced Hybrid Fund-Regular Plan Growth Option,INF789F1AH00,,Open Ended,Hybrid Schemes - Balanced Hybrid Fund
