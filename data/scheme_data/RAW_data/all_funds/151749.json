@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "HDFC Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - Sectoral/ Thematic",
+        "scheme_category": "Equity Schemes - Thematic Fund",
         "scheme_code": 151749,
         "scheme_name": "HDFC Defence Fund - Direct Plan - IDCW Option",
         "isin_growth": "INF179KC1GJ3",
         "isin_div_reinvestment": "INF179KC1GK1"
     },
     "data": [
+        {
+            "date": "03-09-2026",
+            "nav": "31.44900"
+        },
         {
             "date": "02-09-2026",
             "nav": "31.27300"
