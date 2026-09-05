@@ -204,7 +204,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 100471,Franklin Templeton Mutual Fund,Franklin India Large Cap Fund - Regular Plan - Growth,INF090I01171,,Open Ended Schemes,Equity Scheme - Large Cap Fund
 100472,Franklin Templeton Mutual Fund,Franklin India Mid Cap Fund - Regular Plan - IDCW,INF090I01726,INF090I01734,Open Ended Schemes,Equity Scheme - Mid Cap Fund
 100473,Franklin Templeton Mutual Fund,Franklin India Mid Cap Fund - Regular Plan - Growth,INF090I01809,,Open Ended Schemes,Equity Scheme - Mid Cap Fund
-100474,Tata Mutual Fund,Tata ELSS Fund - Regular Plan - Payout of IDCW Option,INF277K01I60,,Open Ended Schemes,Equity Scheme - ELSS
+100474,Tata Mutual Fund,Tata ELSS - Tax Saver Fund - Regular Plan - Payout of IDCW Option,INF277K01I60,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
 100475,Tata Mutual Fund,Tata Large Cap Fund - Regular Plan - Growth Option,INF277K01931,,Open Ended Schemes,Equity Scheme - Large Cap Fund
 100476,Taurus Mutual Fund,Taurus Flexi Cap Fund - Regular Plan - Growth,INF044D01989,,Open Ended Schemes,Equity Scheme - Flexi Cap Fund
 100477,Taurus Mutual Fund,Taurus Mid Cap Fund - Regular Plan - Growth,INF044D01815,,Open Ended Schemes,Equity Scheme - Mid Cap Fund
@@ -339,7 +339,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 100739,UTI Mutual Fund,UTI - MNC Fund - Regular Plan - IDCW,INF789F01828,INF789F01836,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 100740,UTI Mutual Fund,UTI - MNC Fund - Regular Plan - Growth,INF789F01844,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 100741,UTI Mutual Fund,UTI Medium to Long Term Fund - Regular Plan - Growth,INF789F01406,,Open Ended Schemes,Income/Debt Oriented Schemes - Medium to Long Term Fund
-100742,UTI Mutual Fund,UTI Medium to Long Term Fund - Regular Plan - Quarterly IDCW,INF789F01380,INF789F01398,Open Ended Schemes,Income/Debt Oriented Schemes - Medium to Long Term Fund
+100742,UTI Mutual Fund,UTI Medium to Long Term Fund - Regular Plan - Discontinued Quarterly IDCW,INF789F01380,INF789F01398,Open Ended Schemes,Income/Debt Oriented Schemes - Medium to Long Term Fund
 100748,UTI Mutual Fund,UTI - Master Index Fund-Income Option,,,Open Ended Schemes,Income
 100749,UTI Mutual Fund,UTI - Master Index Fund-Growth Option,,,Open Ended Schemes,Income
 100750,UTI Mutual Fund,UTI - Master Value Fund-Income Option,,,Open Ended Schemes,Income
@@ -480,10 +480,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 101002,SBI Mutual Fund,SBI 10 YEAR CONSTANT MATURITY GILT FUND - Regular Plan - Growth,INF200K01AN9,,Open Ended Schemes,Income/Debt Oriented Schemes - 10-year Constant Maturity Gilt Fund
 101003,SBI Mutual Fund,SBI 10 YEAR CONSTANT MATURITY GILT FUND - Regular Plan - IDCW,INF200K01AO7,INF200K01AP4,Open Ended Schemes,Income/Debt Oriented Schemes - 10-year Constant Maturity Gilt Fund
 101037,Franklin Templeton Mutual Fund,Franklin India Index Tax Fund,,,Open Ended Schemes,Income
-101042,Tata Mutual Fund,Tata Gilt Securities Fund - Regular Plan - Growth Option,INF277K01519,,Open Ended Schemes,Debt Scheme - Gilt Fund
+101042,Tata Mutual Fund,Tata Gilt Fund - Regular Plan - Growth Option,INF277K01519,,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
 101044,Franklin Templeton Mutual Fund,Franklin India Floating Interest Rates Fund - Regular Plan - Daily IDCW,INF090I01LN5,,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
 101048,Franklin Templeton Mutual Fund,Franklin India Floating Interest Rates Fund - Regular Plan - Growth,INF090I01LM7,,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
-101049,Tata Mutual Fund,Tata Gilt Securities Fund - Regular Plan - Payout of IDCW Option,INF277K01DN1,INF277K01535,Open Ended Schemes,Debt Scheme - Gilt Fund
+101049,Tata Mutual Fund,Tata Gilt Fund - Regular Plan - Payout of IDCW Option,INF277K01DN1,INF277K01535,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
 101059,Sundaram Mutual Fund,SUNDARAM GILT FUND (DIV. OPTION),,,Open Ended Schemes,Income
 101065,quant Mutual Fund,Quant Mid Cap Fund - Regular Plan - Growth Option,INF966L01176,,Open Ended Schemes,Equity Scheme - Mid Cap Fund
 101066,quant Mutual Fund,Quant Mid Cap Fund - Regular Plan - IDCW Option,INF966L01150,INF966L01168,Open Ended Schemes,Equity Scheme - Mid Cap Fund
@@ -672,8 +672,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 101539,Sundaram Mutual Fund,Sundaram Mid Cap Fund - Regular Plan - GROWTH,INF903J01173,,Open Ended Schemes,Equity Scheme - Mid Cap Fund
 101544,Sundaram Mutual Fund,Sundaram Short Term Credit Risk Fund -Dividend,,,Open Ended Schemes,Debt Scheme - Credit Risk Fund
 101545,Sundaram Mutual Fund,Sundaram Short Term Credit Risk Fund-Appreciation,,,Open Ended Schemes,Debt Scheme - Credit Risk Fund
-101547,Tata Mutual Fund,Tata Short Term Bond Fund - Regular Plan - Monthly Payout of IDCW Option,INF277K01EI9,INF277K01964,Open Ended Schemes,Debt Scheme - Short Duration Fund
-101548,Tata Mutual Fund,Tata Short Term Bond Fund - Regular Plan - Growth Option,INF277K01972,,Open Ended Schemes,Debt Scheme - Short Duration Fund
+101547,Tata Mutual Fund,Tata Short Term Fund - Regular Plan - Monthly Payout of IDCW Option,INF277K01EI9,INF277K01964,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+101548,Tata Mutual Fund,Tata Short Term Fund - Regular Plan - Growth Option,INF277K01972,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 101549,JM Financial Mutual Fund,JM Liquid Fund - Bonus Option - Regular Plan - Bonus Option - Principal Units,INF192K01890,,Open Ended Schemes,Debt Scheme - Liquid Fund
 101550,ING Mutual Fund,ING Short Term Income Fund -Dividend Option,,,Open Ended Schemes,Income
 101551,SBI Mutual Fund,SBI AGGRESSIVE HYBRID FUND - Regular Plan - IDCW,INF200K01115,INF200K01123,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
@@ -1587,9 +1587,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 103155,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Aggressive Hybrid Fund - Regular Plan - GROWTH,INF209K01BT5,,Open Ended Schemes,Hybrid Schemes - Aggressive Hybrid Fund
 103156,JM Financial Mutual Fund,JM Fixed Maturity Fund-YSA2-Dividend Option,,,Open Ended Schemes,Income
 103157,JM Financial Mutual Fund,JM Fixed Maturity Fund-YSA2-Growth Option,,,Open Ended Schemes,Income
-103158,Tata Mutual Fund,Tata Treasury Advantage Fund - Regular Plan - Weekly Payout of IDCW Option,INF277K01MD3,INF277K01MB7,Open Ended Schemes,Debt Scheme - Low Duration Fund
-103159,Tata Mutual Fund,Tata Treasury Advantage Fund - Regular Plan - Growth Option,INF277K01MA9,,Open Ended Schemes,Debt Scheme - Low Duration Fund
-103160,Tata Mutual Fund,Tata Treasury Advantage Fund - Regular Plan - Daily Reinvestment of IDCW Option,,INF277K01LZ8,Open Ended Schemes,Debt Scheme - Low Duration Fund
+103158,Tata Mutual Fund,Tata Ultra Short to Short Term Fund - Regular Plan - Weekly Payout of IDCW Option,INF277K01MD3,INF277K01MB7,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+103159,Tata Mutual Fund,Tata Ultra Short to Short Term Fund - Regular Plan - Growth Option,INF277K01MA9,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+103160,Tata Mutual Fund,Tata Ultra Short to Short Term Fund - Regular Plan - Daily Reinvestment of IDCW Option,,INF277K01LZ8,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 103161,ING Mutual Fund,ING Dividend Yield Fund-Growth Option,,,Open Ended Schemes,Income
 103162,ING Mutual Fund,ING Dividend Yield Fund-Dividend Option,,,Open Ended Schemes,Income
 103163,ING Mutual Fund,ING Dividend Yield Fund-Bonus Option,,,Open Ended Schemes,Income
@@ -4725,7 +4725,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 106977,ICICI Prudential Mutual Fund,ICICI Prudential Interval Fund II - Quarterly Interval Plan C - Retail Dividend,,,Open Ended Schemes,Income
 106978,Franklin Templeton Mutual Fund,Franklin Asian Equity Fund - Regular Plan - IDCW,INF090I01999,INF090I01AA5,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 106979,Franklin Templeton Mutual Fund,Franklin Asian Equity Fund - Regular Plan - Growth,INF090I01AB3,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
-106980,UTI Mutual Fund,UTI Short Term Fund - Regular Plan - Quarterly IDCW,INF789FC1GD5,INF789FA1R58,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+106980,UTI Mutual Fund,UTI Short Term Fund - Regular Plan - Discontinued Quarterly IDCW,INF789FC1GD5,INF789FA1R58,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 106981,Kotak Mahindra Mutual Fund,Kotak FMP 3M Series 26 - Dividend,,,Close Ended Schemes,Income
 106982,Kotak Mahindra Mutual Fund,Kotak FMP 3M Series 26 - Growth,,,Close Ended Schemes,Income
 106983,Aditya Birla Sun Life Mutual Fund,Birla Sun Life Fixed Term Plan - Series AD- INSTITUTIONAL GROWTH,,,Close Ended Schemes,Income
@@ -9441,7 +9441,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 113075,Reliance Mutual Fund,Reliance Fixed Horizon Fund - XV - Series 6 - Dividend Payout Option,,,Close Ended Schemes,Income
 113076,ICICI Prudential Mutual Fund,ICICI Prudential Gold ETF,INF109KC1NT3,,Open Ended Schemes,Other Scheme - Gold ETF
 113077,UTI Mutual Fund,UTI Dynamic Term Fund - Regular Plan - Growth,INF789F01JQ5,,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
-113078,UTI Mutual Fund,UTI Dynamic Term Fund - Regular Plan - Quarterly IDCW,INF789F01JO0,INF789F01JP7,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
+113078,UTI Mutual Fund,UTI Dynamic Term Fund - Regular Plan - Discontinued Quarterly IDCW,INF789F01JO0,INF789F01JP7,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
 113079,ICICI Prudential Mutual Fund,ICICI Prudential Medium Term Bond Fund Plan C - Weekly Dividend,,,Open Ended Schemes,Income
 113080,ICICI Prudential Mutual Fund,ICICI Prudential Medium Term Bond Fund Plan A - Weekly Dividend,,,Open Ended Schemes,Debt Scheme - Ultra Short Duration Fund
 113081,ICICI Prudential Mutual Fund,ICICI Prudential Medium Term Bond Fund-Plan B-Weekly Dividend,,,Open Ended Schemes,Income
@@ -10966,7 +10966,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 115461,HDFC Mutual Fund,HDFC FMP 370D June 2011 (4) - Dividend Option,,,Close Ended Schemes,Income
 115462,HDFC Mutual Fund,HDFC FMP 92D June 2011 (3) - Dividend Option,,,Close Ended Schemes,Income
 115463,HDFC Mutual Fund,HDFC FMP 92D June 2011 (3) - Growth Option,,,Close Ended Schemes,Income
-115464,Tata Mutual Fund,Tata Treasury Advantage Fund - Regular Plan - Periodic Payout of IDCW Option,INF277K01MC5,INF277K01ME1,Open Ended Schemes,Debt Scheme - Low Duration Fund
+115464,Tata Mutual Fund,Tata Ultra Short to Short Term Fund - Regular Plan - Periodic Payout of IDCW Option,INF277K01MC5,INF277K01ME1,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 115465,Tata Mutual Fund,Tata Fixed Tenure Fund Series 2 Scheme A Growth,,,Close Ended Schemes,Income
 115466,Tata Mutual Fund,Tata Fixed Tenure Fund Series 2 Scheme A Dividend Payout,,,Close Ended Schemes,Income
 115471,Tata Mutual Fund,TFMP 32- Growth Option,,,Close Ended Schemes,Income
@@ -13192,7 +13192,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 117979,Axis Mutual Fund,Axis Capital Protection Oriented Fund - Series 5 - Growth Option,,,Close Ended Schemes,Income
 117980,Axis Mutual Fund,Axis Capital Protection Oriented Fund - Series 5 - Dividend option,,,Close Ended Schemes,Income
 117981,UTI Mutual Fund,UTI - Credit Risk Fund. - Regular Plan - Growth,INF789F01QZ1,,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
-117982,UTI Mutual Fund,UTI - Credit Risk Fund. - Regular Plan - Quarterly IDCW,INF789F01RA2,INF789F01RB0,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
+117982,UTI Mutual Fund,UTI - Credit Risk Fund. - Regular Plan - Discontinued Quarterly IDCW,INF789F01RA2,INF789F01RB0,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
 117983,SBI Mutual Fund,SBI DEBT FUND SERIES - 18 MONTHS - 11 - DIVIDEND,,,135488;INF174K01Y15;-;Kotak FMP Series 180,1099 Days
 117984,SBI Mutual Fund,SBI DEBT FUND SERIES - 18 MONTHS - 11 - GROWTH,,,135488;INF174K01Y15;-;Kotak FMP Series 180,1099 Days
 117985,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Capital Protection Oriented Fund - Series 13 - Growth,,,Close Ended Schemes,Income
@@ -14230,7 +14230,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 119278,DSP Mutual Fund,DSP World Gold Mining Overseas Equity Omni FoF - Direct Plan - IDCW,INF740K01PA9,INF740K01PB7,Open Ended Schemes,Other Scheme - FoF Overseas
 119279,DSP Mutual Fund,DSP World Mining Overseas Equity Omni FoF - Direct Plan - Growth,INF740K01PF8,,Open Ended Schemes,Other Scheme - FoF Overseas
 119280,DSP Mutual Fund,DSP World Mining Overseas Equity Omni FoF - Direct Plan - IDCW,INF740K01PG6,INF740K01PH4,Open Ended Schemes,Other Scheme - FoF Overseas
-119281,Tata Mutual Fund,Tata ELSS Fund - Direct Plan - Payout of IDCW Option,INF277K01I94,,Open Ended Schemes,Equity Scheme - ELSS
+119281,Tata Mutual Fund,Tata ELSS - Tax Saver Fund - Direct Plan - Payout of IDCW Option,INF277K01I94,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
 119282,L&T Mutual Fund,L&T Overnight Fund - Direct Plan- Monthly IDCW,,,Open Ended Schemes,Debt Scheme - Overnight Fund
 119283,L&T Mutual Fund,L&T Overnight Fund - Direct Plan - Growth,,,Open Ended Schemes,Debt Scheme - Overnight Fund
 119284,L&T Mutual Fund,L&T Overnight Fund - Direct Plan- Daily IDCW,,,Open Ended Schemes,Debt Scheme - Overnight Fund
@@ -14789,9 +14789,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 119860,Motilal Oswal Mutual Fund,MOSt 10 Year Gilt Fund - Direct Plan - Dividend,,,Open Ended Schemes,Gilt
 119861,Tata Mutual Fund,Tata Liquid Fund - Direct Plan - Growth Option,INF277K01YE6,,Open Ended Schemes,Debt Scheme - Liquid Fund
 119862,Tata Mutual Fund,Tata Liquid Fund - Direct Plan - Daily Reinvestment of IDCW Option,,INF277K012D2,Open Ended Schemes,Debt Scheme - Liquid Fund
-119863,Tata Mutual Fund,Tata Treasury Advantage Fund - Direct Plan - Growth Option,INF277K01OK4,,Open Ended Schemes,Debt Scheme - Low Duration Fund
-119864,Tata Mutual Fund,Tata Treasury Advantage Fund - Direct Plan - Daily Reinvestment of IDCW Option,,INF277K018B3,Open Ended Schemes,Debt Scheme - Low Duration Fund
-119865,Tata Mutual Fund,Tata Treasury Advantage Fund - Direct Plan - Weekly Payout of IDCW Option,INF277K019B1,INF277K010C8,Open Ended Schemes,Debt Scheme - Low Duration Fund
+119863,Tata Mutual Fund,Tata Ultra Short to Short Term Fund - Direct Plan - Growth Option,INF277K01OK4,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+119864,Tata Mutual Fund,Tata Ultra Short to Short Term Fund - Direct Plan - Daily Reinvestment of IDCW Option,,INF277K018B3,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
+119865,Tata Mutual Fund,Tata Ultra Short to Short Term Fund - Direct Plan - Weekly Payout of IDCW Option,INF277K019B1,INF277K010C8,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 119866,JPMorgan Mutual Fund,JPMorgan India Equity Fund - Direct Plan - Dividend Option,,,Open Ended Schemes,Income
 119867,JPMorgan Mutual Fund,JPMorgan India Equity Fund - Direct Plan - Growth Option,,,Open Ended Schemes,Income
 119868,JPMorgan Mutual Fund,JPMorgan India Mid and Small Cap Fund - Direct Plan - Dividend Option,,,Open Ended Schemes,Income
@@ -14871,15 +14871,15 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 119946,Tata Mutual Fund,Tata Gilt Mid Term Fund - Direct Plan - Quarterly Dividend,,,Open Ended Schemes,Income
 119947,DHFL Pramerica Mutual Fund,DHFL Pramerica Credit Opportunities Fund - Direct Plan- Growth Option,,,Open Ended Schemes,Income
 119948,DHFL Pramerica Mutual Fund,DHFL Pramerica Credit Opportunities Fund - Direct Plan-Dividend Option,,,Open Ended Schemes,Income
-119949,Tata Mutual Fund,Tata Short Term Bond Fund - Direct Plan - Growth Option,INF277K01QR4,,Open Ended Schemes,Debt Scheme - Short Duration Fund
-119950,Tata Mutual Fund,Tata Short Term Bond Fund - Direct Plan - Monthly Payout of IDCW Option,INF277K01QP8,INF277K01QQ6,Open Ended Schemes,Debt Scheme - Short Duration Fund
+119949,Tata Mutual Fund,Tata Short Term Fund - Direct Plan - Growth Option,INF277K01QR4,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+119950,Tata Mutual Fund,Tata Short Term Fund - Direct Plan - Monthly Payout of IDCW Option,INF277K01QP8,INF277K01QQ6,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 119951,Tata Mutual Fund,Tata Floating Rate Fund - Long Term Plan - Direct Plan - Bonus/Dividend,,,Open Ended Schemes,Income
 119952,Tata Mutual Fund,Tata Floating Rate Fund - Long Term Plan - Direct Plan- Growth,,,Open Ended Schemes,Income
-119953,Tata Mutual Fund,Tata Gilt Securities Fund - Direct Plan - Growth Option,INF277K01OX7,,Open Ended Schemes,Debt Scheme - Gilt Fund
-119954,Tata Mutual Fund,Tata Gilt Securities Fund - Direct Plan - Payout of IDCW Option,INF277K01OV1,INF277K01OW9,Open Ended Schemes,Debt Scheme - Gilt Fund
+119953,Tata Mutual Fund,Tata Gilt Fund - Direct Plan - Growth Option,INF277K01OX7,,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
+119954,Tata Mutual Fund,Tata Gilt Fund - Direct Plan - Payout of IDCW Option,INF277K01OV1,INF277K01OW9,Open Ended Schemes,Income/Debt Oriented Schemes - Gilt Fund
 119955,Tata Mutual Fund,Tata Gilt Short Maturity Fund - Direct Plan - Growth,,,Open Ended Schemes,Income
 119956,Tata Mutual Fund,Tata Gilt Short Maturity Fund - Direct Plan - Dividend,,,Open Ended Schemes,Income
-119957,Tata Mutual Fund,Tata Treasury Advantage Fund - Direct Plan - Periodic Payout of IDCW Option,INF277K01OL2,INF277K01OM0,Open Ended Schemes,Debt Scheme - Low Duration Fund
+119957,Tata Mutual Fund,Tata Ultra Short to Short Term Fund - Direct Plan - Periodic Payout of IDCW Option,INF277K01OL2,INF277K01OM0,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short to Short Term Fund
 119958,Tata Mutual Fund,Tata Equity Savings Fund-Direct Plan - Monthly Payout of IDCW Option,INF277K01QI3,INF277K01QJ1,Open Ended Schemes,Hybrid Scheme - Equity Savings
 119959,Tata Mutual Fund,Tata Equity Savings Fund-Direct Plan - Periodic Payout of IDCWS Option,INF277K01QK9,INF277K01QL7,Open Ended Schemes,Hybrid Scheme - Equity Savings
 119960,Tata Mutual Fund,Tata Equity Savings Fund- Direct Plan- Growth Option,INF277K01QH5,,Open Ended Schemes,Hybrid Scheme - Equity Savings
@@ -15563,7 +15563,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 120687,ICICI Prudential Mutual Fund,ICICI Prudential Exports & Services Fund - Direct Plan - IDCW,INF109K01W09,INF109K01W17,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 120688,ICICI Prudential Mutual Fund,ICICI Prudential Exports & Services Fund - Direct Plan - Growth,INF109K01W25,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 120689,UTI Mutual Fund,UTI Medium to Long Term Fund - Direct Plan - Growth,INF789F01SQ6,,Open Ended Schemes,Income/Debt Oriented Schemes - Medium to Long Term Fund
-120690,UTI Mutual Fund,UTI Medium to Long Term Fund - Direct Plan - Quarterly IDCW,INF789F01SO1,INF789F01SP8,Open Ended Schemes,Income/Debt Oriented Schemes - Medium to Long Term Fund
+120690,UTI Mutual Fund,UTI Medium to Long Term Fund - Direct Plan - Discontinued Quarterly IDCW,INF789F01SO1,INF789F01SP8,Open Ended Schemes,Income/Debt Oriented Schemes - Medium to Long Term Fund
 120691,ICICI Prudential Mutual Fund,ICICI Prudential Child Care Plan Study - Direct Plan- Cumulative,,,Open Ended Schemes,Income
 120692,ICICI Prudential Mutual Fund,ICICI Prudential Corporate Bond Fund - Direct Plan - Growth,INF109K016B1,,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
 120693,ICICI Prudential Mutual Fund,ICICI Prudential Corporate Bond Fund - Direct Plan - Weekly IDCW,,,Open Ended Schemes,Debt Scheme - Corporate Bond Fund
@@ -15589,7 +15589,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 120716,UTI Mutual Fund,UTI Nifty 50 Index Fund - Direct Plan - Growth,INF789F01XA0,,Open Ended Schemes,Other Scheme - Index Funds
 120717,UTI Mutual Fund,UTI Nifty 50 Index Fund - Direct Plan - IDCW,INF789F01WY2,INF789F01WZ9,Open Ended Schemes,Other Scheme - Index Funds
 120718,UTI Mutual Fund,UTI Short Term Fund - Direct Plan - Growth,INF789F01XY0,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
-120719,UTI Mutual Fund,UTI Short Term Fund - Direct Plan - Quarterly IDCW,INF789FA1R66,INF789FA1R74,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+120719,UTI Mutual Fund,UTI Short Term Fund - Direct Plan - Discontinued Quarterly IDCW,INF789FA1R66,INF789FA1R74,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 120722,ICICI Prudential Mutual Fund,ICICI Prudential Focused Fund - Direct Plan - Growth,INF109K018N2,,Open Ended Schemes,Equity Schemes - Focused Fund
 120723,ICICI Prudential Mutual Fund,ICICI Prudential Focused Fund - Direct Plan - IDCW,INF109K016N6,INF109K017N4,Open Ended Schemes,Equity Schemes - Focused Fund
 120724,UTI Mutual Fund,UTI Children's Equity Fund - Direct Plan - Growth,INF789F1AZV0,,Open Ended Schemes,Solution Oriented Scheme - Children’s Fund
@@ -15628,9 +15628,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 120760,UTI Mutual Fund,UTI Multi Asset Allocation Fund - Direct Plan - Growth,INF789F01VE6,,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
 120761,UTI Mutual Fund,UTI Multi Asset Allocation Fund - Direct Plan - IDCW,INF789F01VC0,INF789F01VD8,Open Ended Schemes,Hybrid Schemes - Multi Asset Allocation Fund
 120762,UTI Mutual Fund,UTI Dynamic Term Fund - Direct Plan - Growth,INF789F01XD4,,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
-120763,UTI Mutual Fund,UTI Dynamic Term Fund - Direct Plan - Quarterly IDCW,INF789F01XB8,INF789F01XC6,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
+120763,UTI Mutual Fund,UTI Dynamic Term Fund - Direct Plan - Discontinued Quarterly IDCW,INF789F01XB8,INF789F01XC6,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
 120764,UTI Mutual Fund,UTI - Credit Risk Fund. - Direct Plan - Growth,INF789F01YB6,,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
-120765,UTI Mutual Fund,UTI - Credit Risk Fund. - Direct Plan - Quarterly IDCW,INF789F01YC4,INF789F01YD2,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
+120765,UTI Mutual Fund,UTI - Credit Risk Fund. - Direct Plan - Discontinued Quarterly IDCW,INF789F01YC4,INF789F01YD2,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
 120766,UTI Mutual Fund,UTI Retirement Fund - Direct Plan - Growth,INF789F1AA64,,Open Ended Schemes,Solution Oriented Scheme - Retirement Fund
 120767,UTI Mutual Fund,UTI Services Industries Fund-Growth Option- Direct,,,Open Ended Schemes,Income
 120768,UTI Mutual Fund,UTI Services Industries Fund-Income Option-Direct,,,Open Ended Schemes,Income
@@ -18623,7 +18623,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 124947,UTI Mutual Fund,UTI FTIF Series XVI - VIII (368 DAYS)-Flexi Div Option,,,Close Ended Schemes,Income
 124949,UTI Mutual Fund,UTI FTIF Series XVI - VIII (368 DAYS)- Growth Option - Direct,,,IL&FS Mutual Fund,IDF
 124950,UTI Mutual Fund,UTI FTIF Series XVI - VIII (368 DAYS)- Maturity Div Option - Direct,,,Close Ended Schemes,Income
-124962,UTI Mutual Fund,UTI Short Term Fund - Direct Plan - Flexi IDCW,INF789FB1T70,INF789FB1T62,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+124962,UTI Mutual Fund,UTI Short Term Fund - Direct Plan - Discontinued Flexi IDCW,INF789FB1T70,INF789FB1T62,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 124963,HDFC Mutual Fund,HDFC FMP 372D October 2013 (1) - Direct Option - Dividend Option,,,Close Ended Schemes,Income
 124964,HDFC Mutual Fund,HDFC FMP 372D October 2013 (1) - Regular Option - Dividend Option,,,Close Ended Schemes,Income
 124965,HDFC Mutual Fund,HDFC FMP 372D October 2013 (1) - Regular Option - Flexi Option,,,Close Ended Schemes,Income
@@ -18679,7 +18679,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 125036,HDFC Mutual Fund,HDFC CPO - I - 36M October 2013 - Regular Option - Dividend Option,,,112659;INF090I01403;-;Franklin India Fixed Tenure Fund - Series XII - Plan C,5 Year Plan
 125037,HDFC Mutual Fund,HDFC CPO - I - 36M October 2013 - Direct Option - Growth Option,,,112659;INF090I01403;-;Franklin India Fixed Tenure Fund - Series XII - Plan C,5 Year Plan
 125038,HDFC Mutual Fund,HDFC CPO - I - 36M October 2013 - Direct Option - Dividend Option,,,112659;INF090I01403;-;Franklin India Fixed Tenure Fund - Series XII - Plan C,5 Year Plan
-125045,UTI Mutual Fund,UTI Short Term Fund - Regular Plan - Flexi IDCW,INF789FB1T54,INF789FB1T47,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+125045,UTI Mutual Fund,UTI Short Term Fund - Regular Plan - Discontinued Flexi IDCW,INF789FB1T54,INF789FB1T47,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 125050,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series IO (1097 days) - Direct Plan-Normal Dividend,,,Close Ended Schemes,Income
 125051,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series IO (1097 days) - Regular Plan-Quarterly Dividend,,,Close Ended Schemes,Income
 125052,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Fixed Term Plan - Series IO (1097 days) - Direct Plan-Quarterly Dividend,,,Close Ended Schemes,Income
@@ -19920,8 +19920,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 126936,Invesco Mutual Fund,Invesco India Fixed Maturity Plan - Series 22 - Plan H (427 Days) - Direct Plan - Growth Option,,,IL&FS Mutual Fund,IDF
 126939,UTI Mutual Fund,UTI Banking & PSU Debt Fund - Regular Plan - Growth,INF789F014Z9,,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
 126940,UTI Mutual Fund,UTI Banking & PSU Debt Fund - Direct Plan - Growth,INF789F015Z6,,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
-126941,UTI Mutual Fund,UTI Banking & PSU Debt Fund - Regular Plan - Quarterly IDCW,INF789F012Z3,INF789F013Z1,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
-126942,UTI Mutual Fund,UTI Banking & PSU Debt Fund - Direct Plan - Quarterly IDCW,INF789F016Z4,INF789F017Z2,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
+126941,UTI Mutual Fund,UTI Banking & PSU Debt Fund - Regular Plan - Discontinued Quarterly IDCW,INF789F012Z3,INF789F013Z1,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
+126942,UTI Mutual Fund,UTI Banking & PSU Debt Fund - Direct Plan - Discontinued Quarterly IDCW,INF789F016Z4,INF789F017Z2,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
 126943,IDFC Mutual Fund,IDFC FTP - S72 (419 Days)_Regular Plan_Growth,,,Close Ended Schemes,Income
 126946,IDFC Mutual Fund,IDFC FTP - S72 (419 Days)_Direct Plan_Growth,,,Close Ended Schemes,Income
 126949,IDFC Mutual Fund,IDFC FTP - S72 (419 Days)_Regular Plan_Half Yearly Dividend,,,Close Ended Schemes,Income
@@ -23165,8 +23165,8 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 132186,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Dynamic Asset Allocation Omni FOF - Direct Plan - GROWTH,INF084M01EW6,,Open Ended Schemes,Other Scheme - FoF Domestic
 132187,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Dynamic Asset Allocation Omni FOF - Direct Plan - IDCW Payout,INF084M01EX4,INF084M01EY2,Open Ended Schemes,Other Scheme - FoF Domestic
 132189,Aditya Birla Sun Life Mutual Fund,Aditya Birla Sun Life Aggressive Hybrid Omni FOF - Direct Plan - IDCW,INF084M01EU0,INF084M01EV8,Open Ended Schemes,Other Scheme - FoF Domestic
-132756,Tata Mutual Fund,Tata ELSS Fund - Direct Plan - Growth Option,INF277K01I86,,Open Ended Schemes,Equity Scheme - ELSS
-132757,Tata Mutual Fund,Tata ELSS Fund - Regular Plan - Growth Option,INF277K01I52,,Open Ended Schemes,Equity Scheme - ELSS
+132756,Tata Mutual Fund,Tata ELSS - Tax Saver Fund - Direct Plan - Growth Option,INF277K01I86,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
+132757,Tata Mutual Fund,Tata ELSS - Tax Saver Fund - Regular Plan - Growth Option,INF277K01I52,,Open Ended Schemes,Equity Schemes - ELSS- Tax Saver Fund
 132762,Reliance Mutual Fund,Reliance Dual Advantage Fixed Tenure Fund VI- Plan F- Growth Option,,,135488;INF174K01Y15;-;Kotak FMP Series 180,1099 Days
 132763,Reliance Mutual Fund,Reliance Dual Advantage Fixed Tenure Fund VI- Plan F- Direct Plan - Growth Option,,,135488;INF174K01Y15;-;Kotak FMP Series 180,1099 Days
 132764,Reliance Mutual Fund,Reliance Dual Advantage Fixed Tenure Fund VI- Plan F- Direct Plan - Dividend Payout Option,,,135488;INF174K01Y15;-;Kotak FMP Series 180,1099 Days
@@ -23415,7 +23415,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 133172,ICICI Prudential Mutual Fund,ICICI Prudential Multiple Yield Fund - Series 8 -1101 Days Plan E Cumulative Option,,,141923;INF179KB1W87;-;HDFC HOF - I - 1140D November 2017,1
 133173,ICICI Prudential Mutual Fund,ICICI Prudential Multiple Yield Fund - Series 8 -1101 Days Plan E Dividend Option,,,141923;INF179KB1W87;-;HDFC HOF - I - 1140D November 2017,1
 133174,ICICI Prudential Mutual Fund,ICICI Prudential Multiple Yield Fund - Series 8 -1101 Days Plan E Direct Plan Cumulative Option,,,141923;INF179KB1W87;-;HDFC HOF - I - 1140D November 2017,1
-133180,UTI Mutual Fund,UTI Dynamic Term Fund - Direct Plan - Flexi IDCW,INF789FA1S81,INF789FA1S99,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
+133180,UTI Mutual Fund,UTI Dynamic Term Fund - Direct Plan - Discontinued Flexi IDCW,INF789FA1S81,INF789FA1S99,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
 133181,Groww Mutual Fund,Groww Arbitrage Fund (formerly known as Indiabulls Arbitrage Fund) - Direct Plan - Growth Option,,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
 133182,Indiabulls Mutual Fund,Indiabulls Arbitrage Fund - Direct Plan - Dividend Option,,,Open Ended Schemes,Equity Scheme - Large Cap Fund
 133184,Groww Mutual Fund,Groww Arbitrage Fund (formerly known as Indiabulls Arbitrage Fund) - Regular Plan - Growth Option,,,Open Ended Schemes,Hybrid Scheme - Arbitrage Fund
@@ -23466,7 +23466,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 133265,Nippon India Mutual Fund,Nippon India Gilt Fund - Direct Plan - Bonus Option,INF204KA1YV2,,Open Ended Schemes,Debt Scheme - Gilt Fund
 133274,ICICI Prudential Mutual Fund,ICICI Prudential Growth Fund - Series 6  Dividend,,,141581;INF179KB1V39;-;HDFC EOF - II - 1100D June 2017,1
 133275,ICICI Prudential Mutual Fund,ICICI Prudential Growth Fund - Series 6 Direct Dividend,,,141581;INF179KB1V39;-;HDFC EOF - II - 1100D June 2017,1
-133280,UTI Mutual Fund,UTI Medium to Long Term Fund - Direct Plan - Flexi IDCW,INF789FA1U04,INF789FA1U12,Open Ended Schemes,Income/Debt Oriented Schemes - Medium to Long Term Fund
+133280,UTI Mutual Fund,UTI Medium to Long Term Fund - Direct Plan - Discontinued Flexi IDCW,INF789FA1U04,INF789FA1U12,Open Ended Schemes,Income/Debt Oriented Schemes - Medium to Long Term Fund
 133281,SBI Mutual Fund,SBI DUAL ADVANTAGE FUND - SERIES VI - REGULAR PLAN - GROWTH,,,142488;INF200KA1SK1;-;SBI DEBT FUND SERIES C - 9,1150 DAYS
 133282,SBI Mutual Fund,SBI DUAL ADVANTAGE FUND - SERIES VI - DIRECT PLAN - GROWTH,,,142488;INF200KA1SK1;-;SBI DEBT FUND SERIES C - 9,1150 DAYS
 133283,SBI Mutual Fund,SBI DUAL ADVANTAGE FUND - SERIES VI - DIRECT PLAN - DIVIDEND,,,142488;INF200KA1SK1;-;SBI DEBT FUND SERIES C - 9,1150 DAYS
@@ -23866,7 +23866,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 133869,UTI Mutual Fund,UTI Medium to Long Term Fund - Regular Plan - Annual IDCW,INF789FA1T23,INF789FA1T31,Open Ended Schemes,Income/Debt Oriented Schemes - Medium to Long Term Fund
 133870,L&T Mutual Fund,L&T Hybrid Equity Fund - Regular Plan- Annual IDCW,,,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
 133871,L&T Mutual Fund,L&T Hybrid Equity Fund - Direct Plan - Annual IDCW,,,Open Ended Schemes,Hybrid Scheme - Aggressive Hybrid Fund
-133872,UTI Mutual Fund,UTI Medium to Long Term Fund - Regular Plan - Flexi IDCW,INF789FA1T49,INF789FA1T56,Open Ended Schemes,Income/Debt Oriented Schemes - Medium to Long Term Fund
+133872,UTI Mutual Fund,UTI Medium to Long Term Fund - Regular Plan - Discontinued Flexi IDCW,INF789FA1T49,INF789FA1T56,Open Ended Schemes,Income/Debt Oriented Schemes - Medium to Long Term Fund
 133873,UTI Mutual Fund,UTI Ultra Short Term Fund - Regular Plan - Quarterly IDCW,INF789FA1P01,INF789FA1P19,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
 133874,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 76 - 1142 Days Plan M Cumulative Option,,,141923;INF179KB1W87;-;HDFC HOF - I - 1140D November 2017,1
 133875,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 76 - 1142 Days Plan M Direct Plan Cumulative Option,,,141923;INF179KB1W87;-;HDFC HOF - I - 1140D November 2017,1
@@ -23922,11 +23922,11 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 133952,HDFC Mutual Fund,HDFC FMP 91D February 2015 (1)-Regular Option-Growth Option,,,Close Ended Schemes,Income
 133965,ICICI Prudential Mutual Fund,ICICI Prudential India Recovery Fund - Series 1 Direct Dividend,,,141581;INF179KB1V39;-;HDFC EOF - II - 1100D June 2017,1
 133966,ICICI Prudential Mutual Fund,ICICI Prudential India Recovery Fund - Series 1 Dividend,,,141581;INF179KB1V39;-;HDFC EOF - II - 1100D June 2017,1
-133971,UTI Mutual Fund,UTI Banking & PSU Debt Fund - Regular Plan - Flexi IDCW,INF789FA1U61,INF789FA1U79,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
-133972,UTI Mutual Fund,UTI Banking & PSU Debt Fund - Direct Plan - Flexi IDCW,INF789FA1V29,INF789FA1V37,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
+133971,UTI Mutual Fund,UTI Banking & PSU Debt Fund - Regular Plan - Discontinued Flexi IDCW,INF789FA1U61,INF789FA1U79,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
+133972,UTI Mutual Fund,UTI Banking & PSU Debt Fund - Direct Plan - Discontinued Flexi IDCW,INF789FA1V29,INF789FA1V37,Open Ended Schemes,Income/Debt Oriented Schemes - Banking and PSU Debt Fund
 133973,UTI Mutual Fund,UTI - Liquid Fund - Regular Plan - Annual IDCW,INF789F1AD12,INF789F1AD20,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
-133974,Tata Mutual Fund,Tata Short Term Bond Fund - Direct Plan - Periodic Payout of IDCW Option,INF277K01P38,INF277K01P46,Open Ended Schemes,Debt Scheme - Short Duration Fund
-133975,Tata Mutual Fund,Tata Short Term Bond Fund - Regular Plan - Periodic Payout of IDCW Option,INF277K01P12,INF277K01P20,Open Ended Schemes,Debt Scheme - Short Duration Fund
+133974,Tata Mutual Fund,Tata Short Term Fund - Direct Plan - Periodic Payout of IDCW Option,INF277K01P38,INF277K01P46,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+133975,Tata Mutual Fund,Tata Short Term Fund - Regular Plan - Periodic Payout of IDCW Option,INF277K01P12,INF277K01P20,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 133984,Reliance Mutual Fund,Reliance Dual Advantage Fixed Tenure Fund VII- Plan D- Growth Option,,,135488;INF174K01Y15;-;Kotak FMP Series 180,1099 Days
 133985,Reliance Mutual Fund,Reliance Dual Advantage Fixed Tenure Fund VII- Plan D- Dividend Payout Option,,,135488;INF174K01Y15;-;Kotak FMP Series 180,1099 Days
 133986,Reliance Mutual Fund,Reliance Dual Advantage Fixed Tenure Fund VII- Plan D- Direct Plan- Growth Option,,,135488;INF174K01Y15;-;Kotak FMP Series 180,1099 Days
@@ -24221,11 +24221,11 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 134495,UTI Mutual Fund,UTI Medium Term Fund - Regular Plan - Monthly IDCW,INF789FB1JV2,INF789FB1KP2,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund
 134496,UTI Mutual Fund,UTI Medium Duration Fund - Regular Plan - Quarterly IDCW,INF789FB1JW0,INF789FB1JX8,Open Ended Schemes,Debt Scheme - Medium Duration Fund
 134497,UTI Mutual Fund,UTI Medium Term Fund - Regular Plan - Half yearly IDCW,INF789FB1JY6,INF789FB1JZ3,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund
-134498,UTI Mutual Fund,UTI Medium Term Fund - Regular Plan - Flexi IDCW,INF789FB1KC0,INF789FB1KD8,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund
+134498,UTI Mutual Fund,UTI Medium Term Fund - Regular Plan - Discontinued Flexi IDCW,INF789FB1KC0,INF789FB1KD8,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund
 134499,UTI Mutual Fund,UTI Medium Term Fund - Regular Plan - Growth,INF789FB1JU4,,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund
 134500,UTI Mutual Fund,UTI Medium Term Fund - Regular Plan - Annual IDCW,INF789FB1KA4,INF789FB1KB2,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund
 134501,UTI Mutual Fund,UTI Medium Term Fund - Direct Plan - Monthly IDCW,INF789FB1KF3,INF789FB1KG1,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund
-134502,UTI Mutual Fund,UTI Medium Term Fund - Direct Plan - Quarterly IDCW,INF789FB1KH9,INF789FB1KI7,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund
+134502,UTI Mutual Fund,UTI Medium Term Fund - Direct Plan - Discontinued Quarterly IDCW,INF789FB1KH9,INF789FB1KI7,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund
 134503,UTI Mutual Fund,UTI Medium Term Fund - Direct Plan - Growth,INF789FB1KE6,,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund
 134504,UTI Mutual Fund,UTI Medium Term Fund - Direct Plan - Half yearly IDCW,INF789FB1KJ5,INF789FB1KK3,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund
 134505,UTI Mutual Fund,UTI Medium Term Fund - Direct Plan - Annual IDCW,INF789FB1KL1,INF789FB1KM9,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund
@@ -24604,7 +24604,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 135047,Kotak Mahindra Mutual Fund,Kotak FMP Series 176 - Regular Plan - Growth,,,134838;INF174K01R71;-;Kotak FMP Series 175,1100 Days
 135048,Kotak Mahindra Mutual Fund,Kotak FMP Series 176 - Direct Plan - Growth,,,134838;INF174K01R71;-;Kotak FMP Series 175,1100 Days
 135050,Kotak Mahindra Mutual Fund,Kotak FMP Series 176 - Regular Plan - Dividend,,,134838;INF174K01R71;-;Kotak FMP Series 175,1100 Days
-135051,UTI Mutual Fund,UTI - Credit Risk Fund. - Regular Plan - Flexi IDCW,INF789FA1V86,INF789FA1V94,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
+135051,UTI Mutual Fund,UTI - Credit Risk Fund. - Regular Plan - Discontinued Flexi IDCW,INF789FA1V86,INF789FA1V94,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
 135052,Invesco Mutual Fund,Invesco India Fixed Maturity Plan - Series 26 - Plan C - Direct Sub Plan - Dividend Payout,,,134059;INF205K01S65;-;Invesco India Fixed Maturity Plan - Series 25 - Plan D,1141 Days
 135053,Invesco Mutual Fund,Invesco India Fixed Maturity Plan - Series 26 - Plan C - Regular Sub Plan - Growth,,,134059;INF205K01S65;-;Invesco India Fixed Maturity Plan - Series 25 - Plan D,1141 Days
 135054,Invesco Mutual Fund,Invesco India Fixed Maturity Plan - Series 26 - Plan C - Direct Sub Plan - Growth,,,134059;INF205K01S65;-;Invesco India Fixed Maturity Plan - Series 25 - Plan D,1141 Days
@@ -24771,7 +24771,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 135332,Reliance Mutual Fund,Reliance Fixed Horizon Fund XXIX- Series 6- Growth Option,,,135488;INF174K01Y15;-;Kotak FMP Series 180,1099 Days
 135333,Reliance Mutual Fund,Reliance Fixed Horizon Fund XXIX- Series 6- Dividend Payout Option,,,135488;INF174K01Y15;-;Kotak FMP Series 180,1099 Days
 135334,Reliance Mutual Fund,Reliance Fixed Horizon Fund XXIX- Series 6- Direct Plan - Growth Option,,,135488;INF174K01Y15;-;Kotak FMP Series 180,1099 Days
-135336,UTI Mutual Fund,UTI Dynamic Term Fund - Regular Plan - Flexi IDCW,INF789FA1S24,INF789FA1S32,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
+135336,UTI Mutual Fund,UTI Dynamic Term Fund - Regular Plan - Discontinued Flexi IDCW,INF789FA1S24,INF789FA1S32,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
 135337,DSP Mutual Fund,DSP  Dual Advantage Fund - Series 39 - 36M - Regular Plan - Growth,,,142498;INF740KA1EK8;-;DSP  A.C.E. Fund,Analyst's Conviction Equalized
 135338,DSP Mutual Fund,DSP  Dual Advantage Fund - Series 39 - 36M - Regular Plan - Dividend Payout Option,,,142498;INF740KA1EK8;-;DSP  A.C.E. Fund,Analyst's Conviction Equalized
 135339,DSP Mutual Fund,DSP  Dual Advantage Fund - Series 39 - 36M - Direct Plan - Dividend Payout Option,,,142498;INF740KA1EK8;-;DSP  A.C.E. Fund,Analyst's Conviction Equalized
@@ -25440,7 +25440,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 136299,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 78 -95 Days Plan M Cumulative Option,,,141923;INF179KB1W87;-;HDFC HOF - I - 1140D November 2017,1
 136300,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 78 -95 Days Plan M Direct Plan Cumulative Option,,,141923;INF179KB1W87;-;HDFC HOF - I - 1140D November 2017,1
 136301,ICICI Prudential Mutual Fund,ICICI Prudential Fixed Maturity Plan - Series 78 - 95 Days Plan M Dividend Option,,,141923;INF179KB1W87;-;HDFC HOF - I - 1140D November 2017,1
-136302,UTI Mutual Fund,UTI - Credit Risk Fund. - Direct Plan - Flexi IDCW,INF789FB1U44,INF789FB1U51,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
+136302,UTI Mutual Fund,UTI - Credit Risk Fund. - Direct Plan - Discontinued Flexi IDCW,INF789FB1U44,INF789FB1U51,Open Ended Schemes,Income/Debt Oriented Schemes - Credit Risk Fund
 136305,Kotak Mahindra Mutual Fund,Kotak FMP Series 189 - Regular - Dividend Payout,,,IL&FS Mutual Fund,IDF
 136306,Kotak Mahindra Mutual Fund,Kotak FMP Series 189 - Direct - Dividend Payout,,,IL&FS Mutual Fund,IDF
 136307,Kotak Mahindra Mutual Fund,Kotak FMP Series 189 - Direct - Growth,,,IL&FS Mutual Fund,IDF
@@ -29938,15 +29938,15 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 144335,Kotak Mahindra Mutual Fund,Kotak Balanced Advantage Fund - Direct Plan - Growth Option,INF174KA1210,,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
 144336,Kotak Mahindra Mutual Fund,Kotak Balanced Advantage Fund - Regular Plan - Payout of Income Distribution cum capital withdrawal option Option,INF174KA1160,INF174KA1178,Open Ended Schemes,Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage
 144337,UTI Mutual Fund,UTI - Corporate Bond Fund - Regular Plan - Annual IDCW,INF789F1A496,INF789F1A504,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
-144338,UTI Mutual Fund,UTI - Corporate Bond Fund - Regular Plan - Flexi IDCW,INF789F1A512,INF789F1A520,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
+144338,UTI Mutual Fund,UTI - Corporate Bond Fund - Regular Plan - Discontinued Flexi IDCW,INF789F1A512,INF789F1A520,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
 144339,UTI Mutual Fund,UTI - Corporate Bond Fund - Direct Plan - Growth,INF789F1A538,,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
 144340,UTI Mutual Fund,UTI - Corporate Bond Fund - Direct Plan - Half yearly IDCW,INF789F1A561,INF789F1A579,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
-144341,UTI Mutual Fund,UTI - Corporate Bond Fund - Direct Plan - Flexi IDCW,INF789F1A603,INF789F1A611,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
-144342,UTI Mutual Fund,UTI - Corporate Bond Fund - Regular Plan - Quarterly IDCW,INF789F1A454,INF789F1A462,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
+144341,UTI Mutual Fund,UTI - Corporate Bond Fund - Direct Plan - Discontinued Flexi IDCW,INF789F1A603,INF789F1A611,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
+144342,UTI Mutual Fund,UTI - Corporate Bond Fund - Regular Plan - Discontinued Quarterly IDCW,INF789F1A454,INF789F1A462,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
 144343,UTI Mutual Fund,UTI - Corporate Bond Fund - Regular Plan - Half yearly IDCW,INF789F1A470,INF789F1A488,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
 144344,UTI Mutual Fund,UTI - Corporate Bond Fund - Direct Plan - Annual IDCW,INF789F1A587,INF789F1A595,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
 144345,UTI Mutual Fund,UTI - Corporate Bond Fund - Regular Plan - Growth,INF789F1A447,,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
-144346,UTI Mutual Fund,UTI - Corporate Bond Fund - Direct Plan - Quarterly IDCW,INF789F1A546,INF789F1A553,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
+144346,UTI Mutual Fund,UTI - Corporate Bond Fund - Direct Plan - Discontinued Quarterly IDCW,INF789F1A546,INF789F1A553,Open Ended Schemes,Income/Debt Oriented Schemes - Corporate Bond Fund
 144347,SBI Mutual Fund,SBI Debt Fund Series C - 20 - (1100 Days) - Regular Plan - Growth,,,IL&FS Mutual Fund,IDF
 144348,SBI Mutual Fund,SBI Debt Fund Series - C - 20 (1100 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),,,IL&FS Mutual Fund,IDF
 144349,SBI Mutual Fund,SBI Debt Fund Series C - 20 - (1100 Days) - Direct Plan - Growth,,,IL&FS Mutual Fund,IDF
@@ -33337,14 +33337,14 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 148997,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) Series 45 (1840Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1W83,,IL&FS Mutual Fund,IDF
 148998,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) Series 45 (1840 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),INF200KA1X09,,IL&FS Mutual Fund,IDF
 148999,SBI Mutual Fund,SBI Fixed Maturity Plan (FMP) Series 45 (1840 Days) - Direct Plan - Growth,INF200KA1W91,,IL&FS Mutual Fund,IDF
-149000,Tata Mutual Fund,Tata Floating Rate Fund - Direct Plan - IDCW Monthly Payout Option,INF277KA1042,,Open Ended Schemes,Debt Scheme - Floater Fund
-149001,Tata Mutual Fund,Tata Floating Rate Fund - Direct Plan - IDCW Quarterly Payout Option,INF277KA1059,,Open Ended Schemes,Debt Scheme - Floater Fund
-149002,Tata Mutual Fund,Tata Floating Rate Fund - Direct Plan - IDCW Periodic Payout Option,INF277KA1034,,Open Ended Schemes,Debt Scheme - Floater Fund
-149003,Tata Mutual Fund,Tata Floating Rate Fund - Regular Plan - Growth Option,INF277KA1091,,Open Ended Schemes,Debt Scheme - Floater Fund
-149004,Tata Mutual Fund,Tata Floating Rate Fund - Regular Plan - IDCW Monthly Payout Option,INF277KA1117,,Open Ended Schemes,Debt Scheme - Floater Fund
-149005,Tata Mutual Fund,Tata Floating Rate Fund - Regular Plan - IDCW Quarterly Payout Option,INF277KA1125,,Open Ended Schemes,Debt Scheme - Floater Fund
-149006,Tata Mutual Fund,Tata Floating Rate Fund - Regular Plan - IDCW Periodic Payout Option,INF277KA1109,,Open Ended Schemes,Debt Scheme - Floater Fund
-149007,Tata Mutual Fund,Tata Floating Rate Fund - Direct Plan - Growth Option,INF277KA1026,,Open Ended Schemes,Debt Scheme - Floater Fund
+149000,Tata Mutual Fund,Tata Floating Interest Rates Fund - Direct Plan - IDCW Monthly Payout Option,INF277KA1042,,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
+149001,Tata Mutual Fund,Tata Floating Interest Rates Fund - Direct Plan - IDCW Quarterly Payout Option,INF277KA1059,,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
+149002,Tata Mutual Fund,Tata Floating Interest Rates Fund - Direct Plan - IDCW Periodic Payout Option,INF277KA1034,,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
+149003,Tata Mutual Fund,Tata Floating Interest Rates Fund - Regular Plan - Growth Option,INF277KA1091,,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
+149004,Tata Mutual Fund,Tata Floating Interest Rates Fund - Regular Plan - IDCW Monthly Payout Option,INF277KA1117,,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
+149005,Tata Mutual Fund,Tata Floating Interest Rates Fund - Regular Plan - IDCW Quarterly Payout Option,INF277KA1125,,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
+149006,Tata Mutual Fund,Tata Floating Interest Rates Fund - Regular Plan - IDCW Periodic Payout Option,INF277KA1109,,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
+149007,Tata Mutual Fund,Tata Floating Interest Rates Fund - Direct Plan - Growth Option,INF277KA1026,,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
 149008,Nippon India Mutual Fund,Nippon India Nifty Pharma ETF - Direct Plan,INF204KC1089,,Open Ended Schemes,Other Scheme - Other  ETFs
 149009,Invesco Mutual Fund,Invesco India Medium Term Fund - Regular Plan - Quarterly IDCW,INF205KA1353,INF205KA1387,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund
 149010,Invesco Mutual Fund,Invesco India Medium Term Fund - Regular Plan - Discretionary IDCW,INF205KA1361,INF205KA1395,Open Ended Schemes,Income/Debt Oriented Schemes - Medium Term Fund
@@ -33370,12 +33370,12 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 149030,ITI Mutual Fund,ITI Dynamic Term Fund - Direct Plan - Annually IDCW Option,INF00XX01BK7,INF00XX01BG5,Open Ended Schemes,Income/Debt Oriented Schemes - Dynamic Term Fund
 149031,PGIM India Mutual Fund,PGIM India Small Cap Fund - Direct Plan - Direct IDCW,INF663L01W14,INF663L01W22,Open Ended Schemes,Equity Scheme - Small Cap Fund
 149032,PGIM India Mutual Fund,PGIM India Small Cap Fund - Regular Plan - Regular IDCW,INF663L01W48,INF663L01W55,Open Ended Schemes,Equity Scheme - Small Cap Fund
-149033,Tata Mutual Fund,Tata Floating Rate Fund - Direct Plan - IDCW Periodic Dividend Reinvestment Option,,INF277KA1067,Open Ended Schemes,Debt Scheme - Floater Fund
-149034,Tata Mutual Fund,Tata Floating Rate Fund - Direct Plan - IDCW Quarterly Dividend Reinvestment Option,,INF277KA1083,Open Ended Schemes,Debt Scheme - Floater Fund
-149035,Tata Mutual Fund,Tata Floating Rate Fund - Regular Plan - IDCW Monthly Dividend Reinvestment Option,,INF277KA1141,Open Ended Schemes,Debt Scheme - Floater Fund
-149036,Tata Mutual Fund,Tata Floating Rate Fund - Regular Plan - IDCW Periodic Dividend Reinvestment Option,,INF277KA1133,Open Ended Schemes,Debt Scheme - Floater Fund
-149037,Tata Mutual Fund,Tata Floating Rate Fund - Direct Plan - IDCW Monthly Dividend Reinvestment Option,,INF277KA1075,Open Ended Schemes,Debt Scheme - Floater Fund
-149038,Tata Mutual Fund,Tata Floating Rate Fund - Regular Plan - IDCW Quarterly Dividend Reinvestment Option,,INF277KA1158,Open Ended Schemes,Debt Scheme - Floater Fund
+149033,Tata Mutual Fund,Tata Floating Interest Rates Fund - Direct Plan - IDCW Periodic Dividend Reinvestment Option,,INF277KA1067,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
+149034,Tata Mutual Fund,Tata Floating Interest Rates Fund - Direct Plan - IDCW Quarterly Dividend Reinvestment Option,,INF277KA1083,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
+149035,Tata Mutual Fund,Tata Floating Interest Rates Fund - Regular Plan - IDCW Monthly Dividend Reinvestment Option,,INF277KA1141,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
+149036,Tata Mutual Fund,Tata Floating Interest Rates Fund - Regular Plan - IDCW Periodic Dividend Reinvestment Option,,INF277KA1133,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
+149037,Tata Mutual Fund,Tata Floating Interest Rates Fund - Direct Plan - IDCW Monthly Dividend Reinvestment Option,,INF277KA1075,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
+149038,Tata Mutual Fund,Tata Floating Interest Rates Fund - Regular Plan - IDCW Quarterly Dividend Reinvestment Option,,INF277KA1158,Open Ended Schemes,Income/Debt Oriented Schemes - Floating Interest Rates Fund
 149039,Navi Mutual Fund,Navi Nifty 50 Index Fund - Direct Plan - Growth,INF959L01FP2,,Open Ended Schemes,Other Scheme - Index Funds
 149040,Navi Mutual Fund,Navi Nifty 50 Index Fund - Regular Plan - Growth,INF959L01FQ0,,Open Ended Schemes,Other Scheme - Index Funds
 149041,SBI Mutual Fund,SBI Nifty Consumption ETF - Regular Plan - IDCW,INF200KA1X17,,Open Ended Schemes,Other Scheme - Other  ETFs
@@ -34225,14 +34225,14 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 150408,Union Mutual Fund,Union Gilt Fund - Direct Plan - Annual IDCW Option,INF582M01IA6,INF582M01IB4,Open Ended Schemes,Debt Scheme - Gilt Fund
 150409,UTI Mutual Fund,UTI 10 year Constant Maturity Gilt Fund - Regular Plan - Growth,INF789F1AVI6,,Open Ended Schemes,Income/Debt Oriented Schemes - 10-year Constant Maturity Gilt Fund
 150410,UTI Mutual Fund,UTI 10 year Constant Maturity Gilt Fund - Direct Plan - Growth,INF789F1AVR7,,Open Ended Schemes,Income/Debt Oriented Schemes - 10-year Constant Maturity Gilt Fund
-150411,UTI Mutual Fund,UTI 10 year Constant Maturity Gilt Fund - Regular Plan - Quarterly IDCW,INF789F1AVJ4,INF789F1AVK2,Open Ended Schemes,Income/Debt Oriented Schemes - 10-year Constant Maturity Gilt Fund
-150412,UTI Mutual Fund,UTI 10 year Constant Maturity Gilt Fund - Direct Plan - Quarterly IDCW,INF789F1AVS5,INF789F1AVT3,Open Ended Schemes,Income/Debt Oriented Schemes - 10-year Constant Maturity Gilt Fund
+150411,UTI Mutual Fund,UTI 10 year Constant Maturity Gilt Fund - Regular Plan - Discontinued Quarterly IDCW,INF789F1AVJ4,INF789F1AVK2,Open Ended Schemes,Income/Debt Oriented Schemes - 10-year Constant Maturity Gilt Fund
+150412,UTI Mutual Fund,UTI 10 year Constant Maturity Gilt Fund - Direct Plan - Discontinued Quarterly IDCW,INF789F1AVS5,INF789F1AVT3,Open Ended Schemes,Income/Debt Oriented Schemes - 10-year Constant Maturity Gilt Fund
 150415,UTI Mutual Fund,UTI 10 year Constant Maturity Gilt Fund - Direct Plan - Half yearly IDCW,INF789F1AVU1,INF789F1AVV9,Open Ended Schemes,Income/Debt Oriented Schemes - 10-year Constant Maturity Gilt Fund
 150416,UTI Mutual Fund,UTI 10 year Constant Maturity Gilt Fund - Regular Plan - Half Yearly IDCW,INF789F1AVL0,INF789F1AVM8,Open Ended Schemes,Income/Debt Oriented Schemes - 10-year Constant Maturity Gilt Fund
 150419,UTI Mutual Fund,UTI 10 year Constant Maturity Gilt Fund - Regular Plan - Annual IDCW,INF789F1AVN6,INF789F1AVO4,Open Ended Schemes,Income/Debt Oriented Schemes - 10-year Constant Maturity Gilt Fund
-150420,UTI Mutual Fund,UTI 10 year Constant Maturity Gilt Fund - Regular Plan - Flexi IDCW,INF789F1AVP1,INF789F1AVQ9,Open Ended Schemes,Income/Debt Oriented Schemes - 10-year Constant Maturity Gilt Fund
+150420,UTI Mutual Fund,UTI 10 year Constant Maturity Gilt Fund - Regular Plan - Discontinued Flexi IDCW,INF789F1AVP1,INF789F1AVQ9,Open Ended Schemes,Income/Debt Oriented Schemes - 10-year Constant Maturity Gilt Fund
 150423,UTI Mutual Fund,UTI 10 year Constant Maturity Gilt Fund - Direct Plan - Annual IDCW,INF789F1AVW7,INF789F1AVX5,Open Ended Schemes,Income/Debt Oriented Schemes - 10-year Constant Maturity Gilt Fund
-150424,UTI Mutual Fund,UTI 10 year Constant Maturity Gilt Fund - Direct Plan - Flexi IDCW,INF789F1AVY3,INF789F1AVZ0,Open Ended Schemes,Income/Debt Oriented Schemes - 10-year Constant Maturity Gilt Fund
+150424,UTI Mutual Fund,UTI 10 year Constant Maturity Gilt Fund - Direct Plan - Discontinued Flexi IDCW,INF789F1AVY3,INF789F1AVZ0,Open Ended Schemes,Income/Debt Oriented Schemes - 10-year Constant Maturity Gilt Fund
 150427,DSP Mutual Fund,DSP Nifty Midcap 150 Quality 50 Index Fund - Regular Plan - Growth,INF740KA1QY3,,Open Ended Schemes,Other Scheme - Index Funds
 150428,DSP Mutual Fund,DSP Nifty Midcap 150 Quality 50 Index Fund - Direct Plan - Growth,INF740KA1RB9,,Open Ended Schemes,Other Scheme - Index Funds
 150429,DSP Mutual Fund,DSP Nifty Midcap 150 Quality 50 Index Fund - Direct Plan - IDCW,INF740KA1RC7,INF740KA1RD5,Open Ended Schemes,Other Scheme - Index Funds
@@ -37804,6 +37804,10 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154612,Kotak Mahindra Mutual Fund,Kotak Money Market Fund - Direct Plan - IDCW,INF174KA1F24,INF174KA1F08,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
 154613,Bajaj Finserv Mutual Fund,Bajaj Finserv Money Market Fund - Regular Plan - Weekly-IDCW,INF0QA701CJ8,,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
 154614,Bajaj Finserv Mutual Fund,Bajaj Finserv Money Market Fund - Direct Plan - Weekly-IDCW,INF0QA701CK6,,Open Ended Schemes,Income/Debt Oriented Schemes - Money Market Fund
+154615,SBI Mutual Fund,SBI Balanced Hybrid Fund,,,Open Ended Schemes,Hybrid Schemes - Balanced Hybrid Fund
+154616,SBI Mutual Fund,SBI Balanced Hybrid Fund,,,Open Ended Schemes,Hybrid Schemes - Balanced Hybrid Fund
+154617,SBI Mutual Fund,SBI Balanced Hybrid Fund,,,Open Ended Schemes,Hybrid Schemes - Balanced Hybrid Fund
+154618,SBI Mutual Fund,SBI Balanced Hybrid Fund,,,Open Ended Schemes,Hybrid Schemes - Balanced Hybrid Fund
 154619,Zerodha Mutual Fund,Zerodha Arbitrage Fund - Direct Plan - Growth Option,INF0R8F01232,,Open Ended Schemes,Hybrid Schemes - Arbitrage Fund
 154620,Edelweiss Mutual Fund,Edelweiss Ultra Short Term Fund - Regular Plan - IDCW,INF754K01XW8,INF754K01XX6,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
 154621,Edelweiss Mutual Fund,Edelweiss Ultra Short Term Fund - Direct Plan - Growth,INF754K01XR8,,Open Ended Schemes,Income/Debt Oriented Schemes - Ultra Short Term Fund
