@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Tata Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Floater Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Floating Interest Rates Fund",
         "scheme_code": 149004,
-        "scheme_name": "Tata Floating Rate Fund - Regular Plan - IDCW Monthly Payout Option",
+        "scheme_name": "Tata Floating Interest Rates Fund - Regular Plan - IDCW Monthly Payout Option",
         "isin_growth": "INF277KA1117",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "04-09-2026",
+            "nav": "13.67100"
+        },
         {
             "date": "03-09-2026",
             "nav": "13.66480"

@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 120719,
-        "scheme_name": "UTI Short Term Fund - Direct Plan - Quarterly IDCW",
+        "scheme_name": "UTI Short Term Fund - Direct Plan - Discontinued Quarterly IDCW",
         "isin_growth": "INF789FA1R66",
         "isin_div_reinvestment": "INF789FA1R74"
     },
     "data": [
+        {
+            "date": "04-09-2026",
+            "nav": "20.41270"
+        },
         {
             "date": "03-09-2026",
             "nav": "20.40210"

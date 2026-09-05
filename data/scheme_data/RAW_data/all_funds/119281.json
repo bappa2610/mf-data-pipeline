@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Tata Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Equity Scheme - ELSS",
+        "scheme_category": "Equity Schemes - ELSS- Tax Saver Fund",
         "scheme_code": 119281,
-        "scheme_name": "Tata ELSS Fund - Direct Plan - Payout of IDCW Option",
+        "scheme_name": "Tata ELSS - Tax Saver Fund - Direct Plan - Payout of IDCW Option",
         "isin_growth": "INF277K01I94",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "04-09-2026",
+            "nav": "237.71040"
+        },
         {
             "date": "03-09-2026",
             "nav": "238.03460"

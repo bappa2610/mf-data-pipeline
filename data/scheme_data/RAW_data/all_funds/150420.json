@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - 10-year Constant Maturity Gilt Fund",
         "scheme_code": 150420,
-        "scheme_name": "UTI 10 year Constant Maturity Gilt Fund - Regular Plan - Flexi IDCW",
+        "scheme_name": "UTI 10 year Constant Maturity Gilt Fund - Regular Plan - Discontinued Flexi IDCW",
         "isin_growth": "INF789F1AVP1",
         "isin_div_reinvestment": "INF789F1AVQ9"
     },
     "data": [
+        {
+            "date": "04-09-2026",
+            "nav": "13.10550"
+        },
         {
             "date": "03-09-2026",
             "nav": "13.10010"

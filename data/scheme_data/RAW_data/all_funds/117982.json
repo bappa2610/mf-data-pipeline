@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Credit Risk Fund",
         "scheme_code": 117982,
-        "scheme_name": "UTI - Credit Risk Fund. - Regular Plan - Quarterly IDCW",
+        "scheme_name": "UTI - Credit Risk Fund. - Regular Plan - Discontinued Quarterly IDCW",
         "isin_growth": "INF789F01RA2",
         "isin_div_reinvestment": "INF789F01RB0"
     },
     "data": [
+        {
+            "date": "04-09-2026",
+            "nav": "13.03340"
+        },
         {
             "date": "03-09-2026",
             "nav": "13.02750"

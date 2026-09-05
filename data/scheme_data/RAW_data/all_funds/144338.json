@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Corporate Bond Fund",
         "scheme_code": 144338,
-        "scheme_name": "UTI - Corporate Bond Fund - Regular Plan - Flexi IDCW",
+        "scheme_name": "UTI - Corporate Bond Fund - Regular Plan - Discontinued Flexi IDCW",
         "isin_growth": "INF789F1A512",
         "isin_div_reinvestment": "INF789F1A520"
     },
     "data": [
+        {
+            "date": "04-09-2026",
+            "nav": "15.36780"
+        },
         {
             "date": "03-09-2026",
             "nav": "15.35830"

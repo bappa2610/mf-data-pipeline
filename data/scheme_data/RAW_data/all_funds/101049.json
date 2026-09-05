@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Tata Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Gilt Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Gilt Fund",
         "scheme_code": 101049,
-        "scheme_name": "Tata Gilt Securities Fund - Regular Plan - Payout of IDCW Option",
+        "scheme_name": "Tata Gilt Fund - Regular Plan - Payout of IDCW Option",
         "isin_growth": "INF277K01DN1",
         "isin_div_reinvestment": "INF277K01535"
     },
     "data": [
+        {
+            "date": "04-09-2026",
+            "nav": "22.16560"
+        },
         {
             "date": "03-09-2026",
             "nav": "22.15330"

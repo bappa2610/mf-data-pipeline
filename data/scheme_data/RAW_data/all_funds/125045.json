@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 125045,
-        "scheme_name": "UTI Short Term Fund - Regular Plan - Flexi IDCW",
+        "scheme_name": "UTI Short Term Fund - Regular Plan - Discontinued Flexi IDCW",
         "isin_growth": "INF789FB1T54",
         "isin_div_reinvestment": "INF789FB1T47"
     },
     "data": [
+        {
+            "date": "04-09-2026",
+            "nav": "19.27210"
+        },
         {
             "date": "03-09-2026",
             "nav": "19.26220"

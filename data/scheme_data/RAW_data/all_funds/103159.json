@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Tata Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Low Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short to Short Term Fund",
         "scheme_code": 103159,
-        "scheme_name": "Tata Treasury Advantage Fund - Regular Plan - Growth Option",
+        "scheme_name": "Tata Ultra Short to Short Term Fund - Regular Plan - Growth Option",
         "isin_growth": "INF277K01MA9",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "04-09-2026",
+            "nav": "4224.30180"
+        },
         {
             "date": "03-09-2026",
             "nav": "4222.29580"

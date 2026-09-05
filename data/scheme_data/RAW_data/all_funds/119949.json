@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Tata Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Short Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 119949,
-        "scheme_name": "Tata Short Term Bond Fund - Direct Plan - Growth Option",
+        "scheme_name": "Tata Short Term Fund - Direct Plan - Growth Option",
         "isin_growth": "INF277K01QR4",
         "isin_div_reinvestment": null
     },
     "data": [
+        {
+            "date": "04-09-2026",
+            "nav": "56.53110"
+        },
         {
             "date": "03-09-2026",
             "nav": "56.49370"

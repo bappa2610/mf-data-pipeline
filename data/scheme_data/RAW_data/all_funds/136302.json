@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Credit Risk Fund",
         "scheme_code": 136302,
-        "scheme_name": "UTI - Credit Risk Fund. - Direct Plan - Flexi IDCW",
+        "scheme_name": "UTI - Credit Risk Fund. - Direct Plan - Discontinued Flexi IDCW",
         "isin_growth": "INF789FB1U44",
         "isin_div_reinvestment": "INF789FB1U51"
     },
     "data": [
+        {
+            "date": "04-09-2026",
+            "nav": "13.26430"
+        },
         {
             "date": "03-09-2026",
             "nav": "13.25800"

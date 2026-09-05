@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Short Term Fund",
         "scheme_code": 106980,
-        "scheme_name": "UTI Short Term Fund - Regular Plan - Quarterly IDCW",
+        "scheme_name": "UTI Short Term Fund - Regular Plan - Discontinued Quarterly IDCW",
         "isin_growth": "INF789FC1GD5",
         "isin_div_reinvestment": "INF789FA1R58"
     },
     "data": [
+        {
+            "date": "04-09-2026",
+            "nav": "17.46520"
+        },
         {
             "date": "03-09-2026",
             "nav": "17.45620"

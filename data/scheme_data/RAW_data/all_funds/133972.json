@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Banking and PSU Debt Fund",
         "scheme_code": 133972,
-        "scheme_name": "UTI Banking & PSU Debt Fund - Direct Plan - Flexi IDCW",
+        "scheme_name": "UTI Banking & PSU Debt Fund - Direct Plan - Discontinued Flexi IDCW",
         "isin_growth": "INF789FA1V29",
         "isin_div_reinvestment": "INF789FA1V37"
     },
     "data": [
+        {
+            "date": "04-09-2026",
+            "nav": "20.68370"
+        },
         {
             "date": "03-09-2026",
             "nav": "20.67850"

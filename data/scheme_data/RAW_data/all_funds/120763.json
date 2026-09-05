@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Dynamic Term Fund",
         "scheme_code": 120763,
-        "scheme_name": "UTI Dynamic Term Fund - Direct Plan - Quarterly IDCW",
+        "scheme_name": "UTI Dynamic Term Fund - Direct Plan - Discontinued Quarterly IDCW",
         "isin_growth": "INF789F01XB8",
         "isin_div_reinvestment": "INF789F01XC6"
     },
     "data": [
+        {
+            "date": "04-09-2026",
+            "nav": "27.39090"
+        },
         {
             "date": "03-09-2026",
             "nav": "27.38270"

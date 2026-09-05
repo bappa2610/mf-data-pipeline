@@ -2,13 +2,17 @@
     "meta": {
         "fund_house": "Tata Mutual Fund",
         "scheme_type": "Open Ended Schemes",
-        "scheme_category": "Debt Scheme - Low Duration Fund",
+        "scheme_category": "Income/Debt Oriented Schemes - Ultra Short to Short Term Fund",
         "scheme_code": 115464,
-        "scheme_name": "Tata Treasury Advantage Fund - Regular Plan - Periodic Payout of IDCW Option",
+        "scheme_name": "Tata Ultra Short to Short Term Fund - Regular Plan - Periodic Payout of IDCW Option",
         "isin_growth": "INF277K01MC5",
         "isin_div_reinvestment": "INF277K01ME1"
     },
     "data": [
+        {
+            "date": "04-09-2026",
+            "nav": "2677.47800"
+        },
         {
             "date": "03-09-2026",
             "nav": "2676.20650"

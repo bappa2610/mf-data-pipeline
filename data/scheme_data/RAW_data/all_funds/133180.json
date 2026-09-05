@@ -4,11 +4,15 @@
         "scheme_type": "Open Ended Schemes",
         "scheme_category": "Income/Debt Oriented Schemes - Dynamic Term Fund",
         "scheme_code": 133180,
-        "scheme_name": "UTI Dynamic Term Fund - Direct Plan - Flexi IDCW",
+        "scheme_name": "UTI Dynamic Term Fund - Direct Plan - Discontinued Flexi IDCW",
         "isin_growth": "INF789FA1S81",
         "isin_div_reinvestment": "INF789FA1S99"
     },
     "data": [
+        {
+            "date": "04-09-2026",
+            "nav": "17.86260"
+        },
         {
             "date": "03-09-2026",
             "nav": "17.85730"
