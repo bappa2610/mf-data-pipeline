@@ -460,7 +460,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 102010,UTI Mutual Fund,UTI - Liquid Fund,,INF789F1AF77,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 102011,UTI Mutual Fund,UTI - Liquid Fund,INF789F1AF93,INF789F1AG01,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 102012,UTI Mutual Fund,UTI - Liquid Fund,INF789F1AF85,,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
-102013,UTI Mutual Fund,UTI - Liquid Fund,,INF789F1AG19,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+102013,UTI Mutual Fund,UTI - Liquid Fund,INF789F1AH83,INF789F1AG19,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 102020,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Multi Cap Fund,INF955L01674,,Open Ended Schemes,Equity Scheme - Multi Cap Fund
 102021,Baroda BNP Paribas Mutual Fund,Baroda BNP Paribas Multi Cap Fund,INF955L01658,INF955L01666,Open Ended Schemes,Equity Scheme - Multi Cap Fund
 102036,Tata Mutual Fund,Tata Large Cap Fund,INF277K01EG3,INF277K01923,Open Ended Schemes,Equity Scheme - Large Cap Fund
@@ -2839,7 +2839,7 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 120766,UTI Mutual Fund,UTI Retirement Fund,INF789F1AA64,,Open Ended Schemes,Solution Oriented Scheme - Retirement Fund
 120771,UTI Mutual Fund,UTI Children's Hybrid Fund,INF789F1AZR8,,Open Ended Schemes,Solution Oriented Scheme - Childrenâs Fund
 120772,UTI Mutual Fund,UTI - Money Market Fund,,INF789F01XU8,Open Ended Schemes,Debt Scheme - Money Market Fund
-120777,UTI Mutual Fund,UTI - Liquid Fund,,INF789F1AD79,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
+120777,UTI Mutual Fund,UTI - Liquid Fund,INF789F1AH75,INF789F1AD79,Open Ended Schemes,Income/Debt Oriented Schemes - Liquid Fund
 120778,UTI Mutual Fund,UTI Conservative Hybrid Fund,INF789F01UK5,INF789F01UL3,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund
 120779,UTI Mutual Fund,UTI Conservative Hybrid Fund,INF789F01UJ7,,Open Ended Schemes,Hybrid Schemes - Conservative Hybrid Fund
 120780,UTI Mutual Fund,UTI - India Consumer Fund,INF789F01VF3,,Open Ended Schemes,Equity Schemes - Thematic Fund
@@ -10180,14 +10180,14 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 149070,Tata Mutual Fund,Tata Business Cycle Fund,INF277KA1208,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 149071,Tata Mutual Fund,Tata Business Cycle Fund,INF277KA1166,,Open Ended Schemes,Equity Scheme - Sectoral/ Thematic
 149072,ICICI Prudential Mutual Fund,ICICI Prudential Nifty FMCG ETF,INF109KC19V3,,Open Ended Schemes,Other Scheme - Other  ETFs
-149073,Trust Mutual Fund,TRUSTMF Short Duration Fund,INF0GCD01313,,Open Ended Schemes,Debt Scheme - Short Duration Fund
-149074,Trust Mutual Fund,TRUSTMF Short Duration Fund,,INF0GCD01321,Open Ended Schemes,Debt Scheme - Short Duration Fund
-149075,Trust Mutual Fund,TRUSTMF Short Duration Fund,INF0GCD01354,INF0GCD01362,Open Ended Schemes,Debt Scheme - Short Duration Fund
-149076,Trust Mutual Fund,TRUSTMF Short Duration Fund,INF0GCD01370,,Open Ended Schemes,Debt Scheme - Short Duration Fund
-149077,Trust Mutual Fund,TRUSTMF Short Duration Fund,,INF0GCD01388,Open Ended Schemes,Debt Scheme - Short Duration Fund
-149078,Trust Mutual Fund,TRUSTMF Short Duration Fund,INF0GCD01396,INF0GCD01404,Open Ended Schemes,Debt Scheme - Short Duration Fund
-149079,Trust Mutual Fund,TRUSTMF Short Duration Fund,INF0GCD01412,INF0GCD01420,Open Ended Schemes,Debt Scheme - Short Duration Fund
-149080,Trust Mutual Fund,TRUSTMF Short Duration Fund,INF0GCD01339,INF0GCD01347,Open Ended Schemes,Debt Scheme - Short Duration Fund
+149073,Trust Mutual Fund,TRUSTMF Short Term Fund,INF0GCD01313,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+149074,Trust Mutual Fund,TRUSTMF Short Term Fund,,INF0GCD01321,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+149075,Trust Mutual Fund,TRUSTMF Short Term Fund,INF0GCD01354,INF0GCD01362,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+149076,Trust Mutual Fund,TRUSTMF Short Term Fund,INF0GCD01370,,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+149077,Trust Mutual Fund,TRUSTMF Short Term Fund,,INF0GCD01388,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+149078,Trust Mutual Fund,TRUSTMF Short Term Fund,INF0GCD01396,INF0GCD01404,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+149079,Trust Mutual Fund,TRUSTMF Short Term Fund,INF0GCD01412,INF0GCD01420,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
+149080,Trust Mutual Fund,TRUSTMF Short Term Fund,INF0GCD01339,INF0GCD01347,Open Ended Schemes,Income/Debt Oriented Schemes - Short Term Fund
 149085,Canara Robeco Mutual Fund,Canara Robeco Value Fund,INF760K01JW4,,Open Ended Schemes,Equity Schemes - Value Fund
 149086,Canara Robeco Mutual Fund,Canara Robeco Value Fund,INF760K01JY0,INF760K01JX2,Open Ended Schemes,Equity Schemes - Value Fund
 149087,Canara Robeco Mutual Fund,Canara Robeco Value Fund,INF760K01KB6,INF760K01KA8,Open Ended Schemes,Equity Schemes - Value Fund
@@ -36540,10 +36540,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154500,ITI Asset Management Limited,ITI Multi Asset Allocation Fund- Regular Plan- Growth Option,INF00XX01DP2,,Open Ended,Hybrid Schemes - Multi Asset Allocation Fund
 154515,Quantum Asset Management Company Private Limited,Quantum Flexi Cap Fund - Direct Plan Growth Option,INF082J01507,,Open Ended,Equity Schemes - Flexi Cap Fund
 154516,Quantum Asset Management Company Private Limited,Quantum Flexi Cap Fund - Regular Plan Growth Option,INF082J01515,,Open Ended,Equity Schemes - Flexi Cap Fund
-154544,Invesco Asset Management (India) Private Limited,Invesco India Pharma and Healthcare Fund - Regular Fund - IDCW Plan,INF205KA1BV9,INF205KA1BW7,Open Ended,Equity Schemes - Sectoral Fund
-154545,Invesco Asset Management (India) Private Limited,Invesco India Pharma and Healthcare Fund - Regular Plan - Growth,INF205KA1BU1,,Open Ended,Equity Schemes - Sectoral Fund
-154546,Invesco Asset Management (India) Private Limited,Invesco India Pharma and Healthcare Fund - Direct Plan - IDCW Plan,INF205KA1BY3,INF205KA1BZ0,Open Ended,Equity Schemes - Sectoral Fund
-154547,Invesco Asset Management (India) Private Limited,Invesco India Pharma and Healthcare Fund - Direct Plan - Growth,INF205KA1BX5,,Open Ended,Equity Schemes - Sectoral Fund
 154563,ICICI Prudential Asset Management Company Limited,ICICI Prudential Life Cycle Fund 2031 - Growth,,,Open Ended,Life Cycle Funds - Life Cycle Fund with Maturity of 5 Years
 154564,ICICI Prudential Asset Management Company Limited,ICICI Prudential Life Cycle Fund 2031 - Direct Plan - Growth,,,Open Ended,Life Cycle Funds - Life Cycle Fund with Maturity of 5 Years
 154577,ICICI Prudential Asset Management Company Limited,ICICI Prudential Life Cycle Fund 2036 - Growth,,,Open Ended,Life Cycle Funds - Life Cycle Fund with Maturity of 10 Years
@@ -36565,9 +36561,9 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154694,Bank of India Investment Managers Private Limited,Bank of India Value Fund - Direct - IDCW,INF761K01HL9,INF761K01HM7,Open Ended,Equity Schemes - Value Fund
 154695,Bank of India Investment Managers Private Limited,Bank of India Value Fund - Regular - Growth,INF761K01HN5,,Open Ended,Equity Schemes - Value Fund
 154697,Zerodha Asset Management Private Limited,Zerodha Life Cycle Fund 2031,,,Open Ended,Life Cycle Funds - Life Cycle Fund with Maturity of 5 Years
-154698,UTI Asset Mgmt. Co. Ltd.,UTI BSE India Sector Leaders Exchange Traded Fund,,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
-154699,UTI Asset Mgmt. Co. Ltd.,UTI BSE India Sector Leaders Index Fund,,,Open Ended,Index Funds - Equity Funds
-154700,UTI Asset Mgmt. Co. Ltd.,UTI BSE India Sector Leaders Index Fund Regular Plan,,,Open Ended,Index Funds - Equity Funds
+154698,UTI Asset Mgmt. Co. Ltd.,UTI BSE India Sector Leaders Exchange Traded Fund,INF789F1AH42,,Open Ended,Exchange Traded Funds (ETFs) - Equity ETF
+154699,UTI Asset Mgmt. Co. Ltd.,UTI BSE India Sector Leaders Index Fund,INF789F1AH67,,Open Ended,Index Funds - Equity Funds
+154700,UTI Asset Mgmt. Co. Ltd.,UTI BSE India Sector Leaders Index Fund Regular Plan,INF789F1AH59,,Open Ended,Index Funds - Equity Funds
 154701,Jio BlackRock Asset Management Private Limited,JioBlackRock Balanced Advantage Fund,INF22M001366,,Open Ended,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
 154702,Jio BlackRock Asset Management Private Limited,JioBlackRock Balanced Advantage Fund - Regular Plan - Growth Option,INF22M001374,,Open Ended,Hybrid Schemes - Balanced Advantage Fund/ Dynamic Asset Allocation
 154703,Navi AMC Limited,Navi Nifty Reits & Realty Undex Fund- Regular Plan,INF959L01HU8,,Open Ended,Index Funds - Equity Funds
@@ -36578,14 +36574,6 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154709,Monarch Networth Asset Management Private Limited,Monarch Overnight Fund- Regular Plan- Monthly IDCW,,,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
 154710,Monarch Networth Asset Management Private Limited,Monarch Overnught Fund- Regular Plan - Daily IDCW,,,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
 154711,Monarch Networth Asset Management Private Limited,Monarch Overnight Fund- Regular Plan Growth,,,Open Ended,Income/Debt Oriented Schemes - Overnight Fund
-154712,Invesco Asset Management (India) Private Limited,Invesco India Nifty India Defence Index Fund - Direct Plan - Growth,INF205KA1CG8,,Open Ended,Index Funds - Equity Funds
-154713,Invesco Asset Management (India) Private Limited,Invesco India Nifty India Defence Index Fund - Regular Plan - Growth,INF205KA1CD5,,Open Ended,Index Funds - Equity Funds
-154714,Invesco Asset Management (India) Private Limited,Invesco India Nifty India Defence Index Fund - Direct Plan - IDCW,INF205KA1CH6,INF205KA1CI4,Open Ended,Index Funds - Equity Funds
-154715,Invesco Asset Management (India) Private Limited,Invesco India Nifty India Defence Index Fund - Regular Plan - IDCW,INF205KA1CE3,INF205KA1CF0,Open Ended,Index Funds - Equity Funds
-154716,Invesco Asset Management (India) Private Limited,Invesco India Nifty Chemical Index Fund - Regular Plan - Growth,INF205KA1CJ2,,Open Ended,Index Funds - Equity Funds
-154717,Invesco Asset Management (India) Private Limited,Invesco India Nifty Chemical Index Fund - Regular Plan - IDCW,INF205KA1CK0,INF205KA1CL8,Open Ended,Index Funds - Equity Funds
-154718,Invesco Asset Management (India) Private Limited,Invesco India Nifty Chemical Index Fund - Direct Plan - IDCW,INF205KA1CN4,INF205KA1CO2,Open Ended,Index Funds - Equity Funds
-154719,Invesco Asset Management (India) Private Limited,Invesco India Nifty Chemical Index Fund - Direct Plan - Growth,INF205KA1CM6,,Open Ended,Index Funds - Equity Funds
 154720,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset BSE Information Technology Index Fund - Direct Plan - Growth,INF769K01RO5,,Open Ended,Index Funds - Equity Funds
 154721,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset BSE Information Technology Index Fund - Direct Plan - IDCW,INF769K01RQ0,INF769K01RP2,Open Ended,Index Funds - Equity Funds
 154722,Mirae Asset Investment Managers (India) Pvt. Ltd,Mirae Asset BSE Information Technology Index Fund - Regular Plan - Growth,INF769K01RL1,,Open Ended,Index Funds - Equity Funds
@@ -36608,3 +36596,13 @@ SchemeCode,AMC,SchemeName,ISIN,ISINdivReinvestment,SchemeType,Category
 154741,ICICI Prudential Asset Management Company Limited,ICICI Prudential Contra Fund - Growth,,,Open Ended,Equity Schemes - Contra Fund
 154742,ICICI Prudential Asset Management Company Limited,ICICI Prudential Contra Fund - IDCW,,,Open Ended,Equity Schemes - Contra Fund
 154743,ICICI Prudential Asset Management Company Limited,ICICI Prudential Contra Fund - Direct Plan - IDCW,,,Open Ended,Equity Schemes - Contra Fund
+154746,Tata Asset Management Limited,Tata CRISIL-IBX Financial Services 3-6 Months Debt Index Fund-Regular Plan-IDCW Reinvestment,INF277KA1FA7,,Open Ended,Index Funds - Debt Funds
+154747,Tata Asset Management Limited,Tata CRISIL-IBX Financial Services 3-6 Months Debt Index Fund-Direct Plan-Growth,INF277KA1FB5,,Open Ended,Index Funds - Debt Funds
+154748,Tata Asset Management Limited,Tata CRISIL-IBX Financial Services 3-6 Months Debt Index Fund-Direct Plan-IDCW Payout,INF277KA1FC3,,Open Ended,Index Funds - Debt Funds
+154749,Tata Asset Management Limited,Tata CRISIL-IBX Financial Services 3-6 Months Debt Index Fund-Direct Plan-IDCW Reinvestment,INF277KA1FD1,,Open Ended,Index Funds - Debt Funds
+154744,Tata Asset Management Limited,Tata CRISIL-IBX Financial Services 3-6 Months Debt Index Fund-Regular Plan-Growth,INF277KA1EY0,,Open Ended,Index Funds - Debt Funds
+154745,Tata Asset Management Limited,Tata CRISIL-IBX Financial Services 3-6 Months Debt Index Fund-Regular Plan-IDCW Payout,INF277KA1EZ7,,Open Ended,Index Funds - Debt Funds
+154750,HDFC Asset Management Company Limited,HDFC BSE REITS and Commercial Real Estate Index Fund- IDCW Option,,,Open Ended,Index Funds - Equity Funds
+154751,HDFC Asset Management Company Limited,HDFC BSE REITS and Commercial Real Estate Index fund-Direct Plan - IDCW Option,,,Open Ended,Index Funds - Equity Funds
+154752,HDFC Asset Management Company Limited,HDFC BSE REITS and Commercial Real Estate Index Fund-IDCW Option,,,Open Ended,Index Funds - Equity Funds
+154753,HDFC Asset Management Company Limited,HDFC BSE REITS and Commercial Real Estate Index Fund-Direct Plan-Growth Option,,,Open Ended,Index Funds - Equity Funds
